@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""C2 (analyses/perturbation_checks): P3a at contrast level without series GSE115646.  Descriptive, added after the primary result;
+"""C2 (analyses/perturbation_sensitivity): P3a at contrast level without series GSE115646.  Descriptive, added after the primary result;
 the 27d decisions are unchanged (SETTINGS.md, C2).  Every GSE115646 row of the 27d per-dataset table is removed, the other
 contrasts are kept as they are (no replacement is drawn), and each tier is pooled by REML as in 27d.
 Input: analyses/perturbation_tests/P3/p3a_per_dataset.tsv and p3a_pooled.tsv (read only).

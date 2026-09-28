@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""C3 (analyses/perturbation_checks): P2 mouse, leaving one series out.  Descriptive, added after the primary result; the 27d
+"""C3 (analyses/perturbation_sensitivity): P2 mouse, leaving one series out.  Descriptive, added after the primary result; the 27d
 decisions are unchanged (SETTINGS.md, C3).  For the six-node class test and the site-adjusted TargetScan coefficient, every
 series (GSE) with a contrast in the test is removed in turn, with all of its contrasts, and the rest are pooled by REML.
 Input: analyses/perturbation_tests/P2/p2_datasets.tsv (read only).

@@ -18,7 +18,7 @@ nothing else changes.  Stored per-set flags reused (not re-run):
   core=n3, GG=n4, GG+MM=n5, GG+MM+TT=n6  results/v3/dynamics_higher_order_persetset.csv.gz
                                           (I1_miRNA_FFL, COMP_C2_toggle) and ..._compI1.csv.gz
                                           (COMP_I1_negfeedback)
-  COMP_C2_toggle TT                       analyses/dynamics_checks/c3_persetset.csv.gz (n4tf)
+  COMP_C2_toggle TT                       analyses/dynamics_controls/c3_persetset.csv.gz (n4tf)
 The stored COMP_I1_negfeedback modules are verified first by re-running sets 0-2047 of n3 and n6.
 
 S3 variants (COMP_C2_toggle six-node module, one sign changed each):

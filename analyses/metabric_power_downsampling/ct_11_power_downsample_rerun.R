@@ -3,7 +3,7 @@
 # Downsample METABRIC to TCGA's event count and re-run the identical hub Cox screen.
 suppressMessages({library(survival)})
 set.seed(42)
-RES  <- "/path/to/revision/analyses/metabric_power_check/"
+RES  <- "/path/to/revision/analyses/metabric_power_downsampling/"
 DATA <- "/path/to/revision/data/"
 mb <- readRDS(paste0(DATA,"metabric.rds")); M <- mb$M; cl <- as.data.frame(mb$cl)
 rownames(cl) <- cl$PATIENT_ID; cl <- cl[colnames(M),]

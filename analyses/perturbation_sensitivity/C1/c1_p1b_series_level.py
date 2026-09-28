@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""C1 (analyses/perturbation_checks): P1b fibroblast lineage vs carcinoma at series level.  Descriptive, added after the primary
+"""C1 (analyses/perturbation_sensitivity): P1b fibroblast lineage vs carcinoma at series level.  Descriptive, added after the primary
 result; the 27d decision is unchanged (SETTINGS.md, C1).
 The contrasts of one series are averaged: the sign-aligned value is the unweighted mean over the series' contrasts with a
 value, and its SE is the mean of their SEs (the rule of the 27d P3a series check).  The series are then compared by REML

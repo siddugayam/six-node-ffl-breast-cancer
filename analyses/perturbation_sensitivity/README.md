@@ -1,6 +1,6 @@
-# Later checks of the perturbation tests (Supplementary Notes S1 and S2)
+# Sensitivity analyses of the perturbation tests (Supplementary Notes S1 and S2)
 
-Three descriptive checks added after the primary results. They read the result tables of `analyses/perturbation_tests/`.
+Three sensitivity analyses of the primary results. They read the result tables of `analyses/perturbation_tests/`.
 
 - `C1/c1_p1b_series_level.py`: the miR-29 fibroblast–carcinoma difference with the cell lines of each series averaged.
 - `C2/c2_p3a_without_gse115646.py`: the strong-tier shift without the GSE115646 series.

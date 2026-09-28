@@ -11,7 +11,7 @@ minus every miRNA->TF arc whose TF->miRNA reverse exists (the census builder's r
     equations, DEF = the layer-defining edges only).  Counted here independently of the C counter
     (S1/s1_null6, OBS mode) and compared with it.  The signed edge list of every six-node module comes
     from dyn_models.py and is checked against the Jacobian signs stored in
-    analyses/dynamics_checks/c2_interaction_signs.csv (COMP_C2_toggle and I1_miRNA_FFL);
+    analyses/dynamics_controls/c2_interaction_signs.csv (COMP_C2_toggle and I1_miRNA_FFL);
     COMP_I1 differs from COMP_C2_toggle only in the sign of TF1 -> miRNA (s_TM = +1).
 (b) overlaps between EA6 circuits, BHAT6 sets, CENSUS6 (c)-with-core modules and MODEL6 sets.
 """
@@ -146,7 +146,7 @@ P('MODEL6 FULL (with STRING) nodes: TF1', sorted({names[i[0]] for i in FULL}), '
   '| G1', sorted({names[i[4]] for i in FULL}), '| G2', sorted({names[i[5]] for i in FULL}))
 
 # ---------------- signed edge lists (S0c) ----------------
-J = list(csv.DictReader(open(f'{REV}/analyses/dynamics_checks/c2_interaction_signs.csv')))
+J = list(csv.DictReader(open(f'{REV}/analyses/dynamics_controls/c2_interaction_signs.csv')))
 jac = {(r['family'], r['source'], r['target']): r['sign'] for r in J if r['module'] == 'n6'}
 node = lambda s: s.split('_')[0]
 E = [  # (source, target, sign C2 / I1-composite / I1 miRNA-FFL, mechanism, layer, network arc, FULL, DEF)
