@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Certification of sustained oscillation for every S2/S3 module, exactly as
-scripts/v3/03f_n6_limit_cycle_certification.py does it for COMP_C2_toggle n6:
+scripts/11_dynamics/03f_n6_limit_cycle_certification.py does it for COMP_C2_toggle n6:
 every set flagged is_sustained_osc by the sweep is re-integrated for 1,000 tau (DT 0.01, input S = 2.0,
 target protein recorded every 20 steps) from two initial conditions (all active states 0, and all 1.5);
 certified = relative peak-to-peak amplitude over the last 25 % > 2 % from both, the two amplitudes within

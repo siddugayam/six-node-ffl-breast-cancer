@@ -14,7 +14,7 @@ graph_nolegacy_labels.txt  one layer label per arc line of that file, in the sam
     5 gene_gene, STRING        (census layer, NOT in the analysed network; oriented alphabetically)
     6 miRNA_miRNA, 10 kb       (census layer, NOT in the analysed network; both directions)
 The layer of each arc comes from the census graph builder itself
-(scripts/v7/03_ffl_census_nolegacymirna.py, build_graph(True), before contraction), and 'analysed
+(scripts/03_ffl_census/03_ffl_census_nolegacymirna.py, build_graph(True), before contraction), and 'analysed
 network' = data/canonical_edges.tsv minus its 30 miRNA_miRNA rows (6,829 edges).
 node_names.txt             node index -> name (the order of the null-format meta file)
 """
@@ -25,7 +25,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = f'{REV}/analyses/census_and_motif_nulls/graphs/null_pub_nolegacy.txt'
 
 os.environ['DROP_LEGACY_MIRNA'] = '1'
-spec = importlib.util.spec_from_file_location('m', f'{REV}/scripts/v7/03_ffl_census_nolegacymirna.py')
+spec = importlib.util.spec_from_file_location('m', f'{REV}/scripts/03_ffl_census/03_ffl_census_nolegacymirna.py')
 m = importlib.util.module_from_spec(spec); sys.argv = ['x', '3']; spec.loader.exec_module(m)
 nodes, edges, nrecip = m.build_graph(True)            # contracted
 assert nrecip == 1223 and len(edges) == 8003

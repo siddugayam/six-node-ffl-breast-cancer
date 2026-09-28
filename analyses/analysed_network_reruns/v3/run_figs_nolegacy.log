@@ -7,7 +7,7 @@ Traceback (most recent call last):
   File "<frozen runpy>", line 287, in run_path
   File "<frozen runpy>", line 98, in _run_module_code
   File "<frozen runpy>", line 88, in _run_code
-  File "/path/to/revision/scripts/v3/10_figures.py", line 30, in <module>
+  File "/path/to/revision/scripts/05_network_architecture/10_figures.py", line 30, in <module>
     nulls = json.load(open(f'{RES}/systems_architecture_nulls.json'))
                       ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: '/path/to/revision/analyses/analysed_network_reruns/v3/out_nolegacy_hash0/systems_architecture_nulls.json'

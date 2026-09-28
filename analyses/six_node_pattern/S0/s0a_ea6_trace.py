@@ -3,9 +3,9 @@
 S0(a): trace the EA6 objects (analyses/six_node_pattern).  Read-only on the project; writes into this folder.
 
 EA6 objects and the scripts that built them
-  scripts/11_ffl_module_membership.R  (2026-09-08 16:56) -> data/ffl_module_sets.rds,
+  scripts/03_ffl_census/11_ffl_module_membership.R  (2026-09-08 16:56) -> data/ffl_module_sets.rds,
       results/ffl_module_membership.csv: N3..N6 node sets and HIGHER_ONLY = N6 minus N3
-  scripts/13_circuit_level_3node_vs_6node.R (2026-09-08 17:07) -> results/circuit_level_3node_vs_6node.csv:
+  scripts/10_survival_and_clinical/cox_models/13_circuit_level_3node_vs_6node.R (2026-09-08 17:07) -> results/circuit_level_3node_vs_6node.csv:
       2,000 six-node circuits sampled (seed 1234), 1,989 distinct, each with its own three-node core
 Both scripts use the same link sets, re-derived here exactly as they build them:
   three-node core  TF->miRNA  data/layer_TF_miRNA.tsv; TF->Gene data/layer_TF_target.tsv (TF-typed source,

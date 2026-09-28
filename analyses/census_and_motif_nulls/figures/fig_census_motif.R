@@ -1,5 +1,5 @@
 # Census and motif-significance figure, rebuilt from the analyses/census_and_motif_nulls re-runs.
-# Same layout, theme and panel logic as scripts/v6/11_fig_census_motif.R, but every number is read
+# Same layout, theme and panel logic as scripts/15_figures_and_tables/11_fig_census_motif.R, but every number is read
 # from the re-run tables instead of being typed in, and the output goes to this folder only.
 # usage: Rscript fig_census_motif.R <census graph variant> <null graph> <output stem>
 #   census variant: table3 | nolegacy | table3_nostring | nolegacy_nostring
@@ -9,7 +9,7 @@ args <- commandArgs(trailingOnly=TRUE)
 VAR <- args[1]; NULLG <- args[2]; STEM <- args[3]
 REV <- "/path/to/revision"
 HERE <- file.path(REV, "analyses/census_and_motif_nulls")
-source(file.path(REV, "scripts/v6/10_theme.R"))
+source(file.path(REV, "scripts/15_figures_and_tables/10_theme.R"))
 
 # ---- panel a: census -----------------------------------------------------------------
 cc <- fread(file.path(HERE, "census/census_all_graphs.csv"))[graph == VAR]

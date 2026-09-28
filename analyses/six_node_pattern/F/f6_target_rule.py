@@ -5,7 +5,7 @@ F6: target rule of the named-class D1-D4 three-node FFLs (analyses/six_node_patt
 Graphs = the null-format inputs of the stored motif runs (analyses/census_and_motif_nulls/graphs):
   null_dep.txt           deposited network, 6,859 edges (30 legacy miRNA-miRNA edges included)
   null_dep_nolegacy.txt  analysed network, 6,829 edges
-Enumeration = count3() of scripts/v2/v2_null.c, written out instance by instance: contract every
+Enumeration = count3() of scripts/04_motif_significance/v2_null.c, written out instance by instance: contract every
 reciprocal TF<->miRNA pair to its TF->miRNA arc; for every arc u->v of the contracted graph without a
 reverse arc, every T with u->T and v->T and no arc from T to u or v is one FFL.  Class by the u->v arc:
 composite (reciprocal TF->miRNA), TF-FFL (non-reciprocal TF->miRNA), miRNA-FFL (miRNA->TF), other.

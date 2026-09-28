@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """F3: node compendium section a (Note S5 source) recomputed on the analysed network.
-Method copied from scripts/v5/40_node_compendium_assemble.py section 1: networkx DiGraph on
+Method copied from scripts/06_node_prioritisation/40_node_compendium_assemble.py section 1: networkx DiGraph on
 data/canonical_edges.tsv (all 587 nodes added first), in/out-degree, directed betweenness (raw and
 normalised) and betweenness of the undirected simple graph.  Here the 30 miRNA_miRNA rows are dropped
 (analysed network, 6,829 edges).  The stored values are recomputed with the same code on the full

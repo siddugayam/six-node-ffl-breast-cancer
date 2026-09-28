@@ -17,7 +17,7 @@ import numpy as np, pandas as pd
 
 REV = "/path/to/revision"
 OUT = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, f"{REV}/scripts/v3")
+sys.path.insert(0, f"{REV}/scripts/11_dynamics")
 import dyn_models as D, dyn_sample as SMP
 import dataclasses
 

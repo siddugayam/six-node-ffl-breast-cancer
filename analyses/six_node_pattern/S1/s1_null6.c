@@ -1,14 +1,14 @@
 /* s1_null6.c -- S1 of analyses/six_node_pattern: are six-node patterns over-represented?
  *
  * Graph: the census graph without the legacy miRNA-miRNA arcs ('nolegacy'), in the null format of
- * scripts/v2/v2_null.c (uncontracted, 9,226 arcs, fine class = source type -> target type), plus one
+ * scripts/04_motif_significance/v2_null.c (uncontracted, 9,226 arcs, fine class = source type -> target type), plus one
  * layer label per arc (make_s1_inputs.py):
  *   0 TF_miRNA  1 miRNA_target  2 TF_target (analysed)  3 TF_target (TRRUST census layer)
  *   4 gene_gene (deposit, analysed)  5 gene_gene (STRING census layer, oriented low->high index =
  *   alphabetical)  6 miRNA_miRNA (10 kb census layer, both directions)
  *
  * RANDOMISATION
- *  NULL-A/B/C  verbatim copy of scripts/v2/v2_null.c: same xorshift64 stream, same groups, same order
+ *  NULL-A/B/C  verbatim copy of scripts/04_motif_significance/v2_null.c: same xorshift64 stream, same groups, same order
  *              of draws, each replicate restarting from the observed graph.  Replicate r is therefore
  *              the graph behind row r of the stored runs, which the three-node counts check.
  *              Layer labels travel with the arc index (a Maslov-Sneppen swap changes only the target).
@@ -35,7 +35,7 @@
  *              analyses/six_node_pattern_networks/build_bhat_networks.py (composite, miRNA-FFL, TF-FFL:
  *              role assignments and distinct six-node sets) and the three-node composite (M1<->T1,
  *              M1->G1, T1->G1)
- *  MODEL6      COMP_C2_toggle six-node architecture of scripts/v3/dyn_models.py, sign-agnostic,
+ *  MODEL6      COMP_C2_toggle six-node architecture of scripts/11_dynamics/dyn_models.py, sign-agnostic,
  *              non-induced, TF1 TF2 TF-typed, miR1 miR2 miRNA, G1 G2 non-miRNA, all distinct:
  *              FULL (every interaction in the n6 equations):
  *                TF1->miR1, miR1->TF1, miR1->G1, TF1->G1                          (core)
@@ -87,7 +87,7 @@ static inline int has(int u,int v){ return (ADJ[u][v>>6]>>(v&63))&1ULL; }
 static inline void setE(int u,int v){ ADJ[u][v>>6]|=1ULL<<(v&63); }
 static inline void clrE(int u,int v){ ADJ[u][v>>6]&=~(1ULL<<(v&63)); }
 
-/* ===================== verbatim from scripts/v2/v2_null.c (randomisation) ===================== */
+/* ===================== verbatim from scripts/04_motif_significance/v2_null.c (randomisation) ===================== */
 typedef struct { int *idx; int n; int kind; } Group;   /* kind 0=MS swap, 1=curveball */
 static Group grp[MAXC*2]; static int ngrp=0;
 static int frozen[MAXE];

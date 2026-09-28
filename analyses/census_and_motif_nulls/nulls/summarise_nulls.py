@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Summarise the null runs with the formulas of scripts/v2/v2_analyse_null.py (Z, fold,
+"""Summarise the null runs with the formulas of scripts/04_motif_significance/v2_analyse_null.py (Z, fold,
 p = (1 + #{random >= obs}) / (R + 1)).  Writes nulls/motif_nulls_all_graphs.csv."""
 import os, csv
 import numpy as np

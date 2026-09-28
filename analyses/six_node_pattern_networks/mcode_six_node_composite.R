@@ -1,12 +1,12 @@
 ## MCODE on the six-node composite FFL network, as in Bhat et al. (2024) section 2.8: ClusterMaker MCODE
 ## defaults with the haircut method, k-core 2 and max depth 100 (degree cutoff 2, node score cutoff 0.2, no
-## fluff), run through scripts/v7/mcode.R, the Cytoscape-faithful port.  Then edge betweenness inside the
+## fluff), run through scripts/14_module_detection/mcode.R, the Cytoscape-faithful port.  Then edge betweenness inside the
 ## top-ranked cluster.  The network is undirected; reciprocal M<->T and T<->T pairs collapse to one edge.
 ## Node order, which breaks ties between equal node scores, is first appearance in the SIF, the order in
 ## which Cytoscape creates nodes when it imports the file.  100 random node orders test that tie-break.
 REV  <- "/path/to/revision"
 HERE <- file.path(REV, "analyses/six_node_pattern_networks")
-source(file.path(REV, "scripts/v7/mcode.R"))
+source(file.path(REV, "scripts/14_module_detection/mcode.R"))
 suppressPackageStartupMessages(library(igraph))
 set.seed(20260927)
 

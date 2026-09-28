@@ -10,7 +10,7 @@ in-degree 0.  Hence, exactly and independently of M:
   critical      driver in every maximum matching   (in-degree 0)
   intermittent  driver in some, not all
   redundant     driver in none
-The hub test of scripts/v3/12_controllability_degree_control.py is repeated on 'can be a driver'
+The hub test of scripts/05_network_architecture/12_controllability_degree_control.py is repeated on 'can be a driver'
 (critical or intermittent): logistic regression on log(degree+1) and node type, and degree-matched
 resampling (same design and seed).  Deletion classes are taken from 03_controllability.py's output
 (they are deterministic).
@@ -21,7 +21,7 @@ import networkx as nx
 from networkx.algorithms.bipartite import hopcroft_karp_matching
 import statsmodels.api as sm
 sys.dont_write_bytecode = True
-V3 = '/path/to/revision/scripts/v3'
+V3 = '/path/to/revision/scripts/05_network_architecture'
 HERE = os.path.dirname(os.path.abspath(__file__))
 mode = sys.argv[1]; OUT = os.path.join(HERE, f'out_{mode}_hash0')
 sys.path.insert(0, V3)

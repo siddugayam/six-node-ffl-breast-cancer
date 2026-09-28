@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Verifies the stored COMP_I1 sweep (results/v3/dynamics_higher_order_persetset_compI1.csv.gz, written by
-scripts/v3/03d_higher_order_compI1.py on 2026-09-09) before reusing it: sets 0-2047 of the core (n3) and of the
+scripts/11_dynamics/03d_higher_order_compI1.py on 2026-09-09) before reusing it: sets 0-2047 of the core (n3) and of the
 six-node module (n6) were re-run with the current code (perset/COMP_I1_negfeedback__{core,GG+MM+TT}@verify.csv.gz)
 and are compared set by set with the stored values, as C3 of the first re-runs did for COMP_C2_toggle."""
 import os, sys

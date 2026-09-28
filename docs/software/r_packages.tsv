@@ -1,0 +1,98 @@
+package	version	source	used_by	note
+AnnotationDbi	1.70.0	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+BayesPrism	2.2.3	GitHub Danko-Lab/BayesPrism@19052052a6f30833b27e2148294459b0ba2f923e (subdir BayesPrism)	main analyses	
+Biobase	2.68.0	Bioconductor 3.21 (bioc)	main analyses	
+BiocManager	1.30.27	CRAN	installer	
+BiocParallel	1.42.2	Bioconductor 3.21 (bioc)	main analyses	
+BioNet	1.68.0	Bioconductor 3.21 (bioc)	main analyses	
+CellChat	2.2.0.9001	GitHub jinworks/CellChat@75253cd0c9e68410e6e721a6d3a0419a1d7e358f	main analyses	
+clariomshumantranscriptcluster.db	8.8.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+clusterProfiler	4.16.0	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+ConsensusTME	0.0.1.9000	GitHub cansysbio/ConsensusTME@6e14ba3d09e39d48b5b9a6b5fa9cd10296cce06a	main analyses	
+cowplot	1.2.0	CRAN	main analyses	
+data.table	1.18.2.1	CRAN archive	main analyses and original submission code	
+DESeq2	1.48.2	Bioconductor 3.21 (bioc)	original submission code	
+DOSE	4.2.0	Bioconductor 3.21 (bioc)	original submission code	
+dplyr	1.2.0	CRAN archive	original submission code	
+dtangle	2.0.10	CRAN	main analyses	
+e1071	1.7-17	CRAN	main analyses	
+edgeR	4.6.3	Bioconductor 3.21 (bioc)	main analyses	
+enrichplot	1.28.4	Bioconductor 3.21 (bioc)	original submission code	
+EPIC	1.1.7	GitHub GfellerLab/EPIC@50a4f404f96c2842b2891b517b4e3bfaa6c64b8f	main analyses	
+EpiDISH	2.24.0	Bioconductor 3.21 (bioc)	main analyses	
+estimate	1.0.13	R-Forge	main analyses	
+factoextra	not recorded	CRAN (version not recorded)	original submission code	used only by analyses/original_submission_code/Scripts/03_Network_Analysis_Hub_Enrichment.R, which installs it itself
+fgsea	1.34.2	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+forcats	1.0.1	CRAN	original submission code	
+future	1.70.0	CRAN archive	main analyses	used by scripts/08_stroma_and_cell_types/single_cell/36_sc_cellchat.R and 36b_sc_cellchat_small.R
+ggplot2	4.0.2	CRAN archive	main analyses and original submission code	
+ggpubr	0.6.3	CRAN archive	original submission code	
+ggraph	2.2.2	CRAN	main analyses and original submission code	
+ggrepel	0.9.7	CRAN archive	main analyses and original submission code	
+ggridges	0.5.7	CRAN	main analyses	
+ggtext	0.1.2	CRAN archive	main analyses	used by scripts/15_figures_and_tables/12_fig_validation.R
+ggupset	not recorded	CRAN (version not recorded)	original submission code	used only by analyses/original_submission_code/Scripts/03_Network_Analysis_Hub_Enrichment.R, which installs it itself
+GO.db	3.21.0	Bioconductor 3.21 (data/annotation)	main analyses	
+graph	1.86.0	Bioconductor 3.21 (bioc)	main analyses	
+GSEABase	1.70.1	Bioconductor 3.21 (bioc)	main analyses	used by scripts/08_stroma_and_cell_types/deconvolution_and_mediation/34_collagenfree_variants.R
+GSVA	2.2.1	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+hgu133plus2.db	3.13.0	Bioconductor 3.21 (data/annotation)	main analyses	
+hugene20sttranscriptcluster.db	8.8.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+igraph	2.2.2	CRAN archive	main analyses and original submission code	
+IlluminaHumanMethylation450kanno.ilmn12.hg19	0.6.1	Bioconductor 3.21 (data/annotation)	main analyses	
+immunedeconv	2.1.4	GitHub omnideconv/immunedeconv@e625e6c28ed14a30f9f40f159925cc9f0df4fa49	main analyses	
+influential	2.3.2	CRAN	main analyses	
+InstaPrism	0.1.6	GitHub humengying0907/InstaPrism@7d3b57cde9342c5eac7282f4c2d8bff09f21e693	main analyses	
+jsonlite	2.0.0	CRAN	main analyses	
+limma	3.64.3	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+limSolve	2.0.3	CRAN	main analyses	
+MASS	7.3-65	R 4.5.1 (recommended package, installed with R)	main analyses	
+Matrix	1.7-4	R 4.5.1 (recommended package, installed with R)	main analyses	
+matrixStats	1.5.0	CRAN	main analyses	
+mclust	6.1.3	CRAN	main analyses	
+MCPcounter	1.2.0	GitHub ebecht/MCPcounter@b6eac73e91c246fcff0bb1a5c68a816cd588fc48 (subdir Source)	main analyses	
+mediation	4.5.1	CRAN	main analyses	
+metafor	5.0-1	CRAN archive	main analyses	
+microRNAome	1.30.0	Bioconductor 3.21 (data/experiment)	main analyses	
+minfi	1.54.1	Bioconductor 3.21 (bioc)	main analyses	used by scripts/13_multiomics_and_screens/mutation_copy_number_methylation/mo_04_probemap.R
+msigdbr	26.1.0	CRAN archive	main analyses and original submission code	
+multiMiR	1.30.0	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+nnls	1.6	CRAN	main analyses	
+oligo	1.72.0	Bioconductor 3.21 (bioc)	main analyses	
+org.Hs.eg.db	3.21.0	Bioconductor 3.21 (data/annotation)	main analyses and original submission code	
+patchwork	1.3.2	CRAN	main analyses and original submission code	
+pd.clariom.s.human	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hg.u133.plus.2	3.12.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hg.u133a.2	3.12.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hta.2.0	3.12.2	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.huex.1.0.st.v2	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hugene.1.0.st.v1	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hugene.2.0.st	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.hugene.2.1.st	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.mogene.1.0.st.v1	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.mogene.1.1.st.v1	3.14.1	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.mouse430.2	3.12.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pd.mouse430a.2	3.12.0	Bioconductor 3.21 (data/annotation)	main analyses (array platforms, loaded at run time)	
+pheatmap	1.0.13	CRAN	original submission code	
+poweRlaw	1.0.0	CRAN	main analyses	
+ppcor	1.1	CRAN	main analyses	
+preprocessCore	1.70.0	Bioconductor 3.21 (bioc)	main analyses	built with configure.args = "--disable-threading" on the analysis machine (oligo RMA failed with pthread_create error 22)
+ProNet	1.0.0	CRAN archive	main analyses	
+quadprog	1.5-8	CRAN	main analyses	
+quantiseqr	1.16.0	Bioconductor 3.21 (bioc)	main analyses	
+ragg	1.5.1	CRAN archive	main analyses	used by the figure scripts in scripts/15_figures_and_tables/ (PNG output)
+Rcpp	1.1.1	CRAN archive	main analyses	
+reactome.db	1.92.0	Bioconductor 3.21 (data/annotation)	main analyses	
+ReactomePA	1.52.0	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+readxl	1.4.5	CRAN archive	main analyses	
+remotes	2.5.0	CRAN	installer	
+scales	1.4.0	CRAN	main analyses and original submission code	
+stringr	1.6.0	CRAN	original submission code	
+SummarizedExperiment	1.38.1	Bioconductor 3.21 (bioc)	main analyses and original submission code	
+survival	3.8-6	CRAN archive	main analyses and original submission code	
+survminer	0.5.2	CRAN	original submission code	
+tibble	3.3.1	CRAN	original submission code	
+tidygraph	1.3.1	CRAN	main analyses and original submission code	
+tidyr	1.3.2	CRAN	original submission code	
+tidyverse	2.0.0	CRAN	original submission code	
+xCell	1.1.0	GitHub dviraran/xCell@20e2919eefd37e15af35f29f4944e30697098a28	main analyses	

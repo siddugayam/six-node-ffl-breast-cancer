@@ -8,7 +8,7 @@ layer?  Builds a four-node composite module = composite C2 core + the second TF 
 the six-node topology of dyn_models.higher_order_registry("AND", "C2_MIR", composite=True)["n6"]
 with gene_gene="none" and mir_mir=False and nothing else changed.
 
-Everything else is reused unchanged and read-only from scripts/v3:
+Everything else is reused unchanged and read-only from scripts/11_dynamics:
   dyn_models.py, dyn_sample.py (same scrambled-Sobol sample: 16,384 sets, seed 20260908) and
   run_module() of 03_higher_order_sweep.py (same integration, same scoring, same thresholds).
 Each parameter set is integrated independently (the model is vectorised column-wise), so the
@@ -26,10 +26,10 @@ from multiprocessing import Pool
 
 REV = "/path/to/revision"
 OUT = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, f"{REV}/scripts/v3")
+sys.path.insert(0, f"{REV}/scripts/11_dynamics")
 import dyn_models as D, dyn_sample as SMP
 
-spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/v3/03_higher_order_sweep.py")
+spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/11_dynamics/03_higher_order_sweep.py")
 hos = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(hos)          # defines functions only; its __main__ block does not run
 

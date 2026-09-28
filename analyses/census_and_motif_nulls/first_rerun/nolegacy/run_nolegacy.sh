@@ -1,5 +1,5 @@
 #!/bin/bash
-# Same enumerator on the no-legacy-miRNA graph (scripts/v7 build_graph, 8,003 arcs).
+# Same enumerator on the no-legacy-miRNA graph (scripts/03_ffl_census/03_ffl_census_nolegacymirna.py graph, 8,003 arcs).
 set -euo pipefail
 cd "$(dirname "$0")"
 BIN=../ffl_census_composition

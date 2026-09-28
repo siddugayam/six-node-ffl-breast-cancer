@@ -1,5 +1,5 @@
 ## Community-detection claims of Supplementary Note S6 / Table S9, with and without the 30 legacy
-## GeneMANIA miRNA-miRNA edges.  Partitions come from scripts/v7/03_igraph_battery.R run unchanged in
+## GeneMANIA miRNA-miRNA edges.  Partitions come from scripts/14_module_detection/03_igraph_battery.R run unchanged in
 ## sandbox_<mode>/ (setup_sandbox.sh); this script repeats the logic of 04_analysis.R (run summary),
 ## 05_consensus_and_stability.R (degeneracy rule), 07_stroma_module_test.R (COL1A1-module membership),
 ## 06_null_and_prioritisation.R (b: 500-rewiring null; c: prioritised-30 overlap) on those partitions.

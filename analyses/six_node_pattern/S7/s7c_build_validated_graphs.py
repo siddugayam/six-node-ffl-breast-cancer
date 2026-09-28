@@ -9,7 +9,7 @@ Definition (read from the analysis plan; stated here so it can be checked):
     edge (COL1A1 -> COL3A1).  These are the deposit's only edges that come solely from the authors'
     exemplar SIF files (4-TF, 5-TF, 6-TF.sif, 'interacts with') and not from a regulatory database
     (the analysis plan calls the 30 'the miRNA-miRNA edges of the deposited exemplar circuits').
-  * everything else is built exactly as scripts/v7/03_ffl_census_nolegacymirna.py build_graph(True) does:
+  * everything else is built exactly as scripts/03_ffl_census/03_ffl_census_nolegacymirna.py build_graph(True) does:
     the census layers (TRRUST TF_target, the gene-gene layer file, 10 kb miRNA pairs in both
     directions) are added where the arc is not already present, then every reciprocal TF<->miRNA pair is
     contracted to its TF->miRNA arc.  Because the gene-gene layer lists COL1A1-COL3A1 as a STRING link

@@ -16,10 +16,10 @@ from multiprocessing import Pool
 
 REV = "/path/to/revision"
 OUT = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, f"{REV}/scripts/v3")
+sys.path.insert(0, f"{REV}/scripts/11_dynamics")
 import dyn_models as D, dyn_sample as SMP
 
-spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/v3/03_higher_order_sweep.py")
+spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/11_dynamics/03_higher_order_sweep.py")
 hos = importlib.util.module_from_spec(spec); spec.loader.exec_module(hos)
 REG = D.higher_order_registry("AND", "C2_MIR", composite=True)
 NSUB = 64

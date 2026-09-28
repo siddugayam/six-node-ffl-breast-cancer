@@ -1,6 +1,6 @@
 /* ffl_census_composition.c -- counting-only n-node FFL census for the first re-runs, Part B.
  *
- * Enumeration and module test are copied from scripts/v2/v2_census2.c (the program behind the
+ * Enumeration and module test are copied from scripts/03_ffl_census/v2_census2.c (the program behind the
  * exhaustive counts in results/v2/verify_census.csv): source-rooted ESU over out-neighbourhoods,
  * acyclicity pruning, D1-D4 with a unit-capacity max-flow test for D4, and the same xorshift64
  * RAND-ESU with the same order of random draws.  With nparts=1 the 'found' and 'visited' counts

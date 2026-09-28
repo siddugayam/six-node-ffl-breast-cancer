@@ -128,8 +128,8 @@ both are reported, with the change logged at the end of this file.
 
 - **Replication settings:**
   - the 1,626 calls of `results/v3/seqreg_ext_occlusion_allsites.csv`;
-  - 5 dinucleotide-preserving shuffles per call, with the shuffle function and seed of `scripts/v3/41_…`;
-  - the three point-mutation controls of `scripts/v3/45_…`.
+  - 5 dinucleotide-preserving shuffles per call, with the shuffle function and seed of `scripts/09_regulatory_evidence/sequence_models/41_seqreg_ext_occlusion_null.py`;
+  - the three point-mutation controls of `scripts/09_regulatory_evidence/sequence_models/45_seqreg_ext_splicedonor_control.py`.
 - **Model and tracks.** Borzoi replicates 0–3 (borzoi-pytorch port), in bf16, batch size 1. Tracks: fibroblast RNA-seq
   and fibroblast CAGE, listed by index in P4/p4_tracks.tsv before any prediction.
 - **Score.** Predicted coverage summed over the gene's exon bins, after undoing Borzoi's squashed scale as in the
@@ -152,7 +152,7 @@ both are reported, with the change logged at the end of this file.
         sparing the donor.
    - **How it is applied.**
      - "Most influential" = the most negative mean change (the Enformer convention of
-       `scripts/v3/44_seqreg_ext_synthesis.py`).
+       `scripts/09_regulatory_evidence/sequence_models/44_seqreg_ext_synthesis.py`).
      - Families are those of that script, lines 14–16: NF-κB = NFKB1, NFKB2, RELA, RELB, REL; SP = SP1, SP2, SP3;
        ETS = ETS1, ETS2, ELK1, ELK4, GABPA.
      - "Overlaps the donor": the call's span [rel, rel + length − 1] intersects +184..+210.

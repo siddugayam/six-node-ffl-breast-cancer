@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""scripts/v5/47_literature_vs_topology.py statistics (PubMed volume vs degree / undirected betweenness /
+"""scripts/06_node_prioritisation/47_literature_vs_topology.py statistics (PubMed volume vs degree / undirected betweenness /
 FFL cores, Spearman, all nodes) recomputed with and without the 30 legacy miRNA-miRNA edges.
 Same code for the graph and the correlations; outputs only here."""
 import pandas as pd, networkx as nx

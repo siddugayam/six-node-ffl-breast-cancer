@@ -3,7 +3,7 @@
 Stored run = out_reproduce/ (byte-identical to results/v5/node_prioritisation_full.csv).
 The thirty prioritised nodes = top 10 RANKABLE nodes per class (priority not NA), as written to
 top10_per_class.csv by 01_prioritisation.R (Table 4).  Within-class ranks are recomputed among rankable
-nodes (ties 'min'), as scripts/v5/40_node_compendium_assemble.py does: the stored rank_within_type column
+nodes (ties 'min'), as scripts/06_node_prioritisation/40_node_compendium_assemble.py does: the stored rank_within_type column
 sorts the 4 unrankable miRNAs first and so offsets every miRNA rank by 4."""
 import csv, os
 H = os.path.dirname(os.path.abspath(__file__))

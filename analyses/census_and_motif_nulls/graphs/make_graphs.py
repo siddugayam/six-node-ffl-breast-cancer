@@ -2,11 +2,11 @@
 """Graph variants for the analyses/census_and_motif_nulls re-runs.  Reads the project read-only.
 
 Census format (for ffl_census_composition.c), built with the census scripts' own build_graph():
-  table3             scripts/03_ffl_census.py                       (legacy miRNA-miRNA arcs kept, STRING kept)
-  nolegacy           scripts/v7/03_ffl_census_nolegacymirna.py      (legacy dropped, STRING kept)
-  table3_nostring    table3 minus STRING arcs (definition of scripts/v2/R9_no_string_census.py)
+  table3             scripts/03_ffl_census/03_ffl_census.py                       (legacy miRNA-miRNA arcs kept, STRING kept)
+  nolegacy           scripts/03_ffl_census/03_ffl_census_nolegacymirna.py      (legacy dropped, STRING kept)
+  table3_nostring    table3 minus STRING arcs (definition of scripts/03_ffl_census/R9_no_string_census.py)
   nolegacy_nostring  nolegacy minus STRING arcs
-Null format (for scripts/v2/v2_null.c), made by deleting lines from the v2 input files so that the
+Null format (for scripts/04_motif_significance/v2_null.c), made by deleting lines from the v2 input files so that the
 order of the remaining arcs, and hence the random stream, is unchanged:
   dep, pub                     = results/v2/orig_dep.txt, orig_pub.txt (copied unchanged)
   dep_nolegacy                 = orig_dep minus the 30 canonical miRNA_miRNA edges
@@ -68,10 +68,10 @@ def export_census(tag, nodes, edges):
 
 
 census_orig = {}
-for tag, path, env, nostr in (('table3', f'{REV}/scripts/03_ffl_census.py', None, False),
-                              ('nolegacy', f'{REV}/scripts/v7/03_ffl_census_nolegacymirna.py', '1', False),
-                              ('table3_nostring', f'{REV}/scripts/03_ffl_census.py', None, True),
-                              ('nolegacy_nostring', f'{REV}/scripts/v7/03_ffl_census_nolegacymirna.py', '1', True)):
+for tag, path, env, nostr in (('table3', f'{REV}/scripts/03_ffl_census/03_ffl_census.py', None, False),
+                              ('nolegacy', f'{REV}/scripts/03_ffl_census/03_ffl_census_nolegacymirna.py', '1', False),
+                              ('table3_nostring', f'{REV}/scripts/03_ffl_census/03_ffl_census.py', None, True),
+                              ('nolegacy_nostring', f'{REV}/scripts/03_ffl_census/03_ffl_census_nolegacymirna.py', '1', True)):
     if env: os.environ['DROP_LEGACY_MIRNA'] = env
     m = load_mod(path, 'm_' + tag)
     nodes, edges, nrecip = m.build_graph(True)

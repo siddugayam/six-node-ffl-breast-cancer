@@ -1,6 +1,6 @@
 # Tables under the analysis numbering
 
-`scripts/v5/21_tables.R` wrote these tables before the supplementary tables were renumbered for publication. The
+`scripts/15_figures_and_tables/21_tables.R` wrote these tables before the supplementary tables were renumbered for publication. The
 published tables are in `supplementary_tables/`.
 
 | File here | Published table |

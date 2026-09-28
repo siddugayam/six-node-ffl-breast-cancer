@@ -2,7 +2,7 @@
 """Independent re-count of bhat_table3_counts.csv (instances and distinct node sets).
 Differs from build_bhat_networks.py in both steps:
   graph   rebuilt from the project data with the census script's own build_graph() (Option 1 script
-          scripts/v7/03_ffl_census_nolegacymirna.py, DROP_LEGACY_MIRNA=1), edge types taken from its labels
+          scripts/03_ffl_census/03_ffl_census_nolegacymirna.py, DROP_LEGACY_MIRNA=1), edge types taken from its labels
           (TF_target, miRNA_target, TF_miRNA, gene_gene, miRNA_miRNA), STRING arcs removed for the sensitivity
           graph by the rule of analyses/census_and_motif_nulls/graphs/make_graphs.py
   loops   start from the target side (G1, then G2, then the TFs, then the miRNAs) and test every compulsory
@@ -12,7 +12,7 @@ sys.dont_write_bytecode = True
 REV = '/path/to/revision'
 HERE = os.path.dirname(os.path.abspath(__file__))
 os.environ['DROP_LEGACY_MIRNA'] = '1'
-spec = importlib.util.spec_from_file_location('m', f'{REV}/scripts/v7/03_ffl_census_nolegacymirna.py')
+spec = importlib.util.spec_from_file_location('m', f'{REV}/scripts/03_ffl_census/03_ffl_census_nolegacymirna.py')
 m = importlib.util.module_from_spec(spec); sys.argv = ['x', '3']; spec.loader.exec_module(m)
 
 

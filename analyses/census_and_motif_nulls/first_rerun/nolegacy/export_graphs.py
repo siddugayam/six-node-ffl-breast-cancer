@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Export the census graphs built by scripts/03_ffl_census.py (Table 3 graph) and by
-scripts/v7/03_ffl_census_nolegacymirna.py (DROP_LEGACY_MIRNA=1) in the formats read by
+"""Export the census graphs built by scripts/03_ffl_census/03_ffl_census.py (Table 3 graph) and by
+scripts/03_ffl_census/03_ffl_census_nolegacymirna.py (DROP_LEGACY_MIRNA=1) in the formats read by
 ../ffl_census_composition.c.  Both scripts are imported read-only; nothing in the project is written.
 The Table 3 export is compared arc-for-arc with results/v2/graph_pub_fine.txt as a check."""
 import sys, os, importlib.util, collections
@@ -35,8 +35,8 @@ def export(tag, nodes, edges, orig):
     print(tag, 'nodes', len(V), 'arcs (contracted)', len(edges), 'arcs (uncontracted)', len(orig),
           'classes', dict(collections.Counter(cls(nodes, edges, a, b) for (a, b) in edges)))
 
-for tag, path, env in (('table3', f'{REV}/scripts/03_ffl_census.py', None),
-                       ('nolegacy', f'{REV}/scripts/v7/03_ffl_census_nolegacymirna.py', '1')):
+for tag, path, env in (('table3', f'{REV}/scripts/03_ffl_census/03_ffl_census.py', None),
+                       ('nolegacy', f'{REV}/scripts/03_ffl_census/03_ffl_census_nolegacymirna.py', '1')):
     if env is not None: os.environ['DROP_LEGACY_MIRNA'] = env
     m = load(path, 'cen_' + tag)
     nodes, edges, nrecip = m.build_graph(True)

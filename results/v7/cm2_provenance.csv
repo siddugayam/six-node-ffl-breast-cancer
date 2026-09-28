@@ -9,7 +9,7 @@ cyrest_endpoint,http://localhost:1234/v1
 R_version,R 4.5.1
 igraph_version,2.2.2
 mclust_version,6.1.3 (adjustedRandIndex)
-MCL_CRAN_package,"1.0 installed; van Dongen algorithm reimplemented in scripts/v7/01_cm2_mcl.R for the inflation sweep, validated against clusterMaker2 (ARI 0.992 at I=2.2)"
+MCL_CRAN_package,"1.0 installed; van Dongen algorithm reimplemented in scripts/14_module_detection/01_cm2_mcl.R for the inflation sweep, validated against clusterMaker2 (ARI 0.992 at I=2.2)"
 aricode,"FAILED to compile under gcc-10/oneTBB; mclust::adjustedRandIndex used instead (identical definition)"
 msigdbr_version,26.1.0
 graph,"587 nodes, 5636 undirected simple edges (6859 directed edges collapsed; 1223 reciprocal pairs merged), 1 connected component, density 0.0328, unweighted"

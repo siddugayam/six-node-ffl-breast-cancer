@@ -13,4 +13,4 @@ analyses without them (`nolegacy`) and, as a check, with them (`full`).
 | `v7b/` | BioNet, jActiveModules and GO/KEGG over-representation of the modules |
 | `figure_fixes/` | The information-flow figure of the paper (Fig. S3) |
 
-The `sandbox_*` folders mirror the paths that the unchanged `scripts/v7` scripts expect.
+The `sandbox_*` folders mirror the paths that the module-detection scripts (`scripts/14_module_detection/`) expect.

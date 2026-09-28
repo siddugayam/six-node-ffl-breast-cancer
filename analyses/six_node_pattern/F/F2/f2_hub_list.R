@@ -1,5 +1,5 @@
 ## F2: does the 70-hub list of the TCGA-BRCA Cox screen change without the legacy miRNA-miRNA edges?
-## The hub list is built by scripts/10_survival_cox_hubs.R (lines 27-70) on a RECONSTRUCTED network:
+## The hub list is built by scripts/10_survival_and_clinical/cox_models/10_survival_cox_hubs.R (lines 27-70) on a RECONSTRUCTED network:
 ## miRNA_target from data/canonical_edges.tsv, TF_target, TF_miRNA, gene_gene and miRNA_miRNA from the
 ## layer files.  The 30 legacy GeneMANIA edges are canonical_edges.tsv edge_type miRNA_miRNA, which that
 ## script never reads.  Here: (1) the stored hub list is rebuilt with the same code and compared with

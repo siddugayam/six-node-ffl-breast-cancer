@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Requested P4 checks (a) and (b), made traceable: (a) the matrices of each family row of
-results/v3/seqreg_ext_occlusion_calibrated.csv (families of scripts/v3/44_seqreg_ext_synthesis.py lines 14-16) at each
+results/v3/seqreg_ext_occlusion_calibrated.csv (families of scripts/09_regulatory_evidence/sequence_models/44_seqreg_ext_synthesis.py lines 14-16) at each
 promoter; (b) the COL1A1 calls ranked 9-18 by the Enformer effect (d_fib_cage, most negative = rank 1) with their position
 and span relative to the exon-1 donor (+222/+223).  Writes p4_family_matrices.txt (numbered lines)."""
 import os
@@ -8,7 +8,7 @@ import pandas as pd
 OUT = os.path.dirname(os.path.abspath(__file__)); REV = os.path.dirname(os.path.dirname(os.path.dirname(OUT)))
 a = pd.read_csv(f'{REV}/results/v3/seqreg_ext_occlusion_allsites.csv')
 FAM = {"NF-kB": ["NFKB1", "NFKB2", "RELA", "RELB", "REL"], "SP": ["SP1", "SP2", "SP3"], "ETS": ["ETS1", "ETS2", "ELK1", "ELK4", "GABPA"]}
-L = ['source: results/v3/seqreg_ext_occlusion_allsites.csv (Enformer, 1,626 calls); families: scripts/v3/44_seqreg_ext_synthesis.py lines 14-16']
+L = ['source: results/v3/seqreg_ext_occlusion_allsites.csv (Enformer, 1,626 calls); families: scripts/09_regulatory_evidence/sequence_models/44_seqreg_ext_synthesis.py lines 14-16']
 for reg in ('COL1A1', 'COL3A1'):
     g = a[a.region == reg]
     for f, tfs in FAM.items():

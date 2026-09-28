@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Re-run the v3 architecture / controllability / information-flow scripts (Supplementary Note S5)
-unchanged, with only two things swapped in scripts/v3/netlib.py at run time:
+unchanged, with only two things swapped in scripts/05_network_architecture/netlib.py at run time:
   RES/FIG/LOG -> out_<mode>/ in this folder (the project is not written to)
   load_edges  -> mode 'full': unchanged (the 6,859-edge deposit, to check reproduction)
                  mode 'nolegacy': the deposit minus its 30 miRNA_miRNA edges (GeneMANIA legacy)
 usage: python3 run_v3.py <full|nolegacy> <script.py> [...]"""
 import sys, os, runpy
 sys.dont_write_bytecode = True
-V3 = '/path/to/revision/scripts/v3'
+V3 = '/path/to/revision/scripts/05_network_architecture'
 HERE = os.path.dirname(os.path.abspath(__file__))
 mode = sys.argv[1]; assert mode in ('full', 'nolegacy')
 OUT = os.path.join(HERE, f"out_{mode}_hash{os.environ.get('PYTHONHASHSEED', 'random')}")

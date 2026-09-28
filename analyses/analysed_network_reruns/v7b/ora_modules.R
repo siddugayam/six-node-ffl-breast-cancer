@@ -1,6 +1,6 @@
 ## GO-BP + KEGG over-representation of the module-detection outputs with and without the 30 legacy
 ## miRNA-miRNA edges, using the code, universes, thresholds and cached KEGG release of
-## scripts/v7/v7_go_01_ora.R, and the core-ECM term list of scripts/v7/v7_go_05_answer.R.
+## scripts/14_module_detection/v7_go_01_ora.R, and the core-ECM term list of scripts/14_module_detection/v7_go_05_answer.R.
 ## Modules (size >= 5): MCODE (stored controls, results/v7/mcode_16_controls.csv: 'as_published' and
 ## 'drop_all_miRNA_miRNA'), igraph Louvain r1.00 and Leiden r1.0 (sandboxes in ../v7), BioNet primary
 ## and the jActiveModules consensus (sandboxes here; consensus over converged seeds, see

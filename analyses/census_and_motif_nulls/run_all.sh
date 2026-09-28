@@ -3,7 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 gcc -O3 -march=native -o census/ffl_census_composition census/ffl_census_composition.c
-gcc -O2 -o nulls/v2_null nulls/v2_null.c            # scripts/v2/v2_null.c, unchanged copy
+gcc -O2 -o nulls/v2_null nulls/v2_null.c            # scripts/04_motif_significance/v2_null.c, unchanged copy
 : > jobs.txt
 # ---- motif nulls: 1,000 randomisations, seed 20250908, 100 swaps per edge (the stored runs' settings)
 for g in dep pub dep_nolegacy pub_nolegacy pub_nostring pub_nolegacy_nostring; do

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Summarise the eight n=7 RAND-ESU seeds (same seeds and q-profiles as scripts/v2/run_n7*.sh)."""
+"""Summarise the eight n=7 RAND-ESU seeds (same seeds and q-profiles as scripts/03_ffl_census/run_n7*.sh)."""
 import json, statistics as st, collections
 seeds = [11, 22, 33, 44, 55, 71, 72, 73]
 rows = []

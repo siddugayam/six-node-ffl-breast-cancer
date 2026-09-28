@@ -6,7 +6,7 @@ Graph: the nolegacy census graph (S1/graph_nolegacy_null.txt + S1/graph_nolegacy
 and labels as documented in S1/make_s1_inputs.py).  Contracted graph for D1-D4 = the uncontracted one
 minus every miRNA->TF arc whose TF->miRNA reverse exists (the census builder's rule).
 
-(c) MODEL6-architecture = the COMP_C2_toggle six-node module of scripts/v3/dyn_models.py as a
+(c) MODEL6-architecture = the COMP_C2_toggle six-node module of scripts/11_dynamics/dyn_models.py as a
     sign-agnostic, non-induced pattern (definition in S1/s1_null6.c; FULL = every interaction in the n6
     equations, DEF = the layer-defining edges only).  Counted here independently of the C counter
     (S1/s1_null6, OBS mode) and compared with it.  The signed edge list of every six-node module comes

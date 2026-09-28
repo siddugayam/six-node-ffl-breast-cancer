@@ -1,13 +1,13 @@
 ## S5(e): MCODE on the six-node composite FFL network of analyses/six_node_pattern_networks (Bhat et al. 2024 Fig. 1d,
 ## nolegacy graph) with and without its miRNA-miRNA (10 kb co-transcription) links.  Same pipeline and
-## parameters as analyses/six_node_pattern_networks/mcode_six_node_composite.R: scripts/v7/mcode.R
+## parameters as analyses/six_node_pattern_networks/mcode_six_node_composite.R: scripts/14_module_detection/mcode.R
 ## (Cytoscape-faithful port), degree cutoff 2, k-core 2, max depth 100, node score cutoff 0.2, haircut,
 ## no fluff; undirected, multi-edges collapsed; node order = first appearance in the ORIGINAL SIF (the
 ## tie-break order of the 26c run), plus 100 random node orders.  Read-only on the project.
 REV  <- "/path/to/revision"
 SRC  <- file.path(REV, "analyses/six_node_pattern_networks")
 OUT  <- dirname(normalizePath(sub("--file=", "", grep("--file=", commandArgs(FALSE), value = TRUE))))
-source(file.path(REV, "scripts/v7/mcode.R"))
+source(file.path(REV, "scripts/14_module_detection/mcode.R"))
 suppressPackageStartupMessages(library(igraph))
 set.seed(20260927)
 sif0 <- read.delim(file.path(SRC, "sif", "nolegacy_6node_Composite_FFL.sif"), header = FALSE,

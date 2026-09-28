@@ -1,6 +1,6 @@
 ## S8 (analyses/six_node_pattern): per-circuit clinical test on BHAT6 composite and MODEL6-architecture node sets.
 ## Repeats the comparison of every six-node circuit with its own three-node core (EA6: 1,989 circuits,
-## scripts/13_circuit_level_3node_vs_6node.R) on the six-node objects of S0/S1.
+## scripts/10_survival_and_clinical/cox_models/13_circuit_level_3node_vs_6node.R) on the six-node objects of S0/S1.
 ##   circuits  the 2,498 BHAT6 composite node sets and the 71 MODEL6-architecture (FULL) node sets
 ##             (S1/obs listings).  For a node set with several role assignments the first one listed is
 ##             used.  Core = (TF1, miR1, G1); extension = (TF2, miR2, G2).  In BHAT6 the core's T1 -> G1

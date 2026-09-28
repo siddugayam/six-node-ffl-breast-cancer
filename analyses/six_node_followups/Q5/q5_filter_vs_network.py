@@ -3,7 +3,7 @@
 analyses/six_node_followups, Q5: does the miRNA-TF pair filter determine the network, and where does TF<->miRNA reciprocity
 come from?  Read-only on the project.
 
-Label mapping (the project's own harmonisation, scripts/01_build_canonical_network.py):
+Label mapping (the project's own harmonisation, scripts/01_network_assembly/01_build_canonical_network.py):
   1. data/name_map.json merge_map (the 803 raw SIF labels -> 587 canonical nodes), when the workbook label is one of them;
   2. otherwise canon2() of that script, verbatim: hsa-mir-X -> hsa-miR-X, and a -1/-2 precursor copy suffix of
      hsa-miR-<n><letter> is dropped when the unsuffixed canonical name is a network node;
@@ -35,7 +35,7 @@ P(f'network: {len(E)} arcs (legacy miRNA_miRNA excluded); miRNA nodes {len(mir_n
 merge_map = json.load(open(f'{REV}/data/name_map.json'))['merge_map']
 idmap = {r['raw_id']: r['canonical_id'] for r in csv.DictReader(open(f'{REV}/data/mirna_id_map.tsv'), delimiter='\t')}
 is_mir = lambda n: bool(re.match(r'^hsa-(mir|miR|let)-', n, flags=re.I))
-def canon(n):                                           # verbatim from scripts/01_build_canonical_network.py
+def canon(n):                                           # verbatim from scripts/01_network_assembly/01_build_canonical_network.py
     if not is_mir(n): return n
     m = re.match(r'^hsa-(mir|miR)-(.+)$', n)
     if m: return 'hsa-miR-' + m.group(2)

@@ -3,7 +3,7 @@
 S2 (layer-factorial dynamics) and S3 (TF-TF sign controls) for analyses/six_node_pattern.
 
 Runs every module whose per-set flags are NOT already stored.  Everything is reused unchanged and
-read-only from scripts/v3: dyn_models.py, dyn_sample.py (the same scrambled-Sobol design: 16,384 sets,
+read-only from scripts/11_dynamics: dyn_models.py, dyn_sample.py (the same scrambled-Sobol design: 16,384 sets,
 seed 20260908) and run_module() of 03_higher_order_sweep.py (same integration, scoring and thresholds).
 Each parameter set is integrated independently (the model is vectorised column-wise), so the 16,384
 sets are split into chunks run in parallel, as in the C3 control of the first re-runs.
@@ -36,10 +36,10 @@ from multiprocessing import Pool
 
 REV = "/path/to/revision"
 OUT = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, f"{REV}/scripts/v3")
+sys.path.insert(0, f"{REV}/scripts/11_dynamics")
 import dyn_models as D, dyn_sample as SMP
 
-spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/v3/03_higher_order_sweep.py")
+spec = importlib.util.spec_from_file_location("hos", f"{REV}/scripts/11_dynamics/03_higher_order_sweep.py")
 hos = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(hos)          # defines functions only; its __main__ block does not run
 N_ALL, SEED = hos.N_SET, hos.SEED

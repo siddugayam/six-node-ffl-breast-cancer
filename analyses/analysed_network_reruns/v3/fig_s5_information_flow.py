@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fig. S5 (Fig_v3_C_information_flow) only: the Fig 3 block of scripts/v3/10_figures.py, copied verbatim,
+"""Fig. S5 (Fig_v3_C_information_flow) only: the Fig 3 block of scripts/05_network_architecture/10_figures.py, copied verbatim,
 with RES/FIG pointed at out_<mode>_hash0/ (the other v3 figures need analyses not re-run here).
 usage: python3 fig_s5_information_flow.py <full|nolegacy>"""
 import os, sys, csv, json, collections
@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Polygon, Circle, FancyArrowPatch
 
 sys.dont_write_bytecode = True
-sys.path.insert(0, '/path/to/revision/scripts/v3')
+sys.path.insert(0, '/path/to/revision/scripts/05_network_architecture')
 from netlib import load_nodes
 HERE = os.path.dirname(os.path.abspath(__file__))
 RES = os.path.join(HERE, f'out_{sys.argv[1]}_hash0'); FIG = os.path.join(RES, 'fig'); os.makedirs(FIG, exist_ok=True)

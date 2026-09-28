@@ -16,7 +16,7 @@ mkdir -p n6_parts
 seq 0 63 | xargs -P 10 -I{} sh -c "$BIN $G/graph_pub_fine.txt $G/R4_graph_aug.txt $G/orig_pub.txt 6 64 {} 42 1 1 1 1 1 1 > n6_parts/part_{}.txt"
 python3 aggregate_census.py census_n6_exhaustive n6_parts/part_*.txt > /dev/null
 
-# n = 7, RAND-ESU with the eight seeds and q-profiles of scripts/v2/run_n7.sh and run_n7b.sh
+# n = 7, RAND-ESU with the eight seeds and q-profiles of scripts/03_ffl_census/run_n7.sh and run_n7b.sh
 mkdir -p n7_seeds
 for s in 11 22 33 44 55; do echo "$s 1 1 0.2 0.2 0.2 0.2"; done >  n7_jobs.txt
 for s in 71 72 73;       do echo "$s 1 1 1 0.1 0.15 0.15"; done >> n7_jobs.txt

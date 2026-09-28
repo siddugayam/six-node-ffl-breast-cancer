@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """P4: fetch the Borzoi replicate weights 1-3 (borzoi-pytorch port of the official Calico human weights) into the
-27d cache, and record each file in DOWNLOADS.tsv.  Replicate 0 was fetched on 2026-09-09 for scripts/v3/23 and is
+27d cache, and record each file in DOWNLOADS.tsv.  Replicate 0 was fetched on 2026-09-09 for scripts/09_regulatory_evidence/sequence_models/23_seqreg_borzoi.py and is
 already in the local Hugging Face cache; its revision and md5 are recorded in p4_weights.txt, not re-downloaded."""
 import os, sys, glob, hashlib
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
