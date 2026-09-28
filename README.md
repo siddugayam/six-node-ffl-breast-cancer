@@ -64,17 +64,13 @@ Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 
 ```mermaid
 flowchart TD
-    A["Regulatory network<br/>TRRUST · TransmiR · multiMiR · STRING<br/>587 nodes · 6,829 edges"]
-    A --> B["Typed three-node FFL cores<br/>Table S4"]
-    A --> C["Census of 3- to 7-node modules<br/>Table 3"]
-    B --> D["Motif significance<br/>three null models"]
-    C --> E["Six-node composite pattern<br/>Supplementary Note S2"]
-    C --> I["Dynamics of<br/>higher-order modules"]
-    B --> F["Node prioritisation<br/>Table 4, Table S1"]
-    F --> G["Expression, protein and survival<br/>TCGA · GEO · CPTAC · METABRIC"]
-    G --> H["Stromal mediation and<br/>compartment tests"]
-    G --> K["Tests with public perturbation data<br/>Supplementary Note S1"]
-    A --> J["Module detection<br/>Supplementary Note S7"]
+    A["<b>1 · Regulatory network</b><br/>TRRUST · TransmiR · multiMiR · STRING<br/>587 nodes · 6,829 edges"]
+    B["<b>2 · Feed-forward loops</b><br/>1,649 typed three-node cores (Table S4)<br/>census of 3- to 7-node modules (Table 3)"]
+    C["<b>3 · Over-representation and dynamics</b><br/>three null models · six-node composite pattern (Note S2)<br/>dynamical models of higher-order modules"]
+    D["<b>4 · Node prioritisation</b><br/>30 nodes (Table 4) · all nodes (Table S1)"]
+    E["<b>5 · Validation</b><br/>expression, protein and survival<br/>TCGA · GEO · CPTAC · METABRIC"]
+    F["<b>6 · Mechanism checks</b><br/>stromal mediation and compartment tests · perturbation data (Note S1)<br/>module detection (Note S7)"]
+    A --> B --> C --> D --> E --> F
 ```
 
 ## Reproducing the analyses

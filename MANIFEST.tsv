@@ -2,7 +2,7 @@ path	bytes	md5
 .gitignore	274	46388f694a171cc845a7b54ad14d1166
 ANALYSIS_GUIDE.ipynb	52829	5116048b789d4e010c4c9dd82a0d3a27
 LICENSE	1121	1b435a1087f25e460ebb0b1ea55e4b67
-README.md	12403	e469530f8c3c80e137d22d901e5405a3
+README.md	12454	706a4b35490dfeb092bc6275ef4b7425
 analyses/README.md	1793	61a411d6adc66c8a3d3bdcc8148a9b12
 analyses/analysed_network_reruns/README.md	1087	4535d8b75e4c12e0d52b7efa304ce280
 analyses/analysed_network_reruns/figure_fixes/fig_s5_information_flow_notitles.py	4383	3969e7b85ef0a4116ce3ff397cae8ce9
@@ -1129,7 +1129,7 @@ results/ffl_examples_k4.csv	122265	76b9b0dc32272251615e2032072a6260
 results/ffl_examples_k5.csv	104588	e8d40bff194e8faa9cb1050986ce6039
 results/ffl_examples_k6.csv	167792	0ed332462de8829d5e39c1a28a0348ec
 results/ffl_examples_k7.csv	9856	1cd4345dd5e047f284772c410b1c68b1
-results/ffl_higher_order.csv.gz	2980197	9f60534d9639edbf5b72a7d466f8e474
+results/ffl_higher_order.csv.gz	2980197	9319f19cf1163339a0460e39ce3818f3
 results/ffl_module_membership.csv	26981	53318fcb71e1f5101ac9b821ac5cc26a
 results/ffl_network_hubs.csv	37689	69ee7bce225578026075ea7ac96de52c
 results/ffl_participation_per_node.csv	4611	ec654b5d6f68d4753582b2dd78073801
