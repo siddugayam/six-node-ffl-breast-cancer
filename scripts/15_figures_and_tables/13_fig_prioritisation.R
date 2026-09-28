@@ -13,16 +13,22 @@ P <- P[!is.na(priority)]
 D <- P[type=="TF"][order(-ffl_cores)][, rank_ffl := seq_len(.N)]
 D <- D[order(-priority)][, rank_comp := seq_len(.N)]
 D[, gap := rank_comp - rank_ffl]
-lab <- D[rank_ffl<=10 | rank_comp<=10]
+# Labels for the ten highest of either ranking. Every point is passed to the repel step (unlabelled ones with an
+# empty label) at its drawn size, so no label is placed over a point (revised 2026-09-28).
+SIZE_RANGE <- c(0.6, 4.5)
+D[, lab := ifelse(rank_ffl <= 10 | rank_comp <= 10, name, "")]
+D[, psize := SIZE_RANGE[1] + diff(SIZE_RANGE) * sqrt((ffl_cores - min(ffl_cores)) / diff(range(ffl_cores)))]
 pA <- ggplot(D, aes(rank_ffl, rank_comp)) +
   geom_abline(slope=1, intercept=0, colour=RULE, linewidth=0.5) +
   geom_point(aes(size=ffl_cores, fill=abs(gap)>40), shape=21, colour="grey30", stroke=0.25, alpha=0.9) +
-  geom_text_repel(data=lab, aes(label=name), size=TXT, fontface="italic", max.overlaps=30, seed=42,
-                  segment.size=0.15, segment.colour=MUTED, min.segment.length=0.1) +
+  geom_text_repel(aes(label=lab, point.size=psize), size=TXT, fontface="italic", max.overlaps=Inf, seed=42,
+                  box.padding=0.45, point.padding=0.2, force=4, force_pull=0.3, max.iter=50000,
+                  segment.size=0.2, segment.colour=MUTED, min.segment.length=0) +
   scale_fill_manual(values=c(`TRUE`=unname(SEM["neg"]), `FALSE`=unname(SEM["null"])),
                     labels=c("agree","diverge > 40 ranks"), name=NULL) +
-  scale_size_continuous(range=c(0.6,4.5), name="FFL cores") +
-  scale_x_continuous(trans="reverse") + scale_y_continuous(trans="reverse") +
+  scale_size_continuous(range=SIZE_RANGE, name="FFL cores") +
+  scale_x_continuous(trans="reverse", expand=expansion(mult=c(0.02, 0.14))) +
+  scale_y_continuous(trans="reverse", expand=expansion(mult=c(0.02, 0.15))) +
   labs(x="rank by FFL participation (1 = most central)",
        y="rank by seven-domain evidence composite", tag = "a") +
   theme_pub(BASE) + theme(legend.position="right")
@@ -51,7 +57,7 @@ pB <- ggplot(H, aes(domain, name, fill=score)) +
         strip.placement="outside", strip.text.y.left=element_text(angle=0),
         legend.position="right", legend.key.height=unit(24,"pt"))
 
-out <- pA / pB + plot_layout(heights=c(1, 1.5))
+out <- pA / pB + plot_layout(heights=c(1.2, 1.5))
 ggsave(file.path(FIG,"Fig5_prioritisation.png"), out, width=6.85, height=8.6, dpi = 600, bg="white", device=ragg::agg_png)
 ggsave(file.path(FIG,"Fig5_prioritisation.pdf"), out, width=6.85, height=8.6, bg="white", device=cairo_pdf)
 cat("wrote Fig5_prioritisation\n")
