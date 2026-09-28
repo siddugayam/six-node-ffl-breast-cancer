@@ -1,0 +1,139 @@
+section,item,value
+A methods,stromal/fibroblast estimates assembled,43
+A methods,of which RNA-based,39
+A methods,"non-RNA (DNA purity, pathology, DNA methylation)",4
+B correlation,"pairwise Spearman, all fibroblast estimates: min",-0.146
+B correlation,"pairwise Spearman, all fibroblast estimates: median",0.783
+B correlation,"pairwise Spearman, RNA-based only: min",0.204
+B correlation,"pairwise Spearman, RNA-based only: median",0.812
+C mediation,ETS1 -> COL1A1 | n mediators,45
+C mediation,"ETS1 -> COL1A1 | ACME median [min,max]","+0.306 [-0.112, +0.724]"
+C mediation,"ETS1 -> COL1A1 | ADE median [min,max]","-0.005 [-0.423, +0.391]"
+C mediation,ETS1 -> COL1A1 | proportion mediated median,+1.02
+C mediation,ETS1 -> COL1A1 | Sobel p<0.05,43/45
+C mediation,ETS1 -> COL1A1 | sign-inconsistent (ACME vs ADE),25/45
+C mediation,NFKB1 -> COL1A1 | n mediators,45
+C mediation,"NFKB1 -> COL1A1 | ACME median [min,max]","+0.130 [-0.026, +0.247]"
+C mediation,"NFKB1 -> COL1A1 | ADE median [min,max]","-0.024 [-0.140, +0.150]"
+C mediation,NFKB1 -> COL1A1 | proportion mediated median,+1.23
+C mediation,NFKB1 -> COL1A1 | Sobel p<0.05,42/45
+C mediation,NFKB1 -> COL1A1 | sign-inconsistent (ACME vs ADE),34/45
+C mediation,ETS1 -> COL3A1 | n mediators,45
+C mediation,"ETS1 -> COL3A1 | ACME median [min,max]","+0.281 [-0.151, +0.690]"
+C mediation,"ETS1 -> COL3A1 | ADE median [min,max]","+0.129 [-0.280, +0.546]"
+C mediation,ETS1 -> COL3A1 | proportion mediated median,+0.69
+C mediation,ETS1 -> COL3A1 | Sobel p<0.05,42/45
+C mediation,ETS1 -> COL3A1 | sign-inconsistent (ACME vs ADE),13/45
+C mediation,NFKB1 -> COL3A1 | n mediators,45
+C mediation,"NFKB1 -> COL3A1 | ACME median [min,max]","+0.132 [-0.027, +0.256]"
+C mediation,"NFKB1 -> COL3A1 | ADE median [min,max]","+0.066 [-0.058, +0.252]"
+C mediation,NFKB1 -> COL3A1 | proportion mediated median,+0.67
+C mediation,NFKB1 -> COL3A1 | Sobel p<0.05,42/45
+C mediation,NFKB1 -> COL3A1 | sign-inconsistent (ACME vs ADE),9/45
+C mediation,SP1 -> COL1A1 | n mediators,45
+C mediation,"SP1 -> COL1A1 | ACME median [min,max]","+0.121 [-0.023, +0.255]"
+C mediation,"SP1 -> COL1A1 | ADE median [min,max]","-0.083 [-0.217, +0.059]"
+C mediation,SP1 -> COL1A1 | proportion mediated median,+3.14
+C mediation,SP1 -> COL1A1 | Sobel p<0.05,38/45
+C mediation,SP1 -> COL1A1 | sign-inconsistent (ACME vs ADE),40/45
+C mediation,RELA -> COL1A1 | n mediators,45
+C mediation,"RELA -> COL1A1 | ACME median [min,max]","+0.001 [-0.094, +0.066]"
+C mediation,"RELA -> COL1A1 | ADE median [min,max]","+0.050 [-0.015, +0.146]"
+C mediation,RELA -> COL1A1 | proportion mediated median,+0.03
+C mediation,RELA -> COL1A1 | Sobel p<0.05,16/45
+C mediation,RELA -> COL1A1 | sign-inconsistent (ACME vs ADE),24/45
+C mediation,hsa-miR-29a -> COL1A1 | n mediators,45
+C mediation,"hsa-miR-29a -> COL1A1 | ACME median [min,max]","-0.138 [-0.229, +0.084]"
+C mediation,"hsa-miR-29a -> COL1A1 | ADE median [min,max]","-0.093 [-0.314, -0.001]"
+C mediation,hsa-miR-29a -> COL1A1 | proportion mediated median,+0.60
+C mediation,hsa-miR-29a -> COL1A1 | Sobel p<0.05,38/45
+C mediation,hsa-miR-29a -> COL1A1 | sign-inconsistent (ACME vs ADE),6/45
+C mediation,hsa-miR-29a -> COL3A1 | n mediators,45
+C mediation,"hsa-miR-29a -> COL3A1 | ACME median [min,max]","-0.137 [-0.233, +0.089]"
+C mediation,"hsa-miR-29a -> COL3A1 | ADE median [min,max]","-0.100 [-0.325, -0.004]"
+C mediation,hsa-miR-29a -> COL3A1 | proportion mediated median,+0.58
+C mediation,hsa-miR-29a -> COL3A1 | Sobel p<0.05,38/45
+C mediation,hsa-miR-29a -> COL3A1 | sign-inconsistent (ACME vs ADE),6/45
+C mediation,hsa-miR-29b -> COL1A1 | n mediators,45
+C mediation,"hsa-miR-29b -> COL1A1 | ACME median [min,max]","-0.190 [-0.314, +0.003]"
+C mediation,"hsa-miR-29b -> COL1A1 | ADE median [min,max]","-0.109 [-0.299, +0.014]"
+C mediation,hsa-miR-29b -> COL1A1 | proportion mediated median,+0.64
+C mediation,hsa-miR-29b -> COL1A1 | Sobel p<0.05,40/45
+C mediation,hsa-miR-29b -> COL1A1 | sign-inconsistent (ACME vs ADE),4/45
+C mediation,hsa-miR-29b -> COL3A1 | n mediators,45
+C mediation,"hsa-miR-29b -> COL3A1 | ACME median [min,max]","-0.200 [-0.313, +0.004]"
+C mediation,"hsa-miR-29b -> COL3A1 | ADE median [min,max]","-0.086 [-0.287, +0.028]"
+C mediation,hsa-miR-29b -> COL3A1 | proportion mediated median,+0.70
+C mediation,hsa-miR-29b -> COL3A1 | Sobel p<0.05,40/45
+C mediation,hsa-miR-29b -> COL3A1 | sign-inconsistent (ACME vs ADE),4/45
+C mediation,hsa-miR-29c -> COL1A1 | n mediators,45
+C mediation,"hsa-miR-29c -> COL1A1 | ACME median [min,max]","-0.154 [-0.277, +0.017]"
+C mediation,"hsa-miR-29c -> COL1A1 | ADE median [min,max]","-0.103 [-0.286, +0.021]"
+C mediation,hsa-miR-29c -> COL1A1 | proportion mediated median,+0.60
+C mediation,hsa-miR-29c -> COL1A1 | Sobel p<0.05,38/45
+C mediation,hsa-miR-29c -> COL1A1 | sign-inconsistent (ACME vs ADE),8/45
+C mediation,hsa-miR-29c -> COL3A1 | n mediators,45
+C mediation,"hsa-miR-29c -> COL3A1 | ACME median [min,max]","-0.162 [-0.274, +0.017]"
+C mediation,"hsa-miR-29c -> COL3A1 | ADE median [min,max]","-0.107 [-0.296, +0.005]"
+C mediation,hsa-miR-29c -> COL3A1 | proportion mediated median,+0.60
+C mediation,hsa-miR-29c -> COL3A1 | Sobel p<0.05,38/45
+C mediation,hsa-miR-29c -> COL3A1 | sign-inconsistent (ACME vs ADE),8/45
+"C mediation, collagen-free mediators only","ETS1 -> COL1A1 | ACME median, Sobel sig, inconsistent",+0.274 ; 22/24 ; 12/24
+"C mediation, collagen-free mediators only","NFKB1 -> COL1A1 | ACME median, Sobel sig, inconsistent",+0.122 ; 21/24 ; 18/24
+"C mediation, collagen-free mediators only","ETS1 -> COL3A1 | ACME median, Sobel sig, inconsistent",+0.267 ; 21/24 ; 6/24
+"C mediation, collagen-free mediators only","NFKB1 -> COL3A1 | ACME median, Sobel sig, inconsistent",+0.124 ; 21/24 ; 4/24
+"C mediation, collagen-free mediators only","SP1 -> COL1A1 | ACME median, Sobel sig, inconsistent",+0.118 ; 21/24 ; 22/24
+"C mediation, collagen-free mediators only","RELA -> COL1A1 | ACME median, Sobel sig, inconsistent",-0.003 ; 10/24 ; 14/24
+"C mediation, collagen-free mediators only","hsa-miR-29a -> COL1A1 | ACME median, Sobel sig, inconsistent",-0.128 ; 20/24 ; 3/24
+"C mediation, collagen-free mediators only","hsa-miR-29a -> COL3A1 | ACME median, Sobel sig, inconsistent",-0.131 ; 20/24 ; 3/24
+"C mediation, collagen-free mediators only","hsa-miR-29b -> COL1A1 | ACME median, Sobel sig, inconsistent",-0.163 ; 20/24 ; 2/24
+"C mediation, collagen-free mediators only","hsa-miR-29b -> COL3A1 | ACME median, Sobel sig, inconsistent",-0.174 ; 20/24 ; 2/24
+"C mediation, collagen-free mediators only","hsa-miR-29c -> COL1A1 | ACME median, Sobel sig, inconsistent",-0.117 ; 19/24 ; 5/24
+"C mediation, collagen-free mediators only","hsa-miR-29c -> COL3A1 | ACME median, Sobel sig, inconsistent",-0.124 ; 19/24 ; 5/24
+D compartment,COL1A1 | Fibroblast/CAF,"median rho +0.846 over 26 features [+0.613,+0.988]; 26 sig+, 0 sig-"
+D compartment,COL1A1 | Myeloid,"median rho +0.060 over 109 features [-0.416,+0.472]; 53 sig+, 28 sig-"
+D compartment,COL1A1 | Malignant/other,"median rho -0.007 over 23 features [-0.925,+0.057]; 0 sig+, 10 sig-"
+D compartment,COL1A1 | T/NK,"median rho -0.073 over 110 features [-0.830,+0.694]; 21 sig+, 60 sig-"
+D compartment,COL3A1 | Fibroblast/CAF,"median rho +0.854 over 26 features [+0.626,+0.977]; 26 sig+, 0 sig-"
+D compartment,COL3A1 | Myeloid,"median rho +0.057 over 109 features [-0.389,+0.506]; 53 sig+, 24 sig-"
+D compartment,COL3A1 | Malignant/other,"median rho -0.052 over 23 features [-0.937,+0.056]; 0 sig+, 11 sig-"
+D compartment,COL3A1 | T/NK,"median rho -0.088 over 110 features [-0.751,+0.619]; 27 sig+, 61 sig-"
+D compartment,miR29_family_mean | T/NK,"median rho +0.058 over 110 features [-0.262,+0.324]; 50 sig+, 4 sig-"
+D compartment,miR29_family_mean | Myeloid,"median rho +0.035 over 109 features [-0.240,+0.216]; 29 sig+, 12 sig-"
+D compartment,miR29_family_mean | Malignant/other,"median rho +0.028 over 23 features [-0.159,+0.255]; 11 sig+, 1 sig-"
+D compartment,miR29_family_mean | Fibroblast/CAF,"median rho -0.263 over 26 features [-0.329,-0.174]; 0 sig+, 26 sig-"
+E why methods differ,"ETS1 -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","-0.446 (n=19 mediators, p=0.0559)"
+E why methods differ,"NFKB1 -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","-0.318 (n=19 mediators, p=0.185)"
+E why methods differ,"ETS1 -> COL3A1 | rho(simulated-mixture accuracy, |ACME|)","-0.465 (n=19 mediators, p=0.0449)"
+E why methods differ,"NFKB1 -> COL3A1 | rho(simulated-mixture accuracy, |ACME|)","-0.321 (n=19 mediators, p=0.18)"
+E why methods differ,"SP1 -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","+0.139 (n=19 mediators, p=0.571)"
+E why methods differ,"RELA -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","+0.447 (n=19 mediators, p=0.557)"
+E why methods differ,"hsa-miR-29a -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","+0.619 (n=19 mediators, p=0.00469)"
+E why methods differ,"hsa-miR-29a -> COL3A1 | rho(simulated-mixture accuracy, |ACME|)","+0.630 (n=19 mediators, p=0.00385)"
+E why methods differ,"hsa-miR-29b -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","+0.454 (n=19 mediators, p=0.0507)"
+E why methods differ,"hsa-miR-29b -> COL3A1 | rho(simulated-mixture accuracy, |ACME|)","+0.454 (n=19 mediators, p=0.0507)"
+E why methods differ,"hsa-miR-29c -> COL1A1 | rho(simulated-mixture accuracy, |ACME|)","+0.609 (n=19 mediators, p=0.00567)"
+E why methods differ,"hsa-miR-29c -> COL3A1 | rho(simulated-mixture accuracy, |ACME|)","+0.598 (n=19 mediators, p=0.00681)"
+E why methods differ,"ETS1 -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",+0.562 ; median ACME collagen-free +0.274 vs collagen-containing +0.310 (Wilcoxon p=0.114)
+E why methods differ,"NFKB1 -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",+0.506 ; median ACME collagen-free +0.122 vs collagen-containing +0.130 (Wilcoxon p=0.199)
+E why methods differ,"ETS1 -> COL3A1 | rho(ACME, rho[mediator,COL1A1])",+0.577 ; median ACME collagen-free +0.267 vs collagen-containing +0.288 (Wilcoxon p=0.207)
+E why methods differ,"NFKB1 -> COL3A1 | rho(ACME, rho[mediator,COL1A1])",+0.446 ; median ACME collagen-free +0.124 vs collagen-containing +0.134 (Wilcoxon p=0.232)
+E why methods differ,"SP1 -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",+0.248 ; median ACME collagen-free +0.118 vs collagen-containing +0.121 (Wilcoxon p=0.991)
+E why methods differ,"RELA -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",+0.178 ; median ACME collagen-free -0.003 vs collagen-containing +0.004 (Wilcoxon p=0.191)
+E why methods differ,"hsa-miR-29a -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",-0.556 ; median ACME collagen-free -0.128 vs collagen-containing -0.149 (Wilcoxon p=0.067)
+E why methods differ,"hsa-miR-29a -> COL3A1 | rho(ACME, rho[mediator,COL1A1])",-0.535 ; median ACME collagen-free -0.131 vs collagen-containing -0.159 (Wilcoxon p=0.104)
+E why methods differ,"hsa-miR-29b -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",-0.969 ; median ACME collagen-free -0.163 vs collagen-containing -0.215 (Wilcoxon p=0.067)
+E why methods differ,"hsa-miR-29b -> COL3A1 | rho(ACME, rho[mediator,COL1A1])",-0.965 ; median ACME collagen-free -0.174 vs collagen-containing -0.216 (Wilcoxon p=0.0858)
+E why methods differ,"hsa-miR-29c -> COL1A1 | rho(ACME, rho[mediator,COL1A1])",-0.951 ; median ACME collagen-free -0.117 vs collagen-containing -0.182 (Wilcoxon p=0.0395)
+E why methods differ,"hsa-miR-29c -> COL3A1 | rho(ACME, rho[mediator,COL1A1])",-0.946 ; median ACME collagen-free -0.124 vs collagen-containing -0.181 (Wilcoxon p=0.044)
+E external checks,"in-house nu-SVR CIBERSORT vs official Thorsson CIBERSORT (22 LM22 types, n=1095)",median Spearman 0.492; abundance-weighted 0.615; 5/22 types above 0.6
+E external checks,DNA-methylation (EpiDISH) fibroblast fraction vs RNA-based estimates,"median Spearman 0.313 (range -0.146 to 0.390, n=783 tumours)"
+"A benchmark (held-out simulated mixtures, n=300)",DTANGLE,Spearman vs true CAF fraction 0.913
+"A benchmark (held-out simulated mixtures, n=300)",RLS,Spearman vs true CAF fraction 0.912
+"A benchmark (held-out simulated mixtures, n=300)",InstaPrism,Spearman vs true CAF fraction 0.899
+"A benchmark (held-out simulated mixtures, n=300)",DWLS,Spearman vs true CAF fraction 0.879
+"A benchmark (held-out simulated mixtures, n=300)",NNLS,Spearman vs true CAF fraction 0.875
+"A benchmark (held-out simulated mixtures, n=300)",OLS,Spearman vs true CAF fraction 0.875
+"A benchmark (held-out simulated mixtures, n=300)",QPROG,Spearman vs true CAF fraction 0.868
+"A benchmark (held-out simulated mixtures, n=300)",MCPcounter,Spearman vs true CAF fraction 0.798
+"A benchmark (held-out simulated mixtures, n=300)",EPIC,Spearman vs true CAF fraction 0.777

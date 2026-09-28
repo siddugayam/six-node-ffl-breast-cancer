@@ -1,0 +1,4 @@
+K=3 q=1,1, seed=42 found=2067 est=2067.0 visited=110241 maxclasses=3
+clshist: 1:54 2:520 3:1493
+maskhist: 4:4 6:119 12:138 17:6 26:1182 36:20 44:123 50:182 64:50 72:38 80:193 96:6 104:6
+maxclass_example: 12 38 374

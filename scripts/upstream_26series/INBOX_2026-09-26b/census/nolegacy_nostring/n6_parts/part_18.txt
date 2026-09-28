@@ -1,0 +1,86 @@
+K 6
+nparts 64
+part 18
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 951456
+visited 425061721
+rng_final 42
+comp 1 2 3 300
+comp 1 3 2 3748
+comp 1 4 1 19869
+comp 2 1 3 209
+comp 2 2 2 23002
+comp 2 3 1 297403
+comp 2 4 0 1679
+comp 3 0 3 20
+comp 3 1 2 8846
+comp 3 2 1 365406
+comp 3 3 0 29605
+comp 4 0 2 1158
+comp 4 1 1 83107
+comp 4 2 0 64668
+comp 5 0 1 9591
+comp 5 1 0 38810
+comp 6 0 0 4035
+mask 2 4035
+mask 3 10769
+mask 6 24217
+mask 7 2505
+mask 12 18577
+mask 13 5288
+mask 14 327607
+mask 15 211838
+mask 18 10
+mask 19 5
+mask 20 4778
+mask 21 1210
+mask 22 105757
+mask 23 23480
+mask 27 34
+mask 28 59401
+mask 29 18794
+mask 30 55933
+mask 31 76838
+mask 44 19
+mask 45 18
+mask 46 27
+mask 47 248
+mask 61 28
+mask 63 40
+flags 0 817886
+flags 1 13521
+flags 2 3030
+flags 3 7805
+flags 6 123
+flags 7 174
+flags 8 68032
+flags 9 29
+flags 10 458
+flags 11 836
+flags 14 8
+flags 24 38772
+flags 25 104
+flags 26 139
+flags 27 529
+flags 30 6
+flags 31 4
+exflag 0 ATF4 CCL2 hsa-miR-25 FHL2 NFKB1 hsa-miR-506
+exflag 0 ATF4 CEBPB VEGFA hsa-miR-106b hsa-miR-19a HIC1
+exflag 0 ATF4 CEBPB VEGFA hsa-miR-19a HIC1 hsa-miR-203
+exflag 1 ATF4 ATF3 MMP2 hsa-miR-106b EPAS1 MSC
+exflag 1 ATF4 ATF3 MMP2 hsa-miR-93 EPAS1 MSC
+exflag 1 ATF4 CEBPB HSF1 SERPINE1 hsa-miR-106b KLF10
+exflag 2 HIF1A APEX1 hsa-let-7e COL1A1 COL3A1 hsa-miR-133b
+exflag 2 HIF1A APEX1 hsa-miR-133b COL1A1 COL3A1 hsa-miR-143
+exflag 2 HIF1A APEX1 hsa-miR-133b COL1A1 COL3A1 hsa-miR-29c
+exflag 3 ATF4 ATF3 SIRT1 EZH2 MYC hsa-miR-27a | TF1=EZH2 TF2=MYC miRNA=hsa-miR-27a target=ATF3
+exflag 3 ATF4 CEBPB SIRT1 HIF1A TERT hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exflag 3 ATF4 CEBPB SIRT1 HIF1A VEGFA hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=VEGFA
+exflag 4 ATF4 CEBPB SIRT1 HIF1A TERT hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exflag 4 ATF4 SIRT1 HIF1A AR VEGFA hsa-miR-20a | TF1=HIF1A TF2=AR miRNA=hsa-miR-20a target=VEGFA
+exflag 4 ATF4 SIRT1 HIF1A E2F3 VEGFA hsa-miR-20a | TF1=HIF1A TF2=E2F3 miRNA=hsa-miR-20a target=VEGFA
+exmask 63 RELA COL1A1 COL3A1 EGR1 hsa-let-7e hsa-miR-199a
+exmask 63 RELA COL1A1 COL3A1 EGR1 hsa-miR-199a hsa-miR-335
+exmask 63 RELA COL1A1 COL3A1 EGR1 hsa-miR-199a hsa-miR-455

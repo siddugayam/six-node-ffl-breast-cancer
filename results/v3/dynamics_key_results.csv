@@ -1,0 +1,837 @@
+section,statement,value,units,source_file
+grounding,3-node FFL cores in the BRCA network,1649,cores,dynamics_empirical_grounding.csv
+grounding,cores with all three signs resolved,898,cores,dynamics_empirical_grounding.csv
+grounding,coherent fraction of resolved cores,43.8,%,dynamics_empirical_grounding.csv
+grounding,cores of Alon type C1 (all-activating) anywhere in the network,0,cores,dynamics_empirical_grounding.csv
+grounding,I1 cores (commonest resolved type),364,cores,dynamics_empirical_grounding.csv
+grounding,miRNA-FFL coherent fraction,78.9,%,dynamics_empirical_grounding.csv
+grounding,composite-FFL coherent fraction,37.9,%,dynamics_empirical_grounding.csv
+grounding,composite cores with TF -> miRNA -| TF  (delayed NEGATIVE FEEDBACK inside the FFL),473,resolved cores (61.8% of resolved composite),dynamics_composite_feedback_split.csv
+grounding,composite cores with TF -| miRNA -| TF  (MUTUAL REPRESSION / toggle inside the FFL),292,resolved cores (38.2% of resolved composite),dynamics_composite_feedback_split.csv
+validation,max abs deviation of the vectorised RK4 (dt=0.01) from scipy LSODA (rtol 1e-9) across all topologies,1.074232880426962e-08,concentration units,dynamics_integrator_validation.csv
+partB,parameter sets per topology (scrambled Sobol),1024,sets,dynamics_3node_comparison_table.csv
+partB,CASCADE: median ON-step response time relative to the cascade,1.0,ratio,dynamics_3node_comparison_table.csv
+partB,CASCADE: median OFF-step response time relative to the cascade,1.0,ratio,dynamics_3node_comparison_table.csv
+partB,CASCADE: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,CASCADE: median noise-filter index (1 = brief input fully rejected),0.851,index,dynamics_3node_comparison_table.csv
+partB,CASCADE: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,CASCADE: median effective Hill coefficient of the steady-state dose-response,4.11,n_eff,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: median ON-step response time relative to the cascade,1.231,ratio,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: median OFF-step response time relative to the cascade,1.001,ratio,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: median noise-filter index (1 = brief input fully rejected),0.938,index,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,C1_TXN_AND: median effective Hill coefficient of the steady-state dose-response,4.49,n_eff,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: median ON-step response time relative to the cascade,0.852,ratio,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: median OFF-step response time relative to the cascade,1.008,ratio,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: % of parameter space showing a pulse,45.3,%,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: median noise-filter index (1 = brief input fully rejected),0.773,index,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,I1_TXN_AND: median effective Hill coefficient of the steady-state dose-response,5.88,n_eff,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: median ON-step response time relative to the cascade,1.007,ratio,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: median OFF-step response time relative to the cascade,1.345,ratio,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: median noise-filter index (1 = brief input fully rejected),0.794,index,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,C1_TXN_OR: median effective Hill coefficient of the steady-state dose-response,6.06,n_eff,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: median ON-step response time relative to the cascade,1.0,ratio,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: median OFF-step response time relative to the cascade,1.206,ratio,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: % of parameter space showing a pulse,7.1,%,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: median noise-filter index (1 = brief input fully rejected),0.792,index,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: % of parameter space with fold-change detection,0.2,%,dynamics_3node_comparison_table.csv
+partB,I1_TXN_OR: median effective Hill coefficient of the steady-state dose-response,9.33,n_eff,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: median ON-step response time relative to the cascade,0.947,ratio,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: median OFF-step response time relative to the cascade,0.969,ratio,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: % of parameter space showing a pulse,13.6,%,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: median noise-filter index (1 = brief input fully rejected),0.812,index,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,I1_MIR_AND: median effective Hill coefficient of the steady-state dose-response,4.86,n_eff,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: median ON-step response time relative to the cascade,1.212,ratio,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: median OFF-step response time relative to the cascade,0.915,ratio,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: median noise-filter index (1 = brief input fully rejected),0.947,index,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,C2_MIR_AND: median effective Hill coefficient of the steady-state dose-response,4.18,n_eff,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: median ON-step response time relative to the cascade,0.884,ratio,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: median OFF-step response time relative to the cascade,1.204,ratio,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: median noise-filter index (1 = brief input fully rejected),0.849,index,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: % of parameter space with fold-change detection,4.1,%,dynamics_3node_comparison_table.csv
+partB,C3_MIR_AND: median effective Hill coefficient of the steady-state dose-response,4.48,n_eff,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: median ON-step response time relative to the cascade,0.831,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: median OFF-step response time relative to the cascade,0.948,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: % of parameter space showing a pulse,10.4,%,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: median noise-filter index (1 = brief input fully rejected),0.767,index,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: % of parameter space with fold-change detection,0.8,%,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_AND: median effective Hill coefficient of the steady-state dose-response,4.11,n_eff,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: median ON-step response time relative to the cascade,0.975,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: median OFF-step response time relative to the cascade,0.959,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: % of parameter space showing a pulse,8.3,%,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: median noise-filter index (1 = brief input fully rejected),0.817,index,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: % of parameter space with fold-change detection,0.4,%,dynamics_3node_comparison_table.csv
+partB,I3_MIR_AND: median effective Hill coefficient of the steady-state dose-response,5.56,n_eff,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: median ON-step response time relative to the cascade,0.868,ratio,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: median OFF-step response time relative to the cascade,1.17,ratio,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: median noise-filter index (1 = brief input fully rejected),0.775,index,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: % of parameter space with fold-change detection,0.6,%,dynamics_3node_comparison_table.csv
+partB,C4_MIR_AND: median effective Hill coefficient of the steady-state dose-response,5.69,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: median ON-step response time relative to the cascade,0.835,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: median OFF-step response time relative to the cascade,0.876,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: % of parameter space showing a pulse,27.4,%,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: median noise-filter index (1 = brief input fully rejected),0.718,index,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: % of parameter space with fold-change detection,0.3,%,dynamics_3node_comparison_table.csv
+partB,COMP_I1_AND: median effective Hill coefficient of the steady-state dose-response,4.32,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: median ON-step response time relative to the cascade,0.994,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: median OFF-step response time relative to the cascade,0.851,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: median noise-filter index (1 = brief input fully rejected),0.918,index,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: % of parameter space with fold-change detection,1.5,%,dynamics_3node_comparison_table.csv
+partB,COMP_C2_AND: median effective Hill coefficient of the steady-state dose-response,3.97,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: median ON-step response time relative to the cascade,0.955,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: median OFF-step response time relative to the cascade,0.891,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: % of parameter space showing a pulse,5.9,%,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: median noise-filter index (1 = brief input fully rejected),0.865,index,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: % of parameter space with fold-change detection,0.6,%,dynamics_3node_comparison_table.csv
+partB,COMP_I3_AND: median effective Hill coefficient of the steady-state dose-response,4.05,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: median ON-step response time relative to the cascade,0.805,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: median OFF-step response time relative to the cascade,0.892,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: % of parameter space showing a pulse,1.4,%,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: median noise-filter index (1 = brief input fully rejected),0.774,index,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: % of parameter space with fold-change detection,0.8,%,dynamics_3node_comparison_table.csv
+partB,COMP_C4_AND: median effective Hill coefficient of the steady-state dose-response,4.39,n_eff,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: median ON-step response time relative to the cascade,0.922,ratio,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: median OFF-step response time relative to the cascade,0.965,ratio,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: % of parameter space showing a pulse,8.6,%,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: median noise-filter index (1 = brief input fully rejected),0.8,index,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: % of parameter space with fold-change detection,0.0,%,dynamics_3node_comparison_table.csv
+partB,I1_MIR_OR: median effective Hill coefficient of the steady-state dose-response,5.38,n_eff,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: median ON-step response time relative to the cascade,1.123,ratio,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: median OFF-step response time relative to the cascade,0.969,ratio,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: median noise-filter index (1 = brief input fully rejected),0.912,index,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: % of parameter space with fold-change detection,0.3,%,dynamics_3node_comparison_table.csv
+partB,C2_MIR_OR: median effective Hill coefficient of the steady-state dose-response,3.87,n_eff,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: median ON-step response time relative to the cascade,0.97,ratio,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: median OFF-step response time relative to the cascade,1.102,ratio,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: median noise-filter index (1 = brief input fully rejected),0.869,index,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: % of parameter space with fold-change detection,2.2,%,dynamics_3node_comparison_table.csv
+partB,C3_MIR_OR: median effective Hill coefficient of the steady-state dose-response,3.88,n_eff,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: median ON-step response time relative to the cascade,0.901,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: median OFF-step response time relative to the cascade,0.982,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: % of parameter space showing a pulse,9.0,%,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: median noise-filter index (1 = brief input fully rejected),0.803,index,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: % of parameter space with fold-change detection,1.0,%,dynamics_3node_comparison_table.csv
+partB,I3_MIRLED_OR: median effective Hill coefficient of the steady-state dose-response,4.2,n_eff,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: median ON-step response time relative to the cascade,0.972,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: median OFF-step response time relative to the cascade,0.954,ratio,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: % of parameter space showing a pulse,10.4,%,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: median noise-filter index (1 = brief input fully rejected),0.827,index,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: % of parameter space with fold-change detection,1.1,%,dynamics_3node_comparison_table.csv
+partB,I3_MIR_OR: median effective Hill coefficient of the steady-state dose-response,5.38,n_eff,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: median ON-step response time relative to the cascade,0.927,ratio,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: median OFF-step response time relative to the cascade,1.112,ratio,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: median noise-filter index (1 = brief input fully rejected),0.804,index,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: % of parameter space with fold-change detection,0.9,%,dynamics_3node_comparison_table.csv
+partB,C4_MIR_OR: median effective Hill coefficient of the steady-state dose-response,4.68,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: median ON-step response time relative to the cascade,0.913,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: median OFF-step response time relative to the cascade,0.946,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: % of parameter space showing a pulse,13.2,%,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: median noise-filter index (1 = brief input fully rejected),0.757,index,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: % of parameter space with fold-change detection,0.5,%,dynamics_3node_comparison_table.csv
+partB,COMP_I1_OR: median effective Hill coefficient of the steady-state dose-response,4.69,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: median ON-step response time relative to the cascade,1.027,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: median OFF-step response time relative to the cascade,0.942,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: % of parameter space showing a pulse,0.0,%,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: median noise-filter index (1 = brief input fully rejected),0.917,index,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: % of parameter space with fold-change detection,0.8,%,dynamics_3node_comparison_table.csv
+partB,COMP_C2_OR: median effective Hill coefficient of the steady-state dose-response,3.83,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: median ON-step response time relative to the cascade,0.95,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: median OFF-step response time relative to the cascade,0.884,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: % of parameter space showing a pulse,6.6,%,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: median noise-filter index (1 = brief input fully rejected),0.86,index,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: % of parameter space with fold-change detection,0.9,%,dynamics_3node_comparison_table.csv
+partB,COMP_I3_OR: median effective Hill coefficient of the steady-state dose-response,3.97,n_eff,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: median ON-step response time relative to the cascade,0.849,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: median OFF-step response time relative to the cascade,0.921,ratio,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: % of parameter space showing a pulse,1.3,%,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: median noise-filter index (1 = brief input fully rejected),0.795,index,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: % of parameter space with fold-change detection,1.3,%,dynamics_3node_comparison_table.csv
+partB,COMP_C4_OR: median effective Hill coefficient of the steady-state dose-response,4.02,n_eff,dynamics_3node_comparison_table.csv
+partC,parameter sets per module (scrambled Sobol),16384,sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: bistable,25.21,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: ultrasensitive,60.91,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: very_ultrasensitive,19.57,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: memory,24.79,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: noise_rejecting,85.22,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n3: pulse,0.02,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: bistable,22.83,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: ultrasensitive,51.64,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: very_ultrasensitive,9.93,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: memory,59.11,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: noise_rejecting,80.46,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4: pulse,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: bistable,27.66,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: ultrasensitive,61.58,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: very_ultrasensitive,21.62,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: memory,26.04,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: noise_rejecting,85.19,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n4d: pulse,0.03,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: bistable,26.07,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: ultrasensitive,42.61,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: very_ultrasensitive,7.45,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: memory,48.55,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: noise_rejecting,72.65,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n5: pulse,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: bistable,12.49,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: sustained_osc,0.66,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: damped_osc,5.26,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: ultrasensitive,66.15,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: very_ultrasensitive,17.42,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: memory,58.55,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: noise_rejecting,80.22,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,COMP_C2_toggle / n6: pulse,25.12,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: bistable,0.48,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: ultrasensitive,86.89,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: very_ultrasensitive,35.94,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: memory,36.44,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: noise_rejecting,79.39,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n3: pulse,13.91,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: bistable,2.39,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: ultrasensitive,71.96,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: very_ultrasensitive,24.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: memory,68.48,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: noise_rejecting,81.37,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4: pulse,6.77,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: bistable,3.92,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: ultrasensitive,87.7,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: very_ultrasensitive,34.59,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: memory,36.92,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: noise_rejecting,83.12,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n4d: pulse,9.85,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: bistable,2.4,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: ultrasensitive,75.58,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: very_ultrasensitive,31.23,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: memory,62.32,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: noise_rejecting,76.72,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n5: pulse,11.25,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: bistable,2.25,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: sustained_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: damped_osc,0.0,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: ultrasensitive,77.36,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: very_ultrasensitive,32.27,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: memory,59.34,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: noise_rejecting,82.62,% of parameter sets,dynamics_higher_order_fractions.csv
+partC,I1_miRNA_FFL / n6: pulse,16.33,% of parameter sets,dynamics_higher_order_fractions.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_bistable,"gain 2.31% , loss 0.39% (McNemar p=2.79e-55)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: bistability_unresolved,"gain 6.02% , loss 0.00% (McNemar p=3.06e-297)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_ultrasensitive,"gain 3.34% , loss 18.27% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_very_ultrasensitive,"gain 4.05% , loss 15.99% (McNemar p=7.81e-273)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_memory,"gain 33.43% , loss 1.39% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_noise_rejecting,"gain 11.24% , loss 9.27% (McNemar p=2.7e-08)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: is_pulse,"gain 0.65% , loss 7.78% (McNemar p=4.18e-255)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4 vs its own 3-node core: nonmonotone_dose,"gain 0.87% , loss 16.37% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_bistable,"gain 2.29% , loss 0.37% (McNemar p=1.92e-56)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: bistability_unresolved,"gain 5.53% , loss 0.00% (McNemar p=3.7e-273)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_ultrasensitive,"gain 3.78% , loss 15.09% (McNemar p=2.63e-260)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_very_ultrasensitive,"gain 7.85% , loss 12.56% (McNemar p=6.67e-41)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_memory,"gain 28.51% , loss 2.63% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_noise_rejecting,"gain 8.29% , loss 10.96% (McNemar p=6.51e-15)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: is_pulse,"gain 3.47% , loss 6.12% (McNemar p=3.04e-28)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n5 vs its own 3-node core: nonmonotone_dose,"gain 6.74% , loss 9.83% (McNemar p=2.53e-22)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_bistable,"gain 2.15% , loss 0.38% (McNemar p=1.56e-50)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: bistability_unresolved,"gain 5.44% , loss 0.00% (McNemar p=1.21e-268)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_ultrasensitive,"gain 6.13% , loss 15.66% (McNemar p=2.47e-155)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_very_ultrasensitive,"gain 12.52% , loss 16.19% (McNemar p=1.94e-18)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_memory,"gain 27.55% , loss 4.64% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_noise_rejecting,"gain 13.00% , loss 9.78% (McNemar p=5.58e-18)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: is_pulse,"gain 8.89% , loss 6.48% (McNemar p=3.08e-15)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n6 vs its own 3-node core: nonmonotone_dose,"gain 7.67% , loss 17.99% (McNemar p=7.78e-154)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_bistable,"gain 3.85% , loss 0.40% (McNemar p=1.17e-116)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: bistability_unresolved,"gain 0.15% , loss 0.00% (McNemar p=1.19e-07)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_ultrasensitive,"gain 2.64% , loss 1.83% (McNemar p=1.02e-06)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_very_ultrasensitive,"gain 3.88% , loss 5.22% (McNemar p=1.32e-08)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_memory,"gain 3.08% , loss 2.60% (McNemar p=0.0105)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_noise_rejecting,"gain 5.51% , loss 1.78% (McNemar p=8.4e-73)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: is_pulse,"gain 0.67% , loss 4.72% (McNemar p=3.06e-124)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,I1_miRNA_FFL / n4d vs its own 3-node core: nonmonotone_dose,"gain 0.64% , loss 8.94% (McNemar p=9.5e-307)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_bistable,"gain 8.51% , loss 10.89% (McNemar p=5.58e-12)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: bistability_unresolved,"gain 3.88% , loss 0.04% (McNemar p=2.08e-179)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_ultrasensitive,"gain 1.46% , loss 10.74% (McNemar p=2.82e-285)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_very_ultrasensitive,"gain 2.03% , loss 11.67% (McNemar p=5.25e-269)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_memory,"gain 34.81% , loss 0.49% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_noise_rejecting,"gain 0.42% , loss 5.18% (McNemar p=1.14e-171)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: is_pulse,"gain 0.00% , loss 0.02% (McNemar p=0.25)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4 vs its own 3-node core: nonmonotone_dose,"gain 0.01% , loss 0.15% (McNemar p=1.05e-05)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_bistable,"gain 11.01% , loss 10.14% (McNemar p=0.0166)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: bistability_unresolved,"gain 3.13% , loss 0.05% (McNemar p=3.78e-140)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_ultrasensitive,"gain 1.24% , loss 19.54% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_very_ultrasensitive,"gain 2.06% , loss 14.19% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_memory,"gain 26.40% , loss 2.64% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_noise_rejecting,"gain 0.24% , loss 12.81% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: is_pulse,"gain 0.00% , loss 0.02% (McNemar p=0.25)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n5 vs its own 3-node core: nonmonotone_dose,"gain 2.75% , loss 1.98% (McNemar p=6.72e-06)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_bistable,"gain 5.89% , loss 18.61% (McNemar p=6.23e-249)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: bistability_unresolved,"gain 8.66% , loss 0.05% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_sustained_osc,"gain 0.66% , loss 0.00% (McNemar p=6.16e-33)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_damped_osc,"gain 5.26% , loss 0.00% (McNemar p=6.5e-260)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_ultrasensitive,"gain 21.81% , loss 16.57% (McNemar p=2.64e-27)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_very_ultrasensitive,"gain 13.06% , loss 15.22% (McNemar p=2.29e-07)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_memory,"gain 36.13% , loss 2.37% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_noise_rejecting,"gain 9.32% , loss 14.31% (McNemar p=1.16e-39)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: is_pulse,"gain 25.12% , loss 0.02% (McNemar p=0)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n6 vs its own 3-node core: nonmonotone_dose,"gain 14.75% , loss 4.07% (McNemar p=4.61e-231)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_bistable,"gain 15.36% , loss 12.90% (McNemar p=3.71e-09)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: bistability_unresolved,"gain 0.06% , loss 0.04% (McNemar p=0.629)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_sustained_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_damped_osc,"gain 0.00% , loss 0.00% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_ultrasensitive,"gain 0.98% , loss 0.32% (McNemar p=3.66e-14)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_very_ultrasensitive,"gain 3.17% , loss 1.12% (McNemar p=5.51e-38)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_memory,"gain 2.11% , loss 0.86% (McNemar p=6.17e-21)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_noise_rejecting,"gain 0.11% , loss 0.13% (McNemar p=0.636)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: is_pulse,"gain 0.01% , loss 0.00% (McNemar p=0.5)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partC_gain_loss,COMP_C2_toggle / n4d vs its own 3-node core: nonmonotone_dose,"gain 0.01% , loss 0.01% (McNemar p=1)",% of parameter sets,dynamics_higher_order_gain_loss.csv
+partD,c0,17.432,log2 units,dynamics_mir29_fit.csv
+partD,a_NFKB1,0.3102,log2 COL1A1 per log2 NFKB1,dynamics_mir29_fit.csv
+partD,lambda,131.1883,max fold-acceleration of COL1A1 mRNA decay,dynamics_mir29_fit.csv
+partD,K,19.9999,miR-29 fold of cohort median,dynamics_mir29_fit.csv
+partD,n,1.703,dimensionless,dynamics_mir29_fit.csv
+partD,R2_circuit_model,0.1305,fraction,dynamics_mir29_fit.csv
+partD,R2_TF_only,0.0105,fraction,dynamics_mir29_fit.csv
+partD,R2_loglinear,0.1177,fraction,dynamics_mir29_fit.csv
+partD,AIC_circuit_model,724.7386,AIC,dynamics_mir29_fit.csv
+partD,AIC_TF_only,856.6002,AIC,dynamics_mir29_fit.csv
+partD,AIC_loglinear,736.3117,AIC,dynamics_mir29_fit.csv
+partD,removal_factor_at_cohort_median,1.7937,fold,dynamics_mir29_fit.csv
+partD,max_achievable_suppression_from_median,73.6951,fold,dynamics_mir29_fit.csv
+partD,miR29_fold_to_halve_COL1A1_mRNA,2.0179,fold of cohort median,dynamics_mir29_fit.csv
+partD,miR29_fold_to_halve_COL1A1_mRNA_loglinear_check,2.5765,fold of cohort median,dynamics_mir29_fit.csv
+partD,miR29_fold_to_halve_COL1A1_protein_CPTAC,,fold of cohort median,dynamics_mir29_fit.csv
+partD,lambda_protein_CPTAC,1.0554,fold,dynamics_mir29_fit.csv
+partD,K_protein_CPTAC,1.2087,fold of median,dynamics_mir29_fit.csv
+partD,n_protein_CPTAC,4.0,dimensionless,dynamics_mir29_fit.csv
+partD,indirect_path_slope_miR29_NFKB1_COL1A1,0.0172,log2 COL1A1 per log2 miR-29,dynamics_mir29_fit.csv
+partD,slope_miR29_to_NFKB1,0.0554,log2 NFKB1 per log2 miR-29,dynamics_mir29_fit.csv
+partD,loglinear_total_slope_miR29_COL1A1,-0.7324,log2 COL1A1 per log2 miR-29,dynamics_mir29_fit.csv
+partD,local_log_sensitivity_at_median,-0.7525,d log2 COL1A1 / d log2 miR-29,dynamics_mir29_fit.csv
+partD,local_log_sensitivity_constrained_fit,-0.8152,d log2 COL1A1 / d log2 miR-29,dynamics_mir29_fit.csv
+partD,lambda_constrained_K_in_observed_range,7.5849,max fold-acceleration of decay,dynamics_mir29_fit.csv
+partD,K_constrained,2.8562,miR-29 fold of cohort median,dynamics_mir29_fit.csv
+partD,n_constrained,2.2913,dimensionless,dynamics_mir29_fit.csv
+partD,R2_constrained,0.1296,fraction,dynamics_mir29_fit.csv
+partD,K_hit_upper_bound_nonidentifiable,1.0,1 = yes,dynamics_mir29_fit.csv
+partD,reciprocal_arm_miR29_vs_NFKB1_spearman_rho,0.0638,rho (annotated edge is repressive; observed sign is opposite),dynamics_mir29_fit.csv
+partD,reciprocal_arm_miR29_vs_NFKB1_p,0.0373,p,dynamics_mir29_fit.csv
+partD,observed_miR29_fold_range_p1_p99_lo,0.3229,fold of cohort median,dynamics_mir29_fit.csv
+partD,observed_miR29_fold_range_p1_p99_hi,2.8562,fold of cohort median,dynamics_mir29_fit.csv
+partD_prediction,"miR-29 raised 1.00x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 0.0%; mRNA t1/2 nan h; protein t1/2 nan h; protein 90% at nan h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 1.50x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 30.3%; mRNA t1/2 9.3 h; protein t1/2 60.7 h; protein 90% at 168 h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 2.00x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 49.5%; mRNA t1/2 6.8 h; protein t1/2 56.5 h; protein 90% at 163 h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 2.02x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 50.0%; mRNA t1/2 6.7 h; protein t1/2 56.4 h; protein 90% at 163 h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 3.00x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 70.0%; mRNA t1/2 4.0 h; protein t1/2 52.0 h; protein 90% at 159 h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 5.00x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 85.4%; mRNA t1/2 1.9 h; protein t1/2 48.9 h; protein 90% at 156 h,prediction,dynamics_mir29_predictions.csv
+partD_prediction,"miR-29 raised 10.00x over the cohort median (activated myofibroblast, COL1A1 mRNA t1/2 24 h, protein t1/2 46 h)",COL1A1 mRNA falls 94.4%; mRNA t1/2 0.8 h; protein t1/2 47.1 h; protein 90% at 154 h,prediction,dynamics_mir29_predictions.csv
+model_check,gene-gene edge modelled as linear_legacy mutual stabilisation: parameter sets whose 4/5/6-node module had NOT reached a steady state after 250 tau,49.6,% (mean over modules),dynamics_model_wellposedness_check.csv
+model_check,gene-gene edge modelled as linear_legacy mutual stabilisation: largest target-protein level reached in any 4/5/6-node module,451.4,scaled concentration,dynamics_model_wellposedness_check.csv
+model_check,gene-gene edge modelled as saturating mutual stabilisation: parameter sets whose 4/5/6-node module had NOT reached a steady state after 250 tau,7.8,% (mean over modules),dynamics_model_wellposedness_check.csv
+model_check,gene-gene edge modelled as saturating mutual stabilisation: largest target-protein level reached in any 4/5/6-node module,10.9,scaled concentration,dynamics_model_wellposedness_check.csv
+partB_oscillation,C1_TXN_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C1_TXN_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C2_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),7.62,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),8.4,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C3_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,C4_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,CASCADE (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,CASCADE (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,CASCADE (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,CASCADE (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),1.37,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),1.27,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C2_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),45.9,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),75.68,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),45.9,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),74.22,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_C4_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),45.9,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),53.12,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),45.9,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),54.79,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I1_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),17.09,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),13.87,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,COMP_I3_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I1_TXN_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),41.5,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),37.89,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIRLED_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_AND (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_AND (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_AND (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_OR (theta = 0 (catalytic RISC)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_OR (theta = 0 (catalytic RISC)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets with a complex eigenvalue at the operating point (capacity to ring or oscillate),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_oscillation,I3_MIR_OR (theta sampled 0-10 (stoichiometric titration)): parameter sets at an unstable focus (sustained oscillation),0.0,% of parameter sets,dynamics_3node_oscillation_by_titration.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: rel_T_ON,median 0.947 vs 0.852; paired difference +0.014 (51.2% of sets higher; Wilcoxon p=0.0243),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: rel_T_OFF,median 0.969 vs 1.008; paired difference -0.129 (29.1% of sets higher; Wilcoxon p=6.94e-49),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (14.6% of sets higher; Wilcoxon p=3.07e-30),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: adaptation,median 0.000 vs 0.034; paired difference -0.007 (8.6% of sets higher; Wilcoxon p=1.06e-71),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (3.2% of sets higher; Wilcoxon p=1.99e-49),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: filter_index,median 0.812 vs 0.773; paired difference +0.017 (59.0% of sets higher; Wilcoxon p=7.85e-06),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: noise_transmission,median 0.188 vs 0.227; paired difference -0.017 (41.0% of sets higher; Wilcoxon p=7.85e-06),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: n_eff_protein,median 4.856 vs 5.882; paired difference -0.207 (35.7% of sets higher; Wilcoxon p=7.88e-24),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: n_eff_mRNA,median 4.546 vs 5.884; paired difference -0.352 (30.2% of sets higher; Wilcoxon p=2.34e-51),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: dyn_range_protein,median 11886.411 vs 6055.375; paired difference +10.058 (57.3% of sets higher; Wilcoxon p=2.44e-07),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: FCD_error,median 0.337 vs 0.357; paired difference +0.002 (56.0% of sets higher; Wilcoxon p=0.0122),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_AND vs I1_TXN_AND: sign_sensitive_delay_index,median -0.034 vs -0.316; paired difference +0.227 (67.3% of sets higher; Wilcoxon p=2e-31),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: rel_T_ON,median 0.922 vs 1.000; paired difference -0.188 (32.9% of sets higher; Wilcoxon p=4.7e-40),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: rel_T_OFF,median 0.965 vs 1.206; paired difference -0.293 (30.8% of sets higher; Wilcoxon p=9.27e-61),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (14.0% of sets higher; Wilcoxon p=6.49e-06),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: adaptation,median 0.000 vs 0.000; paired difference +0.000 (15.2% of sets higher; Wilcoxon p=0.00188),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (7.2% of sets higher; Wilcoxon p=0.406),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: filter_index,median 0.800 vs 0.792; paired difference +0.006 (53.5% of sets higher; Wilcoxon p=1.26e-10),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: noise_transmission,median 0.200 vs 0.208; paired difference -0.006 (46.5% of sets higher; Wilcoxon p=1.26e-10),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: n_eff_protein,median 5.387 vs 9.327; paired difference -2.740 (21.9% of sets higher; Wilcoxon p=9.68e-82),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: n_eff_mRNA,median 5.375 vs 9.056; paired difference -2.544 (22.6% of sets higher; Wilcoxon p=2.8e-78),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: dyn_range_protein,median 5.891 vs 1.411; paired difference +3.500 (91.3% of sets higher; Wilcoxon p=1.18e-144),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: FCD_error,median 0.201 vs 0.039; paired difference +0.043 (83.1% of sets higher; Wilcoxon p=1.33e-102),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=0.901),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,I1_MIR_OR vs I1_TXN_OR: sign_sensitive_delay_index,median -0.018 vs 0.000; paired difference +0.022 (54.8% of sets higher; Wilcoxon p=3.19e-09),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: rel_T_ON,median 1.212 vs 1.231; paired difference -0.011 (44.8% of sets higher; Wilcoxon p=3.33e-05),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: rel_T_OFF,median 0.915 vs 1.001; paired difference -0.136 (13.8% of sets higher; Wilcoxon p=8.69e-138),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: adaptation,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: filter_index,median 0.947 vs 0.938; paired difference -0.000 (47.5% of sets higher; Wilcoxon p=0.757),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: noise_transmission,median 0.053 vs 0.062; paired difference +0.000 (52.5% of sets higher; Wilcoxon p=0.757),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: n_eff_protein,median 4.185 vs 4.492; paired difference +0.065 (56.8% of sets higher; Wilcoxon p=0.601),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: n_eff_mRNA,median 3.999 vs 4.492; paired difference -0.007 (49.4% of sets higher; Wilcoxon p=3.7e-08),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: dyn_range_protein,median 1973070.965 vs 388967824.773; paired difference -46659600.643 (28.7% of sets higher; Wilcoxon p=2.35e-62),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: FCD_error,median 0.512 vs 0.476; paired difference +0.000 (56.2% of sets higher; Wilcoxon p=0.598),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_AND vs C1_TXN_AND: sign_sensitive_delay_index,median 0.456 vs 0.151; paired difference +0.078 (59.5% of sets higher; Wilcoxon p=1e-21),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: rel_T_ON,median 1.123 vs 1.007; paired difference +0.098 (74.5% of sets higher; Wilcoxon p=1.5e-71),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: rel_T_OFF,median 0.969 vs 1.345; paired difference -0.430 (5.4% of sets higher; Wilcoxon p=3.58e-157),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: adaptation,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: filter_index,median 0.912 vs 0.794; paired difference +0.072 (87.3% of sets higher; Wilcoxon p=1.25e-140),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: noise_transmission,median 0.088 vs 0.206; paired difference -0.072 (12.7% of sets higher; Wilcoxon p=1.25e-140),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: n_eff_protein,median 3.870 vs 6.058; paired difference -1.547 (16.1% of sets higher; Wilcoxon p=8.8e-116),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: n_eff_mRNA,median 3.871 vs 6.060; paired difference -1.544 (16.2% of sets higher; Wilcoxon p=1.03e-115),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: dyn_range_protein,median 32.159 vs 7.693; paired difference +22.493 (96.4% of sets higher; Wilcoxon p=4.02e-163),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: FCD_error,median 0.322 vs 0.019; paired difference +0.094 (92.1% of sets higher; Wilcoxon p=5.94e-114),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.3% of sets higher; Wilcoxon p=0.852),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,C2_MIR_OR vs C1_TXN_OR: sign_sensitive_delay_index,median 0.239 vs -0.347; paired difference +0.699 (97.0% of sets higher; Wilcoxon p=1e-161),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: rel_T_ON,median 0.835 vs 0.947; paired difference -0.010 (38.3% of sets higher; Wilcoxon p=5.14e-25),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: rel_T_OFF,median 0.876 vs 0.969; paired difference -0.079 (13.9% of sets higher; Wilcoxon p=7.59e-83),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (24.2% of sets higher; Wilcoxon p=2.05e-06),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: adaptation,median 0.000 vs 0.000; paired difference +0.000 (26.6% of sets higher; Wilcoxon p=1.95e-13),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (18.4% of sets higher; Wilcoxon p=4.29e-13),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: filter_index,median 0.718 vs 0.812; paired difference -0.000 (48.1% of sets higher; Wilcoxon p=6.91e-10),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: noise_transmission,median 0.282 vs 0.188; paired difference +0.000 (51.7% of sets higher; Wilcoxon p=6.91e-10),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: n_eff_protein,median 4.324 vs 4.858; paired difference -0.052 (26.1% of sets higher; Wilcoxon p=2.96e-35),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: n_eff_mRNA,median 3.777 vs 4.547; paired difference -0.105 (22.9% of sets higher; Wilcoxon p=3.01e-56),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: dyn_range_protein,median 2932.157 vs 11886.411; paired difference -12.937 (28.4% of sets higher; Wilcoxon p=2.03e-54),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: FCD_error,median 0.272 vs 0.337; paired difference -0.001 (42.1% of sets higher; Wilcoxon p=3.92e-15),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.3% of sets higher; Wilcoxon p=0.852),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_AND vs I1_MIR_AND: sign_sensitive_delay_index,median -0.091 vs -0.034; paired difference +0.007 (61.9% of sets higher; Wilcoxon p=0.0817),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: rel_T_ON,median 0.994 vs 1.212; paired difference -0.042 (44.5% of sets higher; Wilcoxon p=3.46e-16),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: rel_T_OFF,median 0.851 vs 0.915; paired difference -0.001 (36.0% of sets higher; Wilcoxon p=6.02e-46),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (1.0% of sets higher; Wilcoxon p=0.554),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: adaptation,median 0.000 vs 0.000; paired difference +0.000 (5.8% of sets higher; Wilcoxon p=0.00049),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: filter_index,median 0.918 vs 0.940; paired difference -0.000 (47.1% of sets higher; Wilcoxon p=0.0025),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: noise_transmission,median 0.082 vs 0.060; paired difference +0.000 (52.8% of sets higher; Wilcoxon p=0.0025),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: n_eff_protein,median 3.974 vs 4.128; paired difference +0.055 (64.3% of sets higher; Wilcoxon p=1.15e-07),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: n_eff_mRNA,median 3.784 vs 3.969; paired difference +0.035 (58.5% of sets higher; Wilcoxon p=0.000988),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: dyn_range_protein,median 5885.547 vs 1973070.965; paired difference -675.182 (45.8% of sets higher; Wilcoxon p=1.91e-09),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: FCD_error,median 0.879 vs 0.512; paired difference +0.000 (73.8% of sets higher; Wilcoxon p=4.34e-17),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (1.5% of sets higher; Wilcoxon p=0.356),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_AND vs C2_MIR_AND: sign_sensitive_delay_index,median 0.208 vs 0.456; paired difference -0.000 (40.8% of sets higher; Wilcoxon p=4.14e-07),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: rel_T_ON,median 0.913 vs 0.922; paired difference -0.000 (49.6% of sets higher; Wilcoxon p=0.0379),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: rel_T_OFF,median 0.946 vs 0.965; paired difference -0.039 (23.3% of sets higher; Wilcoxon p=9.72e-31),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (11.2% of sets higher; Wilcoxon p=0.105),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: adaptation,median 0.000 vs 0.000; paired difference +0.000 (13.4% of sets higher; Wilcoxon p=0.449),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (8.7% of sets higher; Wilcoxon p=0.00913),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: filter_index,median 0.757 vs 0.800; paired difference +0.000 (52.2% of sets higher; Wilcoxon p=0.0982),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: noise_transmission,median 0.243 vs 0.200; paired difference -0.000 (47.8% of sets higher; Wilcoxon p=0.0982),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: n_eff_protein,median 4.678 vs 5.380; paired difference -0.066 (26.3% of sets higher; Wilcoxon p=1.79e-43),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: n_eff_mRNA,median 4.673 vs 5.385; paired difference -0.062 (26.4% of sets higher; Wilcoxon p=2.96e-43),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: dyn_range_protein,median 3.932 vs 5.891; paired difference -0.039 (27.7% of sets higher; Wilcoxon p=5.69e-73),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: FCD_error,median 0.123 vs 0.201; paired difference -0.003 (37.0% of sets higher; Wilcoxon p=5.45e-28),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.5% of sets higher; Wilcoxon p=0.756),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_I1_OR vs I1_MIR_OR: sign_sensitive_delay_index,median -0.023 vs -0.018; paired difference +0.021 (68.5% of sets higher; Wilcoxon p=1.41e-18),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: rel_T_ON,median 1.027 vs 1.123; paired difference +0.000 (55.3% of sets higher; Wilcoxon p=0.278),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: rel_T_OFF,median 0.942 vs 0.969; paired difference -0.000 (47.9% of sets higher; Wilcoxon p=2.8e-11),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: overshoot_ratio,median 1.000 vs 1.000; paired difference +0.000 (0.3% of sets higher; Wilcoxon p=0.9),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: adaptation,median 0.000 vs 0.000; paired difference +0.000 (0.8% of sets higher; Wilcoxon p=0.62),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: is_pulse,median 0.000 vs 0.000; paired difference +0.000 (0.0% of sets higher; Wilcoxon p=1),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: filter_index,median 0.917 vs 0.911; paired difference +0.000 (51.9% of sets higher; Wilcoxon p=0.0062),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: noise_transmission,median 0.083 vs 0.089; paired difference -0.000 (47.9% of sets higher; Wilcoxon p=0.0062),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: n_eff_protein,median 3.831 vs 3.848; paired difference +0.086 (62.9% of sets higher; Wilcoxon p=3.36e-12),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: n_eff_mRNA,median 3.732 vs 3.856; paired difference +0.051 (60.5% of sets higher; Wilcoxon p=1.93e-06),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: dyn_range_protein,median 2.116 vs 32.159; paired difference -4.034 (32.0% of sets higher; Wilcoxon p=1.4e-63),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: FCD_error,median 0.041 vs 0.322; paired difference +0.000 (55.2% of sets higher; Wilcoxon p=7.53e-13),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: is_FCD,median 0.000 vs 0.000; paired difference +0.000 (0.8% of sets higher; Wilcoxon p=0.757),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+partB_paired,COMP_C2_OR vs C2_MIR_OR: sign_sensitive_delay_index,median 0.206 vs 0.239; paired difference -0.000 (48.7% of sets higher; Wilcoxon p=0.0254),paired over parameter sets,dynamics_mir_vs_txn_paired.csv
+analytic_bounds,"OR/SUM gate: y_ss(m=0)/y_ss(m->inf) = 1 + lambda_y exactly; the miRNA arm attenuates by at most (1+lambda_y)-fold and can never drive the target to zero, unlike a promoter-bound repressor",predicted 4.157; observed 4.157; median relative error 4.05e-12,closed form vs simulation,dynamics_analytic_bounds.csv
+analytic_bounds,"target-mRNA response half-time = ln2 / (1 + lambda_y*q(m)); the post-transcriptional arm accelerates the target for ANY loop sign, whereas Alon's coherent C1 delays it",predicted 0.1958; observed 0.2; median relative error 4.32e-02,closed form vs simulation,dynamics_analytic_bounds.csv
+analytic_bounds,miRNA-mediated I1 overshoot ratio is capped at 1 + lambda_y*q(m_ss); a transcriptional I1 has no such cap,predicted 3.245; observed 1.156; median relative error 0.00e+00,closed form vs simulation,dynamics_analytic_bounds.csv
+analytic_bounds,"with a finite shared RISC/AGO capacity Kc the effective repressor pool saturates at Kc, so the achievable repression falls from 1+lambda_y to 1+lambda_y*q(Kc): competition for RISC caps how much any single miRNA can repress",predicted 3.571,closed form vs simulation,dynamics_analytic_bounds.csv
+references,citations resolved on CrossRef,25/25,references,dynamics_references_verified.csv
+validation,T_half_ON: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,1.5366201167044125e-07,tau,dynamics_solver_crosscheck_summary.csv
+validation,T_half_ON: worst-case |RK4 - LSODA|,0.0451488670335109,tau,dynamics_solver_crosscheck_summary.csv
+validation,T_half_ON: Pearson r between the two solvers,0.999998,r,dynamics_solver_crosscheck_summary.csv
+validation,T_half_OFF: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,1.3273693966198152e-07,tau,dynamics_solver_crosscheck_summary.csv
+validation,T_half_OFF: worst-case |RK4 - LSODA|,1.4987569789710662,tau,dynamics_solver_crosscheck_summary.csv
+validation,T_half_OFF: Pearson r between the two solvers,0.999878,r,dynamics_solver_crosscheck_summary.csv
+validation,filter_index: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,0.0004683754713054,-,dynamics_solver_crosscheck_summary.csv
+validation,filter_index: worst-case |RK4 - LSODA|,0.0041864087119296,-,dynamics_solver_crosscheck_summary.csv
+validation,filter_index: Pearson r between the two solvers,0.999998,r,dynamics_solver_crosscheck_summary.csv
+validation,overshoot: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,9.696333513886657e-09,-,dynamics_solver_crosscheck_summary.csv
+validation,overshoot: worst-case |RK4 - LSODA|,0.0222314285367382,-,dynamics_solver_crosscheck_summary.csv
+validation,overshoot: Pearson r between the two solvers,1.0,r,dynamics_solver_crosscheck_summary.csv
+validation,n_eff: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,2.6234191325968936e-06,-,dynamics_solver_crosscheck_summary.csv
+validation,n_eff: worst-case |RK4 - LSODA|,15.87145078410358,-,dynamics_solver_crosscheck_summary.csv
+validation,n_eff: Pearson r between the two solvers,0.960695,r,dynamics_solver_crosscheck_summary.csv
+validation,p_lo: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,2.7922109069322687e-14,-,dynamics_solver_crosscheck_summary.csv
+validation,p_lo: worst-case |RK4 - LSODA|,0.0002698890596375,-,dynamics_solver_crosscheck_summary.csv
+validation,p_lo: Pearson r between the two solvers,1.0,r,dynamics_solver_crosscheck_summary.csv
+validation,p_hi: median |fixed-step RK4 - adaptive LSODA| over 320 topology x parameter-set combinations,2.760871535128565e-12,-,dynamics_solver_crosscheck_summary.csv
+validation,p_hi: worst-case |RK4 - LSODA|,0.0047633092720608,-,dynamics_solver_crosscheck_summary.csv
+validation,p_hi: Pearson r between the two solvers,1.0,r,dynamics_solver_crosscheck_summary.csv
+validation,published FFL results the model was required to reproduce,7,criteria,dynamics_textbook_validation.csv
+validation,"of those, PASS",7,criteria,dynamics_textbook_validation.csv
+validation,[PASS] The coherent type-1 FFL with an AND input function is a sign-sensitive delay element: it delays the response t,"rel_T_ON = 1.231, rel_T_OFF = 1.001; paired Wilcoxon p(ON) = 4.06e-169",,dynamics_textbook_validation.csv
+validation,"[PASS] The coherent type-1 FFL with a SUM (OR-like) input function prolongs expression after the signal is removed, i","rel_T_ON = 1.007, rel_T_OFF = 1.345; paired Wilcoxon p(OFF) = 1.16e-161",,dynamics_textbook_validation.csv
+validation,[PASS] The incoherent type-1 FFL speeds up the response to signal ON relative to simple regulation.,"rel_T_ON = 0.852; 65.2% of parameter sets accelerated; sign test p = 2.36e-22; signed-rank on the log ratio p = 1.79e-11; (signed-rank on RAW half-times p = 0.232, dominated by a minority of sets with large absolute slow-downs)",,dynamics_textbook_validation.csv
+validation,[PASS] The incoherent type-1 FFL generates a pulse of the output: an overshoot followed by partial adaptation to a lo,"pct_pulse = 45.3%, median overshoot = 1.71, median adaptation = 0.63",,dynamics_textbook_validation.csv
+validation,[PASS] Simple regulation (a cascade with no shortcut) shows neither a sign-sensitive delay nor a pulse; its response ,"pct_pulse = 0.0%, median turning points = 0",,dynamics_textbook_validation.csv
+validation,"[PASS] The incoherent type-1 FFL can provide fold-change detection, but only in a restricted parameter regime (strong",I1_TXN_AND: 0.0%; I1_TXN_OR: 0.2%; I1_MIR_AND: 0.0%; I1_MIR_OR: 0.0%; COMP_I1_AND: 0.3%,,dynamics_textbook_validation.csv
+validation,[PASS] The COHERENT type-1 FFL with an AND input function rejects a brief spurious input relative to a persistent one,"C1_TXN_AND 0.938 vs cascade 0.851 (paired median difference +0.045, Wilcoxon p = 1.72e-156); the realisable coherent miRNA circuit C2_MIR_AND reaches 0.947; by contrast the incoherent I1_MIR_AND gives 0.812 (paired difference -0.022), i.e. it transmits MORE of a brief input than a plain cascade",,dynamics_textbook_validation.csv
+partB,"C1_TXN_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.231 [1.199, 1.276], p_Holm=9.73e-168",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_TXN_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.852 [0.804, 0.893], p_Holm=0.464",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C1_TXN_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.007 [1.005, 1.010], p_Holm=1.7e-47",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_TXN_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.000 [1.000, 1.000], p_Holm=3.64e-12",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_MIR_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.947 [0.932, 0.961], p_Holm=5.4e-15",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C2_MIR_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.212 [1.184, 1.240], p_Holm=4.23e-146",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C3_MIR_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.884 [0.867, 0.902], p_Holm=2.14e-47",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIRLED_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.831 [0.804, 0.852], p_Holm=2.22e-23",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIR_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.975 [0.957, 0.984], p_Holm=1.18e-12",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C4_MIR_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.868 [0.858, 0.879], p_Holm=8.52e-132",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I1_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.835 [0.802, 0.872], p_Holm=5.41e-50",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C2_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.994 [0.953, 1.001], p_Holm=0.464",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I3_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.955 [0.935, 0.972], p_Holm=9.71e-18",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C4_AND: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.805 [0.790, 0.818], p_Holm=3.33e-161",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_MIR_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.922 [0.906, 0.941], p_Holm=4.19e-24",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C2_MIR_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.123 [1.109, 1.140], p_Holm=3.42e-130",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C3_MIR_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.970 [0.953, 0.984], p_Holm=2.99e-05",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIRLED_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.901 [0.878, 0.919], p_Holm=6.75e-17",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIR_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.972 [0.959, 0.979], p_Holm=3.51e-07",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C4_MIR_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.927 [0.917, 0.937], p_Holm=9.83e-54",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I1_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.913 [0.897, 0.933], p_Holm=8.32e-24",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C2_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.027 [1.017, 1.051], p_Holm=7.17e-15",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I3_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.950 [0.932, 0.969], p_Holm=1.8e-15",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C4_OR: T_half_ON relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.849 [0.833, 0.860], p_Holm=1.33e-138",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C1_TXN_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.001 [1.001, 1.002], p_Holm=5.24e-33",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_TXN_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.008 [1.004, 1.014], p_Holm=5.65e-30",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C1_TXN_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.345 [1.300, 1.393], p_Holm=2.79e-160",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_TXN_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.206 [1.000, 1.550], p_Holm=4.95e-39",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_MIR_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.969 [0.953, 0.983], p_Holm=1.24e-06",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C2_MIR_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.915 [0.904, 0.927], p_Holm=3.79e-97",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C3_MIR_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.204 [1.133, 1.289], p_Holm=3.85e-38",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIRLED_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.948 [0.903, 0.984], p_Holm=0.553",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIR_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.959 [0.947, 0.972], p_Holm=4.36e-12",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C4_MIR_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.170 [1.149, 1.192], p_Holm=3.8e-111",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I1_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.876 [0.846, 0.896], p_Holm=2.88e-42",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C2_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.851 [0.831, 0.878], p_Holm=7.93e-101",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I3_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.891 [0.865, 0.912], p_Holm=1.28e-50",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C4_AND: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.892 [0.867, 0.919], p_Holm=2.87e-35",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I1_MIR_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.965 [0.951, 0.974], p_Holm=8.59e-08",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C2_MIR_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.969 [0.958, 0.978], p_Holm=1.96e-42",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C3_MIR_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.102 [1.064, 1.149], p_Holm=1.24e-25",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIRLED_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.982 [0.962, 1.007], p_Holm=0.327",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"I3_MIR_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.954 [0.940, 0.966], p_Holm=7.17e-15",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"C4_MIR_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","1.112 [1.097, 1.128], p_Holm=2.84e-80",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I1_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.946 [0.929, 0.958], p_Holm=5.39e-10",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C2_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.942 [0.922, 0.957], p_Holm=4.47e-42",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_I3_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.884 [0.859, 0.906], p_Holm=2.83e-42",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,"COMP_C4_OR: T_half_OFF relative to the matched cascade (median, 95% bootstrap CI; paired Wilcoxon)","0.921 [0.892, 0.942], p_Holm=8.2e-33",ratio,dynamics_paired_tests_vs_cascade.csv
+partB,I1_TXN_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=282),5.0,tau,dynamics_pulse_longwindow_summary.csv
+partB,I1_TXN_AND: % of flagged pulses still censored at 400 tau,39.2,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_TXN_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_TXN_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=27),8.0,tau,dynamics_pulse_longwindow_summary.csv
+partB,I1_TXN_OR: % of flagged pulses still censored at 400 tau,63.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_TXN_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=74),2.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_AND: % of flagged pulses still censored at 400 tau,46.8,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=52),3.0,tau,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_AND: % of flagged pulses still censored at 400 tau,51.4,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=43),5.0,tau,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_AND: % of flagged pulses still censored at 400 tau,49.4,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=193),3.0,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_AND: % of flagged pulses still censored at 400 tau,31.3,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=25),3.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_AND: % of flagged pulses still censored at 400 tau,58.3,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_AND: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=0),,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_AND: % of flagged pulses still censored at 400 tau,100.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_AND: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=45),3.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_OR: % of flagged pulses still censored at 400 tau,48.9,%,dynamics_pulse_longwindow_summary.csv
+partB,I1_MIR_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=43),3.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_OR: % of flagged pulses still censored at 400 tau,53.3,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIRLED_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=49),4.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_OR: % of flagged pulses still censored at 400 tau,53.8,%,dynamics_pulse_longwindow_summary.csv
+partB,I3_MIR_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=79),2.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_OR: % of flagged pulses still censored at 400 tau,41.5,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I1_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=29),4.5,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_OR: % of flagged pulses still censored at 400 tau,57.4,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_I3_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_OR: median pulse FWHM among UNCENSORED pulses over a 400-tau window (n=0),,tau,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_OR: % of flagged pulses still censored at 400 tau,100.0,%,dynamics_pulse_longwindow_summary.csv
+partB,COMP_C4_OR: % of non-flagged sets that do pulse over 400 tau (false-negative rate of the 60-tau screen),0.0,%,dynamics_pulse_longwindow_summary.csv
+partB,C1_TXN_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,C1_TXN_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,C2_MIR_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,C2_MIR_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.29,%,dynamics_fcd_recomputed_summary.csv
+partB,C3_MIR_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),4.1,%,dynamics_fcd_recomputed_summary.csv
+partB,C3_MIR_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),2.25,%,dynamics_fcd_recomputed_summary.csv
+partB,C4_MIR_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.59,%,dynamics_fcd_recomputed_summary.csv
+partB,C4_MIR_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.88,%,dynamics_fcd_recomputed_summary.csv
+partB,CASCADE: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_C2_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),1.46,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_C2_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.78,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_C4_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.78,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_C4_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),1.27,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_I1_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.29,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_I1_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.59,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_I3_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.59,%,dynamics_fcd_recomputed_summary.csv
+partB,COMP_I3_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.88,%,dynamics_fcd_recomputed_summary.csv
+partB,I1_MIR_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,I1_MIR_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,I1_TXN_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.0,%,dynamics_fcd_recomputed_summary.csv
+partB,I1_TXN_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.2,%,dynamics_fcd_recomputed_summary.csv
+partB,I3_MIRLED_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.78,%,dynamics_fcd_recomputed_summary.csv
+partB,I3_MIRLED_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.98,%,dynamics_fcd_recomputed_summary.csv
+partB,I3_MIR_AND: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),0.39,%,dynamics_fcd_recomputed_summary.csv
+partB,I3_MIR_OR: % of parameter space with fold-change detection at a 3-fold step (corrected peak-excursion criterion),1.07,%,dynamics_fcd_recomputed_summary.csv
+partB,"highest % of parameter space with fold-change detection in any topology (corrected criterion, any fold)",4.98,%,dynamics_fcd_recomputed_summary.csv
+partC,6-node composite sets flagged as sustained oscillators,108,sets,dynamics_n6_limit_cycle_certified.csv
+partC,"of those, CERTIFIED limit cycles (amplitude held for 1,000 tau and identical from two initial conditions)",83,sets,dynamics_n6_limit_cycle_certified.csv
+partC,"certified limit cycles as a fraction of the 16,384-set design",0.507,%,dynamics_n6_limit_cycle_certified.csv
+partC,certified oscillators whose embedded 3-node core also oscillates,0,sets,dynamics_n6_limit_cycle_certified.csv
+partC,largest |Im(lambda)| in the 3-node cores of the oscillating parameter sets,0.0,1/tau,dynamics_n6_limit_cycle_certified.csv
+partC,median period of the certified limit cycles,2.4,tau,dynamics_n6_limit_cycle_certified.csv
+partC,"median period of the certified limit cycles, in hours (tau = 12.98 h, median mammalian mRNA t1/2 9 h)",31.2,h,dynamics_n6_limit_cycle_certified.csv
+partC_grounding,edges in the SIGNED canonical network (coherence analysis),6859,,dynamics_higher_order_empirical_support.csv
+partC_grounding,edges in the graph used for the higher-order MODULE ENUMERATION,9254,,dynamics_higher_order_empirical_support.csv
+partC_grounding,nodes shared by the two edge sets,587,,dynamics_higher_order_empirical_support.csv
+partC_grounding,SIGNED network edges of type miRNA_target,4819,,dynamics_higher_order_empirical_support.csv
+partC_grounding,SIGNED network edges of type TF_miRNA,1239,,dynamics_higher_order_empirical_support.csv
+partC_grounding,SIGNED network edges of type TF_target,770,,dynamics_higher_order_empirical_support.csv
+partC_grounding,SIGNED network edges of type miRNA_miRNA,30,,dynamics_higher_order_empirical_support.csv
+partC_grounding,SIGNED network edges of type gene_gene,1,,dynamics_higher_order_empirical_support.csv
+partC_grounding,ENUMERATION graph edges of type miRNA_target,4819,,dynamics_higher_order_empirical_support.csv
+partC_grounding,ENUMERATION graph edges of type TF_target,1374,,dynamics_higher_order_empirical_support.csv
+partC_grounding,ENUMERATION graph edges of type TF_miRNA,1239,,dynamics_higher_order_empirical_support.csv
+partC_grounding,ENUMERATION graph edges of type miRNA_miRNA,988,,dynamics_higher_order_empirical_support.csv
+partC_grounding,ENUMERATION graph edges of type gene_gene,834,,dynamics_higher_order_empirical_support.csv
+partC_grounding,gene-gene edges in the SIGNED canonical network,1,,dynamics_higher_order_empirical_support.csv
+partC_grounding,gene-gene edges in the ENUMERATION graph,834,,dynamics_higher_order_empirical_support.csv
+partC_grounding,candidate gene-gene edges in the source layer before network restriction,1638,,dynamics_higher_order_empirical_support.csv
+partC_grounding,TF->TF edges in the SIGNED canonical network,89,,dynamics_higher_order_empirical_support.csv
+partC_grounding,miRNA-miRNA edges in the SIGNED canonical network,30,,dynamics_higher_order_empirical_support.csv
+partC_grounding,miRNA-miRNA edges in the ENUMERATION graph,988,,dynamics_higher_order_empirical_support.csv
+partC_grounding,4-node modules listed in results/ffl_higher_order.csv,71307,,dynamics_higher_order_empirical_support.csv
+partC_grounding,4-node modules whose architecture contains a gene-gene edge,279,,dynamics_higher_order_empirical_support.csv
+partC_grounding,4-node modules whose architecture contains a miRNA-miRNA edge,30923,,dynamics_higher_order_empirical_support.csv
+partC_grounding,4-node modules whose architecture contains a TF-TF edge,37333,,dynamics_higher_order_empirical_support.csv
+partC_grounding,5-node modules listed in results/ffl_higher_order.csv,221657,,dynamics_higher_order_empirical_support.csv
+partC_grounding,5-node modules whose architecture contains a gene-gene edge,13736,,dynamics_higher_order_empirical_support.csv
+partC_grounding,5-node modules whose architecture contains a miRNA-miRNA edge,83632,,dynamics_higher_order_empirical_support.csv
+partC_grounding,5-node modules whose architecture contains a TF-TF edge,128677,,dynamics_higher_order_empirical_support.csv
+partC_grounding,6-node modules listed in results/ffl_higher_order.csv,216627,,dynamics_higher_order_empirical_support.csv
+partC_grounding,6-node modules whose architecture contains a gene-gene edge,8258,,dynamics_higher_order_empirical_support.csv
+partC_grounding,6-node modules whose architecture contains a miRNA-miRNA edge,94749,,dynamics_higher_order_empirical_support.csv
+partC_grounding,6-node modules whose architecture contains a TF-TF edge,143883,,dynamics_higher_order_empirical_support.csv
+partC_grounding,distinct nodes appearing in gene-gene-containing higher-order modules,333,,dynamics_higher_order_empirical_support.csv
+partC_grounding,gene-gene-containing modules built on the ONE signed gene-gene edge (COL1A1-COL3A1),0,,dynamics_higher_order_empirical_support.csv
+partC,COMP_C2_toggle/n3: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,0.1,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n3: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,1.64,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n4: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,2.69,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n4: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,17.52,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n4d: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,0.15,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n4d: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,1.77,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n5: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,2.15,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n5: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,16.95,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n6: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,8.2,%,dynamics_higher_order_convergence_audit.csv
+partC,COMP_C2_toggle/n6: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,17.85,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n3: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,0.05,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n3: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,0.25,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n4: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,5.32,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n4: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,18.88,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n4d: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,0.15,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n4d: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,1.05,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n5: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,5.22,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n5: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,14.39,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n6: % of sets with at least one input level not at a certified steady state after the 20-tau continuation step used in the sweep,4.49,%,dynamics_higher_order_convergence_audit.csv
+partC,I1_miRNA_FFL/n6: % of ultrasensitivity calls that change when the dose-response is recomputed with certified settling,13.95,%,dynamics_higher_order_convergence_audit.csv
+partC,"composite I1 (negative-feedback) family, n3: pct_is_bistable",1.501,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n3: pct_is_sustained_osc",0.0,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n3: pct_is_ultrasensitive",82.953,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n3: pct_is_memory",29.498,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n3: pct_is_noise_rejecting",69.324,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4: pct_is_bistable",3.448,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4: pct_is_sustained_osc",0.0,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4: pct_is_ultrasensitive",71.1,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4: pct_is_memory",60.266,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4: pct_is_noise_rejecting",72.186,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4d: pct_is_bistable",6.696,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4d: pct_is_sustained_osc",0.0,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4d: pct_is_ultrasensitive",83.801,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4d: pct_is_memory",31.439,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n4d: pct_is_noise_rejecting",73.56,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n5: pct_is_bistable",3.07,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n5: pct_is_sustained_osc",0.0,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n5: pct_is_ultrasensitive",72.742,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n5: pct_is_memory",53.955,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n5: pct_is_noise_rejecting",63.617,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n6: pct_is_bistable",2.6,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n6: pct_is_sustained_osc",0.226,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n6: pct_is_ultrasensitive",76.465,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n6: pct_is_memory",50.525,%,dynamics_higher_order_fractions_compI1.csv
+partC,"composite I1 (negative-feedback) family, n6: pct_is_noise_rejecting",73.102,%,dynamics_higher_order_fractions_compI1.csv
+partB_noise,I1_TXN_AND at Omega=100: median CV of the target protein relative to the matched cascade (<1 = quieter),3.0263,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_TXN_AND at Omega=100: % of parameter sets quieter than the cascade,0.9,%,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=100: median CV of the target protein relative to the matched cascade (<1 = quieter),2.0808,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=100: % of parameter sets quieter than the cascade,0.1,%,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=100: median CV of the target protein relative to the matched cascade (<1 = quieter),1.0763,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=100: % of parameter sets quieter than the cascade,2.6,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=100: median CV of the target protein relative to the matched cascade (<1 = quieter),2.5491,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=100: % of parameter sets quieter than the cascade,0.1,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=100: median CV of the target protein relative to the matched cascade (<1 = quieter),1.1222,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=100: % of parameter sets quieter than the cascade,2.7,%,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_TXN_AND at Omega=500: median CV of the target protein relative to the matched cascade (<1 = quieter),2.978,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_TXN_AND at Omega=500: % of parameter sets quieter than the cascade,1.3,%,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=500: median CV of the target protein relative to the matched cascade (<1 = quieter),2.0916,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=500: % of parameter sets quieter than the cascade,0.4,%,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=500: median CV of the target protein relative to the matched cascade (<1 = quieter),1.054,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=500: % of parameter sets quieter than the cascade,5.7,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=500: median CV of the target protein relative to the matched cascade (<1 = quieter),2.3026,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=500: % of parameter sets quieter than the cascade,0.4,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=500: median CV of the target protein relative to the matched cascade (<1 = quieter),1.0284,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=500: % of parameter sets quieter than the cascade,6.8,%,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_TXN_AND at Omega=2000: median CV of the target protein relative to the matched cascade (<1 = quieter),2.8267,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_TXN_AND at Omega=2000: % of parameter sets quieter than the cascade,1.2,%,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=2000: median CV of the target protein relative to the matched cascade (<1 = quieter),2.0514,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,I1_MIR_AND at Omega=2000: % of parameter sets quieter than the cascade,0.4,%,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=2000: median CV of the target protein relative to the matched cascade (<1 = quieter),1.0556,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,C2_MIR_AND at Omega=2000: % of parameter sets quieter than the cascade,7.8,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=2000: median CV of the target protein relative to the matched cascade (<1 = quieter),2.1454,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_I1_AND at Omega=2000: % of parameter sets quieter than the cascade,0.4,%,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=2000: median CV of the target protein relative to the matched cascade (<1 = quieter),1.0224,ratio,dynamics_stochastic_noise_summary.csv
+partB_noise,COMP_C2_AND at Omega=2000: % of parameter sets quieter than the cascade,10.3,%,dynamics_stochastic_noise_summary.csv

@@ -1,0 +1,6 @@
+test1: PASS (1 cluster, score 16, 16 nodes, 120 edges, node score 15)
+test2: PASS (score 14.1176, Java expects 14.118 +/- 0.0009)
+test3: PASS (bridged K4s merge into one 8-node cluster, score 3.7143 - hand traced)
+test4: PASS (K5 + pendant path -> one 5-node cluster, score 5 - hand traced)
+test5: PASS (2-core haircut drops the singly-connected vertex)
+test6: ProNet 1.0.0 run: 2 vs 1 clusters, median best Jaccard 0.22

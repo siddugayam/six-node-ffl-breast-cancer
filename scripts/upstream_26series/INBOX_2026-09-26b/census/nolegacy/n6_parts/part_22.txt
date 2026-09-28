@@ -1,0 +1,123 @@
+K 6
+nparts 64
+part 22
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 411995
+visited 86753799
+rng_final 42
+comp 0 1 5 58
+comp 1 1 4 222
+comp 1 2 3 5438
+comp 1 3 2 4031
+comp 1 4 1 549
+comp 2 1 3 2897
+comp 2 2 2 41247
+comp 2 3 1 94562
+comp 2 4 0 3
+comp 3 0 3 171
+comp 3 1 2 14732
+comp 3 2 1 165183
+comp 3 3 0 5812
+comp 4 0 2 1134
+comp 4 1 1 33403
+comp 4 2 0 22521
+comp 5 0 1 2870
+comp 5 1 0 15513
+comp 6 0 0 1649
+mask 2 98
+mask 3 471
+mask 6 1426
+mask 7 322
+mask 10 1
+mask 11 29
+mask 12 526
+mask 13 341
+mask 14 92231
+mask 15 41793
+mask 18 20
+mask 19 23
+mask 20 1179
+mask 21 58
+mask 22 11624
+mask 23 1783
+mask 26 16
+mask 27 80
+mask 28 18564
+mask 29 1554
+mask 30 10821
+mask 31 8810
+mask 32 1
+mask 33 16
+mask 34 1627
+mask 35 3611
+mask 36 65
+mask 37 39
+mask 38 8286
+mask 39 1086
+mask 40 148
+mask 41 378
+mask 42 240
+mask 43 687
+mask 44 29298
+mask 45 10205
+mask 46 59101
+mask 47 41789
+mask 48 18
+mask 49 128
+mask 50 422
+mask 51 216
+mask 52 4286
+mask 53 424
+mask 54 16985
+mask 55 2344
+mask 56 226
+mask 57 790
+mask 58 926
+mask 59 1510
+mask 60 12483
+mask 61 7004
+mask 62 11526
+mask 63 4360
+flags 0 236917
+flags 1 16024
+flags 2 1157
+flags 3 7352
+flags 4 76644
+flags 5 5041
+flags 6 5392
+flags 7 10691
+flags 8 31062
+flags 9 318
+flags 10 210
+flags 11 470
+flags 12 13423
+flags 13 60
+flags 14 1669
+flags 15 1109
+flags 24 2798
+flags 25 92
+flags 26 27
+flags 27 85
+flags 28 1404
+flags 29 5
+flags 30 45
+exflag 0 HNF4A AFP hsa-miR-182 FHL1 STAT6 hsa-miR-342
+exflag 0 HNF4A AFP hsa-miR-183 FHL1 STAT6 hsa-miR-342
+exflag 0 HNF4A AFP hsa-miR-200a STAT5A STAT6 hsa-miR-342
+exflag 1 HNF4A LEF1 AR FN1 ITGB1 hsa-miR-124
+exflag 1 HNF4A LEF1 AR FN1 ITGB1 hsa-miR-183
+exflag 1 HNF4A LEF1 AR FN1 LOX hsa-miR-124
+exflag 2 HNF4A AFP LEF1 AR CEBPA hsa-miR-216a
+exflag 2 HNF4A AFP LEF1 CEBPA SPI1 hsa-miR-342
+exflag 2 HNF4A AFP LEF1 MITF SPI1 hsa-miR-342
+exflag 3 HNF4A AFP LEF1 CEBPA hsa-miR-124 hsa-miR-369 | TF1=HNF4A TF2=LEF1 miRNA=hsa-miR-124 target=CEBPA
+exflag 3 HNF4A AFP LEF1 CEBPA hsa-miR-124 hsa-miR-655 | TF1=HNF4A TF2=LEF1 miRNA=hsa-miR-124 target=CEBPA
+exflag 3 HNF4A LEF1 AR BRCA1 FST hsa-miR-182 | TF1=HNF4A TF2=LEF1 miRNA=hsa-miR-182 target=AR
+exflag 4 HNF4A LEF1 AR MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 HNF4A LEF1 AR MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exflag 4 HNF4A LEF1 AR SMAD3 VEGFA hsa-miR-17 | TF1=AR TF2=SMAD3 miRNA=hsa-miR-17 target=VEGFA
+exmask 63 HNF4A LEF1 AR FN1 hsa-miR-96 TWIST1
+exmask 63 HNF4A LEF1 AR KLF5 NOTCH1 hsa-miR-495
+exmask 63 HNF4A LEF1 CEBPA CCL2 IL6 hsa-miR-124

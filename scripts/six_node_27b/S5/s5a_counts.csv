@@ -1,0 +1,61 @@
+object,unit,category,value,count,n,pct,modules
+BHAT6_composite,role assignments,core configuration,COMP_C2,159,3898,4.079014879425346,
+BHAT6_composite,role assignments,core configuration,COMP_I1,284,3898,7.28578758337609,
+BHAT6_composite,role assignments,core configuration,COMP_C4,10,3898,0.2565418163160595,
+BHAT6_composite,role assignments,core configuration,COMP_I3,12,3898,0.3078501795792714,
+BHAT6_composite,role assignments,core configuration,core not sign-resolved,3433,3898,88.07080554130323,
+BHAT6_composite,role assignments,TF1->TF2->miR1-|TF1 loop,negative,158,3898,4.053360697793741,
+BHAT6_composite,role assignments,TF1->TF2->miR1-|TF1 loop,positive,373,3898,9.569009748589021,
+BHAT6_composite,role assignments,TF1->TF2->miR1-|TF1 loop,not fully signed,3367,3898,86.37762955361724,
+BHAT6_composite,role assignments,exact match,COMP_C2_toggle_n6,0,3898,0.0,
+BHAT6_composite,role assignments,exact match,COMP_I1_n6,0,3898,0.0,
+BHAT6_composite,role assignments,exact match,S3a_TF2-|miR,0,3898,0.0,
+BHAT6_composite,role assignments,exact match,S3b_TF2-|G1,0,3898,0.0,
+BHAT6_composite,role assignments,exact match,S3c_TF1-|TF2,0,3898,0.0,
+BHAT6_composite,role assignments,compulsory TF arcs,all signed,389,3898,9.979476654694714,
+BHAT6_composite,role assignments,compulsory TF arcs,at least one unsigned,3509,3898,90.02052334530528,
+MODEL6_FULL,role assignments,core configuration,COMP_C2,8,336,2.380952380952381,
+MODEL6_FULL,role assignments,core configuration,COMP_I1,45,336,13.392857142857142,
+MODEL6_FULL,role assignments,core configuration,COMP_C4,72,336,21.428571428571427,
+MODEL6_FULL,role assignments,core configuration,COMP_I3,56,336,16.666666666666664,
+MODEL6_FULL,role assignments,core configuration,core not sign-resolved,155,336,46.13095238095239,
+MODEL6_FULL,role assignments,TF1->TF2->miR1-|TF1 loop,negative,16,336,4.761904761904762,
+MODEL6_FULL,role assignments,TF1->TF2->miR1-|TF1 loop,positive,12,336,3.571428571428571,
+MODEL6_FULL,role assignments,TF1->TF2->miR1-|TF1 loop,not fully signed,308,336,91.66666666666666,
+MODEL6_FULL,role assignments,exact match,COMP_C2_toggle_n6,0,336,0.0,
+MODEL6_FULL,role assignments,exact match,COMP_I1_n6,0,336,0.0,
+MODEL6_FULL,role assignments,exact match,S3a_TF2-|miR,4,336,1.1904761904761905,
+MODEL6_FULL,role assignments,exact match,S3b_TF2-|G1,0,336,0.0,
+MODEL6_FULL,role assignments,exact match,S3c_TF1-|TF2,0,336,0.0,
+MODEL6_FULL,role assignments,compulsory TF arcs,all signed,16,336,4.761904761904762,
+MODEL6_FULL,role assignments,compulsory TF arcs,at least one unsigned,320,336,95.23809523809523,
+MODEL6_DEF,role assignments,core configuration,COMP_C2,876,45666,1.918276179214295,
+MODEL6_DEF,role assignments,core configuration,COMP_I1,4631,45666,10.14102395655411,
+MODEL6_DEF,role assignments,core configuration,COMP_C4,4876,45666,10.677528139096921,
+MODEL6_DEF,role assignments,core configuration,COMP_I3,6592,45666,14.435247229886567,
+MODEL6_DEF,role assignments,core configuration,core not sign-resolved,28691,45666,62.82792449524811,
+MODEL6_DEF,role assignments,TF1->TF2->miR1-|TF1 loop,negative,9259,45666,20.27547847413831,
+MODEL6_DEF,role assignments,TF1->TF2->miR1-|TF1 loop,positive,6584,45666,14.417728725966802,
+MODEL6_DEF,role assignments,TF1->TF2->miR1-|TF1 loop,not fully signed,29823,45666,65.30679279989488,
+MODEL6_DEF,role assignments,exact match,COMP_C2_toggle_n6,0,45666,0.0,
+MODEL6_DEF,role assignments,exact match,COMP_I1_n6,0,45666,0.0,
+MODEL6_DEF,role assignments,exact match,S3a_TF2-|miR,4,45666,0.008759251959882626,
+MODEL6_DEF,role assignments,exact match,S3b_TF2-|G1,0,45666,0.0,
+MODEL6_DEF,role assignments,exact match,S3c_TF1-|TF2,0,45666,0.0,
+MODEL6_DEF,role assignments,compulsory TF arcs,all signed,2996,45666,6.560679717952087,
+MODEL6_DEF,role assignments,compulsory TF arcs,at least one unsigned,42670,45666,93.43932028204792,
+CENSUS6_c,role assignments,core configuration,COMP_C2,20552,234432,8.766721266721266,19400
+CENSUS6_c,role assignments,core configuration,COMP_I1,64224,234432,27.395577395577398,60326
+CENSUS6_c,role assignments,core configuration,COMP_C4,16221,234432,6.919277231777232,14617
+CENSUS6_c,role assignments,core configuration,COMP_I3,21530,234432,9.18389980889981,20655
+CENSUS6_c,role assignments,core configuration,core not sign-resolved,111905,234432,47.734524297024294,103870
+CENSUS6_c,role assignments,TF1->TF2->miR1-|TF1 loop,negative,11713,234432,4.996331558831558,11554
+CENSUS6_c,role assignments,TF1->TF2->miR1-|TF1 loop,positive,21209,234432,9.04697310947311,20169
+CENSUS6_c,role assignments,TF1->TF2->miR1-|TF1 loop,not fully signed,201510,234432,85.95669533169533,183127
+CENSUS6_c,role assignments,exact match,COMP_C2_toggle_n6,0,234432,0.0,0
+CENSUS6_c,role assignments,exact match,COMP_I1_n6,0,234432,0.0,0
+CENSUS6_c,role assignments,exact match,S3a_TF2-|miR,0,234432,0.0,0
+CENSUS6_c,role assignments,exact match,S3b_TF2-|G1,0,234432,0.0,0
+CENSUS6_c,role assignments,exact match,S3c_TF1-|TF2,244,234432,0.10408135408135409,244
+CENSUS6_c,role assignments,compulsory TF arcs,all signed,8134,234432,3.469662844662845,7740
+CENSUS6_c,role assignments,compulsory TF arcs,at least one unsigned,226298,234432,96.53033715533715,203704

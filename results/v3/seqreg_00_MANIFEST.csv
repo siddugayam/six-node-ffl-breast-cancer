@@ -1,0 +1,53 @@
+file,bytes,description
+seqreg_alphagenome_access.csv,1787,what was attempted to obtain an AlphaGenome API key and the single step the account holder must perform
+seqreg_borzoi_focus_tracks.csv.gz,1236787,the RNA/CAGE/DNASE/ATAC and focus-TF subset of the above
+seqreg_borzoi_promoter_tracks.csv.gz,2376416,"Borzoi predicted value at the promoter bins for all 7,611 human tracks x 10 loci, percentile vs 200 random promoters"
+seqreg_ccre_summary.csv,607,cCRE counts by class and the promoter-like element at each anchor
+seqreg_chipatlas_binding_at_collagens.csv,439238,every ChIP-Atlas experiment with a peak within 1 or 5 kb of COL1A1/COL3A1
+seqreg_chipatlas_fetch_errors.csv,7335,the 203 TF x distance target-gene files that could not be fetched
+seqreg_chipatlas_fibroblast_experiments.csv,3568,the 751 fibroblast/mesenchymal TF ChIP-seq experiments by cell type and antigen
+seqreg_chipatlas_inventory.csv,196,"how much hg38 TF ChIP-seq exists in ChIP-Atlas, and how much of it is fibroblast/mesenchymal"
+seqreg_chipatlas_tf_summary.csv,46837,the above collapsed per TF
+seqreg_collagen_enhancers.csv,38427,every cCRE at the collagen loci with its ReMap TF content and Enformer fibroblast DNase
+seqreg_cpg_islands.csv,2212,UCSC cpgIslandExt islands within +/-100 kb of every anchor
+seqreg_encode_ccre.csv,151625,ENCODE Registry V4 cCREs within +/-100 kb of every anchor
+seqreg_enformer_focus_tracks.csv,2427216,the DNASE/ATAC/CAGE and focus-TF subset of the above
+seqreg_enformer_ism.csv,249817,"single-base in-silico mutagenesis, TSS-400..+100, COL1A1 and COL3A1, scored on fibroblast CAGE and fibroblast DNase"
+seqreg_enformer_ism_by_position.csv,130351,ISM collapsed per position and mapped onto the JASPAR/HOCOMOCO sites covering it
+seqreg_enformer_ism_conventions.csv,296,"allele/orientation conventions of the ISM table, verified against hg38"
+seqreg_enformer_motif_occlusion.csv,16822,dinucleotide-shuffle occlusion of every NF-kB/SP/ETS site at 4 loci (20 shuffles per site)
+seqreg_enformer_promoter_tracks.csv.gz,1900098,"Enformer predicted value at the promoter bins for all 5,313 human tracks x 10 loci, with percentile vs 494 random promoters"
+seqreg_gtex_breast_fibroblast_negatives.csv,1125,explicit record of the breast / cultured-fibroblast eQTL negatives
+seqreg_gtex_collagen_variants.csv,6404,all collagen eQTL / fine-mapped variants with distance to TSS
+seqreg_gtex_eqtl_by_location.csv,1,EMPTY - the by-location endpoint returned no eQTL in any promoter window queried
+seqreg_gtex_finemapping.csv,8458,DAP-G fine-mapping for the same genes
+seqreg_gtex_genes.csv,1916,GTEx gene records for the queried symbols
+seqreg_gtex_independent_eqtl.csv,9388,"GTEx v8 independent cis-eQTL signals for COL1A1, COL3A1, LINC-PINT"
+seqreg_gtex_mirna_eqtl.csv,426,eQTL status of the miRNA genes
+seqreg_gtex_sqtl.csv,45222,"sQTLs in breast, fibroblast, artery, skin, adipose"
+seqreg_key_results.csv,36765,"193-row tidy summary of everything, each row carrying its source file"
+seqreg_motif_focus_calibrated.csv,57432,"focus-TF counts vs 1,000 GC-matched random promoters (superseded)"
+seqreg_motif_focus_calibrated_5000.csv,23512,"focus-TF counts vs 5,000 random promoters, GC-matched, with Poisson p"
+seqreg_motif_focus_calibrated_BH.csv,25833,the above with BH q over the 250 tests
+seqreg_motif_scan_counts.csv,852994,"FIMO-equivalent hit counts for all 1,280 JASPAR2024 + HOCOMOCOv11 matrices x 10 promoters"
+seqreg_motif_sites.csv,762536,"the 8,471 individual motif matches at p<1e-4"
+seqreg_network_tf_collagen_edges.csv,1499,every TF->collagen edge in data/canonical_edges.tsv scored against all five sequence-level resources
+seqreg_nfkb_context_summary.csv,240,summary of the above per gene
+seqreg_nfkb_peaks_context.csv,135734,"all 1,165 NF-kB-family ReMap peaks at the collagen loci with cell type and stimulation state"
+seqreg_promoter_architecture.csv,2048,"GC, CpG o/e and CpG density of each promoter as a percentile of 3,000 random promoters"
+seqreg_promoter_architecture_all_windows.csv,2793,the same for four window sizes
+seqreg_refseq_annotation.csv,2730,all RefSeq transcripts in the five 45-150 kb windows
+seqreg_regions.csv,862,"hg38 anchors (TSS / hairpin) for the 10 loci, from the UCSC ncbiRefSeqCurated track"
+seqreg_rela_fibroblast_peak_motifs.csv,2459,the individual kB motif matches inside those peaks
+seqreg_rela_fibroblast_peaks.csv,2767,"every fibroblast/mesenchymal NF-kB-family ReMap peak within +/-100 kb of the collagens, with kB-motif content and Enformer fibroblast DNase"
+seqreg_remap_background_tf_frequency.csv,32261,fraction of 288 random promoters at which each TF has >=1 ReMap peak
+seqreg_remap_biotype_mesenchymal_notfibroblast.csv,90,mesenchymal-lineage biotypes deliberately excluded from the fibroblast whitelist
+seqreg_remap_biotype_whitelist_breast.csv,525,curated breast ReMap biotypes
+seqreg_remap_biotype_whitelist_fibroblast.csv,229,curated fibroblast/mesenchymal ReMap biotypes
+seqreg_remap_fibroblast_breast_peaks.csv,1040220,every ReMap peak in a fibroblast/mesenchymal or breast biotype at the 10 loci
+seqreg_remap_focus_tfs_collagen.csv,22103,focus TFs at the two collagen loci
+seqreg_remap_promoter_tf_celltype.csv,114177,TF x biotype table at each promoter
+seqreg_remap_promoter_tfs_calibrated.csv,122765,"promoter TF peak counts vs 289 random promoters, with empirical p and within-region BH q"
+seqreg_remap_tf_by_region.csv,747135,"ReMap 2022 TF peaks per locus per window (first pass, regex cell-type call)"
+seqreg_remap_tf_by_region_curated.csv,1096962,same with a curated fibroblast/breast biotype whitelist
+seqreg_sequence_windows.csv,563,"600 kb sequence windows fetched from the UCSC REST API, with GC and N fraction"

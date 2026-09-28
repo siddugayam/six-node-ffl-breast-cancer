@@ -1,0 +1,256 @@
+group,n_cells,total_umi
+CAFs (CA12+)||bassez_2021,218,2212861
+CAFs (CA12+)||liu_2023,7,29169
+CAFs (CA12+)||pal_2021,281,1174356
+CAFs (CA12+)||qian_2020,108,1092176
+CAFs (CA12+)||tietscher_2023,744,4615589
+CAFs (CA12+)||wang_2024,25,117638
+CAFs (CA12+)||wu_natgen_2021,428,9043836
+CAFs (COL11A1+)||bassez_2021,2897,3671295
+CAFs (COL11A1+)||gao_2021,2,28519
+CAFs (COL11A1+)||liu_2023,407,555493
+CAFs (COL11A1+)||pal_2021,6507,9448726
+CAFs (COL11A1+)||qian_2020,2189,2258146
+CAFs (COL11A1+)||tietscher_2023,748,1458495
+CAFs (COL11A1+)||wang_2024,710,1044032
+CAFs (COL11A1+)||wu_natgen_2021,1267,2405895
+CAFs (DPT+)||bassez_2021,1135,5898532
+CAFs (DPT+)||gao_2021,184,2580455
+CAFs (DPT+)||liu_2023,215,477631
+CAFs (DPT+)||pal_2021,918,2743944
+CAFs (DPT+)||qian_2020,644,3463247
+CAFs (DPT+)||tietscher_2023,1105,8465047
+CAFs (DPT+)||wang_2024,264,682539
+CAFs (DPT+)||wu_natgen_2021,1887,7615008
+CAFs (LAMP5)||bassez_2021,3864,40523927
+CAFs (LAMP5)||gao_2021,59,809510
+CAFs (LAMP5)||liu_2023,140,1114740
+CAFs (LAMP5)||pal_2021,2613,12274728
+CAFs (LAMP5)||qian_2020,1918,23912872
+CAFs (LAMP5)||tietscher_2023,3259,52037790
+CAFs (LAMP5)||wang_2024,553,2325240
+CAFs (LAMP5)||wu_natgen_2021,1981,22129090
+CAFs (PI16+)||bassez_2021,936,7825263
+CAFs (PI16+)||gao_2021,79,1295425
+CAFs (PI16+)||liu_2023,140,742239
+CAFs (PI16+)||pal_2021,1434,6448567
+CAFs (PI16+)||qian_2020,539,5870401
+CAFs (PI16+)||tietscher_2023,2818,37546731
+CAFs (PI16+)||wang_2024,1149,4057417
+CAFs (PI16+)||wu_natgen_2021,1330,8765289
+CD4-positive helper T cell||bassez_2021,180,728557
+CD4-positive helper T cell||liu_2023,4,9221
+CD4-positive helper T cell||pal_2021,31,39687
+CD4-positive helper T cell||qian_2020,173,681529
+CD4-positive helper T cell||tietscher_2023,1,7343
+CD4-positive helper T cell||wang_2024,2,3921
+CD4-positive helper T cell||wu_natgen_2021,28,65423
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||bassez_2021",3053,9289533
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||liu_2023",1070,2074291
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||pal_2021",4974,6243131
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||qian_2020",1538,4630358
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||tietscher_2023",3719,11977874
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||wang_2024",1135,2194590
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell||wu_natgen_2021",4313,11846198
+"CD8-positive, alpha-beta regulatory T cell||bassez_2021",2768,7115178
+"CD8-positive, alpha-beta regulatory T cell||liu_2023",370,483507
+"CD8-positive, alpha-beta regulatory T cell||pal_2021",4342,4922682
+"CD8-positive, alpha-beta regulatory T cell||qian_2020",1060,2406009
+"CD8-positive, alpha-beta regulatory T cell||tietscher_2023",2516,6307946
+"CD8-positive, alpha-beta regulatory T cell||wang_2024",746,1523483
+"CD8-positive, alpha-beta regulatory T cell||wu_natgen_2021",2380,5837929
+Endo Arter.||bassez_2021,283,1951810
+Endo Arter.||gao_2021,9,232516
+Endo Arter.||liu_2023,926,6368951
+Endo Arter.||pal_2021,335,1526274
+Endo Arter.||qian_2020,164,915346
+Endo Arter.||tietscher_2023,1748,19866204
+Endo Arter.||wang_2024,306,1312712
+Endo Arter.||wu_natgen_2021,1253,12835616
+Endo Capil.||bassez_2021,783,716761
+Endo Capil.||liu_2023,3741,5148027
+Endo Capil.||pal_2021,660,754196
+Endo Capil.||qian_2020,668,537397
+Endo Capil.||tietscher_2023,1174,1518555
+Endo Capil.||wang_2024,528,581247
+Endo Capil.||wu_natgen_2021,1195,1401117
+Endo Imm.||bassez_2021,1324,8762485
+Endo Imm.||gao_2021,18,235095
+Endo Imm.||liu_2023,2092,6442118
+Endo Imm.||pal_2021,1002,3481470
+Endo Imm.||qian_2020,726,4468942
+Endo Imm.||tietscher_2023,3140,33631090
+Endo Imm.||wang_2024,794,3042449
+Endo Imm.||wu_natgen_2021,2062,13675076
+Endo Lymph.||bassez_2021,24,161809
+Endo Lymph.||gao_2021,16,167098
+Endo Lymph.||liu_2023,96,348183
+Endo Lymph.||pal_2021,79,239114
+Endo Lymph.||qian_2020,15,84672
+Endo Lymph.||tietscher_2023,362,3620006
+Endo Lymph.||wang_2024,61,137799
+Endo Lymph.||wu_natgen_2021,116,807677
+Endo Ven.||bassez_2021,723,6487627
+Endo Ven.||gao_2021,36,443487
+Endo Ven.||liu_2023,1377,5855429
+Endo Ven.||pal_2021,397,1629403
+Endo Ven.||qian_2020,519,5139197
+Endo Ven.||tietscher_2023,3044,30083763
+Endo Ven.||wang_2024,1282,6139665
+Endo Ven.||wu_natgen_2021,2940,22367395
+IgG plasma cell||bassez_2021,2227,24058665
+IgG plasma cell||gao_2021,8,239163
+IgG plasma cell||liu_2023,300,616064
+IgG plasma cell||pal_2021,7669,36473158
+IgG plasma cell||qian_2020,1391,17079128
+IgG plasma cell||tietscher_2023,1924,25002478
+IgG plasma cell||wang_2024,475,1340917
+IgG plasma cell||wu_natgen_2021,3830,28833283
+Myofibroblast||bassez_2021,613,599317
+Myofibroblast||liu_2023,2217,3359460
+Myofibroblast||pal_2021,1033,1021548
+Myofibroblast||qian_2020,461,399105
+Myofibroblast||tietscher_2023,616,1394980
+Myofibroblast||wang_2024,178,209782
+Myofibroblast||wu_natgen_2021,1571,2057142
+PCs (ECM)||bassez_2021,698,5064375
+PCs (ECM)||gao_2021,22,238710
+PCs (ECM)||liu_2023,609,2958419
+PCs (ECM)||pal_2021,377,1410828
+PCs (ECM)||qian_2020,441,3014010
+PCs (ECM)||tietscher_2023,1972,17082811
+PCs (ECM)||wang_2024,278,764958
+PCs (ECM)||wu_natgen_2021,1473,11103390
+Prolif Stromal||bassez_2021,53,970745
+Prolif Stromal||gao_2021,4,62860
+Prolif Stromal||liu_2023,35,153188
+Prolif Stromal||pal_2021,59,574839
+Prolif Stromal||qian_2020,16,296036
+Prolif Stromal||tietscher_2023,95,2229327
+Prolif Stromal||wang_2024,8,47172
+Prolif Stromal||wu_natgen_2021,311,9049235
+T follicular helper cell||bassez_2021,1590,5098650
+T follicular helper cell||gao_2021,1,7243
+T follicular helper cell||liu_2023,352,729570
+T follicular helper cell||pal_2021,3538,4204208
+T follicular helper cell||qian_2020,900,2908324
+T follicular helper cell||tietscher_2023,2428,7538487
+T follicular helper cell||wang_2024,636,1400821
+T follicular helper cell||wu_natgen_2021,2393,6352190
+VSMC||bassez_2021,793,4672922
+VSMC||gao_2021,10,140384
+VSMC||liu_2023,493,3066748
+VSMC||pal_2021,1117,2859840
+VSMC||qian_2020,415,2609264
+VSMC||tietscher_2023,3179,25792366
+VSMC||wang_2024,522,1531345
+VSMC||wu_natgen_2021,2643,16530575
+conventional dendritic cell||bassez_2021,779,6403414
+conventional dendritic cell||gao_2021,97,1193995
+conventional dendritic cell||liu_2023,182,267888
+conventional dendritic cell||pal_2021,2368,9185005
+conventional dendritic cell||qian_2020,400,3066305
+conventional dendritic cell||tietscher_2023,7056,81066728
+conventional dendritic cell||wang_2024,346,1458544
+conventional dendritic cell||wu_natgen_2021,1627,9807351
+cycling T cell||bassez_2021,671,5089258
+cycling T cell||gao_2021,17,231069
+cycling T cell||liu_2023,122,583975
+cycling T cell||pal_2021,1875,6664794
+cycling T cell||qian_2020,416,2688238
+cycling T cell||tietscher_2023,1051,7729761
+cycling T cell||wang_2024,1079,6203362
+cycling T cell||wu_natgen_2021,1498,10677821
+cycling macrophage||bassez_2021,284,3794826
+cycling macrophage||gao_2021,163,3021887
+cycling macrophage||liu_2023,12,20621
+cycling macrophage||pal_2021,2109,9920503
+cycling macrophage||qian_2020,108,1496080
+cycling macrophage||tietscher_2023,1507,29612524
+cycling macrophage||wang_2024,116,855305
+cycling macrophage||wu_natgen_2021,512,7306247
+"effector memory CD4-positive, alpha-beta T cell||bassez_2021",4038,14197113
+"effector memory CD4-positive, alpha-beta T cell||gao_2021",2,17734
+"effector memory CD4-positive, alpha-beta T cell||liu_2023",1353,2938822
+"effector memory CD4-positive, alpha-beta T cell||pal_2021",5842,8443200
+"effector memory CD4-positive, alpha-beta T cell||qian_2020",2089,8084229
+"effector memory CD4-positive, alpha-beta T cell||tietscher_2023",3419,11366068
+"effector memory CD4-positive, alpha-beta T cell||wang_2024",1065,1602408
+"effector memory CD4-positive, alpha-beta T cell||wu_natgen_2021",5888,17006422
+"effector memory CD8-positive, alpha-beta T cell||bassez_2021",3703,7713843
+"effector memory CD8-positive, alpha-beta T cell||liu_2023",1155,1306361
+"effector memory CD8-positive, alpha-beta T cell||pal_2021",7770,6280046
+"effector memory CD8-positive, alpha-beta T cell||qian_2020",1778,3798878
+"effector memory CD8-positive, alpha-beta T cell||tietscher_2023",7991,18757605
+"effector memory CD8-positive, alpha-beta T cell||wang_2024",1792,1824408
+"effector memory CD8-positive, alpha-beta T cell||wu_natgen_2021",5403,8837337
+exhausted T cell||bassez_2021,2967,8617301
+exhausted T cell||gao_2021,2,16141
+exhausted T cell||liu_2023,485,1077165
+exhausted T cell||pal_2021,3217,4580157
+exhausted T cell||qian_2020,1582,4469942
+exhausted T cell||tietscher_2023,1958,5847701
+exhausted T cell||wang_2024,4263,14395101
+exhausted T cell||wu_natgen_2021,2885,8038270
+macrophage||bassez_2021,4645,30563689
+macrophage||gao_2021,544,6278068
+macrophage||liu_2023,518,547107
+macrophage||pal_2021,15394,48041629
+macrophage||qian_2020,2438,15907045
+macrophage||tietscher_2023,10962,118895880
+macrophage||wang_2024,2752,12253444
+macrophage||wu_natgen_2021,7184,63901769
+malignant cell||bassez_2021,26208,207826795
+malignant cell||gao_2021,2661,61971758
+malignant cell||liu_2023,6928,23429942
+malignant cell||pal_2021,130078,797739685
+malignant cell||qian_2020,11779,64522790
+malignant cell||tietscher_2023,13305,199451479
+malignant cell||wang_2024,23104,223178278
+malignant cell||wu_natgen_2021,28550,347316672
+mast cell||bassez_2021,594,1735789
+mast cell||liu_2023,112,154829
+mast cell||pal_2021,876,1136593
+mast cell||qian_2020,332,1209937
+mast cell||tietscher_2023,2306,8871361
+mast cell||wang_2024,40,72779
+mast cell||wu_natgen_2021,12,42624
+memory B cell||bassez_2021,3689,11811864
+memory B cell||gao_2021,2,18324
+memory B cell||liu_2023,674,901892
+memory B cell||pal_2021,5423,7311534
+memory B cell||qian_2020,1905,5690406
+memory B cell||tietscher_2023,4342,15656080
+memory B cell||wang_2024,2055,6176711
+memory B cell||wu_natgen_2021,3100,7428973
+myeloid dendritic cell||bassez_2021,87,507671
+myeloid dendritic cell||gao_2021,2,18830
+myeloid dendritic cell||liu_2023,20,23084
+myeloid dendritic cell||pal_2021,280,1027025
+myeloid dendritic cell||qian_2020,46,265944
+myeloid dendritic cell||tietscher_2023,733,7389696
+myeloid dendritic cell||wang_2024,57,430484
+myeloid dendritic cell||wu_natgen_2021,109,838515
+naive T cell||bassez_2021,3194,8599558
+naive T cell||gao_2021,1,5420
+naive T cell||liu_2023,600,643286
+naive T cell||pal_2021,3990,3680122
+naive T cell||qian_2020,2032,5325467
+naive T cell||tietscher_2023,1991,4477305
+naive T cell||wang_2024,883,798054
+naive T cell||wu_natgen_2021,5426,10661310
+natural killer cell||bassez_2021,3265,9462096
+natural killer cell||gao_2021,4,39497
+natural killer cell||liu_2023,722,1440242
+natural killer cell||pal_2021,7466,7765798
+natural killer cell||qian_2020,1741,5703495
+natural killer cell||tietscher_2023,5517,16875130
+natural killer cell||wang_2024,837,1335914
+natural killer cell||wu_natgen_2021,3956,9134211
+plasmacytoid dendritic cell||bassez_2021,263,1492682
+plasmacytoid dendritic cell||liu_2023,16,32293
+plasmacytoid dendritic cell||pal_2021,769,2316696
+plasmacytoid dendritic cell||qian_2020,134,716000
+plasmacytoid dendritic cell||tietscher_2023,571,5460066
+plasmacytoid dendritic cell||wang_2024,512,3079011
+plasmacytoid dendritic cell||wu_natgen_2021,325,1685104

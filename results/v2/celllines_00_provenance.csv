@@ -1,0 +1,30 @@
+item,value
+depmap_release,"DepMap 24Q4 Public (figshare article 27993248, published 2024-12-10)"
+Model.csv_n_models,2105
+Model.csv_n_breast_lineage,96
+n_breast_cancer_models(excl Non-Cancerous),92
+expression_file_bytes,506628654
+expression_n_models_total,1673
+expression_n_genes_total,19193
+expression_n_duplicated_symbols,0
+n_breast_models_with_expression,70
+n_breast_CANCER_models_with_expression,69
+lineages_summarised,33
+ccle_mirna_file,"CCLE_miRNA_20181103.gct (data.broadinstitute.org/ccle, nanoString nCounter)"
+ccle_mirna_dims,734 miRNA x 954 cell lines
+ccle_mirna_n_probes,734
+ccle_mirna_n_lines,954
+ccle_mirna_value_range,0.470 .. 283655.600
+Model.csv_CCLEName_mapped,1999
+ccle_mirna_n_breast_columns,50
+ccle_mirna_breast_mapped_to_ModelID,50
+ccle_mirna_breast_unmapped,none
+n_breast_models_with_miRNA,50
+n_breast_models_with_miRNA_AND_expression,50
+crispr_file_path,/path/to/home/Desktop/DD/R_GPR/TCGA_PAN_CAN/CPTAC_PanCancer_Analysis/00_Raw_Data/CRISPRGeneEffect.csv
+crispr_file_bytes,432295412
+crispr_n_models,1186
+crispr_n_genes,18435
+crispr_release_note,"local copy; byte size does not match the 22Q4/23Q2/23Q4/24Q2/24Q4 public CRISPRGeneEffect.csv files, so the exact release is not identifiable from the file itself"
+n_breast_models_with_CRISPR,53
+n_breast_models_expr_and_CRISPR,50

@@ -1,0 +1,32 @@
+
+== nolegacy: 451 nodes {'Gene': 162, 'TF': 107, 'miRNA': 182}, 3674 SIF edges (2819 undirected), components 1, CPL 2.762, diameter 5, mean clustering 0.271, max clique 7
+   top 10 MCC:
+     1 hsa-miR-17         miRNA  MCC=9818     neighbours=42   betweenness=0.0120 closeness=0.4673
+     2 hsa-miR-20a        miRNA  MCC=9800     neighbours=42   betweenness=0.0126 closeness=0.4702
+     3 hsa-miR-19a        miRNA  MCC=9675     neighbours=48   betweenness=0.0271 closeness=0.4683
+     4 hsa-miR-19b        miRNA  MCC=8222     neighbours=37   betweenness=0.0105 closeness=0.4442
+     5 TP53               TF     MCC=5788     neighbours=78   betweenness=0.0821 closeness=0.5108
+     6 hsa-miR-18a        miRNA  MCC=5514     neighbours=27   betweenness=0.0043 closeness=0.4416
+     7 hsa-miR-92a        miRNA  MCC=4438     neighbours=41   betweenness=0.0322 closeness=0.4523
+     8 MYC                TF     MCC=4084     neighbours=65   betweenness=0.0406 closeness=0.4712
+     9 E2F1               TF     MCC=1965     neighbours=46   betweenness=0.0254 closeness=0.4382
+    10 ESR1               TF     MCC=1962     neighbours=26   betweenness=0.0056 closeness=0.4278
+   top 5 TF by neighbours: SP1 (80), TP53 (78), RELA (75), NFKB1 (74), MYC (65)
+   top 5 miRNA by neighbours: hsa-miR-19a (48), hsa-miR-17 (42), hsa-miR-200b (42), hsa-miR-20a (42), hsa-miR-92a (41)
+   top 5 Gene by neighbours: CCND2 (62), VEGFA (59), TGFBR2 (50), THBS1 (45), FN1 (43)
+
+== nolegacy_nostring: 348 nodes {'TF': 77, 'Gene': 125, 'miRNA': 146}, 2133 SIF edges (1576 undirected), components 2, CPL 2.883, diameter 5, mean clustering 0.470, max clique 4
+   top 10 MCC:
+     1 SP1                TF     MCC=385      neighbours=64   betweenness=0.0859 closeness=0.4900
+     2 NFKB1              TF     MCC=364      neighbours=63   betweenness=0.0794 closeness=0.4900
+     3 VEGFA              Gene   MCC=332      neighbours=59   betweenness=0.0911 closeness=0.4935
+     4 RELA               TF     MCC=296      neighbours=62   betweenness=0.0785 closeness=0.5037
+     5 hsa-miR-29b        miRNA  MCC=266      neighbours=27   betweenness=0.0127 closeness=0.4247
+     6 CCND2              Gene   MCC=256      neighbours=62   betweenness=0.0832 closeness=0.4771
+     7 TP53               TF     MCC=250      neighbours=60   betweenness=0.1157 closeness=0.4818
+     8 hsa-miR-29c        miRNA  MCC=204      neighbours=25   betweenness=0.0082 closeness=0.4279
+     9 MYC                TF     MCC=148      neighbours=47   betweenness=0.0498 closeness=0.4433
+    10 STAT3              TF     MCC=132      neighbours=42   betweenness=0.0475 closeness=0.4473
+   top 5 TF by neighbours: SP1 (64), NFKB1 (63), RELA (62), TP53 (60), HIF1A (47)
+   top 5 miRNA by neighbours: hsa-miR-17 (32), hsa-miR-20a (32), hsa-miR-19a (31), hsa-miR-200b (31), hsa-miR-27a (31)
+   top 5 Gene by neighbours: CCND2 (62), VEGFA (59), ABCA1 (34), SERPINE1 (30), TGFBR2 (28)

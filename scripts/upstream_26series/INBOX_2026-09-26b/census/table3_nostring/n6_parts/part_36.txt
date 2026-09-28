@@ -1,0 +1,74 @@
+K 6
+nparts 64
+part 36
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 11894
+visited 15950029
+rng_final 42
+comp 1 1 4 3
+comp 1 2 3 142
+comp 1 3 2 1142
+comp 1 4 1 220
+comp 2 1 3 17
+comp 2 2 2 1123
+comp 2 3 1 4296
+comp 2 4 0 41
+comp 3 1 2 187
+comp 3 2 1 3124
+comp 3 3 0 239
+comp 4 0 2 10
+comp 4 1 1 756
+comp 4 2 0 235
+comp 5 0 1 73
+comp 5 1 0 246
+comp 6 0 0 40
+mask 2 40
+mask 3 83
+mask 6 198
+mask 7 21
+mask 11 71
+mask 14 2601
+mask 15 1427
+mask 18 1
+mask 19 12
+mask 20 142
+mask 21 19
+mask 22 415
+mask 23 94
+mask 26 32
+mask 27 121
+mask 28 2596
+mask 29 610
+mask 30 2476
+mask 31 764
+mask 70 3
+mask 78 25
+mask 79 15
+mask 86 2
+mask 92 48
+mask 93 6
+mask 94 72
+flags 0 10615
+flags 1 996
+flags 2 40
+flags 3 114
+flags 8 106
+flags 9 4
+flags 10 2
+flags 11 1
+flags 24 8
+flags 25 8
+exflag 0 NF1 MYC DKK1 hsa-miR-217 hsa-miR-22 ASCL1
+exflag 0 NF1 TP53 DKK1 hsa-miR-142 ASCL1 hsa-miR-217
+exflag 0 NF1 TP53 DKK1 hsa-miR-149 MSC hsa-miR-217
+exflag 1 NF1 FOS BCL2L1 MYC hsa-miR-130a STAT5A
+exflag 1 NF1 FOS BCL2L1 MYC hsa-miR-141 STAT5A
+exflag 1 NF1 FOS BCL2L1 MYC hsa-miR-23a STAT5A
+exflag 3 NF1 AFP TP53 HNF4A hsa-miR-124 CEBPA | TF1=TP53 TF2=HNF4A miRNA=hsa-miR-124 target=AFP
+exflag 3 NF1 AFP TP53 HNF4A hsa-miR-655 CEBPA | TF1=TP53 TF2=HNF4A miRNA=hsa-miR-655 target=AFP
+exflag 3 NF1 FOS FAS MYC GATA1 hsa-miR-23a | TF1=FOS TF2=MYC miRNA=hsa-miR-23a target=GATA1
+exflag 4 NF1 FOS MYC CCND2 NFKB1 hsa-let-7b | TF1=NFKB1 TF2=MYC miRNA=hsa-let-7b target=CCND2
+exflag 4 NF1 FOS MYC CCND2 NFKB1 hsa-miR-150 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-150 target=CCND2
+exflag 4 NF1 FOS MYC CCND2 NFKB1 hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2

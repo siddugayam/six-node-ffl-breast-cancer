@@ -1,0 +1,89 @@
+K 4
+nparts 1
+part 0
+seed 42
+q 1 1 1
+prod_q 1
+found 116505
+visited 4932210
+rng_final 42
+comp 0 0 4 87
+comp 0 1 3 671
+comp 1 0 3 243
+comp 1 1 2 4076
+comp 1 2 1 45523
+comp 2 0 2 1258
+comp 2 1 1 21263
+comp 2 2 0 5417
+comp 3 0 1 7641
+comp 3 1 0 21322
+comp 4 0 0 9004
+mask 2 458
+mask 3 1148
+mask 6 3044
+mask 7 59
+mask 9 3
+mask 10 1
+mask 11 135
+mask 12 31473
+mask 13 3365
+mask 14 81
+mask 15 8138
+mask 17 139
+mask 18 217
+mask 19 68
+mask 20 4131
+mask 21 479
+mask 22 1880
+mask 23 118
+mask 25 96
+mask 26 36
+mask 27 518
+mask 28 10252
+mask 29 720
+mask 31 61
+mask 32 1824
+mask 33 3179
+mask 34 7466
+mask 35 4158
+mask 36 5071
+mask 37 143
+mask 38 8442
+mask 39 33
+mask 40 674
+mask 41 708
+mask 42 18
+mask 44 1590
+mask 45 9561
+mask 46 692
+mask 47 68
+mask 48 184
+mask 49 63
+mask 50 415
+mask 51 6
+mask 52 1594
+mask 53 109
+mask 54 1888
+mask 55 5
+mask 56 271
+mask 57 1360
+mask 58 225
+mask 59 7
+mask 60 57
+mask 61 59
+mask 62 15
+flags 0 111391
+flags 4 750
+flags 8 3856
+flags 12 18
+flags 24 483
+flags 28 7
+exflag 2 AR BRCA1 hsa-miR-101 ID4
+exflag 2 AR BRCA1 hsa-miR-133b ID4
+exflag 2 AR BRCA1 hsa-miR-19a ID4
+exflag 3 AHR MYC CCND2 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 3 AHR MYC CDCA7 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CDCA7
+exflag 3 AHR MYC MYCN hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=MYCN
+exflag 4 AR EP300 KLF5 hsa-miR-21 | TF1=AR TF2=EP300 miRNA=hsa-miR-21 target=KLF5
+exflag 4 AR MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 AR MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA

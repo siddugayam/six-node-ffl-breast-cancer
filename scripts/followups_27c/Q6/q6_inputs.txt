@@ -1,0 +1,10 @@
+retyped22 classes (9): ['Gene->Gene', 'Gene->TF', 'Gene->miRNA', 'TF->Gene', 'TF->TF', 'TF->miRNA', 'miRNA->Gene', 'miRNA->TF', 'miRNA->miRNA']; arcs 9226; nodes 587; TF-typed nodes 135, genes 229, miRNAs 223
+md5 65a7ac9877cea74ab69f04fb7dd1752a  /path/to/revision/INBOX_2026-09-27b/E/E5/census_nolegacy_retyped22_null.txt
+md5 9fdc9fde4617cdec1e737702c0a3490b  /path/to/revision/INBOX_2026-09-27c/Q6/graph_retyped22_reclassed.txt
+md5 f327921cd42e2ca758ba0996a80cf241  /path/to/revision/INBOX_2026-09-27b/S1/graph_nolegacy_labels.txt
+md5 f8b04fb7221ea7d17e47a49db768e584  /path/to/revision/INBOX_2026-09-27b/S7/null_validated.txt
+md5 ad4e85d6f08f25f2ba4bea22878cf2b5  /path/to/revision/INBOX_2026-09-27b/S7/labels_validated.txt
+md5 eefa27576652aeee830136d797842049  /path/to/revision/INBOX_2026-09-27b/S7/graph_physical_ge_0.900.txt
+md5 a522749cbac1302e1c7d7652f9f513d9  /path/to/revision/INBOX_2026-09-27b/S7/labels_physical_ge_0.900.txt
+md5 2217c5b5e8bed03cc0deb5523de9c72c  /path/to/revision/INBOX_2026-09-27b/S1/s1_null6
+md5 4395d3e85babf8b42a9bbb445fc45b96  /path/to/revision/INBOX_2026-09-27b/S1/s1_null6.c

@@ -1,0 +1,26 @@
+DE feature-name check passed: 20745 unique symbols, 28 unmapped Entrez IDs (none a network node)
+measured 576  DE-significant 336
+observed: attractor after 12 steps, period 4, agreement 0.7113 on n=336
+NULL 1 permuted seed : mean 0.5031 sd 0.1098  p = 0.0004998
+NULL 2 rewired net   : mean 0.5034 sd 0.1305  p = 0.003322
+binomial vs 0.5: p = 5.68e-15
+best clamp with n>=50: CDX1 clamp=1 acc=0.6565 n=329 binom p=1.44e-08
+[published] top-20 drivers whose perturbation direction matches their own observed logFC: 6/20
+[curated] top-20 drivers whose perturbation direction matches their own observed logFC: 7/20
+
+perturbations reproducing the OBSERVED sign of both collagens (COL1A1 +2.351, COL3A1 +1.323), ranked by magnitude:
+  MKL1           TF     dir=+1 COL1A1=+0.16279 COL3A1=+0.13412
+  STAT6          TF     dir=+1 COL1A1=+0.12021 COL3A1=+0.10223
+  hsa-miR-767    miRNA  dir=-1 COL1A1=+0.01686 COL3A1=+0.17275
+  hsa-miR-196a   miRNA  dir=-1 COL1A1=+0.08422 COL3A1=+0.07123
+  hsa-miR-338    miRNA  dir=-1 COL1A1=+0.07520 COL3A1=+0.06252
+  hsa-miR-193a   miRNA  dir=-1 COL1A1=+0.07458 COL3A1=+0.06301
+  hsa-miR-382    miRNA  dir=-1 COL1A1=+0.07046 COL3A1=+0.05983
+  hsa-miR-371a   miRNA  dir=-1 COL1A1=+0.07010 COL3A1=+0.05946
+  hsa-miR-196b   miRNA  dir=-1 COL1A1=+0.06606 COL3A1=+0.05619
+  MYB            TF     dir=+1 COL1A1=+0.05402 COL3A1=+0.04449
+  hsa-miR-218    miRNA  dir=-1 COL1A1=+0.05200 COL3A1=+0.04409
+  hsa-let-7b     miRNA  dir=-1 COL1A1=+0.03300 COL3A1=+0.06092
+
+wrote systems_dynamics_nulls.json
+07b exit=0

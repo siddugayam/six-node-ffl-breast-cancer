@@ -1,0 +1,10 @@
+dropped 833 STRING-orientation arcs -> 7198 arcs remain
+connected 3-subgraphs = 222233
+n=3 FFL modules (STRING excluded) = 3636
+   source TF     -> mediator TF     : 1785
+   source TF     -> mediator miRNA  : 1343
+   source miRNA  -> mediator TF     : 253
+   source miRNA  -> mediator miRNA  : 174
+   source miRNA  -> mediator Gene   : 50
+   source TF     -> mediator Gene   : 23
+   source Gene   -> mediator TF     : 8

@@ -1,0 +1,36 @@
+symbol,quantity,units,meaning
+gx,alpha_TF / alpha_mRNA(target),dimensionless,TF protein turnover relative to target mRNA
+gm,alpha_miRNA / alpha_mRNA,dimensionless,mature miRNA turnover relative to target mRNA
+gp,alpha_protein / alpha_mRNA,dimensionless,target protein turnover relative to target mRNA
+gx2,alpha_TF2 / alpha_mRNA,dimensionless,second TF turnover (n=6)
+gm2,alpha_miRNA2 / alpha_mRNA,dimensionless,second miRNA turnover (n=5)
+KS,threshold,units of S (scaled),signal level at half-maximal TF activation
+nS,Hill coeff,dimensionless,cooperativity of signal -> TF
+Kxm,threshold,units of x1 (scaled),TF level at half-maximal miRNA promoter activity
+nxm,Hill coeff,dimensionless,cooperativity of TF -> miRNA
+Kxy,threshold,units of x1 (scaled),TF level at half-maximal target promoter activity
+nxy,Hill coeff,dimensionless,cooperativity of TF -> target
+Kmy,threshold,units of m (scaled),miRNA level at half-maximal acceleration of target-mRNA decay
+nmy,Hill coeff,dimensionless,cooperativity of RISC action on mRNA stability
+Kmp,threshold,units of m (scaled),miRNA level at half-maximal translational repression
+nmp,Hill coeff,dimensionless,cooperativity of translational repression
+Kx12,threshold,units of x1 (scaled),TF1 level at half-maximal TF2 promoter activity (n=6)
+nx12,Hill coeff,dimensionless,cooperativity of TF1 -> TF2 (n=6)
+Kx2y,threshold,units of x2 (scaled),TF2 level at half-maximal target promoter activity (n=6)
+nx2y,Hill coeff,dimensionless,cooperativity of TF2 -> target (n=6)
+Kx2m,threshold,units of x2 (scaled),TF2 level at half-maximal miRNA promoter activity (n=6)
+nx2m,Hill coeff,dimensionless,cooperativity of TF2 -> miRNA (n=6)
+Kmx,threshold,units of m (scaled),miRNA level at half-maximal repression of the TF (composite)
+nmx,Hill coeff,dimensionless,cooperativity of miRNA -| TF
+lam_y,fold,dimensionless,max fold-acceleration of target-mRNA decay by miRNA
+lam_x,fold,dimensionless,max fold-acceleration of TF decay by miRNA (composite)
+theta,rate,1/(scaled conc x time),stoichiometric titration rate (0 = purely catalytic miRNA)
+Kc,capacity,units of m (scaled),shared RISC/AGO loading capacity
+b,fraction,dimensionless,TF-independent basal transcription of the target (OR gate)
+rho,ratio,dimensionless,miRNA2 : miRNA1 production from the shared promoter (n=5)
+phi,ratio,dimensionless,miRNA2 : miRNA1 targeting efficacy (n=5)
+rho_g2,ratio,dimensionless,G2 : G1 transcription rate (n>=4)
+kappa,fold,dimensionless,"max fold protection of G1/G2 protein by mutual complex formation (n>=4 reciprocal); saturable, so protection <= 1+kappa"
+w2,weight,dimensionless,G2 mRNA weight in miRNA titration
+Kg12,threshold,units of p1 (scaled),partner-protein level at half-maximal effect of the gene-gene edge (half-maximal G2 transcription in the directed variant; half-maximal mutual stabilisation in the reciprocal variant)
+ng12,Hill coeff,dimensionless,cooperativity of the gene-gene edge (directed transcription or reciprocal stabilisation)

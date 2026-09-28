@@ -1,0 +1,4 @@
+sensitivity analysis added after the primary result (descriptive; the decisions stay those of p3a_summary.txt): contrasts averaged within each series, then series pooled by REML
+strong: k = 10 series (24 contrasts); pooled shift +0.0290 (95 % CI -0.0078 to +0.0658), p 0.123; tau2 1.25e-06; CI excludes 0 above 0: no; GSE115646 enters as one series (mean of 12 contrasts: +0.4547, SE 0.2899)
+weak: k = 10 series (29 contrasts); pooled shift +0.0026 (95 % CI -0.0289 to +0.0342), p 0.87; tau2 0; CI excludes 0 above 0: no; GSE115646 enters as one series (mean of 17 contrasts: +0.1102, SE 0.2654)
+predicted_only: k = 10 series (31 contrasts); pooled shift -0.0050 (95 % CI -0.0439 to +0.0339), p 0.8; tau2 0; CI excludes 0 above 0: no; GSE115646 enters as one series (mean of 20 contrasts: +0.0420, SE 0.2738)

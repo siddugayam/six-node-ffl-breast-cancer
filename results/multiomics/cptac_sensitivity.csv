@@ -1,0 +1,8 @@
+"block","test","n","concordance","mean_rho"
+"B_TF_target_signed","TF mRNA -> target mRNA (n<=121)",198,0.621212121212121,0.08556394650002
+"B_TF_target_signed","TF protein -> target protein (n<=101 set)",197,0.527918781725888,0.020331030420163
+"B_TF_target_signed","TF mRNA -> target protein (n<=121)",198,0.626262626262626,0.0537819303647185
+"A_miRNA_target","miRNA->target mRNA (all usable edges)",2883,0.454734651404787,0.0296032283697695
+"A_miRNA_target","miRNA->target protein (all usable edges)",2880,0.476736111111111,0.0127815936004935
+"A_miRNA_target","miRNA->target mRNA (complete-protein targets only)",1885,0.479045092838196,0.0177241968841623
+"A_miRNA_target","miRNA->target protein (complete-protein targets only)",1885,0.479045092838196,0.0131128466311717

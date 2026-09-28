@@ -1,0 +1,5 @@
+bound,statement,n_checked,median_predicted,median_observed,max_relative_error,median_relative_error,fraction_violating_the_cap
+B1_max_repression_by_miRNA_arm,"OR/SUM gate: y_ss(m=0)/y_ss(m->inf) = 1 + lambda_y exactly; the miRNA arm attenuates by at most (1+lambda_y)-fold and can never drive the target to zero, unlike a promoter-bound repressor",512,4.157344998404263,4.157344998361754,0.00010337654751083906,4.052111547537537e-12,
+B2_target_relaxation_rate,"target-mRNA response half-time = ln2 / (1 + lambda_y*q(m)); the post-transcriptional arm accelerates the target for ANY loop sign, whereas Alon's coherent C1 delays it",512,0.1958347991624082,0.2,0.4952371149858672,0.04323829543929286,
+B3_pulse_amplitude_cap,miRNA-mediated I1 overshoot ratio is capped at 1 + lambda_y*q(m_ss); a transcriptional I1 has no such cap,512,3.244809056373901,1.1562243807007233,0.0,0.0,0.0
+B1b_finite_RISC_capacity_corollary,"with a finite shared RISC/AGO capacity Kc the effective repressor pool saturates at Kc, so the achievable repression falls from 1+lambda_y to 1+lambda_y*q(Kc): competition for RISC caps how much any single miRNA can repress",512,3.570863266615092,,,,

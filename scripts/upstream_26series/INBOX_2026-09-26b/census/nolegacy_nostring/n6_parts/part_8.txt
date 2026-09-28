@@ -1,0 +1,63 @@
+K 6
+nparts 64
+part 8
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 22340
+visited 9614121
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 138
+comp 1 3 2 2400
+comp 1 4 1 115
+comp 2 1 3 40
+comp 2 2 2 3297
+comp 2 3 1 8372
+comp 2 4 0 3
+comp 3 1 2 271
+comp 3 2 1 6239
+comp 3 3 0 509
+comp 4 1 1 344
+comp 4 2 0 576
+comp 5 0 1 2
+comp 5 1 0 33
+mask 3 2
+mask 6 5
+mask 10 14
+mask 11 128
+mask 14 4397
+mask 15 638
+mask 18 26
+mask 19 67
+mask 20 239
+mask 21 34
+mask 22 851
+mask 23 43
+mask 26 89
+mask 27 309
+mask 28 4475
+mask 29 680
+mask 30 8308
+mask 31 2035
+flags 0 18883
+flags 1 3044
+flags 2 3
+flags 3 231
+flags 8 150
+flags 9 18
+flags 11 3
+flags 24 7
+flags 27 1
+exflag 0 MBD2 NANOG hsa-miR-17 CCND2 IRF9 hsa-miR-373
+exflag 0 MBD2 NANOG hsa-miR-18a CCND2 hsa-miR-373 IRF9
+exflag 0 MBD2 NANOG hsa-miR-19a CCND2 hsa-miR-373 IRF9
+exflag 1 MBD2 NANOG DKK1 hsa-miR-373 EPAS1 MSC
+exflag 1 MBD2 NANOG GATA4 CCND2 hsa-miR-373 IRF9
+exflag 1 MBD2 NANOG hsa-miR-17 CCND2 IRF9 hsa-miR-373
+exflag 3 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302a hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302a target=DKK1
+exflag 3 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302b hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302b target=DKK1
+exflag 3 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302c hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302c target=DKK1
+exflag 4 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302a hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302a target=DKK1
+exflag 4 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302b hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302b target=DKK1
+exflag 4 MBD2 POU5F1 DKK1 SOX2 hsa-miR-302c hsa-miR-373 | TF1=POU5F1 TF2=SOX2 miRNA=hsa-miR-302c target=DKK1

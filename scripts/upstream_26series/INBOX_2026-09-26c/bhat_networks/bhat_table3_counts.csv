@@ -1,0 +1,41 @@
+graph,nodes,FFL_type,TF_TF_rule,miRNA,TF,Gene,Gene-Gene,miRNA-miRNA,TF-TF,miRNA-Gene,miRNA-TF,TF-miRNA,TF-Gene,No_of_FFL_instances,distinct_node_sets
+nolegacy,3,miRNA_FFL,,153,83,128,NA,NA,NA,748,661,NA,351,1355,1355
+nolegacy,3,TF_FFL,,148,76,124,NA,NA,NA,686,NA,556,334,1182,1182
+nolegacy,3,Composite_FFL,,146,76,124,NA,NA,NA,679,551,551,331,1173,1173
+nolegacy,3,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1364,1364
+nolegacy,4,miRNA_FFL,,166,93,106,141,NA,NA,775,825,NA,295,2580,2554
+nolegacy,4,TF_FFL,,159,88,105,140,NA,NA,695,NA,652,282,2090,2065
+nolegacy,4,Composite_FFL,,157,88,105,140,NA,NA,683,642,642,282,2054,2029
+nolegacy,4,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2616,2590
+nolegacy,5,miRNA_FFL,,87,66,93,116,112,NA,455,429,NA,223,2272,1456
+nolegacy,5,TF_FFL,,85,61,93,116,102,NA,424,NA,339,210,1719,1168
+nolegacy,5,Composite_FFL,,85,61,93,116,102,NA,424,339,339,210,1719,1168
+nolegacy,5,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2272,1456
+nolegacy,6,miRNA_FFL,Fig. 1d,96,122,112,142,142,377,638,687,NA,311,14003,8606
+nolegacy,6,TF_FFL,Fig. 1d,99,117,112,141,169,354,656,NA,543,309,15701,9950
+nolegacy,6,Composite_FFL,Fig. 1d,79,45,86,113,96,45,433,290,290,176,3898,2498
+nolegacy,6,Unique_FFL,Fig. 1d,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25806,15590
+nolegacy,6,miRNA_FFL,either direction (B5),99,131,114,146,178,477,717,794,NA,351,29689,17727
+nolegacy,6,TF_FFL,either direction (B5),99,131,114,145,170,470,687,NA,630,349,23302,14540
+nolegacy,6,Composite_FFL,either direction (B5),99,131,114,145,170,470,687,628,628,349,23295,14540
+nolegacy,6,Unique_FFL,either direction (B5),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29696,17727
+nolegacy_nostring,3,miRNA_FFL,,153,83,128,NA,NA,NA,748,661,NA,351,1355,1355
+nolegacy_nostring,3,TF_FFL,,148,76,124,NA,NA,NA,686,NA,556,334,1182,1182
+nolegacy_nostring,3,Composite_FFL,,146,76,124,NA,NA,NA,679,551,551,331,1173,1173
+nolegacy_nostring,3,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1364,1364
+nolegacy_nostring,4,miRNA_FFL,,6,5,2,1,NA,NA,6,10,NA,5,10,10
+nolegacy_nostring,4,TF_FFL,,6,5,2,1,NA,NA,6,NA,10,5,10,10
+nolegacy_nostring,4,Composite_FFL,,6,5,2,1,NA,NA,6,10,10,5,10,10
+nolegacy_nostring,4,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10
+nolegacy_nostring,5,miRNA_FFL,,3,3,2,1,2,NA,3,6,NA,3,8,5
+nolegacy_nostring,5,TF_FFL,,3,3,2,1,2,NA,3,NA,6,3,8,5
+nolegacy_nostring,5,Composite_FFL,,3,3,2,1,2,NA,3,6,6,3,8,5
+nolegacy_nostring,5,Unique_FFL,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,5
+nolegacy_nostring,6,miRNA_FFL,Fig. 1d,3,17,2,1,2,18,3,20,NA,6,35,27
+nolegacy_nostring,6,TF_FFL,Fig. 1d,3,23,2,1,2,34,3,NA,27,7,73,54
+nolegacy_nostring,6,Composite_FFL,Fig. 1d,3,6,2,1,2,5,3,3,3,3,7,7
+nolegacy_nostring,6,Unique_FFL,Fig. 1d,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,101,70
+nolegacy_nostring,6,miRNA_FFL,either direction (B5),3,29,2,1,2,46,3,42,NA,8,119,77
+nolegacy_nostring,6,TF_FFL,either direction (B5),3,26,2,1,2,41,3,NA,31,8,91,64
+nolegacy_nostring,6,Composite_FFL,either direction (B5),3,26,2,1,2,41,3,31,31,8,91,64
+nolegacy_nostring,6,Unique_FFL,either direction (B5),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,119,77

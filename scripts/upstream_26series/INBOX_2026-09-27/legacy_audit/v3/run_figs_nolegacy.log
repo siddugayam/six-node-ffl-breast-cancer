@@ -1,0 +1,13 @@
+
+######## nolegacy: 10_figures.py
+Traceback (most recent call last):
+  File "/path/to/revision/INBOX_2026-09-27/legacy_audit/v3/run_v3.py", line 28, in <module>
+    runpy.run_path(os.path.join(V3, s), run_name='__main__')
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/path/to/revision/scripts/v3/10_figures.py", line 30, in <module>
+    nulls = json.load(open(f'{RES}/systems_architecture_nulls.json'))
+                      ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/revision/INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_architecture_nulls.json'

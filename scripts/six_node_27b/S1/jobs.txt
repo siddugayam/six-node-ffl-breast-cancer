@@ -1,0 +1,6 @@
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt B 1000 20250908 100 1000 1 0 > runs/null_B.tsv 2> runs/null_B.err
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt C 1000 20250908 100 1000 1 0 > runs/null_C.tsv 2> runs/null_C.err
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt L 1000 20250908 100 1000 1 0 > runs/null_L.tsv 2> runs/null_L.err
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt LT 1000 20250908 100 1000 1 0 > runs/null_LT.tsv 2> runs/null_LT.err
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt LG 1000 20250908 100 1000 1 0 > runs/null_LG.tsv 2> runs/null_LG.err
+./s1_null6 graph_nolegacy_null.txt graph_nolegacy_labels.txt LM 1000 20250908 100 1000 1 0 > runs/null_LM.tsv 2> runs/null_LM.err

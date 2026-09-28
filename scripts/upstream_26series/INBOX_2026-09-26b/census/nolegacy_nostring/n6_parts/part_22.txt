@@ -1,0 +1,82 @@
+K 6
+nparts 64
+part 22
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 273821
+visited 69277699
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 142
+comp 1 3 2 1264
+comp 1 4 1 549
+comp 2 1 3 86
+comp 2 2 2 10743
+comp 2 3 1 83418
+comp 2 4 0 5
+comp 3 0 3 1
+comp 3 1 2 3651
+comp 3 2 1 108760
+comp 3 3 0 6666
+comp 4 0 2 510
+comp 4 1 1 24370
+comp 4 2 0 17284
+comp 5 0 1 3159
+comp 5 1 0 11932
+comp 6 0 0 1280
+mask 2 1280
+mask 3 3670
+mask 6 8029
+mask 7 1161
+mask 10 4
+mask 11 55
+mask 12 526
+mask 13 345
+mask 14 112274
+mask 15 64762
+mask 18 56
+mask 19 61
+mask 20 1798
+mask 21 128
+mask 22 26004
+mask 23 4902
+mask 26 61
+mask 27 192
+mask 28 20038
+mask 29 1777
+mask 30 13532
+mask 31 13153
+mask 45 1
+mask 46 5
+mask 47 7
+flags 0 222255
+flags 1 8022
+flags 2 731
+flags 3 2048
+flags 6 6
+flags 7 5
+flags 8 34459
+flags 9 279
+flags 10 194
+flags 11 217
+flags 24 5397
+flags 25 92
+flags 26 35
+flags 27 80
+flags 30 1
+exflag 0 HNF4A HNF1A VEGFA hsa-miR-124 HIC1 hsa-miR-200b
+exflag 0 HNF4A HNF1A VEGFA hsa-miR-124 HIC1 hsa-miR-200c
+exflag 0 HNF4A HNF1A VEGFA hsa-miR-124 HIC1 hsa-miR-299
+exflag 1 HNF4A HNF1A MYC VEGFA hsa-miR-124 HIC1
+exflag 1 HNF4A HNF1A MYC VEGFA hsa-miR-381 HIC1
+exflag 1 HNF4A HNF1A MYC VEGFA hsa-miR-409 HIC1
+exflag 2 HNF4A MYC hsa-let-7b COL1A1 COL3A1 hsa-miR-382
+exflag 2 HNF4A MYC hsa-let-7e COL1A1 COL3A1 hsa-miR-382
+exflag 2 HNF4A MYC hsa-miR-29a COL1A1 COL3A1 hsa-miR-382
+exflag 3 HNF4A HNF1A MYC BMI1 VEGFA hsa-miR-200c | TF1=HNF4A TF2=MYC miRNA=hsa-miR-200c target=BMI1
+exflag 3 HNF4A HNF1A MYC PPARA VEGFA hsa-miR-200c | TF1=HNF4A TF2=MYC miRNA=hsa-miR-200c target=VEGFA
+exflag 3 HNF4A HNF1A MYC VEGFA hsa-miR-106a hsa-miR-200c | TF1=HNF4A TF2=MYC miRNA=hsa-miR-200c target=VEGFA
+exflag 4 HNF4A MYC CCND2 TCF7L2 STAT3 hsa-let-7d | TF1=STAT3 TF2=MYC miRNA=hsa-let-7d target=CCND2
+exflag 4 HNF4A MYC CCND2 TCF7L2 STAT3 hsa-miR-150 | TF1=STAT3 TF2=MYC miRNA=hsa-miR-150 target=CCND2
+exflag 4 HNF4A MYC CCND2 TCF7L2 STAT3 hsa-miR-15a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-15a target=CCND2

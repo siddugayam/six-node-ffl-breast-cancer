@@ -1,0 +1,8 @@
+six-node class, mouse, all series (27d): k = 34 contrasts from 28 series; +0.0529 (95 % CI +0.0088 to +0.0970), p 0.0186
+six-node class, leave one series out (descriptive, added after the primary result): 28 runs; estimates +0.0359 to +0.0642; largest change without GSE63813 (3 contrasts): +0.0359 (95 % CI -0.0134 to +0.0852), p 0.153, change -0.0170; runs whose 95 % CI includes 0: 2 (GSE63813, GSE57112)
+six-node class, without GSE118698: 1 contrast removed; k = 33; +0.0577 (95 % CI +0.0135 to +0.1020), p 0.0106; change +0.0048
+six-node class, without GSE63813: 3 contrasts removed; k = 31; +0.0359 (95 % CI -0.0134 to +0.0852), p 0.153; change -0.0170
+site-adjusted TargetScan, mouse, all series (27d): k = 34 contrasts from 26 series; +0.0076 (95 % CI +0.0007 to +0.0145), p 0.0313
+site-adjusted TargetScan, leave one series out (descriptive, added after the primary result): 26 runs; estimates +0.0064 to +0.0094; largest change without GSE118698 (4 contrasts): +0.0094 (95 % CI +0.0026 to +0.0163), p 0.00695, change +0.0019; runs whose 95 % CI includes 0: 6 (GSE110714, GSE63813, GSE42760, GSE222351, GSE47155, GSE30877)
+site-adjusted TargetScan, without GSE118698: 4 contrasts removed; k = 30; +0.0094 (95 % CI +0.0026 to +0.0163), p 0.00695; change +0.0019
+site-adjusted TargetScan, without GSE63813: 3 contrasts removed; k = 31; +0.0065 (95 % CI -0.0009 to +0.0139), p 0.0833; change -0.0011

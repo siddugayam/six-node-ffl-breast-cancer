@@ -1,0 +1,120 @@
+K 6
+nparts 64
+part 56
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 90196
+visited 27163356
+rng_final 42
+comp 0 3 3 7
+comp 0 4 2 15
+comp 0 5 1 29
+comp 1 1 4 1
+comp 1 2 3 50
+comp 1 3 2 690
+comp 1 4 1 1144
+comp 1 5 0 2
+comp 2 1 3 20
+comp 2 2 2 2585
+comp 2 3 1 37097
+comp 2 4 0 44
+comp 3 1 2 523
+comp 3 2 1 30012
+comp 3 3 0 3053
+comp 4 0 2 51
+comp 4 1 1 5886
+comp 4 2 0 5118
+comp 5 0 1 690
+comp 5 1 0 2824
+comp 6 0 0 355
+mask 2 355
+mask 3 741
+mask 6 2027
+mask 7 145
+mask 10 2
+mask 11 58
+mask 12 15
+mask 13 29
+mask 14 33279
+mask 15 14836
+mask 18 4
+mask 19 5
+mask 20 947
+mask 21 171
+mask 22 7596
+mask 23 1374
+mask 26 29
+mask 27 138
+mask 28 10615
+mask 29 1861
+mask 30 5739
+mask 31 5697
+mask 46 3
+mask 59 2
+mask 62 3
+mask 63 1
+mask 70 57
+mask 72 29
+mask 73 10
+mask 75 25
+mask 76 8
+mask 77 2
+mask 78 574
+mask 79 198
+mask 80 2
+mask 82 5
+mask 83 4
+mask 84 21
+mask 86 382
+mask 87 28
+mask 89 52
+mask 90 8
+mask 91 171
+mask 92 884
+mask 93 220
+mask 94 1456
+mask 95 354
+mask 104 5
+mask 105 7
+mask 123 8
+mask 124 10
+mask 125 1
+mask 126 2
+mask 127 1
+flags 0 81558
+flags 1 1637
+flags 2 130
+flags 3 776
+flags 7 10
+flags 8 5768
+flags 9 41
+flags 10 17
+flags 11 121
+flags 24 138
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-124 HIC1
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-182 SMAD7
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-30e MYBL2
+exflag 1 CTNNB1 JUN ATF3 MMP2 hsa-miR-124 NR4A1
+exflag 1 CTNNB1 JUN BCL2L1 MYC hsa-miR-130a STAT5A
+exflag 1 CTNNB1 JUN BCL2L1 MYC hsa-miR-141 STAT5A
+exflag 2 SREBF1 AR hsa-let-7a COL1A1 COL3A1 hsa-miR-29b
+exflag 2 SREBF1 AR hsa-let-7c COL1A1 COL3A1 hsa-miR-29b
+exflag 2 SREBF1 AR hsa-miR-133b COL1A1 COL3A1 hsa-miR-29b
+exflag 3 CTNNB1 JUN ATF3 EZH2 MYC hsa-miR-27a | TF1=EZH2 TF2=MYC miRNA=hsa-miR-27a target=ATF3
+exflag 3 CTNNB1 JUN ATF3 MMP2 MYC hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=ATF3
+exflag 3 CTNNB1 JUN ATF3 MMP2 MYC hsa-miR-93 | TF1=JUN TF2=MYC miRNA=hsa-miR-93 target=ATF3
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-200c | TF1=JUN TF2=MYC miRNA=hsa-miR-200c target=VEGFA
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-93 | TF1=JUN TF2=MYC miRNA=hsa-miR-93 target=VEGFA
+exmask 63 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-miR-143
+exmask 95 SREBF1 BCL2L1 PPARG hsa-miR-29b FOS hsa-let-7b
+exmask 95 SREBF1 BCL2L1 PPARG hsa-miR-29b FOS hsa-let-7e
+exmask 95 SREBF1 BCL2L1 PPARG hsa-miR-29b HIF1A hsa-let-7e
+exmask 123 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-let-7b
+exmask 123 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-let-7e
+exmask 123 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-miR-29a
+exmask 125 hsa-miR-335 COL3A1 IRF1 hsa-miR-29b COL1A1 MYBL2
+exmask 126 hsa-miR-335 COL3A1 IRF1 E2F1 hsa-miR-29a COL1A1
+exmask 126 hsa-miR-335 COL3A1 IRF1 TP53 hsa-miR-29a COL1A1
+exmask 127 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-miR-29b

@@ -1,0 +1,97 @@
+ModelID,StrippedCellLineName,CCLEName,OncotreeLineage,OncotreePrimaryDisease,OncotreeSubtype,PrimaryOrMetastasis,GrowthPattern,has_expression,has_miRNA,has_CRISPR,COL1A1_log2TPM1,COL3A1_log2TPM1
+ACH-000017,SKBR3,SKBR3_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Mixed,True,True,True,2.353323291162897,0.5459683691052926
+ACH-000019,MCF7,MCF7_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,3.3476656563009706,0.4436066514756145
+ACH-000028,KPL1,KPL1_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,2.9873208659292536,0.7570232465074596
+ACH-000044,MDAMB134VI,MDAMB134VI_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,True,True,False,4.789207575347344,0.1634987322828795
+ACH-000097,ZR751,ZR751_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,5.00539998774259,0.4541758931858022
+ACH-000111,HCC1187,HCC1187_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Mixed,True,True,True,3.082361969557473,2.994579724215748
+ACH-000117,EFM192A,EFM192A_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,False,3.864928972289788,0.1890338243900171
+ACH-000147,T47D,T47D_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,5.590961241342599,0.0426443374084937
+ACH-000148,HS578T,HS578T_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",Primary,Adherent,True,True,True,12.872790291257498,11.29393139869572
+ACH-000196,HCC1599,HCC1599_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Suspension,True,True,False,3.925999418556223,0.0840642647884745
+ACH-000212,CAL120,CAL120_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,2.7506065048355923,5.43095427138573
+ACH-000223,HCC1937,HCC1937_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,3.438292851579147,0.84799690655495
+ACH-000248,AU565,AU565_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,2.724650271732968,0.3103401206121505
+ACH-000258,DU4475,DU4475_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Suspension,True,True,True,0.8237493603082727,0.0285691521967709
+ACH-000276,HCC38,HCC38_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,7.57765541155702,1.0071955014042038
+ACH-000277,HCC1419,HCC1419_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,5.168321115739722,0.0426443374084937
+ACH-000288,BT549,BT549_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",Primary,Adherent,True,True,True,8.090959258071985,6.768581342173613
+ACH-000330,EFM19,EFM19_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,4.022367813028454,0.2868811477881615
+ACH-000349,HCC1500,HCC1500_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,Primary,Adherent,True,True,False,3.726831217032493,0.632268215499513
+ACH-000352,HCC1428,HCC1428_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,4.357552004618084,0.1110313123887439
+ACH-000374,HCC1143,HCC1143_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,5.049630767724601,0.1634987322828795
+ACH-000536,BT20,BT20_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,3.596935142387232,0.2387868595871165
+ACH-000554,UACC893,UACC893_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Primary,Adherent,True,True,True,4.639810977716776,0.2141248053528473
+ACH-000568,UACC812,UACC812_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Primary,Mixed,True,True,False,2.169925001442312,0.4114262457264649
+ACH-000573,MDAMB436,MDAMB436_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",Metastatic,Mixed,True,True,True,3.2094533656289497,0.2750070474998697
+ACH-000621,MDAMB157,MDAMB157_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,7.277147890238628,9.49968646445849
+ACH-000624,HCC1806,HCC1806_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,Primary,Adherent,True,True,True,3.3909427728025427,0.1634987322828795
+ACH-000642,HMEL,HMEL_BREAST,Breast,Non-Cancerous,Immortalized Breast Cells,,Mixed,True,False,False,4.23112515787905,1.232660756790275
+ACH-000643,HDQP1,HDQP1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,4.301587646603187,0.632268215499513
+ACH-000668,HCC70,HCC70_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,3.844988156682612,0.2016338611696504
+ACH-000691,HCC2157,HCC2157_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Suspension,True,True,False,2.84197311892718,0.84799690655495
+ACH-000699,HCC1395,HCC1395_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,True,6.958030640864368,0.5655971758542251
+ACH-000711,JIMT1,JIMT1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,2.5160151470036647,0.137503523749935
+ACH-000721,HMC18,HMC18_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,True,3.314696525656286,1.1043366598147355
+ACH-000725,HCC202,HCC202_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,Primary,Adherent,True,True,True,5.299391206126829,1.6735564239901446
+ACH-000755,HCC2218,HCC2218_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,Primary,Suspension,True,True,False,4.79025073883523,0.0426443374084937
+ACH-000759,MDAMB175VII,MDAMB175VII_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,True,False,4.693208148910016,0.3219280948873623
+ACH-000768,MDAMB231,MDAMB231_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,2.280956313831056,0.1505596765753814
+ACH-000783,CAMA1,CAMA1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,True,True,True,3.2141248053528475,1.9523335663696857
+ACH-000818,BT483,BT483_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,3.0125686735030555,0.1505596765753814
+ACH-000828,ZR7530,ZR7530_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,True,True,False,3.889473542531109,0.3673710656485294
+ACH-000849,MDAMB468,MDAMB468_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,3.277984747299765,0.9486008474933558
+ACH-000856,CAL51,CAL51_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,3.092545741543565,4.361066488794321
+ACH-000857,CAL851,CAL851_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,2.6205864104518777,0.5655971758542251
+ACH-000859,HCC1954,HCC1954_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,Primary,Adherent,True,True,True,2.769771739249448,0.5753123306874368
+ACH-000876,MDAMB415,MDAMB415_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,4.066950243924627,1.7990873060740036
+ACH-000902,CAL148,CAL148_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Mixed,True,True,False,0.903038270112912,0.070389327891398
+ACH-000910,MDAMB453,MDAMB453_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,5.47864829453918,0.070389327891398
+ACH-000927,BT474,BT474_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,4.55704241526372,0.1763227726404628
+ACH-000930,HCC1569,HCC1569_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,True,False,1.3895668117627256,0.4329594072761062
+ACH-000934,MDAMB361,MDAMB361_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,True,True,5.341630009329911,0.2986583155645151
+ACH-001065,EVSAT,EVSAT_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,False,False,True,,
+ACH-001249,YMB1,YMB1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Mixed,False,False,False,,
+ACH-001357,MCF10A,MCF10A_BREAST,Breast,Non-Cancerous,Immortalized Breast Cells,Primary,Adherent,False,False,False,,
+ACH-001358,MDAMB330,MDAMB330_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,False,False,False,,
+ACH-001388,SUM102PT,SUM102PT_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Suspension,True,False,True,1.1043366598147355,0.01435529297707
+ACH-001389,SUM1315MO2,SUM1315MO2_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,False,True,9.424985053624376,0.2016338611696504
+ACH-001390,SUM149PT,SUM149PT_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,False,True,2.7676547982373463,0.2509615735332187
+ACH-001391,SUM159PT,SUM159PT_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Primary,Adherent,True,False,True,4.2433644256936605,1.1309308698264486
+ACH-001392,SUM185PE,SUM185PE_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,False,True,2.2448870591235344,0.0
+ACH-001393,SUM190PT,SUM190PT_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Primary,Suspension,True,False,True,0.9560566524124028,0.0
+ACH-001394,SUM229PE,SUM229PE_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,False,True,1.9411063109464315,0.2141248053528473
+ACH-001395,SUM44PE,SUM44PE_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,True,False,False,3.00539998774259,0.0426443374084937
+ACH-001396,SUM52PE,SUM52PE_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,True,False,True,3.354734239970604,1.6915341649192002
+ACH-001397,SUM225CWN,SUM225CWN_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Cancer, NOS",Metastatic,Adherent,False,False,False,,
+ACH-001419,VP229,VP229_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,False,True,1.4005379295837286,0.01435529297707
+ACH-001514,HCC1008,HCC1008_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,False,False,False,,
+ACH-001662,SNU2372,SNU2372_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Cancer, NOS",Primary,Adherent,True,False,True,5.867649406017757,0.1110313123887439
+ACH-001683,UACC3133,UACC3133_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Primary,Adherent,True,False,True,2.469885976274464,0.0
+ACH-001705,VP267,VP267_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,False,False,1.2750070474998698,0.0565835283663675
+ACH-001819,MFM223,MFM223_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,False,True,3.726831217032493,2.596935142387232
+ACH-001820,COLO824,COLO824_BREAST,Breast,"Breast Neoplasm, NOS","Breast Neoplasm, NOS",Metastatic,Adherent,True,False,True,0.7739963251111731,0.0
+ACH-002163,MRKNU1,MRKNU1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Primary,Suspension,False,False,False,,
+ACH-002179,OCUBM,OCUBM_BREAST,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Metastatic,Adherent,False,False,True,,
+ACH-002208,YMB1E,YMB1E_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,False,False,False,,
+ACH-002320,600MPE,600MPE_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",Metastatic,Unknown,False,False,False,,
+ACH-002321,HBL100,HBL100_BREAST,Breast,Non-Cancerous,Immortalized Breast Cells,,Adherent,False,False,False,,
+ACH-002322,HCC2185,HCC2185_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Suspension,False,False,False,,
+ACH-002323,HCC2688,HCC2688_BREAST,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,,Unknown,False,False,False,,
+ACH-002324,HCC3153,HCC3153_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,,Unknown,False,False,False,,
+ACH-002326,MACLS2,MACLS2_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,False,False,False,,
+ACH-002327,MCF12A,MCF12A_BREAST,Breast,Non-Cancerous,Immortalized Breast Cells,,Adherent,False,False,False,,
+ACH-002328,MX1,MX1_BREAST,Breast,"Breast Neoplasm, NOS","Breast Neoplasm, NOS",,Adherent,False,False,False,,
+ACH-002329,SKBR5,SKBR5_BREAST,Breast,"Breast Neoplasm, NOS","Breast Neoplasm, NOS",,Unknown,False,False,False,,
+ACH-002330,SKBR7,SKBR7_BREAST,Breast,"Breast Neoplasm, NOS","Breast Neoplasm, NOS",,Unknown,False,False,False,,
+ACH-002331,ZR75B,ZR75B_BREAST,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",Metastatic,Unknown,False,False,False,,
+ACH-002399,21NT,21NT_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Adherent,True,False,True,3.388189537156084,0.01435529297707
+ACH-002400,21MT1,21MT1_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,False,False,True,,
+ACH-002401,21MT2,21MT2_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,False,True,4.37364821133469,0.01435529297707
+ACH-002499,UACC3199,UACC3199_BREAST,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Metastatic,Adherent,True,False,True,4.358255586705128,0.6229303509201767
+ACH-002883,IPMBO053,,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Dome,False,False,False,,
+ACH-002884,IPMBO055,,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Dome,False,False,False,,
+ACH-002885,IPMBO056,,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,Primary,Dome,False,False,False,,
+ACH-002921,BCK4,,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,Metastatic,Adherent,True,False,False,3.423578170981797,0.2016338611696504
+ACH-002950,NH93T,,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Primary,Dome,False,False,False,,
+ACH-002951,NH84T,,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,Primary,Dome,False,False,False,,

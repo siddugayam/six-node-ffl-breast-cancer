@@ -1,0 +1,97 @@
+K 6
+nparts 64
+part 12
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 418199
+visited 111347457
+rng_final 42
+comp 1 2 3 79
+comp 1 3 2 2208
+comp 1 4 1 9769
+comp 2 1 3 68
+comp 2 2 2 12980
+comp 2 3 1 183005
+comp 2 4 0 273
+comp 3 0 3 3
+comp 3 1 2 2782
+comp 3 2 1 142930
+comp 3 3 0 12283
+comp 4 0 2 252
+comp 4 1 1 19884
+comp 4 2 0 20971
+comp 5 0 1 1727
+comp 5 1 0 8286
+comp 6 0 0 699
+mask 2 699
+mask 3 1982
+mask 6 4799
+mask 7 593
+mask 11 17
+mask 12 8979
+mask 13 3003
+mask 14 177259
+mask 15 67834
+mask 20 3364
+mask 21 555
+mask 22 32698
+mask 23 5081
+mask 27 8
+mask 28 48470
+mask 29 11003
+mask 30 19415
+mask 31 25683
+mask 44 1
+mask 45 2
+mask 46 40
+mask 47 21
+mask 60 3
+mask 63 1
+mask 70 340
+mask 71 2
+mask 78 3470
+mask 79 1479
+mask 84 95
+mask 86 517
+mask 87 13
+mask 92 374
+mask 93 261
+mask 94 51
+mask 95 82
+mask 110 4
+mask 111 1
+flags 0 378498
+flags 1 8815
+flags 2 886
+flags 3 3174
+flags 4 1
+flags 6 18
+flags 7 48
+flags 8 21034
+flags 9 363
+flags 10 86
+flags 11 419
+flags 24 4696
+flags 25 159
+flags 27 2
+exflag 0 AR CDH11 MYC hsa-miR-101 hsa-miR-182 SMAD7
+exflag 0 AR CDH11 MYC hsa-miR-101 hsa-miR-21 SMAD7
+exflag 0 AR CDH11 MYC hsa-miR-101 hsa-miR-216a HIC1
+exflag 1 AR EP300 DNMT1 VEGFA hsa-let-7a HIC1
+exflag 1 AR EP300 DNMT1 VEGFA hsa-let-7c HIC1
+exflag 1 AR EP300 DNMT1 VEGFA hsa-miR-19a HIC1
+exflag 2 AR MYC hsa-let-7a COL1A1 COL3A1 hsa-let-7e
+exflag 2 AR MYC hsa-let-7a COL1A1 COL3A1 hsa-miR-29a
+exflag 2 AR MYC hsa-let-7a COL1A1 COL3A1 hsa-miR-29b
+exflag 3 AR CDH11 EP300 EZH2 SNAI2 hsa-miR-200c | TF1=EP300 TF2=EZH2 miRNA=hsa-miR-200c target=SNAI2
+exflag 3 AR CDH11 EP300 EZH2 TWIST1 hsa-miR-200c | TF1=EP300 TF2=EZH2 miRNA=hsa-miR-200c target=TWIST1
+exflag 3 AR CDH11 MYC BMI1 hsa-miR-101 hsa-miR-200c | TF1=AR TF2=MYC miRNA=hsa-miR-101 target=BMI1
+exflag 4 AR KLF5 MYC VEGFA hsa-miR-17 hsa-miR-200b | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 AR KLF5 MYC VEGFA hsa-miR-17 hsa-miR-200c | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 AR KLF5 MYC VEGFA hsa-miR-17 hsa-miR-429 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exmask 63 E2F1 ETV4 ETS1 COL1A1 COL3A1 hsa-miR-29a
+exmask 95 E2F1 ETV4 CCND2 MYB hsa-miR-143 hsa-miR-29a
+exmask 95 E2F1 ETV4 CCND2 MYB hsa-miR-143 hsa-miR-29b
+exmask 95 E2F1 ETV4 CCND2 MYB hsa-miR-143 hsa-miR-29c
+exmask 111 E2F1 MYB COL1A1 COL3A1 hsa-miR-143 hsa-miR-29a

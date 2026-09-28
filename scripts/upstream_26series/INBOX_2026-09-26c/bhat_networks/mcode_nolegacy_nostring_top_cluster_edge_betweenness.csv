@@ -1,0 +1,6 @@
+"node_a","node_b","type_a","type_b","sif_labels","edge_betweenness_pairs_once","edge_betweenness_ordered_pairs"
+"COL3A1","hsa-miR-29a","Gene","miRNA","miRNA-Gene",1.5,3
+"COL3A1","hsa-miR-29c","Gene","miRNA","miRNA-Gene",1.5,3
+"hsa-miR-29b","hsa-miR-29a","miRNA","miRNA","miRNA-miRNA",1.5,3
+"hsa-miR-29b","hsa-miR-29c","miRNA","miRNA","miRNA-miRNA",1.5,3
+"COL3A1","hsa-miR-29b","Gene","miRNA","miRNA-Gene",1,2

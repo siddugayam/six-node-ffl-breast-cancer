@@ -1,0 +1,23 @@
+{
+  "mode": "nolegacy",
+  "nodes": 587,
+  "undirected_edges": 5606,
+  "usable_runs": 14,
+  "usable_runs_igraph": 14,
+  "trio_together_all_runs": "0 of 14",
+  "trio_together_igraph_runs": "0 of 14",
+  "miR29a_in_COL1A1_module_igraph": "0 of 14",
+  "TFarm_all_with_COL1A1_igraph": "0 of 14",
+  "rewiring_null": {
+    "louvain": {
+      "observed": 0,
+      "null_mean": 0.014,
+      "p": 1
+    },
+    "fastgreedy": {
+      "observed": 0,
+      "null_mean": 0.056,
+      "p": 1
+    }
+  }
+}

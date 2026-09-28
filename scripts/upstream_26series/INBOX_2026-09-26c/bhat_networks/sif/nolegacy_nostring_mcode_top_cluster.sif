@@ -1,0 +1,5 @@
+hsa-miR-29a	miRNA-Gene	COL3A1
+hsa-miR-29a	miRNA-miRNA	hsa-miR-29b
+hsa-miR-29b	miRNA-Gene	COL3A1
+hsa-miR-29b	miRNA-miRNA	hsa-miR-29c
+hsa-miR-29c	miRNA-Gene	COL3A1

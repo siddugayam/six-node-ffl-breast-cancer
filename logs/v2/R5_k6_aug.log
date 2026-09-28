@@ -1,0 +1,11 @@
+graph=results/v2/R4_graph_aug.txt K=6 nodes=587 edges=8031
+connected_subgraphs=31424631359  FFL_greedy(paper)=19715155  FFL_maxflow=19838598  divergent=123443
+class_diversity_histogram (paper's is_ffl):
+   1 classes -> 21786
+   2 classes -> 815037
+   3 classes -> 6912138
+   4 classes -> 7459146
+   5 classes -> 4188719
+   6 classes -> 317032
+   7 classes -> 1297
+max_classes=7  example_module: ABCA1(Gene) NFKB1(TF) STAT3(TF) HIC1(Gene) hsa-let-7b(miRNA) hsa-miR-29b(miRNA)

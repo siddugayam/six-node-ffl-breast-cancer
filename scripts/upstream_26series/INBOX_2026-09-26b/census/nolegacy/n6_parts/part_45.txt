@@ -1,0 +1,114 @@
+K 6
+nparts 64
+part 45
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 83670
+visited 28018045
+rng_final 42
+comp 0 1 5 90
+comp 1 0 5 2
+comp 1 1 4 185
+comp 1 2 3 1591
+comp 1 3 2 2349
+comp 1 4 1 566
+comp 2 0 4 36
+comp 2 1 3 660
+comp 2 2 2 5944
+comp 2 3 1 7712
+comp 2 4 0 3
+comp 3 0 3 229
+comp 3 1 2 4268
+comp 3 2 1 20521
+comp 3 3 0 306
+comp 4 0 2 865
+comp 4 1 1 16819
+comp 4 2 0 2889
+comp 5 0 1 5083
+comp 5 1 0 10169
+comp 6 0 0 3383
+mask 2 1
+mask 3 31
+mask 6 93
+mask 11 6
+mask 13 2
+mask 14 2377
+mask 15 1851
+mask 19 5
+mask 20 55
+mask 21 37
+mask 22 306
+mask 23 100
+mask 27 25
+mask 28 3179
+mask 29 540
+mask 30 3512
+mask 31 1043
+mask 33 135
+mask 34 3623
+mask 35 5808
+mask 36 24
+mask 37 29
+mask 38 7545
+mask 39 110
+mask 40 128
+mask 41 436
+mask 42 55
+mask 43 397
+mask 44 4044
+mask 45 2162
+mask 46 7086
+mask 47 17543
+mask 50 386
+mask 51 327
+mask 52 415
+mask 53 218
+mask 54 4756
+mask 55 817
+mask 56 180
+mask 57 679
+mask 58 217
+mask 59 641
+mask 60 5997
+mask 61 2433
+mask 62 2849
+mask 63 1467
+flags 0 49032
+flags 1 3220
+flags 2 405
+flags 3 820
+flags 4 23597
+flags 5 1495
+flags 6 2236
+flags 7 314
+flags 8 1410
+flags 9 37
+flags 10 6
+flags 11 6
+flags 12 736
+flags 13 10
+flags 14 54
+flags 15 14
+flags 24 47
+flags 25 28
+flags 28 196
+flags 30 7
+exflag 0 FLI1 CTGF FN1 FOXM1 hsa-miR-200b hsa-miR-200c
+exflag 0 FLI1 CTGF FN1 FOXM1 hsa-miR-200c hsa-miR-429
+exflag 0 FLI1 CTGF FN1 RUNX1 hsa-miR-144 hsa-miR-18a
+exflag 1 FLI1 CTGF EP300 DNMT1 FN1 hsa-miR-142
+exflag 1 FLI1 CTGF EP300 DNMT1 FN1 hsa-miR-200b
+exflag 1 FLI1 CTGF EP300 DNMT1 FN1 hsa-miR-27b
+exflag 2 FLI1 CTGF EP300 DNMT1 ESR1 hsa-miR-143
+exflag 2 FLI1 CTGF EP300 DNMT1 ESR1 hsa-miR-18a
+exflag 2 FLI1 CTGF EP300 DNMT1 ESR1 hsa-miR-18b
+exflag 3 FLI1 CTGF EP300 ESR1 HIF1A hsa-miR-143 | TF1=ESR1 TF2=HIF1A miRNA=hsa-miR-143 target=CTGF
+exflag 3 FLI1 CTGF EP300 ESR1 JUN hsa-miR-18b | TF1=ESR1 TF2=JUN miRNA=hsa-miR-18b target=CTGF
+exflag 3 FLI1 CTGF EP300 ESR1 STAT3 hsa-miR-143 | TF1=ESR1 TF2=STAT3 miRNA=hsa-miR-143 target=CTGF
+exflag 4 FLI1 CTGF EP300 SP1 STAT3 hsa-miR-18a | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-18a target=CTGF
+exflag 4 FLI1 CTGF EP300 SP1 STAT3 hsa-miR-19a | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-19a target=CTGF
+exflag 4 FLI1 CTGF HDAC1 SP1 STAT3 hsa-miR-18a | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-18a target=CTGF
+exmask 63 FLI1 CTGF EP300 DNMT1 HIF1A hsa-miR-218
+exmask 63 FLI1 CTGF EP300 ESR1 STAT3 hsa-miR-19b
+exmask 63 FLI1 CTGF EP300 EZH2 HIF1A hsa-miR-218

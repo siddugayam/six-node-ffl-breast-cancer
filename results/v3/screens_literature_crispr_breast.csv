@@ -1,0 +1,112 @@
+query,pmid,year,journal,title
+breast_crispr_migration_invasion,37057875,2023,Cancer Res,An In Vivo CRISPR Screen Identifies That SNRPC Promotes Triple-Negative Breast Cancer Progression.
+breast_crispr_migration_invasion,39186674,2024,Cancer Res,CRISPR Screening of Transcribed Super-Enhancers Identifies Drivers of Triple-Negative Breast Cancer Progression.
+breast_crispr_migration_invasion,39992701,2025,Cancer Res,SMARCA4 Inhibits Breast Cancer Progression and Metastasis through RHOA Suppression.
+breast_crispr_migration_invasion,33005030,2020,Nat Cell Biol,LRRC31 inhibits DNA repair and sensitizes breast cancer brain metastasis to radiation therapy.
+breast_crispr_migration_invasion,32029688,2020,Science,Deregulation of ribosomal protein expression and translation promotes breast cancer metastasis.
+breast_crispr_migration_invasion,35411083,2022,Nat Cell Biol,Genome-wide CRISPR screen identifies PRC2 and KMT2D-COMPASS as regulators of distinct EMT trajectories that contribute differentially to metastasis.
+breast_crispr_migration_invasion,39189475,2024,Adv Sci (Weinh),mRNA-Lipid Nanoparticle-Mediated Restoration of PTPN14 Exhibits Antitumor Effects by Overcoming Anoikis Resistance in Triple-Negative Breast Cancer.
+breast_crispr_migration_invasion,40300683,2025,Int J Biol Macromol,TFDP1 drives triple-negative breast Cancer development through senescence suppression and serves as a therapeutic target for topotecan.
+breast_crispr_migration_invasion,41370830,2026,Cancer Discov,Residual Breast Cancer Cells Co-opt SOX5-Driven Endochondral Ossification to Maintain Dormancy.
+breast_crispr_migration_invasion,34916221,2022,Cancer Res,An In Vivo CRISPR Screen Identifies Stepwise Genetic Dependencies of Metastatic Progression.
+breast_crispr_migration_invasion,40657358,2025,J Cancer,Integrating Bulk RNA Sequencing and CRISPR-Cas9 Screening to Identify Proliferation-Related Genes for Prognostic Stratification in Breast Cancer.
+breast_crispr_migration_invasion,40358607,2025,Mol Cancer Res,Novel Metastasis Suppressor PI3KC2β Is Mediated by mTORC1 Signaling in Breast Cancer.
+breast_crispr_migration_invasion,42135732,2026,BMC Cancer,Construction of a novel signature based on CRISPR-Cas9 screening for prognostic prediction in breast cancer.
+breast_crispr_migration_invasion,30863499,2019,Oncotarget,POPX2 is a novel LATS phosphatase that regulates the Hippo pathway.
+breast_crispr_migration_invasion,41080074,2025,Drug Des Devel Ther,"FAK-Induced Time Dependent Cell Response Profiling: Prediction, Identification, and Analysis of Anti-Tumor Immune Natural Products."
+breast_crispr_migration_invasion,32222279,2020,Biochem Biophys Res Commun,PSMD12 promotes breast cancer growth via inhibiting the expression of pro-apoptotic genes.
+breast_crispr_migration_invasion,41632816,2026,Adv Sci (Weinh),ITGB1 Regulates Triple-Negative Breast Cancer Development by Modulating the Tumor Microenvironment.
+breast_crispr_migration_invasion,39674088,2025,EBioMedicine,OPG promotes lung metastasis by reducing CXCL10 production of monocyte-derived macrophages and decreasing NK cell recruitment.
+breast_crispr_migration_invasion,42409165,2026,J Adv Res,Functional CRISPR screens reveal TPL1 lncRNA as a regulator of triple-negative breast cancer hallmarks.
+breast_crispr_migration_invasion,41294275,2026,J Mol Cell Biol,ZBTB7B inhibits glioma tumorigenicity by upregulating GPR17 and CXCL10.
+breast_crispr_migration_invasion,32727562,2020,Breast Cancer Res,Identification and targeting of selective vulnerability rendered by tamoxifen resistance.
+breast_crispr_migration_invasion,40768362,2025,Proc Natl Acad Sci U S A,The E3 ligase HECTD4 regulates COX-2-dependent tumor progression and metastasis.
+breast_crispr_migration_invasion,42680732,2026,Nat Commun,In vivo CRISPR screening identifies metastasis suppressors in triple-negative breast cancer.
+breast_crispr_migration_invasion,40816003,2025,Comput Biol Med,Pan-cancer analysis implicates novel insights of cholesterol biosynthesis into immunotherapy response prediction and survival prognostication.
+breast_crispr_migration_invasion,32067153,2020,Breast Cancer Res Treat,Targeted degradation of activating estrogen receptor α ligand-binding domain mutations in human breast cancer.
+breast_crispr_migration_invasion,37522838,2023,Cancer Res,Plasma Membrane Channel TRPM4 Mediates Immunogenic Therapy-Induced Necrosis.
+breast_crispr_migration_invasion,40310725,2025,STAR Protoc,Protocol for in vivo CRISPR knockout screening of autophagy genes to identify breast cancer metastasis suppressors.
+breast_crispr_migration_invasion,33864166,2021,Breast Cancer Res Treat,NSDHL promotes triple-negative breast cancer metastasis through the TGFβ signaling pathway and cholesterol biosynthesis.
+breast_crispr_migration_invasion,36898847,2023,Cancer Sci,In vivo CRISPR screens identify RhoV as a pro-metastasis factor of triple-negative breast cancer.
+breast_crispr_migration_invasion,36180600,2022,Med Oncol,IKZF3 amplification frequently occurs in HER2-positive breast cancer and is a potential therapeutic target.
+breast_crispr_migration_invasion,38997291,2024,Nat Commun,Loss of tumor suppressors promotes inflammatory tumor microenvironment and enhances LAG3+T cell mediated immune suppression.
+breast_crispr_migration_invasion,37445737,2023,Int J Mol Sci,"Expression-Based Diagnosis, Treatment Selection, and Drug Development for Breast Cancer."
+breast_crispr_migration_invasion,39372951,2024,Front Cell Dev Biol,YTHDF3 modulates the progression of breast cancer cells by regulating FGF2 through m(6)A methylation.
+breast_crispr_migration_invasion,35401439,2022,Front Microbiol,The Combined Use of Orf Virus and PAK4 Inhibitor Exerts Anti-tumor Effect in Breast Cancer.
+breast_crispr_migration_invasion,41189020,2025,Biomark Res,Piwi-interacting RNA 775 (piR-775) predicts favorable prognosis and regulates cell cycle and DNA damage response pathways in breast cancer.
+breast_crispr_migration_invasion,34022283,2021,Cancer Lett,Disrupting interferon-alpha and NF-kappaB crosstalk suppresses IFITM1 expression attenuating triple-negative breast cancer progression.
+breast_crispr_migration_invasion,33759347,2021,Mol Oncol,Detection of phenotype-specific therapeutic vulnerabilities in breast cells using a CRISPR loss-of-function screen.
+breast_crispr_migration_invasion,29700004,2018,Cancer Res,PHF5A Epigenetically Inhibits Apoptosis to Promote Breast Cancer Progression.
+breast_crispr_migration_invasion,39478150,2024,EMBO Mol Med,Reciprocal inhibition of NOTCH and SOX2 shapes tumor cell plasticity and therapeutic escape in triple-negative breast cancer.
+breast_crispr_migration_invasion,41183038,2025,PLoS One,LSR overexpression induces chemoresistance in triple negative breast cancer cells through MDR1 upregulation and apoptosis attenuation.
+breast_crispr_migration_invasion,35115500,2022,Cell Death Dis,DGKZ promotes TGFβ signaling pathway and metastasis in triple-negative breast cancer by suppressing lipid raft-dependent endocytosis of TGFβR2.
+breast_crispr_migration_invasion,42177737,2026,Discov Oncol,PSMB1 screened by CRISPR-CAS9 promoted breast cancer progression via PI3K-AKT-mTOR signaling.
+breast_crispr_migration_invasion,40650785,2025,Cancer Metastasis Rev,CRISPR screening approaches in breast cancer research.
+breast_crispr_migration_invasion,29066500,2017,Genes Dev,Suppression of protein tyrosine phosphatase N23 predisposes to breast tumorigenesis via activation of FYN kinase.
+breast_crispr_migration_invasion,36895029,2023,Cell Biosci,Loss of TTC17 promotes breast cancer metastasis through RAP1/CDC42 signaling and sensitizes it to rapamycin and paclitaxel.
+breast_crispr_migration_invasion,36967443,2023,J Transl Med,PHF6 recruits BPTF to promote HIF-dependent pathway and progression in YAP-high breast cancer.
+breast_crispr_migration_invasion,34902746,2022,Biochem Biophys Res Commun,Genome-wide CRISPR/Cas9 knockout screening uncovers ZNF319 as a novel tumor suppressor critical for breast cancer metastasis.
+breast_crispr_migration_invasion,35795050,2022,Front Oncol,Progress and Prospect of Immunotherapy for Triple-Negative Breast Cancer.
+breast_crispr_migration_invasion,36712364,2022,PNAS Nexus,Genomic screening reveals ubiquitin-like modifier activating enzyme 1 as a potent and druggable target in c-MYC-high triple negative breast cancer models.
+breast_crispr_migration_invasion,38600325,2024,Br J Cancer,"Pathway-based signatures predict patient outcome, chemotherapy benefit and synthetic lethal dependencies in invasive lobular breast cancer."
+breast_crispr_migration_invasion,37847564,2023,J Clin Invest,Metixene is an incomplete autophagy inducer in preclinical models of metastatic cancer and brain metastases.
+breast_crispr_migration_invasion,42327076,2026,bioRxiv,Loss of Arginase 2 Promotes Lung Metastasis in immune-competent hosts via Nitric Oxide Synthase 2-Dependent Th17 Response.
+breast_crispr_migration_invasion,35957886,2022,Front Oncol,Stabilization of CCDC102B by Loss of RACK1 Through the CMA Pathway Promotes Breast Cancer Metastasis via Activation of the NF-κB Pathway.
+breast_crispr_migration_invasion,38363674,2024,Cell Rep,In vivo CRISPR knockout screen identifies p47 as a suppressor of HER2+ breast cancer metastasis by regulating NEMO trafficking and autophagy flux.
+breast_crispr_migration_invasion,25810455,2015,Dis Model Mech,Phenotype-driven chemical screening in zebrafish for compounds that inhibit collective cell migration identifies multiple pathways potentially involved in metastatic invasion.
+breast_crispr_migration_invasion,41977403,2026,Int J Mol Sci,Functional CRISPR Screens Define Genetic Drivers for Cancer Transformation and Progression from Non-Cancerous Cells.
+breast_crispr_migration_invasion,32245900,2020,Clin Cancer Res,Dual Targeting of CDK4/6 and BCL2 Pathways Augments Tumor Response in Estrogen Receptor-Positive Breast Cancer.
+breast_crispr_migration_invasion,42263468,2026,Transl Oncol,TFF1-mediated suppression of the TCA cycle promotes bone metastasis in triple-negative breast cancer.
+breast_crispr_migration_invasion,35568869,2022,Breast Cancer Res,Beta 2 adrenergic receptor and mu opioid receptor interact to potentiate the aggressiveness of human breast cancer cell by activating the glycogen synthase kinase 3 signaling.
+breast_crispr_migration_invasion,40632186,2025,Med Oncol,Advancing breast cancer research: a comprehensive review of in vitro and in vivo experimental models.
+breast_crispr_migration_invasion,33176162,2020,Mol Cell,Poison Exon Splicing Regulates a Coordinated Network of SR Protein Expression during Differentiation and Tumorigenesis.
+breast_crispr_migration_invasion,37932309,2023,Oncogenesis,Combined in vitro/in vivo genome-wide CRISPR screens in triple negative breast cancer identify cancer stemness regulators in paclitaxel resistance.
+breast_crispr_migration_invasion,30015871,2018,Int J Oncol,"BECN1-knockout impairs tumor growth, migration and invasion by suppressing the cell cycle and partially suppressing the epithelial-mesenchymal transition of human triple-negative breast cancer cells."
+breast_crispr_migration_invasion,42146389,2026,bioRxiv,CPT1A loss promotes lung metastasis in immune-competent mice via a mechanism of mtDNA release and chronic activation of STING pathway.
+breast_crispr_migration_invasion,40843962,2025,Arch Pharm (Weinheim),"Harnessing PHGDH Inhibition for Cancer Therapy: Mechanisms, SAR, Computational Aspects, and Clinical Potential."
+breast_crispr_migration_invasion,41310713,2025,World J Surg Oncol,Cross-cohort integrative multi-omics analysis of cancer essential gene ATP6V0B to dissect functional characteristics and clinical implications in breast cancer.
+breast_crispr_migration_invasion,39885374,2025,JMIRx Med,Identifying Safeguards Disabled by Epstein-Barr Virus Infections in Genomes From Patients With Breast Cancer: Chromosomal Bioinformatics Analysis.
+breast_crispr_migration_invasion,42649263,2026,Lab Anim (NY),CRISPR screen uncovers new suppressors of breast cancer metastasis.
+breast_crispr_ecm_collagen,38065100,2024,Cancer Cell,B3GALT6 promotes dormant breast cancer cell survival and recurrence by enabling heparan sulfate-mediated FGF signaling.
+breast_crispr_ecm_collagen,37046688,2023,Cancers (Basel),A CRISPR/Cas9-Based Assay for High-Throughput Studies of Cancer-Induced Innervation.
+breast_crispr_ecm_collagen,39372951,2024,Front Cell Dev Biol,YTHDF3 modulates the progression of breast cancer cells by regulating FGF2 through m(6)A methylation.
+breast_crispr_ecm_collagen,42409165,2026,J Adv Res,Functional CRISPR screens reveal TPL1 lncRNA as a regulator of triple-negative breast cancer hallmarks.
+breast_crispr_ecm_collagen,34921014,2022,Cancer Res,Loss of Integrin-Linked Kinase Sensitizes Breast Cancer to SRC Inhibitors.
+breast_crispr_ecm_collagen,27129942,2016,Gene,SHCBP1 is over-expressed in breast cancer and is important in the proliferation and apoptosis of the human malignant breast cancer cell line.
+breast_crispr_ecm_collagen,37190091,2023,Cells,Single-Cell Transcriptome Analysis Revealed Heterogeneity and Identified Novel Therapeutic Targets for Breast Cancer Subtypes.
+breast_crispr_ecm_collagen,41977403,2026,Int J Mol Sci,Functional CRISPR Screens Define Genetic Drivers for Cancer Transformation and Progression from Non-Cancerous Cells.
+breast_crispr_metabolism,41741641,2026,Nature,OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours.
+breast_crispr_metabolism,41332638,2025,bioRxiv,Recurrent Breast Cancer Cells Depend on De novo Pyrimidine Biosynthesis to Suppress Ferroptosis.
+breast_crispr_metabolism,39386444,2024,bioRxiv,Endocrine persistence in ER+ breast cancer is accompanied by metabolic vulnerability in oxidative phosphorylation.
+breast_crispr_metabolism,40324880,2025,Genes Dev,Aneuploidy generates enhanced nucleotide dependency and sensitivity to metabolic perturbation.
+breast_crispr_metabolism,41179682,2025,Front Oncol,Integrating single-cell transcriptomics and whole-genome CRISPR CAS9 screen identifies a cell cluster associated with tumor dependency in triple-negative breast cancer.
+breast_crispr_metabolism,39777474,2025,Cancer Res,Oxidative Phosphorylation Is a Metabolic Vulnerability of Endocrine Therapy-Tolerant Persister Cells in ER+ Breast Cancer.
+breast_crispr_metabolism,33864166,2021,Breast Cancer Res Treat,NSDHL promotes triple-negative breast cancer metastasis through the TGFβ signaling pathway and cholesterol biosynthesis.
+breast_crispr_metabolism,38401190,2024,Eur J Med Chem,Novel sulfonamide-indolinone hybrids targeting mitochondrial respiration of breast cancer cells.
+breast_crispr_metabolism,35115500,2022,Cell Death Dis,DGKZ promotes TGFβ signaling pathway and metastasis in triple-negative breast cancer by suppressing lipid raft-dependent endocytosis of TGFβR2.
+breast_crispr_metabolism,33664852,2021,Theranostics,Genome-wide CRISPR/Cas9 knockout screening uncovers a novel inflammatory pathway critical for resistance to arginine-deprivation therapy.
+breast_crispr_metabolism,41977403,2026,Int J Mol Sci,Functional CRISPR Screens Define Genetic Drivers for Cancer Transformation and Progression from Non-Cancerous Cells.
+breast_crispr_metabolism,40275371,2025,Cell Commun Signal,Multi-omics analysis reveals CMTR1 upregulation in cancer and roles in ribosomal protein gene expression and tumor growth.
+breast_crispr_metabolism,37190091,2023,Cells,Single-Cell Transcriptome Analysis Revealed Heterogeneity and Identified Novel Therapeutic Targets for Breast Cancer Subtypes.
+breast_crispr_metabolism,42196229,2026,Int J Mol Sci,Identification and Characterization of Cancer-Related Risk Metabolic Subpathways Reveal Their Functional Significance in Cancer.
+breast_crispr_metabolism,42327076,2026,bioRxiv,Loss of Arginase 2 Promotes Lung Metastasis in immune-competent hosts via Nitric Oxide Synthase 2-Dependent Th17 Response.
+breast_crispr_metabolism,39553963,2024,bioRxiv,Multi-omics analysis reveals CMTR1 upregulation in cancer and roles in ribosomal protein gene expression and tumor growth.
+breast_crispr_metabolism,37935981,2024,Cancer Gene Ther,Tafazzin mediates tamoxifen resistance by regulating cellular phospholipid composition in ER-positive breast cancer.
+breast_crispr_metabolism,35499393,2022,Mol Cancer Ther,Olfactory Receptor OR2H1 Is an Effective Target for CAR T Cells in Human Epithelial Tumors.
+breast_crispr_metabolism,40843962,2025,Arch Pharm (Weinheim),"Harnessing PHGDH Inhibition for Cancer Therapy: Mechanisms, SAR, Computational Aspects, and Clinical Potential."
+breast_crispr_metabolism,42263468,2026,Transl Oncol,TFF1-mediated suppression of the TCA cycle promotes bone metastasis in triple-negative breast cancer.
+breast_crispr_metabolism,38411275,2024,Mol Carcinog,Metabolism-focused CRISPR screen unveils mitochondrial pyruvate carrier 1 as a critical driver for PARP inhibitor resistance in lung cancer.
+breast_crispr_metabolism,39885374,2025,JMIRx Med,Identifying Safeguards Disabled by Epstein-Barr Virus Infections in Genomes From Patients With Breast Cancer: Chromosomal Bioinformatics Analysis.
+breast_crispr_metabolism,42146389,2026,bioRxiv,CPT1A loss promotes lung metastasis in immune-competent mice via a mechanism of mtDNA release and chronic activation of STING pathway.
+caf_crispr_screen,40086438,2025,Cancer Cell,PAI-1-driven SFRP2(high) cancer-associated fibroblasts hijack the abscopal effect of radioimmunotherapy.
+caf_crispr_screen,41544628,2026,Cancer Cell,Single-cell screens identify ADAM12 as a fibroblast checkpoint impeding anti-tumor immunity.
+caf_crispr_screen,41856523,2026,Gut,Molecular and cellular consequences of tumour-autonomous IL-6 signalling in intrahepatic cholangiocarcinoma.
+caf_crispr_screen,41806318,2026,Adv Sci (Weinh),In Vivo CRISPR Screening Identifies the Glutamate Receptor GRIA2 as Promoting Peritoneal Metastasis of Gastric Cancer via Calcium-Dependent β-Catenin Activation.
+caf_crispr_screen,41841497,2026,Nucleic Acids Res,Genome-wide CRISPR screens identify the EXO1-CAF-1 pathway suppressing R-loop-associated DNA damage.
+caf_crispr_screen,42557310,2026,Exp Mol Med,Macrophage-to-myofibroblast transition-derived itaconate promotes bone metastasis in lung cancer through targeting of HSPA8.
+caf_crispr_screen,42626030,2026,Hum Mutat,Mutation-Immune Crosstalk Contextualizes CAF-Associated ARPC1A Programs and Cisplatin Response in Gastric Cancer.
+caf_crispr_screen,30975723,2019,Genes Dev,The histone chaperone CAF-1 cooperates with the DNA methyltransferases to maintain Cd4 silencing in cytotoxic T cells.
+caf_crispr_screen,41833894,2026,Crit Rev Oncol Hematol,CRISPR-mediated cancer therapies: Approaches to direct tumor targeting.
+caf_crispr_screen,41244268,2025,Mol Ther Oncol,"ZEB1, a novel junctional adhesion molecule A regulator, impacts sensitivity of pancreatic cancer-associated fibroblasts to reovirus."
+caf_crispr_screen,39123399,2024,Cancers (Basel),Advancements in Research and Treatment Applications of Patient-Derived Tumor Organoids in Colorectal Cancer.
+caf_crispr_screen,42599193,2026,Genet Mol Biol,Coexpression network analysis of gastric adenocarcinoma identifies hub genes as biomarker candidates and their tumor microenvironment associations.

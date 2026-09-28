@@ -1,0 +1,120 @@
+K 6
+nparts 64
+part 40
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 112428
+visited 26261848
+rng_final 42
+comp 0 1 5 30
+comp 1 0 5 4
+comp 1 1 4 170
+comp 1 2 3 2090
+comp 1 3 2 2582
+comp 1 4 1 415
+comp 2 0 4 7
+comp 2 1 3 1124
+comp 2 2 2 11255
+comp 2 3 1 32004
+comp 2 4 0 6
+comp 3 0 3 106
+comp 3 1 2 4029
+comp 3 2 1 40110
+comp 3 3 0 1904
+comp 4 0 2 301
+comp 4 1 1 7056
+comp 4 2 0 6449
+comp 5 0 1 501
+comp 5 1 0 2207
+comp 6 0 0 78
+mask 2 5
+mask 3 147
+mask 6 153
+mask 7 12
+mask 11 1
+mask 12 2
+mask 13 17
+mask 14 11910
+mask 15 5445
+mask 18 27
+mask 19 54
+mask 20 494
+mask 21 42
+mask 22 3702
+mask 23 527
+mask 26 2
+mask 27 128
+mask 28 8274
+mask 29 1349
+mask 30 14554
+mask 31 6359
+mask 33 10
+mask 34 76
+mask 35 759
+mask 38 576
+mask 39 135
+mask 40 37
+mask 41 87
+mask 42 20
+mask 43 202
+mask 44 1675
+mask 45 1178
+mask 46 5093
+mask 47 6115
+mask 48 11
+mask 49 175
+mask 50 782
+mask 51 515
+mask 52 903
+mask 53 158
+mask 54 4122
+mask 55 564
+mask 56 23
+mask 57 692
+mask 58 172
+mask 59 1667
+mask 60 12229
+mask 61 8140
+mask 62 9470
+mask 63 3638
+flags 0 78947
+flags 1 3426
+flags 2 308
+flags 3 2669
+flags 4 14954
+flags 5 1022
+flags 6 1702
+flags 7 3894
+flags 8 2811
+flags 9 13
+flags 10 12
+flags 11 108
+flags 12 1881
+flags 13 4
+flags 14 171
+flags 15 84
+flags 24 244
+flags 25 1
+flags 27 25
+flags 28 135
+flags 29 9
+flags 30 8
+exflag 0 CDX1 POSTN PPARG hsa-miR-142 FN1 hsa-miR-145
+exflag 0 CDX1 POSTN PPARG hsa-miR-142 FN1 hsa-miR-613
+exflag 0 CDX1 POSTN PPARG hsa-miR-142 hsa-miR-29b COL1A1
+exflag 1 CDX1 POSTN PPARG KLF4 hsa-miR-143 COL1A1
+exflag 1 CDX1 POSTN PPARG KLF4 hsa-miR-143 COL3A1
+exflag 1 CDX1 POSTN PPARG KLF4 hsa-miR-145 FN1
+exflag 2 CDX1 POSTN PPARG CAV1 ESR1 hsa-miR-19a
+exflag 2 CDX1 POSTN PPARG CAV1 ESR1 hsa-miR-19b
+exflag 2 CDX1 POSTN PPARG KLF4 MYC hsa-miR-19a
+exflag 3 CDX1 POSTN PPARG RELA FN1 hsa-miR-145 | TF1=PPARG TF2=RELA miRNA=hsa-miR-145 target=FN1
+exflag 3 CDX1 POSTN PPARG SP1 COL1A1 hsa-miR-142 | TF1=PPARG TF2=SP1 miRNA=hsa-miR-142 target=COL1A1
+exflag 3 CDX1 POSTN PPARG SP1 COL1A1 hsa-miR-29b | TF1=PPARG TF2=SP1 miRNA=hsa-miR-29b target=COL1A1
+exflag 4 YY1 BRCA1 EGR1 HIF1A PLAU hsa-miR-181c | TF1=EGR1 TF2=HIF1A miRNA=hsa-miR-181c target=PLAU
+exflag 4 YY1 BRCA1 EGR1 HIF1A VEGFA hsa-miR-205 | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-205 target=VEGFA
+exflag 4 YY1 BRCA1 EPAS1 HIF1A SERPINE1 hsa-miR-181c | TF1=EPAS1 TF2=HIF1A miRNA=hsa-miR-181c target=SERPINE1
+exmask 63 CDX1 POSTN PPARG hsa-miR-142 FOS YY1
+exmask 63 YY1 ACTC1 EPAS1 HIF1A hsa-miR-29b hsa-miR-30b
+exmask 63 YY1 ACTC1 EPAS1 HIF1A hsa-miR-29b hsa-miR-30d

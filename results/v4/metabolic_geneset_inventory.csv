@@ -1,0 +1,503 @@
+set_id,collection,n_genes_source,n_genes_in_universe,source,note,kept
+KEGG|hsa01100_METABOLIC_PATHWAYS,KEGG_METABOLISM,1589,1421,KEGG REST rest.kegg.jp (fetched 2026-09-09),Metabolic pathways,TRUE
+KEGG|hsa01200_CARBON_METABOLISM,KEGG_METABOLISM,116,110,KEGG REST rest.kegg.jp (fetched 2026-09-09),Carbon metabolism,TRUE
+KEGG|hsa01210_2_OXOCARBOXYLIC_ACID_METABOLISM,KEGG_METABOLISM,33,32,KEGG REST rest.kegg.jp (fetched 2026-09-09),2-Oxocarboxylic acid metabolism,TRUE
+KEGG|hsa01212_FATTY_ACID_METABOLISM,KEGG_METABOLISM,57,52,KEGG REST rest.kegg.jp (fetched 2026-09-09),Fatty acid metabolism,TRUE
+KEGG|hsa01230_BIOSYNTHESIS_OF_AMINO_ACIDS,KEGG_METABOLISM,74,69,KEGG REST rest.kegg.jp (fetched 2026-09-09),Biosynthesis of amino acids,TRUE
+KEGG|hsa01232_NUCLEOTIDE_METABOLISM,KEGG_METABOLISM,85,71,KEGG REST rest.kegg.jp (fetched 2026-09-09),Nucleotide metabolism,TRUE
+KEGG|hsa01250_BIOSYNTHESIS_OF_NUCLEOTIDE_SUGARS,KEGG_METABOLISM,37,35,KEGG REST rest.kegg.jp (fetched 2026-09-09),Biosynthesis of nucleotide sugars,TRUE
+KEGG|hsa01240_BIOSYNTHESIS_OF_COFACTORS,KEGG_METABOLISM,154,139,KEGG REST rest.kegg.jp (fetched 2026-09-09),Biosynthesis of cofactors,TRUE
+KEGG|hsa00010_GLYCOLYSIS_GLUCONEOGENESIS,KEGG_METABOLISM,67,64,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycolysis / Gluconeogenesis,TRUE
+KEGG|hsa00020_CITRATE_CYCLE_TCA_CYCLE_,KEGG_METABOLISM,30,30,KEGG REST rest.kegg.jp (fetched 2026-09-09),Citrate cycle (TCA cycle),TRUE
+KEGG|hsa00030_PENTOSE_PHOSPHATE_PATHWAY,KEGG_METABOLISM,31,29,KEGG REST rest.kegg.jp (fetched 2026-09-09),Pentose phosphate pathway,TRUE
+KEGG|hsa00040_PENTOSE_AND_GLUCURONATE_INTERCONVERSIONS,KEGG_METABOLISM,37,33,KEGG REST rest.kegg.jp (fetched 2026-09-09),Pentose and glucuronate interconversions,TRUE
+KEGG|hsa00051_FRUCTOSE_AND_MANNOSE_METABOLISM,KEGG_METABOLISM,36,31,KEGG REST rest.kegg.jp (fetched 2026-09-09),Fructose and mannose metabolism,TRUE
+KEGG|hsa00052_GALACTOSE_METABOLISM,KEGG_METABOLISM,32,30,KEGG REST rest.kegg.jp (fetched 2026-09-09),Galactose metabolism,TRUE
+KEGG|hsa00053_ASCORBATE_AND_ALDARATE_METABOLISM,KEGG_METABOLISM,31,29,KEGG REST rest.kegg.jp (fetched 2026-09-09),Ascorbate and aldarate metabolism,TRUE
+KEGG|hsa00500_STARCH_AND_SUCROSE_METABOLISM,KEGG_METABOLISM,36,32,KEGG REST rest.kegg.jp (fetched 2026-09-09),Starch and sucrose metabolism,TRUE
+KEGG|hsa00620_PYRUVATE_METABOLISM,KEGG_METABOLISM,50,48,KEGG REST rest.kegg.jp (fetched 2026-09-09),Pyruvate metabolism,TRUE
+KEGG|hsa00630_GLYOXYLATE_AND_DICARBOXYLATE_METABOLISM,KEGG_METABOLISM,31,29,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glyoxylate and dicarboxylate metabolism,TRUE
+KEGG|hsa00640_PROPANOATE_METABOLISM,KEGG_METABOLISM,32,31,KEGG REST rest.kegg.jp (fetched 2026-09-09),Propanoate metabolism,TRUE
+KEGG|hsa00650_BUTANOATE_METABOLISM,KEGG_METABOLISM,27,26,KEGG REST rest.kegg.jp (fetched 2026-09-09),Butanoate metabolism,TRUE
+KEGG|hsa00562_INOSITOL_PHOSPHATE_METABOLISM,KEGG_METABOLISM,78,78,KEGG REST rest.kegg.jp (fetched 2026-09-09),Inositol phosphate metabolism,TRUE
+KEGG|hsa00190_OXIDATIVE_PHOSPHORYLATION,KEGG_METABOLISM,138,103,KEGG REST rest.kegg.jp (fetched 2026-09-09),Oxidative phosphorylation,TRUE
+KEGG|hsa00910_NITROGEN_METABOLISM,KEGG_METABOLISM,17,17,KEGG REST rest.kegg.jp (fetched 2026-09-09),Nitrogen metabolism,TRUE
+KEGG|hsa00920_SULFUR_METABOLISM,KEGG_METABOLISM,10,8,KEGG REST rest.kegg.jp (fetched 2026-09-09),Sulfur metabolism,FALSE
+KEGG|hsa00061_FATTY_ACID_BIOSYNTHESIS,KEGG_METABOLISM,18,17,KEGG REST rest.kegg.jp (fetched 2026-09-09),Fatty acid biosynthesis,TRUE
+KEGG|hsa00062_FATTY_ACID_ELONGATION,KEGG_METABOLISM,28,24,KEGG REST rest.kegg.jp (fetched 2026-09-09),Fatty acid elongation,TRUE
+KEGG|hsa00071_FATTY_ACID_DEGRADATION,KEGG_METABOLISM,43,41,KEGG REST rest.kegg.jp (fetched 2026-09-09),Fatty acid degradation,TRUE
+KEGG|hsa00100_STEROID_BIOSYNTHESIS,KEGG_METABOLISM,20,18,KEGG REST rest.kegg.jp (fetched 2026-09-09),Steroid biosynthesis,TRUE
+KEGG|hsa00120_PRIMARY_BILE_ACID_BIOSYNTHESIS,KEGG_METABOLISM,17,17,KEGG REST rest.kegg.jp (fetched 2026-09-09),Primary bile acid biosynthesis,TRUE
+KEGG|hsa00140_STEROID_HORMONE_BIOSYNTHESIS,KEGG_METABOLISM,66,61,KEGG REST rest.kegg.jp (fetched 2026-09-09),Steroid hormone biosynthesis,TRUE
+KEGG|hsa00561_GLYCEROLIPID_METABOLISM,KEGG_METABOLISM,66,55,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycerolipid metabolism,TRUE
+KEGG|hsa00564_GLYCEROPHOSPHOLIPID_METABOLISM,KEGG_METABOLISM,105,89,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycerophospholipid metabolism,TRUE
+KEGG|hsa00565_ETHER_LIPID_METABOLISM,KEGG_METABOLISM,52,42,KEGG REST rest.kegg.jp (fetched 2026-09-09),Ether lipid metabolism,TRUE
+KEGG|hsa00600_SPHINGOLIPID_METABOLISM,KEGG_METABOLISM,55,45,KEGG REST rest.kegg.jp (fetched 2026-09-09),Sphingolipid metabolism,TRUE
+KEGG|hsa00590_ARACHIDONIC_ACID_METABOLISM,KEGG_METABOLISM,64,56,KEGG REST rest.kegg.jp (fetched 2026-09-09),Arachidonic acid metabolism,TRUE
+KEGG|hsa00591_LINOLEIC_ACID_METABOLISM,KEGG_METABOLISM,31,27,KEGG REST rest.kegg.jp (fetched 2026-09-09),Linoleic acid metabolism,TRUE
+KEGG|hsa00592_ALPHA_LINOLENIC_ACID_METABOLISM,KEGG_METABOLISM,27,23,KEGG REST rest.kegg.jp (fetched 2026-09-09),alpha-Linolenic acid metabolism,TRUE
+KEGG|hsa01040_BIOSYNTHESIS_OF_UNSATURATED_FATTY_ACIDS,KEGG_METABOLISM,27,23,KEGG REST rest.kegg.jp (fetched 2026-09-09),Biosynthesis of unsaturated fatty acids,TRUE
+KEGG|hsa00230_PURINE_METABOLISM,KEGG_METABOLISM,128,112,KEGG REST rest.kegg.jp (fetched 2026-09-09),Purine metabolism,TRUE
+KEGG|hsa00240_PYRIMIDINE_METABOLISM,KEGG_METABOLISM,59,53,KEGG REST rest.kegg.jp (fetched 2026-09-09),Pyrimidine metabolism,TRUE
+KEGG|hsa00250_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,KEGG_METABOLISM,37,35,KEGG REST rest.kegg.jp (fetched 2026-09-09),"Alanine, aspartate and glutamate metabolism",TRUE
+KEGG|hsa00260_GLYCINE_SERINE_AND_THREONINE_METABOLISM,KEGG_METABOLISM,40,39,KEGG REST rest.kegg.jp (fetched 2026-09-09),"Glycine, serine and threonine metabolism",TRUE
+KEGG|hsa00270_CYSTEINE_AND_METHIONINE_METABOLISM,KEGG_METABOLISM,53,49,KEGG REST rest.kegg.jp (fetched 2026-09-09),Cysteine and methionine metabolism,TRUE
+KEGG|hsa00280_VALINE_LEUCINE_AND_ISOLEUCINE_DEGRADATION,KEGG_METABOLISM,48,47,KEGG REST rest.kegg.jp (fetched 2026-09-09),"Valine, leucine and isoleucine degradation",TRUE
+KEGG|hsa00310_LYSINE_DEGRADATION,KEGG_METABOLISM,64,48,KEGG REST rest.kegg.jp (fetched 2026-09-09),Lysine degradation,TRUE
+KEGG|hsa00220_ARGININE_BIOSYNTHESIS,KEGG_METABOLISM,23,22,KEGG REST rest.kegg.jp (fetched 2026-09-09),Arginine biosynthesis,TRUE
+KEGG|hsa00330_ARGININE_AND_PROLINE_METABOLISM,KEGG_METABOLISM,50,45,KEGG REST rest.kegg.jp (fetched 2026-09-09),Arginine and proline metabolism,TRUE
+KEGG|hsa00340_HISTIDINE_METABOLISM,KEGG_METABOLISM,22,20,KEGG REST rest.kegg.jp (fetched 2026-09-09),Histidine metabolism,TRUE
+KEGG|hsa00350_TYROSINE_METABOLISM,KEGG_METABOLISM,37,36,KEGG REST rest.kegg.jp (fetched 2026-09-09),Tyrosine metabolism,TRUE
+KEGG|hsa00360_PHENYLALANINE_METABOLISM,KEGG_METABOLISM,16,16,KEGG REST rest.kegg.jp (fetched 2026-09-09),Phenylalanine metabolism,TRUE
+KEGG|hsa00380_TRYPTOPHAN_METABOLISM,KEGG_METABOLISM,42,39,KEGG REST rest.kegg.jp (fetched 2026-09-09),Tryptophan metabolism,TRUE
+KEGG|hsa00400_PHENYLALANINE_TYROSINE_AND_TRYPTOPHAN_BIOSYNTHESIS,KEGG_METABOLISM,6,6,KEGG REST rest.kegg.jp (fetched 2026-09-09),"Phenylalanine, tyrosine and tryptophan biosynthesis",FALSE
+KEGG|hsa00410_BETA_ALANINE_METABOLISM,KEGG_METABOLISM,31,31,KEGG REST rest.kegg.jp (fetched 2026-09-09),beta-Alanine metabolism,TRUE
+KEGG|hsa00430_TAURINE_AND_HYPOTAURINE_METABOLISM,KEGG_METABOLISM,17,16,KEGG REST rest.kegg.jp (fetched 2026-09-09),Taurine and hypotaurine metabolism,TRUE
+KEGG|hsa00440_PHOSPHONATE_AND_PHOSPHINATE_METABOLISM,KEGG_METABOLISM,6,5,KEGG REST rest.kegg.jp (fetched 2026-09-09),Phosphonate and phosphinate metabolism,FALSE
+KEGG|hsa00450_SELENOCOMPOUND_METABOLISM,KEGG_METABOLISM,17,13,KEGG REST rest.kegg.jp (fetched 2026-09-09),Selenocompound metabolism,TRUE
+KEGG|hsa00470_D_AMINO_ACID_METABOLISM,KEGG_METABOLISM,6,5,KEGG REST rest.kegg.jp (fetched 2026-09-09),D-Amino acid metabolism,FALSE
+KEGG|hsa00480_GLUTATHIONE_METABOLISM,KEGG_METABOLISM,59,56,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glutathione metabolism,TRUE
+KEGG|hsa00520_AMINO_SUGAR_AND_NUCLEOTIDE_SUGAR_METABOLISM,KEGG_METABOLISM,38,37,KEGG REST rest.kegg.jp (fetched 2026-09-09),Amino sugar and nucleotide sugar metabolism,TRUE
+KEGG|hsa00541_BIOSYNTHESIS_OF_VARIOUS_NUCLEOTIDE_SUGARS,KEGG_METABOLISM,20,18,KEGG REST rest.kegg.jp (fetched 2026-09-09),Biosynthesis of various nucleotide sugars,TRUE
+KEGG|hsa00510_N_GLYCAN_BIOSYNTHESIS,KEGG_METABOLISM,57,54,KEGG REST rest.kegg.jp (fetched 2026-09-09),N-Glycan biosynthesis,TRUE
+KEGG|hsa00513_VARIOUS_TYPES_OF_N_GLYCAN_BIOSYNTHESIS,KEGG_METABOLISM,45,41,KEGG REST rest.kegg.jp (fetched 2026-09-09),Various types of N-glycan biosynthesis,TRUE
+KEGG|hsa00512_MUCIN_TYPE_O_GLYCAN_BIOSYNTHESIS,KEGG_METABOLISM,36,30,KEGG REST rest.kegg.jp (fetched 2026-09-09),Mucin type O-glycan biosynthesis,TRUE
+KEGG|hsa00515_MANNOSE_TYPE_O_GLYCAN_BIOSYNTHESIS,KEGG_METABOLISM,23,16,KEGG REST rest.kegg.jp (fetched 2026-09-09),Mannose type O-glycan biosynthesis,TRUE
+KEGG|hsa00514_OTHER_TYPES_OF_O_GLYCAN_BIOSYNTHESIS,KEGG_METABOLISM,49,35,KEGG REST rest.kegg.jp (fetched 2026-09-09),Other types of O-glycan biosynthesis,TRUE
+KEGG|hsa00532_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_CHONDROITIN_SULFATE_DERMATAN_SULFATE,KEGG_METABOLISM,21,21,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,TRUE
+KEGG|hsa00534_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_HEPARAN_SULFATE_HEPARIN,KEGG_METABOLISM,24,24,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosaminoglycan biosynthesis - heparan sulfate / heparin,TRUE
+KEGG|hsa00533_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_KERATAN_SULFATE,KEGG_METABOLISM,14,14,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosaminoglycan biosynthesis - keratan sulfate,TRUE
+KEGG|hsa00531_GLYCOSAMINOGLYCAN_DEGRADATION,KEGG_METABOLISM,19,19,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosaminoglycan degradation,TRUE
+KEGG|hsa00563_GLYCOSYLPHOSPHATIDYLINOSITOL_GPI_ANCHOR_BIOSYNTHESIS,KEGG_METABOLISM,30,29,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,TRUE
+KEGG|hsa00601_GLYCOSPHINGOLIPID_BIOSYNTHESIS_LACTO_AND_NEOLACTO_SERIES,KEGG_METABOLISM,28,28,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosphingolipid biosynthesis - lacto and neolacto series,TRUE
+KEGG|hsa00603_GLYCOSPHINGOLIPID_BIOSYNTHESIS_GLOBO_AND_ISOGLOBO_SERIES,KEGG_METABOLISM,16,15,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosphingolipid biosynthesis - globo and isoglobo series,TRUE
+KEGG|hsa00604_GLYCOSPHINGOLIPID_BIOSYNTHESIS_GANGLIO_SERIES,KEGG_METABOLISM,15,15,KEGG REST rest.kegg.jp (fetched 2026-09-09),Glycosphingolipid biosynthesis - ganglio series,TRUE
+KEGG|hsa00511_OTHER_GLYCAN_DEGRADATION,KEGG_METABOLISM,18,16,KEGG REST rest.kegg.jp (fetched 2026-09-09),Other glycan degradation,TRUE
+KEGG|hsa00730_THIAMINE_METABOLISM,KEGG_METABOLISM,15,11,KEGG REST rest.kegg.jp (fetched 2026-09-09),Thiamine metabolism,TRUE
+KEGG|hsa00740_RIBOFLAVIN_METABOLISM,KEGG_METABOLISM,8,8,KEGG REST rest.kegg.jp (fetched 2026-09-09),Riboflavin metabolism,FALSE
+KEGG|hsa00750_VITAMIN_B6_METABOLISM,KEGG_METABOLISM,6,6,KEGG REST rest.kegg.jp (fetched 2026-09-09),Vitamin B6 metabolism,FALSE
+KEGG|hsa00760_NICOTINATE_AND_NICOTINAMIDE_METABOLISM,KEGG_METABOLISM,38,32,KEGG REST rest.kegg.jp (fetched 2026-09-09),Nicotinate and nicotinamide metabolism,TRUE
+KEGG|hsa00770_PANTOTHENATE_AND_COA_BIOSYNTHESIS,KEGG_METABOLISM,21,21,KEGG REST rest.kegg.jp (fetched 2026-09-09),Pantothenate and CoA biosynthesis,TRUE
+KEGG|hsa00785_LIPOIC_ACID_METABOLISM,KEGG_METABOLISM,19,19,KEGG REST rest.kegg.jp (fetched 2026-09-09),Lipoic acid metabolism,TRUE
+KEGG|hsa00790_FOLATE_BIOSYNTHESIS,KEGG_METABOLISM,28,25,KEGG REST rest.kegg.jp (fetched 2026-09-09),Folate biosynthesis,TRUE
+KEGG|hsa00670_ONE_CARBON_POOL_BY_FOLATE,KEGG_METABOLISM,38,35,KEGG REST rest.kegg.jp (fetched 2026-09-09),One carbon pool by folate,TRUE
+KEGG|hsa00830_RETINOL_METABOLISM,KEGG_METABOLISM,69,65,KEGG REST rest.kegg.jp (fetched 2026-09-09),Retinol metabolism,TRUE
+KEGG|hsa00860_PORPHYRIN_METABOLISM,KEGG_METABOLISM,46,43,KEGG REST rest.kegg.jp (fetched 2026-09-09),Porphyrin metabolism,TRUE
+KEGG|hsa00130_UBIQUINONE_AND_OTHER_TERPENOID_QUINONE_BIOSYNTHESIS,KEGG_METABOLISM,12,12,KEGG REST rest.kegg.jp (fetched 2026-09-09),Ubiquinone and other terpenoid-quinone biosynthesis,TRUE
+KEGG|hsa00900_TERPENOID_BACKBONE_BIOSYNTHESIS,KEGG_METABOLISM,24,23,KEGG REST rest.kegg.jp (fetched 2026-09-09),Terpenoid backbone biosynthesis,TRUE
+KEGG|hsa00232_CAFFEINE_METABOLISM,KEGG_METABOLISM,6,6,KEGG REST rest.kegg.jp (fetched 2026-09-09),Caffeine metabolism,FALSE
+KEGG|hsa00524_NEOMYCIN_KANAMYCIN_AND_GENTAMICIN_BIOSYNTHESIS,KEGG_METABOLISM,5,5,KEGG REST rest.kegg.jp (fetched 2026-09-09),"Neomycin, kanamycin and gentamicin biosynthesis",FALSE
+KEGG|hsa00980_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,KEGG_METABOLISM,79,72,KEGG REST rest.kegg.jp (fetched 2026-09-09),Metabolism of xenobiotics by cytochrome P450,TRUE
+KEGG|hsa00982_DRUG_METABOLISM_CYTOCHROME_P450,KEGG_METABOLISM,73,66,KEGG REST rest.kegg.jp (fetched 2026-09-09),Drug metabolism - cytochrome P450,TRUE
+KEGG|hsa00983_DRUG_METABOLISM_OTHER_ENZYMES,KEGG_METABOLISM,82,78,KEGG REST rest.kegg.jp (fetched 2026-09-09),Drug metabolism - other enzymes,TRUE
+KEGG|hsa00970_AMINOACYL_TRNA_BIOSYNTHESIS,KEGG_METABOLISM,492,24,KEGG REST rest.kegg.jp (fetched 2026-09-09),Aminoacyl-tRNA biosynthesis,TRUE
+KEGG|hsa01521_EGFR_TYROSINE_KINASE_INHIBITOR_RESISTANCE,KEGG_METABOLISM,80,79,KEGG REST rest.kegg.jp (fetched 2026-09-09),EGFR tyrosine kinase inhibitor resistance,TRUE
+KEGG|hsa01524_PLATINUM_DRUG_RESISTANCE,KEGG_METABOLISM,75,72,KEGG REST rest.kegg.jp (fetched 2026-09-09),Platinum drug resistance,TRUE
+KEGG|hsa01523_ANTIFOLATE_RESISTANCE,KEGG_METABOLISM,30,29,KEGG REST rest.kegg.jp (fetched 2026-09-09),Antifolate resistance,TRUE
+KEGG|hsa01522_ENDOCRINE_RESISTANCE,KEGG_METABOLISM,99,94,KEGG REST rest.kegg.jp (fetched 2026-09-09),Endocrine resistance,TRUE
+KEGG_EXTRA|hsa04933_AGE_RAGE_SIGNALING_PATHWAY_IN_DIABETIC_COMPLICATIONS,KEGG_CLAIM_SPECIFIC,101,98,KEGG REST rest.kegg.jp (fetched 2026-09-09),AGE-RAGE signaling pathway in diabetic complications,TRUE
+REACTOME|R-HSA-1430728_METABOLISM,REACTOME_METABOLISM,2195,2009,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism,TRUE
+REACTOME|R-HSA-1362409_MITOCHONDRIAL_IRON_SULFUR_CLUSTER_BIOGENESIS,REACTOME_METABOLISM,13,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Mitochondrial iron-sulfur cluster biogenesis,TRUE
+REACTOME|R-HSA-1428517_AEROBIC_RESPIRATION_AND_RESPIRATORY_ELECTRON_TRANSPORT,REACTOME_METABOLISM,261,198,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Aerobic respiration and respiratory electron transport,TRUE
+REACTOME|R-HSA-1475029_REVERSIBLE_HYDRATION_OF_CARBON_DIOXIDE,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Reversible hydration of carbon dioxide,TRUE
+REACTOME|R-HSA-1483249_INOSITOL_PHOSPHATE_METABOLISM,REACTOME_METABOLISM,79,76,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Inositol phosphate metabolism,TRUE
+REACTOME|R-HSA-15869_METABOLISM_OF_NUCLEOTIDES,REACTOME_METABOLISM,99,86,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of nucleotides,TRUE
+REACTOME|R-HSA-163685_INTEGRATION_OF_ENERGY_METABOLISM,REACTOME_METABOLISM,108,108,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Integration of energy metabolism,TRUE
+REACTOME|R-HSA-189445_METABOLISM_OF_PORPHYRINS,REACTOME_METABOLISM,27,27,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of porphyrins,TRUE
+REACTOME|R-HSA-196854_METABOLISM_OF_VITAMINS_AND_COFACTORS,REACTOME_METABOLISM,198,182,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of vitamins and cofactors,TRUE
+REACTOME|R-HSA-202131_METABOLISM_OF_NITRIC_OXIDE_NOS3_ACTIVATION_AND_REGULATION,REACTOME_METABOLISM,19,19,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of nitric oxide: NOS3 activation and regulation,TRUE
+REACTOME|R-HSA-211859_BIOLOGICAL_OXIDATIONS,REACTOME_METABOLISM,217,206,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biological oxidations,TRUE
+REACTOME|R-HSA-2564830_CYTOSOLIC_IRON_SULFUR_CLUSTER_ASSEMBLY,REACTOME_METABOLISM,13,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cytosolic iron-sulfur cluster assembly,TRUE
+REACTOME|R-HSA-556833_METABOLISM_OF_LIPIDS,REACTOME_METABOLISM,758,708,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of lipids,TRUE
+REACTOME|R-HSA-71291_METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES,REACTOME_METABOLISM,364,341,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of amino acids and derivatives,TRUE
+REACTOME|R-HSA-71387_METABOLISM_OF_CARBOHYDRATES_AND_CARBOHYDRATE_DERIVATIVES,REACTOME_METABOLISM,299,286,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of carbohydrates and carbohydrate derivatives,TRUE
+REACTOME|R-HSA-166187_MITOCHONDRIAL_UNCOUPLING,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Mitochondrial Uncoupling,FALSE
+REACTOME|R-HSA-611105_RESPIRATORY_ELECTRON_TRANSPORT,REACTOME_METABOLISM,159,126,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Respiratory electron transport,TRUE
+REACTOME|R-HSA-70268_PYRUVATE_METABOLISM,REACTOME_METABOLISM,49,43,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Pyruvate metabolism,TRUE
+REACTOME|R-HSA-71403_CITRIC_ACID_CYCLE_TCA_CYCLE_,REACTOME_METABOLISM,34,30,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Citric acid cycle (TCA cycle),TRUE
+REACTOME|R-HSA-1855167_SYNTHESIS_OF_PYROPHOSPHATES_IN_THE_CYTOSOL,REACTOME_METABOLISM,10,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of pyrophosphates in the cytosol,TRUE
+REACTOME|R-HSA-1855170_IPS_TRANSPORT_BETWEEN_NUCLEUS_AND_CYTOSOL,REACTOME_METABOLISM,29,26,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),IPs transport between nucleus and cytosol,TRUE
+REACTOME|R-HSA-1855183_SYNTHESIS_OF_IP2_IP_AND_INS_IN_THE_CYTOSOL,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Synthesis of IP2, IP, and Ins in the cytosol",TRUE
+REACTOME|R-HSA-1855196_IP3_AND_IP4_TRANSPORT_BETWEEN_CYTOSOL_AND_NUCLEUS,REACTOME_METABOLISM,29,26,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),IP3 and IP4 transport between cytosol and nucleus,TRUE
+REACTOME|R-HSA-1855204_SYNTHESIS_OF_IP3_AND_IP4_IN_THE_CYTOSOL,REACTOME_METABOLISM,28,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of IP3 and IP4 in the cytosol,TRUE
+REACTOME|R-HSA-1855229_IP6_AND_IP7_TRANSPORT_BETWEEN_CYTOSOL_AND_NUCLEUS,REACTOME_METABOLISM,29,26,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),IP6 and IP7 transport between cytosol and nucleus,TRUE
+REACTOME|R-HSA-499943_INTERCONVERSION_OF_NUCLEOTIDE_DI_AND_TRIPHOSPHATES,REACTOME_METABOLISM,30,25,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Interconversion of nucleotide di- and triphosphates,TRUE
+REACTOME|R-HSA-8956319_NUCLEOTIDE_CATABOLISM,REACTOME_METABOLISM,36,32,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Nucleotide catabolism,TRUE
+REACTOME|R-HSA-8956320_NUCLEOTIDE_BIOSYNTHESIS,REACTOME_METABOLISM,14,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Nucleotide biosynthesis,TRUE
+REACTOME|R-HSA-8956321_NUCLEOTIDE_SALVAGE,REACTOME_METABOLISM,23,21,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Nucleotide salvage,TRUE
+REACTOME|R-HSA-163358_PKA_MEDIATED_PHOSPHORYLATION_OF_KEY_METABOLIC_FACTORS,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PKA-mediated phosphorylation of key metabolic factors,FALSE
+REACTOME|R-HSA-163359_GLUCAGON_SIGNALING_IN_METABOLIC_REGULATION,REACTOME_METABOLISM,33,33,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glucagon signaling in metabolic regulation,TRUE
+REACTOME|R-HSA-163680_AMPK_INHIBITS_CHREBP_TRANSCRIPTIONAL_ACTIVATION_ACTIVITY,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),AMPK inhibits chREBP transcriptional activation activity,FALSE
+REACTOME|R-HSA-163765_CHREBP_ACTIVATES_METABOLIC_GENE_EXPRESSION,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),ChREBP activates metabolic gene expression,FALSE
+REACTOME|R-HSA-163767_PP2A_MEDIATED_DEPHOSPHORYLATION_OF_KEY_METABOLIC_FACTORS,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PP2A-mediated dephosphorylation of key metabolic factors,FALSE
+REACTOME|R-HSA-422356_REGULATION_OF_INSULIN_SECRETION,REACTOME_METABOLISM,78,78,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of insulin secretion,TRUE
+REACTOME|R-HSA-189451_HEME_BIOSYNTHESIS,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Heme biosynthesis,TRUE
+REACTOME|R-HSA-189483_HEME_DEGRADATION,REACTOME_METABOLISM,15,15,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Heme degradation,TRUE
+REACTOME|R-HSA-196849_METABOLISM_OF_WATER_SOLUBLE_VITAMINS_AND_COFACTORS,REACTOME_METABOLISM,125,112,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of water-soluble vitamins and cofactors,TRUE
+REACTOME|R-HSA-6806667_METABOLISM_OF_FAT_SOLUBLE_VITAMINS,REACTOME_METABOLISM,48,47,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of fat-soluble vitamins,TRUE
+REACTOME|R-HSA-8978934_METABOLISM_OF_COFACTORS,REACTOME_METABOLISM,27,25,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of cofactors,TRUE
+REACTOME|R-HSA-203615_ENOS_ACTIVATION,REACTOME_METABOLISM,15,15,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),eNOS activation,TRUE
+REACTOME|R-HSA-203641_NOSTRIN_MEDIATED_ENOS_TRAFFICKING,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),NOSTRIN mediated eNOS trafficking,FALSE
+REACTOME|R-HSA-156580_PHASE_II_CONJUGATION_OF_COMPOUNDS,REACTOME_METABOLISM,105,99,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phase II - Conjugation of compounds,TRUE
+REACTOME|R-HSA-211945_PHASE_I_FUNCTIONALIZATION_OF_COMPOUNDS,REACTOME_METABOLISM,106,101,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phase I - Functionalization of compounds,TRUE
+REACTOME|R-HSA-5423646_AFLATOXIN_ACTIVATION_AND_DETOXIFICATION,REACTOME_METABOLISM,18,18,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Aflatoxin activation and detoxification,TRUE
+REACTOME|R-HSA-1483257_PHOSPHOLIPID_METABOLISM,REACTOME_METABOLISM,212,198,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phospholipid metabolism,TRUE
+REACTOME|R-HSA-400206_REGULATION_OF_LIPID_METABOLISM_BY_PPARALPHA,REACTOME_METABOLISM,119,117,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of lipid metabolism by PPARalpha,TRUE
+REACTOME|R-HSA-428157_SPHINGOLIPID_METABOLISM,REACTOME_METABOLISM,107,93,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Sphingolipid metabolism,TRUE
+REACTOME|R-HSA-74182_KETONE_BODY_METABOLISM,REACTOME_METABOLISM,10,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Ketone body metabolism,TRUE
+REACTOME|R-HSA-8848584_WAX_AND_PLASMALOGEN_BIOSYNTHESIS,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Wax and plasmalogen biosynthesis,FALSE
+REACTOME|R-HSA-8957322_METABOLISM_OF_STEROIDS,REACTOME_METABOLISM,155,147,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of steroids,TRUE
+REACTOME|R-HSA-8964572_LIPID_PARTICLE_ORGANIZATION,REACTOME_METABOLISM,6,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Lipid particle organization,FALSE
+REACTOME|R-HSA-8978868_FATTY_ACID_METABOLISM,REACTOME_METABOLISM,175,165,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Fatty acid metabolism,TRUE
+REACTOME|R-HSA-8979227_TRIGLYCERIDE_METABOLISM,REACTOME_METABOLISM,38,36,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Triglyceride metabolism,TRUE
+REACTOME|R-HSA-9018678_BIOSYNTHESIS_OF_SPECIALIZED_PRORESOLVING_MEDIATORS_SPMS_,REACTOME_METABOLISM,19,19,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of specialized proresolving mediators (SPMs),TRUE
+REACTOME|R-HSA-1614635_SULFUR_AMINO_ACID_METABOLISM,REACTOME_METABOLISM,29,27,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Sulfur amino acid metabolism,TRUE
+REACTOME|R-HSA-209776_METABOLISM_OF_AMINE_DERIVED_HORMONES,REACTOME_METABOLISM,22,22,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of amine-derived hormones,TRUE
+REACTOME|R-HSA-2408522_SELENOAMINO_ACID_METABOLISM,REACTOME_METABOLISM,119,109,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Selenoamino acid metabolism,TRUE
+REACTOME|R-HSA-351202_METABOLISM_OF_POLYAMINES,REACTOME_METABOLISM,46,44,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of polyamines,TRUE
+REACTOME|R-HSA-389661_GLYOXYLATE_METABOLISM_AND_GLYCINE_DEGRADATION,REACTOME_METABOLISM,19,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glyoxylate metabolism and glycine degradation,TRUE
+REACTOME|R-HSA-5662702_MELANIN_BIOSYNTHESIS,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Melanin biosynthesis,FALSE
+REACTOME|R-HSA-6798163_CHOLINE_CATABOLISM,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Choline catabolism,FALSE
+REACTOME|R-HSA-70635_UREA_CYCLE,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Urea cycle,TRUE
+REACTOME|R-HSA-70895_BRANCHED_CHAIN_AMINO_ACID_CATABOLISM,REACTOME_METABOLISM,23,23,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Branched-chain amino acid catabolism,TRUE
+REACTOME|R-HSA-70921_HISTIDINE_CATABOLISM,REACTOME_METABOLISM,9,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Histidine catabolism,FALSE
+REACTOME|R-HSA-71064_LYSINE_CATABOLISM,REACTOME_METABOLISM,12,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Lysine catabolism,TRUE
+REACTOME|R-HSA-71240_TRYPTOPHAN_CATABOLISM,REACTOME_METABOLISM,14,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Tryptophan catabolism,TRUE
+REACTOME|R-HSA-71288_CREATINE_METABOLISM,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Creatine metabolism,TRUE
+REACTOME|R-HSA-8963691_PHENYLALANINE_AND_TYROSINE_METABOLISM,REACTOME_METABOLISM,11,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phenylalanine and tyrosine metabolism,TRUE
+REACTOME|R-HSA-8963693_ASPARTATE_AND_ASPARAGINE_METABOLISM,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Aspartate and asparagine metabolism,TRUE
+REACTOME|R-HSA-8964539_GLUTAMATE_AND_GLUTAMINE_METABOLISM,REACTOME_METABOLISM,14,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glutamate and glutamine metabolism,TRUE
+REACTOME|R-HSA-977347_SERINE_METABOLISM,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Serine metabolism,TRUE
+REACTOME|R-HSA-1630316_GLYCOSAMINOGLYCAN_METABOLISM,REACTOME_METABOLISM,136,131,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycosaminoglycan metabolism,TRUE
+REACTOME|R-HSA-5652084_FRUCTOSE_METABOLISM,REACTOME_METABOLISM,7,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Fructose metabolism,FALSE
+REACTOME|R-HSA-5661270_FORMATION_OF_XYLULOSE_5_PHOSPHATE,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Formation of xylulose-5-phosphate,FALSE
+REACTOME|R-HSA-70326_GLUCOSE_METABOLISM,REACTOME_METABOLISM,83,77,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glucose metabolism,TRUE
+REACTOME|R-HSA-70370_GALACTOSE_CATABOLISM,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Galactose catabolism,FALSE
+REACTOME|R-HSA-71336_PENTOSE_PHOSPHATE_PATHWAY,REACTOME_METABOLISM,15,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Pentose phosphate pathway,TRUE
+REACTOME|R-HSA-8982491_GLYCOGEN_METABOLISM,REACTOME_METABOLISM,28,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycogen metabolism,TRUE
+REACTOME|R-HSA-9033658_BLOOD_GROUP_SYSTEMS_BIOSYNTHESIS,REACTOME_METABOLISM,20,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Blood group systems biosynthesis,TRUE
+REACTOME|R-HSA-1483206_GLYCEROPHOSPHOLIPID_BIOSYNTHESIS,REACTOME_METABOLISM,129,116,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycerophospholipid biosynthesis,TRUE
+REACTOME|R-HSA-1483255_PI_METABOLISM,REACTOME_METABOLISM,84,83,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PI Metabolism,TRUE
+REACTOME|R-HSA-156581_METHYLATION,REACTOME_METABOLISM,14,13,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Methylation,TRUE
+REACTOME|R-HSA-156584_CYTOSOLIC_SULFONATION_OF_SMALL_MOLECULES,REACTOME_METABOLISM,18,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cytosolic sulfonation of small molecules,TRUE
+REACTOME|R-HSA-156587_AMINO_ACID_CONJUGATION,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Amino Acid conjugation,FALSE
+REACTOME|R-HSA-156588_GLUCURONIDATION,REACTOME_METABOLISM,27,25,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glucuronidation,TRUE
+REACTOME|R-HSA-156590_GLUTATHIONE_CONJUGATION,REACTOME_METABOLISM,36,35,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glutathione conjugation,TRUE
+REACTOME|R-HSA-1237112_METHIONINE_SALVAGE_PATHWAY,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Methionine salvage pathway,FALSE
+REACTOME|R-HSA-1614558_DEGRADATION_OF_CYSTEINE_AND_HOMOCYSTEINE,REACTOME_METABOLISM,15,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Degradation of cysteine and homocysteine,TRUE
+REACTOME|R-HSA-1638074_KERATAN_SULFATE_KERATIN_METABOLISM,REACTOME_METABOLISM,37,36,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Keratan sulfate/keratin metabolism,TRUE
+REACTOME|R-HSA-1638091_HEPARAN_SULFATE_HEPARIN_HS_GAG_METABOLISM,REACTOME_METABOLISM,41,40,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Heparan sulfate/heparin (HS-GAG) metabolism,TRUE
+REACTOME|R-HSA-174362_TRANSPORT_AND_METABOLISM_OF_PAPS,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Transport and metabolism of PAPS,FALSE
+REACTOME|R-HSA-1793185_CHONDROITIN_SULFATE_DERMATAN_SULFATE_METABOLISM,REACTOME_METABOLISM,37,37,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Chondroitin sulfate/dermatan sulfate metabolism,TRUE
+REACTOME|R-HSA-1971475_GLYCOSAMINOGLYCAN_PROTEIN_LINKAGE_REGION_BIOSYNTHESIS,REACTOME_METABOLISM,29,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycosaminoglycan-protein linkage region biosynthesis,TRUE
+REACTOME|R-HSA-2142845_HYALURONAN_METABOLISM,REACTOME_METABOLISM,20,18,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Hyaluronan metabolism,TRUE
+REACTOME|R-HSA-164378_PKA_ACTIVATION_IN_GLUCAGON_SIGNALLING,REACTOME_METABOLISM,17,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PKA activation in glucagon signalling,TRUE
+REACTOME|R-HSA-167826_THE_FATTY_ACID_CYCLING_MODEL,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),The fatty acid cycling model,FALSE
+REACTOME|R-HSA-196741_COBALAMIN_CBL_VITAMIN_B12_TRANSPORT_AND_METABOLISM,REACTOME_METABOLISM,22,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Cobalamin (Cbl, vitamin B12) transport and metabolism",TRUE
+REACTOME|R-HSA-196757_METABOLISM_OF_FOLATE_AND_PTERINES,REACTOME_METABOLISM,17,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of folate and pterines,TRUE
+REACTOME|R-HSA-196780_BIOTIN_TRANSPORT_AND_METABOLISM,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biotin transport and metabolism,TRUE
+REACTOME|R-HSA-196807_NICOTINATE_METABOLISM,REACTOME_METABOLISM,29,22,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Nicotinate metabolism,TRUE
+REACTOME|R-HSA-196819_VITAMIN_B1_THIAMIN_METABOLISM,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Vitamin B1 (thiamin) metabolism,FALSE
+REACTOME|R-HSA-196836_VITAMIN_C_ASCORBATE_METABOLISM,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Vitamin C (ascorbate) metabolism,FALSE
+REACTOME|R-HSA-199220_VITAMIN_B5_PANTOTHENATE_METABOLISM,REACTOME_METABOLISM,20,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Vitamin B5 (pantothenate) metabolism,TRUE
+REACTOME|R-HSA-947581_MOLYBDENUM_COFACTOR_BIOSYNTHESIS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Molybdenum cofactor biosynthesis,FALSE
+REACTOME|R-HSA-209931_SEROTONIN_AND_MELATONIN_BIOSYNTHESIS,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Serotonin and melatonin biosynthesis,FALSE
+REACTOME|R-HSA-209968_THYROXINE_BIOSYNTHESIS,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Thyroxine biosynthesis,TRUE
+REACTOME|R-HSA-211897_CYTOCHROME_P450_ARRANGED_BY_SUBSTRATE_TYPE,REACTOME_METABOLISM,67,65,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cytochrome P450 - arranged by substrate type,TRUE
+REACTOME|R-HSA-71384_ETHANOL_OXIDATION,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Ethanol oxidation,TRUE
+REACTOME|R-HSA-8937144_ARYL_HYDROCARBON_RECEPTOR_SIGNALLING,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Aryl hydrocarbon receptor signalling,FALSE
+REACTOME|R-HSA-2408508_METABOLISM_OF_INGESTED_SEMET_SEC_MESEC_INTO_H2SE,REACTOME_METABOLISM,9,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Metabolism of ingested SeMet, Sec, MeSec into H2Se",FALSE
+REACTOME|R-HSA-2408557_SELENOCYSTEINE_SYNTHESIS,REACTOME_METABOLISM,94,93,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Selenocysteine synthesis,TRUE
+REACTOME|R-HSA-350562_REGULATION_OF_ORNITHINE_DECARBOXYLASE_ODC_,REACTOME_METABOLISM,38,37,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of ornithine decarboxylase (ODC),TRUE
+REACTOME|R-HSA-6783984_GLYCINE_DEGRADATION,REACTOME_METABOLISM,7,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycine degradation,FALSE
+REACTOME|R-HSA-1989781_PPARA_ACTIVATES_GENE_EXPRESSION,REACTOME_METABOLISM,117,115,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PPARA activates gene expression,TRUE
+REACTOME|R-HSA-381676_GLUCAGON_LIKE_PEPTIDE_1_GLP1_REGULATES_INSULIN_SECRETION,REACTOME_METABOLISM,42,42,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,TRUE
+REACTOME|R-HSA-399997_ACETYLCHOLINE_REGULATES_INSULIN_SECRETION,REACTOME_METABOLISM,10,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acetylcholine regulates insulin secretion,TRUE
+REACTOME|R-HSA-400042_ADRENALINE_NORADRENALINE_INHIBITS_INSULIN_SECRETION,REACTOME_METABOLISM,28,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Adrenaline,noradrenaline inhibits insulin secretion",TRUE
+REACTOME|R-HSA-400451_FREE_FATTY_ACIDS_REGULATE_INSULIN_SECRETION,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Free fatty acids regulate insulin secretion,TRUE
+REACTOME|R-HSA-1660661_SPHINGOLIPID_DE_NOVO_BIOSYNTHESIS,REACTOME_METABOLISM,37,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Sphingolipid de novo biosynthesis,TRUE
+REACTOME|R-HSA-1660662_GLYCOSPHINGOLIPID_METABOLISM,REACTOME_METABOLISM,58,56,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycosphingolipid metabolism,TRUE
+REACTOME|R-HSA-9845614_SPHINGOLIPID_CATABOLISM,REACTOME_METABOLISM,12,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Sphingolipid catabolism,FALSE
+REACTOME|R-HSA-6799198_COMPLEX_I_BIOGENESIS,REACTOME_METABOLISM,68,53,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Complex I biogenesis,TRUE
+REACTOME|R-HSA-9856872_MALATE_ASPARTATE_SHUTTLE,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Malate-aspartate shuttle,FALSE
+REACTOME|R-HSA-9864848_COMPLEX_IV_ASSEMBLY,REACTOME_METABOLISM,48,35,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Complex IV assembly,TRUE
+REACTOME|R-HSA-9865881_COMPLEX_III_ASSEMBLY,REACTOME_METABOLISM,26,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Complex III assembly,TRUE
+REACTOME|R-HSA-975634_RETINOID_METABOLISM_AND_TRANSPORT,REACTOME_METABOLISM,44,43,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Retinoid metabolism and transport,TRUE
+REACTOME|R-HSA-9861559_PDH_COMPLEX_SYNTHESIZES_ACETYL_COA_FROM_PYR,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),PDH complex synthesizes acetyl-CoA from PYR,FALSE
+REACTOME|R-HSA-9861718_REGULATION_OF_PYRUVATE_METABOLISM,REACTOME_METABOLISM,33,30,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of pyruvate metabolism,TRUE
+REACTOME|R-HSA-70171_GLYCOLYSIS,REACTOME_METABOLISM,72,67,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycolysis,TRUE
+REACTOME|R-HSA-70263_GLUCONEOGENESIS,REACTOME_METABOLISM,26,24,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Gluconeogenesis,TRUE
+REACTOME|R-HSA-9854311_MATURATION_OF_TCA_ENZYMES_AND_REGULATION_OF_TCA_CYCLE,REACTOME_METABOLISM,20,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Maturation of TCA enzymes and regulation of TCA cycle,TRUE
+REACTOME|R-HSA-77111_SYNTHESIS_OF_KETONE_BODIES,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of Ketone Bodies,FALSE
+REACTOME|R-HSA-73621_PYRIMIDINE_CATABOLISM,REACTOME_METABOLISM,12,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Pyrimidine catabolism,TRUE
+REACTOME|R-HSA-74259_PURINE_CATABOLISM,REACTOME_METABOLISM,18,15,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Purine catabolism,TRUE
+REACTOME|R-HSA-8850843_PHOSPHATE_BOND_HYDROLYSIS_BY_NTPDASE_PROTEINS,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phosphate bond hydrolysis by NTPDase proteins,FALSE
+REACTOME|R-HSA-73817_PURINE_RIBONUCLEOSIDE_MONOPHOSPHATE_BIOSYNTHESIS,REACTOME_METABOLISM,11,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Purine ribonucleoside monophosphate biosynthesis,FALSE
+REACTOME|R-HSA-73614_PYRIMIDINE_SALVAGE,REACTOME_METABOLISM,11,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Pyrimidine salvage,TRUE
+REACTOME|R-HSA-74217_PURINE_SALVAGE,REACTOME_METABOLISM,13,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Purine salvage,TRUE
+REACTOME|R-HSA-1655829_REGULATION_OF_CHOLESTEROL_BIOSYNTHESIS_BY_SREBP_SREBF_,REACTOME_METABOLISM,55,53,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of cholesterol biosynthesis by SREBP (SREBF),TRUE
+REACTOME|R-HSA-191273_CHOLESTEROL_BIOSYNTHESIS,REACTOME_METABOLISM,27,24,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cholesterol biosynthesis,TRUE
+REACTOME|R-HSA-194068_BILE_ACID_AND_BILE_SALT_METABOLISM,REACTOME_METABOLISM,45,43,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Bile acid and bile salt metabolism,TRUE
+REACTOME|R-HSA-196071_METABOLISM_OF_STEROID_HORMONES,REACTOME_METABOLISM,36,34,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Metabolism of steroid hormones,TRUE
+REACTOME|R-HSA-196791_VITAMIN_D_CALCIFEROL_METABOLISM,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Vitamin D (calciferol) metabolism,TRUE
+REACTOME|R-HSA-8963684_TYROSINE_CATABOLISM,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Tyrosine catabolism,FALSE
+REACTOME|R-HSA-8964208_PHENYLALANINE_METABOLISM,REACTOME_METABOLISM,6,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phenylalanine metabolism,FALSE
+REACTOME|R-HSA-200425_CARNITINE_SHUTTLE,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Carnitine shuttle,TRUE
+REACTOME|R-HSA-2046104_ALPHA_LINOLENIC_OMEGA3_AND_LINOLEIC_OMEGA6_ACID_METABOLISM,REACTOME_METABOLISM,13,13,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,TRUE
+REACTOME|R-HSA-2142753_ARACHIDONATE_METABOLISM,REACTOME_METABOLISM,59,58,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Arachidonate metabolism,TRUE
+REACTOME|R-HSA-390918_PEROXISOMAL_LIPID_METABOLISM,REACTOME_METABOLISM,28,27,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Peroxisomal lipid metabolism,TRUE
+REACTOME|R-HSA-75105_FATTY_ACYL_COA_BIOSYNTHESIS,REACTOME_METABOLISM,37,32,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Fatty acyl-CoA biosynthesis,TRUE
+REACTOME|R-HSA-77289_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION,REACTOME_METABOLISM,37,34,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Mitochondrial Fatty Acid Beta-Oxidation,TRUE
+REACTOME|R-HSA-1474151_TETRAHYDROBIOPTERIN_BH4_SYNTHESIS_RECYCLING_SALVAGE_AND_REGULATION,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",TRUE
+REACTOME|R-HSA-2142789_UBIQUINOL_BIOSYNTHESIS,REACTOME_METABOLISM,13,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Ubiquinol biosynthesis,TRUE
+REACTOME|R-HSA-163560_TRIGLYCERIDE_CATABOLISM,REACTOME_METABOLISM,24,24,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Triglyceride catabolism,TRUE
+REACTOME|R-HSA-75109_TRIGLYCERIDE_BIOSYNTHESIS,REACTOME_METABOLISM,14,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Triglyceride biosynthesis,TRUE
+REACTOME|R-HSA-3322077_GLYCOGEN_SYNTHESIS,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycogen synthesis,TRUE
+REACTOME|R-HSA-70221_GLYCOGEN_BREAKDOWN_GLYCOGENOLYSIS_,REACTOME_METABOLISM,17,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycogen breakdown (glycogenolysis),TRUE
+REACTOME|R-HSA-2142700_BIOSYNTHESIS_OF_LIPOXINS_LX_,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of Lipoxins (LX),FALSE
+REACTOME|R-HSA-9018677_BIOSYNTHESIS_OF_DHA_DERIVED_SPMS,REACTOME_METABOLISM,17,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of DHA-derived SPMs,TRUE
+REACTOME|R-HSA-9018679_BIOSYNTHESIS_OF_EPA_DERIVED_SPMS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of EPA-derived SPMs,FALSE
+REACTOME|R-HSA-9037629_LEWIS_BLOOD_GROUP_BIOSYNTHESIS,REACTOME_METABOLISM,16,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Lewis blood group biosynthesis,TRUE
+REACTOME|R-HSA-1482788_ACYL_CHAIN_REMODELLING_OF_PC,REACTOME_METABOLISM,27,25,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodelling of PC,TRUE
+REACTOME|R-HSA-1482798_ACYL_CHAIN_REMODELING_OF_CL,REACTOME_METABOLISM,6,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodeling of CL,FALSE
+REACTOME|R-HSA-1482801_ACYL_CHAIN_REMODELLING_OF_PS,REACTOME_METABOLISM,22,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodelling of PS,TRUE
+REACTOME|R-HSA-1482839_ACYL_CHAIN_REMODELLING_OF_PE,REACTOME_METABOLISM,29,23,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodelling of PE,TRUE
+REACTOME|R-HSA-1482883_ACYL_CHAIN_REMODELING_OF_DAG_AND_TAG,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodeling of DAG and TAG,FALSE
+REACTOME|R-HSA-1482922_ACYL_CHAIN_REMODELLING_OF_PI,REACTOME_METABOLISM,17,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodelling of PI,TRUE
+REACTOME|R-HSA-1482925_ACYL_CHAIN_REMODELLING_OF_PG,REACTOME_METABOLISM,18,17,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Acyl chain remodelling of PG,TRUE
+REACTOME|R-HSA-1483115_HYDROLYSIS_OF_LPC,REACTOME_METABOLISM,9,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Hydrolysis of LPC,FALSE
+REACTOME|R-HSA-1483148_SYNTHESIS_OF_PG,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PG,FALSE
+REACTOME|R-HSA-1483166_SYNTHESIS_OF_PA,REACTOME_METABOLISM,39,34,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PA,TRUE
+REACTOME|R-HSA-1483191_SYNTHESIS_OF_PC,REACTOME_METABOLISM,28,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PC,TRUE
+REACTOME|R-HSA-1483213_SYNTHESIS_OF_PE,REACTOME_METABOLISM,13,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PE,TRUE
+REACTOME|R-HSA-1483226_SYNTHESIS_OF_PI,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PI,FALSE
+REACTOME|R-HSA-1483248_SYNTHESIS_OF_PIPS_AT_THE_ER_MEMBRANE,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PIPs at the ER membrane,FALSE
+REACTOME|R-HSA-1660499_SYNTHESIS_OF_PIPS_AT_THE_PLASMA_MEMBRANE,REACTOME_METABOLISM,53,53,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PIPs at the plasma membrane,TRUE
+REACTOME|R-HSA-1660514_SYNTHESIS_OF_PIPS_AT_THE_GOLGI_MEMBRANE,REACTOME_METABOLISM,18,18,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PIPs at the Golgi membrane,TRUE
+REACTOME|R-HSA-1660516_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE,REACTOME_METABOLISM,16,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PIPs at the early endosome membrane,TRUE
+REACTOME|R-HSA-1660517_SYNTHESIS_OF_PIPS_AT_THE_LATE_ENDOSOME_MEMBRANE,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of PIPs at the late endosome membrane,TRUE
+REACTOME|R-HSA-6814848_GLYCEROPHOSPHOLIPID_CATABOLISM,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycerophospholipid catabolism,FALSE
+REACTOME|R-HSA-159424_CONJUGATION_OF_CARBOXYLIC_ACIDS,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Conjugation of carboxylic acids,FALSE
+REACTOME|R-HSA-173599_FORMATION_OF_THE_ACTIVE_COFACTOR_UDP_GLUCURONATE,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Formation of the active cofactor, UDP-glucuronate",FALSE
+REACTOME|R-HSA-174403_GLUTATHIONE_SYNTHESIS_AND_RECYCLING,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glutathione synthesis and recycling,TRUE
+REACTOME|R-HSA-1614517_SULFIDE_OXIDATION_TO_SULFATE,REACTOME_METABOLISM,6,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Sulfide oxidation to sulfate,FALSE
+REACTOME|R-HSA-2022854_KERATAN_SULFATE_BIOSYNTHESIS,REACTOME_METABOLISM,29,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Keratan sulfate biosynthesis,TRUE
+REACTOME|R-HSA-2022857_KERATAN_SULFATE_DEGRADATION,REACTOME_METABOLISM,15,15,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Keratan sulfate degradation,TRUE
+REACTOME|R-HSA-2022928_HS_GAG_BIOSYNTHESIS,REACTOME_METABOLISM,33,33,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),HS-GAG biosynthesis,TRUE
+REACTOME|R-HSA-2024096_HS_GAG_DEGRADATION,REACTOME_METABOLISM,20,19,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),HS-GAG degradation,TRUE
+REACTOME|R-HSA-2426168_ACTIVATION_OF_GENE_EXPRESSION_BY_SREBF_SREBP_,REACTOME_METABOLISM,42,40,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Activation of gene expression by SREBF (SREBP),TRUE
+REACTOME|R-HSA-9840309_GLYCOSPHINGOLIPID_BIOSYNTHESIS,REACTOME_METABOLISM,19,19,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycosphingolipid biosynthesis,TRUE
+REACTOME|R-HSA-9840310_GLYCOSPHINGOLIPID_CATABOLISM,REACTOME_METABOLISM,39,37,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glycosphingolipid catabolism,TRUE
+REACTOME|R-HSA-2022870_CS_GAG_BIOSYNTHESIS,REACTOME_METABOLISM,21,21,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),CS-GAG biosynthesis,TRUE
+REACTOME|R-HSA-2022923_DS_GAG_BIOSYNTHESIS,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),DS-GAG biosynthesis,TRUE
+REACTOME|R-HSA-2024101_CS_DS_DEGRADATION,REACTOME_METABOLISM,20,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),CS/DS degradation,TRUE
+REACTOME|R-HSA-6807047_CHOLESTEROL_BIOSYNTHESIS_VIA_DESMOSTEROL_BLOCH_PATHWAY_,REACTOME_METABOLISM,10,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cholesterol biosynthesis via desmosterol (Bloch pathway),FALSE
+REACTOME|R-HSA-6807062_ZYMOSTENOL_BIOSYNTHESIS_VIA_LATHOSTEROL_KANDUTSCH_RUSSELL_PATHWAY_,REACTOME_METABOLISM,8,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Zymostenol biosynthesis via lathosterol (Kandutsch-Russell pathway),FALSE
+REACTOME|R-HSA-9969896_LANOSTEROL_BIOSYNTHESIS,REACTOME_METABOLISM,14,13,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Lanosterol biosynthesis,TRUE
+REACTOME|R-HSA-159418_RECYCLING_OF_BILE_ACIDS_AND_SALTS,REACTOME_METABOLISM,18,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Recycling of bile acids and salts,TRUE
+REACTOME|R-HSA-192105_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS,REACTOME_METABOLISM,34,34,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of bile acids and bile salts,TRUE
+REACTOME|R-HSA-193048_ANDROGEN_BIOSYNTHESIS,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Androgen biosynthesis,TRUE
+REACTOME|R-HSA-193144_ESTROGEN_BIOSYNTHESIS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Estrogen biosynthesis,FALSE
+REACTOME|R-HSA-193993_MINERALOCORTICOID_BIOSYNTHESIS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Mineralocorticoid biosynthesis,FALSE
+REACTOME|R-HSA-194002_GLUCOCORTICOID_BIOSYNTHESIS,REACTOME_METABOLISM,10,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Glucocorticoid biosynthesis,TRUE
+REACTOME|R-HSA-196108_PREGNENOLONE_BIOSYNTHESIS,REACTOME_METABOLISM,12,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Pregnenolone biosynthesis,TRUE
+REACTOME|R-HSA-9758881_UPTAKE_OF_DIETARY_COBALAMINS_INTO_ENTEROCYTES,REACTOME_METABOLISM,10,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Uptake of dietary cobalamins into enterocytes,FALSE
+REACTOME|R-HSA-9758890_TRANSPORT_OF_RCBL_WITHIN_THE_BODY,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Transport of RCbl within the body,FALSE
+REACTOME|R-HSA-9759218_COBALAMIN_CBL_METABOLISM,REACTOME_METABOLISM,7,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Cobalamin (Cbl) metabolism,FALSE
+REACTOME|R-HSA-196783_COENZYME_A_BIOSYNTHESIS,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Coenzyme A biosynthesis,FALSE
+REACTOME|R-HSA-2046105_LINOLEIC_ACID_LA_METABOLISM,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Linoleic acid (LA) metabolism,FALSE
+REACTOME|R-HSA-2046106_ALPHA_LINOLENIC_ACID_ALA_METABOLISM,REACTOME_METABOLISM,13,13,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),alpha-linolenic acid (ALA) metabolism,TRUE
+REACTOME|R-HSA-211916_VITAMINS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Vitamins,FALSE
+REACTOME|R-HSA-211935_FATTY_ACIDS,REACTOME_METABOLISM,16,16,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Fatty acids,TRUE
+REACTOME|R-HSA-211958_MISCELLANEOUS_SUBSTRATES,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Miscellaneous substrates,TRUE
+REACTOME|R-HSA-211976_ENDOGENOUS_STEROLS,REACTOME_METABOLISM,26,25,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Endogenous sterols,TRUE
+REACTOME|R-HSA-211979_EICOSANOIDS,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Eicosanoids,TRUE
+REACTOME|R-HSA-211981_XENOBIOTICS,REACTOME_METABOLISM,25,24,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Xenobiotics,TRUE
+REACTOME|R-HSA-2142670_SYNTHESIS_OF_EPOXY_EET_AND_DIHYDROXYEICOSATRIENOIC_ACIDS_DHET_,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),FALSE
+REACTOME|R-HSA-2142688_SYNTHESIS_OF_5_EICOSATETRAENOIC_ACIDS,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of 5-eicosatetraenoic acids,FALSE
+REACTOME|R-HSA-2142691_SYNTHESIS_OF_LEUKOTRIENES_LT_AND_EOXINS_EX_,REACTOME_METABOLISM,20,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of Leukotrienes (LT) and Eoxins (EX),TRUE
+REACTOME|R-HSA-2142712_SYNTHESIS_OF_12_EICOSATETRAENOIC_ACID_DERIVATIVES,REACTOME_METABOLISM,7,7,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of 12-eicosatetraenoic acid derivatives,FALSE
+REACTOME|R-HSA-2142770_SYNTHESIS_OF_15_EICOSATETRAENOIC_ACID_DERIVATIVES,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of 15-eicosatetraenoic acid derivatives,FALSE
+REACTOME|R-HSA-2142816_SYNTHESIS_OF_16_20_HYDROXYEICOSATETRAENOIC_ACIDS_HETE_,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),FALSE
+REACTOME|R-HSA-2162123_SYNTHESIS_OF_PROSTAGLANDINS_PG_AND_THROMBOXANES_TX_,REACTOME_METABOLISM,15,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of Prostaglandins (PG) and Thromboxanes (TX),TRUE
+REACTOME|R-HSA-2160916_HYALURONAN_DEGRADATION,REACTOME_METABOLISM,16,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Hyaluronan degradation,TRUE
+REACTOME|R-HSA-389599_ALPHA_OXIDATION_OF_PHYTANATE,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Alpha-oxidation of phytanate,FALSE
+REACTOME|R-HSA-389887_BETA_OXIDATION_OF_PRISTANOYL_COA,REACTOME_METABOLISM,9,9,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta-oxidation of pristanoyl-CoA,FALSE
+REACTOME|R-HSA-390247_BETA_OXIDATION_OF_VERY_LONG_CHAIN_FATTY_ACIDS,REACTOME_METABOLISM,11,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta-oxidation of very long chain fatty acids,TRUE
+REACTOME|R-HSA-434316_FATTY_ACIDS_BOUND_TO_GPR40_FFAR1_REGULATE_INSULIN_SECRETION,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion,FALSE
+REACTOME|R-HSA-170822_REGULATION_OF_GLUCOKINASE_BY_GLUCOKINASE_REGULATORY_PROTEIN,REACTOME_METABOLISM,31,28,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of Glucokinase by Glucokinase Regulatory Protein,TRUE
+REACTOME|R-HSA-9634600_REGULATION_OF_GLYCOLYSIS_BY_FRUCTOSE_2_6_BISPHOSPHATE_METABOLISM,REACTOME_METABOLISM,12,12,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",TRUE
+REACTOME|R-HSA-2393930_PHOSPHATE_BOND_HYDROLYSIS_BY_NUDT_PROTEINS,REACTOME_METABOLISM,7,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Phosphate bond hydrolysis by NUDT proteins,FALSE
+REACTOME|R-HSA-75876_SYNTHESIS_OF_VERY_LONG_CHAIN_FATTY_ACYL_COAS,REACTOME_METABOLISM,24,20,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of very long-chain fatty acyl-CoAs,TRUE
+REACTOME|R-HSA-77286_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION_OF_SATURATED_FATTY_ACIDS,REACTOME_METABOLISM,11,10,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),mitochondrial fatty acid beta-oxidation of saturated fatty acids,TRUE
+REACTOME|R-HSA-77288_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION_OF_UNSATURATED_FATTY_ACIDS,REACTOME_METABOLISM,6,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,FALSE
+REACTOME|R-HSA-9018682_BIOSYNTHESIS_OF_MARESINS,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of maresins,FALSE
+REACTOME|R-HSA-9018896_BIOSYNTHESIS_OF_E_SERIES_18_S_RESOLVINS,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of E-series 18(S)-resolvins,FALSE
+REACTOME|R-HSA-204174_REGULATION_OF_PYRUVATE_DEHYDROGENASE_PDH_COMPLEX,REACTOME_METABOLISM,15,15,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Regulation of pyruvate dehydrogenase (PDH) complex,TRUE
+REACTOME|R-HSA-177128_CONJUGATION_OF_SALICYLATE_WITH_GLYCINE,REACTOME_METABOLISM,8,8,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Conjugation of salicylate with glycine,FALSE
+REACTOME|R-HSA-177135_CONJUGATION_OF_BENZOATE_WITH_GLYCINE,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Conjugation of benzoate with glycine,FALSE
+REACTOME|R-HSA-193368_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_7ALPHA_HYDROXYCHOLESTEROL,REACTOME_METABOLISM,23,23,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,TRUE
+REACTOME|R-HSA-193775_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_24_HYDROXYCHOLESTEROL,REACTOME_METABOLISM,13,13,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of bile acids and bile salts via 24-hydroxycholesterol,TRUE
+REACTOME|R-HSA-193807_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_27_HYDROXYCHOLESTEROL,REACTOME_METABOLISM,14,14,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Synthesis of bile acids and bile salts via 27-hydroxycholesterol,TRUE
+REACTOME|R-HSA-211999_CYP2E1_REACTIONS,REACTOME_METABOLISM,11,11,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),CYP2E1 reactions,TRUE
+REACTOME|R-HSA-77310_BETA_OXIDATION_OF_LAUROYL_COA_TO_DECANOYL_COA_COA,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,FALSE
+REACTOME|R-HSA-77346_BETA_OXIDATION_OF_DECANOYL_COA_TO_OCTANOYL_COA_COA,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,FALSE
+REACTOME|R-HSA-77348_BETA_OXIDATION_OF_OCTANOYL_COA_TO_HEXANOYL_COA,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta oxidation of octanoyl-CoA to hexanoyl-CoA,FALSE
+REACTOME|R-HSA-77350_BETA_OXIDATION_OF_HEXANOYL_COA_TO_BUTANOYL_COA,REACTOME_METABOLISM,5,5,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Beta oxidation of hexanoyl-CoA to butanoyl-CoA,FALSE
+REACTOME|R-HSA-9027307_BIOSYNTHESIS_OF_MARESIN_LIKE_SPMS,REACTOME_METABOLISM,6,6,Reactome NCBI2Reactome_All_Levels + ReactomePathwaysRelation (fetched 2026-09-09),Biosynthesis of maresin-like SPMs,FALSE
+HALLMARK|HALLMARK_GLYCOLYSIS,HALLMARK_METABOLIC,200,195,msigdbr 26.1.0,HALLMARK_GLYCOLYSIS,TRUE
+HALLMARK|HALLMARK_OXIDATIVE_PHOSPHORYLATION,HALLMARK_METABOLIC,200,182,msigdbr 26.1.0,HALLMARK_OXIDATIVE_PHOSPHORYLATION,TRUE
+HALLMARK|HALLMARK_FATTY_ACID_METABOLISM,HALLMARK_METABOLIC,158,153,msigdbr 26.1.0,HALLMARK_FATTY_ACID_METABOLISM,TRUE
+HALLMARK|HALLMARK_ADIPOGENESIS,HALLMARK_METABOLIC,200,189,msigdbr 26.1.0,HALLMARK_ADIPOGENESIS,TRUE
+HALLMARK|HALLMARK_BILE_ACID_METABOLISM,HALLMARK_METABOLIC,112,111,msigdbr 26.1.0,HALLMARK_BILE_ACID_METABOLISM,TRUE
+HALLMARK|HALLMARK_XENOBIOTIC_METABOLISM,HALLMARK_METABOLIC,200,196,msigdbr 26.1.0,HALLMARK_XENOBIOTIC_METABOLISM,TRUE
+HALLMARK|HALLMARK_HEME_METABOLISM,HALLMARK_METABOLIC,200,190,msigdbr 26.1.0,HALLMARK_HEME_METABOLISM,TRUE
+HALLMARK|HALLMARK_CHOLESTEROL_HOMEOSTASIS,HALLMARK_METABOLIC,74,72,msigdbr 26.1.0,HALLMARK_CHOLESTEROL_HOMEOSTASIS,TRUE
+HALLMARK|HALLMARK_MTORC1_SIGNALING,HALLMARK_METABOLIC,200,191,msigdbr 26.1.0,HALLMARK_MTORC1_SIGNALING,TRUE
+HALLMARK|HALLMARK_MYC_TARGETS_V1,HALLMARK_METABOLIC,200,187,msigdbr 26.1.0,HALLMARK_MYC_TARGETS_V1,TRUE
+HALLMARK|HALLMARK_MYC_TARGETS_V2,HALLMARK_METABOLIC,58,57,msigdbr 26.1.0,HALLMARK_MYC_TARGETS_V2,TRUE
+HALLMARK|HALLMARK_HYPOXIA,HALLMARK_METABOLIC,200,190,msigdbr 26.1.0,HALLMARK_HYPOXIA,TRUE
+HALLMARK|HALLMARK_PEROXISOME,HALLMARK_METABOLIC,104,101,msigdbr 26.1.0,HALLMARK_PEROXISOME,TRUE
+HALLMARK|HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,HALLMARK_METABOLIC,49,45,msigdbr 26.1.0,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,TRUE
+HUMANGEM|ACYLGLYCERIDES_METABOLISM,HUMANGEM_SUBSYSTEM,38,38,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Acylglycerides metabolism,TRUE
+HUMANGEM|TRANSPORT_REACTIONS,HUMANGEM_SUBSYSTEM,516,497,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Transport reactions,TRUE
+HUMANGEM|POOL_REACTIONS,HUMANGEM_SUBSYSTEM,11,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pool reactions,TRUE
+HUMANGEM|BETA_ALANINE_METABOLISM,HUMANGEM_SUBSYSTEM,18,17,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta-alanine metabolism,TRUE
+HUMANGEM|PURINE_METABOLISM,HUMANGEM_SUBSYSTEM,130,115,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Purine metabolism,TRUE
+HUMANGEM|TRYPTOPHAN_METABOLISM,HUMANGEM_SUBSYSTEM,21,20,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Tryptophan metabolism,TRUE
+HUMANGEM|N_GLYCAN_METABOLISM,HUMANGEM_SUBSYSTEM,69,68,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),N-glycan metabolism,TRUE
+HUMANGEM|NUCLEOTIDE_METABOLISM,HUMANGEM_SUBSYSTEM,148,138,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Nucleotide metabolism,TRUE
+HUMANGEM|FATTY_ACID_OXIDATION,HUMANGEM_SUBSYSTEM,69,67,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid oxidation,TRUE
+HUMANGEM|GLYCEROPHOSPHOLIPID_METABOLISM,HUMANGEM_SUBSYSTEM,107,91,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycerophospholipid metabolism,TRUE
+HUMANGEM|BILE_ACID_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,89,88,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Bile acid biosynthesis,TRUE
+HUMANGEM|STARCH_AND_SUCROSE_METABOLISM,HUMANGEM_SUBSYSTEM,28,25,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Starch and sucrose metabolism,TRUE
+HUMANGEM|BLOOD_GROUP_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,16,16,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Blood group biosynthesis,TRUE
+HUMANGEM|CHOLESTEROL_METABOLISM,HUMANGEM_SUBSYSTEM,31,29,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Cholesterol metabolism,TRUE
+HUMANGEM|FATTY_ACID_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,26,26,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid biosynthesis,TRUE
+HUMANGEM|PROPANOATE_METABOLISM,HUMANGEM_SUBSYSTEM,31,30,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Propanoate metabolism,TRUE
+HUMANGEM|ACYL_COA_HYDROLYSIS,HUMANGEM_SUBSYSTEM,9,9,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Acyl-CoA hydrolysis,FALSE
+HUMANGEM|FATTY_ACID_ACTIVATION_CYTOSOLIC_,HUMANGEM_SUBSYSTEM,14,14,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid activation (cytosolic),TRUE
+HUMANGEM|CARNITINE_SHUTTLE_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,7,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Carnitine shuttle (mitochondrial),FALSE
+HUMANGEM|ARGININE_AND_PROLINE_METABOLISM,HUMANGEM_SUBSYSTEM,56,53,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Arginine and proline metabolism,TRUE
+HUMANGEM|GLYCEROLIPID_METABOLISM,HUMANGEM_SUBSYSTEM,64,49,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycerolipid metabolism,TRUE
+HUMANGEM|GLYCINE_SERINE_AND_THREONINE_METABOLISM,HUMANGEM_SUBSYSTEM,57,56,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),"Glycine, serine and threonine metabolism",TRUE
+HUMANGEM|INOSITOL_PHOSPHATE_METABOLISM,HUMANGEM_SUBSYSTEM,99,95,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Inositol phosphate metabolism,TRUE
+HUMANGEM|ETHER_LIPID_METABOLISM,HUMANGEM_SUBSYSTEM,42,31,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Ether lipid metabolism,TRUE
+HUMANGEM|TRICARBOXYLIC_ACID_CYCLE_AND_GLYOXYLATE_DICARBOXYLATE_METABOLISM,HUMANGEM_SUBSYSTEM,45,45,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,TRUE
+HUMANGEM|NICOTINATE_AND_NICOTINAMIDE_METABOLISM,HUMANGEM_SUBSYSTEM,43,33,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Nicotinate and nicotinamide metabolism,TRUE
+HUMANGEM|SPHINGOLIPID_METABOLISM,HUMANGEM_SUBSYSTEM,118,103,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Sphingolipid metabolism,TRUE
+HUMANGEM|BUTANOATE_METABOLISM,HUMANGEM_SUBSYSTEM,13,13,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Butanoate metabolism,TRUE
+HUMANGEM|GLYCOSPHINGOLIPID_METABOLISM,HUMANGEM_SUBSYSTEM,58,54,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycosphingolipid metabolism,TRUE
+HUMANGEM|GLYCOSPHINGOLIPID_BIOSYNTHESIS_GLOBO_SERIES,HUMANGEM_SUBSYSTEM,14,13,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycosphingolipid biosynthesis-globo series,TRUE
+HUMANGEM|GLYCOSPHINGOLIPID_BIOSYNTHESIS_GANGLIO_SERIES,HUMANGEM_SUBSYSTEM,25,24,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycosphingolipid biosynthesis-ganglio series,TRUE
+HUMANGEM|GLYCOSPHINGOLIPID_BIOSYNTHESIS_LACTO_AND_NEOLACTO_SERIES,HUMANGEM_SUBSYSTEM,27,26,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycosphingolipid biosynthesis-lacto and neolacto series,TRUE
+HUMANGEM|ARACHIDONIC_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,105,104,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Arachidonic acid metabolism,TRUE
+HUMANGEM|GALACTOSE_METABOLISM,HUMANGEM_SUBSYSTEM,23,22,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Galactose metabolism,TRUE
+HUMANGEM|PORPHYRIN_METABOLISM,HUMANGEM_SUBSYSTEM,22,22,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Porphyrin metabolism,TRUE
+HUMANGEM|LEUKOTRIENE_METABOLISM,HUMANGEM_SUBSYSTEM,180,170,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Leukotriene metabolism,TRUE
+HUMANGEM|GLYCOLYSIS_GLUCONEOGENESIS,HUMANGEM_SUBSYSTEM,70,68,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycolysis / Gluconeogenesis,TRUE
+HUMANGEM|BETA_OXIDATION_OF_POLY_UNSATURATED_FATTY_ACIDS_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,8,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of poly-unsaturated fatty acids (mitochondrial),FALSE
+HUMANGEM|PROSTAGLANDIN_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,48,39,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Prostaglandin biosynthesis,TRUE
+HUMANGEM|O_GLYCAN_METABOLISM,HUMANGEM_SUBSYSTEM,31,27,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),O-glycan metabolism,TRUE
+HUMANGEM|LYSINE_METABOLISM,HUMANGEM_SUBSYSTEM,50,39,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Lysine metabolism,TRUE
+HUMANGEM|PHOSPHATIDYLINOSITOL_PHOSPHATE_METABOLISM,HUMANGEM_SUBSYSTEM,21,21,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Phosphatidylinositol phosphate metabolism,TRUE
+HUMANGEM|CHOLESTEROL_BIOSYNTHESIS_1_BLOCH_PATHWAY_,HUMANGEM_SUBSYSTEM,19,16,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Cholesterol biosynthesis 1 (Bloch pathway),TRUE
+HUMANGEM|PYRUVATE_METABOLISM,HUMANGEM_SUBSYSTEM,45,44,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pyruvate metabolism,TRUE
+HUMANGEM|VITAMIN_A_METABOLISM,HUMANGEM_SUBSYSTEM,8,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Vitamin A metabolism,FALSE
+HUMANGEM|VALINE_LEUCINE_AND_ISOLEUCINE_METABOLISM,HUMANGEM_SUBSYSTEM,59,57,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),"Valine, leucine, and isoleucine metabolism",TRUE
+HUMANGEM|KERATAN_SULFATE_DEGRADATION,HUMANGEM_SUBSYSTEM,13,12,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Keratan sulfate degradation,TRUE
+HUMANGEM|CHOLESTEROL_BIOSYNTHESIS_3_KANDUSTCH_RUSSELL_PATHWAY_,HUMANGEM_SUBSYSTEM,9,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Cholesterol biosynthesis 3 (Kandustch-Russell pathway),FALSE
+HUMANGEM|TERPENOID_BACKBONE_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,15,15,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Terpenoid backbone biosynthesis,TRUE
+HUMANGEM|PANTOTHENATE_AND_COA_METABOLISM,HUMANGEM_SUBSYSTEM,13,13,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pantothenate and CoA metabolism,TRUE
+HUMANGEM|MISCELLANEOUS,HUMANGEM_SUBSYSTEM,105,100,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Miscellaneous,TRUE
+HUMANGEM|TYROSINE_METABOLISM,HUMANGEM_SUBSYSTEM,50,47,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Tyrosine metabolism,TRUE
+HUMANGEM|STEROID_METABOLISM,HUMANGEM_SUBSYSTEM,62,60,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Steroid metabolism,TRUE
+HUMANGEM|BILE_ACID_RECYCLING,HUMANGEM_SUBSYSTEM,16,14,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Bile acid recycling,TRUE
+HUMANGEM|ANDROGEN_METABOLISM,HUMANGEM_SUBSYSTEM,22,22,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Androgen metabolism,TRUE
+HUMANGEM|GLUCOCORTICOID_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,8,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glucocorticoid biosynthesis,FALSE
+HUMANGEM|ESTROGEN_METABOLISM,HUMANGEM_SUBSYSTEM,65,64,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Estrogen metabolism,TRUE
+HUMANGEM|VITAMIN_D_METABOLISM,HUMANGEM_SUBSYSTEM,10,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Vitamin D metabolism,TRUE
+HUMANGEM|BIOPTERIN_METABOLISM,HUMANGEM_SUBSYSTEM,12,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Biopterin metabolism,TRUE
+HUMANGEM|PYRIMIDINE_METABOLISM,HUMANGEM_SUBSYSTEM,63,57,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pyrimidine metabolism,TRUE
+HUMANGEM|FATTY_ACID_BIOSYNTHESIS_EVEN_CHAIN_,HUMANGEM_SUBSYSTEM,6,6,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid biosynthesis (even-chain),FALSE
+HUMANGEM|FATTY_ACID_ELONGATION_EVEN_CHAIN_,HUMANGEM_SUBSYSTEM,15,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid elongation (even-chain),TRUE
+HUMANGEM|FATTY_ACID_ELONGATION_ODD_CHAIN_,HUMANGEM_SUBSYSTEM,15,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid elongation (odd-chain),TRUE
+HUMANGEM|FATTY_ACID_DESATURATION_EVEN_CHAIN_,HUMANGEM_SUBSYSTEM,5,5,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid desaturation (even-chain),FALSE
+HUMANGEM|FATTY_ACID_BIOSYNTHESIS_UNSATURATED_,HUMANGEM_SUBSYSTEM,15,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid biosynthesis (unsaturated),TRUE
+HUMANGEM|OMEGA_6_FATTY_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,38,32,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Omega-6 fatty acid metabolism,TRUE
+HUMANGEM|LINOLEATE_METABOLISM,HUMANGEM_SUBSYSTEM,59,58,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Linoleate metabolism,TRUE
+HUMANGEM|OMEGA_3_FATTY_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,52,45,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Omega-3 fatty acid metabolism,TRUE
+HUMANGEM|CARNITINE_SHUTTLE_ENDOPLASMIC_RETICULAR_,HUMANGEM_SUBSYSTEM,6,6,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Carnitine shuttle (endoplasmic reticular),FALSE
+HUMANGEM|BETA_OXIDATION_OF_DI_UNSATURATED_FATTY_ACIDS_N_6_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,10,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of di-unsaturated fatty acids (n-6) (peroxisomal),FALSE
+HUMANGEM|FATTY_ACID_ACTIVATION_ENDOPLASMIC_RETICULAR_,HUMANGEM_SUBSYSTEM,10,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid activation (endoplasmic reticular),TRUE
+HUMANGEM|EICOSANOID_METABOLISM,HUMANGEM_SUBSYSTEM,42,41,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Eicosanoid metabolism,TRUE
+HUMANGEM|CARNITINE_SHUTTLE_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,6,6,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Carnitine shuttle (peroxisomal),FALSE
+HUMANGEM|VITAMIN_E_METABOLISM,HUMANGEM_SUBSYSTEM,101,91,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Vitamin E metabolism,TRUE
+HUMANGEM|BETA_OXIDATION_OF_EVEN_CHAIN_FATTY_ACIDS_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,10,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of even-chain fatty acids (peroxisomal),FALSE
+HUMANGEM|BETA_OXIDATION_OF_EVEN_CHAIN_FATTY_ACIDS_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,15,15,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of even-chain fatty acids (mitochondrial),TRUE
+HUMANGEM|BETA_OXIDATION_OF_ODD_CHAIN_FATTY_ACIDS_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,11,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of odd-chain fatty acids (mitochondrial),TRUE
+HUMANGEM|BETA_OXIDATION_OF_UNSATURATED_FATTY_ACIDS_N_9_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,12,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of unsaturated fatty acids (n-9) (mitochondrial),TRUE
+HUMANGEM|BETA_OXIDATION_OF_UNSATURATED_FATTY_ACIDS_N_7_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,12,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of unsaturated fatty acids (n-7) (mitochondrial),TRUE
+HUMANGEM|BETA_OXIDATION_OF_DI_UNSATURATED_FATTY_ACIDS_N_6_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,13,11,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of di-unsaturated fatty acids (n-6) (mitochondrial),TRUE
+HUMANGEM|BETA_OXIDATION_OF_UNSATURATED_FATTY_ACIDS_N_9_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,9,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of unsaturated fatty acids (n-9) (peroxisomal),FALSE
+HUMANGEM|BETA_OXIDATION_OF_UNSATURATED_FATTY_ACIDS_N_7_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,9,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of unsaturated fatty acids (n-7) (peroxisomal),FALSE
+HUMANGEM|BETA_OXIDATION_OF_PHYTANIC_ACID_PEROXISOMAL_,HUMANGEM_SUBSYSTEM,14,12,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of phytanic acid (peroxisomal),TRUE
+HUMANGEM|BETA_OXIDATION_OF_BRANCHED_CHAIN_FATTY_ACIDS_MITOCHONDRIAL_,HUMANGEM_SUBSYSTEM,9,9,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Beta oxidation of branched-chain fatty acids (mitochondrial),FALSE
+HUMANGEM|PHENYLALANINE_TYROSINE_AND_TRYPTOPHAN_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,120,115,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),"Phenylalanine, tyrosine and tryptophan biosynthesis",TRUE
+HUMANGEM|ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,HUMANGEM_SUBSYSTEM,35,32,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),"Alanine, aspartate and glutamate metabolism",TRUE
+HUMANGEM|SULFUR_METABOLISM,HUMANGEM_SUBSYSTEM,24,20,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Sulfur metabolism,TRUE
+HUMANGEM|GLUTATHIONE_METABOLISM,HUMANGEM_SUBSYSTEM,32,30,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glutathione metabolism,TRUE
+HUMANGEM|CYSTEINE_AND_METHIONINE_METABOLISM,HUMANGEM_SUBSYSTEM,42,41,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Cysteine and methionine metabolism,TRUE
+HUMANGEM|FOLATE_METABOLISM,HUMANGEM_SUBSYSTEM,18,17,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Folate metabolism,TRUE
+HUMANGEM|OXIDATIVE_PHOSPHORYLATION,HUMANGEM_SUBSYSTEM,107,73,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Oxidative phosphorylation,TRUE
+HUMANGEM|AMINO_SUGAR_AND_NUCLEOTIDE_SUGAR_METABOLISM,HUMANGEM_SUBSYSTEM,31,30,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Amino sugar and nucleotide sugar metabolism,TRUE
+HUMANGEM|METABOLISM_OF_OTHER_AMINO_ACIDS,HUMANGEM_SUBSYSTEM,28,26,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Metabolism of other amino acids,TRUE
+HUMANGEM|XENOBIOTICS_METABOLISM,HUMANGEM_SUBSYSTEM,105,98,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Xenobiotics metabolism,TRUE
+HUMANGEM|PENTOSE_PHOSPHATE_PATHWAY,HUMANGEM_SUBSYSTEM,25,23,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pentose phosphate pathway,TRUE
+HUMANGEM|VITAMIN_B6_METABOLISM,HUMANGEM_SUBSYSTEM,7,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Vitamin B6 metabolism,FALSE
+HUMANGEM|THIAMINE_METABOLISM,HUMANGEM_SUBSYSTEM,6,5,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Thiamine metabolism,FALSE
+HUMANGEM|FRUCTOSE_AND_MANNOSE_METABOLISM,HUMANGEM_SUBSYSTEM,27,24,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fructose and mannose metabolism,TRUE
+HUMANGEM|HISTIDINE_METABOLISM,HUMANGEM_SUBSYSTEM,43,40,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Histidine metabolism,TRUE
+HUMANGEM|SEROTONIN_AND_MELATONIN_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,41,41,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Serotonin and melatonin biosynthesis,TRUE
+HUMANGEM|PENTOSE_AND_GLUCURONATE_INTERCONVERSIONS,HUMANGEM_SUBSYSTEM,10,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Pentose and glucuronate interconversions,TRUE
+HUMANGEM|PROTEIN_ASSEMBLY,HUMANGEM_SUBSYSTEM,13,13,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Protein assembly,TRUE
+HUMANGEM|PROTEIN_DEGRADATION,HUMANGEM_SUBSYSTEM,18,16,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Protein degradation,TRUE
+HUMANGEM|ASCORBATE_AND_ALDARATE_METABOLISM,HUMANGEM_SUBSYSTEM,10,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Ascorbate and aldarate metabolism,TRUE
+HUMANGEM|LIPOIC_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,10,10,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Lipoic acid metabolism,TRUE
+HUMANGEM|RIBOFLAVIN_METABOLISM,HUMANGEM_SUBSYSTEM,9,6,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Riboflavin metabolism,FALSE
+HUMANGEM|RETINOL_METABOLISM,HUMANGEM_SUBSYSTEM,121,117,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Retinol metabolism,TRUE
+HUMANGEM|PEPTIDE_METABOLISM,HUMANGEM_SUBSYSTEM,6,6,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Peptide metabolism,FALSE
+HUMANGEM|GLYCOSYLPHOSPHATIDYLINOSITOL_GPI_ANCHOR_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,27,26,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,TRUE
+HUMANGEM|CHONDROITIN_HEPARAN_SULFATE_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,43,43,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Chondroitin / heparan sulfate biosynthesis,TRUE
+HUMANGEM|HEPARAN_SULFATE_DEGRADATION,HUMANGEM_SUBSYSTEM,13,12,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Heparan sulfate degradation,TRUE
+HUMANGEM|KERATAN_SULFATE_BIOSYNTHESIS,HUMANGEM_SUBSYSTEM,21,20,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Keratan sulfate biosynthesis,TRUE
+HUMANGEM|CHONDROITIN_SULFATE_DEGRADATION,HUMANGEM_SUBSYSTEM,16,15,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Chondroitin sulfate degradation,TRUE
+HUMANGEM|PROTEIN_MODIFICATION,HUMANGEM_SUBSYSTEM,8,8,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Protein modification,FALSE
+HUMANGEM|ISOLATED,HUMANGEM_SUBSYSTEM,512,467,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Isolated,TRUE
+HUMANGEM|C5_BRANCHED_DIBASIC_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,6,5,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),C5-branched dibasic acid metabolism,FALSE
+HUMANGEM|DRUG_METABOLISM,HUMANGEM_SUBSYSTEM,52,51,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Drug metabolism,TRUE
+HUMANGEM|FATTY_ACID_METABOLISM,HUMANGEM_SUBSYSTEM,7,7,Human-GEM main branch model/Human-GEM.yml + genes.tsv (fetched 2026-09-09),Fatty acid metabolism,FALSE
+CURATED|CURATED_ONE_CARBON_FOLATE,CURATED_SIGNATURE,35,34,curated canonical enzyme list (this study; literature-standard members),CURATED_ONE_CARBON_FOLATE,TRUE
+CURATED|CURATED_ANTIFOLATE_DETERMINANTS,CURATED_SIGNATURE,10,10,curated canonical enzyme list (this study; literature-standard members),CURATED_ANTIFOLATE_DETERMINANTS,TRUE
+CURATED|CURATED_GLUTAMINOLYSIS,CURATED_SIGNATURE,18,18,curated canonical enzyme list (this study; literature-standard members),CURATED_GLUTAMINOLYSIS,TRUE
+CURATED|CURATED_SERINE_GLYCINE,CURATED_SIGNATURE,16,16,curated canonical enzyme list (this study; literature-standard members),CURATED_SERINE_GLYCINE,TRUE
+CURATED|CURATED_PENTOSE_PHOSPHATE,CURATED_SIGNATURE,17,16,curated canonical enzyme list (this study; literature-standard members),CURATED_PENTOSE_PHOSPHATE,TRUE
+CURATED|CURATED_LIPID_SYNTHESIS,CURATED_SIGNATURE,34,34,curated canonical enzyme list (this study; literature-standard members),CURATED_LIPID_SYNTHESIS,TRUE
+CURATED|CURATED_GLYCOLYSIS_CORE,CURATED_SIGNATURE,30,29,curated canonical enzyme list (this study; literature-standard members),CURATED_GLYCOLYSIS_CORE,TRUE
+CURATED|CURATED_TCA_CYCLE,CURATED_SIGNATURE,27,27,curated canonical enzyme list (this study; literature-standard members),CURATED_TCA_CYCLE,TRUE
+FFLCLASS|3_miR,FFL_MODULE,265,264,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),3-miR,TRUE
+FFLCLASS|3_TF,FFL_MODULE,259,258,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),3-TF,TRUE
+FFLCLASS|3_Comp,FFL_MODULE,259,258,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),3-Comp,TRUE
+FFLCLASS|4_node,FFL_MODULE,352,351,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),4-node,TRUE
+FFLCLASS|5_node,FFL_MODULE,340,339,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),5-node,TRUE
+FFLCLASS|6_node,FFL_MODULE,314,314,results/motif_node_sets.tsv (protein-coding Gene+TF nodes),6-node,TRUE
+FFLCLASS|3node_union,FFL_MODULE,265,264,derived union of 3-miR/3-TF/3-Comp,3-node union,TRUE
+FFLCLASS|higherorder_union,FFL_MODULE,355,354,derived union of 4/5/6-node,higher-order union,TRUE
+FFLCLASS|higherorder_not_3node,FFL_MODULE,92,92,derived: higher-order nodes not in any 3-node core,higher-order-only,TRUE
+FFLCLASS|ALL_NETWORK_NODES,FFL_MODULE,587,363,data/canonical_nodes.tsv,all nodes,TRUE
+CONTROL|CONTROL_EPITHELIAL,CONTEXT_CONTROL,10,10,curated context marker panel,CONTROL_EPITHELIAL,TRUE
+CONTROL|CONTROL_CAF_SMALL,CONTEXT_CONTROL,10,10,curated context marker panel,CONTROL_CAF_SMALL,TRUE
+CONTROL|CONTROL_IMMUNE_SMALL,CONTEXT_CONTROL,9,9,curated context marker panel,CONTROL_IMMUNE_SMALL,TRUE
+CONTROL|CONTROL_PROLIFERATION,CONTEXT_CONTROL,10,10,curated context marker panel,CONTROL_PROLIFERATION,TRUE
+CONTROL|CONTROL_CAF_FULL,CONTEXT_CONTROL,123,123,results/v2/cafA_gene_list_v3.txt (project CAF panel),CAF panel v3,TRUE
+CONTROL|CONTROL_IMMUNE_FULL,CONTEXT_CONTROL,141,141,results/v2/immune_gene_list_v3.txt (project immune panel),immune panel v3,TRUE

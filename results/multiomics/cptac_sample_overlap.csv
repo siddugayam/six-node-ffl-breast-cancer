@@ -1,0 +1,9 @@
+"assay","n_samples"
+"RNAseq",121
+"Proteome",122
+"Phosphoproteome",122
+"miRNAseq",101
+"RNA+protein",121
+"protein+phospho",122
+"RNA+protein+miRNA",101
+"RNA+protein+miRNA+phospho",101

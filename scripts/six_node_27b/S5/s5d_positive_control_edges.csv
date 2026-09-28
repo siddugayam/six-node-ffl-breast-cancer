@@ -1,0 +1,44 @@
+circuit,source,target,literature_sign,present,layer,sign,sign_provenance,evidence,tier
+MYC/E2F-miR-17~92,MYC,hsa-miR-17,+,yes,TF_miRNA (analysed network),unsigned,TransmiR mode Ambiguous,TransmiR (literature),
+MYC/E2F-miR-17~92,MYC,hsa-miR-18a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,MYC,hsa-miR-19a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,MYC,hsa-miR-20a,+,yes,TF_miRNA (analysed network),unsigned,TransmiR mode Ambiguous,TransmiR (literature),
+MYC/E2F-miR-17~92,MYC,hsa-miR-19b,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,MYC,hsa-miR-92a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-17,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-18a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-19a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-20a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-19b,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F1,hsa-miR-92a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F3,hsa-miR-17,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F3,hsa-miR-18a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F3,hsa-miR-19a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F3,hsa-miR-20a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,E2F3,hsa-miR-19b,+,no,,,,,
+MYC/E2F-miR-17~92,E2F3,hsa-miR-92a,+,yes,TF_miRNA (analysed network),+,TransmiR mode Activation,TransmiR (literature),
+MYC/E2F-miR-17~92,hsa-miR-17,E2F1,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirtarbase;tarbase,strong
+MYC/E2F-miR-17~92,hsa-miR-20a,E2F1,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirecords;mirtarbase;tarbase,strong
+MYC/E2F-miR-17~92,MYC,E2F1,+,no,,,,,
+MYC/E2F-miR-17~92,E2F1,MYC,+,yes,TF_target (TRRUST census layer),+,TRRUST mode Activation,"TRRUST, 1 PMID(s)",
+ZEB/SNAIL-miR-200,ZEB1,hsa-miR-200a,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,ZEB1,hsa-miR-200b,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,ZEB1,hsa-miR-200c,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,ZEB1,hsa-miR-141,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,ZEB1,hsa-miR-429,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,ZEB2,hsa-miR-200a,-,yes,TF_miRNA (analysed network),-,TransmiR mode Repression,TransmiR (literature),
+ZEB/SNAIL-miR-200,ZEB2,hsa-miR-200b,-,yes,TF_miRNA (analysed network),-,TransmiR mode Repression,TransmiR (literature),
+ZEB/SNAIL-miR-200,ZEB2,hsa-miR-200c,-,yes,TF_miRNA (analysed network),-,TransmiR mode Repression,TransmiR (literature),
+ZEB/SNAIL-miR-200,ZEB2,hsa-miR-141,-,yes,TF_miRNA (analysed network),-,TransmiR mode Repression,TransmiR (literature),
+ZEB/SNAIL-miR-200,ZEB2,hsa-miR-429,-,yes,TF_miRNA (analysed network),-,TransmiR mode Repression,TransmiR (literature),
+ZEB/SNAIL-miR-200,hsa-miR-200a,ZEB1,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,hsa-miR-200a,ZEB2,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirecords;mirtarbase;tarbase,strong
+ZEB/SNAIL-miR-200,hsa-miR-200b,ZEB1,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,hsa-miR-200b,ZEB2,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirecords;mirtarbase;tarbase,strong
+ZEB/SNAIL-miR-200,hsa-miR-200c,ZEB1,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,hsa-miR-200c,ZEB2,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirtarbase;tarbase,strong
+ZEB/SNAIL-miR-200,hsa-miR-141,ZEB1,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,hsa-miR-141,ZEB2,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirecords;mirtarbase;tarbase,strong
+ZEB/SNAIL-miR-200,hsa-miR-429,ZEB1,-,no (node not in the network: ZEB1),,,,,
+ZEB/SNAIL-miR-200,hsa-miR-429,ZEB2,-,yes,miRNA_target (analysed network),-,mechanistic (miRNA repression),mirtarbase,strong
+ZEB/SNAIL-miR-200,SNAI1,ZEB1,+,no (node not in the network: ZEB1),,,,,

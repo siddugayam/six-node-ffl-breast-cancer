@@ -1,0 +1,140 @@
+{
+ "K": 7,
+ "n_partition_files": 1,
+ "prod_q": 0.0016000000000000005,
+ "found": 145556,
+ "estimated_modules": 90972499.99999997,
+ "visited": 189068317,
+ "composition": {
+  "TF1_miR3_G3": 50,
+  "TF1_miR4_G2": 386,
+  "TF1_miR5_G1": 1457,
+  "TF2_miR2_G3": 125,
+  "TF2_miR3_G2": 4590,
+  "TF2_miR4_G1": 20998,
+  "TF2_miR5_G0": 43,
+  "TF3_miR1_G3": 33,
+  "TF3_miR2_G2": 3734,
+  "TF3_miR3_G1": 53375,
+  "TF3_miR4_G0": 1182,
+  "TF4_miR0_G3": 3,
+  "TF4_miR1_G2": 1021,
+  "TF4_miR2_G1": 37177,
+  "TF4_miR3_G0": 4842,
+  "TF5_miR0_G2": 101,
+  "TF5_miR1_G1": 6924,
+  "TF5_miR2_G0": 6060,
+  "TF6_miR0_G1": 617,
+  "TF6_miR1_G0": 2608,
+  "TF7_miR0_G0": 230
+ },
+ "flags_found": {
+  "a_2TF_2miR_2Gene": 8449,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 2560,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 19,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 17810,
+  "c_full_compositecore_plus_TF2": 4530
+ },
+ "flags_estimated": {
+  "a_2TF_2miR_2Gene": 5280624.999999998,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 1599999.9999999995,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 11874.999999999996,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 11131249.999999996,
+  "c_full_compositecore_plus_TF2": 2831249.999999999
+ },
+ "flags_pct": {
+  "a_2TF_2miR_2Gene": 5.804638764461788,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 1.7587732556541813,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0.013053395256808376,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 12.235840501250378,
+  "c_full_compositecore_plus_TF2": 3.112204237544313
+ },
+ "flag_pattern_counts": {
+  "none": 119644,
+  "a_2TF_2miR_2Gene": 5971,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 306,
+  "a_2TF_2miR_2Gene+b_nodetype_TFTF_GeneGene_TFmiRGene": 1808,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene+b_paperclass_TFTF_GeneGene_TFmiRGene": 1,
+  "a_2TF_2miR_2Gene+b_nodetype_TFTF_GeneGene_TFmiRGene+b_paperclass_TFTF_GeneGene_TFmiRGene": 16,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 12780,
+  "a_2TF_2miR_2Gene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 196,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 41,
+  "a_2TF_2miR_2Gene+b_nodetype_TFTF_GeneGene_TFmiRGene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 263,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 4330,
+  "a_2TF_2miR_2Gene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 75,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 5,
+  "a_2TF_2miR_2Gene+b_nodetype_TFTF_GeneGene_TFmiRGene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 118,
+  "a_2TF_2miR_2Gene+b_nodetype_TFTF_GeneGene_TFmiRGene+b_paperclass_TFTF_GeneGene_TFmiRGene+c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 2
+ },
+ "n_classes_hist": {
+  "1": 231,
+  "2": 3508,
+  "3": 58277,
+  "4": 62763,
+  "5": 20241,
+  "6": 535,
+  "7": 1
+ },
+ "max_classes": 7,
+ "class_sets_at_max": {
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA": 1
+ },
+ "class_sets_with_6_or_more": {
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+miRNA-miRNA": 523,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene": 7,
+  "TF->Gene+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA": 3,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+Gene->Gene+miRNA-miRNA": 2,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA": 1
+ },
+ "examples_by_flag": {
+  "a_2TF_2miR_2Gene": [
+   "AR CDH11 MYC hsa-miR-182 EPAS1 SMAD7 hsa-miR-27a",
+   "AR EP300 DNMT1 VEGFA hsa-miR-17 hsa-miR-216a HIC1",
+   "AR EP300 DNMT1 VEGFA hsa-miR-20a hsa-miR-27b HIC1"
+  ],
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": [
+   "APEX1 RELA BCL2L1 PPARA STAT3 STAT5A hsa-miR-133b",
+   "AR EP300 DNMT1 VEGFA hsa-miR-17 hsa-miR-216a HIC1",
+   "AR EP300 DNMT1 VEGFA hsa-miR-20a hsa-miR-27b HIC1"
+  ],
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": [
+   "E2F1 MYBL2 COL1A1 COL3A1 MYCN hsa-miR-335 hsa-miR-29c",
+   "E2F1 MYC MYCN hsa-miR-335 COL3A1 hsa-miR-371a COL1A1",
+   "E2F1 MYC hsa-let-7c COL1A1 COL3A1 hsa-let-7e hsa-let-7i"
+  ],
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": [
+   "AHR BRCA1 EGR1 F3 MYC hsa-miR-106a hsa-miR-152 | TF1=BRCA1 TF2=EGR1 miRNA=hsa-miR-152 target=F3",
+   "AHR MYC GATA1 RUNX1 hsa-miR-106b ADAMTS5 hsa-miR-181c | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=GATA1",
+   "AHR MYC GATA1 RUNX1 hsa-miR-106b ADAMTS5 hsa-miR-27a | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=GATA1"
+  ],
+  "c_full_compositecore_plus_TF2": [
+   "APEX1 NFKB1 ABCA1 RELA STAT3 hsa-miR-199a hsa-miR-19a | TF1=RELA TF2=STAT3 miRNA=hsa-miR-19a target=ABCA1",
+   "APEX1 NFKB1 ABCA1 RELA STAT3 hsa-miR-199a hsa-miR-27b | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-27b target=ABCA1",
+   "APEX1 NFKB1 ABCA1 RELA hsa-miR-199a hsa-miR-20a hsa-miR-27b | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-27b target=ABCA1"
+  ]
+ },
+ "examples_by_class_set": {
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene": [
+   "ETS1 COL1A1 COL3A1 hsa-miR-181b FOS MYC hsa-let-7e",
+   "ETS1 COL1A1 COL3A1 hsa-miR-181b FOS NFKB1 hsa-let-7b",
+   "EZH2 TWIST1 MYB COL1A1 COL3A1 hsa-miR-143 hsa-miR-181b"
+  ],
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+miRNA-miRNA": [
+   "AR MYC CCND2 hsa-let-7b hsa-miR-182 hsa-miR-29c ETV4",
+   "AR VEGFA hsa-miR-17 IRF1 MYB hsa-miR-143 hsa-miR-29a",
+   "ARNT JUN FAS hsa-miR-106b IRF1 hsa-miR-29b hsa-let-7b"
+  ],
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+Gene->Gene+miRNA-miRNA": [
+   "E2F1 MYBL2 COL1A1 COL3A1 MYCN hsa-miR-335 hsa-miR-29c",
+   "EZH2 TWIST1 MYB COL1A1 COL3A1 hsa-miR-143 hsa-miR-29b"
+  ],
+  "TF->Gene+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA": [
+   "ETS1 COL1A1 COL3A1 hsa-miR-21 SOX2 hsa-miR-29b hsa-let-7b",
+   "RELA COL1A1 COL3A1 hsa-let-7e hsa-miR-125b CEBPA hsa-miR-29a",
+   "RELA COL1A1 COL3A1 hsa-let-7e hsa-miR-125b CEBPA hsa-miR-29b"
+  ],
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA": [
+   "RELA COL1A1 COL3A1 hsa-let-7e hsa-miR-29c ETV4 ETS1"
+  ]
+ }
+}

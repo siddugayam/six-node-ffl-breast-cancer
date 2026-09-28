@@ -1,0 +1,193 @@
+block,metric,class_a,class_b,value,statistic,p_value,p_adjust,n_a,n_b,note
+GENESET_JACCARD,jaccard_protein_coding,3-miR,3-TF,0.977358490566038,0.562381560384522,0.000499750124937531,,265,259,shared=259; null mean Jaccard for random sets of same size=0.562
+NODESET_JACCARD,jaccard_all_nodes,3-miR,3-TF,0.963636363636364,0.582457490587227,0.000499750124937531,,438,426,shared=424
+GENESET_JACCARD,jaccard_protein_coding,3-miR,3-Comp,0.977358490566038,0.56190753043412,0.000499750124937531,,265,259,shared=259; null mean Jaccard for random sets of same size=0.562
+NODESET_JACCARD,jaccard_all_nodes,3-miR,3-Comp,0.968036529680365,0.57949786838234,0.000499750124937531,,438,424,shared=424
+GENESET_JACCARD,jaccard_protein_coding,3-miR,4-node,0.738028169014085,0.710266054577409,0.00149925037481259,,265,352,shared=262; null mean Jaccard for random sets of same size=0.71
+NODESET_JACCARD,jaccard_all_nodes,3-miR,4-node,0.754782608695652,0.730848843988989,0.000499750124937531,,438,571,shared=434
+GENESET_JACCARD,jaccard_protein_coding,3-miR,5-node,0.763848396501458,0.692561764802796,0.000499750124937531,,265,340,shared=262; null mean Jaccard for random sets of same size=0.693
+NODESET_JACCARD,jaccard_all_nodes,3-miR,5-node,0.778776978417266,0.711231901837596,0.000499750124937531,,438,551,shared=433
+GENESET_JACCARD,jaccard_protein_coding,3-miR,6-node,0.776073619631902,0.652180789397182,0.000499750124937531,,265,314,shared=253; null mean Jaccard for random sets of same size=0.652
+NODESET_JACCARD,jaccard_all_nodes,3-miR,6-node,0.777570093457944,0.673974951127055,0.000499750124937531,,438,513,shared=416
+GENESET_JACCARD,jaccard_protein_coding,3-TF,3-Comp,1,0.551715578866125,0.000499750124937531,,259,259,shared=259; null mean Jaccard for random sets of same size=0.552
+NODESET_JACCARD,jaccard_all_nodes,3-TF,3-Comp,0.995305164319249,0.567103830595131,0.000499750124937531,,426,424,shared=424
+GENESET_JACCARD,jaccard_protein_coding,3-TF,4-node,0.72112676056338,0.694417025838422,0.00149925037481259,,259,352,shared=256; null mean Jaccard for random sets of same size=0.694
+NODESET_JACCARD,jaccard_all_nodes,3-TF,4-node,0.733913043478261,0.711256837285568,0.000499750124937531,,426,571,shared=422
+GENESET_JACCARD,jaccard_protein_coding,3-TF,5-node,0.746355685131195,0.677499103661151,0.000499750124937531,,259,340,shared=256; null mean Jaccard for random sets of same size=0.677
+NODESET_JACCARD,jaccard_all_nodes,3-TF,5-node,0.757194244604317,0.692606985671941,0.000499750124937531,,426,551,shared=421
+GENESET_JACCARD,jaccard_protein_coding,3-TF,6-node,0.757668711656442,0.638901809537594,0.000499750124937531,,259,314,shared=247; null mean Jaccard for random sets of same size=0.639
+NODESET_JACCARD,jaccard_all_nodes,3-TF,6-node,0.758426966292135,0.656840114828728,0.000499750124937531,,426,513,shared=405
+GENESET_JACCARD,jaccard_protein_coding,3-Comp,4-node,0.72112676056338,0.694427187784942,0.00249875062468766,,259,352,shared=256; null mean Jaccard for random sets of same size=0.694
+NODESET_JACCARD,jaccard_all_nodes,3-Comp,4-node,0.730434782608696,0.707882441945001,0.000499750124937531,,424,571,shared=420
+GENESET_JACCARD,jaccard_protein_coding,3-Comp,5-node,0.746355685131195,0.677331508218419,0.000499750124937531,,259,340,shared=256; null mean Jaccard for random sets of same size=0.677
+NODESET_JACCARD,jaccard_all_nodes,3-Comp,5-node,0.753597122302158,0.689669901061514,0.000499750124937531,,424,551,shared=419
+GENESET_JACCARD,jaccard_protein_coding,3-Comp,6-node,0.757668711656442,0.639460434672221,0.000499750124937531,,259,314,shared=247; null mean Jaccard for random sets of same size=0.639
+NODESET_JACCARD,jaccard_all_nodes,3-Comp,6-node,0.754681647940075,0.654406095784358,0.000499750124937531,,424,513,shared=403
+GENESET_JACCARD,jaccard_protein_coding,4-node,5-node,0.949295774647887,0.905325585187157,0.000499750124937531,,352,340,shared=337; null mean Jaccard for random sets of same size=0.905
+NODESET_JACCARD,jaccard_all_nodes,4-node,5-node,0.951304347826087,0.91468546716216,0.000499750124937531,,571,551,shared=547
+GENESET_JACCARD,jaccard_protein_coding,4-node,6-node,0.886685552407932,0.837899567786523,0.000499750124937531,,352,314,shared=313; null mean Jaccard for random sets of same size=0.838
+NODESET_JACCARD,jaccard_all_nodes,4-node,6-node,0.895104895104895,0.853108006190836,0.000499750124937531,,571,513,shared=512
+GENESET_JACCARD,jaccard_protein_coding,5-node,6-node,0.895652173913044,0.813129343251817,0.000499750124937531,,340,314,shared=309; null mean Jaccard for random sets of same size=0.813
+NODESET_JACCARD,jaccard_all_nodes,5-node,6-node,0.903398926654741,0.826794510178129,0.000499750124937531,,551,513,shared=505
+COMPOSITION,chisq_nodetype_across_classes,ALL,,6.29864284335836,10,0.789579559550229,,2923,,chi-square of TF/Gene/miRNA counts across the 6 classes; df in statistic column
+COMPOSITION,n_TF,3-Comp,,131,,,,424,,count
+COMPOSITION,n_Gene,3-Comp,,128,,,,424,,count
+COMPOSITION,n_miRNA,3-Comp,,165,,,,424,,count
+COMPOSITION,n_TF,3-TF,,131,,,,426,,count
+COMPOSITION,n_Gene,3-TF,,128,,,,426,,count
+COMPOSITION,n_miRNA,3-TF,,167,,,,426,,count
+COMPOSITION,n_TF,3-miR,,133,,,,438,,count
+COMPOSITION,n_Gene,3-miR,,132,,,,438,,count
+COMPOSITION,n_miRNA,3-miR,,173,,,,438,,count
+COMPOSITION,n_TF,4-node,,154,,,,571,,count
+COMPOSITION,n_Gene,4-node,,198,,,,571,,count
+COMPOSITION,n_miRNA,4-node,,219,,,,571,,count
+COMPOSITION,n_TF,5-node,,151,,,,551,,count
+COMPOSITION,n_Gene,5-node,,189,,,,551,,count
+COMPOSITION,n_miRNA,5-node,,211,,,,551,,count
+COMPOSITION,n_TF,6-node,,147,,,,513,,count
+COMPOSITION,n_Gene,6-node,,167,,,,513,,count
+COMPOSITION,n_miRNA,6-node,,199,,,,513,,count
+TOPOLOGY_CLASS,kruskal_degree,ALL_6_CLASSES,,19.6179605821701,5,0.00147370062405757,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_degree,3-miR,rest_of_network,28,49313,1.05391974696581e-20,1.58087962044871e-20,438,149,median in class vs median outside = 28 vs 11
+TOPOLOGY_CLASS,median_degree,3-TF,rest_of_network,29,51945.5,5.91012312322369e-22,1.77303693696711e-21,426,161,median in class vs median outside = 29 vs 11
+TOPOLOGY_CLASS,median_degree,3-Comp,rest_of_network,29,52100,1.49318448624523e-21,2.98636897249046e-21,424,163,median in class vs median outside = 29 vs 11
+TOPOLOGY_CLASS,median_degree,4-node,rest_of_network,24,8748,4.15574613060523e-10,4.15574613060523e-10,571,16,median in class vs median outside = 24 vs 3.5
+TOPOLOGY_CLASS,median_degree,5-node,rest_of_network,25,17942.5,3.92924766714038e-16,4.71509720056845e-16,551,36,median in class vs median outside = 25 vs 4.5
+TOPOLOGY_CLASS,median_degree,6-node,rest_of_network,27,33447.5,2.70731114004842e-26,1.62438668402905e-25,513,74,median in class vs median outside = 27 vs 7
+TOPOLOGY_CLASS,kruskal_indegree,ALL_6_CLASSES,,5.55745784630605,5,0.351686547798133,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_indegree,3-miR,rest_of_network,12,42189,8.83826683056944e-08,8.83826683056944e-08,438,149,median in class vs median outside = 12 vs 6
+TOPOLOGY_CLASS,median_indegree,3-TF,rest_of_network,12,45029.5,4.59291689631358e-09,6.88937534447037e-09,426,161,median in class vs median outside = 12 vs 6
+TOPOLOGY_CLASS,median_indegree,3-Comp,rest_of_network,12,45544.5,2.28690759689713e-09,4.57381519379427e-09,424,163,median in class vs median outside = 12 vs 6
+TOPOLOGY_CLASS,median_indegree,4-node,rest_of_network,11,8175.5,6.83109301887845e-08,8.19731162265414e-08,571,16,median in class vs median outside = 11 vs 2
+TOPOLOGY_CLASS,median_indegree,5-node,rest_of_network,11,16031,5.46060224648712e-10,1.63818067394614e-09,551,36,median in class vs median outside = 11 vs 3
+TOPOLOGY_CLASS,median_indegree,6-node,rest_of_network,12,29073,1.30740165999131e-13,7.84440995994788e-13,513,74,median in class vs median outside = 12 vs 4
+TOPOLOGY_CLASS,kruskal_outdegree,ALL_6_CLASSES,,10.5540166123588,5,0.0609757376849738,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_outdegree,3-miR,rest_of_network,12,45103.5,2.64346677378001e-12,1.58608006426801e-11,438,149,median in class vs median outside = 12 vs 2
+TOPOLOGY_CLASS,median_outdegree,3-TF,rest_of_network,12.5,46868.5,5.97620428499652e-12,1.79286128549896e-11,426,161,median in class vs median outside = 12.5 vs 3
+TOPOLOGY_CLASS,median_outdegree,3-Comp,rest_of_network,12,46847,2.09969465012249e-11,3.14954197518374e-11,424,163,median in class vs median outside = 12 vs 3
+TOPOLOGY_CLASS,median_outdegree,4-node,rest_of_network,9,7105.5,0.000142813442900428,0.000142813442900428,571,16,median in class vs median outside = 9 vs 1.5
+TOPOLOGY_CLASS,median_outdegree,5-node,rest_of_network,10,15124.5,1.18043899343491e-07,1.41652679212189e-07,551,36,median in class vs median outside = 10 vs 1
+TOPOLOGY_CLASS,median_outdegree,6-node,rest_of_network,11,28242,9.73376704807595e-12,1.94675340961519e-11,513,74,median in class vs median outside = 11 vs 1.5
+TOPOLOGY_CLASS,kruskal_betweenness,ALL_6_CLASSES,,24.1929554855467,5,0.000199337518779998,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_betweenness,3-miR,rest_of_network,0.000799324681457824,49743,8.40773089759745e-22,1.68154617951949e-21,438,149,median in class vs median outside = 8e-04 vs 0
+TOPOLOGY_CLASS,median_betweenness,3-TF,rest_of_network,0.000824442284258797,52299,6.9644526065343e-23,3.9936637123335e-22,426,161,median in class vs median outside = 8e-04 vs 1e-04
+TOPOLOGY_CLASS,median_betweenness,3-Comp,rest_of_network,0.000824442284258797,52511,1.3312212374445e-22,3.9936637123335e-22,424,163,median in class vs median outside = 8e-04 vs 1e-04
+TOPOLOGY_CLASS,median_betweenness,4-node,rest_of_network,0.000452663537088503,7540,8.45850392496211e-06,8.45850392496211e-06,571,16,median in class vs median outside = 5e-04 vs 0
+TOPOLOGY_CLASS,median_betweenness,5-node,rest_of_network,0.000482746255184773,16293,8.97276689938766e-11,1.07673202792652e-10,551,36,median in class vs median outside = 5e-04 vs 0
+TOPOLOGY_CLASS,median_betweenness,6-node,rest_of_network,0.000586908901737882,29637,4.73002231947843e-15,7.09503347921764e-15,513,74,median in class vs median outside = 6e-04 vs 0
+TOPOLOGY_CLASS,kruskal_clustering,ALL_6_CLASSES,,4.81618723705308,5,0.438722483508878,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_clustering,3-miR,rest_of_network,0.132843137254902,39991,3.85322589487373e-05,0.000142073115846932,438,149,median in class vs median outside = 0.1328 vs 0.0727
+TOPOLOGY_CLASS,median_clustering,3-TF,rest_of_network,0.132110536522301,41298,0.000132669606619796,0.000265339213239592,426,161,median in class vs median outside = 0.1321 vs 0.0833
+TOPOLOGY_CLASS,median_clustering,3-Comp,rest_of_network,0.132843137254902,42042,4.73577052823108e-05,0.000142073115846932,424,163,median in class vs median outside = 0.1328 vs 0.0769
+TOPOLOGY_CLASS,median_clustering,4-node,rest_of_network,0.125,6468.5,0.00450895555156129,0.00676343332734193,571,16,median in class vs median outside = 0.125 vs 0
+TOPOLOGY_CLASS,median_clustering,5-node,rest_of_network,0.125,12178.5,0.0218644077672897,0.0262372893207476,551,36,median in class vs median outside = 0.125 vs 0.0606
+TOPOLOGY_CLASS,median_clustering,6-node,rest_of_network,0.123232323232323,20493,0.267682703976417,0.267682703976417,513,74,median in class vs median outside = 0.1232 vs 0.1156
+TOPOLOGY_CLASS,kruskal_closeness,ALL_6_CLASSES,,15.7212778492376,5,0.00768657407194033,,2923,,"Kruskal-Wallis across the 6 class node sets. WARNING: the sets overlap heavily, so observations are not independent; interpret as a descriptive contrast only."
+TOPOLOGY_CLASS,median_closeness,3-miR,rest_of_network,0.368637406432742,47378,1.37301923632908e-16,8.23811541797451e-16,438,149,median in class vs median outside = 0.3686 vs 0.3008
+TOPOLOGY_CLASS,median_closeness,3-TF,rest_of_network,0.368753953194181,48471,8.9689818451565e-15,1.7937963690313e-14,426,161,median in class vs median outside = 0.3688 vs 0.309
+TOPOLOGY_CLASS,median_closeness,3-Comp,rest_of_network,0.368753953194181,48993.5,3.69425115571558e-15,1.10827534671467e-14,424,163,median in class vs median outside = 0.3688 vs 0.309
+TOPOLOGY_CLASS,median_closeness,4-node,rest_of_network,0.357230392156863,7451.5,1.56203589888687e-05,1.56203589888687e-05,571,16,median in class vs median outside = 0.3572 vs 0.2644
+TOPOLOGY_CLASS,median_closeness,5-node,rest_of_network,0.358548585485855,15402,2.46104663221492e-08,3.69156994832237e-08,551,36,median in class vs median outside = 0.3585 vs 0.2665
+TOPOLOGY_CLASS,median_closeness,6-node,rest_of_network,0.360321384425216,26331,6.5805847465929e-08,7.89670169591148e-08,513,74,median in class vs median outside = 0.3603 vs 0.2864
+TOPOLOGY_EXCLUSIVE,kruskal_degree,5-node+4-node,,0.0232777064612713,1,0.878737122013622,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_degree,5-node,,5.5,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_degree,4-node,,4,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,kruskal_indegree,5-node+4-node,,1.31443298969072,1,0.251593604245774,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_indegree,5-node,,1.5,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_indegree,4-node,,3,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,kruskal_outdegree,5-node+4-node,,1.31782945736434,1,0.250981967015347,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_outdegree,5-node,,4,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_outdegree,4-node,,1,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,kruskal_betweenness,5-node+4-node,,0.208962868117786,1,0.647581514494465,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_betweenness,5-node,,1.78337949045824e-05,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_betweenness,4-node,,8.70868517255972e-06,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,kruskal_clustering,5-node+4-node,,2.389108476065,1,0.122183291254704,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_clustering,5-node,,0,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_clustering,4-node,,0.1,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,kruskal_closeness,5-node+4-node,,0.0232180964575293,1,0.878891288228563,,17,,"Kruskal-Wallis on CLASS-EXCLUSIVE nodes only (non-overlapping, independent)"
+TOPOLOGY_EXCLUSIVE,median_closeness,5-node,,0.277092256257342,,,,2,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,median_closeness,4-node,,0.280693307655272,,,,15,,class-exclusive nodes only
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,3-miR,,0,,,,438,,nodes present in this class and in NO other class
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,3-TF,,0,,,,426,,nodes present in this class and in NO other class
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,3-Comp,,0,,,,424,,nodes present in this class and in NO other class
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,4-node,,15,,,,571,,nodes present in this class and in NO other class
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,5-node,,2,,,,551,,nodes present in this class and in NO other class
+TOPOLOGY_EXCLUSIVE,n_exclusive_nodes,6-node,,0,,,,513,,nodes present in this class and in NO other class
+TOPOLOGY_BYTYPE,kruskal_indegree_by_nodetype,TF|Gene|miRNA,,74.3693433789296,2,7.09418114818845e-17,,587,,"whole network, node types are disjoint so this test is valid"
+TOPOLOGY_BYTYPE,wilcox_BH_indegree,miRNA,Gene,,,,9.68445473968293e-17,223,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_indegree,TF,Gene,,,,0.00488682545949042,157,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_indegree,TF,miRNA,,,,3.5727837890779e-07,157,223,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,median_indegree,Gene,,16,,,,207,,whole network
+TOPOLOGY_BYTYPE,median_indegree,TF,,11,,,,157,,whole network
+TOPOLOGY_BYTYPE,median_indegree,miRNA,,6,,,,223,,whole network
+TOPOLOGY_BYTYPE,kruskal_outdegree_by_nodetype,TF|Gene|miRNA,,383.922897099013,2,4.28748048978107e-84,,587,,"whole network, node types are disjoint so this test is valid"
+TOPOLOGY_BYTYPE,wilcox_BH_outdegree,miRNA,Gene,,,,8.9805302933312e-68,223,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_outdegree,TF,Gene,,,,9.93844441620054e-55,157,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_outdegree,TF,miRNA,,,,2.91771884259873e-08,157,223,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,median_outdegree,Gene,,1,,,,207,,whole network
+TOPOLOGY_BYTYPE,median_outdegree,TF,,12,,,,157,,whole network
+TOPOLOGY_BYTYPE,median_outdegree,miRNA,,27,,,,223,,whole network
+TOPOLOGY_BYTYPE,kruskal_degree_by_nodetype,TF|Gene|miRNA,,48.1005787229379,2,3.58998010774079e-11,,587,,"whole network, node types are disjoint so this test is valid"
+TOPOLOGY_BYTYPE,wilcox_BH_degree,miRNA,Gene,,,,1.3533545399144e-11,223,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_degree,TF,Gene,,,,4.47786781633598e-05,157,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_degree,TF,miRNA,,,,0.0653679963384134,157,223,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,median_degree,Gene,,16,,,,207,,whole network
+TOPOLOGY_BYTYPE,median_degree,TF,,24,,,,157,,whole network
+TOPOLOGY_BYTYPE,median_degree,miRNA,,33,,,,223,,whole network
+TOPOLOGY_BYTYPE,kruskal_betweenness_by_nodetype,TF|Gene|miRNA,,191.458774437457,2,2.66229008608821e-42,,587,,"whole network, node types are disjoint so this test is valid"
+TOPOLOGY_BYTYPE,wilcox_BH_betweenness,miRNA,Gene,,,,1.75017452434793e-30,223,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_betweenness,TF,Gene,,,,1.51267757052874e-32,157,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_betweenness,TF,miRNA,,,,0.00026445859776585,157,223,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,median_betweenness,Gene,,7.10297500141723e-06,,,,207,,whole network
+TOPOLOGY_BYTYPE,median_betweenness,TF,,0.00134065462141714,,,,157,,whole network
+TOPOLOGY_BYTYPE,median_betweenness,miRNA,,0.000819798374249077,,,,223,,whole network
+TOPOLOGY_BYTYPE,kruskal_clustering_by_nodetype,TF|Gene|miRNA,,92.070144941578,2,1.01676842701874e-20,,587,,"whole network, node types are disjoint so this test is valid"
+TOPOLOGY_BYTYPE,wilcox_BH_clustering,miRNA,Gene,,,,0.0277733589251084,223,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_clustering,TF,Gene,,,,5.10919211438396e-22,157,207,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,wilcox_BH_clustering,TF,miRNA,,,,1.97043873144071e-11,157,223,"pairwise Wilcoxon, BH"
+TOPOLOGY_BYTYPE,median_clustering,Gene,,0.0809716599190283,,,,207,,whole network
+TOPOLOGY_BYTYPE,median_clustering,TF,,0.205128205128205,,,,157,,whole network
+TOPOLOGY_BYTYPE,median_clustering,miRNA,,0.107142857142857,,,,223,,whole network
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-miR,3-TF,0.969289019772823,,,,2333,2348,BH<0.05 & q<0.2 terms; shared=2304
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-miR,3-Comp,0.969289019772823,,,,2333,2348,BH<0.05 & q<0.2 terms; shared=2304
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-miR,4-node,0.857366158655725,,,,2333,2420,BH<0.05 & q<0.2 terms; shared=2194
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-miR,5-node,0.851446442533229,,,,2333,2403,BH<0.05 & q<0.2 terms; shared=2178
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-miR,6-node,0.865098039215686,,,,2333,2423,BH<0.05 & q<0.2 terms; shared=2206
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-TF,3-Comp,1,,,,2348,2348,BH<0.05 & q<0.2 terms; shared=2348
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-TF,4-node,0.847345989926385,,,,2348,2420,BH<0.05 & q<0.2 terms; shared=2187
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-TF,5-node,0.841472868217054,,,,2348,2403,BH<0.05 & q<0.2 terms; shared=2171
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-TF,6-node,0.852815533980582,,,,2348,2423,BH<0.05 & q<0.2 terms; shared=2196
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-Comp,4-node,0.847345989926385,,,,2348,2420,BH<0.05 & q<0.2 terms; shared=2187
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-Comp,5-node,0.841472868217054,,,,2348,2403,BH<0.05 & q<0.2 terms; shared=2171
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,3-Comp,6-node,0.852815533980582,,,,2348,2423,BH<0.05 & q<0.2 terms; shared=2196
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,4-node,5-node,0.974212034383954,,,,2420,2403,BH<0.05 & q<0.2 terms; shared=2380
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,4-node,6-node,0.935651478816946,,,,2420,2423,BH<0.05 & q<0.2 terms; shared=2341
+TERMSET_JACCARD,jaccard_sigterms_GO_BP,5-node,6-node,0.940490550864495,,,,2403,2423,BH<0.05 & q<0.2 terms; shared=2339
+COMPARECLUSTER,n_sig_terms_GO_BP,3-miR,,2333,,,,262,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_GO_BP,3-TF,,2348,,,,256,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_GO_BP,3-Comp,,2348,,,,256,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_GO_BP,4-node,,2420,,,,349,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_GO_BP,5-node,,2403,,,,337,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_GO_BP,6-node,,2423,,,,311,,significant terms in compareCluster
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-miR,3-TF,0.991071428571429,,,,112,111,BH<0.05 & q<0.2 terms; shared=111
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-miR,3-Comp,0.991071428571429,,,,112,111,BH<0.05 & q<0.2 terms; shared=111
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-miR,4-node,0.956140350877193,,,,112,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-miR,5-node,0.947368421052632,,,,112,110,BH<0.05 & q<0.2 terms; shared=108
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-miR,6-node,0.956140350877193,,,,112,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-TF,3-Comp,1,,,,111,111,BH<0.05 & q<0.2 terms; shared=111
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-TF,4-node,0.964601769911504,,,,111,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-TF,5-node,0.955752212389381,,,,111,110,BH<0.05 & q<0.2 terms; shared=108
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-TF,6-node,0.964601769911504,,,,111,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-Comp,4-node,0.964601769911504,,,,111,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-Comp,5-node,0.955752212389381,,,,111,110,BH<0.05 & q<0.2 terms; shared=108
+TERMSET_JACCARD,jaccard_sigterms_KEGG,3-Comp,6-node,0.964601769911504,,,,111,111,BH<0.05 & q<0.2 terms; shared=109
+TERMSET_JACCARD,jaccard_sigterms_KEGG,4-node,5-node,0.990990990990991,,,,111,110,BH<0.05 & q<0.2 terms; shared=110
+TERMSET_JACCARD,jaccard_sigterms_KEGG,4-node,6-node,0.982142857142857,,,,111,111,BH<0.05 & q<0.2 terms; shared=110
+TERMSET_JACCARD,jaccard_sigterms_KEGG,5-node,6-node,0.973214285714286,,,,110,111,BH<0.05 & q<0.2 terms; shared=109
+COMPARECLUSTER,n_sig_terms_KEGG,3-miR,,112,,,,262,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_KEGG,3-TF,,111,,,,256,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_KEGG,3-Comp,,111,,,,256,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_KEGG,4-node,,111,,,,349,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_KEGG,5-node,,110,,,,337,,significant terms in compareCluster
+COMPARECLUSTER,n_sig_terms_KEGG,6-node,,111,,,,311,,significant terms in compareCluster

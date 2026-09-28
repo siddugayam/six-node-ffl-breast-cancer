@@ -1,0 +1,4 @@
+KnockTF 2.0 datasets of network TFs: 425 (113 TFs); with >= 2 control and >= 2 treated samples: 274; knockdown verified and not duplicated: 149 (76 TFs); not verified: 119; duplicates: 6
+TRRUST: k = 61 datasets (26 TFs); pooled |log2FC| difference +0.0477 (95 % CI +0.0141 to +0.0814), p 0.00545; sign agreement 132/233 = 56.7 % (binomial p 0.0491) -> SUPPORTED
+hTFtarget-only: no edge of this kind in the analysed network (all 770 TF->target edges are in TRRUST v2) -> NOT FOUND
+all edges: k = 61 datasets (26 TFs); pooled |log2FC| difference +0.0481 (95 % CI +0.0145 to +0.0818), p 0.00505; sign agreement 132/233 = 56.7 % (binomial p 0.0491) -> SUPPORTED

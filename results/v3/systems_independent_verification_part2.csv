@@ -1,0 +1,42 @@
+section,item,independent_value,stored_value,agree,note
+B,nodes that are drivers in EVERY max matching (exhaustive),5,5,True,hsa-miR-1;hsa-miR-196a;hsa-miR-454;hsa-miR-487a;hsa-miR-767 | in-degree: 0;0;0;0;0
+B,...and they are exactly the in-degree-0 nodes,True,True,True,
+B,never a driver in 2000 sampled matchings (redundant),11,97,False,stored run reported 97
+B,always a driver in 2000 sampled matchings (critical),5,5,True,
+B,SP1 driver frequency (2000 matchings),0.182,see stored focus table,True,
+B,RELA driver frequency (2000 matchings),0.016,see stored focus table,True,
+B,NFKB1 driver frequency (2000 matchings),0.015,see stored focus table,True,
+B,hsa-miR-29a driver frequency (2000 matchings),0.067,see stored focus table,True,
+B,hsa-miR-29b driver frequency (2000 matchings),0.1,see stored focus table,True,
+B,hsa-miR-29c driver frequency (2000 matchings),0.153,see stored focus table,True,
+B,COL1A1 driver frequency (2000 matchings),0.042,see stored focus table,True,
+B,COL3A1 driver frequency (2000 matchings),0.0,see stored focus table,True,
+D,WT signed influence into COL1A1+COL3A1,4.878,4.878,True,
+D,single KO SP1 composite,0.046934,0.046934,True,dFFL 0.137053/0.137053  dReach 0.000000/0.0  dCOL 0.003751/0.003751; signed-dCOL variant = 0.046934
+D,single KO RELA composite,0.046005,0.046005,True,dFFL 0.121892/0.121892  dReach 0.010591/0.010591  dCOL 0.005531/0.005531; signed-dCOL variant = 0.046005
+D,single KO NFKB1 composite,0.038651,0.038651,True,dFFL 0.108551/0.108551  dReach 0.005206/0.005206  dCOL 0.002197/0.002197; signed-dCOL variant = 0.038651
+D,single KO VEGFA composite,0.038046,0.038046,True,dFFL 0.109157/0.109157  dReach 0.000000/0.0  dCOL -0.004980/-0.00498; signed-dCOL variant = 0.034726
+D,single KO CCND2 composite,0.033192,0.033192,True,dFFL 0.082474/0.082474  dReach 0.000000/0.0  dCOL -0.017103/-0.017103; signed-dCOL variant = 0.021790
+D,single KO STAT3 composite,0.029897,0.029897,True,dFFL 0.077623/0.077623  dReach 0.007875/0.007875  dCOL -0.004193/-0.004193; signed-dCOL variant = 0.027102
+D,single KO MKL1 composite,0.024003,0.024003,True,dFFL 0.000606/0.000606  dReach 0.000000/0.0  dCOL 0.071403/0.071403; signed-dCOL variant = 0.024003
+D,single KO TP53 composite,0.023678,0.023678,True,dFFL 0.046695/0.046695  dReach 0.018442/0.018442  dCOL -0.005898/-0.005898; signed-dCOL variant = 0.019747
+D,single KO MYC composite,0.023047,0.023047,True,dFFL 0.051546/0.051546  dReach 0.005201/0.005201  dCOL -0.012393/-0.012393; signed-dCOL variant = 0.014785
+D,single KO HIF1A composite,0.022566,0.022566,True,dFFL 0.054579/0.054579  dReach 0.001734/0.001734  dCOL -0.011386/-0.011386; signed-dCOL variant = 0.014976
+D,single KO hsa-miR-29a composite,0.011958,0.011958,True,dFFL 0.020012/0.020012  dReach 0.002707/0.002707  dCOL 0.013156/0.013156; signed-dCOL variant = 0.011958
+D,single KO hsa-miR-29b composite,0.016904,0.016904,True,dFFL 0.035779/0.035779  dReach 0.003477/0.003477  dCOL 0.011455/0.011455; signed-dCOL variant = 0.016904
+D,single KO hsa-miR-29c composite,0.014444,0.014444,True,dFFL 0.034566/0.034566  dReach 0.000000/0.0  dCOL 0.008765/0.008765; signed-dCOL variant = 0.014444
+D,single KO COL1A1 composite,0.002224,0.002224,True,dFFL 0.006671/0.006671  dReach 0.000000/0.0  dCOL nan/; signed-dCOL variant = 0.002224
+D,single KO COL3A1 composite,0.0,0.0,True,dFFL 0.000000/0.0  dReach 0.000000/0.0  dCOL nan/; signed-dCOL variant = 0.000000
+D,best pair RELA+SP1 composite,0.089324,0.089324,True,dFFL=0.248636 dReach=0.010615 dCOL=0.008722
+D,best single node,SP1,SP1,True,
+D,best single composite,0.046934,0.046934,True,
+D,best pair / best single ratio,1.903,1.903,True,
+D,synergy of best pair (pair - sum of singles),-0.00361,-0.003615,True,negative = sub-additive
+E,DE feature column holds symbols not row indices,"20745 features, 28 all-digit, 576 network nodes matched",assert passes,True,
+E,max column L1 norm of A,0.85,0.85,True,
+E,spectral radius rho(A),0.468,<= 0.85,True,
+E,best single perturbation [published signs],POU5F1 (+1) rho=0.1747,POU5F1 (+1) rho=+0.1768,False,
+E,Neumann iterations to 1e-12,33,34,True,
+E,Neumann vs closed-form max |diff|,2.34e-13,0,True,
+E,observed COL1A1/COL3A1 logFC,+2.351/+1.323,both positive,True,
+E,top upstream perturbations raising both collagens,MKL1 (+1);STAT6 (+1);hsa-miR-767 (-1);hsa-miR-196a (-1);hsa-miR-338 (-1);hsa-miR-193a (-1),MKL1; STAT6; hsa-miR-767; hsa-miR-196a; hsa-miR-338; hsa-miR-193a,True,

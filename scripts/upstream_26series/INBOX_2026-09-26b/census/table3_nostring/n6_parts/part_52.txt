@@ -1,0 +1,95 @@
+K 6
+nparts 64
+part 52
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 217573
+visited 44380037
+rng_final 42
+comp 1 2 3 70
+comp 1 3 2 1640
+comp 1 4 1 3302
+comp 2 1 3 8
+comp 2 2 2 3442
+comp 2 3 1 77379
+comp 2 4 0 257
+comp 3 1 2 915
+comp 3 2 1 80345
+comp 3 3 0 9120
+comp 4 0 2 56
+comp 4 1 1 12861
+comp 4 2 0 19366
+comp 5 0 1 1080
+comp 5 1 0 7267
+comp 6 0 0 465
+mask 2 465
+mask 3 1136
+mask 6 3815
+mask 7 151
+mask 11 5
+mask 12 215
+mask 13 72
+mask 14 46580
+mask 15 17599
+mask 17 1
+mask 18 1357
+mask 19 1172
+mask 20 3788
+mask 21 419
+mask 22 25793
+mask 23 2620
+mask 26 11
+mask 27 2007
+mask 28 37762
+mask 29 7446
+mask 30 33093
+mask 31 25662
+mask 46 8
+mask 47 3
+mask 70 221
+mask 71 8
+mask 76 446
+mask 77 40
+mask 78 1741
+mask 79 540
+mask 84 230
+mask 85 3
+mask 86 806
+mask 87 80
+mask 92 859
+mask 93 773
+mask 94 371
+mask 95 273
+mask 110 2
+flags 0 196256
+flags 1 2150
+flags 2 260
+flags 3 1154
+flags 6 3
+flags 7 10
+flags 8 16468
+flags 9 17
+flags 10 75
+flags 11 109
+flags 24 1067
+flags 26 2
+flags 27 2
+exflag 0 CREB1 AR VEGFA hsa-let-7a HIC1 hsa-miR-15b
+exflag 0 CREB1 AR VEGFA hsa-let-7a HIC1 hsa-miR-23a
+exflag 0 CREB1 AR VEGFA hsa-let-7a HIC1 hsa-miR-302a
+exflag 1 CREB1 AR EP300 VEGFA hsa-miR-23a HIC1
+exflag 1 CREB1 AR EP300 VEGFA hsa-miR-9 HIC1
+exflag 1 CREB1 AR FOS SMAD7 MET hsa-miR-101
+exflag 2 CREB1 AR hsa-let-7a COL1A1 COL3A1 hsa-miR-335
+exflag 2 CREB1 AR hsa-let-7c COL1A1 COL3A1 hsa-miR-335
+exflag 2 CREB1 AR hsa-miR-133b COL1A1 COL3A1 hsa-miR-335
+exflag 3 CREB1 AR CDH11 KLF5 hsa-miR-200b hsa-miR-21 | TF1=CREB1 TF2=AR miRNA=hsa-miR-21 target=CDH11
+exflag 3 CREB1 AR CDH11 KLF5 hsa-miR-200c hsa-miR-21 | TF1=CREB1 TF2=AR miRNA=hsa-miR-21 target=CDH11
+exflag 3 CREB1 AR CDH11 KLF5 hsa-miR-21 hsa-miR-429 | TF1=CREB1 TF2=AR miRNA=hsa-miR-21 target=CDH11
+exflag 4 CREB1 AR FOS MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 CREB1 AR FOS MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exflag 4 CREB1 AR MITF HIF1A VEGFA hsa-miR-20a | TF1=HIF1A TF2=AR miRNA=hsa-miR-20a target=VEGFA
+exmask 95 CREB1 AR CDH11 hsa-miR-335 hsa-miR-29b HIF1A
+exmask 95 CREB1 AR CDH11 hsa-miR-335 hsa-miR-29b STAT3
+exmask 95 CREB1 AR CDH11 hsa-miR-335 hsa-miR-29b YBX1

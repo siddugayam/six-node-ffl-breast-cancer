@@ -1,0 +1,81 @@
+K 6
+nparts 64
+part 38
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 151401
+visited 50951964
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 86
+comp 1 3 2 1293
+comp 1 4 1 3738
+comp 2 1 3 52
+comp 2 2 2 6807
+comp 2 3 1 72296
+comp 2 4 0 24
+comp 3 1 2 1273
+comp 3 2 1 42905
+comp 3 3 0 4290
+comp 4 0 2 103
+comp 4 1 1 8029
+comp 4 2 0 6451
+comp 5 0 1 877
+comp 5 1 0 2873
+comp 6 0 0 303
+mask 2 303
+mask 3 980
+mask 6 1908
+mask 7 192
+mask 11 61
+mask 12 527
+mask 13 435
+mask 14 43075
+mask 15 29338
+mask 18 49
+mask 19 42
+mask 20 1581
+mask 21 299
+mask 22 10100
+mask 23 2176
+mask 26 38
+mask 27 464
+mask 28 23905
+mask 29 7869
+mask 30 14846
+mask 31 13159
+mask 44 1
+mask 45 6
+mask 46 39
+mask 47 6
+mask 60 2
+flags 0 133011
+flags 1 4866
+flags 2 402
+flags 3 1603
+flags 6 6
+flags 7 39
+flags 8 6127
+flags 9 20
+flags 10 28
+flags 11 21
+flags 24 5014
+flags 25 114
+flags 26 6
+flags 27 144
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-130a STAT5A
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-20a IRF9
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-23a STAT5A
+exflag 1 NFKB2 CCND2 HIF1A AR hsa-miR-17 IRF9
+exflag 1 NFKB2 CCND2 HIF1A AR hsa-miR-20a IRF9
+exflag 1 NFKB2 CCND2 HIF1A E2F3 hsa-miR-106b IRF9
+exflag 2 SMAD3 FOXA2 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29a
+exflag 2 SMAD3 FOXA2 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29b
+exflag 2 SMAD3 FOXA2 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29c
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-let-7a | TF1=HIF1A TF2=AR miRNA=hsa-let-7a target=MYC
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-let-7c | TF1=AR TF2=MYC miRNA=hsa-let-7c target=CCND2
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-miR-145 | TF1=HIF1A TF2=AR miRNA=hsa-miR-145 target=MYC
+exflag 4 SMAD3 AHR BRCA1 CCND2 MYC hsa-miR-17 | TF1=SMAD3 TF2=MYC miRNA=hsa-miR-17 target=CCND2
+exflag 4 SMAD3 AHR BRCA1 CCND2 MYC hsa-miR-18a | TF1=SMAD3 TF2=MYC miRNA=hsa-miR-18a target=CCND2
+exflag 4 SMAD3 AHR BRCA1 CCND2 MYC hsa-miR-19a | TF1=SMAD3 TF2=MYC miRNA=hsa-miR-19a target=CCND2

@@ -1,0 +1,13 @@
+measure,node_set,n,spearman_vs_degree,spearman_p,kendall_vs_degree,top20_overlap,top20_jaccard
+current_flow_betweenness,all nodes,587,0.9545,1.44640044378151e-309,0.8233,12,0.429
+current_flow_betweenness,out-degree > 0 only,381,0.9594,2.470988678732503e-210,0.8328,14,0.538
+information_centrality,all nodes,587,0.9776,0.0,0.8807,11,0.379
+information_centrality,out-degree > 0 only,381,0.9819,8.372208995845275e-276,0.8905,15,0.6
+rw_throughput_betweenness,all nodes,587,0.4365,1.057431236435022e-28,0.3337,9,0.29
+rw_throughput_betweenness,out-degree > 0 only,381,0.7517,1.645220109127768e-70,0.5717,11,0.379
+rw_flux_in,all nodes,587,0.6793,1.132301448545062e-80,0.5018,8,0.25
+rw_flux_in,out-degree > 0 only,381,0.7517,1.645220109127768e-70,0.5717,11,0.379
+shortest_path_betweenness_directed,all nodes,587,0.4868,2.9561258137300807e-36,0.3912,14,0.538
+shortest_path_betweenness_directed,out-degree > 0 only,381,0.8522,1.1631677412324896e-108,0.6898,15,0.6
+ffl_participation,all nodes,587,0.7735,5.778961987147062e-118,0.6189,15,0.6
+ffl_participation,out-degree > 0 only,381,0.8607,3.7580174582840936e-113,0.7134,14,0.538

@@ -1,0 +1,85 @@
+                     network  algorithm     n     k modularity COL1A1_module
+                      <char>     <char> <int> <num>      <num>         <int>
+ 1:         full (587 nodes)    Louvain   587     7     0.2651           145
+ 2:         full (587 nodes) FastGreedy   587     8     0.2201           147
+ 3:         full (587 nodes)   Walktrap   587     4     0.0007           582
+ 4:         full (587 nodes)    Infomap   587     3     0.0011           582
+ 5:         full (587 nodes)  LabelProp   587     1     0.0000           587
+ 6:         full (587 nodes)     Leiden   587     7     0.2725            73
+ 7:             TF+gene only    Louvain   364    17     0.4777            72
+ 8:             TF+gene only FastGreedy   364    18     0.4855            36
+ 9:             TF+gene only   Walktrap   364    68     0.3296            13
+10:             TF+gene only    Infomap   364    51     0.4396             4
+11:             TF+gene only  LabelProp   364    11     0.0631           329
+12:             TF+gene only     Leiden   364    18     0.4891            36
+13:    TF->target layer only    Louvain   364    17     0.4809            46
+14:    TF->target layer only FastGreedy   364    17     0.4869            38
+15:    TF->target layer only   Walktrap   364    68     0.3296            13
+16:    TF->target layer only    Infomap   364    53     0.4390             7
+17:    TF->target layer only  LabelProp   364    11     0.0742           325
+18:    TF->target layer only     Leiden   364    16     0.4931            33
+19: miRNA->target layer only    Louvain   586     8     0.2907            52
+20: miRNA->target layer only FastGreedy   586     9     0.2659           145
+21: miRNA->target layer only   Walktrap   586   152     0.0321            36
+22: miRNA->target layer only    Infomap   586    11     0.0069           559
+23: miRNA->target layer only  LabelProp   586     2     0.0004           584
+24: miRNA->target layer only     Leiden   586     7     0.3035            67
+                     network  algorithm     n     k modularity COL1A1_module
+                      <char>     <char> <int> <num>      <num>         <int>
+    COL3A1_same miR29a_same ECM_in_module ECM_max_any_module ECM_exp      ECM_p
+         <lgcl>      <lgcl>         <int>              <int>   <num>      <num>
+ 1:        TRUE        TRUE             8                  8     7.7 0.49216928
+ 2:       FALSE       FALSE             6                 12     9.1 0.06631123
+ 3:        TRUE        TRUE            24                 24    23.9 0.87270910
+ 4:        TRUE        TRUE            23                 23    23.8 0.99133622
+ 5:        TRUE        TRUE            24                 24    24.0 1.00000000
+ 6:        TRUE       FALSE             4                  6     6.6 0.81006331
+ 7:        TRUE          NA             2                  5     5.7 0.81172942
+ 8:        TRUE          NA             4                  4     5.3 0.96201266
+ 9:        TRUE          NA             4                  8     8.1 0.59746751
+10:        TRUE          NA             3                  3     2.7 0.59146951
+11:        TRUE          NA            22                 22    21.7 0.58713762
+12:        TRUE          NA             2                  4     4.5 0.88603799
+13:        TRUE          NA             4                  5     4.9 0.59013662
+14:        TRUE          NA             5                  5     5.3 0.72275908
+15:        TRUE          NA             4                  8     8.1 0.58480506
+16:        TRUE          NA             3                  3     2.7 0.56781073
+17:        TRUE          NA            22                 22    21.5 0.52315895
+18:        TRUE          NA             3                  5     4.7 0.52515828
+19:       FALSE       FALSE             3                  8     6.3 0.16327891
+20:        TRUE        TRUE             9                  9     8.2 0.36554482
+21:       FALSE       FALSE             4                  5     4.1 0.29623459
+22:        TRUE        TRUE            24                 24    22.9 0.29790070
+23:        TRUE        TRUE            24                 24    23.9 0.92569144
+24:       FALSE       FALSE             2                  9     7.1 0.16594469
+    COL3A1_same miR29a_same ECM_in_module ECM_max_any_module ECM_exp      ECM_p
+         <lgcl>      <lgcl>         <int>              <int>   <num>      <num>
+    EMT_in_module EMT_exp
+            <int>   <num>
+ 1:            12    13.0
+ 2:             8    12.0
+ 3:            47    46.7
+ 4:            46    46.6
+ 5:            47    47.0
+ 6:             4     5.4
+ 7:             9     9.3
+ 8:             6     4.6
+ 9:             4     1.7
+10:             3     0.5
+11:            43    42.5
+12:             6     4.6
+13:             8     5.9
+14:             7     4.9
+15:             4     1.7
+16:             3     0.9
+17:            42    42.0
+18:             4     4.3
+19:             7     4.1
+20:            12    11.3
+21:             4     4.1
+22:            47    44.8
+23:            47    46.9
+24:             3     5.2
+    EMT_in_module EMT_exp
+            <int>   <num>
+exit 0

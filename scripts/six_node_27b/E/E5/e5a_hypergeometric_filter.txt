@@ -1,0 +1,15 @@
+md5 0110132995fc07b8e3cfa0032189e287  Hypergeometric_Test_2.xlsx
+md5 5d2ba5c05151761a643001521acc2503  Nmir.txt
+md5 d6212b51e6b54e966bc905a469b78980  Ntf.txt
+md5 361c2c8f7e230de356ed8f2d28c831aa  common-i.txt
+md5 ec4c13aa693f8078ff5dfe06171d3927  mirna-gene.txt
+md5 e024c284a4b7d67d6a9b9c21ac07d7ba  mirna-tf.txt
+md5 28d47380778d404e083f90eab6efc59e  tf-gene.txt
+md5 54d4311c318713eba806a35158057908  value.txt
+TF list entering the filter (Ntf.txt = regulators of tf-gene.txt): 795 TFs; identical to the 795 regulators of TRRUST v2 human (data/db/trrust_human.tsv): True; TF-target pairs 8427 vs TRRUST distinct pairs 8427; pairs differing only by Excel date conversion of target symbols: [('AR', '07-Sep'), ('CLOCK', '01-Dec'), ('HDAC2', '01-Dec'), ('TP63', '01-Dec')] / [('AR', 'SEPT7'), ('CLOCK', 'DEC1'), ('HDAC2', 'DEC1'), ('TP63', 'DEC1')]
+tested pairs 2676 (368 TF entries); retained (Yes) 1865 pairs with 236 distinct TF entries, of which non-symbol entries (Excel date serials): ['37226']
+of the 22: in the filter TF list 22; in a tested pair 22; among the retained TFs 14: ['BRCA1', 'CREBBP', 'CTNNB1', 'EP300', 'EZH2', 'HDAC2', 'HDAC3', 'HDAC4', 'HDAC9', 'MEN1', 'MTA1', 'NF1', 'SIRT1', 'VHL']; not retained: ['APEX1', 'BMI1', 'HDAC1', 'ILF3', 'MKL1', 'NCOR1', 'RB1', 'SUZ12']
+retained TF entries in the 795-TF filter list (Ntf.txt): 131; not in it: 105 (104 symbols and 1 Excel date serial), in 256 of the 1865 retained pairs: ['37226', 'AGO2', 'AKT1', 'AKT2', 'AKT3', 'AP-1', 'ASCL2', 'ATOH8', 'BANP', 'BCL2L2', 'BCR', 'BMP2', 'BMP4', 'BMP6', 'BMPR1A', 'BMPR1B', 'BRD4', 'CAMP', 'CCND1', 'CDK', 'CDK4', 'CDKN1A', 'CDKN2A', 'CFTR', 'CTGF', 'CXADR', 'DDX6', 'DNMT3B', 'DOK7', 'DPF2', 'EGFR', 'EIF2C2', 'EMSY', 'EMX2', 'ERK1/2', 'ETV6/RUNX1', 'F2', 'FGF21', 'FSH', 'GNRH1', 'GRHL2', 'HNF3A', 'HNF3B', 'HOXD10', 'IFNB1', 'IFNG', 'IL1B', 'IL4', 'IL6', 'ITGB3', 'JAG1', 'JMJD1C', 'KDM1A', 'KDM2B', 'KDM4A', 'KDM5B', 'KMT2A', 'LAMTOR5', 'LMX1A', 'LPS', 'MAPK/MK2', 'MAPK14', 'MECOM', 'MMP9', 'MRF4', 'MYF5', 'NF-Y', 'NR2E1', 'NR3B3', 'NSUN2', 'OGG1', 'PDGF', 'PDGF-B', 'PDGFA', 'PELP1', 'PIM1', 'PKM', 'PLK1', 'PRKCA', 'PRMT5', 'PTEN', 'PTPN1', 'REPIN1', 'RPS6KA5', 'SHP', 'SIP1', 'SIRT6', 'SLUG', 'SMG-1', 'SON', 'SSTR2', 'SUV39H1', 'TAF15', 'TAZ', 'TBX1', 'TGFB1', 'TLR2', 'TLR4', 'TNFSF12', 'TRIM32', 'TUT4', 'TUT7', 'UBE2I', 'ZBTB4', 'ZFP42']; tested pairs with a TF entry outside the list: 423 of 2676 (136 entries)
+workbook P-value = lower-tail cumulative hypergeometric P(X <= i) with a universe of N = 256 genes: max |difference| over the 2495 rows with a P-value = 1.67e-16 (181 rows have no P-value)
+retained pairs matched to the input block: 1864; sharing 0 targets: 1844; sharing >= 1: 20; sharing more targets than expected (Nmir*Ntf/N): 0; upper-tail (enrichment) p < 0.05: 0
+all tested pairs with upper-tail (enrichment) p < 0.05 at N = 256: 0 of 2676

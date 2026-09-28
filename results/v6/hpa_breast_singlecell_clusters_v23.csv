@@ -1,0 +1,651 @@
+gene,role,tissue,cluster,cell_type,read_count,nTPM
+E2F1,TF (prioritised),breast,c-0,t-cells,30,2.9
+E2F1,TF (prioritised),breast,c-1,breast glandular cells,37,1.6
+E2F1,TF (prioritised),breast,c-2,t-cells,44,5.5
+E2F1,TF (prioritised),breast,c-3,macrophages,23,2.4
+E2F1,TF (prioritised),breast,c-4,breast glandular cells,116,3.1
+E2F1,TF (prioritised),breast,c-5,fibroblasts,10,1.2
+E2F1,TF (prioritised),breast,c-6,adipocytes,10,0.9
+E2F1,TF (prioritised),breast,c-7,adipocytes,16,0.8
+E2F1,TF (prioritised),breast,c-8,adipocytes,17,0.7
+E2F1,TF (prioritised),breast,c-9,breast glandular cells,104,6.3
+E2F1,TF (prioritised),breast,c-10,t-cells,2,1.3
+E2F1,TF (prioritised),breast,c-11,breast glandular cells,33,4.6
+E2F1,TF (prioritised),breast,c-12,fibroblasts,1,0.4
+E2F1,TF (prioritised),breast,c-13,fibroblasts,5,1.0
+E2F1,TF (prioritised),breast,c-14,smooth muscle cells,8,1.3
+E2F1,TF (prioritised),breast,c-15,t-cells,14,5.6
+E2F1,TF (prioritised),breast,c-16,breast glandular cells,15,1.5
+E2F1,TF (prioritised),breast,c-17,breast glandular cells,19,2.3
+E2F1,TF (prioritised),breast,c-18,macrophages,21,2.5
+E2F1,TF (prioritised),breast,c-19,macrophages,15,2.8
+E2F1,TF (prioritised),breast,c-20,breast myoepithelial cells,27,2.3
+E2F1,TF (prioritised),breast,c-21,breast glandular cells,13,3.0
+E2F1,TF (prioritised),breast,c-22,endothelial cells,1,0.9
+E2F1,TF (prioritised),breast,c-23,adipocytes,2,0.9
+E2F1,TF (prioritised),breast,c-24,t-cells,0,0.0
+EZH2,TF (prioritised),breast,c-0,t-cells,575,55.9
+EZH2,TF (prioritised),breast,c-1,breast glandular cells,274,12.1
+EZH2,TF (prioritised),breast,c-2,t-cells,602,75.0
+EZH2,TF (prioritised),breast,c-3,macrophages,504,53.7
+EZH2,TF (prioritised),breast,c-4,breast glandular cells,483,12.8
+EZH2,TF (prioritised),breast,c-5,fibroblasts,38,4.4
+EZH2,TF (prioritised),breast,c-6,adipocytes,84,7.6
+EZH2,TF (prioritised),breast,c-7,adipocytes,143,7.6
+EZH2,TF (prioritised),breast,c-8,adipocytes,222,8.6
+EZH2,TF (prioritised),breast,c-9,breast glandular cells,204,12.3
+EZH2,TF (prioritised),breast,c-10,t-cells,37,23.3
+EZH2,TF (prioritised),breast,c-11,breast glandular cells,125,17.3
+EZH2,TF (prioritised),breast,c-12,fibroblasts,19,7.8
+EZH2,TF (prioritised),breast,c-13,fibroblasts,10,2.1
+EZH2,TF (prioritised),breast,c-14,smooth muscle cells,32,5.1
+EZH2,TF (prioritised),breast,c-15,t-cells,105,41.7
+EZH2,TF (prioritised),breast,c-16,breast glandular cells,357,34.7
+EZH2,TF (prioritised),breast,c-17,breast glandular cells,90,10.8
+EZH2,TF (prioritised),breast,c-18,macrophages,482,56.8
+EZH2,TF (prioritised),breast,c-19,macrophages,199,37.7
+EZH2,TF (prioritised),breast,c-20,breast myoepithelial cells,154,13.3
+EZH2,TF (prioritised),breast,c-21,breast glandular cells,39,9.1
+EZH2,TF (prioritised),breast,c-22,endothelial cells,3,2.6
+EZH2,TF (prioritised),breast,c-23,adipocytes,10,4.3
+EZH2,TF (prioritised),breast,c-24,t-cells,2,24.8
+GATA3,TF (prioritised),breast,c-0,t-cells,1225,119.1
+GATA3,TF (prioritised),breast,c-1,breast glandular cells,8484,373.3
+GATA3,TF (prioritised),breast,c-2,t-cells,788,98.1
+GATA3,TF (prioritised),breast,c-3,macrophages,85,9.1
+GATA3,TF (prioritised),breast,c-4,breast glandular cells,6786,180.1
+GATA3,TF (prioritised),breast,c-5,fibroblasts,46,5.4
+GATA3,TF (prioritised),breast,c-6,adipocytes,292,26.5
+GATA3,TF (prioritised),breast,c-7,adipocytes,406,21.6
+GATA3,TF (prioritised),breast,c-8,adipocytes,208,8.1
+GATA3,TF (prioritised),breast,c-9,breast glandular cells,3756,226.6
+GATA3,TF (prioritised),breast,c-10,t-cells,113,71.2
+GATA3,TF (prioritised),breast,c-11,breast glandular cells,609,84.4
+GATA3,TF (prioritised),breast,c-12,fibroblasts,37,15.2
+GATA3,TF (prioritised),breast,c-13,fibroblasts,4,0.8
+GATA3,TF (prioritised),breast,c-14,smooth muscle cells,57,9.1
+GATA3,TF (prioritised),breast,c-15,t-cells,166,65.9
+GATA3,TF (prioritised),breast,c-16,breast glandular cells,1199,116.7
+GATA3,TF (prioritised),breast,c-17,breast glandular cells,3548,427.4
+GATA3,TF (prioritised),breast,c-18,macrophages,470,55.4
+GATA3,TF (prioritised),breast,c-19,macrophages,50,9.5
+GATA3,TF (prioritised),breast,c-20,breast myoepithelial cells,1812,156.2
+GATA3,TF (prioritised),breast,c-21,breast glandular cells,1179,275.7
+GATA3,TF (prioritised),breast,c-22,endothelial cells,6,5.3
+GATA3,TF (prioritised),breast,c-23,adipocytes,31,13.4
+GATA3,TF (prioritised),breast,c-24,t-cells,0,0.0
+BRCA1,TF (prioritised),breast,c-0,t-cells,34,3.3
+BRCA1,TF (prioritised),breast,c-1,breast glandular cells,107,4.7
+BRCA1,TF (prioritised),breast,c-2,t-cells,37,4.6
+BRCA1,TF (prioritised),breast,c-3,macrophages,50,5.3
+BRCA1,TF (prioritised),breast,c-4,breast glandular cells,126,3.3
+BRCA1,TF (prioritised),breast,c-5,fibroblasts,33,3.8
+BRCA1,TF (prioritised),breast,c-6,adipocytes,32,2.9
+BRCA1,TF (prioritised),breast,c-7,adipocytes,87,4.6
+BRCA1,TF (prioritised),breast,c-8,adipocytes,166,6.5
+BRCA1,TF (prioritised),breast,c-9,breast glandular cells,124,7.5
+BRCA1,TF (prioritised),breast,c-10,t-cells,3,1.9
+BRCA1,TF (prioritised),breast,c-11,breast glandular cells,58,8.0
+BRCA1,TF (prioritised),breast,c-12,fibroblasts,9,3.7
+BRCA1,TF (prioritised),breast,c-13,fibroblasts,23,4.7
+BRCA1,TF (prioritised),breast,c-14,smooth muscle cells,15,2.4
+BRCA1,TF (prioritised),breast,c-15,t-cells,19,7.5
+BRCA1,TF (prioritised),breast,c-16,breast glandular cells,25,2.4
+BRCA1,TF (prioritised),breast,c-17,breast glandular cells,16,1.9
+BRCA1,TF (prioritised),breast,c-18,macrophages,45,5.3
+BRCA1,TF (prioritised),breast,c-19,macrophages,44,8.3
+BRCA1,TF (prioritised),breast,c-20,breast myoepithelial cells,54,4.7
+BRCA1,TF (prioritised),breast,c-21,breast glandular cells,10,2.3
+BRCA1,TF (prioritised),breast,c-22,endothelial cells,9,7.9
+BRCA1,TF (prioritised),breast,c-23,adipocytes,8,3.5
+BRCA1,TF (prioritised),breast,c-24,t-cells,0,0.0
+JUN,TF (prioritised),breast,c-0,t-cells,36828,3581.4
+JUN,TF (prioritised),breast,c-1,breast glandular cells,51674,2273.5
+JUN,TF (prioritised),breast,c-2,t-cells,27714,3450.5
+JUN,TF (prioritised),breast,c-3,macrophages,41879,4460.9
+JUN,TF (prioritised),breast,c-4,breast glandular cells,71743,1903.8
+JUN,TF (prioritised),breast,c-5,fibroblasts,34096,3975.2
+JUN,TF (prioritised),breast,c-6,adipocytes,18196,1652.5
+JUN,TF (prioritised),breast,c-7,adipocytes,39173,2080.8
+JUN,TF (prioritised),breast,c-8,adipocytes,103254,4019.4
+JUN,TF (prioritised),breast,c-9,breast glandular cells,15395,928.9
+JUN,TF (prioritised),breast,c-10,t-cells,661,416.3
+JUN,TF (prioritised),breast,c-11,breast glandular cells,11051,1532.0
+JUN,TF (prioritised),breast,c-12,fibroblasts,3808,1565.3
+JUN,TF (prioritised),breast,c-13,fibroblasts,10654,2195.8
+JUN,TF (prioritised),breast,c-14,smooth muscle cells,24368,3888.3
+JUN,TF (prioritised),breast,c-15,t-cells,4260,1690.3
+JUN,TF (prioritised),breast,c-16,breast glandular cells,26838,2611.3
+JUN,TF (prioritised),breast,c-17,breast glandular cells,9627,1159.8
+JUN,TF (prioritised),breast,c-18,macrophages,35647,4200.5
+JUN,TF (prioritised),breast,c-19,macrophages,10288,1946.5
+JUN,TF (prioritised),breast,c-20,breast myoepithelial cells,28571,2463.4
+JUN,TF (prioritised),breast,c-21,breast glandular cells,5455,1275.8
+JUN,TF (prioritised),breast,c-22,endothelial cells,1210,1063.3
+JUN,TF (prioritised),breast,c-23,adipocytes,4404,1905.7
+JUN,TF (prioritised),breast,c-24,t-cells,37,458.5
+EGR2,TF (prioritised),breast,c-0,t-cells,266,25.9
+EGR2,TF (prioritised),breast,c-1,breast glandular cells,543,23.9
+EGR2,TF (prioritised),breast,c-2,t-cells,223,27.8
+EGR2,TF (prioritised),breast,c-3,macrophages,1199,127.7
+EGR2,TF (prioritised),breast,c-4,breast glandular cells,3682,97.7
+EGR2,TF (prioritised),breast,c-5,fibroblasts,549,64.0
+EGR2,TF (prioritised),breast,c-6,adipocytes,281,25.5
+EGR2,TF (prioritised),breast,c-7,adipocytes,323,17.2
+EGR2,TF (prioritised),breast,c-8,adipocytes,462,18.0
+EGR2,TF (prioritised),breast,c-9,breast glandular cells,1601,96.6
+EGR2,TF (prioritised),breast,c-10,t-cells,20,12.6
+EGR2,TF (prioritised),breast,c-11,breast glandular cells,157,21.8
+EGR2,TF (prioritised),breast,c-12,fibroblasts,542,222.8
+EGR2,TF (prioritised),breast,c-13,fibroblasts,30,6.2
+EGR2,TF (prioritised),breast,c-14,smooth muscle cells,131,20.9
+EGR2,TF (prioritised),breast,c-15,t-cells,47,18.6
+EGR2,TF (prioritised),breast,c-16,breast glandular cells,111,10.8
+EGR2,TF (prioritised),breast,c-17,breast glandular cells,239,28.8
+EGR2,TF (prioritised),breast,c-18,macrophages,887,104.5
+EGR2,TF (prioritised),breast,c-19,macrophages,218,41.2
+EGR2,TF (prioritised),breast,c-20,breast myoepithelial cells,631,54.4
+EGR2,TF (prioritised),breast,c-21,breast glandular cells,156,36.5
+EGR2,TF (prioritised),breast,c-22,endothelial cells,6,5.3
+EGR2,TF (prioritised),breast,c-23,adipocytes,41,17.7
+EGR2,TF (prioritised),breast,c-24,t-cells,3,37.2
+ESR1,TF (prioritised),breast,c-0,t-cells,14,1.4
+ESR1,TF (prioritised),breast,c-1,breast glandular cells,1467,64.5
+ESR1,TF (prioritised),breast,c-2,t-cells,8,1.0
+ESR1,TF (prioritised),breast,c-3,macrophages,26,2.8
+ESR1,TF (prioritised),breast,c-4,breast glandular cells,2042,54.2
+ESR1,TF (prioritised),breast,c-5,fibroblasts,34,4.0
+ESR1,TF (prioritised),breast,c-6,adipocytes,49,4.5
+ESR1,TF (prioritised),breast,c-7,adipocytes,5,0.3
+ESR1,TF (prioritised),breast,c-8,adipocytes,36,1.4
+ESR1,TF (prioritised),breast,c-9,breast glandular cells,730,44.0
+ESR1,TF (prioritised),breast,c-10,t-cells,5,3.1
+ESR1,TF (prioritised),breast,c-11,breast glandular cells,87,12.1
+ESR1,TF (prioritised),breast,c-12,fibroblasts,15,6.2
+ESR1,TF (prioritised),breast,c-13,fibroblasts,46,9.5
+ESR1,TF (prioritised),breast,c-14,smooth muscle cells,21,3.4
+ESR1,TF (prioritised),breast,c-15,t-cells,1,0.4
+ESR1,TF (prioritised),breast,c-16,breast glandular cells,165,16.1
+ESR1,TF (prioritised),breast,c-17,breast glandular cells,2706,326.0
+ESR1,TF (prioritised),breast,c-18,macrophages,25,2.9
+ESR1,TF (prioritised),breast,c-19,macrophages,9,1.7
+ESR1,TF (prioritised),breast,c-20,breast myoepithelial cells,118,10.2
+ESR1,TF (prioritised),breast,c-21,breast glandular cells,830,194.1
+ESR1,TF (prioritised),breast,c-22,endothelial cells,0,0.0
+ESR1,TF (prioritised),breast,c-23,adipocytes,2,0.9
+ESR1,TF (prioritised),breast,c-24,t-cells,0,0.0
+SREBF1,TF (prioritised),breast,c-0,t-cells,133,12.9
+SREBF1,TF (prioritised),breast,c-1,breast glandular cells,1320,58.1
+SREBF1,TF (prioritised),breast,c-2,t-cells,121,15.1
+SREBF1,TF (prioritised),breast,c-3,macrophages,272,29.0
+SREBF1,TF (prioritised),breast,c-4,breast glandular cells,1264,33.5
+SREBF1,TF (prioritised),breast,c-5,fibroblasts,183,21.3
+SREBF1,TF (prioritised),breast,c-6,adipocytes,104,9.4
+SREBF1,TF (prioritised),breast,c-7,adipocytes,117,6.2
+SREBF1,TF (prioritised),breast,c-8,adipocytes,178,6.9
+SREBF1,TF (prioritised),breast,c-9,breast glandular cells,524,31.6
+SREBF1,TF (prioritised),breast,c-10,t-cells,23,14.5
+SREBF1,TF (prioritised),breast,c-11,breast glandular cells,288,39.9
+SREBF1,TF (prioritised),breast,c-12,fibroblasts,17,7.0
+SREBF1,TF (prioritised),breast,c-13,fibroblasts,85,17.5
+SREBF1,TF (prioritised),breast,c-14,smooth muscle cells,62,9.9
+SREBF1,TF (prioritised),breast,c-15,t-cells,38,15.1
+SREBF1,TF (prioritised),breast,c-16,breast glandular cells,1523,148.2
+SREBF1,TF (prioritised),breast,c-17,breast glandular cells,481,57.9
+SREBF1,TF (prioritised),breast,c-18,macrophages,209,24.6
+SREBF1,TF (prioritised),breast,c-19,macrophages,96,18.2
+SREBF1,TF (prioritised),breast,c-20,breast myoepithelial cells,341,29.4
+SREBF1,TF (prioritised),breast,c-21,breast glandular cells,325,76.0
+SREBF1,TF (prioritised),breast,c-22,endothelial cells,19,16.7
+SREBF1,TF (prioritised),breast,c-23,adipocytes,18,7.8
+SREBF1,TF (prioritised),breast,c-24,t-cells,0,0.0
+DNMT1,TF (prioritised),breast,c-0,t-cells,787,76.5
+DNMT1,TF (prioritised),breast,c-1,breast glandular cells,866,38.1
+DNMT1,TF (prioritised),breast,c-2,t-cells,594,74.0
+DNMT1,TF (prioritised),breast,c-3,macrophages,626,66.7
+DNMT1,TF (prioritised),breast,c-4,breast glandular cells,1032,27.4
+DNMT1,TF (prioritised),breast,c-5,fibroblasts,212,24.7
+DNMT1,TF (prioritised),breast,c-6,adipocytes,353,32.1
+DNMT1,TF (prioritised),breast,c-7,adipocytes,817,43.4
+DNMT1,TF (prioritised),breast,c-8,adipocytes,911,35.5
+DNMT1,TF (prioritised),breast,c-9,breast glandular cells,649,39.2
+DNMT1,TF (prioritised),breast,c-10,t-cells,101,63.6
+DNMT1,TF (prioritised),breast,c-11,breast glandular cells,224,31.1
+DNMT1,TF (prioritised),breast,c-12,fibroblasts,55,22.6
+DNMT1,TF (prioritised),breast,c-13,fibroblasts,133,27.4
+DNMT1,TF (prioritised),breast,c-14,smooth muscle cells,148,23.6
+DNMT1,TF (prioritised),breast,c-15,t-cells,155,61.5
+DNMT1,TF (prioritised),breast,c-16,breast glandular cells,197,19.2
+DNMT1,TF (prioritised),breast,c-17,breast glandular cells,301,36.3
+DNMT1,TF (prioritised),breast,c-18,macrophages,594,70.0
+DNMT1,TF (prioritised),breast,c-19,macrophages,309,58.5
+DNMT1,TF (prioritised),breast,c-20,breast myoepithelial cells,371,32.0
+DNMT1,TF (prioritised),breast,c-21,breast glandular cells,165,38.6
+DNMT1,TF (prioritised),breast,c-22,endothelial cells,28,24.6
+DNMT1,TF (prioritised),breast,c-23,adipocytes,77,33.3
+DNMT1,TF (prioritised),breast,c-24,t-cells,1,12.4
+E2F3,TF (prioritised),breast,c-0,t-cells,103,10.0
+E2F3,TF (prioritised),breast,c-1,breast glandular cells,238,10.5
+E2F3,TF (prioritised),breast,c-2,t-cells,78,9.7
+E2F3,TF (prioritised),breast,c-3,macrophages,105,11.2
+E2F3,TF (prioritised),breast,c-4,breast glandular cells,588,15.6
+E2F3,TF (prioritised),breast,c-5,fibroblasts,48,5.6
+E2F3,TF (prioritised),breast,c-6,adipocytes,74,6.7
+E2F3,TF (prioritised),breast,c-7,adipocytes,71,3.8
+E2F3,TF (prioritised),breast,c-8,adipocytes,108,4.2
+E2F3,TF (prioritised),breast,c-9,breast glandular cells,316,19.1
+E2F3,TF (prioritised),breast,c-10,t-cells,14,8.8
+E2F3,TF (prioritised),breast,c-11,breast glandular cells,53,7.3
+E2F3,TF (prioritised),breast,c-12,fibroblasts,40,16.4
+E2F3,TF (prioritised),breast,c-13,fibroblasts,15,3.1
+E2F3,TF (prioritised),breast,c-14,smooth muscle cells,45,7.2
+E2F3,TF (prioritised),breast,c-15,t-cells,23,9.1
+E2F3,TF (prioritised),breast,c-16,breast glandular cells,34,3.3
+E2F3,TF (prioritised),breast,c-17,breast glandular cells,131,15.8
+E2F3,TF (prioritised),breast,c-18,macrophages,75,8.8
+E2F3,TF (prioritised),breast,c-19,macrophages,60,11.4
+E2F3,TF (prioritised),breast,c-20,breast myoepithelial cells,70,6.0
+E2F3,TF (prioritised),breast,c-21,breast glandular cells,24,5.6
+E2F3,TF (prioritised),breast,c-22,endothelial cells,1,0.9
+E2F3,TF (prioritised),breast,c-23,adipocytes,8,3.5
+E2F3,TF (prioritised),breast,c-24,t-cells,0,0.0
+CCND2,gene (prioritised),breast,c-0,t-cells,1534,149.2
+CCND2,gene (prioritised),breast,c-1,breast glandular cells,88,3.9
+CCND2,gene (prioritised),breast,c-2,t-cells,1231,153.3
+CCND2,gene (prioritised),breast,c-3,macrophages,583,62.1
+CCND2,gene (prioritised),breast,c-4,breast glandular cells,96,2.5
+CCND2,gene (prioritised),breast,c-5,fibroblasts,641,74.7
+CCND2,gene (prioritised),breast,c-6,adipocytes,229,20.8
+CCND2,gene (prioritised),breast,c-7,adipocytes,445,23.6
+CCND2,gene (prioritised),breast,c-8,adipocytes,840,32.7
+CCND2,gene (prioritised),breast,c-9,breast glandular cells,105,6.3
+CCND2,gene (prioritised),breast,c-10,t-cells,310,195.2
+CCND2,gene (prioritised),breast,c-11,breast glandular cells,24,3.3
+CCND2,gene (prioritised),breast,c-12,fibroblasts,225,92.5
+CCND2,gene (prioritised),breast,c-13,fibroblasts,256,52.8
+CCND2,gene (prioritised),breast,c-14,smooth muscle cells,312,49.8
+CCND2,gene (prioritised),breast,c-15,t-cells,435,172.6
+CCND2,gene (prioritised),breast,c-16,breast glandular cells,70,6.8
+CCND2,gene (prioritised),breast,c-17,breast glandular cells,11,1.3
+CCND2,gene (prioritised),breast,c-18,macrophages,893,105.2
+CCND2,gene (prioritised),breast,c-19,macrophages,398,75.3
+CCND2,gene (prioritised),breast,c-20,breast myoepithelial cells,568,49.0
+CCND2,gene (prioritised),breast,c-21,breast glandular cells,10,2.3
+CCND2,gene (prioritised),breast,c-22,endothelial cells,49,43.1
+CCND2,gene (prioritised),breast,c-23,adipocytes,90,38.9
+CCND2,gene (prioritised),breast,c-24,t-cells,6,74.4
+COL1A1,gene (prioritised),breast,c-0,t-cells,45,4.4
+COL1A1,gene (prioritised),breast,c-1,breast glandular cells,134,5.9
+COL1A1,gene (prioritised),breast,c-2,t-cells,23,2.9
+COL1A1,gene (prioritised),breast,c-3,macrophages,28,3.0
+COL1A1,gene (prioritised),breast,c-4,breast glandular cells,121,3.2
+COL1A1,gene (prioritised),breast,c-5,fibroblasts,19615,2286.9
+COL1A1,gene (prioritised),breast,c-6,adipocytes,191,17.3
+COL1A1,gene (prioritised),breast,c-7,adipocytes,88,4.7
+COL1A1,gene (prioritised),breast,c-8,adipocytes,835,32.5
+COL1A1,gene (prioritised),breast,c-9,breast glandular cells,125,7.5
+COL1A1,gene (prioritised),breast,c-10,t-cells,15,9.4
+COL1A1,gene (prioritised),breast,c-11,breast glandular cells,58,8.0
+COL1A1,gene (prioritised),breast,c-12,fibroblasts,5024,2065.1
+COL1A1,gene (prioritised),breast,c-13,fibroblasts,7138,1471.1
+COL1A1,gene (prioritised),breast,c-14,smooth muscle cells,779,124.3
+COL1A1,gene (prioritised),breast,c-15,t-cells,14,5.6
+COL1A1,gene (prioritised),breast,c-16,breast glandular cells,198,19.3
+COL1A1,gene (prioritised),breast,c-17,breast glandular cells,39,4.7
+COL1A1,gene (prioritised),breast,c-18,macrophages,26,3.1
+COL1A1,gene (prioritised),breast,c-19,macrophages,392,74.2
+COL1A1,gene (prioritised),breast,c-20,breast myoepithelial cells,114,9.8
+COL1A1,gene (prioritised),breast,c-21,breast glandular cells,14,3.3
+COL1A1,gene (prioritised),breast,c-22,endothelial cells,1,0.9
+COL1A1,gene (prioritised),breast,c-23,adipocytes,599,259.2
+COL1A1,gene (prioritised),breast,c-24,t-cells,1,12.4
+STAT5A,gene (prioritised),breast,c-0,t-cells,314,30.5
+STAT5A,gene (prioritised),breast,c-1,breast glandular cells,368,16.2
+STAT5A,gene (prioritised),breast,c-2,t-cells,199,24.8
+STAT5A,gene (prioritised),breast,c-3,macrophages,271,28.9
+STAT5A,gene (prioritised),breast,c-4,breast glandular cells,938,24.9
+STAT5A,gene (prioritised),breast,c-5,fibroblasts,99,11.5
+STAT5A,gene (prioritised),breast,c-6,adipocytes,173,15.7
+STAT5A,gene (prioritised),breast,c-7,adipocytes,189,10.0
+STAT5A,gene (prioritised),breast,c-8,adipocytes,353,13.7
+STAT5A,gene (prioritised),breast,c-9,breast glandular cells,561,33.8
+STAT5A,gene (prioritised),breast,c-10,t-cells,38,23.9
+STAT5A,gene (prioritised),breast,c-11,breast glandular cells,310,43.0
+STAT5A,gene (prioritised),breast,c-12,fibroblasts,16,6.6
+STAT5A,gene (prioritised),breast,c-13,fibroblasts,79,16.3
+STAT5A,gene (prioritised),breast,c-14,smooth muscle cells,69,11.0
+STAT5A,gene (prioritised),breast,c-15,t-cells,47,18.6
+STAT5A,gene (prioritised),breast,c-16,breast glandular cells,1653,160.8
+STAT5A,gene (prioritised),breast,c-17,breast glandular cells,83,10.0
+STAT5A,gene (prioritised),breast,c-18,macrophages,249,29.3
+STAT5A,gene (prioritised),breast,c-19,macrophages,170,32.2
+STAT5A,gene (prioritised),breast,c-20,breast myoepithelial cells,256,22.1
+STAT5A,gene (prioritised),breast,c-21,breast glandular cells,30,7.0
+STAT5A,gene (prioritised),breast,c-22,endothelial cells,14,12.3
+STAT5A,gene (prioritised),breast,c-23,adipocytes,26,11.3
+STAT5A,gene (prioritised),breast,c-24,t-cells,2,24.8
+MYBL2,gene (prioritised),breast,c-0,t-cells,5,0.5
+MYBL2,gene (prioritised),breast,c-1,breast glandular cells,47,2.1
+MYBL2,gene (prioritised),breast,c-2,t-cells,7,0.9
+MYBL2,gene (prioritised),breast,c-3,macrophages,11,1.2
+MYBL2,gene (prioritised),breast,c-4,breast glandular cells,48,1.3
+MYBL2,gene (prioritised),breast,c-5,fibroblasts,0,0.0
+MYBL2,gene (prioritised),breast,c-6,adipocytes,6,0.5
+MYBL2,gene (prioritised),breast,c-7,adipocytes,0,0.0
+MYBL2,gene (prioritised),breast,c-8,adipocytes,3,0.1
+MYBL2,gene (prioritised),breast,c-9,breast glandular cells,124,7.5
+MYBL2,gene (prioritised),breast,c-10,t-cells,1,0.6
+MYBL2,gene (prioritised),breast,c-11,breast glandular cells,17,2.4
+MYBL2,gene (prioritised),breast,c-12,fibroblasts,1,0.4
+MYBL2,gene (prioritised),breast,c-13,fibroblasts,0,0.0
+MYBL2,gene (prioritised),breast,c-14,smooth muscle cells,1,0.2
+MYBL2,gene (prioritised),breast,c-15,t-cells,10,4.0
+MYBL2,gene (prioritised),breast,c-16,breast glandular cells,1,0.1
+MYBL2,gene (prioritised),breast,c-17,breast glandular cells,0,0.0
+MYBL2,gene (prioritised),breast,c-18,macrophages,13,1.5
+MYBL2,gene (prioritised),breast,c-19,macrophages,35,6.6
+MYBL2,gene (prioritised),breast,c-20,breast myoepithelial cells,10,0.9
+MYBL2,gene (prioritised),breast,c-21,breast glandular cells,0,0.0
+MYBL2,gene (prioritised),breast,c-22,endothelial cells,0,0.0
+MYBL2,gene (prioritised),breast,c-23,adipocytes,0,0.0
+MYBL2,gene (prioritised),breast,c-24,t-cells,0,0.0
+FN1,gene (prioritised),breast,c-0,t-cells,11,1.1
+FN1,gene (prioritised),breast,c-1,breast glandular cells,90,4.0
+FN1,gene (prioritised),breast,c-2,t-cells,7,0.9
+FN1,gene (prioritised),breast,c-3,macrophages,32,3.4
+FN1,gene (prioritised),breast,c-4,breast glandular cells,44,1.2
+FN1,gene (prioritised),breast,c-5,fibroblasts,1547,180.4
+FN1,gene (prioritised),breast,c-6,adipocytes,638,57.9
+FN1,gene (prioritised),breast,c-7,adipocytes,388,20.6
+FN1,gene (prioritised),breast,c-8,adipocytes,2520,98.1
+FN1,gene (prioritised),breast,c-9,breast glandular cells,44,2.7
+FN1,gene (prioritised),breast,c-10,t-cells,5,3.1
+FN1,gene (prioritised),breast,c-11,breast glandular cells,24,3.3
+FN1,gene (prioritised),breast,c-12,fibroblasts,356,146.3
+FN1,gene (prioritised),breast,c-13,fibroblasts,1330,274.1
+FN1,gene (prioritised),breast,c-14,smooth muscle cells,428,68.3
+FN1,gene (prioritised),breast,c-15,t-cells,5,2.0
+FN1,gene (prioritised),breast,c-16,breast glandular cells,106,10.3
+FN1,gene (prioritised),breast,c-17,breast glandular cells,36,4.3
+FN1,gene (prioritised),breast,c-18,macrophages,21,2.5
+FN1,gene (prioritised),breast,c-19,macrophages,225,42.6
+FN1,gene (prioritised),breast,c-20,breast myoepithelial cells,57,4.9
+FN1,gene (prioritised),breast,c-21,breast glandular cells,10,2.3
+FN1,gene (prioritised),breast,c-22,endothelial cells,200,175.8
+FN1,gene (prioritised),breast,c-23,adipocytes,124,53.7
+FN1,gene (prioritised),breast,c-24,t-cells,2,24.8
+PDGFRB,gene (prioritised),breast,c-0,t-cells,11,1.1
+PDGFRB,gene (prioritised),breast,c-1,breast glandular cells,28,1.2
+PDGFRB,gene (prioritised),breast,c-2,t-cells,12,1.5
+PDGFRB,gene (prioritised),breast,c-3,macrophages,16,1.7
+PDGFRB,gene (prioritised),breast,c-4,breast glandular cells,27,0.7
+PDGFRB,gene (prioritised),breast,c-5,fibroblasts,1987,231.7
+PDGFRB,gene (prioritised),breast,c-6,adipocytes,373,33.9
+PDGFRB,gene (prioritised),breast,c-7,adipocytes,1212,64.4
+PDGFRB,gene (prioritised),breast,c-8,adipocytes,2814,109.5
+PDGFRB,gene (prioritised),breast,c-9,breast glandular cells,14,0.8
+PDGFRB,gene (prioritised),breast,c-10,t-cells,4,2.5
+PDGFRB,gene (prioritised),breast,c-11,breast glandular cells,11,1.5
+PDGFRB,gene (prioritised),breast,c-12,fibroblasts,453,186.2
+PDGFRB,gene (prioritised),breast,c-13,fibroblasts,798,164.5
+PDGFRB,gene (prioritised),breast,c-14,smooth muscle cells,1401,223.5
+PDGFRB,gene (prioritised),breast,c-15,t-cells,20,7.9
+PDGFRB,gene (prioritised),breast,c-16,breast glandular cells,34,3.3
+PDGFRB,gene (prioritised),breast,c-17,breast glandular cells,5,0.6
+PDGFRB,gene (prioritised),breast,c-18,macrophages,10,1.2
+PDGFRB,gene (prioritised),breast,c-19,macrophages,39,7.4
+PDGFRB,gene (prioritised),breast,c-20,breast myoepithelial cells,38,3.3
+PDGFRB,gene (prioritised),breast,c-21,breast glandular cells,6,1.4
+PDGFRB,gene (prioritised),breast,c-22,endothelial cells,1,0.9
+PDGFRB,gene (prioritised),breast,c-23,adipocytes,265,114.7
+PDGFRB,gene (prioritised),breast,c-24,t-cells,0,0.0
+MET,gene (prioritised),breast,c-0,t-cells,3,0.3
+MET,gene (prioritised),breast,c-1,breast glandular cells,126,5.5
+MET,gene (prioritised),breast,c-2,t-cells,0,0.0
+MET,gene (prioritised),breast,c-3,macrophages,5,0.5
+MET,gene (prioritised),breast,c-4,breast glandular cells,377,10.0
+MET,gene (prioritised),breast,c-5,fibroblasts,2,0.2
+MET,gene (prioritised),breast,c-6,adipocytes,443,40.2
+MET,gene (prioritised),breast,c-7,adipocytes,405,21.5
+MET,gene (prioritised),breast,c-8,adipocytes,952,37.1
+MET,gene (prioritised),breast,c-9,breast glandular cells,26,1.6
+MET,gene (prioritised),breast,c-10,t-cells,2,1.3
+MET,gene (prioritised),breast,c-11,breast glandular cells,10,1.4
+MET,gene (prioritised),breast,c-12,fibroblasts,0,0.0
+MET,gene (prioritised),breast,c-13,fibroblasts,1,0.2
+MET,gene (prioritised),breast,c-14,smooth muscle cells,6,1.0
+MET,gene (prioritised),breast,c-15,t-cells,1,0.4
+MET,gene (prioritised),breast,c-16,breast glandular cells,13,1.3
+MET,gene (prioritised),breast,c-17,breast glandular cells,19,2.3
+MET,gene (prioritised),breast,c-18,macrophages,0,0.0
+MET,gene (prioritised),breast,c-19,macrophages,1,0.2
+MET,gene (prioritised),breast,c-20,breast myoepithelial cells,95,8.2
+MET,gene (prioritised),breast,c-21,breast glandular cells,122,28.5
+MET,gene (prioritised),breast,c-22,endothelial cells,21,18.5
+MET,gene (prioritised),breast,c-23,adipocytes,19,8.2
+MET,gene (prioritised),breast,c-24,t-cells,1,12.4
+CXCL12,gene (prioritised),breast,c-0,t-cells,37,3.6
+CXCL12,gene (prioritised),breast,c-1,breast glandular cells,118,5.2
+CXCL12,gene (prioritised),breast,c-2,t-cells,38,4.7
+CXCL12,gene (prioritised),breast,c-3,macrophages,241,25.7
+CXCL12,gene (prioritised),breast,c-4,breast glandular cells,146,3.9
+CXCL12,gene (prioritised),breast,c-5,fibroblasts,13364,1558.1
+CXCL12,gene (prioritised),breast,c-6,adipocytes,1527,138.7
+CXCL12,gene (prioritised),breast,c-7,adipocytes,4744,252.0
+CXCL12,gene (prioritised),breast,c-8,adipocytes,7322,285.0
+CXCL12,gene (prioritised),breast,c-9,breast glandular cells,101,6.1
+CXCL12,gene (prioritised),breast,c-10,t-cells,16,10.1
+CXCL12,gene (prioritised),breast,c-11,breast glandular cells,41,5.7
+CXCL12,gene (prioritised),breast,c-12,fibroblasts,2228,915.8
+CXCL12,gene (prioritised),breast,c-13,fibroblasts,8066,1662.4
+CXCL12,gene (prioritised),breast,c-14,smooth muscle cells,1181,188.4
+CXCL12,gene (prioritised),breast,c-15,t-cells,26,10.3
+CXCL12,gene (prioritised),breast,c-16,breast glandular cells,119,11.6
+CXCL12,gene (prioritised),breast,c-17,breast glandular cells,67,8.1
+CXCL12,gene (prioritised),breast,c-18,macrophages,107,12.6
+CXCL12,gene (prioritised),breast,c-19,macrophages,330,62.4
+CXCL12,gene (prioritised),breast,c-20,breast myoepithelial cells,135,11.6
+CXCL12,gene (prioritised),breast,c-21,breast glandular cells,44,10.3
+CXCL12,gene (prioritised),breast,c-22,endothelial cells,1,0.9
+CXCL12,gene (prioritised),breast,c-23,adipocytes,1265,547.4
+CXCL12,gene (prioritised),breast,c-24,t-cells,6,74.4
+MMP14,gene (prioritised),breast,c-0,t-cells,6,0.6
+MMP14,gene (prioritised),breast,c-1,breast glandular cells,224,9.9
+MMP14,gene (prioritised),breast,c-2,t-cells,6,0.7
+MMP14,gene (prioritised),breast,c-3,macrophages,235,25.0
+MMP14,gene (prioritised),breast,c-4,breast glandular cells,493,13.1
+MMP14,gene (prioritised),breast,c-5,fibroblasts,777,90.6
+MMP14,gene (prioritised),breast,c-6,adipocytes,111,10.1
+MMP14,gene (prioritised),breast,c-7,adipocytes,101,5.4
+MMP14,gene (prioritised),breast,c-8,adipocytes,276,10.7
+MMP14,gene (prioritised),breast,c-9,breast glandular cells,266,16.0
+MMP14,gene (prioritised),breast,c-10,t-cells,0,0.0
+MMP14,gene (prioritised),breast,c-11,breast glandular cells,43,6.0
+MMP14,gene (prioritised),breast,c-12,fibroblasts,266,109.3
+MMP14,gene (prioritised),breast,c-13,fibroblasts,219,45.1
+MMP14,gene (prioritised),breast,c-14,smooth muscle cells,109,17.4
+MMP14,gene (prioritised),breast,c-15,t-cells,0,0.0
+MMP14,gene (prioritised),breast,c-16,breast glandular cells,110,10.7
+MMP14,gene (prioritised),breast,c-17,breast glandular cells,117,14.1
+MMP14,gene (prioritised),breast,c-18,macrophages,137,16.1
+MMP14,gene (prioritised),breast,c-19,macrophages,71,13.4
+MMP14,gene (prioritised),breast,c-20,breast myoepithelial cells,130,11.2
+MMP14,gene (prioritised),breast,c-21,breast glandular cells,56,13.1
+MMP14,gene (prioritised),breast,c-22,endothelial cells,18,15.8
+MMP14,gene (prioritised),breast,c-23,adipocytes,29,12.5
+MMP14,gene (prioritised),breast,c-24,t-cells,0,0.0
+PLAU,gene (prioritised),breast,c-0,t-cells,17,1.7
+PLAU,gene (prioritised),breast,c-1,breast glandular cells,35,1.5
+PLAU,gene (prioritised),breast,c-2,t-cells,6,0.7
+PLAU,gene (prioritised),breast,c-3,macrophages,1829,194.8
+PLAU,gene (prioritised),breast,c-4,breast glandular cells,230,6.1
+PLAU,gene (prioritised),breast,c-5,fibroblasts,382,44.5
+PLAU,gene (prioritised),breast,c-6,adipocytes,239,21.7
+PLAU,gene (prioritised),breast,c-7,adipocytes,826,43.9
+PLAU,gene (prioritised),breast,c-8,adipocytes,916,35.7
+PLAU,gene (prioritised),breast,c-9,breast glandular cells,86,5.2
+PLAU,gene (prioritised),breast,c-10,t-cells,5,3.1
+PLAU,gene (prioritised),breast,c-11,breast glandular cells,11,1.5
+PLAU,gene (prioritised),breast,c-12,fibroblasts,72,29.6
+PLAU,gene (prioritised),breast,c-13,fibroblasts,154,31.7
+PLAU,gene (prioritised),breast,c-14,smooth muscle cells,172,27.4
+PLAU,gene (prioritised),breast,c-15,t-cells,11,4.4
+PLAU,gene (prioritised),breast,c-16,breast glandular cells,50,4.9
+PLAU,gene (prioritised),breast,c-17,breast glandular cells,17,2.0
+PLAU,gene (prioritised),breast,c-18,macrophages,1110,130.8
+PLAU,gene (prioritised),breast,c-19,macrophages,301,56.9
+PLAU,gene (prioritised),breast,c-20,breast myoepithelial cells,270,23.3
+PLAU,gene (prioritised),breast,c-21,breast glandular cells,8,1.9
+PLAU,gene (prioritised),breast,c-22,endothelial cells,1,0.9
+PLAU,gene (prioritised),breast,c-23,adipocytes,78,33.8
+PLAU,gene (prioritised),breast,c-24,t-cells,1,12.4
+COL3A1,comparator (compartment test),breast,c-0,t-cells,23,2.2
+COL3A1,comparator (compartment test),breast,c-1,breast glandular cells,83,3.7
+COL3A1,comparator (compartment test),breast,c-2,t-cells,15,1.9
+COL3A1,comparator (compartment test),breast,c-3,macrophages,18,1.9
+COL3A1,comparator (compartment test),breast,c-4,breast glandular cells,58,1.5
+COL3A1,comparator (compartment test),breast,c-5,fibroblasts,15944,1858.9
+COL3A1,comparator (compartment test),breast,c-6,adipocytes,466,42.3
+COL3A1,comparator (compartment test),breast,c-7,adipocytes,1544,82.0
+COL3A1,comparator (compartment test),breast,c-8,adipocytes,1981,77.1
+COL3A1,comparator (compartment test),breast,c-9,breast glandular cells,152,9.2
+COL3A1,comparator (compartment test),breast,c-10,t-cells,9,5.7
+COL3A1,comparator (compartment test),breast,c-11,breast glandular cells,23,3.2
+COL3A1,comparator (compartment test),breast,c-12,fibroblasts,6476,2661.9
+COL3A1,comparator (compartment test),breast,c-13,fibroblasts,6339,1306.5
+COL3A1,comparator (compartment test),breast,c-14,smooth muscle cells,1064,169.8
+COL3A1,comparator (compartment test),breast,c-15,t-cells,11,4.4
+COL3A1,comparator (compartment test),breast,c-16,breast glandular cells,129,12.6
+COL3A1,comparator (compartment test),breast,c-17,breast glandular cells,6,0.7
+COL3A1,comparator (compartment test),breast,c-18,macrophages,20,2.4
+COL3A1,comparator (compartment test),breast,c-19,macrophages,300,56.8
+COL3A1,comparator (compartment test),breast,c-20,breast myoepithelial cells,74,6.4
+COL3A1,comparator (compartment test),breast,c-21,breast glandular cells,3,0.7
+COL3A1,comparator (compartment test),breast,c-22,endothelial cells,0,0.0
+COL3A1,comparator (compartment test),breast,c-23,adipocytes,813,351.8
+COL3A1,comparator (compartment test),breast,c-24,t-cells,1,12.4
+POSTN,comparator (compartment test),breast,c-0,t-cells,9,0.9
+POSTN,comparator (compartment test),breast,c-1,breast glandular cells,42,1.8
+POSTN,comparator (compartment test),breast,c-2,t-cells,7,0.9
+POSTN,comparator (compartment test),breast,c-3,macrophages,20,2.1
+POSTN,comparator (compartment test),breast,c-4,breast glandular cells,54,1.4
+POSTN,comparator (compartment test),breast,c-5,fibroblasts,2858,333.2
+POSTN,comparator (compartment test),breast,c-6,adipocytes,162,14.7
+POSTN,comparator (compartment test),breast,c-7,adipocytes,1962,104.2
+POSTN,comparator (compartment test),breast,c-8,adipocytes,398,15.5
+POSTN,comparator (compartment test),breast,c-9,breast glandular cells,366,22.1
+POSTN,comparator (compartment test),breast,c-10,t-cells,5,3.1
+POSTN,comparator (compartment test),breast,c-11,breast glandular cells,21,2.9
+POSTN,comparator (compartment test),breast,c-12,fibroblasts,536,220.3
+POSTN,comparator (compartment test),breast,c-13,fibroblasts,55,11.3
+POSTN,comparator (compartment test),breast,c-14,smooth muscle cells,165,26.3
+POSTN,comparator (compartment test),breast,c-15,t-cells,6,2.4
+POSTN,comparator (compartment test),breast,c-16,breast glandular cells,77,7.5
+POSTN,comparator (compartment test),breast,c-17,breast glandular cells,5,0.6
+POSTN,comparator (compartment test),breast,c-18,macrophages,7,0.8
+POSTN,comparator (compartment test),breast,c-19,macrophages,94,17.8
+POSTN,comparator (compartment test),breast,c-20,breast myoepithelial cells,2076,179.0
+POSTN,comparator (compartment test),breast,c-21,breast glandular cells,25,5.8
+POSTN,comparator (compartment test),breast,c-22,endothelial cells,1,0.9
+POSTN,comparator (compartment test),breast,c-23,adipocytes,295,127.7
+POSTN,comparator (compartment test),breast,c-24,t-cells,3,37.2
+NFKB1,comparator (compartment test),breast,c-0,t-cells,541,52.6
+NFKB1,comparator (compartment test),breast,c-1,breast glandular cells,716,31.5
+NFKB1,comparator (compartment test),breast,c-2,t-cells,469,58.4
+NFKB1,comparator (compartment test),breast,c-3,macrophages,910,96.9
+NFKB1,comparator (compartment test),breast,c-4,breast glandular cells,2110,56.0
+NFKB1,comparator (compartment test),breast,c-5,fibroblasts,187,21.8
+NFKB1,comparator (compartment test),breast,c-6,adipocytes,396,36.0
+NFKB1,comparator (compartment test),breast,c-7,adipocytes,516,27.4
+NFKB1,comparator (compartment test),breast,c-8,adipocytes,682,26.5
+NFKB1,comparator (compartment test),breast,c-9,breast glandular cells,890,53.7
+NFKB1,comparator (compartment test),breast,c-10,t-cells,121,76.2
+NFKB1,comparator (compartment test),breast,c-11,breast glandular cells,164,22.7
+NFKB1,comparator (compartment test),breast,c-12,fibroblasts,65,26.7
+NFKB1,comparator (compartment test),breast,c-13,fibroblasts,127,26.2
+NFKB1,comparator (compartment test),breast,c-14,smooth muscle cells,93,14.8
+NFKB1,comparator (compartment test),breast,c-15,t-cells,175,69.4
+NFKB1,comparator (compartment test),breast,c-16,breast glandular cells,117,11.4
+NFKB1,comparator (compartment test),breast,c-17,breast glandular cells,344,41.4
+NFKB1,comparator (compartment test),breast,c-18,macrophages,749,88.3
+NFKB1,comparator (compartment test),breast,c-19,macrophages,781,147.8
+NFKB1,comparator (compartment test),breast,c-20,breast myoepithelial cells,246,21.2
+NFKB1,comparator (compartment test),breast,c-21,breast glandular cells,191,44.7
+NFKB1,comparator (compartment test),breast,c-22,endothelial cells,50,43.9
+NFKB1,comparator (compartment test),breast,c-23,adipocytes,53,22.9
+NFKB1,comparator (compartment test),breast,c-24,t-cells,1,12.4
+RELA,comparator (compartment test),breast,c-0,t-cells,344,33.5
+RELA,comparator (compartment test),breast,c-1,breast glandular cells,579,25.5
+RELA,comparator (compartment test),breast,c-2,t-cells,312,38.8
+RELA,comparator (compartment test),breast,c-3,macrophages,221,23.5
+RELA,comparator (compartment test),breast,c-4,breast glandular cells,1358,36.0
+RELA,comparator (compartment test),breast,c-5,fibroblasts,210,24.5
+RELA,comparator (compartment test),breast,c-6,adipocytes,340,30.9
+RELA,comparator (compartment test),breast,c-7,adipocytes,685,36.4
+RELA,comparator (compartment test),breast,c-8,adipocytes,872,33.9
+RELA,comparator (compartment test),breast,c-9,breast glandular cells,425,25.6
+RELA,comparator (compartment test),breast,c-10,t-cells,64,40.3
+RELA,comparator (compartment test),breast,c-11,breast glandular cells,218,30.2
+RELA,comparator (compartment test),breast,c-12,fibroblasts,33,13.6
+RELA,comparator (compartment test),breast,c-13,fibroblasts,93,19.2
+RELA,comparator (compartment test),breast,c-14,smooth muscle cells,178,28.4
+RELA,comparator (compartment test),breast,c-15,t-cells,95,37.7
+RELA,comparator (compartment test),breast,c-16,breast glandular cells,250,24.3
+RELA,comparator (compartment test),breast,c-17,breast glandular cells,367,44.2
+RELA,comparator (compartment test),breast,c-18,macrophages,246,29.0
+RELA,comparator (compartment test),breast,c-19,macrophages,112,21.2
+RELA,comparator (compartment test),breast,c-20,breast myoepithelial cells,281,24.2
+RELA,comparator (compartment test),breast,c-21,breast glandular cells,137,32.0
+RELA,comparator (compartment test),breast,c-22,endothelial cells,32,28.1
+RELA,comparator (compartment test),breast,c-23,adipocytes,60,26.0
+RELA,comparator (compartment test),breast,c-24,t-cells,2,24.8
+SP1,comparator (compartment test),breast,c-0,t-cells,144,14.0
+SP1,comparator (compartment test),breast,c-1,breast glandular cells,516,22.7
+SP1,comparator (compartment test),breast,c-2,t-cells,81,10.1
+SP1,comparator (compartment test),breast,c-3,macrophages,135,14.4
+SP1,comparator (compartment test),breast,c-4,breast glandular cells,1056,28.0
+SP1,comparator (compartment test),breast,c-5,fibroblasts,149,17.4
+SP1,comparator (compartment test),breast,c-6,adipocytes,274,24.9
+SP1,comparator (compartment test),breast,c-7,adipocytes,478,25.4
+SP1,comparator (compartment test),breast,c-8,adipocytes,549,21.4
+SP1,comparator (compartment test),breast,c-9,breast glandular cells,464,28.0
+SP1,comparator (compartment test),breast,c-10,t-cells,12,7.6
+SP1,comparator (compartment test),breast,c-11,breast glandular cells,116,16.1
+SP1,comparator (compartment test),breast,c-12,fibroblasts,58,23.8
+SP1,comparator (compartment test),breast,c-13,fibroblasts,81,16.7
+SP1,comparator (compartment test),breast,c-14,smooth muscle cells,119,19.0
+SP1,comparator (compartment test),breast,c-15,t-cells,23,9.1
+SP1,comparator (compartment test),breast,c-16,breast glandular cells,222,21.6
+SP1,comparator (compartment test),breast,c-17,breast glandular cells,295,35.5
+SP1,comparator (compartment test),breast,c-18,macrophages,103,12.1
+SP1,comparator (compartment test),breast,c-19,macrophages,81,15.3
+SP1,comparator (compartment test),breast,c-20,breast myoepithelial cells,194,16.7
+SP1,comparator (compartment test),breast,c-21,breast glandular cells,152,35.5
+SP1,comparator (compartment test),breast,c-22,endothelial cells,18,15.8
+SP1,comparator (compartment test),breast,c-23,adipocytes,44,19.0
+SP1,comparator (compartment test),breast,c-24,t-cells,1,12.4
+ETS1,comparator (compartment test),breast,c-0,t-cells,1683,163.7
+ETS1,comparator (compartment test),breast,c-1,breast glandular cells,58,2.6
+ETS1,comparator (compartment test),breast,c-2,t-cells,1182,147.2
+ETS1,comparator (compartment test),breast,c-3,macrophages,104,11.1
+ETS1,comparator (compartment test),breast,c-4,breast glandular cells,777,20.6
+ETS1,comparator (compartment test),breast,c-5,fibroblasts,192,22.4
+ETS1,comparator (compartment test),breast,c-6,adipocytes,1807,164.1
+ETS1,comparator (compartment test),breast,c-7,adipocytes,5276,280.3
+ETS1,comparator (compartment test),breast,c-8,adipocytes,5160,200.9
+ETS1,comparator (compartment test),breast,c-9,breast glandular cells,33,2.0
+ETS1,comparator (compartment test),breast,c-10,t-cells,371,233.6
+ETS1,comparator (compartment test),breast,c-11,breast glandular cells,32,4.4
+ETS1,comparator (compartment test),breast,c-12,fibroblasts,60,24.7
+ETS1,comparator (compartment test),breast,c-13,fibroblasts,112,23.1
+ETS1,comparator (compartment test),breast,c-14,smooth muscle cells,348,55.5
+ETS1,comparator (compartment test),breast,c-15,t-cells,345,136.9
+ETS1,comparator (compartment test),breast,c-16,breast glandular cells,79,7.7
+ETS1,comparator (compartment test),breast,c-17,breast glandular cells,31,3.7
+ETS1,comparator (compartment test),breast,c-18,macrophages,545,64.2
+ETS1,comparator (compartment test),breast,c-19,macrophages,100,18.9
+ETS1,comparator (compartment test),breast,c-20,breast myoepithelial cells,75,6.5
+ETS1,comparator (compartment test),breast,c-21,breast glandular cells,6,1.4
+ETS1,comparator (compartment test),breast,c-22,endothelial cells,142,124.8
+ETS1,comparator (compartment test),breast,c-23,adipocytes,486,210.3
+ETS1,comparator (compartment test),breast,c-24,t-cells,18,223.1

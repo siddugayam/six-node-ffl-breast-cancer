@@ -1,0 +1,2 @@
+method,ok,n_features,n_samples,note
+QPROG_Wu,TRUE,9,1097,"limSolve::lsei, non-negative + sum-to-one, Wu breast signature, TPM/max(S) rescaled"

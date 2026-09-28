@@ -1,0 +1,17 @@
+nodes whose degree changes (stored -> analysed network): [('hsa-let-7b', '36', '28'), ('hsa-let-7e', '38', '30'), ('hsa-miR-143', '53', '48'), ('hsa-miR-29a', '69', '61'), ('hsa-miR-29b', '75', '67'), ('hsa-miR-29c', '61', '53'), ('hsa-miR-335', '19', '14'), ('hsa-miR-455', '27', '22'), ('hsa-miR-767', '6', '1')]
+Table S4 degree column equals the stored (deposited-network) degree for these nodes: True
+stored top10_per_class.csv reproduced: True
+thirty prioritised nodes identical after re-run: True ; identical order: False
+within-class rank changes among the thirty (name, class, stored, analysed): [('PDGFRB', 'Gene', 6, 7), ('MET', 'Gene', 7, 6)]
+SP1: rank among the 157 TFs stored 66, analysed network 66
+RELA: rank among the 157 TFs stored 86, analysed network 86
+NFKB1: rank among the 157 TFs stored 108, analysed network 108
+hsa-let-7b: rank among rankable miRNAs stored 22, analysed network 26
+hsa-let-7e: rank among rankable miRNAs stored 95, analysed network 97
+hsa-miR-143: rank among rankable miRNAs stored 18, analysed network 18
+hsa-miR-29a: rank among rankable miRNAs stored 55, analysed network 55
+hsa-miR-29b: rank among rankable miRNAs stored 51, analysed network 52
+hsa-miR-29c: rank among rankable miRNAs stored 67, analysed network 68
+hsa-miR-335: rank among rankable miRNAs stored 127, analysed network 128
+hsa-miR-455: rank among rankable miRNAs stored 142, analysed network 147
+hsa-miR-767: rank among rankable miRNAs stored 53, analysed network 57

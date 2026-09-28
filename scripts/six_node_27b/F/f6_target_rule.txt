@@ -1,0 +1,13 @@
+== dep: arcs 6859; all D1-D4 three-node FFLs 2067; named-class 1551
+   composite  target Gene: 1173, target TF: 123, target miRNA: 38
+   TF-FFL     target Gene: 9, target TF: 0, target miRNA: 0
+   miRNA-FFL  target Gene: 182, target TF: 20, target miRNA: 6
+   other      target Gene: 318, target TF: 10, target miRNA: 188
+   named-class FFLs with a miRNA target: 44
+   their miRNA->miRNA arcs (v -> target): {('hsa-miR-29c', 'hsa-miR-29b'): 5, ('hsa-miR-29c', 'hsa-miR-29a'): 6, ('hsa-miR-29c', 'hsa-let-7b'): 2, ('hsa-miR-29c', 'hsa-let-7e'): 3, ('hsa-miR-143', 'hsa-miR-29a'): 2, ('hsa-miR-143', 'hsa-miR-29c'): 2, ('hsa-miR-455', 'hsa-let-7e'): 1, ('hsa-miR-29b', 'hsa-miR-29a'): 5, ('HIF1A', 'hsa-let-7e'): 1, ('hsa-miR-29b', 'hsa-let-7b'): 2, ('hsa-miR-143', 'hsa-miR-29b'): 2, ('hsa-miR-143', 'hsa-let-7e'): 1, ('hsa-miR-455', 'hsa-miR-29b'): 1, ('hsa-let-7b', 'hsa-miR-29a'): 2, ('HDAC4', 'hsa-miR-29a'): 1, ('IRF1', 'hsa-miR-29b'): 1, ('GLI1', 'hsa-miR-29a'): 1, ('hsa-let-7e', 'hsa-miR-29a'): 1, ('hsa-miR-29b', 'hsa-let-7e'): 1, ('STAT3', 'hsa-miR-29a'): 1, ('MITF', 'hsa-miR-29a'): 1, ('hsa-miR-335', 'hsa-let-7e'): 1, ('hsa-let-7b', 'hsa-let-7e'): 1}
+== dep_nolegacy: arcs 6829; all D1-D4 three-node FFLs 1774; named-class 1507
+   composite  target Gene: 1173, target TF: 123, target miRNA: 0
+   TF-FFL     target Gene: 9, target TF: 0, target miRNA: 0
+   miRNA-FFL  target Gene: 182, target TF: 20, target miRNA: 0
+   other      target Gene: 125, target TF: 4, target miRNA: 138
+   named-class FFLs with a miRNA target: 0

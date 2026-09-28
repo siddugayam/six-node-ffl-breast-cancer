@@ -1,0 +1,122 @@
+K 6
+nparts 64
+part 54
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 128956
+visited 48945910
+rng_final 42
+comp 0 1 5 54
+comp 1 1 4 256
+comp 1 2 3 2120
+comp 1 3 2 1867
+comp 1 4 1 134
+comp 2 0 4 4
+comp 2 1 3 1275
+comp 2 2 2 10930
+comp 2 3 1 14523
+comp 2 4 0 9
+comp 3 0 3 150
+comp 3 1 2 4789
+comp 3 2 1 44105
+comp 3 3 0 826
+comp 4 0 2 725
+comp 4 1 1 17619
+comp 4 2 0 5759
+comp 5 0 1 4596
+comp 5 1 0 13782
+comp 6 0 0 5433
+mask 2 67
+mask 3 169
+mask 6 237
+mask 7 5
+mask 10 1
+mask 11 31
+mask 13 3
+mask 14 4238
+mask 15 3132
+mask 18 21
+mask 19 18
+mask 20 155
+mask 21 19
+mask 22 844
+mask 23 130
+mask 26 26
+mask 27 144
+mask 28 3080
+mask 29 396
+mask 30 5917
+mask 31 1695
+mask 32 222
+mask 33 686
+mask 34 5444
+mask 35 4320
+mask 36 524
+mask 37 20
+mask 38 8568
+mask 39 264
+mask 40 142
+mask 41 508
+mask 42 128
+mask 43 626
+mask 44 8925
+mask 45 5241
+mask 46 19105
+mask 47 14671
+mask 48 117
+mask 49 161
+mask 50 863
+mask 51 304
+mask 52 1712
+mask 53 291
+mask 54 7542
+mask 55 646
+mask 56 187
+mask 57 1051
+mask 58 637
+mask 59 1810
+mask 60 10569
+mask 61 4656
+mask 62 6382
+mask 63 2306
+flags 0 74642
+flags 1 4713
+flags 2 578
+flags 3 2328
+flags 4 30946
+flags 5 2116
+flags 6 1409
+flags 7 1282
+flags 8 4323
+flags 9 16
+flags 10 117
+flags 11 429
+flags 12 5268
+flags 13 21
+flags 14 240
+flags 15 21
+flags 24 200
+flags 25 1
+flags 26 4
+flags 27 3
+flags 28 293
+flags 30 6
+exflag 0 CTCF BCL6 hsa-miR-361 SNAP25 SYP hsa-miR-375
+exflag 0 CTCF BRCA1 hsa-miR-146a POU3F2 hsa-miR-375 ASCL1
+exflag 0 CTCF BRCA1 hsa-miR-146b POU3F2 hsa-miR-375 ASCL1
+exflag 1 CTCF BCL6 BCL2L1 EP300 HRK hsa-miR-21
+exflag 1 CTCF BCL6 BCL2L1 EP300 STAT5A hsa-miR-141
+exflag 1 CTCF BCL6 BCL2L1 EZH2 HRK hsa-miR-129
+exflag 2 CTCF BCL6 BCL2L1 BRCA1 POU2F1 hsa-let-7g
+exflag 2 CTCF BCL6 BCL2L1 EP300 DNMT1 hsa-miR-142
+exflag 2 CTCF BCL6 BCL2L1 EP300 ESR1 hsa-let-7c
+exflag 3 CTCF BCL6 BRCA1 HDAC1 HIF1A hsa-miR-146a | TF1=BRCA1 TF2=HDAC1 miRNA=hsa-miR-146a target=HIF1A
+exflag 3 CTCF BCL6 BRCA1 HDAC1 MYC hsa-miR-146a | TF1=BRCA1 TF2=HDAC1 miRNA=hsa-miR-146a target=MYC
+exflag 3 CTCF BCL6 BRCA1 HDAC1 ZBTB16 hsa-miR-146a | TF1=BRCA1 TF2=HDAC1 miRNA=hsa-miR-146a target=ZBTB16
+exflag 4 CTCF BCL6 EP300 TP53 VEGFA hsa-miR-200c | TF1=EP300 TF2=TP53 miRNA=hsa-miR-200c target=VEGFA
+exflag 4 CTCF BCL6 HDAC1 HIF1A TERT hsa-miR-424 | TF1=HDAC1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exflag 4 CTCF BCL6 HDAC1 SIRT1 TERT hsa-miR-424 | TF1=HDAC1 TF2=SIRT1 miRNA=hsa-miR-424 target=TERT
+exmask 63 CTCF BCL6 BCL2L1 POU5F1 hsa-miR-142 FOS
+exmask 63 CTCF BCL6 HDAC4 MYC VEGFA hsa-miR-29b
+exmask 63 CTCF BCL6 MYC PAX5 TERT hsa-miR-16

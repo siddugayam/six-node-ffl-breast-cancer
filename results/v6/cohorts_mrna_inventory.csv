@@ -1,0 +1,8 @@
+cohort,accession,platform,n,genes,nodes_measurable,caf_genes,endpoints,primary,note
+MAINZ,GSE11121,Affymetrix HG-U133A (GPL96),200,12688,20,123,DMFS,DMFS,Bioconductor breastCancerMAINZ
+TRANSBIG,GSE7390,Affymetrix HG-U133A (GPL96),198,12688,20,123,DMFS;RFS;OS,DMFS,Bioconductor breastCancerTRANSBIG
+VDX,GSE2034 + GSE5327,Affymetrix HG-U133A (GPL96),344,12688,20,123,DMFS,DMFS,Bioconductor breastCancerVDX
+UPP,GSE3494,Affymetrix HG-U133A+B (GPL96/GPL97),251,18009,20,123,RFS,RFS,Bioconductor breastCancerUPP
+UNT,GSE2990,Affymetrix HG-U133A+B (GPL96/GPL97),137,18009,20,123,RFS;DMFS,RFS,Bioconductor breastCancerUNT
+NKI,van de Vijver / NKI295,Agilent two-colour 25k (log ratio),337,12565,19,113,DMFS;RFS;OS,DMFS,Bioconductor breastCancerNKI
+STK,GSE1456 (Stockholm),Affymetrix HG-U133A (GPL96),159,12688,20,123,RFS;OS;BCSS,RFS,"GEO series matrix, GPL96 arm"

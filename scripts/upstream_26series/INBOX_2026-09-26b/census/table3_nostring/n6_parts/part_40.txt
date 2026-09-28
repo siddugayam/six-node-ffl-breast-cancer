@@ -1,0 +1,103 @@
+K 6
+nparts 64
+part 40
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 235414
+visited 50519421
+rng_final 42
+comp 1 2 3 16
+comp 1 3 2 879
+comp 1 4 1 867
+comp 2 1 3 24
+comp 2 2 2 4508
+comp 2 3 1 55814
+comp 2 4 0 119
+comp 3 0 3 3
+comp 3 1 2 2289
+comp 3 2 1 100053
+comp 3 3 0 6760
+comp 4 0 2 288
+comp 4 1 1 25578
+comp 4 2 0 20020
+comp 5 0 1 3465
+comp 5 1 0 13224
+comp 6 0 0 1507
+mask 2 1507
+mask 3 3756
+mask 6 8083
+mask 7 441
+mask 11 6
+mask 12 1
+mask 13 14
+mask 14 68189
+mask 15 41419
+mask 18 338
+mask 19 426
+mask 20 1053
+mask 21 102
+mask 22 28814
+mask 23 3916
+mask 26 9
+mask 27 667
+mask 28 12553
+mask 29 2641
+mask 30 31461
+mask 31 19014
+mask 46 25
+mask 47 15
+mask 62 2
+mask 70 924
+mask 71 60
+mask 76 113
+mask 77 37
+mask 78 5242
+mask 79 1856
+mask 84 87
+mask 85 4
+mask 86 824
+mask 87 51
+mask 92 519
+mask 93 272
+mask 94 667
+mask 95 277
+mask 108 2
+mask 109 1
+mask 110 20
+mask 111 5
+mask 126 1
+flags 0 217200
+flags 1 2668
+flags 2 1268
+flags 3 1565
+flags 6 15
+flags 7 53
+flags 8 11871
+flags 9 100
+flags 10 47
+flags 11 117
+flags 24 505
+flags 25 5
+exflag 0 YY1 ACTC1 MYC SMAD7 hsa-miR-30a hsa-miR-30b
+exflag 0 YY1 ACTC1 MYC SMAD7 hsa-miR-30a hsa-miR-30d
+exflag 0 YY1 ACTC1 MYC hsa-miR-137 HIC1 hsa-miR-25
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29a
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29b
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29c
+exflag 2 YY1 EPAS1 TFAP2A COL1A1 COL3A1 hsa-miR-29c
+exflag 2 YY1 EPAS1 hsa-miR-29a COL1A1 COL3A1 hsa-miR-29c
+exflag 2 YY1 HIF1A TFAP2A COL1A1 COL3A1 hsa-let-7e
+exflag 3 YY1 BRCA1 CDH3 FOS MYC hsa-miR-155 | TF1=YY1 TF2=BRCA1 miRNA=hsa-miR-155 target=CDH3
+exflag 3 YY1 BRCA1 CREBBP CREB1 FOS hsa-miR-155 | TF1=YY1 TF2=BRCA1 miRNA=hsa-miR-155 target=FOS
+exflag 3 YY1 BRCA1 CREBBP CREB1 FOS hsa-miR-21 | TF1=CREBBP TF2=CREB1 miRNA=hsa-miR-21 target=FOS
+exflag 4 YY1 BRCA1 CREBBP FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 YY1 BRCA1 CREBBP HIF1A VEGFA hsa-miR-205 | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-205 target=VEGFA
+exflag 4 YY1 BRCA1 CREBBP TP53 VEGFA hsa-miR-205 | TF1=TP53 TF2=BRCA1 miRNA=hsa-miR-205 target=VEGFA
+exmask 95 YY1 BRCA1 FAS FOS hsa-miR-29b hsa-let-7b
+exmask 95 YY1 BRCA1 FAS FOS hsa-miR-29b hsa-let-7e
+exmask 95 YY1 BRCA1 FAS FOS hsa-miR-29c hsa-let-7b
+exmask 111 YY1 TFAP2A COL1A1 COL3A1 hsa-miR-29a hsa-miR-29c
+exmask 111 YY1 TFAP2A COL1A1 COL3A1 hsa-miR-29b hsa-let-7b
+exmask 111 YY1 TFAP2A COL1A1 COL3A1 hsa-miR-29b hsa-let-7e
+exmask 126 YY1 HIF1A hsa-let-7e COL1A1 COL3A1 hsa-miR-29b

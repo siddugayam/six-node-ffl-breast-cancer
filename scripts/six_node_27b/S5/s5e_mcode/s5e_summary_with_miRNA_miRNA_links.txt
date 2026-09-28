@@ -1,0 +1,4 @@
+variant with_miRNA_miRNA_links
+cluster_rank_of_key_nodes MYC=1; E2F1=1; hsa-miR-17=1; hsa-miR-18a=no cluster; hsa-miR-19a=1; hsa-miR-19b=1; hsa-miR-20a=1; hsa-miR-92a=7
+top_cluster_identical_in_random_orders 100 of 100
+MYC_E2F1_and_miR17_92_member_together_in_random_orders 100 of 100

@@ -1,0 +1,149 @@
+K 6
+nparts 64
+part 16
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 76970
+visited 37238695
+rng_final 42
+comp 0 1 5 11
+comp 1 0 5 2
+comp 1 1 4 73
+comp 1 2 3 1055
+comp 1 3 2 950
+comp 1 4 1 642
+comp 2 0 4 8
+comp 2 1 3 695
+comp 2 2 2 7728
+comp 2 3 1 15329
+comp 2 4 0 24
+comp 3 0 3 202
+comp 3 1 2 3874
+comp 3 2 1 24307
+comp 3 3 0 720
+comp 4 0 2 1158
+comp 4 1 1 8648
+comp 4 2 0 3020
+comp 5 0 1 2767
+comp 5 1 0 4357
+comp 6 0 0 1400
+mask 2 6
+mask 3 7
+mask 6 16
+mask 7 12
+mask 11 7
+mask 12 45
+mask 13 44
+mask 14 9097
+mask 15 1510
+mask 20 141
+mask 21 18
+mask 22 687
+mask 23 68
+mask 27 2
+mask 28 3594
+mask 29 447
+mask 30 1864
+mask 31 1307
+mask 32 334
+mask 33 1143
+mask 34 2118
+mask 35 1929
+mask 36 712
+mask 37 125
+mask 38 2312
+mask 39 130
+mask 40 40
+mask 41 91
+mask 42 18
+mask 43 81
+mask 44 7017
+mask 45 5175
+mask 46 12718
+mask 47 8191
+mask 50 5
+mask 51 2
+mask 52 1401
+mask 53 319
+mask 54 3500
+mask 55 536
+mask 56 19
+mask 57 110
+mask 58 107
+mask 59 143
+mask 60 2616
+mask 61 2170
+mask 62 2063
+mask 63 1084
+mask 70 5
+mask 71 3
+mask 78 805
+mask 79 150
+mask 84 23
+mask 86 59
+mask 87 5
+mask 92 88
+mask 93 52
+mask 95 6
+mask 100 17
+mask 101 7
+mask 102 89
+mask 103 4
+mask 108 74
+mask 109 83
+mask 110 149
+mask 111 143
+mask 116 62
+mask 117 2
+mask 118 33
+mask 124 22
+mask 125 8
+flags 0 45309
+flags 1 4137
+flags 2 1061
+flags 3 1295
+flags 4 18983
+flags 5 394
+flags 6 1479
+flags 7 1861
+flags 8 817
+flags 9 6
+flags 10 6
+flags 11 3
+flags 12 1261
+flags 14 34
+flags 15 25
+flags 24 77
+flags 25 4
+flags 27 1
+flags 28 202
+flags 30 13
+flags 31 2
+exflag 0 EGR2 EGR3 FOSB FOSL1 hsa-miR-142 hsa-miR-195
+exflag 0 EGR2 EGR3 hsa-miR-142 ASCL1 POU3F2 hsa-miR-146a
+exflag 0 EGR2 EGR3 hsa-miR-142 ASCL1 POU3F2 hsa-miR-146b
+exflag 1 EGR2 EGR3 EP300 IL6 hsa-miR-142 FN1
+exflag 1 EGR2 EGR3 EP300 IL6 hsa-miR-142 IL11
+exflag 1 EGR2 EGR3 EP300 IL6 hsa-miR-200c FN1
+exflag 2 EGR2 EGR3 EP300 DNMT1 FOSB hsa-miR-148a
+exflag 2 EGR2 EGR3 EP300 DNMT1 FOSB hsa-miR-152
+exflag 2 EGR2 EGR3 EP300 DNMT1 FOSB hsa-miR-23b
+exflag 3 EGR2 EGR3 EP300 ESR1 FOS hsa-miR-21 | TF1=EP300 TF2=ESR1 miRNA=hsa-miR-21 target=FOS
+exflag 3 EGR2 EGR3 EP300 FOS JUN hsa-miR-21 | TF1=EP300 TF2=FOS miRNA=hsa-miR-21 target=JUN
+exflag 3 EGR2 EGR3 EP300 FOS NFKB1 hsa-miR-21 | TF1=EP300 TF2=FOS miRNA=hsa-miR-21 target=NFKB1
+exflag 4 EGR2 EP300 FOS FAS JUN hsa-miR-23a | TF1=FOS TF2=JUN miRNA=hsa-miR-23a target=FAS
+exflag 4 EGR2 EP300 FOS FAS RELA hsa-miR-23a | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=FAS
+exflag 4 EGR2 EP300 FOS JUN OXTR hsa-miR-23a | TF1=FOS TF2=JUN miRNA=hsa-miR-23a target=OXTR
+exmask 63 EGR2 EGR3 FOS BCL2L1 NFKB1 hsa-miR-142
+exmask 63 EGR2 EGR3 FOS MYC IER3 hsa-miR-142
+exmask 63 EGR2 EGR3 FOS NFKB1 ABCA1 hsa-miR-142
+exmask 95 MITF HIF1A MMP2 hsa-let-7e hsa-miR-29a ETV4
+exmask 95 MITF HIF1A MMP2 hsa-miR-143 hsa-miR-29a ETV4
+exmask 95 MITF HIF1A MMP2 hsa-miR-29a ETV4 hsa-miR-29c
+exmask 111 EGR2 EP300 EZH2 LIF hsa-miR-143 hsa-miR-29a
+exmask 111 EGR2 EP300 EZH2 LIF hsa-miR-143 hsa-miR-29b
+exmask 111 EGR2 EP300 EZH2 LIF hsa-miR-143 hsa-miR-29c
+exmask 125 EGR2 FOS OXTR SOX10 hsa-miR-335 hsa-miR-29a
+exmask 125 EGR2 FOS OXTR SOX10 hsa-miR-335 hsa-miR-29b
+exmask 125 EGR2 FOS OXTR SOX10 hsa-miR-335 hsa-miR-29c

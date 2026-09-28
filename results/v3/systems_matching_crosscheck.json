@@ -1,0 +1,24 @@
+{
+  "N": 587,
+  "matching_size_scipy": 381,
+  "matching_size_networkx": 381,
+  "agree": true,
+  "N_D_scipy": 206,
+  "N_D_networkx": 206,
+  "n_D_fraction": 0.35093696763202725,
+  "n_in_degree_zero": 5,
+  "in_degree_zero_nodes": [
+    "hsa-miR-1",
+    "hsa-miR-196a",
+    "hsa-miR-454",
+    "hsa-miR-487a",
+    "hsa-miR-767"
+  ],
+  "in_degree_zero_types": [
+    "miRNA",
+    "miRNA",
+    "miRNA",
+    "miRNA",
+    "miRNA"
+  ]
+}

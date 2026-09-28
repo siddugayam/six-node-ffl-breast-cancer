@@ -1,0 +1,62 @@
+[
+ {
+  "graph": "nolegacy",
+  "network": "composite_3to6_merged",
+  "sif_edges": 3674,
+  "nodes": 451,
+  "undirected_edges": 2819,
+  "nodes_by_type": {
+   "Gene": 162,
+   "TF": 107,
+   "miRNA": 182
+  },
+  "sif_edges_by_label": {
+   "Gene-Gene": 143,
+   "TF-Gene": 472,
+   "TF-TF": 90,
+   "TF-miRNA": 810,
+   "miRNA-Gene": 1242,
+   "miRNA-TF": 810,
+   "miRNA-miRNA": 107
+  },
+  "connected_components": 1,
+  "largest_component": 451,
+  "density": 0.027780241438778025,
+  "avg_neighbours": 12.501108647450112,
+  "clustering_coefficient_mean": 0.27085178543684324,
+  "characteristic_path_length_largest_component": 2.7624439517122443,
+  "diameter_largest_component": 5,
+  "maximal_cliques": 1834,
+  "max_clique_size": 7
+ },
+ {
+  "graph": "nolegacy_nostring",
+  "network": "composite_3to6_merged",
+  "sif_edges": 2133,
+  "nodes": 348,
+  "undirected_edges": 1576,
+  "nodes_by_type": {
+   "TF": 77,
+   "Gene": 125,
+   "miRNA": 146
+  },
+  "sif_edges_by_label": {
+   "TF-Gene": 331,
+   "TF-miRNA": 552,
+   "Gene-Gene": 1,
+   "TF-TF": 10,
+   "miRNA-Gene": 685,
+   "miRNA-TF": 552,
+   "miRNA-miRNA": 2
+  },
+  "connected_components": 2,
+  "largest_component": 345,
+  "density": 0.026102222663884195,
+  "avg_neighbours": 9.057471264367816,
+  "clustering_coefficient_mean": 0.46993883002008546,
+  "characteristic_path_length_largest_component": 2.8829288843950116,
+  "diameter_largest_component": 5,
+  "maximal_cliques": 1160,
+  "max_clique_size": 4
+ }
+]

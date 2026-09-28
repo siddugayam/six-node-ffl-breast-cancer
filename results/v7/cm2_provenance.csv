@@ -1,0 +1,17 @@
+item,value
+method,"clusterMaker2 battery (MCL, Louvain/multilevel, fast-greedy, GLay, infomap, label propagation, leading eigenvector, Leiden) + igraph replication + walktrap and Girvan-Newman"
+clusterMaker2_version,2.3.4
+clusterMaker2_source,https://apps.cytoscape.org/download/clustermaker2/2.3.4
+clusterMaker2_install_path,~/CytoscapeConfiguration/3/apps/installed/clusterMaker2-2.3.4.jar
+cytoscape_version,3.10.0
+cytoscape_launch,"cytoscape.sh -R 1234 with JAVA_TOOL_OPTIONS=-Djdk.util.zip.disableZip64ExtraFieldValidation=true (JDK 17.0.18 rejects the Cytoscape third-party bundle without it)"
+cyrest_endpoint,http://localhost:1234/v1
+R_version,R 4.5.1
+igraph_version,2.2.2
+mclust_version,6.1.3 (adjustedRandIndex)
+MCL_CRAN_package,"1.0 installed; van Dongen algorithm reimplemented in scripts/v7/01_cm2_mcl.R for the inflation sweep, validated against clusterMaker2 (ARI 0.992 at I=2.2)"
+aricode,"FAILED to compile under gcc-10/oneTBB; mclust::adjustedRandIndex used instead (identical definition)"
+msigdbr_version,26.1.0
+graph,"587 nodes, 5636 undirected simple edges (6859 directed edges collapsed; 1223 reciprocal pairs merged), 1 connected component, density 0.0328, unweighted"
+walktrap_note,"walktrap is not implemented in clusterMaker2 2.3.4; run in igraph"
+seed,20260912

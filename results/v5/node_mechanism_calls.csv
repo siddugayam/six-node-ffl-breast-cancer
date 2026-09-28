@@ -1,0 +1,31 @@
+name,type,programme,mech
+CCND2,Gene,P1 Cell-cycle progression and genome integrity,meth_supported
+COL1A1,Gene,P4 Matrix remodelling and invasion,meth_discordant
+STAT5A,Gene,P3 Luminal identity and hormone signalling,meth_supported;loss
+MYBL2,Gene,P1 Cell-cycle progression and genome integrity,meth_discordant;gain
+FN1,Gene,P4 Matrix remodelling and invasion,none
+PDGFRB,Gene,P5 Stromal and inflammatory microenvironment,meth_supported
+MET,Gene,P4 Matrix remodelling and invasion,none
+CXCL12,Gene,P5 Stromal and inflammatory microenvironment,none
+MMP14,Gene,P4 Matrix remodelling and invasion,meth_discordant
+PLAU,Gene,P4 Matrix remodelling and invasion,meth_discordant
+E2F1,TF,P1 Cell-cycle progression and genome integrity,gain
+EZH2,TF,P2 Chromatin state and DNA methylation,none
+GATA3,TF,P3 Luminal identity and hormone signalling,mutation
+BRCA1,TF,P1 Cell-cycle progression and genome integrity,none
+JUN,TF,P5 Stromal and inflammatory microenvironment,none
+EGR2,TF,P5 Stromal and inflammatory microenvironment,none
+ESR1,TF,P3 Luminal identity and hormone signalling,not_DE
+SREBF1,TF,P7 Metabolic and stress-response control,none
+DNMT1,TF,P2 Chromatin state and DNA methylation,none
+E2F3,TF,P1 Cell-cycle progression and genome integrity,none
+hsa-miR-21,miRNA,P5 Stromal and inflammatory microenvironment,meth_supported;gain
+hsa-miR-195,miRNA,P2 Chromatin state and DNA methylation,meth_supported;loss
+hsa-miR-204,miRNA,P6 Epithelial plasticity and TGF-beta signalling,meth_discordant
+hsa-miR-383,miRNA,P7 Metabolic and stress-response control,meth_discordant
+hsa-miR-124,miRNA,P2 Chromatin state and DNA methylation,not_DE
+hsa-miR-155,miRNA,P5 Stromal and inflammatory microenvironment,meth_supported
+hsa-miR-429,miRNA,P6 Epithelial plasticity and TGF-beta signalling,meth_discordant
+hsa-miR-141,miRNA,P6 Epithelial plasticity and TGF-beta signalling,meth_supported
+hsa-miR-34a,miRNA,P7 Metabolic and stress-response control,not_DE
+hsa-miR-101,miRNA,P2 Chromatin state and DNA methylation,none

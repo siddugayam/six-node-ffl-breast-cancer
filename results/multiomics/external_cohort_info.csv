@@ -1,0 +1,5 @@
+"cohort","accession","platform","n_tumours","n_with_miRNA","caf_sig_genes_used"
+"TCGA-BRCA (reference)","TCGA-BRCA","Illumina HiSeq RNA-seq + miRNA-seq",1097,1066,48
+"METABRIC","cBioPortal brca_metabric","Illumina HT-12 v3 microarray",1980,0,48
+"MET500 (breast metastases)","MET500","RNA-seq (poly-A / exome capture), log2",92,0,46
+"GSE19783","GSE19783","Agilent GPL6480 mRNA + Agilent GPL8227 miRNA",101,101,49

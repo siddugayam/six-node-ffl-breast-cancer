@@ -1,0 +1,25 @@
+section	scope	quantity	value	note
+inventory	G	miRNA-gene	3266	arcs of this interaction class in G
+inventory	G	miRNA-TF	1553	arcs of this interaction class in G
+inventory	G	TF-miRNA	1360	arcs of this interaction class in G
+inventory	G	miRNA-miRNA	960	arcs of this interaction class in G
+inventory	G	TF-gene	681	arcs of this interaction class in G
+inventory	G	TF-TF	657	arcs of this interaction class in G
+inventory	G	gene-TF	21	arcs of this interaction class in G
+inventory	G	gene-miRNA	16	arcs of this interaction class in G
+inventory	G	gene-gene	15	arcs of this interaction class in G
+inventory	G	TOTAL_CLASSES	9	the manuscript names only 6; miRNA-TF, gene-TF and gene-miRNA are omitted
+named6_exhaustive	n=3	modules_with_all_six_named_classes	0	out of 6725 modules; max distinct classes in one module = 5
+named6_exhaustive	n=4	modules_with_all_six_named_classes	0	out of 71307 modules; max distinct classes in one module = 6
+named6_exhaustive	n=5	modules_with_all_six_named_classes	0	out of 1873867 modules; max distinct classes in one module = 7
+constraining_arcs	G	TF-TF_unordered/miRNA-miRNA/gene-gene	604/480/15	a module carrying all six named classes needs one of each, hence >=2 TF, >=2 miRNA, >=2 Gene, hence >=6 nodes
+named6_exhaustive	n=6	modules_with_all_six_named_classes	11955	exact targeted enumeration over all 4348800 (TF-TF,miRNA-miRNA,gene-gene) triples; 248 distinct nodes
+named6_exhaustive	n=6	of_those_with_6_distinct_classes	5	maximum attainable in a 6-node module is 8 of the 9 classes (gene-miRNA never fits)
+named6_exhaustive	n=6	of_those_with_7_distinct_classes	9030	maximum attainable in a 6-node module is 8 of the 9 classes (gene-miRNA never fits)
+named6_exhaustive	n=6	of_those_with_8_distinct_classes	2920	maximum attainable in a 6-node module is 8 of the 9 classes (gene-miRNA never fits)
+artefact	gene-gene	distinct_source_nodes	10	ASCL1;HIC1;IRF9;KLF10;MSC;MYBL2;NR4A1;SKIL;SMAD7;STAT5A
+artefact	Gene-typed_TRRUST/TransmiR_regulators	n	21	ASCL1;ELF4;ETV1;FHL2;FOSB;FOSL1;HIC1;ID4;IL6;IRF9;KLF10;MSC;MYBL2;NOTCH1;NR4A1;POU3F2;SKIL;SMAD7;STAT5A;TBX21;TLR4
+artefact	corrected_typing	interaction_classes_remaining	6	TF-TF=749;TF-gene=625;TF-miRNA=1376;miRNA-TF=1950;miRNA-gene=2869;miRNA-miRNA=960
+corrected_typing	n=3	modules_with_all_6_corrected_classes	0	out of 6725
+corrected_typing	n=4	modules_with_all_6_corrected_classes	0	out of 71307
+corrected_typing	n=5	modules_with_all_6_corrected_classes	26292	out of 1873867

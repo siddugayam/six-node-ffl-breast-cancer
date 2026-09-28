@@ -1,0 +1,13 @@
+stage,step,count
+1. Retrieval,DisGeNET v7.0 genes (score >= 0.4),"1,612"
+1. Retrieval,GeneCards v5.19 genes (rescaled relevance >= 0.4),"5,247"
+2. Curation,genes retained after two-curator rule set,"1,057"
+2. Curation,of which annotated TFs (Lambert et al. 2018 census),665
+1. Retrieval,miRNAs from HMDD v4.0 / miR2Disease / PhenomiR 2.0,"1,095 / 132 / 655"
+2. Curation,miRNAs after miRBase v22 harmonisation and curation,421
+3. Pair filter,distinct miRNA-TF pairs tested / retained (lower-tail hypergeometric statistic; Section 2.1),"2,253 / 1,566"
+3. Pair filter,miRNA / regulator entries in the retained pairs (TRRUST TFs among the regulators),344 / 236 (131)
+4. Harmonisation,raw node labels before precursor/mature reconciliation,803
+4. Harmonisation,canonical nodes in the final network,587
+5. Final network,directed signed edges (one FOS->FOS self-loop and 30 exemplar-circuit miRNA-miRNA edges excluded),"6,829"
+5. Final network,miRNA-target edges carrying an evidence tier,"4,819"

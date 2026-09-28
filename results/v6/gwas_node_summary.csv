@@ -1,0 +1,25 @@
+node,node_type,n_gws_snps_in_gene,n_gws_snps_within_50kb,n_gws_snps_within_250kb,n_gws_snps_within_500kb,n_gws_snps_within_1000kb,min_p,min_p_snp,min_p_dist_bp,min_p_trait,min_p_mapped_gene,min_p_reported_gene,min_p_or_beta,min_p_pmid,min_p_study,nearest_snp,nearest_dist_bp,nearest_p,n_gws_snps_named_to_node,named_snps
+E2F1,TF,0,0,0,3,3,3e-09,rs11907546,445565.0,Cancer,RPS2P1 - ASIP,Intergenic,1.1111112,27197191,GCST003587,rs2284378,313863.0,1e-08,0,
+EZH2,TF,0,0,1,1,1,2e-09,rs147963055,60142.0,Trunk fat ratio or breast cancer (pleiotropy),RN7SL569P - RNY4,,,40874817,GCST90693337,rs147963055,60142.0,2e-09,0,
+GATA3,TF,0,0,0,0,2,2e-10,rs67958007,970326.0,Breast cancer,LINC02676 - LINC00709,intergenic,1.09,29059683,GCST004988,rs67958007,970326.0,2e-10,0,
+BRCA1,TF,0,0,2,3,4,4e-14,rs35643058,203344.0,Waist-to-hip ratio adjusted for body mass index or breast cancer (pleiotropy),PSME3,,,40874817,GCST90693329,rs35643058,203344.0,4e-14,0,
+JUN,TF,0,0,0,0,0,,,,,,,,,,,,,0,
+EGR2,TF,0,1,5,14,19,1e-56,rs10995201,271865.0,Chronotype and breast cancer,LINC02929,,,37380357,GCST90651104,rs61865900,3555.0,2e-09,3,rs12765365;rs34146356;rs61865900
+ESR1,TF,13,31,34,34,34,3e-74,rs2046210,24053.0,Breast cancer,CCDC170 - ESR1,,1.11,32139696,GCST90090980,rs910416,0.0,2e-29,32,rs11155804;rs11756568;rs12173562;rs12662670;rs140068132;rs2046210;rs2747652;rs2941741
+SREBF1,TF,0,0,2,5,5,6e-12,rs1242507,348314.0,Chronotype and breast cancer,Y_RNA - MED9,,,37380357,GCST90651104,rs12943500,50239.0,2e-11,0,
+ETS1,comparator,0,0,0,0,0,,,,,,,,,,,,,0,
+POSTN,comparator,0,0,0,0,0,,,,,,,,,,,,,0,
+COL1A2,comparator,0,0,1,1,1,4e-15,rs17268829,53260.0,Breast cancer,COL1A2 - RNU6-1328P,,0.95,32139696,GCST90090980,rs17268829,53260.0,4e-15,1,rs17268829
+DCN,comparator,0,0,0,0,0,,,,,,,,,,,,,0,
+LUM,comparator,0,0,0,0,0,,,,,,,,,,,,,0,
+EPCAM,comparator,0,0,0,0,1,2e-08,rs78786199,826703.0,"Longitudinal cognitive performance (attention, processing and executive function) x breast cancer interaction",VN1R18P - RN7SKP224,,,37296840,GCST90297546,rs78786199,826703.0,2e-08,0,
+miR-21,miRNA,0,0,1,1,1,2e-08,rs2482455,69171.0,Breast cancer,VMP1,,0.97,37340002,GCST90308751,rs2482455,69171.0,2e-08,0,
+miR-195,miRNA,0,0,0,1,2,4e-36,rs78378222,650733.0,Uterine leiomyoma or ER negative breast cancer (pleiotropy),TP53,,,35803233,GCST90134422,rs12452047,430816.0,2e-08,0,
+miR-204,miRNA,0,0,0,0,0,,,,,,,,,,,,,0,
+miR-383,miRNA,0,0,0,0,0,,,,,,,,,,,,,0,
+miR-124,miRNA,0,0,0,0,5,9e-13,rs8126001,901520.0,Waist-to-hip ratio or breast cancer (pleiotropy),OPRL1,,,40874817,GCST90693325,rs7005363,522766.0,2e-08,0,
+miR-155,miRNA,0,0,0,0,0,,,,,,,,,,,,,0,
+miR-429,miRNA,0,0,1,1,3,5e-10,rs186507655,182588.0,Cancer (pleiotropy),DVL1 - MXRA8,Intergenic,,27197191,GCST003588,rs186507655,182588.0,5e-10,0,
+miR-141,miRNA,0,0,0,0,1,2e-09,rs114003206,731413.0,Breast cancer,CD9,,2.11522,35121771,GCST90104178,rs114003206,731413.0,2e-09,0,
+miR-34a,miRNA,0,1,1,1,1,3e-08,rs797256,7630.0,Breast cancer,MIR34AHG,,0.94,37340002,GCST90308751,rs797256,7630.0,3e-08,0,
+miR-101,miRNA,0,0,0,0,0,,,,,,,,,,,,,0,

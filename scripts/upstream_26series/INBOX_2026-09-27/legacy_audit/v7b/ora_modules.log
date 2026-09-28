@@ -1,0 +1,58 @@
+     network             set modules_ge5         universe
+      <char>          <char>       <int>           <char>
+ 1:     full  BioNet_primary           1 A_DEtested_20250
+ 2: nolegacy  BioNet_primary           1 A_DEtested_20250
+ 3:     full  BioNet_primary           1     B_network364
+ 4: nolegacy  BioNet_primary           1     B_network364
+ 5:     full Leiden_mod_r1.0           6 A_DEtested_20250
+ 6: nolegacy Leiden_mod_r1.0           6 A_DEtested_20250
+ 7:     full Leiden_mod_r1.0           6     B_network364
+ 8: nolegacy Leiden_mod_r1.0           6     B_network364
+ 9:     full   Louvain_r1.00           8 A_DEtested_20250
+10: nolegacy   Louvain_r1.00           8 A_DEtested_20250
+11:     full   Louvain_r1.00           8     B_network364
+12: nolegacy   Louvain_r1.00           8     B_network364
+13:     full           MCODE          10 A_DEtested_20250
+14: nolegacy           MCODE          11 A_DEtested_20250
+15:     full           MCODE          10     B_network364
+16: nolegacy           MCODE          11     B_network364
+17:     full   jAM_consensus           1 A_DEtested_20250
+18: nolegacy   jAM_consensus           1 A_DEtested_20250
+19:     full   jAM_consensus           1     B_network364
+20: nolegacy   jAM_consensus           1     B_network364
+     network             set modules_ge5         universe
+      <char>          <char>       <int>           <char>
+    modules_with_sig_coreECM best_coreECM_BH                 best_coreECM_term
+                       <int>           <num>                            <char>
+ 1:                        1    1.397868e-02 extracellular matrix organization
+ 2:                        1    4.945084e-02 extracellular matrix organization
+ 3:                        0    8.727785e-01                    Focal adhesion
+ 4:                        0    8.865437e-01                    Focal adhesion
+ 5:                        4    2.081088e-05 extracellular matrix organization
+ 6:                        2    3.292680e-06              cell-matrix adhesion
+ 7:                        0    1.735610e-01                    Focal adhesion
+ 8:                        0    4.500638e-01              cell-matrix adhesion
+ 9:                        5    3.264029e-05 extracellular matrix organization
+10:                        6    6.237501e-04        collagen metabolic process
+11:                        0    7.018525e-01                    Focal adhesion
+12:                        0    1.797534e-01                    Focal adhesion
+13:                        3    6.158615e-03      collagen fibril organization
+14:                        1    1.103969e-04        collagen metabolic process
+15:                        0    2.944358e-01                    Focal adhesion
+16:                        0    1.178835e-01        collagen metabolic process
+17:                        1    2.651049e-04 extracellular matrix organization
+18:                        1    3.359676e-03                    Focal adhesion
+19:                        0    9.774499e-01                    Focal adhesion
+20:                        0    9.220554e-01                    Focal adhesion
+    modules_with_sig_coreECM best_coreECM_BH                 best_coreECM_term
+                       <int>           <num>                            <char>
+               set ours_rows stored_rows sig_terms_ours sig_terms_stored
+            <char>     <int>       <int>          <int>            <int>
+1: Leiden_mod_r1.0     23635       23635           3011             3011
+2:  BioNet_primary      3890        3890            430              430
+3:   jAM_consensus      5308        5308           1328             1328
+   best_coreECM_BH_ours best_coreECM_BH_stored
+                  <num>                  <num>
+1:            0.1735610              0.1735610
+2:            0.8727785              0.8727785
+3:            0.9774499              0.9774499

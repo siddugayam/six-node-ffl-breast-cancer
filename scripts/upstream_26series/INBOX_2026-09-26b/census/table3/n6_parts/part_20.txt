@@ -1,0 +1,168 @@
+K 6
+nparts 64
+part 20
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 1723992
+visited 402673281
+rng_final 42
+comp 0 1 5 42
+comp 1 0 5 5
+comp 1 1 4 1068
+comp 1 2 3 11303
+comp 1 3 2 21738
+comp 1 4 1 25785
+comp 1 5 0 1
+comp 2 0 4 347
+comp 2 1 3 6145
+comp 2 2 2 40971
+comp 2 3 1 130760
+comp 2 4 0 1256
+comp 3 0 3 4336
+comp 3 1 2 73479
+comp 3 2 1 526432
+comp 3 3 0 10542
+comp 4 0 2 25789
+comp 4 1 1 351512
+comp 4 2 0 81312
+comp 5 0 1 86850
+comp 5 1 0 256385
+comp 6 0 0 67934
+mask 2 11
+mask 3 85
+mask 6 194
+mask 7 25
+mask 11 13
+mask 12 20825
+mask 13 5102
+mask 14 55373
+mask 15 11283
+mask 20 2209
+mask 21 204
+mask 22 2923
+mask 23 357
+mask 26 12
+mask 27 78
+mask 28 39573
+mask 29 7194
+mask 30 5524
+mask 31 4469
+mask 32 4084
+mask 33 20981
+mask 34 72752
+mask 35 87348
+mask 36 27612
+mask 37 1604
+mask 38 169864
+mask 39 4183
+mask 40 90
+mask 41 675
+mask 42 135
+mask 43 586
+mask 44 261998
+mask 45 179104
+mask 46 215593
+mask 47 260560
+mask 52 41111
+mask 53 7229
+mask 54 108853
+mask 55 10435
+mask 56 19
+mask 57 100
+mask 58 343
+mask 59 494
+mask 60 26000
+mask 61 18634
+mask 62 9623
+mask 63 9333
+mask 68 1
+mask 70 92
+mask 76 3877
+mask 77 620
+mask 78 2690
+mask 79 850
+mask 84 340
+mask 85 4
+mask 86 189
+mask 87 6
+mask 92 556
+mask 93 562
+mask 94 80
+mask 95 25
+mask 100 1632
+mask 101 14
+mask 102 4363
+mask 103 21
+mask 108 2851
+mask 109 4248
+mask 110 1231
+mask 111 3149
+mask 116 644
+mask 117 24
+mask 118 782
+mask 119 11
+mask 124 56
+mask 125 211
+mask 126 28
+mask 127 38
+flags 0 1094719
+flags 1 12615
+flags 2 31229
+flags 3 14445
+flags 4 412062
+flags 5 2939
+flags 6 26241
+flags 7 9498
+flags 8 63666
+flags 9 49
+flags 10 1694
+flags 11 1098
+flags 12 36040
+flags 13 36
+flags 14 2046
+flags 15 158
+flags 24 6735
+flags 25 2
+flags 26 132
+flags 27 96
+flags 28 8321
+flags 29 18
+flags 30 136
+flags 31 17
+exflag 0 EP300 DNMT1 IL6 hsa-miR-142 FN1 hsa-miR-200b
+exflag 0 EP300 DNMT1 IL6 hsa-miR-142 FN1 hsa-miR-200c
+exflag 0 EP300 DNMT1 IL6 hsa-miR-142 FN1 hsa-miR-27b
+exflag 1 EP300 DNMT1 EPAS1 MMP14 hsa-miR-27b HBEGF
+exflag 1 EP300 DNMT1 EPAS1 NR4A1 SERPINE1 hsa-miR-148a
+exflag 1 EP300 DNMT1 EPAS1 NR4A1 SERPINE1 hsa-miR-152
+exflag 2 EP300 DNMT1 EPAS1 ESR1 CXCL12 hsa-miR-23a
+exflag 2 EP300 DNMT1 EPAS1 ESR1 FN1 hsa-miR-27a
+exflag 2 EP300 DNMT1 EPAS1 ESR1 MMP14 hsa-miR-181a
+exflag 3 EP300 DNMT1 EPAS1 ESR1 HIF1A hsa-miR-21 | TF1=EP300 TF2=ESR1 miRNA=hsa-miR-21 target=HIF1A
+exflag 3 EP300 DNMT1 EPAS1 ESR1 RELA hsa-miR-17 | TF1=ESR1 TF2=RELA miRNA=hsa-miR-17 target=EPAS1
+exflag 3 EP300 DNMT1 EPAS1 ESR1 RELA hsa-miR-20a | TF1=ESR1 TF2=RELA miRNA=hsa-miR-20a target=EPAS1
+exflag 4 EP300 DNMT1 EPAS1 FOXM1 VEGFA hsa-miR-200c | TF1=EP300 TF2=FOXM1 miRNA=hsa-miR-200c target=VEGFA
+exflag 4 EP300 DNMT1 EPAS1 HIF1A VEGFA hsa-miR-29c | TF1=EPAS1 TF2=HIF1A miRNA=hsa-miR-29c target=VEGFA
+exflag 4 EP300 DNMT1 EPAS1 JUN VEGFA hsa-miR-200c | TF1=EP300 TF2=JUN miRNA=hsa-miR-200c target=VEGFA
+exmask 63 EP300 DNMT1 EPAS1 ESR1 SERPINE1 hsa-miR-148a
+exmask 63 EP300 DNMT1 EPAS1 ESR1 SERPINE1 hsa-miR-152
+exmask 63 EP300 DNMT1 EPAS1 ESR1 VEGFA hsa-miR-106a
+exmask 95 EP300 EZH2 VEGFA hsa-miR-143 hsa-miR-29b HDAC4
+exmask 95 EP300 TP73 VEGFA hsa-miR-143 hsa-miR-29b HDAC4
+exmask 95 TP53 E2F3 VEGFA hsa-miR-143 hsa-miR-19b hsa-miR-29a
+exmask 111 EP300 DNMT1 EPAS1 VEGFA hsa-miR-29c hsa-miR-29a
+exmask 111 EP300 DNMT1 ESR1 VEGFA hsa-miR-143 hsa-miR-29a
+exmask 111 EP300 DNMT1 ESR1 VEGFA hsa-miR-143 hsa-miR-29b
+exmask 119 EP300 EZH2 IL6 JUND hsa-miR-143 hsa-miR-29b
+exmask 119 EP300 IL6 JUND TP73 hsa-miR-143 hsa-miR-29b
+exmask 119 TP53 FAS KLF2 YBX1 hsa-miR-143 hsa-miR-29b
+exmask 125 EP300 EPAS1 ESR1 SERPINE1 hsa-miR-143 hsa-miR-29b
+exmask 125 EP300 EPAS1 ESR1 VEGFA hsa-miR-143 hsa-miR-29b
+exmask 125 EP300 EPAS1 FOS BCL2L1 hsa-miR-29c hsa-let-7b
+exmask 126 EP300 ESR1 FOS FOSL1 hsa-miR-143 hsa-miR-29a
+exmask 126 EP300 ESR1 FOS FOSL1 hsa-miR-143 hsa-miR-29b
+exmask 126 EP300 ESR1 FOS FOSL1 hsa-miR-143 hsa-miR-29c
+exmask 127 EP300 EPAS1 EZH2 SERPINE1 hsa-miR-143 hsa-miR-29b
+exmask 127 EP300 EPAS1 EZH2 VEGFA hsa-miR-143 hsa-miR-29b
+exmask 127 EP300 EPAS1 SERPINE1 TP73 hsa-miR-143 hsa-miR-29b

@@ -1,0 +1,5 @@
+comparison,rho,n
+"canonical (mean of 3p and 5p), 1,066 samples",-0.246335329121253,1066
+"3p arm only, same samples",-0.158122322100908,1066
+"5p arm only, same samples",-0.23118011844789,1066
+"stored results/v6/pancancer_axes.csv (3p arm, pan-cancer matrices)",-0.159779252620659,1065

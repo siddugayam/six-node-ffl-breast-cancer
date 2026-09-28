@@ -1,0 +1,8 @@
+algorithm,igraph_run,cm2_run,ARI,k_igraph,k_cm2
+MCL I=2.2,MCL_I2.2,cm2_mcl_I22,0.992,204,203
+MCL I=2.5,MCL_I2.5,cm2_mcl_I25,0.292,281,242
+Louvain,Louvain_r1.00,cm2_louvain_cm2,0.182,8,8
+Fast-greedy,FastGreedy,cm2_fastgreedy_cm2,0.404,7,5
+Infomap,Infomap_t10,cm2_infomap_cm2_t10,1,3,3
+Label propagation,LabelProp_best,cm2_labelprop_cm2,1,1,1
+Leading eigenvector,LeadingEigen,cm2_leadeig_cm2,1,5,5

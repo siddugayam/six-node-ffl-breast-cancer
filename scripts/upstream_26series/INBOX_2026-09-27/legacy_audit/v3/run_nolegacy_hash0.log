@@ -1,0 +1,279 @@
+
+######## nolegacy: 01_architecture.py
+DiGraph: N=587 M=6829
+wrote systems_degree_table.csv
+bow-tie: {'IN': 6, 'CORE': 362, 'OUT': 215, 'TUBES': 1, 'TENDRILS_from_IN': 0, 'TENDRILS_to_OUT': 3, 'OTHER': 0}
+bow-tie composition: {'OUT': {'Gene': 207, 'TF': 2, 'miRNA': 6}, 'CORE': {'TF': 152, 'miRNA': 210}, 'IN': {'TF': 1, 'miRNA': 5}, 'PERIPHERY': {'TF': 2, 'miRNA': 2}}
+trophic incoherence F0 = 0.6238 {'Gene': 1.4991170399629137, 'TF': 0.56845884311202, 'miRNA': 0.49151984670148186}
+null 50
+null 100
+null 150
+null 200
+FFL z = -13.61 core obs/null = 362 361.925
+{
+  "Ck_n_bins": 69,
+  "Ck_scaling_exponent": -0.1668507667757879,
+  "Ck_scaling_r": -0.2234749888740474,
+  "LSCC_size": 362,
+  "LWCC_size": 587,
+  "M": 6829,
+  "M_undirected": 5606,
+  "N": 587,
+  "SCC_sizes_top10": [
+    362,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "avg_clustering_directed": 0.025998161210858597,
+  "avg_clustering_undirected": 0.03857847064121077,
+  "bowtie": {
+    "CORE": 362,
+    "IN": 6,
+    "OTHER": 0,
+    "OUT": 215,
+    "TENDRILS_from_IN": 0,
+    "TENDRILS_to_OUT": 3,
+    "TUBES": 1
+  },
+  "bowtie_types": {
+    "CORE": {
+      "TF": 152,
+      "miRNA": 210
+    },
+    "IN": {
+      "TF": 1,
+      "miRNA": 5
+    },
+    "OUT": {
+      "Gene": 207,
+      "TF": 2,
+      "miRNA": 6
+    },
+    "PERIPHERY": {
+      "TF": 2,
+      "miRNA": 2
+    }
+  },
+  "core_p_emp": 0.5373134328358209,
+  "deg_in_max": 90,
+  "deg_in_mean": 11.633730834752981,
+  "deg_in_n_zero": 5,
+  "deg_out_max": 91,
+  "deg_out_mean": 11.633730834752981,
+  "deg_out_n_zero": 206,
+  "deg_total_max": 140,
+  "deg_total_mean": 23.267461669505963,
+  "deg_total_n_zero": 0,
+  "edges_within_core": 2846,
+  "edges_within_core_frac": 0.41675208668911995,
+  "ffl_closure_counts": [
+    3083,
+    49845
+  ],
+  "ffl_closure_observed": 0.058248941958887544,
+  "ffl_cores_raw": 3083,
+  "ffl_cores_unique": 1649,
+  "ffl_p_emp": 1.0,
+  "ffl_zscore": -13.613163892718386,
+  "flow_hierarchy": 0.5826621760140577,
+  "global_reaching_centrality": 0.3705139256135773,
+  "grc_p_emp": 0.8308457711442786,
+  "n_SCC": 224,
+  "n_SCC_size1": 221,
+  "n_WCC": 1,
+  "null_core_mean": 361.925,
+  "null_core_sd": 2.9295539647121713,
+  "null_ffl_mean": 2779.17,
+  "null_ffl_sd": 83.02037710752329,
+  "null_grc_mean": 0.37572292630083054,
+  "null_grc_sd": 0.004793567642095147,
+  "null_n": 200,
+  "reciprocity": 0.3581783570068824,
+  "transitivity_undirected": 0.030312674039303048,
+  "trophic_incoherence_F0": 0.6237830079496275,
+  "trophic_level_mean_by_type": {
+    "Gene": 1.4991170399629137,
+    "TF": 0.56845884311202,
+    "miRNA": 0.49151984670148186
+  },
+  "trophic_level_range": [
+    0.0,
+    1.7983525496642603
+  ]
+}
+
+######## nolegacy: 03_controllability.py
+N=587  |M*|=380  N_D=207  n_D/N=0.3526  drivers listed=207
+roles: Counter({'intermittent': 493, 'redundant': 89, 'critical': 5})
+deletion classes: Counter({'neutral': 379, 'dispensable': 203, 'indispensable': 5})
+wrote systems_controllability_nodes.csv
+FFL_hub (hub_ffl==TRUE)    driver_node      14/60 (0.233) vs 0.366  OR=0.527 p=0.0458
+FFL_hub (hub_ffl==TRUE)    indispensable    0/60 (0.000) vs 0.009  OR=0 p=1
+FFL_hub (hub_ffl==TRUE)    dispensable      12/60 (0.200) vs 0.362  OR=0.44 p=0.0143
+FFL_hub (hub_ffl==TRUE)    critical_driver  0/60 (0.000) vs 0.009  OR=0 p=1
+top20_FFL_participation    driver_node      3/20 (0.150) vs 0.360  OR=0.314 p=0.0587
+top20_FFL_participation    indispensable    0/20 (0.000) vs 0.009  OR=0 p=1
+top20_FFL_participation    dispensable      3/20 (0.150) vs 0.353  OR=0.324 p=0.0913
+top20_FFL_participation    critical_driver  0/20 (0.000) vs 0.009  OR=0 p=1
+miR-29 family              driver_node      3/3 (1.000) vs 0.349  OR=inf p=0.0434
+miR-29 family              indispensable    0/3 (0.000) vs 0.009  OR=0 p=1
+miR-29 family              dispensable      0/3 (0.000) vs 0.348  OR=0 p=0.555
+miR-29 family              critical_driver  0/3 (0.000) vs 0.009  OR=0 p=1
+miR-29/collagen module     driver_node      3/5 (0.600) vs 0.351  OR=2.78 p=0.351
+miR-29/collagen module     indispensable    0/5 (0.000) vs 0.009  OR=0 p=1
+miR-29/collagen module     dispensable      1/5 (0.200) vs 0.347  OR=0.47 p=0.664
+miR-29/collagen module     critical_driver  0/5 (0.000) vs 0.009  OR=0 p=1
+
+--- module / hub nodes ---
+hsa-miR-29a    miRNA  deg=61   ffl=63   driver=True  freq=0.036 role=intermittent neutral        dND=+0
+hsa-miR-29b    miRNA  deg=67   ffl=100  driver=True  freq=0.025 role=intermittent neutral        dND=+0
+hsa-miR-29c    miRNA  deg=53   ffl=111  driver=True  freq=0.179 role=intermittent neutral        dND=+0
+COL1A1         Gene   deg=31   ffl=21   driver=False freq=0.001 role=redundant    dispensable    dND=-1
+COL3A1         Gene   deg=10   ffl=0    driver=False freq=0.000 role=redundant    neutral        dND=+0
+SP1            TF     deg=119  ffl=436  driver=False freq=0.028 role=intermittent neutral        dND=+0
+RELA           TF     deg=130  ffl=389  driver=False freq=0.000 role=redundant    neutral        dND=+0
+NFKB1          TF     deg=120  ffl=338  driver=False freq=0.000 role=redundant    neutral        dND=+0
+VEGFA          Gene   deg=77   ffl=328  driver=False freq=0.000 role=redundant    dispensable    dND=-1
+CCND2          Gene   deg=90   ffl=257  driver=False freq=0.000 role=redundant    neutral        dND=+0
+STAT3          TF     deg=98   ffl=233  driver=False freq=0.003 role=intermittent neutral        dND=+0
+MYC            TF     deg=125  ffl=168  driver=False freq=0.000 role=redundant    neutral        dND=+0
+HIF1A          TF     deg=108  ffl=165  driver=False freq=0.000 role=redundant    neutral        dND=+0
+TP53           TF     deg=140  ffl=148  driver=False freq=0.000 role=redundant    neutral        dND=+0
+E2F1           TF     deg=80   ffl=129  driver=False freq=0.001 role=intermittent neutral        dND=+0
+hsa-miR-17     miRNA  deg=75   ffl=126  driver=False freq=0.043 role=intermittent neutral        dND=+0
+TWIST1         TF     deg=83   ffl=124  driver=False freq=0.000 role=redundant    neutral        dND=+0
+ABCA1          Gene   deg=68   ffl=120  driver=False freq=0.000 role=redundant    dispensable    dND=-1
+hsa-miR-29c    miRNA  deg=53   ffl=111  driver=True  freq=0.179 role=intermittent neutral        dND=+0
+hsa-miR-20a    miRNA  deg=75   ffl=110  driver=True  freq=0.042 role=intermittent neutral        dND=+0
+{
+  "N": 587,
+  "matching_size": 380,
+  "N_D": 207,
+  "n_D_over_N": 0.3526405451448041,
+  "n_drivers_listed": 207,
+  "roles": {
+    "redundant": 89,
+    "intermittent": 493,
+    "critical": 5
+  },
+  "deletion_classes": {
+    "dispensable": 203,
+    "neutral": 379,
+    "indispensable": 5
+  },
+  "spearman_driverfreq_vs_fflparticipation": [
+    -0.41676889803965705,
+    4.551863766429282e-26
+  ],
+  "spearman_driverfreq_vs_degree": [
+    -0.5279799673390972,
+    1.9120844728602162e-43
+  ],
+  "n_matchings_sampled": 2000
+}
+
+######## nolegacy: 13_matching_crosscheck.py
+{
+  "N": 587,
+  "matching_size_scipy": 380,
+  "matching_size_networkx": 380,
+  "agree": true,
+  "N_D_scipy": 207,
+  "N_D_networkx": 207,
+  "n_D_fraction": 0.3526405451448041,
+  "n_in_degree_zero": 5,
+  "in_degree_zero_nodes": [
+    "hsa-miR-1",
+    "hsa-miR-196a",
+    "hsa-miR-454",
+    "hsa-miR-487a",
+    "hsa-miR-767"
+  ],
+  "in_degree_zero_types": [
+    "miRNA",
+    "miRNA",
+    "miRNA",
+    "miRNA",
+    "miRNA"
+  ]
+}
+
+######## nolegacy: 04_information_flow.py
+N=587 directed M=6829 undirected M=5606
+current-flow betweenness ...
+information centrality ...
+shortest-path betweenness (directed) ...
+spectral radius of (1-lambda)P = 0.4851 (<1 required for convergence)
+wrote systems_information_flow.csv
+current_flow_betweenness               rho_vs_degree=+0.954 top20 overlap=12/20 J=0.43
+information_centrality                 rho_vs_degree=+0.977 top20 overlap=13/20 J=0.48
+rw_throughput_betweenness              rho_vs_degree=+0.434 top20 overlap=10/20 J=0.33
+rw_flux_in                             rho_vs_degree=+0.677 top20 overlap=8/20 J=0.25
+shortest_path_betweenness_directed     rho_vs_degree=+0.485 top20 overlap=13/20 J=0.48
+ffl_participation                      rho_vs_degree=+0.774 top20 overlap=14/20 J=0.54
+
+Top 10 by current-flow betweenness: ['SP1', 'TP53', 'CCND2', 'RELA', 'NFKB1', 'VEGFA', 'TWIST1', 'HNF4A', 'hsa-miR-124', 'hsa-miR-21']
+Top 10 by degree            : ['TP53', 'RELA', 'MYC', 'NFKB1', 'SP1', 'HIF1A', 'STAT3', 'CCND2', 'EGR1', 'TWIST1']
+Top 10 by information centr.: ['SP1', 'CCND2', 'RELA', 'NFKB1', 'TP53', 'VEGFA', 'ADAMTS5', 'TGFBR2', 'MYC', 'ABCA1']
+Top 10 by RW throughput     : ['TP53', 'TWIST1', 'FOS', 'hsa-miR-21', 'HNF4A', 'RELA', 'hsa-miR-145', 'MYC', 'hsa-miR-200b', 'HIF1A']
+
+Flow bottlenecks (rank gain over degree): [('IL6', 26, 211, 35), ('SOX3', 6, 494, 324), ('COL3A1', 10, 395, 249), ('CXCR5', 15, 310, 166), ('WNT5A', 13, 349, 214), ('POSTN', 6, 493, 366), ('INSM1', 11, 382, 261), ('GAD1', 12, 373, 259), ('TYMS', 9, 425, 316), ('hsa-miR-129', 28, 183, 74)]
+hsa-miR-29a    deg=61   rank_deg=37   rank_CFB=23   rank_IC=38   rank_RW=33  
+hsa-miR-29b    deg=67   rank_deg=27   rank_CFB=16   rank_IC=23   rank_RW=28  
+hsa-miR-29c    deg=53   rank_deg=50   rank_CFB=51   rank_IC=48   rank_RW=76  
+COL1A1         deg=31   rank_deg=151  rank_CFB=85   rank_IC=128  rank_RW=26  
+COL3A1         deg=10   rank_deg=395  rank_CFB=249  rank_IC=385  rank_RW=515 
+SP1            deg=119  rank_deg=5    rank_CFB=1    rank_IC=1    rank_RW=49  
+RELA           deg=130  rank_deg=2    rank_CFB=4    rank_IC=3    rank_RW=6   
+NFKB1          deg=120  rank_deg=4    rank_CFB=5    rank_IC=4    rank_RW=11  
+MYC            deg=125  rank_deg=3    rank_CFB=12   rank_IC=9    rank_RW=8   
+STAT3          deg=98   rank_deg=7    rank_CFB=19   rank_IC=13   rank_RW=19  
+HIF1A          deg=108  rank_deg=6    rank_CFB=13   rank_IC=11   rank_RW=10  
+TP53           deg=140  rank_deg=1    rank_CFB=2    rank_IC=5    rank_RW=1   
+VEGFA          deg=77   rank_deg=14   rank_CFB=6    rank_IC=6    rank_RW=410 
+hsa-miR-130a   deg=66   rank_deg=29   rank_CFB=26   rank_IC=15   rank_RW=126 
+
+######## nolegacy: 12_controllability_degree_control.py
+          Coef.  Std.Err.          z         P>|z|    [0.025    0.975]
+const  5.123508  0.655459   7.816671  5.423852e-15  3.838832  6.408184
+x1    -1.355243  0.197843  -6.850109  7.379381e-12 -1.743007 -0.967479
+x2    -2.697229  0.314660  -8.571883  1.018063e-17 -3.313952 -2.080507
+x3    -5.182466  0.471428 -10.993112  4.124534e-28 -6.106449 -4.258483
+x4     0.426100  0.445160   0.957185  3.384741e-01 -0.446397  1.298597
+
+is_FFL_hub coefficient after adjusting for degree and node type: +0.426 (p = 0.338)
+log(FFL participation+1) coefficient after the same adjustment: -0.027 (p = 0.858)
+
+degree-matched null: FFL hubs 0.233 driver rate vs matched non-hubs 0.130 +/- 0.037, one-sided p = 0.9982 (10000 resamples)
+
+STRUCTURAL CONSTRAINTS: {
+  "n_out_degree_zero": 206,
+  "out_degree_zero_by_type": {
+    "Gene": 206
+  },
+  "n_in_degree_zero": 5,
+  "in_degree_zero_by_type": {
+    "miRNA": 5
+  },
+  "genes_with_any_out_edge": [
+    "COL1A1"
+  ],
+  "edge_class_counts": {
+    "TF->TF": 89,
+    "TF->Gene": 681,
+    "TF->miRNA": 1239,
+    "Gene->Gene": 1,
+    "miRNA->Gene": 3266,
+    "miRNA->TF": 1553
+  },
+  "note": "206 of the 207 genes have out-degree 0 because the assembled network contains essentially no gene->anything edges (one STRING edge, COL1A1->COL3A1). The bow-tie OUT layer being made of genes, and genes never appearing in the strongly connected core, are therefore consequences of how the network was built, not discoveries about breast cancer regulation. Likewise the 5 \"critical\" driver nodes are exactly the 5 miRNAs with in-degree 0, which must be drivers in every control configuration."
+}
+
+wrote systems_controllability_degree_control.{csv,json}

@@ -1,0 +1,83 @@
+                run k_clusters modularity COL1A1_module_size COL3A1_in
+             <char>      <int>      <num>              <int>    <lgcl>
+ 1: Leiden_mod_r1.0          6     0.2702                123     FALSE
+ 2:   Louvain_r1.00          8     0.2638                 59     FALSE
+ 3:   Louvain_r1.25         12     0.2539                 62     FALSE
+ 4:   Louvain_r1.50         18     0.2499                 44      TRUE
+ 5: Leiden_mod_r2.0         26     0.2395                 33     FALSE
+ 6:   Louvain_r2.00         26     0.2364                 33      TRUE
+ 7:   Louvain_r0.75          3     0.2294                151      TRUE
+ 8:    LeadingEigen          7     0.2230                 49      TRUE
+ 9:      FastGreedy          8     0.2201                147     FALSE
+10:   FastGreedy_k8          8     0.2201                147     FALSE
+11:  FastGreedy_k10         10     0.2201                147     FALSE
+12:   FastGreedy_k5          5     0.2196                150     FALSE
+13:  FastGreedy_k20         20     0.2191                147     FALSE
+14:   FastGreedy_k3          3     0.2128                238      TRUE
+    miR29a_in trio_together TFarm_all_in
+       <lgcl>        <lgcl>       <lgcl>
+ 1:     FALSE         FALSE        FALSE
+ 2:     FALSE         FALSE        FALSE
+ 3:     FALSE         FALSE        FALSE
+ 4:     FALSE         FALSE        FALSE
+ 5:     FALSE         FALSE        FALSE
+ 6:     FALSE         FALSE        FALSE
+ 7:     FALSE         FALSE        FALSE
+ 8:     FALSE         FALSE        FALSE
+ 9:     FALSE         FALSE        FALSE
+10:     FALSE         FALSE        FALSE
+11:     FALSE         FALSE        FALSE
+12:     FALSE         FALSE        FALSE
+13:     FALSE         FALSE        FALSE
+14:     FALSE         FALSE        FALSE
+                run best_size prior30_in_best hyper_p best_has_COL1A1
+             <char>     <int>           <int>   <num>          <lgcl>
+ 1:   Louvain_r0.75       271              18 0.08510           FALSE
+ 2:   Louvain_r1.00        49               6 0.03120           FALSE
+ 3:   Louvain_r1.25        52               6 0.04060           FALSE
+ 4:   Louvain_r1.50        38               6 0.00923           FALSE
+ 5:   Louvain_r2.00        30               4 0.05990           FALSE
+ 6:      FastGreedy       167              11 0.20500           FALSE
+ 7:   FastGreedy_k3       167              11 0.20500           FALSE
+ 8:   FastGreedy_k5       167              11 0.20500           FALSE
+ 9:   FastGreedy_k8       167              11 0.20500           FALSE
+10:  FastGreedy_k10       167              11 0.20500           FALSE
+11:  FastGreedy_k20       163              11 0.18100           FALSE
+12:    LeadingEigen        52               5 0.11600           FALSE
+13: Leiden_mod_r1.0       133              13 0.00787           FALSE
+14: Leiden_mod_r2.0        30               6 0.00266           FALSE
+    best_has_VEGFA best_has_miR200
+            <lgcl>          <lgcl>
+ 1:           TRUE            TRUE
+ 2:          FALSE           FALSE
+ 3:           TRUE            TRUE
+ 4:           TRUE            TRUE
+ 5:           TRUE            TRUE
+ 6:           TRUE            TRUE
+ 7:           TRUE            TRUE
+ 8:           TRUE            TRUE
+ 9:           TRUE            TRUE
+10:           TRUE            TRUE
+11:           TRUE            TRUE
+12:          FALSE            TRUE
+13:          FALSE            TRUE
+14:          FALSE            TRUE
+List of 10
+ $ mode                          : chr "nolegacy"
+ $ nodes                         : int 587
+ $ undirected_edges              : num 5606
+ $ usable_runs                   : int 14
+ $ usable_runs_igraph            : int 14
+ $ trio_together_all_runs        : chr "0 of 14"
+ $ trio_together_igraph_runs     : chr "0 of 14"
+ $ miR29a_in_COL1A1_module_igraph: chr "0 of 14"
+ $ TFarm_all_with_COL1A1_igraph  : chr "0 of 14"
+ $ rewiring_null                 :List of 2
+  ..$ louvain   :List of 3
+  .. ..$ observed : int 0
+  .. ..$ null_mean: num 0.014
+  .. ..$ p        : num 1
+  ..$ fastgreedy:List of 3
+  .. ..$ observed : int 0
+  .. ..$ null_mean: num 0.056
+  .. ..$ p        : num 1

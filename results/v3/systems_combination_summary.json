@@ -1,0 +1,55 @@
+{
+  "n_nodes": 587,
+  "n_pairs": 171991,
+  "best_single": {
+    "node": "SP1",
+    "composite": 0.046934,
+    "dFFL": 0.137053,
+    "dReach": 0.0,
+    "dCOL": 0.003751
+  },
+  "best_single_druggable": {
+    "node": "SP1",
+    "composite": 0.046934
+  },
+  "best_pair": {
+    "A": "RELA",
+    "B": "SP1",
+    "composite": 0.08932410567067423,
+    "sum_of_singles": 0.09293909511863667,
+    "synergy": -0.003614989447962444,
+    "ratio_to_best_single": 1.9031854448944099
+  },
+  "best_druggable_pair": {
+    "A": "RELA",
+    "B": "SP1",
+    "composite": 0.08932410567067423,
+    "sum_of_singles": 0.09293909511863667,
+    "synergy": -0.003614989447962444,
+    "ratio_to_best_druggable_single": 1.9031854448944099
+  },
+  "random_pair_null": {
+    "mean": 0.005387185095820674,
+    "sd": 0.007269229581629243,
+    "median": 0.0028633902853010718,
+    "q90": 0.012691427826968396,
+    "q99": 0.0394990990680378,
+    "q999": 0.05166183258835225,
+    "max": 0.08932410567067423
+  },
+  "n_pairs_beating_best_single": 739,
+  "frac_pairs_beating_best_single": 0.0042967364571402,
+  "n_druggable_pairs": 28680,
+  "n_druggable_pairs_beating_best_druggable_single": 308,
+  "synergy": {
+    "mean": -0.0001557115619498536,
+    "sd": 0.0006905827299173611,
+    "n_positive": 64771,
+    "frac_positive": 0.3765952869626899,
+    "max": 0.006745712126872,
+    "min": -0.024003053097317522,
+    "q99": 2.9161362810488325e-05
+  },
+  "z_of_best_pair_vs_random_pairs": 11.546879849135385,
+  "empirical_p_best_pair": 5.81425772278782e-06
+}

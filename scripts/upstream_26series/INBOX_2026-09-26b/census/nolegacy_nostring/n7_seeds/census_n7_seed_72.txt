@@ -1,0 +1,57 @@
+K=7  files=1  prod_q=0.00225  found=195,867  estimate=87,052,000.0  visited=283,536,475
+composition (TF, miRNA, Gene): found
+  TF=3 miRNA=3 Gene=1: 72,027  (36.7734 %)
+  TF=4 miRNA=2 Gene=1: 50,291  (25.6761 %)
+  TF=2 miRNA=4 Gene=1: 26,953  (13.7609 %)
+  TF=5 miRNA=1 Gene=1: 9,281  (4.7384 %)
+  TF=5 miRNA=2 Gene=0: 8,367  (4.2718 %)
+  TF=4 miRNA=3 Gene=0: 6,666  (3.4033 %)
+  TF=2 miRNA=3 Gene=2: 6,487  (3.3119 %)
+  TF=3 miRNA=2 Gene=2: 5,466  (2.7907 %)
+  TF=6 miRNA=1 Gene=0: 3,668  (1.8727 %)
+  TF=4 miRNA=1 Gene=2: 1,503  (0.7674 %)
+  TF=3 miRNA=4 Gene=0: 1,481  (0.7561 %)
+  TF=1 miRNA=5 Gene=1: 1,465  (0.7480 %)
+  TF=6 miRNA=0 Gene=1: 884  (0.4513 %)
+  TF=1 miRNA=4 Gene=2: 522  (0.2665 %)
+  TF=7 miRNA=0 Gene=0: 310  (0.1583 %)
+  TF=2 miRNA=2 Gene=3: 193  (0.0985 %)
+  TF=5 miRNA=0 Gene=2: 143  (0.0730 %)
+  TF=1 miRNA=3 Gene=3: 58  (0.0296 %)
+  TF=2 miRNA=5 Gene=0: 48  (0.0245 %)
+  TF=3 miRNA=1 Gene=3: 47  (0.0240 %)
+  TF=4 miRNA=0 Gene=3: 6  (0.0031 %)
+  TF=2 miRNA=1 Gene=4: 1  (0.0005 %)
+flags: found, estimate, %
+  a_2TF_2miR_2Gene: 12,146  est 5,398,222.2  (6.2011 %)
+  b_nodetype_TFTF_GeneGene_TFmiRGene: 3,906  est 1,736,000.0  (1.9942 %)
+  b_paperclass_TFTF_GeneGene_TFmiRGene: 58  est 25,777.8  (0.0296 %)
+  c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM: 24,387  est 10,838,666.7  (12.4508 %)
+  c_full_compositecore_plus_TF2: 5,322  est 2,365,333.3  (2.7171 %)
+distinct paper edge classes per module: 1: 313, 2: 4,905, 3: 83,332, 4: 82,388, 5: 24,913, 6: 16
+class sets with >= 6 classes:
+  [6] TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene: 16
+examples a_2TF_2miR_2Gene:
+  AHR MYC CCND2 hsa-miR-106b IRF9 TWIST1 hsa-miR-141
+  AHR MYC CCND2 hsa-miR-106b hsa-miR-141 STAT5A hsa-miR-18a
+  AHR MYC CCND2 hsa-miR-106b hsa-miR-141 STAT5A hsa-miR-23a
+examples b_nodetype_TFTF_GeneGene_TFmiRGene:
+  AHR FOS MYC CCND2 NFKB1 hsa-miR-340 IRF9
+  AHR MYC CCND2 hsa-miR-106b IRF9 TWIST1 hsa-miR-141
+  AHR MYC CCND2 hsa-miR-106b hsa-miR-141 STAT5A hsa-miR-18a
+examples b_paperclass_TFTF_GeneGene_TFmiRGene:
+  AR MYC hsa-let-7c COL1A1 COL3A1 hsa-let-7d hsa-miR-29a
+  AR MYC hsa-let-7d COL1A1 COL3A1 hsa-miR-133b hsa-miR-29b
+  BRCA1 EGR1 STAT1 hsa-miR-29a COL1A1 COL3A1 hsa-miR-335
+examples c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM:
+  AHR BRCA1 FOS MYC VEGFA hsa-miR-106b EPAS1 | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+  AHR BRCA1 FOS MYC VEGFA hsa-miR-106b hsa-miR-17 | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+  AHR BRCA1 FOS MYC VEGFA hsa-miR-106b hsa-miR-372 | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+examples c_full_compositecore_plus_TF2:
+  AHR FOS MYC CCND2 NFKB1 E2F1 hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2
+  AHR FOS MYC CCND2 NFKB1 hsa-let-7c hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2
+  APEX1 NFKB1 ABCA1 E2F1 RELA hsa-miR-130a hsa-miR-19a | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+examples class set TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene:
+  ETS1 COL1A1 COL3A1 TP53 hsa-miR-143 hsa-miR-26a HIF1A
+  ETS1 COL1A1 COL3A1 TP53 hsa-miR-20a EPAS1 hsa-miR-29c
+  MYB CEBPA COL1A1 COL3A1 hsa-miR-29b HIF1A hsa-miR-193a

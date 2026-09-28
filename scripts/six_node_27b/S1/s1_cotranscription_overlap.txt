@@ -1,0 +1,3 @@
+co-transcribed pairs 480; other miRNA pairs 24273
+target-set Jaccard: co-transcribed mean 0.156 (median 0.091); other pairs mean 0.054 (median 0.043)
+TF-regulator-set Jaccard: co-transcribed mean 0.529 (median 0.500); other pairs mean 0.038 (median 0.000)

@@ -1,0 +1,14 @@
+MCL I=1.8  k=63  iters=22 converged=TRUE
+MCL I=2.0  k=122  iters=20 converged=TRUE
+MCL I=2.2  k=204  iters=14 converged=TRUE
+MCL I=2.5  k=281  iters=11 converged=TRUE
+MCL I=3.0  k=381  iters=10 converged=TRUE
+MCL I=3.5  k=421  iters=9 converged=TRUE
+MCL I=4.0  k=456  iters=8 converged=TRUE
+Warning message:
+In cluster_edge_betweenness(g) :
+  At vendor/cigraph/src/community/edge_betweenness.c:503 : Membership vector will be selected based on the highest modularity score.
+
+label propagation over 100 restarts: k in [ 1,1 ], modularity in [ 0.0000,0.0000 ]
+wrote results/v7/cm2_igraph_partitions.csv and cm2_igraph_runs.csv
+exit 0

@@ -1,0 +1,110 @@
+K 6
+nparts 64
+part 37
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 404716
+visited 210531443
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 197
+comp 1 3 2 2825
+comp 1 4 1 7481
+comp 2 1 3 86
+comp 2 2 2 11442
+comp 2 3 1 157933
+comp 2 4 0 739
+comp 3 0 3 11
+comp 3 1 2 3939
+comp 3 2 1 147171
+comp 3 3 0 12532
+comp 4 0 2 432
+comp 4 1 1 26950
+comp 4 2 0 20130
+comp 5 0 1 2579
+comp 5 1 0 9409
+comp 6 0 0 859
+mask 2 859
+mask 3 3022
+mask 6 6153
+mask 7 875
+mask 10 1
+mask 11 102
+mask 12 4226
+mask 13 2562
+mask 14 140747
+mask 15 92368
+mask 18 5
+mask 19 4
+mask 20 3162
+mask 21 791
+mask 22 31842
+mask 23 7041
+mask 26 12
+mask 27 37
+mask 28 31307
+mask 29 12752
+mask 30 19936
+mask 31 30832
+mask 45 8
+mask 47 113
+mask 61 34
+mask 63 17
+mask 70 668
+mask 71 17
+mask 76 1669
+mask 77 727
+mask 78 5494
+mask 79 3714
+mask 84 204
+mask 85 6
+mask 86 776
+mask 87 38
+mask 92 779
+mask 93 951
+mask 94 429
+mask 95 393
+mask 109 11
+mask 111 31
+mask 127 1
+flags 0 358870
+flags 1 7293
+flags 2 1139
+flags 3 3366
+flags 6 56
+flags 7 93
+flags 8 21709
+flags 9 42
+flags 10 127
+flags 11 347
+flags 14 13
+flags 24 11336
+flags 25 69
+flags 26 24
+flags 27 232
+exflag 0 NFKB1 ABCA1 MYC hsa-miR-101 hsa-miR-200b SMAD7
+exflag 0 NFKB1 ABCA1 MYC hsa-miR-101 hsa-miR-21 SMAD7
+exflag 0 NFKB1 ABCA1 MYC hsa-miR-101 hsa-miR-27b HIC1
+exflag 1 NFKB1 ATF3 HIF1A MET hsa-miR-590 SMAD7
+exflag 1 NFKB1 ATF3 HIF1A MMP2 NR4A1 hsa-miR-17
+exflag 1 NFKB1 ATF3 HIF1A MMP2 NR4A1 hsa-miR-20a
+exflag 2 NFKB1 COL1A1 COL3A1 CTCF MYC hsa-let-7b
+exflag 2 NFKB1 COL1A1 COL3A1 CTCF MYC hsa-let-7e
+exflag 2 NFKB1 COL1A1 COL3A1 CTCF MYC hsa-miR-29a
+exflag 3 NFKB1 ABCA1 CTCF E2F1 MYC hsa-miR-17 | TF1=NFKB1 TF2=E2F1 miRNA=hsa-miR-17 target=MYC
+exflag 3 NFKB1 ABCA1 CTCF E2F1 MYC hsa-miR-23b | TF1=NFKB1 TF2=E2F1 miRNA=hsa-miR-23b target=MYC
+exflag 3 NFKB1 ABCA1 CTCF MYC GATA1 hsa-miR-148a | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-148a target=GATA1
+exflag 4 NFKB1 ABCA1 HIF1A YY1 hsa-miR-101 hsa-miR-29b | TF1=NFKB1 TF2=YY1 miRNA=hsa-miR-29b target=HIF1A
+exflag 4 NFKB1 ABCA1 HIF1A YY1 hsa-miR-1271 hsa-miR-29b | TF1=NFKB1 TF2=YY1 miRNA=hsa-miR-29b target=HIF1A
+exflag 4 NFKB1 ABCA1 HIF1A YY1 hsa-miR-130a hsa-miR-29b | TF1=NFKB1 TF2=YY1 miRNA=hsa-miR-29b target=HIF1A
+exmask 63 NFKB1 COL1A1 COL3A1 HIF1A hsa-miR-193a hsa-miR-29b
+exmask 63 NFKB1 COL1A1 COL3A1 HIF1A hsa-miR-29b hsa-miR-382
+exmask 63 NFKB1 COL1A1 COL3A1 IRF1 hsa-miR-130a hsa-miR-29b
+exmask 95 NFKB1 ABCA1 hsa-let-7b HIC1 STAT3 hsa-miR-29b
+exmask 95 NFKB1 ABCA1 hsa-miR-29b STAT3 hsa-let-7e HIC1
+exmask 95 NFKB1 ATF3 ID1 hsa-let-7b hsa-miR-27b hsa-miR-29a
+exmask 111 NFKB1 COL1A1 COL3A1 E2F1 hsa-let-7b hsa-miR-29a
+exmask 111 NFKB1 COL1A1 COL3A1 E2F1 hsa-miR-29a hsa-miR-29c
+exmask 111 NFKB1 COL1A1 COL3A1 FOXO3 hsa-let-7b hsa-let-7e
+exmask 127 NFKB1 COL1A1 COL3A1 HIF1A hsa-let-7e hsa-miR-29b

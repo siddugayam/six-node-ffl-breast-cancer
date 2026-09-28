@@ -1,0 +1,40 @@
+
+== nolegacy six-node composite network: 210 nodes, 1488 SIF edges, 1153 undirected edges
+   8 clusters; top 5:
+ rank  score nodes edges        seed n_TF n_miRNA n_Gene
+    1 7.5556    10    34         MYC    6       4      0
+    2 3.0000     3     3      COL3A1    0       0      3
+    3 2.8000    11    14        ARNT    3       5      3
+    4 2.7273    23    30        NT5E    6       9      8
+    5 2.0000     3     2 hsa-miR-143    0       2      1
+   top cluster TF: E2F1;ESR1;MYC;RELA;TLX1;TP53 
+   miRNA: hsa-miR-17;hsa-miR-19a;hsa-miR-19b;hsa-miR-20a 
+   Gene:  
+   top-cluster edge betweenness, highest 8 (pairs counted once):
+      node_a      node_b        sif_labels edge_betweenness_pairs_once
+        RELA  hsa-miR-17 miRNA-TF+TF-miRNA                    2.333333
+        RELA hsa-miR-19a miRNA-TF+TF-miRNA                    2.333333
+        RELA hsa-miR-20a miRNA-TF+TF-miRNA                    2.333333
+  hsa-miR-17        TLX1 miRNA-TF+TF-miRNA                    2.033333
+ hsa-miR-19a        TLX1 miRNA-TF+TF-miRNA                    2.033333
+ hsa-miR-20a        TLX1 miRNA-TF+TF-miRNA                    2.033333
+        RELA        TP53             TF-TF                    2.000000
+  hsa-miR-17        ESR1 miRNA-TF+TF-miRNA                    1.900000
+   top cluster identical in 100 of 100 random node orders (top-cluster size range 10-10)
+
+== nolegacy_nostring six-node composite network: 11 nodes, 25 SIF edges, 17 undirected edges
+   2 clusters; top 5:
+ rank  score nodes edges        seed n_TF n_miRNA n_Gene
+    1 3.3333     4     5 hsa-miR-29a    0       3      1
+    2 3.0000     5     6       GATA3    4       0      1
+   top cluster TF:  
+   miRNA: hsa-miR-29a;hsa-miR-29b;hsa-miR-29c 
+   Gene: COL3A1 
+   top-cluster edge betweenness, highest 8 (pairs counted once):
+      node_a      node_b  sif_labels edge_betweenness_pairs_once
+      COL3A1 hsa-miR-29a  miRNA-Gene                         1.5
+      COL3A1 hsa-miR-29c  miRNA-Gene                         1.5
+ hsa-miR-29b hsa-miR-29a miRNA-miRNA                         1.5
+ hsa-miR-29b hsa-miR-29c miRNA-miRNA                         1.5
+      COL3A1 hsa-miR-29b  miRNA-Gene                         1.0
+   top cluster identical in 100 of 100 random node orders (top-cluster size range 4-4)

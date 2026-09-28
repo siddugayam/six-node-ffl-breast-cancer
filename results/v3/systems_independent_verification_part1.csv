@@ -1,0 +1,37 @@
+section,item,independent_value,stored_value,agree,note
+A,nodes,587,587,True,
+A,directed edges,6859,6859,True,
+A,duplicate directed edges,0,0,True,
+A,weakly connected components,1,1,True,
+A,strongly connected components,224,224,True,
+A,largest SCC = bow-tie CORE,362,362,True,
+A,singleton SCCs,221,221,True,
+A,bow-tie IN,7,7,True,
+A,bow-tie OUT,215,215,True,
+A,tubes + tendrils,3,3,True,
+A,CORE composition (TF/miRNA/Gene),152/210/0,152/210/0,True,
+A,OUT composition (Gene/TF/miRNA),207/2/6,207/2/6,True,
+A,edges inside the core,2871,2871,True,
+A,reciprocity,0.3566,0.3566,True,
+A,mutual TF<->miRNA dyads,1223,1223,True,
+A,flow hierarchy,0.5808,0.5808,True,
+A,undirected transitivity,0.035,0.035,True,
+A,global reaching centrality,0.3688,0.3688,True,
+A,out-degree-0 nodes (all genes),206 (206 genes),206 (206 genes),True,
+A,in-degree-0 nodes,5,5,True,
+A,3-node FFL cores (unique),1649,1649,True,
+A,3-node FFL cores (raw directed),3083,3083,True,
+A,regulator subnetwork N / M,380 / 2911,380 / 2911,True,
+A,regulator subnetwork largest SCC,362,362,True,
+A,regulator subnetwork fraction in the giant SCC,0.9526,0.9526,True,
+A,regulator subnetwork flow hierarchy,0.0124,0.0124,True,"KEY: among regulators the network is almost entirely recurrent, not hierarchical"
+A,regulator condensation DAG depth (layers),3,3,True,
+A,full-network condensation DAG depth (layers),4,4,True,
+D,targeted set: miR-29 family,0.040544,0.040544,True,ratio to best single 0.8638 vs stored 0.8638
+D,targeted set: miR-29/collagen module,0.033783,0.033783,True,ratio to best single 0.7198 vs stored 0.7198
+D,targeted set: NF-kB module (RELA+NFKB1),0.080405,0.080405,True,ratio to best single 1.7131 vs stored 1.7131
+D,"targeted set: top3 FFL hubs (SP1,RELA,NFKB1)",0.121597,0.121597,True,ratio to best single 2.5908 vs stored 2.5908
+D,targeted set: top5 FFL hubs,0.173087,0.173087,True,ratio to best single 3.6879 vs stored 3.6878
+D,targeted set: best druggable pair (RELA+SP1),0.089324,0.089324,True,ratio to best single 1.9032 vs stored 1.9032
+D,targeted set: MKL1 + miR-143 (most synergistic),0.036971,0.036971,True,ratio to best single 0.7877 vs stored 0.7877
+D,targeted set: miR-17-92 seed cluster,0.047298,0.047298,True,ratio to best single 1.0078 vs stored 1.0077

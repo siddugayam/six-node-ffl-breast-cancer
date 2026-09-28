@@ -1,0 +1,204 @@
+tf,distance_kb,error
+5-hmC,1,HTTP Error 404: Not Found
+5-hmC,5,HTTP Error 404: Not Found
+5-mC,1,HTTP Error 404: Not Found
+5-mC,5,HTTP Error 404: Not Found
+8-Hydroxydeoxyguanosine,1,HTTP Error 404: Not Found
+8-Hydroxydeoxyguanosine,5,HTTP Error 404: Not Found
+AAV Rep68,1,HTTP Error 404: Not Found
+AAV Rep68,5,HTTP Error 404: Not Found
+ADNP2,1,HTTP Error 404: Not Found
+AIM2,1,HTTP Error 404: Not Found
+AML1-ETO,1,HTTP Error 404: Not Found
+AML1-ETO,5,HTTP Error 404: Not Found
+ASUN,1,HTTP Error 404: Not Found
+ASUN,5,HTTP Error 404: Not Found
+BBX,1,HTTP Error 404: Not Found
+BEND3,1,HTTP Error 404: Not Found
+BEND3,5,HTTP Error 404: Not Found
+BMI,1,HTTP Error 404: Not Found
+BMI,5,HTTP Error 404: Not Found
+Biotin,1,HTTP Error 404: Not Found
+Biotin,5,HTTP Error 404: Not Found
+BrdU,1,HTTP Error 404: Not Found
+BrdU,5,HTTP Error 404: Not Found
+C10orf12,1,HTTP Error 404: Not Found
+C10orf12,5,HTTP Error 404: Not Found
+C11orf53,1,HTTP Error 404: Not Found
+C11orf53,5,HTTP Error 404: Not Found
+C17orf49,1,HTTP Error 404: Not Found
+C17orf49,5,HTTP Error 404: Not Found
+C17orf96,1,HTTP Error 404: Not Found
+C17orf96,5,HTTP Error 404: Not Found
+C7orf26,1,HTTP Error 404: Not Found
+C7orf26,5,HTTP Error 404: Not Found
+CASP3,1,HTTP Error 404: Not Found
+CASP3,5,HTTP Error 404: Not Found
+CCDC101,1,HTTP Error 404: Not Found
+CCDC101,5,HTTP Error 404: Not Found
+CPSF3L,1,HTTP Error 404: Not Found
+CPSF3L,5,HTTP Error 404: Not Found
+CREBL2,1,HTTP Error 404: Not Found
+CRX,1,HTTP Error 404: Not Found
+Cas9,1,HTTP Error 404: Not Found
+Cas9,5,HTTP Error 404: Not Found
+Cpf1,1,HTTP Error 404: Not Found
+Cpf1,5,HTTP Error 404: Not Found
+Crotonyllysine,1,HTTP Error 404: Not Found
+Crotonyllysine,5,HTTP Error 404: Not Found
+Cyclobutane pyrimidine dimers,1,HTTP Error 404: Not Found
+Cyclobutane pyrimidine dimers,5,HTTP Error 404: Not Found
+DEC1,1,HTTP Error 404: Not Found
+DEC1,5,HTTP Error 404: Not Found
+DNA-RNA hybrid,1,HTTP Error 404: Not Found
+DNA-RNA hybrid,5,HTTP Error 404: Not Found
+DNAJC2,1,HTTP Error 404: Not Found
+EBNA1,1,HTTP Error 404: Not Found
+EBNA1,5,HTTP Error 404: Not Found
+EBNA2,1,HTTP Error 404: Not Found
+EBNA2,5,HTTP Error 404: Not Found
+EBNA3,1,HTTP Error 404: Not Found
+EBNA3,5,HTTP Error 404: Not Found
+EBV-ZEBRA,1,HTTP Error 404: Not Found
+EBV-ZEBRA,5,HTTP Error 404: Not Found
+ERH,1,HTTP Error 404: Not Found
+ESR1,1,"IncompleteRead(31738008 bytes read, 13717033 more expected)"
+ESR1,5,"IncompleteRead(26888704 bytes read, 24817836 more expected)"
+EVX1,1,HTTP Error 404: Not Found
+Epitope tags,1,HTTP Error 404: Not Found
+Epitope tags,5,HTTP Error 404: Not Found
+FAM208A,1,HTTP Error 404: Not Found
+FAM208A,5,HTTP Error 404: Not Found
+FAM208B,1,HTTP Error 404: Not Found
+FAM208B,5,HTTP Error 404: Not Found
+FBL,5,Remote end closed connection without response
+FLI1,5,The read operation timed out
+FOS,1,The read operation timed out
+FOXD3,1,HTTP Error 404: Not Found
+FOXD3,5,HTTP Error 404: Not Found
+G-quadruplex,1,HTTP Error 404: Not Found
+G-quadruplex,5,HTTP Error 404: Not Found
+GFP,1,HTTP Error 404: Not Found
+GFP,5,HTTP Error 404: Not Found
+GGCT,1,HTTP Error 404: Not Found
+GLTSCR1,1,HTTP Error 404: Not Found
+GLTSCR1,5,HTTP Error 404: Not Found
+GNL3,1,HTTP Error 404: Not Found
+GRWD1,1,HTTP Error 404: Not Found
+GUCY1B3,1,HTTP Error 404: Not Found
+GUCY1B3,5,HTTP Error 404: Not Found
+HBcAg,1,HTTP Error 404: Not Found
+HBcAg,5,HTTP Error 404: Not Found
+HDGF2,1,HTTP Error 404: Not Found
+HDGF2,5,HTTP Error 404: Not Found
+HES7,1,HTTP Error 404: Not Found
+HESX1,1,HTTP Error 404: Not Found
+HHV UL87,1,HTTP Error 404: Not Found
+HHV UL87,5,HTTP Error 404: Not Found
+HIV Tat,1,HTTP Error 404: Not Found
+HIV Tat,5,HTTP Error 404: Not Found
+HIV1 tat,1,HTTP Error 404: Not Found
+HIV1 tat,5,HTTP Error 404: Not Found
+HMGN4,1,HTTP Error 404: Not Found
+Hepatitis B Virus X antigen,1,HTTP Error 404: Not Found
+Hepatitis B Virus X antigen,5,HTTP Error 404: Not Found
+IGF1,1,HTTP Error 404: Not Found
+IGF1,5,HTTP Error 404: Not Found
+IRX5,1,HTTP Error 404: Not Found
+KSHV LANA,1,HTTP Error 404: Not Found
+KSHV LANA,5,HTTP Error 404: Not Found
+LHX6,1,HTTP Error 404: Not Found
+MCPV ST,1,HTTP Error 404: Not Found
+MCPV ST,5,HTTP Error 404: Not Found
+MEOX2,1,HTTP Error 404: Not Found
+MGEA5,1,HTTP Error 404: Not Found
+MGEA5,5,HTTP Error 404: Not Found
+MINA,1,HTTP Error 404: Not Found
+MINA,5,HTTP Error 404: Not Found
+MKL1,1,HTTP Error 404: Not Found
+MKL1,5,HTTP Error 404: Not Found
+MKL2,1,HTTP Error 404: Not Found
+MKL2,5,HTTP Error 404: Not Found
+MLL-AF10,1,HTTP Error 404: Not Found
+MLL-AF10,5,HTTP Error 404: Not Found
+MLL-AF4,1,HTTP Error 404: Not Found
+MLL-AF4,5,HTTP Error 404: Not Found
+MLL-AF6,1,HTTP Error 404: Not Found
+MLL-AF6,5,HTTP Error 404: Not Found
+MRE11A,1,HTTP Error 404: Not Found
+MRE11A,5,HTTP Error 404: Not Found
+MSC,1,HTTP Error 404: Not Found
+MethylCap,1,HTTP Error 404: Not Found
+MethylCap,5,HTTP Error 404: Not Found
+NCL,1,HTTP Error 404: Not Found
+NCL,5,HTTP Error 404: Not Found
+NR2E1,1,HTTP Error 404: Not Found
+NUSAP1,1,HTTP Error 404: Not Found
+NUSAP1,5,HTTP Error 404: Not Found
+O-GlcNAc,1,HTTP Error 404: Not Found
+O-GlcNAc,5,HTTP Error 404: Not Found
+PAD2,1,HTTP Error 404: Not Found
+PAD2,5,HTTP Error 404: Not Found
+PHB,1,HTTP Error 404: Not Found
+PHB,5,HTTP Error 404: Not Found
+POLRMT,1,HTTP Error 404: Not Found
+POLRMT,5,HTTP Error 404: Not Found
+PTRF,1,HTTP Error 404: Not Found
+PTRF,5,HTTP Error 404: Not Found
+Pan-acetyllysine,1,HTTP Error 404: Not Found
+Pan-acetyllysine,5,HTTP Error 404: Not Found
+RDme1,1,HTTP Error 404: Not Found
+RDme1,5,HTTP Error 404: Not Found
+RNA-DNA hybrids,1,HTTP Error 404: Not Found
+RNA-DNA hybrids,5,HTTP Error 404: Not Found
+RNF219,1,HTTP Error 404: Not Found
+RNF219,5,HTTP Error 404: Not Found
+RTA,1,HTTP Error 404: Not Found
+RTA,5,HTTP Error 404: Not Found
+S100A10,1,HTTP Error 404: Not Found
+SIRT7,1,HTTP Error 404: Not Found
+STRA13,1,HTTP Error 404: Not Found
+STRA13,5,HTTP Error 404: Not Found
+SVS-1,1,HTTP Error 404: Not Found
+SVS-1,5,HTTP Error 404: Not Found
+T,1,HTTP Error 404: Not Found
+T,5,HTTP Error 404: Not Found
+TAZ,1,HTTP Error 404: Not Found
+TAZ,5,HTTP Error 404: Not Found
+TCEB3,1,HTTP Error 404: Not Found
+TCEB3,5,HTTP Error 404: Not Found
+TCEB3C,1,HTTP Error 404: Not Found
+TCEB3C,5,HTTP Error 404: Not Found
+TFB2M,1,HTTP Error 404: Not Found
+TFB2M,5,HTTP Error 404: Not Found
+THAP4,1,HTTP Error 404: Not Found
+TRF2,1,HTTP Error 404: Not Found
+TRF2,5,HTTP Error 404: Not Found
+TRP47,1,HTTP Error 404: Not Found
+TRP47,5,HTTP Error 404: Not Found
+ULK3,1,HTTP Error 404: Not Found
+ULK3,5,HTTP Error 404: Not Found
+VRK1,1,HTTP Error 404: Not Found
+VSV-G,1,HTTP Error 404: Not Found
+VSV-G,5,HTTP Error 404: Not Found
+WDR61,1,HTTP Error 404: Not Found
+WDR61,5,HTTP Error 404: Not Found
+WHSC1,1,HTTP Error 404: Not Found
+WHSC1,5,HTTP Error 404: Not Found
+WHSC1L1,1,HTTP Error 404: Not Found
+WHSC1L1,5,HTTP Error 404: Not Found
+ZCCHC11,1,HTTP Error 404: Not Found
+ZCCHC11,5,HTTP Error 404: Not Found
+ZNF117,1,HTTP Error 404: Not Found
+ZNF645,1,HTTP Error 404: Not Found
+ZNF645,5,HTTP Error 404: Not Found
+ZNF720,1,HTTP Error 404: Not Found
+ZNF720,5,HTTP Error 404: Not Found
+ZNF788,1,HTTP Error 404: Not Found
+ZNF788,5,HTTP Error 404: Not Found
+ZSCAN5D,1,HTTP Error 404: Not Found
+ZSCAN5D,5,HTTP Error 404: Not Found
+ZUFSP,1,HTTP Error 404: Not Found
+ZUFSP,5,HTTP Error 404: Not Found
+pFM2,1,HTTP Error 404: Not Found
+pFM2,5,HTTP Error 404: Not Found

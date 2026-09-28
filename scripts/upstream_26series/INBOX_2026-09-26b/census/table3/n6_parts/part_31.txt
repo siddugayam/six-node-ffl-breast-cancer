@@ -1,0 +1,124 @@
+K 6
+nparts 64
+part 31
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 26405
+visited 15022100
+rng_final 42
+comp 1 0 5 37
+comp 1 1 4 256
+comp 1 2 3 427
+comp 1 3 2 204
+comp 2 0 4 226
+comp 2 1 3 2210
+comp 2 2 2 4168
+comp 2 3 1 1407
+comp 3 0 3 506
+comp 3 1 2 4553
+comp 3 2 1 5875
+comp 3 3 0 85
+comp 4 0 2 966
+comp 4 1 1 2732
+comp 4 2 0 921
+comp 5 0 1 641
+comp 5 1 0 1075
+comp 6 0 0 116
+mask 2 1
+mask 3 18
+mask 6 59
+mask 7 4
+mask 11 7
+mask 14 3309
+mask 15 970
+mask 21 4
+mask 22 482
+mask 23 38
+mask 29 4
+mask 30 143
+mask 31 313
+mask 32 58
+mask 33 524
+mask 34 608
+mask 35 1283
+mask 36 45
+mask 38 1241
+mask 39 37
+mask 40 21
+mask 41 152
+mask 42 60
+mask 43 230
+mask 44 4296
+mask 45 1071
+mask 46 5916
+mask 47 3151
+mask 52 118
+mask 53 119
+mask 54 1001
+mask 55 229
+mask 60 282
+mask 61 52
+mask 62 157
+mask 63 101
+mask 70 3
+mask 78 78
+mask 79 30
+mask 86 31
+mask 87 4
+mask 95 13
+mask 102 6
+mask 108 103
+mask 109 3
+mask 110 13
+mask 118 9
+mask 119 4
+mask 126 4
+flags 0 10789
+flags 1 1600
+flags 2 2284
+flags 3 767
+flags 4 2306
+flags 5 641
+flags 6 2404
+flags 7 966
+flags 8 1498
+flags 9 11
+flags 10 81
+flags 11 46
+flags 12 2444
+flags 13 10
+flags 14 322
+flags 15 125
+flags 24 24
+flags 25 2
+flags 26 2
+flags 28 77
+flags 30 6
+exflag 0 CAV1 CTNNB1 ESR2 FST hsa-miR-182 hsa-miR-30a
+exflag 0 CAV1 CTNNB1 ESR2 FST hsa-miR-30a hsa-miR-30e
+exflag 0 CAV1 CTNNB1 ESR2 FST hsa-miR-30a hsa-miR-96
+exflag 1 CAV1 CTNNB1 CD44 FOXO1 TLR4 hsa-miR-145
+exflag 1 CAV1 CTNNB1 CD44 GJA1 NANOG hsa-miR-17
+exflag 1 CAV1 CTNNB1 CD44 GJA1 NANOG hsa-miR-19a
+exflag 2 CAV1 CTNNB1 CD44 ITGB1 MYC hsa-miR-29a
+exflag 2 CAV1 CTNNB1 CD44 ITGB1 MYC hsa-miR-29b
+exflag 2 CAV1 CTNNB1 CD44 ITGB1 MYC hsa-miR-29c
+exflag 3 CAV1 CTNNB1 ESR2 EZH2 JUN hsa-miR-146a | TF1=CTNNB1 TF2=JUN miRNA=hsa-miR-146a target=EZH2
+exflag 3 CAV1 CTNNB1 ESR2 FOS HDAC1 hsa-miR-34a | TF1=CTNNB1 TF2=HDAC1 miRNA=hsa-miR-34a target=FOS
+exflag 3 CAV1 CTNNB1 ESR2 GJA1 JUN hsa-miR-23b | TF1=ESR2 TF2=JUN miRNA=hsa-miR-23b target=GJA1
+exflag 4 CAV1 ESR1 E2F1 ESR2 MYC hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=MYC
+exflag 4 CAV1 ESR1 E2F1 ESR2 VEGFA hsa-miR-106a | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-106a target=VEGFA
+exflag 4 CAV1 ESR1 E2F1 ESR2 VEGFA hsa-miR-17 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-17 target=VEGFA
+exmask 63 CAV1 ESR1 ESR2 FOS NTF3 hsa-miR-221
+exmask 63 CAV1 ESR1 ESR2 FOS NTF3 hsa-miR-222
+exmask 63 CAV1 ESR1 ESR2 FOS PLAU hsa-miR-181a
+exmask 95 HSF2 FOS BCL2L1 HIF1A hsa-let-7e hsa-miR-29a
+exmask 95 HSF2 FOS BCL2L1 HIF1A hsa-let-7e hsa-miR-29c
+exmask 95 HSF2 FOS BCL2L1 HIF1A hsa-miR-29c hsa-let-7b
+exmask 119 HSF2 FOS HIF1A NR4A1 hsa-let-7e hsa-miR-29a
+exmask 119 HSF2 FOS HIF1A NR4A1 hsa-miR-143 hsa-miR-29a
+exmask 119 HSF2 FOS HIF1A NR4A1 hsa-miR-143 hsa-miR-29c
+exmask 126 HSF2 FOS FOSL1 HIF1A hsa-let-7e hsa-miR-29a
+exmask 126 HSF2 FOS FOSL1 HIF1A hsa-miR-143 hsa-miR-29a
+exmask 126 HSF2 FOS FOSL1 HIF1A hsa-miR-143 hsa-miR-29c

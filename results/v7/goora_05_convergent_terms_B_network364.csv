@@ -1,0 +1,59 @@
+ontology,ID,Description,theme,n_methods,methods,n_modules,best_padj,best_Count,median_Count,best_where,best_GeneRatio,best_genes
+KEGG,hsa05415,Diabetic cardiomyopathy,other,2,clusterMaker2+MCODE,2,0.00397550517479535,7,5.5,MCODE:MCODE_strong_and_no_miRNA_miRNA:C1,4/8,NFKB1/RELA/COL1A1/SP1
+KEGG,hsa04933,AGE-RAGE signaling pathway in diabetic complications,ECM_stroma,2,clusterMaker2+MCODE,2,0.0213067355192881,12,9,clusterMaker2:cm2_Louvain_clusterMaker2:M4,12/61,NFKB1/RELA/IL6/CCL2/EGR1/JUN/MMP2/STAT1/SMAD3/F3/TGFBR2/THBD
+KEGG,hsa04668,TNF signaling pathway,other,2,clusterMaker2+MCODE,2,0.0316825373453781,9,7,clusterMaker2:cm2_Louvain_clusterMaker2:M4,9/61,NFKB1/RELA/CEBPB/IL6/CCL2/ATF4/JUN/CREB1/IRF1
+KEGG,hsa05321,Inflammatory bowel disease,other,1,clusterMaker2,1,0.00172949772027349,10,10,clusterMaker2:cm2_Louvain_clusterMaker2:M4,10/61,NFKB1/RELA/IL6/JUN/STAT1/SMAD3/STAT6/STAT4/TLR4/TBX21
+KEGG,hsa04659,Th17 cell differentiation,other,1,clusterMaker2,1,0.00520943777657388,12,12,clusterMaker2:cm2_Louvain_clusterMaker2:M4,12/61,NFKB1/RELA/AHR/IL6/JUN/RUNX1/STAT1/SMAD3/STAT6/TGFBR2/IL1R1/TBX21
+KEGG,hsa04068,FoxO signaling pathway,other,1,clusterMaker2,1,0.00771076497824291,7,7,clusterMaker2:cm2_Leiden_mod_r1.0:M5,7/25,BCL6/CCND2/CREBBP/GADD45G/SIRT1/SMAD3/SMAD4
+GO:BP,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,other,1,MCODE,1,0.00884221193039461,7,7,MCODE:MCODE_strong_and_no_miRNA_miRNA:C3,7/18,FN1/DDIT3/TGFB2/TWIST1/PDGFRB/F2R/THBS1
+GO:BP,GO:0022607,cellular component assembly,other,1,clusterMaker2,1,0.00898419140744392,34,34,clusterMaker2:cm2_Louvain_clusterMaker2:M1,34/68,NR1H2/AR/CDH11/FN1/KLF5/VEGFA/BAG3/PPARG/BMP7/BRCA1/CAV1/CTNNB1/SNAI2/TCF4/WNT5A/CYFIP2/DACT1/MYBL2/NR1H4/EP300/EPHB2/SNAI1/MECP2/LOX/HDAC3/MAP2/ZEB2/NOTCH1/ME1/NCOR1/PDGFRB/SIX1/TP73/TP63
+GO:BP,GO:0044085,cellular component biogenesis,other,1,clusterMaker2,1,0.00898419140744392,34,34,clusterMaker2:cm2_Louvain_clusterMaker2:M1,34/68,NR1H2/AR/CDH11/FN1/KLF5/VEGFA/BAG3/PPARG/BMP7/BRCA1/CAV1/CTNNB1/SNAI2/TCF4/WNT5A/CYFIP2/DACT1/MYBL2/NR1H4/EP300/EPHB2/SNAI1/MECP2/LOX/HDAC3/MAP2/ZEB2/NOTCH1/ME1/NCOR1/PDGFRB/SIX1/TP73/TP63
+KEGG,hsa05206,MicroRNAs in cancer,other,1,clusterMaker2,1,0.0122575910557227,15,15,clusterMaker2:cm2_Louvain_clusterMaker2:M1,15/55,EZH2/VEGFA/VIM/BMI1/HDAC2/BRCA1/HDAC1/CD44/DNMT1/EP300/HDAC4/ZEB2/NOTCH1/PDGFRB/TP63
+GO:BP,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,other,1,MCODE,1,0.0191910414025859,7,7,MCODE:MCODE_strong_and_no_miRNA_miRNA:C3,7/18,FN1/DDIT3/TGFB2/TWIST1/PDGFRB/F2R/THBS1
+KEGG,hsa04932,Non-alcoholic fatty liver disease,other,1,clusterMaker2,1,0.0197016659582866,12,12,clusterMaker2:cm2_Leiden_mod_r1.0:M4,12/95,CEBPA/DDIT3/FAS/FOS/IL6/JUN/NFKB1/PPARA/PPARG/RELA/RXRA/SREBF1
+KEGG,hsa05171,Coronavirus disease,other,1,clusterMaker2,2,0.0206463276092394,11,10,clusterMaker2:cm2_Louvain_clusterMaker2:M4,9/61,NFKB1/RELA/IL6/CCL2/JUN/IRF3/STAT1/TLR3/TLR4
+KEGG,hsa04620,Toll-like receptor signaling pathway,other,1,clusterMaker2,1,0.0206463276092394,8,8,clusterMaker2:cm2_Louvain_clusterMaker2:M4,8/61,NFKB1/RELA/IL6/JUN/IRF3/STAT1/TLR3/TLR4
+KEGG,hsa05142,Chagas disease,other,1,clusterMaker2,1,0.0211283829844142,8,8,clusterMaker2:cm2_Louvain_clusterMaker2:M4,8/61,NFKB1/RELA/IL6/CCL2/JUN/PPP2R2B/TGFBR2/TLR4
+KEGG,hsa05164,Influenza A,other,1,clusterMaker2,1,0.0211283829844142,8,8,clusterMaker2:cm2_Louvain_clusterMaker2:M4,8/61,NFKB1/RELA/IL6/CCL2/IRF3/STAT1/TLR3/TLR4
+KEGG,hsa05161,Hepatitis B,other,1,clusterMaker2,1,0.0214253322914056,14,14,clusterMaker2:cm2_Louvain_clusterMaker2:M4,14/61,NFKB1/RELA/IL6/ATF4/JUN/CREB1/IRF3/STAT1/SMAD3/STAT6/TLR3/TGFBR2/STAT4/TLR4
+KEGG,hsa04657,IL-17 signaling pathway,other,1,clusterMaker2,1,0.0214253322914056,7,7,clusterMaker2:cm2_Louvain_clusterMaker2:M4,7/61,NFKB1/RELA/CEBPB/IL6/CCL2/JUN/JUND
+KEGG,hsa05133,Pertussis,other,1,clusterMaker2,1,0.0214253322914056,7,7,clusterMaker2:cm2_Louvain_clusterMaker2:M4,7/61,NFKB1/RELA/IL6/JUN/IRF3/IRF1/TLR4
+GO:BP,GO:0051129,negative regulation of cellular component organization,other,1,clusterMaker2,1,0.0220509614020768,16,16,clusterMaker2:cm2_Louvain_clusterMaker2:M1,16/68,NR1H2/AR/VEGFA/VIM/PPARG/BMP7/HDAC2/BRCA1/CAV1/WNT5A/DACT1/NR1H4/EP300/EPHB2/MAP2/NOTCH1
+KEGG,hsa04371,Apelin signaling pathway,other,1,MCODE,1,0.0226889609892965,3,3,MCODE:MCODE_default:C8,3/6,MEF2A/MEF2C/SMAD4
+KEGG,hsa04621,NOD-like receptor signaling pathway,other,1,clusterMaker2,2,0.0233198689189647,8,5.5,clusterMaker2:cm2_Louvain_clusterMaker2:M4,8/61,NFKB1/RELA/IL6/CCL2/JUN/IRF3/STAT1/TLR4
+KEGG,hsa04380,Osteoclast differentiation,other,1,clusterMaker2,1,0.0233198689189647,10,10,clusterMaker2:cm2_Louvain_clusterMaker2:M4,10/61,NFKB1/RELA/JUN/CREB1/SPI1/STAT1/TGFBR2/SQSTM1/JUND/IL1R1
+GO:BP,GO:0071495,cellular response to endogenous stimulus,other,1,MCODE,1,0.0245351586049828,11,11,MCODE:MCODE_strong_and_no_miRNA_miRNA:C4,11/11,MET/ESR1/SMAD3/SMAD7/REST/NRP1/GATA3/NCOR1/NR1H4/FBN1/DKK3
+GO:BP,GO:0010648,negative regulation of cell communication,other,1,MCODE,1,0.0247428081662634,10,10,MCODE:MCODE_strong_and_no_miRNA_miRNA:C4,10/11,MET/ESR1/SMAD7/REST/NRP1/GATA3/NCOR1/NR1H4/FBN1/DKK3
+GO:BP,GO:0023057,negative regulation of signaling,other,1,MCODE,1,0.0247428081662634,10,10,MCODE:MCODE_strong_and_no_miRNA_miRNA:C4,10/11,MET/ESR1/SMAD7/REST/NRP1/GATA3/NCOR1/NR1H4/FBN1/DKK3
+KEGG,hsa04820,Cytoskeleton in muscle cells,other,1,clusterMaker2,1,0.0300061473826796,6,6,clusterMaker2:cm2_Leiden_mod_r1.0:M6,6/20,FHL1/ITGB1/MYH11/SDC4/THBS1/THBS2
+KEGG,hsa04658,Th1 and Th2 cell differentiation,other,1,clusterMaker2,1,0.0313090773312362,7,7,clusterMaker2:cm2_Louvain_clusterMaker2:M4,7/61,NFKB1/RELA/JUN/STAT1/STAT6/STAT4/TBX21
+KEGG,hsa05135,Yersinia infection,other,1,clusterMaker2,1,0.0313090773312362,7,7,clusterMaker2:cm2_Louvain_clusterMaker2:M4,7/61,NFKB1/RELA/IL6/CCL2/JUN/IRF3/TLR4
+KEGG,hsa05166,Human T-cell leukemia virus 1 infection,other,1,clusterMaker2,1,0.0342277988782984,14,14,clusterMaker2:cm2_Louvain_clusterMaker2:M4,14/61,NFKB1/RELA/IL6/ETS1/ETS2/ATF4/EGR1/JUN/CREB1/TERT/SPI1/SMAD3/TGFBR2/IL1R1
+KEGG,hsa05417,Lipid and atherosclerosis,other,1,clusterMaker2,1,0.0346037352871962,14,14,clusterMaker2:cm2_Leiden_mod_r1.0:M4,14/95,BCL2L1/CCL2/DDIT3/FAS/FOS/IL6/IRF3/JUN/NFKB1/PPARG/RELA/RXRA/STAT3/TP53
+KEGG,hsa05162,Measles,other,1,clusterMaker2,1,0.0346037352871962,12,12,clusterMaker2:cm2_Leiden_mod_r1.0:M4,12/95,BCL2L1/FAS/FOS/IL6/IRF3/JUN/NFKB1/RELA/STAT1/STAT3/STAT5A/TP53
+KEGG,hsa04310,Wnt signaling pathway,other,1,clusterMaker2,1,0.0367031386438002,6,6,clusterMaker2:cm2_Leiden_mod_r1.0:M5,6/25,CCND2/CREBBP/FOSL1/SIRT1/SMAD3/SMAD4
+GO:BP,GO:0045597,positive regulation of cell differentiation,other,1,clusterMaker2,1,0.0374566982641085,8,8,clusterMaker2:cm2_consensus:K71,8/8,EZH2/KLF5/SNAI1/SNAI2/TCF7L2/TP63/TP73/ZEB2
+GO:BP,GO:0072331,signal transduction by p53 class mediator,other,1,clusterMaker2,1,0.0374566982641085,4,4,clusterMaker2:cm2_consensus:K71,4/8,SNAI1/SNAI2/TP63/TP73
+GO:BP,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,proliferation,1,clusterMaker2,1,0.0374566982641085,4,4,clusterMaker2:cm2_consensus:K71,4/8,SNAI1/SNAI2/TP63/TP73
+GO:BP,GO:0001817,regulation of cytokine production,other,1,MCODE,1,0.0398848669384184,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+GO:BP,GO:0001816,cytokine production,other,1,MCODE,1,0.0398848669384184,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+GO:BP,GO:0046649,lymphocyte activation,other,1,MCODE,1,0.0398848669384184,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+GO:BP,GO:0031344,regulation of cell projection organization,other,1,clusterMaker2,1,0.0402986750164594,15,15,clusterMaker2:cm2_Louvain_clusterMaker2:M1,15/68,EZH2/FN1/KLF5/VEGFA/VIM/KLF4/BMP7/HDAC2/CAV1/CD44/GATA3/WNT5A/EP300/EPHB2/MAP2
+GO:BP,GO:0120035,regulation of plasma membrane bounded cell projection organization,other,1,clusterMaker2,1,0.0402986750164594,15,15,clusterMaker2:cm2_Louvain_clusterMaker2:M1,15/68,EZH2/FN1/KLF5/VEGFA/VIM/KLF4/BMP7/HDAC2/CAV1/CD44/GATA3/WNT5A/EP300/EPHB2/MAP2
+GO:BP,GO:0031507,heterochromatin formation,other,1,clusterMaker2,1,0.0420177402360699,9,9,clusterMaker2:cm2_Louvain_clusterMaker2:M1,9/68,EZH2/BMI1/HDAC2/BRCA1/HDAC1/DNMT1/MECP2/HDAC3/SUZ12
+GO:BP,GO:0001818,negative regulation of cytokine production,other,1,MCODE,1,0.0435175893155405,4,4,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,4/5,CD2AP/SMAD7/YY1/PTGER4
+GO:BP,GO:0045321,leukocyte activation,other,1,MCODE,1,0.0435175893155405,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+KEGG,hsa01522,Endocrine resistance,other,1,MCODE,1,0.0442953718040848,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C1,5/18,JUN/SP1/HBEGF/E2F1/MMP2
+KEGG,hsa05219,Bladder cancer,other,1,MCODE,1,0.0442953718040848,4,4,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C1,4/18,HBEGF/E2F1/VEGFA/MMP2
+KEGG,hsa05323,Rheumatoid arthritis,other,1,MCODE,1,0.0442953718040848,4,4,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C1,4/18,JUN/CCL2/VEGFA/IL6
+KEGG,hsa04915,Estrogen signaling pathway,other,1,MCODE,1,0.0442953718040848,4,4,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C1,4/18,JUN/SP1/HBEGF/MMP2
+KEGG,hsa04917,Prolactin signaling pathway,other,1,clusterMaker2,1,0.0481484480091214,3,3,clusterMaker2:cm2_consensus:K45,3/7,ESR2/NFKB1/RELA
+KEGG,hsa05010,Alzheimer disease,other,1,clusterMaker2,1,0.0481484480091214,3,3,clusterMaker2:cm2_consensus:K45,3/7,LPL/NFKB1/RELA
+KEGG,hsa04210,Apoptosis,other,1,clusterMaker2,1,0.0481484480091214,3,3,clusterMaker2:cm2_consensus:K45,3/7,CTSB/NFKB1/RELA
+GO:BP,GO:0001819,positive regulation of cytokine production,other,1,clusterMaker2,1,0.0483162687111738,19,19,clusterMaker2:cm2_Louvain_clusterMaker2:M4,19/75,RELA/SIRT1/CEBPB/IL6/ATF4/EGR1/RUNX1/IRF3/STAT1/XBP1/SMAD3/POSTN/IRF1/TLR3/F3/IL1R1/TLR4/LPL/TBX21
+GO:BP,GO:0032956,regulation of actin cytoskeleton organization,other,1,MCODE,1,0.0484916376748317,3,3,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,3/5,CD2AP/SMAD3/PTGER4
+GO:BP,GO:0001775,cell activation,other,1,MCODE,1,0.0484916376748317,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+GO:BP,GO:0010629,negative regulation of gene expression,other,1,MCODE,1,0.0484916376748317,5,5,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,5/5,CD2AP/SMAD7/SMAD3/YY1/PTGER4
+GO:BP,GO:0033043,regulation of organelle organization,other,1,MCODE,1,0.0484916376748317,4,4,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,4/5,CD2AP/SMAD3/YY1/PTGER4
+GO:BP,GO:0007015,actin filament organization,other,1,MCODE,1,0.0484916376748317,3,3,MCODE:MCODE_drop_miRNA_miRNA_and_gene_gene:C7,3/5,CD2AP/SMAD3/PTGER4
+GO:BP,GO:0009719,response to endogenous stimulus,other,1,MCODE,1,0.0495064416336961,11,11,MCODE:MCODE_strong_and_no_miRNA_miRNA:C4,11/11,MET/ESR1/SMAD3/SMAD7/REST/NRP1/GATA3/NCOR1/NR1H4/FBN1/DKK3

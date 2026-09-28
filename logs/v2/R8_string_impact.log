@@ -1,0 +1,7 @@
+gene_gene arcs in the augmented graph: 834
+  of which STRING-orientation arcs absent from the deposited network: 833
+  Gene->TF arcs (direction is an artefact of row order): 90
+
+n=3 FFL modules total                        : 6037
+  containing >=1 gene_gene-layer arc         : 3072 (50.9%)
+  containing >=1 STRING-orientation arc      : 3066 (50.8%)

@@ -1,0 +1,76 @@
+K 6
+nparts 64
+part 58
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 25121
+visited 6455857
+rng_final 42
+comp 1 2 3 10
+comp 1 3 2 728
+comp 1 4 1 128
+comp 2 1 3 37
+comp 2 2 2 1899
+comp 2 3 1 5090
+comp 3 0 3 7
+comp 3 1 2 1240
+comp 3 2 1 10207
+comp 3 3 0 415
+comp 4 0 2 272
+comp 4 1 1 2709
+comp 4 2 0 1281
+comp 5 0 1 350
+comp 5 1 0 688
+comp 6 0 0 60
+mask 2 60
+mask 3 629
+mask 6 441
+mask 7 378
+mask 11 7
+mask 12 1
+mask 13 12
+mask 14 6371
+mask 15 6104
+mask 18 6
+mask 19 5
+mask 20 210
+mask 21 48
+mask 22 1727
+mask 23 1051
+mask 26 14
+mask 27 95
+mask 28 3051
+mask 29 667
+mask 30 2106
+mask 31 2125
+mask 45 2
+mask 46 4
+mask 47 5
+mask 60 2
+flags 0 22044
+flags 1 1664
+flags 2 138
+flags 3 223
+flags 4 4
+flags 6 1
+flags 7 4
+flags 8 961
+flags 10 6
+flags 11 8
+flags 24 68
+exflag 0 FOXO3 AR CCND2 hsa-let-7a hsa-miR-17 IRF9
+exflag 0 FOXO3 AR CCND2 hsa-let-7a hsa-miR-20a IRF9
+exflag 0 FOXO3 AR CCND2 hsa-let-7b hsa-miR-17 IRF9
+exflag 1 FOXO3 AR BCL6 CCND2 hsa-miR-17 IRF9
+exflag 1 FOXO3 AR BCL6 CCND2 hsa-miR-20a IRF9
+exflag 1 FOXO3 AR CCND2 EP300 hsa-miR-141 STAT5A
+exflag 2 FOXO3 AR hsa-let-7b COL1A1 COL3A1 hsa-let-7c
+exflag 2 FOXO3 AR hsa-let-7b COL1A1 COL3A1 hsa-miR-133b
+exflag 2 SRF CREB1 hsa-miR-143 COL1A1 COL3A1 hsa-miR-335
+exflag 3 FOXO3 AR BCL6 BCL2L1 MYC hsa-let-7c | TF1=FOXO3 TF2=AR miRNA=hsa-let-7c target=MYC
+exflag 3 FOXO3 AR BCL6 CCND2 MYC hsa-let-7a | TF1=AR TF2=MYC miRNA=hsa-let-7a target=CCND2
+exflag 3 FOXO3 AR BCL6 CCND2 MYC hsa-let-7c | TF1=FOXO3 TF2=AR miRNA=hsa-let-7c target=MYC
+exflag 4 FOXO3 AR BCL6 MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 FOXO3 AR BCL6 MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exflag 4 FOXO3 AR MYC VEGFA hsa-miR-106a hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA

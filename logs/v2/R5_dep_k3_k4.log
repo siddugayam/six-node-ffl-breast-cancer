@@ -1,0 +1,16 @@
+graph=results/v2/R4_graph_dep.txt K=3 nodes=587 edges=5636
+connected_subgraphs=173828  FFL_greedy(paper)=2067  FFL_maxflow=2067  divergent=0
+class_diversity_histogram (paper's is_ffl):
+   1 classes -> 54
+   2 classes -> 520
+   3 classes -> 1493
+max_classes=3  example_module: ABCA1(Gene) NFKB1(TF) hsa-miR-130a(miRNA)
+graph=results/v2/R4_graph_dep.txt K=4 nodes=587 edges=5636
+connected_subgraphs=6864682  FFL_greedy(paper)=68428  FFL_maxflow=68428  divergent=0
+class_diversity_histogram (paper's is_ffl):
+   1 classes -> 47
+   2 classes -> 47154
+   3 classes -> 17922
+   4 classes -> 3244
+   5 classes -> 61
+max_classes=5  example_module: ABCA1(Gene) NFKB1(TF) RELA(TF) hsa-miR-199a(miRNA)

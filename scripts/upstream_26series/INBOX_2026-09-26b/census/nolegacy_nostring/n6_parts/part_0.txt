@@ -1,0 +1,67 @@
+K 6
+nparts 64
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 23631
+visited 9670883
+rng_final 42
+comp 1 2 3 40
+comp 1 3 2 1731
+comp 1 4 1 133
+comp 2 1 3 4
+comp 2 2 2 1363
+comp 2 3 1 6439
+comp 3 1 2 107
+comp 3 2 1 9107
+comp 3 3 0 478
+comp 4 0 2 3
+comp 4 1 1 1117
+comp 4 2 0 1904
+comp 5 0 1 116
+comp 5 1 0 986
+comp 6 0 0 103
+mask 2 103
+mask 3 119
+mask 6 588
+mask 7 6
+mask 11 38
+mask 14 7489
+mask 15 2111
+mask 18 14
+mask 19 10
+mask 20 265
+mask 21 13
+mask 22 2501
+mask 23 249
+mask 26 24
+mask 27 178
+mask 28 3937
+mask 29 521
+mask 30 3482
+mask 31 1981
+mask 46 2
+flags 0 22032
+flags 1 1152
+flags 2 12
+flags 3 182
+flags 7 2
+flags 8 167
+flags 9 21
+flags 24 57
+flags 25 6
+exflag 0 GATA3 ESR1 LOX hsa-miR-145 hsa-miR-200a STAT5A
+exflag 0 GATA3 ESR1 LOX hsa-miR-181a hsa-miR-200a STAT5A
+exflag 0 GATA3 ESR1 SERPINE1 hsa-miR-106a KLF10 hsa-miR-200b
+exflag 1 GATA3 ERG ESR1 SERPINE1 hsa-miR-200c KLF10
+exflag 1 GATA3 ESR1 CEBPB BCL2L1 hsa-miR-200a STAT5A
+exflag 1 GATA3 ESR1 E2F1 MYBL2 COL1A1 hsa-miR-29b
+exflag 2 GATA3 ESR1 hsa-let-7c COL1A1 COL3A1 hsa-miR-29b
+exflag 2 GATA3 ESR1 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29b
+exflag 3 GATA3 CDH3 ESR1 E2F1 MYC hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=MYC
+exflag 3 GATA3 ESR1 AR CDH11 hsa-miR-19a hsa-miR-200b | TF1=ESR1 TF2=AR miRNA=hsa-miR-19a target=CDH11
+exflag 3 GATA3 ESR1 AR CDH11 hsa-miR-19a hsa-miR-200c | TF1=ESR1 TF2=AR miRNA=hsa-miR-19a target=CDH11
+exflag 4 GATA3 CDH3 ESR1 E2F1 MYC hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=MYC
+exflag 4 GATA3 ESR1 AR VEGFA hsa-miR-17 hsa-miR-200b | TF1=ESR1 TF2=AR miRNA=hsa-miR-17 target=VEGFA
+exflag 4 GATA3 ESR1 AR VEGFA hsa-miR-17 hsa-miR-200c | TF1=ESR1 TF2=AR miRNA=hsa-miR-17 target=VEGFA

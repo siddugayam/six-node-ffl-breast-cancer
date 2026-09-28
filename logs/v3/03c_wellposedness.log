@@ -1,0 +1,44 @@
+  linear_legacy  I1_miRNA_FFL    n3   p1max=0.971 unconverged=0.0%
+  linear_legacy  I1_miRNA_FFL    n4   p1max=432 unconverged=55.9%
+  linear_legacy  I1_miRNA_FFL    n4d  p1max=0.986 unconverged=0.1%
+  linear_legacy  I1_miRNA_FFL    n5   p1max=422 unconverged=39.9%
+  linear_legacy  I1_miRNA_FFL    n6   p1max=384 unconverged=36.1%
+  linear_legacy  COMP_C2_toggle  n3   p1max=1 unconverged=0.0%
+  linear_legacy  COMP_C2_toggle  n4   p1max=451 unconverged=60.8%
+  linear_legacy  COMP_C2_toggle  n4d  p1max=1 unconverged=0.0%
+  linear_legacy  COMP_C2_toggle  n5   p1max=451 unconverged=47.4%
+  linear_legacy  COMP_C2_toggle  n6   p1max=445 unconverged=57.3%
+  saturating     I1_miRNA_FFL    n3   p1max=0.971 unconverged=0.0%
+  saturating     I1_miRNA_FFL    n4   p1max=10.5 unconverged=9.0%
+  saturating     I1_miRNA_FFL    n4d  p1max=0.986 unconverged=0.1%
+  saturating     I1_miRNA_FFL    n5   p1max=10.1 unconverged=6.7%
+  saturating     I1_miRNA_FFL    n6   p1max=9.86 unconverged=6.6%
+  saturating     COMP_C2_toggle  n3   p1max=1 unconverged=0.0%
+  saturating     COMP_C2_toggle  n4   p1max=10.9 unconverged=7.8%
+  saturating     COMP_C2_toggle  n4d  p1max=1 unconverged=0.0%
+  saturating     COMP_C2_toggle  n5   p1max=10.8 unconverged=6.3%
+  saturating     COMP_C2_toggle  n6   p1max=10.8 unconverged=10.3%
+
+mutual_stabilisation         family module     p1_max  pct_still_growing_1p5x_from_50_to_250tau  pct_rel_residual_gt_1e4  analytic_runaway_condition_kappa2_y1_y2_gt_1
+       linear_legacy   I1_miRNA_FFL     n3   0.970991                                  0.000000                 0.000000                                           NaN
+       linear_legacy   I1_miRNA_FFL     n4 431.839074                                 54.223633                55.932617                                     58.959961
+       linear_legacy   I1_miRNA_FFL    n4d   0.985542                                  0.341797                 0.122070                                           NaN
+       linear_legacy   I1_miRNA_FFL     n5 422.062001                                 38.574219                39.916992                                     47.436523
+       linear_legacy   I1_miRNA_FFL     n6 384.211208                                 34.667969                36.059570                                     40.649414
+       linear_legacy COMP_C2_toggle     n3   0.999982                                  0.097656                 0.024414                                           NaN
+       linear_legacy COMP_C2_toggle     n4 451.424991                                 60.156250                60.839844                                     58.569336
+       linear_legacy COMP_C2_toggle    n4d   0.999984                                  0.048828                 0.000000                                           NaN
+       linear_legacy COMP_C2_toggle     n5 451.126598                                 46.948242                47.387695                                     45.825195
+       linear_legacy COMP_C2_toggle     n6 444.758079                                 54.174805                57.275391                                     51.953125
+          saturating   I1_miRNA_FFL     n3   0.970991                                  0.000000                 0.000000                                           NaN
+          saturating   I1_miRNA_FFL     n4  10.506645                                 10.131836                 9.033203                                     58.959961
+          saturating   I1_miRNA_FFL    n4d   0.985542                                  0.341797                 0.122070                                           NaN
+          saturating   I1_miRNA_FFL     n5  10.103689                                  7.397461                 6.713867                                     47.436523
+          saturating   I1_miRNA_FFL     n6   9.856955                                  7.177734                 6.640625                                     40.649414
+          saturating COMP_C2_toggle     n3   0.999982                                  0.097656                 0.024414                                           NaN
+          saturating COMP_C2_toggle     n4  10.877849                                  8.837891                 7.788086                                     58.569336
+          saturating COMP_C2_toggle    n4d   0.999984                                  0.048828                 0.000000                                           NaN
+          saturating COMP_C2_toggle     n5  10.844345                                  7.299805                 6.274414                                     45.825195
+          saturating COMP_C2_toggle     n6  10.847705                                  9.106445                10.302734                                     51.953125
+
+written: /path/to/revision/results/v3/dynamics_model_wellposedness_check.csv

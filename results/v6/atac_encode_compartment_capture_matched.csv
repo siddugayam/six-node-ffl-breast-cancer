@@ -1,0 +1,4 @@
+set,n,captured,frac,median_width
+fibroblast_specific_all5,9671,1333,0.1378347637266053,555
+epithelial_specific_all5,859,840,0.9778812572759022,671
+# Fisher OR=0.0036 p=0

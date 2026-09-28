@@ -1,0 +1,71 @@
+K=7  files=1  prod_q=0.00225  found=203,920  estimate=90,631,111.1  visited=286,204,720
+composition (TF, miRNA, Gene): found
+  TF=3 miRNA=3 Gene=1: 74,003  (36.2902 %)
+  TF=4 miRNA=2 Gene=1: 51,408  (25.2099 %)
+  TF=2 miRNA=4 Gene=1: 29,811  (14.6190 %)
+  TF=5 miRNA=1 Gene=1: 9,694  (4.7538 %)
+  TF=5 miRNA=2 Gene=0: 8,526  (4.1811 %)
+  TF=4 miRNA=3 Gene=0: 7,184  (3.5230 %)
+  TF=2 miRNA=3 Gene=2: 6,643  (3.2577 %)
+  TF=3 miRNA=2 Gene=2: 5,636  (2.7638 %)
+  TF=6 miRNA=1 Gene=0: 3,608  (1.7693 %)
+  TF=1 miRNA=5 Gene=1: 1,816  (0.8905 %)
+  TF=3 miRNA=4 Gene=0: 1,738  (0.8523 %)
+  TF=4 miRNA=1 Gene=2: 1,566  (0.7679 %)
+  TF=6 miRNA=0 Gene=1: 902  (0.4423 %)
+  TF=1 miRNA=4 Gene=2: 571  (0.2800 %)
+  TF=7 miRNA=0 Gene=0: 321  (0.1574 %)
+  TF=5 miRNA=0 Gene=2: 159  (0.0780 %)
+  TF=2 miRNA=2 Gene=3: 148  (0.0726 %)
+  TF=2 miRNA=5 Gene=0: 77  (0.0378 %)
+  TF=3 miRNA=1 Gene=3: 66  (0.0324 %)
+  TF=1 miRNA=3 Gene=3: 38  (0.0186 %)
+  TF=4 miRNA=0 Gene=3: 3  (0.0015 %)
+  TF=1 miRNA=2 Gene=4: 2  (0.0010 %)
+flags: found, estimate, %
+  a_2TF_2miR_2Gene: 12,427  est 5,523,111.1  (6.0941 %)
+  b_nodetype_TFTF_GeneGene_TFmiRGene: 4,035  est 1,793,333.3  (1.9787 %)
+  b_paperclass_TFTF_GeneGene_TFmiRGene: 47  est 20,888.9  (0.0230 %)
+  c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM: 24,762  est 11,005,333.3  (12.1430 %)
+  c_full_compositecore_plus_TF2: 5,636  est 2,504,888.9  (2.7638 %)
+distinct paper edge classes per module: 1: 323, 2: 4,963, 3: 83,242, 4: 87,196, 5: 27,435, 6: 761
+class sets with >= 6 classes:
+  [6] TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+miRNA-miRNA: 752
+  [6] TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene: 4
+  [6] TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+Gene->Gene+miRNA-miRNA: 3
+  [6] TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA: 2
+examples a_2TF_2miR_2Gene:
+  AHR FOS MYC SMAD7 hsa-miR-130a HOXB4 hsa-miR-23a
+  AHR FOS MYC SMAD7 hsa-miR-30a SERPINE1 hsa-miR-34a
+  APEX1 RELA hsa-miR-133b FST ID4 SOX2 hsa-miR-182
+examples b_nodetype_TFTF_GeneGene_TFmiRGene:
+  APEX1 NFKB1 RELA EPAS1 SERPINE1 hsa-miR-30b KLF10
+  APEX1 NFKB1 RELA EPAS1 SERPINE1 hsa-miR-429 KLF10
+  AR EP300 EZH2 hsa-miR-139 CCND2 hsa-miR-20a IRF9
+examples b_paperclass_TFTF_GeneGene_TFmiRGene:
+  BRCA1 EGR1 HIF1A hsa-miR-335 COL3A1 hsa-miR-382 COL1A1
+  BRCA1 MYC STAT3 hsa-let-7i COL1A1 COL3A1 hsa-miR-143
+  E2F1 CREBBP CREB1 MYB COL1A1 COL3A1 hsa-miR-335
+examples c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM:
+  AHR BRCA1 EGR1 MYC STAT3 TCF4 hsa-miR-146a | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-146a target=MYC
+  AHR BRCA1 EGR1 MYC STAT3 TP73 hsa-miR-34a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-34a target=TP73
+  AHR BRCA1 FOS BCL2L1 STAT3 ESR2 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+examples c_full_compositecore_plus_TF2:
+  AHR BRCA1 FOS BCL2L1 STAT3 ESR2 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+  AHR FOS MYC NFKB1 STAT4 TERT hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=TERT
+  APEX1 NFKB1 E2F1 PTHLH RELA hsa-miR-106b hsa-miR-29c | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-29c target=PTHLH
+examples class set TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene:
+  ETS1 COL1A1 COL3A1 EGR1 hsa-miR-142 IRF1 hsa-miR-29b
+  ETS1 COL1A1 COL3A1 EGR1 hsa-miR-200b SOX2 hsa-miR-29b
+  JUN ETS1 COL1A1 COL3A1 hsa-miR-221 SOX10 hsa-miR-335
+examples class set TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+miRNA-miRNA:
+  ATF4 CEBPB VEGFA hsa-miR-143 hsa-miR-29a ETV4 hsa-miR-200b
+  BCL6 BCL2L1 MYC hsa-let-7e hsa-miR-29b hsa-miR-93 IRF1
+  BCL6 CCND2 NFKB1 hsa-miR-29b MITF hsa-let-7e hsa-let-7i
+examples class set TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+Gene->Gene+miRNA-miRNA:
+  RELA COL1A1 COL3A1 FOXO3 STAT3 hsa-let-7b hsa-miR-143
+  RELA COL1A1 COL3A1 FOXO3 STAT3 hsa-let-7b hsa-miR-29a
+  RELA COL1A1 COL3A1 HIF1A NFKB1 hsa-let-7b hsa-let-7e
+examples class set TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF+Gene->Gene+miRNA-miRNA:
+  EGR1 HIF1A hsa-miR-382 COL1A1 COL3A1 hsa-miR-455 hsa-miR-29b
+  STAT3 EPAS1 hsa-miR-143 COL1A1 COL3A1 hsa-miR-155 hsa-miR-29c

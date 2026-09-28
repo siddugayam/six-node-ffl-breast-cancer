@@ -1,0 +1,12 @@
+method,ok,n_features,n_samples,note
+ESTIMATE,TRUE,3,1097,"estimate pkg, illumina platform, log2 input"
+xCell,TRUE,67,1097,"xCell 64 types + 3 aggregate scores, rnaseq=TRUE"
+MCPcounter,TRUE,10,1097,"log2 input, HUGO symbols"
+EPIC,TRUE,8,1097,"TRef tumour reference (CAFs + endothelial + immune), TPM-scaled input"
+EPIC_BRef,TRUE,7,1097,"BRef blood reference, immune only"
+quanTIseq,TRUE,11,1097,"TIL10, is_tumordata=TRUE, mRNA scaling on"
+ConsensusTME,TRUE,19,1097,"BRCA gene sets, ssGSEA"
+CIBERSORT_LM22,TRUE,22,1097,"own validated nu-SVR re-implementation, LM22, QN=FALSE (RNA-seq)"
+CBSX_Wu,TRUE,9,1097,nu-SVR against Wu et al. 2021 breast atlas signature
+CBSX_Wu_nocollagen,TRUE,9,1097,nu-SVR against Wu et al. 2021 breast atlas signature_nocollagen
+NNLS_Wu,TRUE,9,1097,non-negative least squares against the same Wu signature matrix

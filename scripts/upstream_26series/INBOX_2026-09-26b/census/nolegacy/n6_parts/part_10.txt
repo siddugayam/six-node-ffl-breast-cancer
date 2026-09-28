@@ -1,0 +1,118 @@
+K 6
+nparts 64
+part 10
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 870067
+visited 138020979
+rng_final 42
+comp 0 1 5 18
+comp 1 0 5 12
+comp 1 1 4 239
+comp 1 2 3 1172
+comp 1 3 2 1659
+comp 2 0 4 376
+comp 2 1 3 6129
+comp 2 2 2 26760
+comp 2 3 1 44723
+comp 3 0 3 2307
+comp 3 1 2 40595
+comp 3 2 1 397646
+comp 3 3 0 2232
+comp 4 0 2 7711
+comp 4 1 1 151400
+comp 4 2 0 49642
+comp 5 0 1 20924
+comp 5 1 0 97040
+comp 6 0 0 19482
+mask 2 49
+mask 3 191
+mask 6 697
+mask 13 11
+mask 14 33434
+mask 15 22304
+mask 18 26
+mask 19 21
+mask 20 14
+mask 21 4
+mask 22 3325
+mask 23 333
+mask 27 73
+mask 28 612
+mask 29 50
+mask 30 7615
+mask 31 2990
+mask 32 403
+mask 33 2166
+mask 34 19444
+mask 35 28559
+mask 36 2718
+mask 37 612
+mask 38 63343
+mask 39 3924
+mask 40 126
+mask 41 956
+mask 42 60
+mask 43 603
+mask 44 121123
+mask 45 68508
+mask 46 168920
+mask 47 196716
+mask 49 5
+mask 50 77
+mask 51 32
+mask 52 13527
+mask 53 1736
+mask 54 65623
+mask 55 6339
+mask 56 40
+mask 57 138
+mask 58 488
+mask 59 749
+mask 60 7007
+mask 61 7444
+mask 62 9021
+mask 63 7911
+flags 0 416027
+flags 1 7209
+flags 2 11188
+flags 3 10027
+flags 4 307659
+flags 5 3282
+flags 6 21170
+flags 7 4831
+flags 8 37409
+flags 9 46
+flags 10 617
+flags 11 523
+flags 12 35204
+flags 13 25
+flags 14 2675
+flags 15 619
+flags 24 4592
+flags 25 24
+flags 26 142
+flags 27 149
+flags 28 6424
+flags 29 4
+flags 30 200
+flags 31 21
+exflag 0 HDAC1 CCND2 CD44 NANOG hsa-miR-124 hsa-miR-17
+exflag 0 HDAC1 CCND2 CD44 NANOG hsa-miR-124 hsa-miR-18a
+exflag 0 HDAC1 CCND2 CD44 NANOG hsa-miR-124 hsa-miR-19a
+exflag 1 HDAC1 CCND2 CD44 FN1 STAT3 hsa-let-7d
+exflag 1 HDAC1 CCND2 CD44 FN1 STAT3 hsa-miR-124
+exflag 1 HDAC1 CCND2 CD44 FN1 STAT3 hsa-miR-135b
+exflag 2 HDAC1 CCND2 CD44 EGR1 NANOG hsa-miR-17
+exflag 2 HDAC1 CCND2 CD44 EGR1 NANOG hsa-miR-18a
+exflag 2 HDAC1 CCND2 CD44 EGR1 NANOG hsa-miR-19a
+exflag 3 HDAC1 CCND2 CD44 FN1 STAT3 hsa-miR-124 | TF1=HDAC1 TF2=STAT3 miRNA=hsa-miR-124 target=CCND2
+exflag 3 HDAC1 CCND2 CD44 MET STAT3 hsa-miR-124 | TF1=HDAC1 TF2=STAT3 miRNA=hsa-miR-124 target=CCND2
+exflag 3 HDAC1 CCND2 EGR1 FN1 STAT3 hsa-miR-124 | TF1=HDAC1 TF2=EGR1 miRNA=hsa-miR-124 target=CCND2
+exflag 4 HDAC1 CCND2 CD44 FN1 STAT3 hsa-miR-124 | TF1=HDAC1 TF2=STAT3 miRNA=hsa-miR-124 target=CCND2
+exflag 4 HDAC1 CCND2 CD44 MET STAT3 hsa-miR-124 | TF1=HDAC1 TF2=STAT3 miRNA=hsa-miR-124 target=CCND2
+exflag 4 HDAC1 CCND2 EGR1 FN1 STAT3 hsa-miR-124 | TF1=HDAC1 TF2=EGR1 miRNA=hsa-miR-124 target=CCND2
+exmask 63 HDAC1 CCND2 EGR1 HIF1A hsa-miR-29c ETV4
+exmask 63 HDAC1 CCND2 EGR1 IRF1 hsa-miR-106a hsa-miR-29b
+exmask 63 HDAC1 CCND2 EGR1 IRF1 hsa-miR-124 hsa-miR-29b

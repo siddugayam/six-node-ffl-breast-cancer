@@ -1,0 +1,10 @@
+TF,n_experiments,error,biosamples,breast_biosamples
+NFKB1,0,404 = zero released experiments,,
+RELA,14,,GM10847;GM12878;GM12891;GM12892;GM15510;GM18505;GM18526;GM18951;GM19099;GM19193;HepG2;K562;WTC11,
+SP1,15,,A549;GM12878;H1;HCT116;HEK293T;HepG2;K562;MCF-7;WTC11;liver,MCF-7
+ETS1,6,,A549;GM12878;GM23338;HepG2;K562,
+EGR1,14,,GM12878;H1;HCT116;HepG2;Ishikawa;K562;MCF-7;WTC11;glutamatergic neuron;liver,MCF-7
+TFAP2A,0,404 = zero released experiments,,
+SMAD3,4,,HepG2;K562;WTC11,
+GATA2,8,,HepG2;K562;SH-SY5Y;SK-N-SH;endothelial cell of umbilical vein,
+TWIST1,0,404 = zero released experiments,,

@@ -1,0 +1,50 @@
+{
+  "best_single": {
+    "node": "SP1",
+    "damage": 0.04693445413097432
+  },
+  "top100_pairs": {
+    "n_super_additive": 31,
+    "n_sub_additive": 69,
+    "mean_synergy": -0.0016172823718090634,
+    "mean_ratio_to_best_single": 1.3021272893237417,
+    "max_ratio_to_best_single": 1.90316702994794
+  },
+  "most_synergistic_pair": {
+    "A": "MKL1",
+    "B": "hsa-miR-143",
+    "damage": 0.03697072503579669,
+    "sum_of_singles": 0.030225012908924688,
+    "synergy": 0.006745712126872,
+    "z_vs_all_pairs": 9.993623341330467,
+    "percent_of_best_single_damage": 14.372622952101572
+  },
+  "synergy_distribution": {
+    "mean": -0.0001557115619498536,
+    "sd": 0.0006905827299173611,
+    "frac_super_additive": 0.3765952869626899,
+    "q999": 0.0002756382346370599,
+    "max": 0.006745712126872
+  },
+  "adding_a_second_target_to_the_best_single": {
+    "first_target": "SP1",
+    "n_partners": 586,
+    "mean_damage": 0.04890173467767059,
+    "max_damage": 0.08932410567067423,
+    "best_partner": "RELA",
+    "mean_gain_over_best_single": 0.0019672805466962665,
+    "max_gain_over_best_single": 0.0423896515396999
+  },
+  "n_pairs_both_with_approved_drug": 18721,
+  "best_approved_drug_pair": {
+    "node_A": "NFKB1",
+    "node_B": "RELA",
+    "type_A": "TF",
+    "type_B": "TF",
+    "composite_damage": 0.080405,
+    "synergy": -0.004251,
+    "ratio_to_best_single": 1.7131,
+    "approved_drugs_A": "APIGENIN;ARTESUNATE;BACLOFEN;BENZETHONIUM CHLORIDE",
+    "approved_drugs_B": "APIGENIN;ARTESUNATE;DEXAMETHASONE;GEFITINIB"
+  }
+}

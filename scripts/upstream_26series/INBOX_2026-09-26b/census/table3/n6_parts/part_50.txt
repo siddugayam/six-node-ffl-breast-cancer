@@ -1,0 +1,172 @@
+K 6
+nparts 64
+part 50
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 755135
+visited 447708423
+rng_final 42
+comp 0 0 6 20
+comp 0 1 5 27
+comp 1 0 5 516
+comp 1 1 4 3162
+comp 1 2 3 6538
+comp 1 3 2 5656
+comp 1 4 1 5853
+comp 2 0 4 1536
+comp 2 1 3 18637
+comp 2 2 2 69024
+comp 2 3 1 139418
+comp 2 4 0 495
+comp 3 0 3 3723
+comp 3 1 2 50995
+comp 3 2 1 267833
+comp 3 3 0 13522
+comp 4 0 2 6747
+comp 4 1 1 86394
+comp 4 2 0 34959
+comp 5 0 1 8758
+comp 5 1 0 27414
+comp 6 0 0 3908
+mask 2 163
+mask 3 1142
+mask 6 2361
+mask 7 237
+mask 11 3
+mask 12 2563
+mask 13 2770
+mask 14 87513
+mask 15 99492
+mask 18 6
+mask 19 7
+mask 20 1938
+mask 21 697
+mask 22 23786
+mask 23 5567
+mask 27 47
+mask 28 14298
+mask 29 12408
+mask 30 7257
+mask 31 28424
+mask 32 20
+mask 33 1608
+mask 34 3888
+mask 35 18387
+mask 37 505
+mask 38 15783
+mask 39 4891
+mask 40 41
+mask 41 177
+mask 42 23
+mask 43 150
+mask 44 23307
+mask 45 58991
+mask 46 67784
+mask 47 162972
+mask 48 1
+mask 49 7
+mask 50 96
+mask 51 60
+mask 52 2320
+mask 53 3474
+mask 54 27761
+mask 55 9951
+mask 56 18
+mask 57 239
+mask 58 66
+mask 59 477
+mask 60 5476
+mask 61 15563
+mask 62 5877
+mask 63 10103
+mask 70 484
+mask 71 14
+mask 76 1077
+mask 77 724
+mask 78 4862
+mask 79 5544
+mask 84 26
+mask 85 8
+mask 86 587
+mask 87 115
+mask 92 283
+mask 93 605
+mask 94 35
+mask 95 174
+mask 100 9
+mask 101 38
+mask 102 918
+mask 103 119
+mask 108 1771
+mask 109 2535
+mask 110 521
+mask 111 3079
+mask 116 108
+mask 117 35
+mask 118 278
+mask 119 41
+mask 124 168
+mask 125 169
+mask 126 53
+mask 127 60
+flags 0 424244
+flags 1 28416
+flags 2 6627
+flags 3 12628
+flags 4 157339
+flags 5 2356
+flags 6 32057
+flags 7 22377
+flags 8 23981
+flags 9 94
+flags 10 576
+flags 11 777
+flags 12 23779
+flags 13 9
+flags 14 2783
+flags 15 1063
+flags 24 7135
+flags 25 460
+flags 26 178
+flags 27 465
+flags 28 7092
+flags 29 27
+flags 30 320
+flags 31 352
+exflag 0 JUND F3 MYB SERPINE1 hsa-miR-143 hsa-miR-148a
+exflag 0 JUND IL6 LIF MYB hsa-miR-143 hsa-miR-29a
+exflag 0 JUND IL6 LIF MYB hsa-miR-143 hsa-miR-29c
+exflag 1 COL3A1 FN1 ITGB1 VHL TP53 hsa-miR-124
+exflag 1 COL3A1 FN1 POSTN VHL TP53 hsa-miR-19a
+exflag 1 COL3A1 FN1 POSTN VHL TP53 hsa-miR-19b
+exflag 2 COL3A1 FN1 ITGB1 VHL TP53 hsa-miR-124
+exflag 2 COL3A1 FN1 POSTN VHL TP53 hsa-miR-19a
+exflag 2 COL3A1 FN1 POSTN VHL TP53 hsa-miR-19b
+exflag 3 JUND BCL6 CCND2 MYB MYC hsa-miR-141 | TF1=MYB TF2=MYC miRNA=hsa-miR-141 target=CCND2
+exflag 3 JUND BCL6 CCND2 MYB MYC hsa-miR-15a | TF1=MYB TF2=MYC miRNA=hsa-miR-15a target=CCND2
+exflag 3 JUND BCL6 HDAC1 MYB GATA3 hsa-miR-200a | TF1=MYB TF2=GATA3 miRNA=hsa-miR-200a target=HDAC1
+exflag 4 SP1 ABCA1 AHR BRCA1 STAT3 hsa-miR-17 | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-17 target=ABCA1
+exflag 4 SP1 ABCA1 AHR BRCA1 STAT3 hsa-miR-19a | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-19a target=ABCA1
+exflag 4 SP1 ABCA1 AHR BRCA1 STAT3 hsa-miR-200c | TF1=SP1 TF2=STAT3 miRNA=hsa-miR-200c target=ABCA1
+exmask 63 JUND F3 MYB SERPINE1 hsa-miR-148a EPAS1
+exmask 63 SP1 ABCA1 AHR SREBF1 hsa-miR-106b hsa-miR-132
+exmask 63 SP1 ABCA1 AHR STAT3 hsa-miR-106b hsa-miR-132
+exmask 95 SP1 ADA CREB1 hsa-miR-29b hsa-miR-335 IRF1
+exmask 95 SP1 ADA EGR1 hsa-miR-29b hsa-miR-335 IRF1
+exmask 95 SP1 ADA MYCN hsa-miR-29b hsa-miR-335 IRF1
+exmask 111 JUND IL6 LIF MYB hsa-miR-143 hsa-miR-29a
+exmask 111 JUND IL6 LIF MYB hsa-miR-143 hsa-miR-29c
+exmask 111 SP1 ABCA1 CCND2 SREBF1 hsa-miR-29b hsa-let-7b
+exmask 119 SP1 ABCA1 CREB1 STAT3 hsa-miR-29b hsa-miR-335
+exmask 119 SP1 ABCA1 EGR1 STAT3 hsa-miR-29b hsa-miR-335
+exmask 119 SP1 ABCA1 EGR1 STAT3 hsa-miR-29b hsa-miR-455
+exmask 125 SP1 CCND2 MET STAT3 hsa-miR-29b hsa-let-7b
+exmask 125 SP1 CCND2 MET STAT3 hsa-miR-29b hsa-let-7e
+exmask 125 SP1 CCND2 STAT3 hsa-let-7d hsa-miR-29b hsa-let-7b
+exmask 126 SP1 BRCA1 STAT3 hsa-miR-29b hsa-let-7b HIC1
+exmask 126 SP1 BRCA1 STAT3 hsa-miR-29b hsa-let-7e HIC1
+exmask 126 SP1 CREB1 STAT3 hsa-miR-29b LIF hsa-miR-335
+exmask 127 SP1 ABCA1 STAT3 hsa-miR-29b hsa-let-7b HIC1
+exmask 127 SP1 ABCA1 STAT3 hsa-miR-29b hsa-let-7e HIC1
+exmask 127 SP1 BRCA1 CCND2 STAT3 hsa-miR-29b hsa-let-7b

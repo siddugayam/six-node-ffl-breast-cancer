@@ -1,0 +1,6 @@
+family,module,topology,label,n_nodes,gate,gene_gene,mir_mir,tf_tf,mir_to_TF,s_TM,s_MY,s_TY
+COMP_I1_negfeedback,n3,COMP_I1_MIR_n3,3-node core,3,AND,none,False,False,True,1,-1,1
+COMP_I1_negfeedback,n4,COMP_I1_MIR_n4,4-node: + gene-gene edge,4,AND,mutual,False,False,True,1,-1,1
+COMP_I1_negfeedback,n5,COMP_I1_MIR_n5,5-node: + miRNA-miRNA co-transcription,5,AND,mutual,True,False,True,1,-1,1
+COMP_I1_negfeedback,n6,COMP_I1_MIR_n6,6-node: + TF-TF edge,6,AND,mutual,True,True,True,1,-1,1
+COMP_I1_negfeedback,n4d,COMP_I1_MIR_n4dir,4-node variant: directed gene->gene cascade,4,AND,directed,False,False,True,1,-1,1

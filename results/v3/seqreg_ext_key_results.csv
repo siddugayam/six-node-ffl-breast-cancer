@@ -1,0 +1,105 @@
+section,claim,value,source_file
+B_occlusion_calibration,COL1A1: sites occluded (all JASPAR/HOCOMOCO calls p<1e-4),"618 sites, 5 dinucleotide shuffles each; reference fibroblast CAGE 259.810",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: MOST load-bearing site in the promoter (de-facto positive control),"NFYC_HUMAN.H11MO.0.A at TSS-107, d=-43.599 (-16.78%)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,"COL1A1: best NF-kB site, calibrated against all 618 occluded sites","NFKB1_HUMAN.H11MO.1.B at TSS+6: d=-1.628 (-0.63%), rank 133/618 (21.4th percentile; 132 sites are MORE load-bearing)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: NFKB1 best single site,TSS+6 d=-1.628 (-0.63%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: NFKB2 best single site,TSS+6 d=-1.035 (-0.40%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: REL best single site,TSS-891 d=-0.237 (-0.09%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,"COL1A1: best SP site, calibrated against all 618 occluded sites","SP1_HUMAN.H11MO.0.A at TSS-126: d=-8.540 (-3.29%), rank 33/618 (5.2th percentile; 32 sites are MORE load-bearing)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: SP1 best single site,TSS-126 d=-8.540 (-3.29%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: SP2 best single site,TSS-170 d=-5.577 (-2.15%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: SP3 best single site,TSS-169 d=-7.054 (-2.72%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,"COL1A1: best ETS site, calibrated against all 618 occluded sites","ETS2_HUMAN.H11MO.0.B at TSS-169: d=-0.609 (-0.23%), rank 201/618 (32.4th percentile; 200 sites are MORE load-bearing)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: ETS1 best single site,TSS-512 d=0.126 (+0.05%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: ETS2 best single site,TSS-169 d=-0.609 (-0.23%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: GABPA best single site,TSS-318 d=-0.498 (-0.19%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL1A1: top-10 most load-bearing motifs,NFYC_HUMAN.H11MO.0.A@-107(-16.8%); NFYB_HUMAN.H11MO.0.A@-107(-15.5%); NFYA_HUMAN.H11MO.0.A@-107(-14.8%); MA0483.2|Gfi1B@-108(-14.2%); GFI1_HUMAN.H11MO.0.C@-108(-13.9%); GFI1B_HUMAN.H11MO.0.A@-108(-13.1%); PBX3_HUMAN.H11MO.0.A@-104(-12.7%); FOXI1_HUMAN.H11MO.0.B@-107(-12.2%); PRGR_HUMAN.H11MO.0.A@+214(-11.4%); MA1936.2|ERF::FOXO1@+214(-11.3%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: sites occluded (all JASPAR/HOCOMOCO calls p<1e-4),"1008 sites, 5 dinucleotide shuffles each; reference fibroblast CAGE 114.469",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: MOST load-bearing site in the promoter (de-facto positive control),"VDR_HUMAN.H11MO.0.A at TSS+193, d=-87.975 (-76.86%)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,"COL3A1: best NF-kB site, calibrated against all 1008 occluded sites","REL_HUMAN.H11MO.0.B at TSS+265: d=-2.378 (-2.08%), rank 184/1008 (18.2th percentile; 183 sites are MORE load-bearing)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: REL best single site,TSS+265 d=-2.378 (-2.08%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: RELB best single site,TSS-674 d=0.424 (+0.37%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: SP family sites at p<1e-4,NONE,seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,"COL3A1: best ETS site, calibrated against all 1008 occluded sites","ETS1_HUMAN.H11MO.0.A at TSS+186: d=-32.985 (-28.82%), rank 10/1008 (0.9th percentile; 9 sites are MORE load-bearing)",seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: ETS1 best single site,TSS+186 d=-32.985 (-28.82%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: ETS2 best single site,TSS+65 d=-0.734 (-0.64%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: GABPA best single site,TSS+188 d=-22.204 (-19.40%),seqreg_ext_occlusion_allsites.csv
+B_occlusion_calibration,COL3A1: top-10 most load-bearing motifs,VDR_HUMAN.H11MO.0.A@+193(-76.9%); ETV5_HUMAN.H11MO.0.C@+186(-73.2%); EHF_HUMAN.H11MO.0.B@+185(-69.6%); ERG_HUMAN.H11MO.0.A@+186(-68.9%); ZN708_HUMAN.H11MO.0.C@+191(-68.6%); ETV2_HUMAN.H11MO.0.B@+184(-65.4%); ELF3_HUMAN.H11MO.0.A@+185(-56.6%); MA1942.2|ETV2::FOXI1@+186(-44.2%); ZEB1_HUMAN.H11MO.0.A@+191(-39.0%); ETS1_HUMAN.H11MO.0.A@+186(-28.8%),seqreg_ext_occlusion_allsites.csv
+B_distal_RELA_peaks,COL1A1: fibroblast NF-kB ReMap peaks occluded,9 peaks; 4 with z < -3 vs width-matched control windows (i.e. the model treats them as functional for fibroblast CAGE at the TSS),seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 5 (IMR-90, -8049 bp, 1 kB motifs)","d=-2.386 (-0.92%), control -0.048+/-0.157 (n=20), z=-14.90, emp p=0.048",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 4 (IMR-90, -2566 bp, 0 kB motifs)","d=-5.751 (-2.21%), control -0.182+/-0.375 (n=20), z=-14.87, emp p=0.048",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 6 (IMR-90, -8861 bp, 4 kB motifs)","d=-2.568 (-0.99%), control -0.011+/-0.216 (n=20), z=-11.83, emp p=0.048",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 7 (IMR-90, -17308 bp, 0 kB motifs)","d=-1.225 (-0.47%), control -0.189+/-0.327 (n=20), z=-3.17, emp p=0.095",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 1 (HDF, +65562 bp, 0 kB motifs)","d=-0.223 (-0.09%), control -0.180+/-0.400 (n=20), z=-0.11, emp p=0.286",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 8 (IMR-90, -20798 bp, 1 kB motifs)","d=+0.136 (+0.05%), control +0.031+/-0.408 (n=20), z=+0.26, emp p=0.762",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 0 (HDF, +66695 bp, 3 kB motifs)","d=-0.097 (-0.04%), control -0.204+/-0.274 (n=20), z=+0.39, emp p=0.714",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 3 (HDF, +52210 bp, 0 kB motifs)","d=+0.171 (+0.07%), control -0.260+/-0.420 (n=20), z=+1.03, emp p=0.905",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL1A1 peak 2 (IMR-90, +60928 bp, 0 kB motifs)","d=+0.393 (+0.15%), control -0.079+/-0.303 (n=20), z=+1.55, emp p=0.952",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,COL3A1: fibroblast NF-kB ReMap peaks occluded,11 peaks; 1 with z < -3 vs width-matched control windows (i.e. the model treats them as functional for fibroblast CAGE at the TSS),seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 13 (IMR-90, +2494 bp, 0 kB motifs)","d=-7.009 (-6.12%), control +0.103+/-0.334 (n=20), z=-21.31, emp p=0.048",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 14 (IMR-90, +4055 bp, 5 kB motifs)","d=-0.232 (-0.20%), control +0.038+/-0.180 (n=20), z=-1.50, emp p=0.048",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 15 (IMR-90, +4080 bp, 5 kB motifs)","d=-0.297 (-0.26%), control -0.057+/-0.273 (n=20), z=-0.88, emp p=0.143",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 18 (IMR-90, +9814 bp, 0 kB motifs)","d=-0.472 (-0.41%), control +0.159+/-0.929 (n=20), z=-0.68, emp p=0.190",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 11 (IMR-90, -73306 bp, 9 kB motifs)","d=-0.062 (-0.05%), control -0.018+/-0.521 (n=20), z=-0.09, emp p=0.190",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 12 (IMR-90, -10418 bp, 1 kB motifs)","d=+0.221 (+0.19%), control +0.256+/-1.185 (n=20), z=-0.03, emp p=0.857",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 19 (HDF, +59671 bp, 0 kB motifs)","d=+0.059 (+0.05%), control -0.006+/-0.180 (n=20), z=+0.36, emp p=0.810",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 10 (IMR-90, -76125 bp, 0 kB motifs)","d=+0.032 (+0.03%), control -0.051+/-0.192 (n=20), z=+0.44, emp p=0.762",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 9 (IMR-90, -90025 bp, 1 kB motifs)","d=+0.629 (+0.55%), control +0.235+/-0.615 (n=20), z=+0.64, emp p=0.810",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 17 (IMR-90, +5146 bp, 0 kB motifs)","d=+0.822 (+0.72%), control +0.024+/-0.249 (n=20), z=+3.21, emp p=1.000",seqreg_ext_rela_peak_occlusion.csv
+B_distal_RELA_peaks,"COL3A1 peak 16 (IMR-90, +4540 bp, 1 kB motifs)","d=+3.260 (+2.85%), control +0.072+/-0.255 (n=20), z=+12.50, emp p=1.000",seqreg_ext_rela_peak_occlusion.csv
+B_splice_donor_confound,COL1A1: killing the 2-bp exon1 5' splice donor (GT->AA / GT->CC),TSS+222..+223 GT->AA: -9.20%; TSS+222..+223 GT->CC: -10.27%,seqreg_ext_splicedonor_control.csv
+B_splice_donor_confound,COL1A1: neutral 4-bp exonic control,+0.25%,seqreg_ext_splicedonor_control.csv
+B_splice_donor_confound,COL3A1: killing the 2-bp exon1 5' splice donor (GT->AA / GT->CC),TSS+196..+197 GT->AA: -27.27%; TSS+196..+197 GT->CC: -28.53%,seqreg_ext_splicedonor_control.csv
+B_splice_donor_confound,COL3A1: killing the 4-bp exonic GGAA 'ETS core' instead,TSS+191..+194 GGAA->CCTT: -8.19%; TSS+191..+194 GGAA->TTTT: -5.02%,seqreg_ext_splicedonor_control.csv
+B_splice_donor_confound,COL3A1: neutral 4-bp exonic control,+0.71%,seqreg_ext_splicedonor_control.csv
+B_splice_donor_confound,CORRECTION to the first pass,"The deposited claim 'COL3A1: shuffling the ETS1 site changes predicted fibroblast CAGE by -47.60% at TSS+186' is confounded: COL3A1 exon 1 ends at TSS+195, the called ETS1 site (TSS+186..+198, CAACAGGAAGGTG) straddles the exon1/intron1 junction, and its GGAA is the last exonic bases while the rest is the canonical donor AG|GTGAGT. Destroying only the 2-bp donor reproduces -27% to -29%, while destroying only the 4-bp GGAA gives -5% to -8% (and even that mutates two bases of the donor's exonic consensus). The same geometry explains the COL1A1 TSS+214 sites (exon 1 ends at TSS+221; donor kill -9% to -10%). These are splice-donor effects, not evidence of ETS1 binding.",seqreg_ext_splicedonor_control.csv
+C_ChIPAtlas_direct,"fibroblast/mesenchymal TF ChIP-seq experiments downloaded and intersected at peak level (hg38, MACS2 q<1e-5)","774 experiments, 28 cell types, 126 antigens",seqreg_ext_chipatlas_fibroblast_experiment_list.csv
+C_ChIPAtlas_direct,COL1A1 promoter (TSS-1000..+500): TFs with a FIBROBLAST peak,26 TFs: RAD21(5/21); EP300(4/14); MED1(4/36); SMC3(4/18); BANF1(3/4); CEBPD(3/6); CHD1(3/4); Epitope tags(3/93); GFP(3/3); TP53(3/26); ATF1(2/3); BRD4(2/12); HIRA(2/4); KAT6A(2/3); SPI1(2/3); TBP(2/2); GPS2(1/4); GTF2B(1/1); KDM6B(1/2); KLF4(1/15); LMNA(1/33); LMNB1(1/6); MAZ(1/1); MXI1(1/1); NFE2L2(1/2); SMARCB1(1/5),seqreg_ext_chipatlas_fibroblast_tf_summary.csv
+C_ChIPAtlas_direct,COL1A1: NFKB1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL1A1: RELA in fibroblast/mesenchymal experiments,"2 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 0, +/-100 kb 1",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL1A1: SP1 in fibroblast/mesenchymal experiments,"6 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 0, +/-100 kb 0",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL1A1: ETS1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL1A1: MKL1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL1A1: CTCF in fibroblast/mesenchymal experiments,"54 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 49, +/-100 kb 50",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1 promoter (TSS-1000..+500): TFs with a FIBROBLAST peak,10 TFs: EP300(3/14); BRD4(2/12); Epitope tags(2/93); GFP(2/3); MED1(2/36); CEBPB(1/18); CHD1(1/4); GTF2B(1/1); KAT6A(1/3); TBP(1/2),seqreg_ext_chipatlas_fibroblast_tf_summary.csv
+C_ChIPAtlas_direct,COL3A1: NFKB1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1: RELA in fibroblast/mesenchymal experiments,"2 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 1, +/-100 kb 1",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1: SP1 in fibroblast/mesenchymal experiments,"6 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 0, +/-100 kb 0",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1: ETS1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1: MKL1 in fibroblast/mesenchymal experiments,"NO fibroblast/mesenchymal ChIP-seq experiment exists for this factor -- untestable, absence of evidence not evidence of absence",seqreg_ext_chipatlas_focus_tfs.csv
+C_ChIPAtlas_direct,COL3A1: CTCF in fibroblast/mesenchymal experiments,"54 such experiments exist genome-wide; peaks: promoter 0, +/-5 kb 34, +/-100 kb 36",seqreg_ext_chipatlas_focus_tfs.csv
+C_GTEx_singletissue,COL1A1: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 19/54 tissues; max 68 in Nerve_Tibial) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,COL1A1: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 19/54 tissues; max 68 in Nerve_Tibial) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,COL3A1: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 7/54 tissues; max 33 in Nerve_Tibial) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,COL3A1: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 7/54 tissues; max 33 in Nerve_Tibial) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,NFKB1: significant cis-eQTLs in Breast_Mammary_Tissue,17 (this gene has eQTLs in 12/54 tissues; max 353 in Muscle_Skeletal) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,NFKB1: significant cis-eQTLs in Cells_Cultured_fibroblasts,289 (this gene has eQTLs in 12/54 tissues; max 353 in Muscle_Skeletal) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,RELA: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 9/54 tissues; max 97 in Esophagus_Mucosa) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,RELA: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 9/54 tissues; max 97 in Esophagus_Mucosa) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,SP1: significant cis-eQTLs in Breast_Mammary_Tissue,210 (this gene has eQTLs in 39/54 tissues; max 464 in Esophagus_Mucosa) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,SP1: significant cis-eQTLs in Cells_Cultured_fibroblasts,201 (this gene has eQTLs in 39/54 tissues; max 464 in Esophagus_Mucosa) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,ETS1: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 3/54 tissues; max 99 in Cells_Cultured_fibroblasts) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,ETS1: significant cis-eQTLs in Cells_Cultured_fibroblasts,99 (this gene has eQTLs in 3/54 tissues; max 99 in Cells_Cultured_fibroblasts) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29A: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29A: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29B1: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29B1: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29C: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,MIR29C: significant cis-eQTLs in Cells_Cultured_fibroblasts,0 (this gene has eQTLs in 0/54 tissues; max 0 in Adipose_Subcutaneous) -- no eQTL in ANY tissue - uninformative,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,LINC-PINT: significant cis-eQTLs in Breast_Mammary_Tissue,0 (this gene has eQTLs in 24/54 tissues; max 79 in Heart_Atrial_Appendage) -- REAL NEGATIVE (query works elsewhere),seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,LINC-PINT: significant cis-eQTLs in Cells_Cultured_fibroblasts,7 (this gene has eQTLs in 24/54 tissues; max 79 in Heart_Atrial_Appendage) -- eQTL present,seqreg_ext_gtex_focus_summary.csv
+C_GTEx_singletissue,COL1A1: distance from significant eQTLs to the TSS,208 eQTL records across all tissues; nearest 1363 bp; within 2 kb 2; within 10 kb 60,seqreg_ext_gtex_singletissue_variants.csv
+C_GTEx_singletissue,COL3A1: distance from significant eQTLs to the TSS,56 eQTL records across all tissues; nearest 32761 bp; within 2 kb 0; within 10 kb 0,seqreg_ext_gtex_singletissue_variants.csv
+A_AlphaGenome_access,alphagenome python package,INSTALLED v0.9.0,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,AlphaGenome output modalities (read from the installed official client),11 modalities,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,Is there a DNA-METHYLATION output head?,NO,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,gRPC endpoint reachability (invalid key),REACHABLE - only the key is missing,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,GET https://deepmind.google.com/science/alphagenome,"HTTP 200, 184050 bytes",seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,GET https://deepmind.google.com/science/alphagenome/account/terms,"HTTP 200, 184087 bytes",seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,HuggingFace repo google/alphagenome-all-folds,gated=auto,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,HuggingFace repo gtca/alphagenome_pytorch,gated=False,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,Local-inference package alphagenome-pytorch,NOT INSTALLED - installation not permitted on the analysis machine,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,DECISION TAKEN,AlphaGenome NOT RUN,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,"ACTION REQUIRED BY THE ACCOUNT HOLDER - ROUTE 1 (hosted API, recommended)",1 step,seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,ACTION REQUIRED BY THE ACCOUNT HOLDER - ROUTE 2 (local weights),"3 steps, needs a big GPU",seqreg_ext_alphagenome_access.csv
+A_AlphaGenome_access,"Commercial route (not used, not authorised)",available,seqreg_ext_alphagenome_access.csv

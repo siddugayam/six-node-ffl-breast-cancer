@@ -1,0 +1,4 @@
+set,n_regions,n_in_TCGA_BRCA_peakset,frac
+fibroblast_specific,316234,23429,0.07408754276896222
+epithelial_specific,116721,30628,0.26240350922284766
+shared,224146,96011,0.4283413489422073

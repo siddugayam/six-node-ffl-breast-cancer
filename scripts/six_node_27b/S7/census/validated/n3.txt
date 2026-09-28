@@ -1,0 +1,37 @@
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5337
+visited 133837
+rng_final 42
+comp 0 0 3 63
+comp 0 1 2 179
+comp 1 0 2 120
+comp 1 1 1 1128
+comp 2 0 1 811
+comp 2 1 0 1712
+comp 3 0 0 1324
+mask 1 4
+mask 2 142
+mask 3 328
+mask 6 753
+mask 9 28
+mask 13 938
+mask 18 28
+mask 22 75
+mask 25 111
+mask 26 3
+mask 32 577
+mask 33 491
+mask 34 747
+mask 35 29
+mask 36 795
+mask 40 151
+mask 44 56
+mask 48 22
+mask 52 39
+mask 56 20
+flags 0 5337

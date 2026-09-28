@@ -1,0 +1,25 @@
+atlas	mirna	group	n	mean_cpm	median_cpm
+FANTOM5	hsa-miR-29a-3p	fibroblasts (all)	28	11776.569999999998	11053.0
+FANTOM5	hsa-miR-29a-3p	mammary fibroblasts	3	6164.943333333334	5692.5
+FANTOM5	hsa-miR-29a-3p	mammary epithelial cells	3	12545.419999999998	12005.3
+FANTOM5	hsa-miR-29b-3p	fibroblasts (all)	28	668.2357571428572	565.1395
+FANTOM5	hsa-miR-29b-3p	mammary fibroblasts	3	187.51020000000003	116.036
+FANTOM5	hsa-miR-29b-3p	mammary epithelial cells	3	1053.5966666666666	690.299
+FANTOM5	hsa-miR-29c-3p	fibroblasts (all)	28	146.46731914285715	98.6122
+FANTOM5	hsa-miR-29c-3p	mammary fibroblasts	3	82.43826666666666	90.3063
+FANTOM5	hsa-miR-29c-3p	mammary epithelial cells	3	500.6223333333333	435.843
+FANTOM5	hsa-miR-101-3p	fibroblasts (all)	28	1314.043117857143	1285.7199999999998
+FANTOM5	hsa-miR-101-3p	mammary fibroblasts	3	593.2363333333334	654.99
+FANTOM5	hsa-miR-101-3p	mammary epithelial cells	3	2009.25	1847.79
+microRNAome	hsa-miR-29a-3p	fibroblasts (all)	96	13135.789989144729	8404.383422555478
+microRNAome	hsa-miR-29a-3p	mammary fibroblasts	3	6133.671182148835	5673.165063119374
+microRNAome	hsa-miR-29a-3p	mammary epithelial cells	5	8666.94058694287	9311.037299799184
+microRNAome	hsa-miR-29b-3p	fibroblasts (all)	96	898.5908660908023	294.0342304861756
+microRNAome	hsa-miR-29b-3p	mammary fibroblasts	3	185.77418936962704	122.70204334991014
+microRNAome	hsa-miR-29b-3p	mammary epithelial cells	5	700.831256905159	540.5998432260454
+microRNAome	hsa-miR-29c-3p	fibroblasts (all)	96	221.1475480552456	112.97900039114978
+microRNAome	hsa-miR-29c-3p	mammary fibroblasts	3	79.74604522540074	71.25206064198106
+microRNAome	hsa-miR-29c-3p	mammary epithelial cells	5	360.0420897128389	357.74989625253005
+microRNAome	hsa-miR-101-3p	fibroblasts (all)	96	2069.1269301774664	1046.3353322099606
+microRNAome	hsa-miR-101-3p	mammary fibroblasts	3	578.0720224614664	638.7724021451204
+microRNAome	hsa-miR-101-3p	mammary epithelial cells	5	1490.124554799481	1563.7395904305272

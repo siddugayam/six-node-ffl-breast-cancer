@@ -1,0 +1,27 @@
+gene,ensembl,hpa_version,if_reliability,main_location,additional_location,summary
+BRCA1,ENSG00000012048,25,supported,nuclear bodies,nucleoplasm,Mainly localized to the nuclear bodies. In addition localized to the nucleoplasm.
+CCND2,ENSG00000118971,25,enhanced,nucleoplasm,,Localized to the nucleoplasm.
+COL1A1,ENSG00000108821,25,approved,endoplasmic reticulum,vesicles,Mainly localized to the endoplasmic reticulum. In addition localized to vesicles.
+COL3A1,ENSG00000168542,25,approved,endoplasmic reticulum,,Localized to the endoplasmic reticulum.
+CXCL12,ENSG00000107562,25,,,,
+DNMT1,ENSG00000130816,25,supported,nucleoplasm,,Localized to the nucleoplasm.
+E2F1,ENSG00000101412,25,supported,nucleoplasm,centrosome,Mainly localized to the nucleoplasm. In addition localized to the centrosome.
+E2F3,ENSG00000112242,25,supported,nucleoplasm,,Mainly localized to the nucleoplasm.
+EGR2,ENSG00000122877,25,approved,nucleoplasm,,Mainly localized to the nucleoplasm.
+ESR1,ENSG00000091831,25,approved,vesicles,nucleoplasm,Mainly localized to vesicles. In addition localized to the nucleoplasm.
+ETS1,ENSG00000134954,25,supported,nucleoplasm,,Localized to the nucleoplasm.
+EZH2,ENSG00000106462,25,enhanced,nucleoplasm,,Localized to the nucleoplasm.
+FN1,ENSG00000115414,25,,,,
+GATA3,ENSG00000107485,25,supported,nucleoplasm,,Localized to the nucleoplasm.
+JUN,ENSG00000177606,25,enhanced,nucleoplasm,,Mainly localized to the nucleoplasm.
+MET,ENSG00000105976,25,approved,plasma membrane,cytosol,Mainly localized to the plasma membrane. In addition localized to the cytosol.
+MMP14,ENSG00000157227,25,approved,cytosol,intermediate filaments,Mainly localized to the cytosol. In addition localized to the intermediate filaments.
+MYBL2,ENSG00000101057,25,supported,nucleoplasm,cytosol,Mainly localized to the nucleoplasm. In addition localized to the cytosol.
+NFKB1,ENSG00000109320,25,supported,nucleoplasm,cytosol,Mainly localized to the nucleoplasm. In addition localized to the cytosol.
+PDGFRB,ENSG00000113721,25,supported,vesicles,golgi apparatus,Mainly localized to vesicles. In addition localized to the Golgi apparatus.
+PLAU,ENSG00000122861,25,approved,golgi apparatus;vesicles,,Localized to the Golgi apparatus and vesicles.
+POSTN,ENSG00000133110,25,approved,golgi apparatus,,Mainly localized to the Golgi apparatus.
+RELA,ENSG00000173039,25,enhanced,cytosol,,Localized to the cytosol.
+SP1,ENSG00000185591,25,enhanced,nucleoplasm,,Localized to the nucleoplasm.
+SREBF1,ENSG00000072310,25,enhanced,nucleoplasm,,Localized to the nucleoplasm.
+STAT5A,ENSG00000126561,25,enhanced,cytosol,nucleoplasm,Mainly localized to the cytosol. In addition localized to the nucleoplasm.

@@ -1,0 +1,21 @@
+gene,tissue,n_significant_eqtl,n_tissues_queried,n_tissues_with_any_eqtl,max_n_in_any_tissue,tissue_with_most,interpretation
+COL1A1,Breast_Mammary_Tissue,0,54,19,68,Nerve_Tibial,REAL NEGATIVE (query works elsewhere)
+COL1A1,Cells_Cultured_fibroblasts,0,54,19,68,Nerve_Tibial,REAL NEGATIVE (query works elsewhere)
+COL3A1,Breast_Mammary_Tissue,0,54,7,33,Nerve_Tibial,REAL NEGATIVE (query works elsewhere)
+COL3A1,Cells_Cultured_fibroblasts,0,54,7,33,Nerve_Tibial,REAL NEGATIVE (query works elsewhere)
+NFKB1,Breast_Mammary_Tissue,17,54,12,353,Muscle_Skeletal,eQTL present
+NFKB1,Cells_Cultured_fibroblasts,289,54,12,353,Muscle_Skeletal,eQTL present
+RELA,Breast_Mammary_Tissue,0,54,9,97,Esophagus_Mucosa,REAL NEGATIVE (query works elsewhere)
+RELA,Cells_Cultured_fibroblasts,0,54,9,97,Esophagus_Mucosa,REAL NEGATIVE (query works elsewhere)
+SP1,Breast_Mammary_Tissue,210,54,39,464,Esophagus_Mucosa,eQTL present
+SP1,Cells_Cultured_fibroblasts,201,54,39,464,Esophagus_Mucosa,eQTL present
+ETS1,Breast_Mammary_Tissue,0,54,3,99,Cells_Cultured_fibroblasts,REAL NEGATIVE (query works elsewhere)
+ETS1,Cells_Cultured_fibroblasts,99,54,3,99,Cells_Cultured_fibroblasts,eQTL present
+MIR29A,Breast_Mammary_Tissue,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+MIR29A,Cells_Cultured_fibroblasts,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+MIR29B1,Breast_Mammary_Tissue,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+MIR29B1,Cells_Cultured_fibroblasts,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+MIR29C,Breast_Mammary_Tissue,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+MIR29C,Cells_Cultured_fibroblasts,0,54,0,0,Adipose_Subcutaneous,no eQTL in ANY tissue - uninformative
+LINC-PINT,Breast_Mammary_Tissue,0,54,24,79,Heart_Atrial_Appendage,REAL NEGATIVE (query works elsewhere)
+LINC-PINT,Cells_Cultured_fibroblasts,7,54,24,79,Heart_Atrial_Appendage,eQTL present

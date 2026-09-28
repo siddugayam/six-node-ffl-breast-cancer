@@ -1,0 +1,10 @@
+"cohort","accession","platform","n","n_detail","analysis","n_features_tested","n_TCGA_significant","n_replicate_same_direction","pct_replicate_same_direction","n_replicate_same_direction_and_sig","pct_replicate_same_direction_and_sig","binom_p"
+"GSE42568","GSE42568","Affymetrix HG-U133 Plus 2.0 (GPL570)",121,"17 normal / 104 tumour","hub_DE_tumour_vs_normal",50,45,38,84.4,21,46.7,1.56e-06
+"GSE45827","GSE45827","Affymetrix HG-U133 Plus 2.0 (GPL570)",141,"11 normal / 130 tumour","hub_DE_tumour_vs_normal",50,45,31,68.9,18,40,0.00805
+"GSE10780","GSE10780","Affymetrix HG-U133 Plus 2.0 (GPL570)",185,"143 normal / 42 tumour","hub_DE_tumour_vs_normal",50,45,38,84.4,33,73.3,1.56e-06
+"MET500","MET500 breast metastases","RNA-seq (poly-A / exome capture), log2",92,"92 metastases vs 1097 TCGA primaries","hub_rank_shift_metastasis_vs_primary",50,NA,43,86,NA,NA,NA
+"METABRIC","cBioPortal brca_metabric","Illumina HT-12 v3 microarray",1980,"1980 tumours; 0 with miRNA","named_axis_correlation_direction",11,9,8,88.9,6,66.7,0.0195
+"MET500 (breast metastases)","MET500","RNA-seq (poly-A / exome capture), log2",92,"92 tumours; 0 with miRNA","named_axis_correlation_direction",11,9,5,55.6,4,44.4,0.5
+"GSE19783","GSE19783","Agilent GPL6480 mRNA + Agilent GPL8227 miRNA",101,"101 tumours; 101 with miRNA","named_axis_correlation_direction",21,16,14,87.5,8,50,0.00209
+"METABRIC","cBioPortal brca_metabric","Illumina HT-12 v3 microarray",1979,"1979 tumours, 1143 OS events","hub_Cox_OS",50,0,29,58,19,38,0.161
+"METABRIC","cBioPortal brca_metabric","Illumina HT-12 v3 microarray",1975,"1975 tumours, 800 RFS events","hub_Cox_RFS",50,0,33,66,14,28,0.0164

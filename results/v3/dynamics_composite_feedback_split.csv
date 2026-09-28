@@ -1,0 +1,3 @@
+subclass,sign_TF_to_miRNA,embedded_loop,n_all,n_resolved,pct_of_resolved_composite,coherence_types,Alon_counterpart
+TF -> miRNA -| TF  (delayed NEGATIVE FEEDBACK inside the FFL),1,negative feedback (activation-repression),791,473,61.830065359477125,C4=111; I1=362,none in the 3-node transcriptional catalogue
+TF -| miRNA -| TF  (MUTUAL REPRESSION / toggle inside the FFL),-1,double-negative (positive) feedback,451,292,38.169934640522875,C2=179; I3=113,none in the 3-node transcriptional catalogue

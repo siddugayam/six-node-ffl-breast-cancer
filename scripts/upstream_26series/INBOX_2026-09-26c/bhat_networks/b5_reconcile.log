@@ -1,0 +1,4 @@
+{'graph': 'table3', 'B5_as_sent_instances': 30503, 'B5_as_sent_sets': 20338, 'either_direction_TF_typed_instances': 30317, 'either_direction_TF_typed_sets': 20207, 'fig1d_literal_instances': 4923, 'fig1d_literal_sets': 3306}
+{'graph': 'nolegacy', 'B5_as_sent_instances': 23409, 'B5_as_sent_sets': 14610, 'either_direction_TF_typed_instances': 23295, 'either_direction_TF_typed_sets': 14540, 'fig1d_literal_instances': 3898, 'fig1d_literal_sets': 2498}
+{'graph': 'table3_nostring', 'B5_as_sent_instances': 891, 'B5_as_sent_sets': 752, 'either_direction_TF_typed_instances': 835, 'either_direction_TF_typed_sets': 707, 'fig1d_literal_instances': 73, 'fig1d_literal_sets': 69}
+{'graph': 'nolegacy_nostring', 'B5_as_sent_instances': 98, 'B5_as_sent_sets': 68, 'either_direction_TF_typed_instances': 91, 'either_direction_TF_typed_sets': 64, 'fig1d_literal_instances': 7, 'fig1d_literal_sets': 7}

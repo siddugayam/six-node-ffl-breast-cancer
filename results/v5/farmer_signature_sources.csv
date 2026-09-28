@@ -1,0 +1,12 @@
+signature,n_genes_as_published,source_paper,pmid,doi,provenance
+FARMER2009_STROMAL_50,50,Farmer et al. Nat Med 2009,19122658,10.1038/nm.1908,"Supplementary Table 4, column 1 (top 50 genes of the DCN-anchored multilinear model = the stroma-related signature)"
+FINAK_REFERENCE_EPITHELIUM_E,10,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"Finak 2006 reference epithelial list, via Farmer 2009 Suppl Table 5 col 1"
+FINAK_REFERENCE_STROMA_I,9,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"Finak 2006 reference stromal list, via Farmer 2009 Suppl Table 5 col 2"
+WEST_DTF_FIBROMATOSIS,35,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"desmoid-type fibromatosis (DTF) top genes of West 2005 / Beck 2008, via Farmer 2009 Suppl Table 5 col 3"
+MAMMOSPHERE_MSP,33,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"mammosphere signature, via Farmer 2009 Suppl Table 5 col 4"
+FARMER_EMT_SIGNATURE,62,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"EMT gene set used by Farmer 2009, Suppl Table 5 col 5"
+FARMER_WNT_SIGNATURE,60,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"WNT gene set used by Farmer 2009, Suppl Table 5 col 6"
+FARMER_TGFBETA_TARGETS,77,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"TGF-beta target gene set used by Farmer 2009, Suppl Table 5 col 7"
+WEST_SFT_SIGNATURE,124,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,"solitary fibrous tumour (SFT) signature of West 2005, via Farmer 2009 Suppl Table 5 col 8"
+TRIULZI_ECM_GENELIST,738,Triulzi et al. PLoS One 2013,23441215,10.1371/journal.pone.0056761,Table S1 ECM gene list
+WINSLOW_STROMAL_SIG1,14,Winslow et al. Breast Cancer Res 2015,25848820,10.1186/s13058-015-0530-2,"Table 2, gene signature 1"

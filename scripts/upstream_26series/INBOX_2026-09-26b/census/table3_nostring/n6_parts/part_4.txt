@@ -1,0 +1,82 @@
+K 6
+nparts 64
+part 4
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 63621
+visited 26743502
+rng_final 42
+comp 1 2 3 19
+comp 1 3 2 846
+comp 1 4 1 5264
+comp 2 1 3 10
+comp 2 2 2 2594
+comp 2 3 1 34413
+comp 2 4 0 470
+comp 3 0 3 1
+comp 3 1 2 338
+comp 3 2 1 11543
+comp 3 3 0 4132
+comp 4 0 2 38
+comp 4 1 1 1198
+comp 4 2 0 2355
+comp 5 0 1 70
+comp 5 1 0 327
+comp 6 0 0 3
+mask 2 38
+mask 3 74
+mask 6 260
+mask 7 11
+mask 10 2
+mask 11 26
+mask 12 195
+mask 13 21
+mask 14 4035
+mask 15 1864
+mask 17 1
+mask 18 90
+mask 19 194
+mask 20 2629
+mask 21 190
+mask 22 4340
+mask 23 386
+mask 26 78
+mask 27 254
+mask 28 26356
+mask 29 2957
+mask 30 14605
+mask 31 3936
+mask 78 87
+mask 84 81
+mask 86 44
+mask 92 564
+mask 93 98
+mask 94 178
+mask 95 27
+flags 0 60533
+flags 1 2155
+flags 2 20
+flags 3 408
+flags 8 426
+flags 10 1
+flags 11 5
+flags 24 43
+flags 25 5
+flags 26 4
+flags 27 21
+exflag 0 POU5F1 DKK1 GATA6 hsa-miR-142 ASCL1 hsa-miR-302a
+exflag 0 POU5F1 DKK1 GATA6 hsa-miR-142 ASCL1 hsa-miR-302b
+exflag 0 POU5F1 DKK1 GATA6 hsa-miR-142 ASCL1 hsa-miR-302c
+exflag 1 POU5F1 CDX2 DKK1 SP1 hsa-miR-142 ASCL1
+exflag 1 POU5F1 CDX2 DKK1 SP1 hsa-miR-22 ASCL1
+exflag 1 POU5F1 CDX2 SP1 CCND2 hsa-miR-142 IRF9
+exflag 3 POU5F1 CDX2 DKK1 SP1 MYC hsa-miR-373 | TF1=SP1 TF2=MYC miRNA=hsa-miR-373 target=DKK1
+exflag 3 POU5F1 CDX2 SP1 ABCA1 NFKB1 hsa-miR-130a | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exflag 3 POU5F1 CDX2 SP1 ABCA1 RELA hsa-miR-130a | TF1=SP1 TF2=RELA miRNA=hsa-miR-130a target=ABCA1
+exflag 4 POU5F1 CDX2 SP1 ABCA1 NFKB1 hsa-miR-130a | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exflag 4 POU5F1 CDX2 SP1 ABCA1 RELA hsa-miR-130a | TF1=SP1 TF2=RELA miRNA=hsa-miR-130a target=ABCA1
+exflag 4 POU5F1 CDX2 SP1 EGR1 TGFBR2 hsa-miR-142 | TF1=SP1 TF2=EGR1 miRNA=hsa-miR-142 target=TGFBR2
+exmask 95 hsa-miR-205 IRF1 E2F1 THBS1 hsa-miR-29b hsa-let-7b
+exmask 95 hsa-miR-205 IRF1 E2F1 THBS1 hsa-miR-29b hsa-let-7e
+exmask 95 hsa-miR-9 IRF1 PDGFRB TP53 hsa-miR-143 hsa-miR-29a

@@ -1,0 +1,14 @@
+## link sets used by 11_ffl_module_membership.R and 13_circuit_level_3node_vs_6node.R
+G2 gene-gene links (undirected, Gene-Gene): 173 pairs; evidence {'STRING': 158, 'TRRUST': 15} ; of which the one deposit gene_gene edge: 1
+M2 miRNA-miRNA pairs (undirected): 495 pairs; (3kb,10kb,50kb) flags {('TRUE', 'TRUE', 'TRUE'): 212, ('FALSE', 'TRUE', 'TRUE'): 268, ('FALSE', 'FALSE', 'TRUE'): 15} ; max distance bp 75271
+T2 TF-TF pairs (undirected, TRRUST): 604
+legacy GeneMANIA pairs that are ALSO genomic pairs in layer_miRNA_miRNA.tsv: 2 [('hsa-miR-29a', 'hsa-miR-29b'), ('hsa-miR-29b', 'hsa-miR-29c')] [('649', 'TRUE'), ('504', 'TRUE')]
+## node sets (results/ffl_module_membership.csv)
+N6 = 497 nodes; protein-coding 311 ; HIGHER_ONLY = 138 nodes; protein-coding 104
+miRNA2 partners of three-node miRNAs: with the legacy-coinciding pairs 122 ; without them 119 ; lost: ['hsa-miR-29a', 'hsa-miR-29b', 'hsa-miR-29c']
+nodes that would leave N5/N6 without those pairs (not in N4 and not a TF2): []
+## circuits (results/circuit_level_3node_vs_6node.csv)
+distinct six-node circuits: 1989 ; rows per endpoint {'OS': 1989, 'PFI': 1989}
+circuits whose miRNA pair is one of the 30 legacy pairs: 115 {('hsa-miR-29a', 'hsa-miR-29b'): 45, ('hsa-miR-29b', 'hsa-miR-29c'): 70}
+circuits by G1-G2 evidence: {'STRING': 1486, 'TRRUST': 503}
+circuits by miRNA-pair distance class: {'10kb': 1926, '50kb only': 63}

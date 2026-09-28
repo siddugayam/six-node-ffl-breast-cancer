@@ -1,0 +1,79 @@
+/path/to/home/anaconda3/lib/python3.13/site-packages/sklearn/linear_model/_least_angle.py:753: ConvergenceWarning: Early stopping the lars path, as the residues are small and the current value of alpha is no longer well controlled. 269 iterations, alpha=2.923e-02, previous alpha=2.916e-02, with an active set of 270 regressors.
+  warnings.warn(
+DE feature-name check passed: 20745 unique symbols, 28 unmapped Entrez IDs (none a network node)
+network nodes with a DE measurement: 576/587;  FDR<0.05 & |logFC|>0.5: 336
+   COL1A1 logFC=+2.351  COL3A1 logFC=+1.323  miR-29a=-0.290
+
+[published] edges used = 6859;  max Neumann iterations to 1e-12 = 34 (contraction modulus alpha=0.85)
+  best single perturbations reproducing the tumour phenotype [published]:
+    POU5F1         TF     dir=+1 rho=+0.1768 r=+0.0956 hit=0.617 n_reached=329 ownFC=-0.55
+    hsa-miR-296    miRNA  dir=-1 rho=+0.1625 r=+0.0376 hit=0.666 n_reached=329 ownFC=-0.58
+    hsa-miR-18a    miRNA  dir=-1 rho=+0.1519 r=+0.0955 hit=0.596 n_reached=329 ownFC=+0.69
+    hsa-miR-7      miRNA  dir=-1 rho=+0.1448 r=+0.0758 hit=0.596 n_reached=329 ownFC=+0.57
+    hsa-miR-19b    miRNA  dir=-1 rho=+0.1424 r=+0.0662 hit=0.582 n_reached=330 ownFC=+0.24
+    hsa-miR-19a    miRNA  dir=-1 rho=+0.1331 r=+0.0578 hit=0.578 n_reached=329 ownFC=+0.86
+    hsa-miR-16     miRNA  dir=-1 rho=+0.1309 r=-0.0003 hit=0.617 n_reached=329 ownFC=+0.87
+    hsa-miR-30c    miRNA  dir=-1 rho=+0.1307 r=-0.0199 hit=0.648 n_reached=330 ownFC=-0.44
+    hsa-miR-17     miRNA  dir=-1 rho=+0.1299 r=+0.0467 hit=0.581 n_reached=329 ownFC=+0.62
+    hsa-miR-20a    miRNA  dir=-1 rho=+0.1268 r=+0.0493 hit=0.579 n_reached=330 ownFC=+0.25
+  max-statistic permutation null over all 1172 candidates (+/- directions): best|rho|=0.1768, null max mean=0.1200 sd=0.0176, FWER p=0.0050 (2000 permutations)
+  LASSO entry order (cumulative R2 of the fitted perturbation set) [published]:
+     1. FOXM1          TF     sign=+1  R2=0.0285
+     2. LPL            Gene   sign=-1  R2=0.0507
+     3. SOX10          TF     sign=-1  R2=0.0713
+     4. S100B          Gene   sign=-1  R2=0.0914
+     5. MYBL2          Gene   sign=+1  R2=0.1103
+     6. FHL1           Gene   sign=-1  R2=0.1290
+     7. OXTR           Gene   sign=-1  R2=0.1473
+     8. FOSB           Gene   sign=-1  R2=0.1654
+     9. MME            Gene   sign=-1  R2=0.1832
+    10. MYH11          Gene   sign=-1  R2=0.2009
+    11. ZBTB16         TF     sign=-1  R2=0.2187
+    12. PTPRZ1         Gene   sign=-1  R2=0.2349
+  LassoCV: 137 non-zero perturbations, in-sample R2 = 0.5202, alpha = 0.054874
+
+[curated] edges used = 6393;  max Neumann iterations to 1e-12 = 34 (contraction modulus alpha=0.85)
+  best single perturbations reproducing the tumour phenotype [curated]:
+    hsa-miR-18a    miRNA  dir=-1 rho=+0.1862 r=+0.0938 hit=0.631 n_reached=325 ownFC=+0.69
+    hsa-miR-19a    miRNA  dir=-1 rho=+0.1675 r=+0.0568 hit=0.615 n_reached=325 ownFC=+0.86
+    SPI1           TF     dir=+1 rho=+0.1545 r=+0.0503 hit=0.578 n_reached=325 ownFC=+0.62
+    hsa-miR-19b    miRNA  dir=-1 rho=+0.1452 r=+0.0572 hit=0.604 n_reached=326 ownFC=+0.24
+    hsa-miR-377    miRNA  dir=-1 rho=+0.1398 r=+0.0278 hit=0.600 n_reached=325 ownFC=-0.91
+    hsa-miR-20a    miRNA  dir=-1 rho=+0.1396 r=+0.0431 hit=0.607 n_reached=326 ownFC=+0.25
+    hsa-miR-17     miRNA  dir=-1 rho=+0.1362 r=+0.0404 hit=0.603 n_reached=325 ownFC=+0.62
+    hsa-miR-7      miRNA  dir=-1 rho=+0.1287 r=+0.0579 hit=0.603 n_reached=325 ownFC=+0.57
+    hsa-miR-487a   miRNA  dir=-1 rho=+0.1254 r=+0.0234 hit=0.598 n_reached=326 ownFC=-0.41
+    HNF4A          TF     dir=+1 rho=+0.1232 r=+0.0748 hit=0.598 n_reached=326 ownFC=+0.13
+  max-statistic permutation null over all 1172 candidates (+/- directions): best|rho|=0.1862, null max mean=0.1225 sd=0.0180, FWER p=0.0025 (2000 permutations)
+  LASSO entry order (cumulative R2 of the fitted perturbation set) [curated]:
+     1. LPL            Gene   sign=-1  R2=0.0223
+     2. S100B          Gene   sign=-1  R2=0.0424
+     3. ZBTB16         TF     sign=-1  R2=0.0617
+     4. MYBL2          Gene   sign=+1  R2=0.0806
+     5. FHL1           Gene   sign=-1  R2=0.0993
+     6. SOX10          TF     sign=-1  R2=0.1171
+     7. OXTR           Gene   sign=-1  R2=0.1355
+     8. FOSB           Gene   sign=-1  R2=0.1537
+     9. MME            Gene   sign=-1  R2=0.1716
+    10. MYH11          Gene   sign=-1  R2=0.1895
+    11. PTPRZ1         Gene   sign=-1  R2=0.2057
+    12. ADAMTS5        Gene   sign=-1  R2=0.2182
+  LassoCV: 2 non-zero perturbations, in-sample R2 = 0.0035, alpha = 0.17037
+
+[Boolean threshold model] seeded with sign(logFC) at 336 DE nodes; synchronous update x_v(t+1) = sign(sum_u w(u,v) x_u(t)), fixed nodes keep their seed value if they have no regulator
+  unperturbed attractor reached after 12 steps, period 4; sign agreement with observed DE on reached nodes: 0.711 (239/336)
+  best single-node clamps by sign agreement with the tumour phenotype:
+    hsa-miR-103    clamp=+1 acc=0.667 n=12 steps=2 period=1
+    CDX1           clamp=+1 acc=0.657 n=329 steps=11 period=4
+    hsa-miR-130b   clamp=+1 acc=0.657 n=329 steps=10 period=4
+    hsa-miR-181c   clamp=-1 acc=0.657 n=329 steps=12 period=4
+    hsa-miR-185    clamp=+1 acc=0.657 n=329 steps=10 period=4
+    hsa-miR-301b   clamp=+1 acc=0.657 n=329 steps=10 period=4
+    HNF1A          clamp=+1 acc=0.655 n=330 steps=11 period=4
+    ILF3           clamp=+1 acc=0.655 n=330 steps=11 period=4
+    KDM2A          clamp=-1 acc=0.655 n=330 steps=13 period=4
+    MECP2          clamp=+1 acc=0.655 n=330 steps=11 period=4
+    binomial p vs 0.5 for hsa-miR-103: 0.388
+
+wrote systems_dynamics_summary.json
+07 exit=0

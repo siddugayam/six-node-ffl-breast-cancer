@@ -1,0 +1,10 @@
+motif_set	n_ffl	n_nodes	n_TF	n_Gene	n_miRNA	n_protein_coding
+3-miR	4644	438	133	132	173	265
+3-TF	4017	426	131	128	167	259
+3-Comp	4008	424	131	128	165	259
+4-node	35266	571	154	198	219	352
+5-node	10940	551	151	189	211	340
+6-node	2948	513	147	167	199	314
+exemplar_4node	1	11	4	2	5	6
+exemplar_5node	1	14	3	2	9	5
+exemplar_6node	1	10	3	2	5	5

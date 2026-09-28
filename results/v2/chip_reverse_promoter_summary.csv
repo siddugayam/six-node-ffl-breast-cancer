@@ -1,0 +1,5 @@
+gene,window_bp,n_peaks_in_window_overlap,n_peaks_summit_in_window,n_TFs_overlap,n_TFs_summit,n_TFs_summit_reproducible
+COL1A1,1000,2464,2294,491,465,189
+COL1A1,5000,5035,5029,597,596,248
+COL3A1,1000,211,206,72,72,16
+COL3A1,5000,2564,2535,274,274,106

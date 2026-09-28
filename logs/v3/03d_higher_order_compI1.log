@@ -1,0 +1,13 @@
+    COMP_I1_negfeedback/n3 finished in 2056s
+    COMP_I1_negfeedback/n4d finished in 2182s
+    COMP_I1_negfeedback/n5 finished in 4330s
+    COMP_I1_negfeedback/n4 finished in 4352s
+    COMP_I1_negfeedback/n6 finished in 5347s
+
+DONE in 89.2 min
+             family module  pct_is_bistable  pct_bistability_unresolved  pct_is_sustained_osc  pct_is_ultrasensitive  pct_is_memory  pct_is_noise_rejecting
+COMP_I1_negfeedback     n3         1.501465                    0.006104               0.00000              82.952881      29.498291               69.323730
+COMP_I1_negfeedback     n4         3.448486                    5.072021               0.00000              71.099854      60.266113               72.186279
+COMP_I1_negfeedback    n4d         6.695557                    0.122070               0.00000              83.801270      31.439209               73.559570
+COMP_I1_negfeedback     n5         3.070068                    4.772949               0.00000              72.741699      53.955078               63.616943
+COMP_I1_negfeedback     n6         2.600098                    5.029297               0.22583              76.464844      50.524902               73.101807

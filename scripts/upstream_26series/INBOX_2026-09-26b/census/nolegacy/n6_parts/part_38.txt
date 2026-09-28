@@ -1,0 +1,125 @@
+K 6
+nparts 64
+part 38
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 200002
+visited 80430189
+rng_final 42
+comp 0 0 6 2
+comp 0 1 5 9
+comp 1 0 5 5
+comp 1 1 4 243
+comp 1 2 3 3307
+comp 1 3 2 4290
+comp 1 4 1 3736
+comp 2 0 4 46
+comp 2 1 3 2685
+comp 2 2 2 20797
+comp 2 3 1 49049
+comp 2 4 0 24
+comp 3 0 3 378
+comp 3 1 2 9120
+comp 3 2 1 70248
+comp 3 3 0 2971
+comp 4 0 2 959
+comp 4 1 1 17881
+comp 4 2 0 7845
+comp 5 0 1 1629
+comp 5 1 0 4297
+comp 6 0 0 481
+mask 2 3
+mask 3 38
+mask 6 25
+mask 7 1
+mask 11 30
+mask 12 485
+mask 13 358
+mask 14 2718
+mask 15 2767
+mask 18 21
+mask 19 10
+mask 20 495
+mask 21 103
+mask 22 744
+mask 23 165
+mask 26 6
+mask 27 126
+mask 28 11680
+mask 29 3670
+mask 30 8536
+mask 31 3134
+mask 32 2
+mask 33 488
+mask 34 479
+mask 35 2490
+mask 36 56
+mask 37 205
+mask 38 2471
+mask 39 385
+mask 40 13
+mask 41 67
+mask 42 41
+mask 43 262
+mask 44 34622
+mask 45 28659
+mask 46 19540
+mask 47 27593
+mask 49 3
+mask 50 96
+mask 51 72
+mask 52 3711
+mask 53 1177
+mask 54 7532
+mask 55 1755
+mask 56 8
+mask 57 180
+mask 58 178
+mask 59 675
+mask 60 12634
+mask 61 10829
+mask 62 5536
+mask 63 3128
+flags 0 108410
+flags 1 6963
+flags 2 3287
+flags 3 7998
+flags 4 35358
+flags 5 2649
+flags 6 2530
+flags 7 1419
+flags 8 10003
+flags 9 64
+flags 10 897
+flags 11 1044
+flags 12 9603
+flags 13 30
+flags 14 657
+flags 15 9
+flags 24 5234
+flags 25 78
+flags 26 116
+flags 27 527
+flags 28 3032
+flags 29 11
+flags 30 78
+flags 31 5
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-130a STAT5A
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-20a IRF9
+exflag 0 NFKB2 CCND2 HIF1A hsa-let-7a hsa-miR-23a STAT5A
+exflag 1 FBN1 FN1 LTBP1 VHL TP53 hsa-miR-26a
+exflag 1 FBN1 FN1 STAT3 EPAS1 TGFBR2 hsa-miR-181c
+exflag 1 FBN1 FN1 STAT3 ESR2 TGFBR2 hsa-miR-7
+exflag 2 FBN1 FN1 LTBP1 VHL TP53 hsa-miR-26a
+exflag 2 FBN1 FN1 STAT3 EPAS1 TGFBR2 hsa-miR-181c
+exflag 2 FBN1 FN1 STAT3 ESR2 TGFBR2 hsa-miR-7
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-let-7a | TF1=HIF1A TF2=AR miRNA=hsa-let-7a target=MYC
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-let-7c | TF1=AR TF2=MYC miRNA=hsa-let-7c target=CCND2
+exflag 3 NFKB2 CCND2 HIF1A AR MYC hsa-let-7e | TF1=HIF1A TF2=MYC miRNA=hsa-let-7e target=CCND2
+exflag 4 NFKB2 CCND2 REL RELA EGR1 hsa-let-7e | TF1=RELA TF2=EGR1 miRNA=hsa-let-7e target=CCND2
+exflag 4 NFKB2 CCND2 REL RELA EGR1 hsa-miR-183 | TF1=RELA TF2=EGR1 miRNA=hsa-miR-183 target=CCND2
+exflag 4 NFKB2 CCND2 REL RELA EGR1 hsa-miR-96 | TF1=RELA TF2=EGR1 miRNA=hsa-miR-96 target=CCND2
+exmask 63 NFKB2 CCND2 HIF1A MYC RUNX1 hsa-miR-19b
+exmask 63 NFKB2 CCND2 HIF1A MYC hsa-let-7a hsa-miR-24
+exmask 63 NFKB2 CCND2 HIF1A MYC hsa-let-7b hsa-miR-24

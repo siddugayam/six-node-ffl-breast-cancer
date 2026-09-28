@@ -1,0 +1,38 @@
+graph: 587 connected nodes, 8031 directed edges, 1223 reciprocal pairs contracted
+
+k=4  probs=[1.0, 1.0, 1.0, 0.05]  sampled connected subgraphs=624546  FFLs among them=5982
+estimated total connected induced 4-subgraphs: 12,490,920
+estimated total 4-node FFLs:                   119,640
+
+composition (TF, miRNA, Gene) -> estimated count:
+   TF=1 miRNA=2 Gene=1  ->  47,380   (sampled 2369)
+   TF=2 miRNA=1 Gene=1  ->  22,100   (sampled 1105)
+   TF=3 miRNA=1 Gene=0  ->  21,540   (sampled 1077)
+   TF=4 miRNA=0 Gene=0  ->  8,740   (sampled 437)
+   TF=3 miRNA=0 Gene=1  ->  7,600   (sampled 380)
+   TF=2 miRNA=2 Gene=0  ->  5,600   (sampled 280)
+   TF=1 miRNA=1 Gene=2  ->  3,860   (sampled 193)
+   TF=2 miRNA=0 Gene=2  ->  1,440   (sampled 72)
+   TF=0 miRNA=1 Gene=3  ->  540   (sampled 27)
+   TF=0 miRNA=3 Gene=1  ->  280   (sampled 14)
+   TF=1 miRNA=0 Gene=3  ->  220   (sampled 11)
+   TF=0 miRNA=2 Gene=2  ->  140   (sampled 7)
+
+distinct edge classes per FFL module (n_classes -> estimated modules):
+   1 classes -> 2,260  (sampled 113)
+   2 classes -> 57,280  (sampled 2864)
+   3 classes -> 35,540  (sampled 1777)
+   4 classes -> 24,280  (sampled 1214)
+   5 classes -> 280  (sampled 14)
+
+top edge-class combinations:
+   TF->miRNA+miRNA->Gene                                          32,240
+   TF->miRNA+miRNA->Gene+miRNA->TF                                10,240
+   Gene->Gene+TF->Gene+TF->miRNA+miRNA->Gene                      9,500
+   Gene->Gene+TF->TF+TF->miRNA                                    8,820
+   TF->Gene+TF->TF+TF->miRNA+miRNA->Gene                          8,260
+   Gene->Gene+TF->TF                                              7,240
+   Gene->Gene+TF->miRNA                                           4,920
+   Gene->Gene+TF->Gene+TF->TF                                     4,200
+
+wrote results/ffl_census_k4.json and ffl_examples_k4.csv

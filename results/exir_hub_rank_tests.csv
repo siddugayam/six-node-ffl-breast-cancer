@@ -1,0 +1,11 @@
+test,n_hub,n_nonhub,median_hub,median_nonhub,W,p,rho,n
+driver_rank ~ hub_centrality,29,167,1097,1814,1905,0.0672506399318652,,
+driver_rank ~ hub_ffl,25,171,1472,1661,1932,0.439033701402534,,
+driver_rank ~ hub_degree,27,169,1390,1807,1861,0.124893948762037,,
+driver_rank ~ hub_betweenness,24,172,1091.5,1770,1711,0.175708406017999,,
+ExIR driver score ~ FFL participation,,,,,,0.41140753282901,0.0589990465827246,196
+ExIR driver score ~ degree,,,,,,0.718769407539224,0.0258829559811333,196
+ExIR driver score ~ betweenness,,,,,,0.296287867993465,0.0749764455961576,196
+ExIR nonDE-mediator score ~ FFL participation,,,,,,0.114094302871183,0.145607257429734,119
+ExIR nonDE-mediator score ~ degree,,,,,,0.105974443011645,0.148933651352324,119
+ExIR nonDE-mediator score ~ betweenness,,,,,,0.0334781713574094,-0.195099889608257,119

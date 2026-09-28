@@ -1,0 +1,126 @@
+K 6
+nparts 64
+part 56
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 998849
+visited 151477858
+rng_final 42
+comp 0 1 5 15
+comp 1 0 5 6
+comp 1 1 4 561
+comp 1 2 3 2836
+comp 1 3 2 2292
+comp 1 4 1 197
+comp 2 0 4 350
+comp 2 1 3 7531
+comp 2 2 2 40166
+comp 2 3 1 66858
+comp 2 4 0 6
+comp 3 0 3 2546
+comp 3 1 2 51859
+comp 3 2 1 378363
+comp 3 3 0 4467
+comp 4 0 2 12484
+comp 4 1 1 189963
+comp 4 2 0 54692
+comp 5 0 1 38581
+comp 5 1 0 118022
+comp 6 0 0 27054
+mask 2 34
+mask 3 63
+mask 6 391
+mask 7 15
+mask 10 1
+mask 11 15
+mask 12 15
+mask 13 25
+mask 14 28778
+mask 15 10809
+mask 18 3
+mask 19 5
+mask 20 524
+mask 21 103
+mask 22 2688
+mask 23 277
+mask 26 18
+mask 27 63
+mask 28 8283
+mask 29 1281
+mask 30 4646
+mask 31 2948
+mask 32 3042
+mask 33 10997
+mask 34 28570
+mask 35 38315
+mask 36 16581
+mask 37 1503
+mask 38 74015
+mask 39 2404
+mask 40 32
+mask 41 313
+mask 42 75
+mask 43 463
+mask 44 199842
+mask 45 116924
+mask 46 145550
+mask 47 140115
+mask 48 1
+mask 49 21
+mask 50 48
+mask 51 25
+mask 52 29421
+mask 53 7051
+mask 54 63784
+mask 55 8714
+mask 56 25
+mask 57 192
+mask 58 230
+mask 59 617
+mask 60 15144
+mask 61 17396
+mask 62 8296
+mask 63 8158
+flags 0 594906
+flags 1 9460
+flags 2 21289
+flags 3 17635
+flags 4 240972
+flags 5 5991
+flags 6 14834
+flags 7 5156
+flags 8 47450
+flags 9 29
+flags 10 1700
+flags 11 1306
+flags 12 28615
+flags 13 302
+flags 14 1392
+flags 15 98
+flags 24 3225
+flags 25 9
+flags 26 164
+flags 27 119
+flags 28 4011
+flags 29 23
+flags 30 125
+flags 31 38
+exflag 0 CTNNB1 CD44 COL1A1 EZH2 hsa-let-7c hsa-miR-129
+exflag 0 CTNNB1 CD44 COL1A1 EZH2 hsa-let-7c hsa-miR-143
+exflag 0 CTNNB1 CD44 COL1A1 EZH2 hsa-let-7c hsa-miR-199a
+exflag 1 CTNNB1 CD44 COL1A1 COL3A1 EZH2 hsa-miR-143
+exflag 1 CTNNB1 CD44 COL1A1 COL3A1 FOXO3 hsa-let-7b
+exflag 1 CTNNB1 CD44 COL1A1 COL3A1 HIF1A hsa-let-7e
+exflag 2 CTNNB1 CD44 COL1A1 COL3A1 MYC hsa-let-7b
+exflag 2 CTNNB1 CD44 COL1A1 COL3A1 MYC hsa-let-7e
+exflag 2 CTNNB1 CD44 COL1A1 COL3A1 MYC hsa-miR-29a
+exflag 3 CTNNB1 CD44 COL1A1 EP300 RELA hsa-miR-199a | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-199a target=COL1A1
+exflag 3 CTNNB1 CD44 COL1A1 EZH2 RELA hsa-miR-199a | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-199a target=COL1A1
+exflag 3 CTNNB1 CD44 COL1A1 FBN1 RELA hsa-miR-182 | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-182 target=COL1A1
+exflag 4 CTNNB1 CD44 CXCL12 HIF1A MET hsa-miR-182 | TF1=CTNNB1 TF2=HIF1A miRNA=hsa-miR-182 target=MET
+exflag 4 CTNNB1 CD44 CXCL12 HIF1A NFKB1 hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=CXCL12
+exflag 4 CTNNB1 CD44 CXCL12 HIF1A NFKB1 hsa-miR-23b | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-23b target=CXCL12
+exmask 63 CTNNB1 CD44 COL1A1 EP300 NFKB1 hsa-miR-199a
+exmask 63 CTNNB1 CD44 COL1A1 FHL2 NFKB1 hsa-miR-199a
+exmask 63 CTNNB1 CD44 COL1A1 JUN NFKB1 hsa-miR-199a

@@ -1,0 +1,3 @@
+resource,n_breast_lines,n_compounds,bonferroni_like_alpha,min_rho_for_BH_significance_of_the_single_best_test,rho_needed_for_80pct_power_at_that_alpha
+PRISM_secondary_AUC,22,1440,3.472222222222222e-05,0.764,0.833
+GDSC2_LN_IC50,47,285,0.00017543859649122808,0.521,0.607

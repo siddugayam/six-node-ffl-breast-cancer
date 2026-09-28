@@ -1,0 +1,3 @@
+gene,total_peaks,n_biotypes,promoter_peaks,promoter_fibroblast,promoter_mesenchymal,fibroblast_peaks,mesenchymal_peaks,stimulated_fraction,fibroblast_all_stimulated
+COL1A1,884,39,21,0,1,9,24,0.566,True
+COL3A1,281,23,3,0,2,11,51,0.836,False

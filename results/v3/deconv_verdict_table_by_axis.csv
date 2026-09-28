@@ -1,0 +1,13 @@
+axis,INCONSISTENT,complete mediation,no mediation,partial same-signed
+ETS1 -> COL1A1,25,3,2,15
+ETS1 -> COL3A1,13,7,3,22
+NFKB1 -> COL1A1,33,8,3,1
+NFKB1 -> COL3A1,8,4,3,30
+RELA -> COL1A1,13,3,29,0
+SP1 -> COL1A1,38,0,7,0
+hsa-miR-29a -> COL1A1,5,9,7,24
+hsa-miR-29a -> COL3A1,5,8,7,25
+hsa-miR-29b -> COL1A1,2,2,5,36
+hsa-miR-29b -> COL3A1,2,5,5,33
+hsa-miR-29c -> COL1A1,2,4,7,32
+hsa-miR-29c -> COL3A1,2,1,7,35

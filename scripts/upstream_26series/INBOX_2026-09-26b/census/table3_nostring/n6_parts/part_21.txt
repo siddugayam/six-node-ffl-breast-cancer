@@ -1,0 +1,81 @@
+K 6
+nparts 64
+part 21
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 23379
+visited 6669362
+rng_final 42
+comp 1 2 3 26
+comp 1 3 2 297
+comp 1 4 1 165
+comp 2 1 3 11
+comp 2 2 2 848
+comp 2 3 1 8643
+comp 2 4 0 27
+comp 3 1 2 229
+comp 3 2 1 8188
+comp 3 3 0 775
+comp 4 0 2 13
+comp 4 1 1 1218
+comp 4 2 0 2122
+comp 5 0 1 78
+comp 5 1 0 692
+comp 6 0 0 47
+mask 2 47
+mask 3 91
+mask 6 439
+mask 7 47
+mask 10 1
+mask 11 13
+mask 12 17
+mask 13 15
+mask 14 6062
+mask 15 1268
+mask 20 566
+mask 21 76
+mask 22 2495
+mask 23 659
+mask 28 6782
+mask 29 969
+mask 30 1209
+mask 31 1867
+mask 45 2
+mask 46 2
+mask 61 2
+mask 70 6
+mask 76 147
+mask 77 28
+mask 78 150
+mask 79 20
+mask 84 37
+mask 85 2
+mask 86 73
+mask 87 1
+mask 92 163
+mask 93 122
+mask 94 1
+flags 0 21086
+flags 1 708
+flags 2 51
+flags 3 137
+flags 7 2
+flags 8 1303
+flags 9 1
+flags 10 4
+flags 24 87
+exflag 0 EPAS1 MMP14 hsa-miR-181c SMAD7 MYC hsa-miR-150
+exflag 0 EPAS1 MMP14 hsa-miR-23a STAT5A ESR1 hsa-miR-181a
+exflag 0 EPAS1 MMP14 hsa-miR-24 HIC1 MYC hsa-miR-150
+exflag 1 EPAS1 MSC MMP2 hsa-miR-29c FOS TP53
+exflag 1 EPAS1 SERPINE1 hsa-miR-23a IRF1 E2F1 KLF10
+exflag 1 EPAS1 VEGFA hsa-miR-23a HIC1 IRF1 TP53
+exflag 2 TP63 KLF4 hsa-miR-133b COL1A1 COL3A1 hsa-miR-143
+exflag 2 TP63 KLF4 hsa-miR-143 COL1A1 COL3A1 hsa-miR-193a
+exflag 3 EPAS1 SERPINE1 hsa-miR-181c FOS NFKB1 hsa-miR-34a | TF1=FOS TF2=NFKB1 miRNA=hsa-miR-34a target=SERPINE1
+exflag 3 EPAS1 SERPINE1 hsa-miR-24 E2F1 NFKB1 hsa-miR-224 | TF1=NFKB1 TF2=E2F1 miRNA=hsa-miR-224 target=SERPINE1
+exflag 3 EPAS1 SERPINE1 hsa-miR-24 E2F1 SP1 hsa-miR-34c | TF1=SP1 TF2=E2F1 miRNA=hsa-miR-34c target=SERPINE1
+exflag 4 EPAS1 SERPINE1 hsa-miR-24 E2F1 NFKB1 hsa-miR-224 | TF1=NFKB1 TF2=E2F1 miRNA=hsa-miR-224 target=SERPINE1
+exflag 4 EPAS1 SERPINE1 hsa-miR-24 E2F1 SP1 hsa-miR-34c | TF1=SP1 TF2=E2F1 miRNA=hsa-miR-34c target=SERPINE1
+exflag 4 EPAS1 VEGFA hsa-miR-24 E2F1 MYC hsa-miR-15a | TF1=E2F1 TF2=MYC miRNA=hsa-miR-15a target=VEGFA

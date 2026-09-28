@@ -1,0 +1,13 @@
+metric,value
+n_brca_samples,791
+n_network_genes_in_mc3,364
+n_other_genes,40179
+network_median_freq,0.00379266750948167
+other_median_freq,0
+network_mean_freq,0.00627596171211848
+other_mean_freq,0.00173175733913116
+wilcoxon_p,1.73906336564237e-82
+frac_network_ge2pct,0.0412087912087912
+frac_other_ge2pct,0.00497772468204784
+fisher_OR,8.58961120896917
+fisher_p,1.32333496529146e-09

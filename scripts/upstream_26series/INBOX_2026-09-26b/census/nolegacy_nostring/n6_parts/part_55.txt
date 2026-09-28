@@ -1,0 +1,68 @@
+K 6
+nparts 64
+part 55
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 43049
+visited 16765467
+rng_final 42
+comp 1 2 3 9
+comp 1 3 2 159
+comp 1 4 1 255
+comp 2 1 3 7
+comp 2 2 2 1305
+comp 2 3 1 16991
+comp 3 1 2 271
+comp 3 2 1 17457
+comp 3 3 0 1202
+comp 4 0 2 2
+comp 4 1 1 2008
+comp 4 2 0 2426
+comp 5 0 1 180
+comp 5 1 0 742
+comp 6 0 0 35
+mask 2 35
+mask 3 182
+mask 6 575
+mask 11 16
+mask 12 246
+mask 13 122
+mask 14 23147
+mask 15 5510
+mask 20 372
+mask 21 67
+mask 22 3423
+mask 23 578
+mask 27 2
+mask 28 4559
+mask 29 522
+mask 30 1582
+mask 31 2109
+mask 46 1
+mask 47 1
+flags 0 34004
+flags 1 635
+flags 2 112
+flags 3 544
+flags 7 1
+flags 8 6588
+flags 10 37
+flags 11 89
+flags 14 1
+flags 24 1002
+flags 27 36
+exflag 0 FOXF2 CXCL12 hsa-miR-200b SMAD7 MYC hsa-miR-130a
+exflag 0 FOXF2 CXCL12 hsa-miR-200b SMAD7 MYC hsa-miR-23a
+exflag 0 FOXF2 CXCL12 hsa-miR-200b SMAD7 MYC hsa-miR-23b
+exflag 1 KLF4 ATF3 hsa-miR-15a SKIL SMAD7 hsa-miR-590
+exflag 1 KLF4 ATF3 hsa-miR-182 MET SMAD7 hsa-miR-590
+exflag 1 KLF4 ATF3 hsa-miR-182 SKIL SMAD7 MYC
+exflag 2 KLF4 RARA ETS1 COL1A1 COL3A1 hsa-miR-143
+exflag 2 KLF4 TP53 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29a
+exflag 3 KLF4 MMP2 TP53 hsa-miR-124 hsa-miR-200b SOX2 | TF1=KLF4 TF2=TP53 miRNA=hsa-miR-200b target=MMP2
+exflag 3 KLF4 MMP2 TP53 hsa-miR-124 hsa-miR-429 SOX2 | TF1=KLF4 TF2=TP53 miRNA=hsa-miR-429 target=MMP2
+exflag 3 KLF4 MMP2 TP53 hsa-miR-200b SOX2 PAX6 | TF1=KLF4 TF2=TP53 miRNA=hsa-miR-200b target=MMP2
+exflag 4 KLF4 NANOG TP53 E2F3 VEGFA hsa-miR-17 | TF1=TP53 TF2=E2F3 miRNA=hsa-miR-17 target=VEGFA
+exflag 4 KLF4 NANOG TP53 E2F3 VEGFA hsa-miR-20a | TF1=TP53 TF2=E2F3 miRNA=hsa-miR-20a target=VEGFA
+exflag 4 KLF4 NANOG TP53 SMAD3 VEGFA hsa-miR-17 | TF1=TP53 TF2=SMAD3 miRNA=hsa-miR-17 target=VEGFA

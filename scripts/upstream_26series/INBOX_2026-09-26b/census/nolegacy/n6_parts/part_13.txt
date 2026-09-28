@@ -1,0 +1,116 @@
+K 6
+nparts 64
+part 13
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 390646
+visited 64707988
+rng_final 42
+comp 0 1 5 32
+comp 1 1 4 180
+comp 1 2 3 3241
+comp 1 3 2 4300
+comp 1 4 1 731
+comp 2 0 4 6
+comp 2 1 3 2128
+comp 2 2 2 27253
+comp 2 3 1 40068
+comp 2 4 0 11
+comp 3 0 3 250
+comp 3 1 2 13046
+comp 3 2 1 127008
+comp 3 3 0 3027
+comp 4 0 2 2839
+comp 4 1 1 64732
+comp 4 2 0 20845
+comp 5 0 1 17110
+comp 5 1 0 49175
+comp 6 0 0 14664
+mask 2 68
+mask 3 293
+mask 6 1172
+mask 7 60
+mask 11 8
+mask 12 699
+mask 13 563
+mask 14 29042
+mask 15 11450
+mask 20 1852
+mask 21 150
+mask 22 4394
+mask 23 547
+mask 26 3
+mask 27 10
+mask 28 24957
+mask 29 3365
+mask 30 4327
+mask 31 4003
+mask 32 31
+mask 33 1260
+mask 34 15521
+mask 35 17696
+mask 36 536
+mask 37 78
+mask 38 33263
+mask 39 658
+mask 40 332
+mask 41 1588
+mask 42 366
+mask 43 1424
+mask 44 42057
+mask 45 18686
+mask 46 60381
+mask 47 57909
+mask 52 5236
+mask 53 1198
+mask 54 27508
+mask 55 3286
+mask 57 36
+mask 58 217
+mask 59 186
+mask 60 3113
+mask 61 4899
+mask 62 3686
+mask 63 2532
+flags 0 222820
+flags 1 15862
+flags 2 2037
+flags 3 3018
+flags 4 94532
+flags 5 4966
+flags 6 5115
+flags 7 2811
+flags 8 20193
+flags 9 106
+flags 10 231
+flags 11 257
+flags 12 13129
+flags 13 42
+flags 14 718
+flags 15 145
+flags 24 1984
+flags 25 18
+flags 26 7
+flags 27 25
+flags 28 2617
+flags 29 3
+flags 30 10
+exflag 0 ARNT BHLHE40 hsa-miR-101 FN1 STAT3 hsa-miR-181a
+exflag 0 ARNT BHLHE40 hsa-miR-101 FN1 STAT3 hsa-miR-181b
+exflag 0 ARNT BHLHE40 hsa-miR-101 ID4 SOX2 hsa-miR-141
+exflag 1 ARNT BHLHE40 VHL hsa-miR-101 FBN1 FN1
+exflag 1 ARNT BHLHE40 VHL hsa-miR-25 FBN1 FN1
+exflag 1 ARNT BRCA1 DDIT3 IL6 LIF hsa-miR-106b
+exflag 2 ARNT BHLHE40 BRCA1 EGR1 EPAS1 hsa-miR-181c
+exflag 2 ARNT BHLHE40 BRCA1 EGR1 HDAC1 hsa-miR-130b
+exflag 2 ARNT BHLHE40 BRCA1 EGR1 HDAC1 hsa-miR-181c
+exflag 3 ARNT BHLHE40 EP300 EZH2 HDAC2 hsa-miR-141 | TF1=EP300 TF2=EZH2 miRNA=hsa-miR-141 target=HDAC2
+exflag 3 ARNT BHLHE40 EP300 EZH2 JUN hsa-miR-141 | TF1=EP300 TF2=JUN miRNA=hsa-miR-141 target=EZH2
+exflag 3 ARNT BHLHE40 EP300 EZH2 SNAI1 hsa-miR-141 | TF1=EP300 TF2=EZH2 miRNA=hsa-miR-141 target=SNAI1
+exflag 4 ARNT BHLHE40 JUN EZH2 VDR hsa-miR-23a | TF1=JUN TF2=EZH2 miRNA=hsa-miR-23a target=VDR
+exflag 4 ARNT BHLHE40 JUN SP1 VDR hsa-miR-23a | TF1=JUN TF2=SP1 miRNA=hsa-miR-23a target=VDR
+exflag 4 ARNT BHLHE40 JUN SP1 VDR hsa-miR-23b | TF1=JUN TF2=SP1 miRNA=hsa-miR-23b target=VDR
+exmask 63 ARNT BHLHE40 BRCA1 EPAS1 hsa-miR-152 hsa-miR-181c
+exmask 63 ARNT BHLHE40 BRCA1 EPAS1 hsa-miR-155 hsa-miR-181c
+exmask 63 ARNT BHLHE40 BRCA1 HDAC2 hsa-miR-130a VDR

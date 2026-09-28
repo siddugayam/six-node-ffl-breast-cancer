@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python / R session files
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+
+# inputs that must not be redistributed (download them instead; see README)
+/cache/
+/data/raw/
+*.gct
+*_series_matrix.txt*
+
+# credentials
+.env
+*.key

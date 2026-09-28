@@ -1,0 +1,100 @@
+{
+  "observed": [
+    {
+      "network": "full (587 nodes)",
+      "N": 587,
+      "M": 6859,
+      "n_SCC": 224,
+      "largest_SCC": 362,
+      "frac_nodes_in_largest_SCC": 0.616695059625213,
+      "n_SCC_singleton": 221,
+      "bowtie_IN": 7,
+      "bowtie_CORE": 362,
+      "bowtie_OUT": 215,
+      "bowtie_other": 3,
+      "flow_hierarchy": 0.5808426884385479,
+      "global_reaching_centrality": 0.3688365618702606,
+      "trophic_incoherence_F0": 0.624976590136709,
+      "condensation_depth_layers": 4,
+      "reciprocity": 0.35661175098410847,
+      "transitivity": 0.03500915822948388
+    },
+    {
+      "network": "regulators only (TF+miRNA)",
+      "N": 380,
+      "M": 2911,
+      "n_SCC": 17,
+      "largest_SCC": 362,
+      "frac_nodes_in_largest_SCC": 0.9526315789473684,
+      "n_SCC_singleton": 14,
+      "bowtie_IN": 7,
+      "bowtie_CORE": 362,
+      "bowtie_OUT": 8,
+      "bowtie_other": 3,
+      "flow_hierarchy": 0.012366884232222652,
+      "global_reaching_centrality": 0.03346537548471544,
+      "trophic_incoherence_F0": 0.9467908480274306,
+      "condensation_depth_layers": 3,
+      "reciprocity": 0.8402610786671247,
+      "transitivity": 0.034748695091197
+    }
+  ],
+  "nulls": [
+    {
+      "metric": "largest_SCC",
+      "observed": 362.0,
+      "null_mean": 365.51,
+      "null_sd": 0.6944865425542418,
+      "z": -5.054093614385405,
+      "p_two_sided": 0.009950248756218905,
+      "n_randomisations": 200
+    },
+    {
+      "metric": "flow_hierarchy",
+      "observed": 0.012366884232222652,
+      "null_mean": 0.012595328065956743,
+      "null_sd": 0.0005619704627756627,
+      "z": -0.4065050547421471,
+      "p_two_sided": 1.0,
+      "n_randomisations": 200
+    },
+    {
+      "metric": "global_reaching_centrality",
+      "observed": 0.03346537548471544,
+      "null_mean": 0.027458107364888806,
+      "null_sd": 0.0017820576135871666,
+      "z": 3.3709730112116816,
+      "p_two_sided": 0.03980099502487562,
+      "n_randomisations": 200
+    },
+    {
+      "metric": "trophic_incoherence_F0",
+      "observed": 0.9467908480274306,
+      "null_mean": 0.9433356822304267,
+      "null_sd": 0.0007595997265551502,
+      "z": 4.548666457100192,
+      "p_two_sided": 0.009950248756218905,
+      "n_randomisations": 200
+    },
+    {
+      "metric": "condensation_depth_layers",
+      "observed": 3.0,
+      "null_mean": 3.42,
+      "null_sd": 0.5432084101746053,
+      "z": -0.7731839053541124,
+      "p_two_sided": 1.0,
+      "n_randomisations": 200
+    },
+    {
+      "metric": "transitivity",
+      "observed": 0.034748695091197,
+      "null_mean": 0.028650417121606795,
+      "null_sd": 0.0013307784452161215,
+      "z": 4.582489287764071,
+      "p_two_sided": 0.009950248756218905,
+      "n_randomisations": 200
+    }
+  ],
+  "n_genes": 207,
+  "n_genes_out_degree_zero": 206
+}

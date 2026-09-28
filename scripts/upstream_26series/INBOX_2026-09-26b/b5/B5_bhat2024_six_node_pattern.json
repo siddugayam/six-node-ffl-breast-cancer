@@ -1,0 +1,254 @@
+[
+ {
+  "graph": "table3",
+  "n_arcs_contracted": 8031,
+  "n_miRNA_miRNA_links": 508,
+  "n_TF_TF_links": 625,
+  "n_gene_gene_links_between_Gene_nodes": 158,
+  "classes": {
+   "miRNA_FFL (M1->TF1)": {
+    "instances": 37869,
+    "distinct_six_node_sets": 24297,
+    "n_distinct_miRNA": 103,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 206,
+    "n_distinct_TF-TF": 485,
+    "n_distinct_Gene-Gene": 146,
+    "n_distinct_miRNA-Gene": 735,
+    "n_distinct_TF-miRNA link": 806,
+    "n_distinct_TF-Gene": 357,
+    "examples": [
+     "TF1=IRF1 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1"
+    ]
+   },
+   "TF_FFL (TF1->M1)": {
+    "instances": 30510,
+    "distinct_six_node_sets": 20338,
+    "n_distinct_miRNA": 103,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 198,
+    "n_distinct_TF-TF": 478,
+    "n_distinct_Gene-Gene": 145,
+    "n_distinct_miRNA-Gene": 706,
+    "n_distinct_TF-miRNA link": 641,
+    "n_distinct_TF-Gene": 355,
+    "examples": [
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-20b G1=ABCA1 G2=SCARB1"
+    ]
+   },
+   "composite_FFL (TF1<->M1)": {
+    "instances": 30503,
+    "distinct_six_node_sets": 20338,
+    "n_distinct_miRNA": 103,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 198,
+    "n_distinct_TF-TF": 478,
+    "n_distinct_Gene-Gene": 145,
+    "n_distinct_miRNA-Gene": 706,
+    "n_distinct_TF-miRNA link": 639,
+    "n_distinct_TF-Gene": 355,
+    "examples": [
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-20b G1=ABCA1 G2=SCARB1"
+    ]
+   }
+  }
+ },
+ {
+  "graph": "nolegacy",
+  "n_arcs_contracted": 8003,
+  "n_miRNA_miRNA_links": 480,
+  "n_TF_TF_links": 625,
+  "n_gene_gene_links_between_Gene_nodes": 158,
+  "classes": {
+   "miRNA_FFL (M1->TF1)": {
+    "instances": 29809,
+    "distinct_six_node_sets": 17799,
+    "n_distinct_miRNA": 99,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 178,
+    "n_distinct_TF-TF": 484,
+    "n_distinct_Gene-Gene": 146,
+    "n_distinct_miRNA-Gene": 717,
+    "n_distinct_TF-miRNA link": 794,
+    "n_distinct_TF-Gene": 357,
+    "examples": [
+     "TF1=IRF1 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1"
+    ]
+   },
+   "TF_FFL (TF1->M1)": {
+    "instances": 23416,
+    "distinct_six_node_sets": 14610,
+    "n_distinct_miRNA": 99,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 170,
+    "n_distinct_TF-TF": 477,
+    "n_distinct_Gene-Gene": 145,
+    "n_distinct_miRNA-Gene": 687,
+    "n_distinct_TF-miRNA link": 630,
+    "n_distinct_TF-Gene": 355,
+    "examples": [
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-20b G1=ABCA1 G2=SCARB1"
+    ]
+   },
+   "composite_FFL (TF1<->M1)": {
+    "instances": 23409,
+    "distinct_six_node_sets": 14610,
+    "n_distinct_miRNA": 99,
+    "n_distinct_TF": 136,
+    "n_distinct_Gene": 114,
+    "n_distinct_miRNA-miRNA": 170,
+    "n_distinct_TF-TF": 477,
+    "n_distinct_Gene-Gene": 145,
+    "n_distinct_miRNA-Gene": 687,
+    "n_distinct_TF-miRNA link": 628,
+    "n_distinct_TF-Gene": 355,
+    "examples": [
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=RUNX1 TF2=SPI1 M1=hsa-miR-106a M2=hsa-miR-19b G1=ABCA1 G2=SCARB1",
+     "TF1=TP53 TF2=STAT1 M1=hsa-miR-106a M2=hsa-miR-20b G1=ABCA1 G2=SCARB1"
+    ]
+   }
+  }
+ },
+ {
+  "graph": "table3_nostring",
+  "n_arcs_contracted": 7198,
+  "n_miRNA_miRNA_links": 508,
+  "n_TF_TF_links": 625,
+  "n_gene_gene_links_between_Gene_nodes": 1,
+  "classes": {
+   "miRNA_FFL (M1->TF1)": {
+    "instances": 1050,
+    "distinct_six_node_sets": 884,
+    "n_distinct_miRNA": 9,
+    "n_distinct_TF": 36,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 30,
+    "n_distinct_TF-TF": 61,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 9,
+    "n_distinct_TF-miRNA link": 61,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=FOXO3 TF2=NFKB1 M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=FOXO3 TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=MYC TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1"
+    ]
+   },
+   "TF_FFL (TF1->M1)": {
+    "instances": 891,
+    "distinct_six_node_sets": 752,
+    "n_distinct_miRNA": 9,
+    "n_distinct_TF": 33,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 30,
+    "n_distinct_TF-TF": 56,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 9,
+    "n_distinct_TF-miRNA link": 49,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=FOXO3 TF2=NFKB1 M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=FOXO3 TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=MYC TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1"
+    ]
+   },
+   "composite_FFL (TF1<->M1)": {
+    "instances": 891,
+    "distinct_six_node_sets": 752,
+    "n_distinct_miRNA": 9,
+    "n_distinct_TF": 33,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 30,
+    "n_distinct_TF-TF": 56,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 9,
+    "n_distinct_TF-miRNA link": 49,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=FOXO3 TF2=NFKB1 M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=FOXO3 TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1",
+     "TF1=MYC TF2=RELA M1=hsa-let-7b M2=hsa-let-7e G1=COL3A1 G2=COL1A1"
+    ]
+   }
+  }
+ },
+ {
+  "graph": "nolegacy_nostring",
+  "n_arcs_contracted": 7170,
+  "n_miRNA_miRNA_links": 480,
+  "n_TF_TF_links": 625,
+  "n_gene_gene_links_between_Gene_nodes": 1,
+  "classes": {
+   "miRNA_FFL (M1->TF1)": {
+    "instances": 126,
+    "distinct_six_node_sets": 81,
+    "n_distinct_miRNA": 3,
+    "n_distinct_TF": 30,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 2,
+    "n_distinct_TF-TF": 48,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 3,
+    "n_distinct_TF-miRNA link": 42,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=NFKB1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=NFKB1 TF2=SP1 M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=YY1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1"
+    ]
+   },
+   "TF_FFL (TF1->M1)": {
+    "instances": 98,
+    "distinct_six_node_sets": 68,
+    "n_distinct_miRNA": 3,
+    "n_distinct_TF": 27,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 2,
+    "n_distinct_TF-TF": 43,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 3,
+    "n_distinct_TF-miRNA link": 31,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=NFKB1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=NFKB1 TF2=SP1 M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=YY1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1"
+    ]
+   },
+   "composite_FFL (TF1<->M1)": {
+    "instances": 98,
+    "distinct_six_node_sets": 68,
+    "n_distinct_miRNA": 3,
+    "n_distinct_TF": 27,
+    "n_distinct_Gene": 2,
+    "n_distinct_miRNA-miRNA": 2,
+    "n_distinct_TF-TF": 43,
+    "n_distinct_Gene-Gene": 1,
+    "n_distinct_miRNA-Gene": 3,
+    "n_distinct_TF-miRNA link": 31,
+    "n_distinct_TF-Gene": 9,
+    "examples": [
+     "TF1=NFKB1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=NFKB1 TF2=SP1 M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1",
+     "TF1=YY1 TF2=RELA M1=hsa-miR-29a M2=hsa-miR-29b G1=COL3A1 G2=COL1A1"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,34 @@
+cell_type,total_umi,n_cells
+CAFs (CA12+),18285625,1811
+CAFs (COL11A1+),20870601,14727
+CAFs (DPT+),31926403,6352
+CAFs (LAMP5),155127897,14387
+CAFs (PI16+),72551332,8425
+CD4-positive helper T cell,1535681,419
+"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell",48255975,19802
+"CD8-positive, alpha-beta regulatory T cell",28596734,14182
+Endo Arter.,45009429,5024
+Endo Capil.,10657300,8749
+Endo Imm.,73738725,11158
+Endo Lymph.,5566358,769
+Endo Ven.,78145966,10318
+IgG plasma cell,133642856,17824
+Myofibroblast,9041334,6689
+PCs (ECM),41637501,5870
+Prolif Stromal,13383402,581
+T follicular helper cell,28239493,11838
+VSMC,57203444,9172
+conventional dendritic cell,112449230,12855
+cycling T cell,39868278,6729
+cycling macrophage,56027993,4811
+"effector memory CD4-positive, alpha-beta T cell",63655996,23696
+"effector memory CD8-positive, alpha-beta T cell",48518478,29592
+exhausted T cell,47041778,17359
+macrophage,296388631,44437
+malignant cell,1925437399,242613
+mast cell,13223912,4272
+memory B cell,54995784,21190
+myeloid dendritic cell,10501249,1334
+naive T cell,34190522,18117
+natural killer cell,51756383,23508
+plasmacytoid dendritic cell,14781852,2590

@@ -1,0 +1,108 @@
+K 6
+nparts 64
+part 30
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 31646
+visited 28237281
+rng_final 42
+comp 1 1 4 23
+comp 1 2 3 62
+comp 1 3 2 83
+comp 2 0 4 6
+comp 2 1 3 366
+comp 2 2 2 1930
+comp 2 3 1 1982
+comp 3 0 3 102
+comp 3 1 2 2733
+comp 3 2 1 12028
+comp 3 3 0 49
+comp 4 0 2 528
+comp 4 1 1 6655
+comp 4 2 0 1137
+comp 5 0 1 1328
+comp 5 1 0 2245
+comp 6 0 0 389
+mask 2 1
+mask 3 104
+mask 6 50
+mask 14 1529
+mask 15 3058
+mask 20 6
+mask 21 6
+mask 22 325
+mask 23 301
+mask 27 9
+mask 28 164
+mask 29 73
+mask 30 1174
+mask 31 1014
+mask 33 1
+mask 34 393
+mask 35 1854
+mask 38 1704
+mask 39 134
+mask 41 1
+mask 42 1
+mask 43 14
+mask 44 109
+mask 45 246
+mask 46 4125
+mask 47 9451
+mask 53 2
+mask 54 1300
+mask 55 411
+mask 56 8
+mask 57 81
+mask 58 35
+mask 59 235
+mask 60 854
+mask 61 404
+mask 62 1850
+mask 63 479
+mask 78 4
+mask 79 23
+mask 94 9
+mask 102 49
+mask 111 49
+mask 124 6
+flags 0 13557
+flags 1 478
+flags 2 179
+flags 3 419
+flags 4 11410
+flags 5 168
+flags 6 2081
+flags 7 844
+flags 8 964
+flags 10 12
+flags 11 7
+flags 12 1005
+flags 14 131
+flags 15 14
+flags 24 122
+flags 26 4
+flags 28 239
+flags 30 12
+exflag 0 ETV4 CCND2 RB1 hsa-miR-200b NOTCH1 hsa-miR-449a
+exflag 0 ETV4 CCND2 RB1 hsa-miR-200b NOTCH1 hsa-miR-449b
+exflag 0 ETV4 CCND2 RB1 hsa-miR-200b SNAP25 hsa-miR-449a
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-106a IRF9
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-142 IRF9
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-20b IRF9
+exflag 2 ETV4 CCND2 ETS1 EGR1 ETS2 hsa-let-7e
+exflag 2 ETV4 CCND2 ETS1 EGR1 ETS2 hsa-miR-106a
+exflag 2 ETV4 CCND2 ETS1 EGR1 ETS2 hsa-miR-124
+exflag 3 ETV4 CCND2 ETS1 EGR1 ETS2 hsa-miR-183 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-183 target=CCND2
+exflag 3 ETV4 CCND2 ETS1 EGR1 ETS2 hsa-miR-96 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-96 target=CCND2
+exflag 3 ETV4 CCND2 ETS1 EGR1 FOXO1 hsa-miR-183 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-183 target=CCND2
+exflag 4 ETV4 CCND2 ETS1 RUNX1 NFKB1 hsa-miR-17 | TF1=RUNX1 TF2=NFKB1 miRNA=hsa-miR-17 target=CCND2
+exflag 4 ETV4 CCND2 ETS1 RUNX1 RELA hsa-miR-17 | TF1=RUNX1 TF2=RELA miRNA=hsa-miR-17 target=CCND2
+exflag 4 ETV4 CCND2 ETS1 RUNX1 RELA hsa-miR-18a | TF1=RUNX1 TF2=RELA miRNA=hsa-miR-18a target=CCND2
+exmask 63 ETV4 CCND2 ETS1 FOXO1 STAT3 hsa-miR-16
+exmask 63 ETV4 CCND2 ETS1 NFKB2 hsa-miR-16 STAT3
+exmask 63 ETV4 CCND2 ETS1 PAX5 RB1 hsa-miR-16
+exmask 111 ETV4 CCND2 ETS1 SRF hsa-miR-143 hsa-let-7b
+exmask 111 ETV4 CCND2 ETS1 SRF hsa-miR-143 hsa-let-7e
+exmask 111 HSF1 JUN BCL2L1 NFKB1 hsa-let-7b hsa-let-7e

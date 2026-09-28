@@ -1,0 +1,7 @@
+network,algorithm,seeds,trio_together,median_COL1A1_module_size_when_together,median_k
+full,louvain,50,48,91.5,7
+full,infomap,20,20,582,3
+full,labelprop,100,100,587,1
+nolegacy,louvain,50,18,85,8
+nolegacy,infomap,20,20,582,3
+nolegacy,labelprop,100,100,587,1

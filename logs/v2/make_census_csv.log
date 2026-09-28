@@ -1,0 +1,13 @@
+wrote /path/to/revision/results/v2/verify_census.csv
+pub_augmented   n=3 exhaustive                 seeds=1 mean=          6037.0 sd=         0.0  pub=6037     ratio=1.0      maxcls fine8=3 7cls=3 6cls=3
+pub_augmented   n=4 exhaustive                 seeds=1 mean=        117967.0 sd=         0.0  pub=120000.0 ratio=0.9831   maxcls fine8=5 7cls=5 6cls=5
+pub_augmented   n=5 exhaustive                 seeds=1 mean=       1534131.0 sd=         0.0  pub=1500000.0 ratio=1.0228   maxcls fine8=7 7cls=7 6cls=6
+pub_augmented   n=6 exhaustive                 seeds=1 mean=      19838598.0 sd=         0.0  pub=19000000.0 ratio=1.0441   maxcls fine8=8 7cls=7 6cls=6
+pub_augmented   n=5 RAND-ESU q=(1,1,.3,.3)     seeds=3 mean=       1532781.5 sd=      3062.2  pub=1500000.0 ratio=1.0219   maxcls fine8=7 7cls=7 6cls=5
+pub_augmented   n=6 RAND-ESU q=(1,1,.3,.3,.3)  seeds=5 mean=      19852014.8 sd=     33287.4  pub=19000000.0 ratio=1.0448   maxcls fine8=8 7cls=7 6cls=6
+pub_augmented   n=7 RAND-ESU (2 q-profiles)    seeds=8 mean=     232029402.8 sd=   1199398.4  pub=270000000.0 ratio=0.8594   maxcls fine8=8 7cls=7 6cls=6
+deposited_only  n=3 exhaustive                 seeds=1 mean=          2067.0 sd=         0.0  pub=         ratio=         maxcls fine8=3 7cls=3 6cls=3
+deposited_only  n=4 exhaustive                 seeds=1 mean=         68428.0 sd=         0.0  pub=         ratio=         maxcls fine8=5 7cls=5 6cls=4
+deposited_only  n=5 exhaustive                 seeds=1 mean=        318314.0 sd=         0.0  pub=         ratio=         maxcls fine8=6 7cls=6 6cls=5
+deposited_only  n=6 exhaustive                 seeds=1 mean=       3339861.0 sd=         0.0  pub=         ratio=         maxcls fine8=6 7cls=6 6cls=5
+deposited_only  n=7 RAND-ESU q=(1,1,.3,.3,.3,.3) seeds=3 mean=      23873991.8 sd=    190585.7  pub=         ratio=         maxcls fine8=7 7cls=6 6cls=5

@@ -1,0 +1,9 @@
+network proteins mapped to STRING: 362
+physical >= 900: downloaded 446 pairs; cached API 446; identical sets: True; max |score diff| 0
+combined >= 900: downloaded 941 pairs; cached API 941; identical sets: True
+co-expression >= 900: downloaded 2 pairs; cached API ascore >= 0.9: 2; max |ascore - coexpression| over cached pairs 1; co-expression pairs outside the combined >= 900 set: 0
+{'restriction': 'all_gene_gene_links', 'gene_gene_arcs_kept': 834, 'deposit_link_kept': 1, 'STRING_arcs_kept': 833, 'gene_gene_arcs_dropped': 0, 'bhat6_comp_inst': '3898', 'bhat6_comp_sets': '2498', 'bhat6_mirFFL_inst': '14003', 'bhat6_mirFFL_sets': '8606', 'bhat6_TFFFL_inst': '15701', 'bhat6_TFFFL_sets': '9950', 'model6_full_inst': '336', 'model6_full_sets': '71', 'model6_def_inst': '45666', 'model6_def_sets': '24888'}
+{'restriction': 'physical_ge_0.900', 'gene_gene_arcs_kept': 391, 'deposit_link_kept': 1, 'STRING_arcs_kept': 390, 'gene_gene_arcs_dropped': 443, 'bhat6_comp_inst': '906', 'bhat6_comp_sets': '604', 'bhat6_mirFFL_inst': '3633', 'bhat6_mirFFL_sets': '2264', 'bhat6_TFFFL_inst': '4153', 'bhat6_TFFFL_sets': '2688', 'model6_full_inst': '8', 'model6_full_sets': '2', 'model6_def_inst': '13925', 'model6_def_sets': '8037'}
+{'restriction': 'coexpression_ge_0.900', 'gene_gene_arcs_kept': 2, 'deposit_link_kept': 1, 'STRING_arcs_kept': 1, 'gene_gene_arcs_dropped': 832, 'bhat6_comp_inst': '7', 'bhat6_comp_sets': '7', 'bhat6_mirFFL_inst': '35', 'bhat6_mirFFL_sets': '27', 'bhat6_TFFFL_inst': '73', 'bhat6_TFFFL_sets': '54', 'model6_full_inst': '0', 'model6_full_sets': '0', 'model6_def_inst': '5', 'model6_def_sets': '4'}
+co-expression >= 0.900 pairs among network proteins: COL1A1-COL3A1 (Gene/Gene) coexpression 959 combined 999; HOXA10-HOXA9 (TF/TF) coexpression 906 combined 931
+COL1A1-COL3A1: physical score 996 ; co-expression score 959 ; combined 999

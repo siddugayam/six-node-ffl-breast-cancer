@@ -1,0 +1,148 @@
+K 6
+nparts 64
+part 62
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 70530
+visited 40238970
+rng_final 42
+comp 1 1 4 30
+comp 1 2 3 904
+comp 1 3 2 3829
+comp 1 4 1 3118
+comp 2 0 4 52
+comp 2 1 3 728
+comp 2 2 2 8420
+comp 2 3 1 36087
+comp 2 4 0 132
+comp 3 0 3 291
+comp 3 1 2 4473
+comp 3 2 1 4216
+comp 3 3 0 3933
+comp 4 0 2 1188
+comp 4 1 1 1131
+comp 4 2 0 1444
+comp 5 0 1 464
+comp 5 1 0 90
+mask 2 14
+mask 3 81
+mask 6 84
+mask 7 1
+mask 11 10
+mask 14 473
+mask 15 3476
+mask 18 2
+mask 19 7
+mask 20 1147
+mask 21 57
+mask 22 1223
+mask 23 121
+mask 27 4
+mask 28 13424
+mask 29 719
+mask 30 11987
+mask 31 2096
+mask 33 19
+mask 34 465
+mask 35 1416
+mask 38 682
+mask 39 120
+mask 40 3
+mask 41 74
+mask 42 23
+mask 43 166
+mask 44 602
+mask 45 226
+mask 46 1042
+mask 47 4797
+mask 48 1
+mask 49 25
+mask 50 87
+mask 51 91
+mask 52 1354
+mask 53 114
+mask 54 2054
+mask 55 195
+mask 56 6
+mask 57 36
+mask 58 56
+mask 59 82
+mask 60 14605
+mask 61 3296
+mask 62 1870
+mask 63 1058
+mask 70 5
+mask 78 11
+mask 79 279
+mask 84 14
+mask 86 18
+mask 87 3
+mask 92 265
+mask 93 25
+mask 94 40
+mask 95 33
+mask 102 10
+mask 103 2
+mask 108 40
+mask 109 9
+mask 110 3
+mask 111 92
+mask 116 27
+mask 118 21
+mask 124 109
+mask 125 23
+mask 126 10
+flags 0 55112
+flags 1 2232
+flags 2 823
+flags 3 2592
+flags 4 2788
+flags 5 1498
+flags 6 2044
+flags 7 1546
+flags 8 872
+flags 9 19
+flags 10 80
+flags 11 316
+flags 12 136
+flags 13 42
+flags 14 182
+flags 15 139
+flags 24 26
+flags 25 2
+flags 26 4
+flags 27 15
+flags 28 22
+flags 29 19
+flags 30 21
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-let-7c hsa-miR-140
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-let-7c hsa-miR-7
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-miR-140 hsa-miR-7
+exflag 1 STAT5A BCL2L1 BCL6 CTSB NFKB1 hsa-let-7b
+exflag 1 STAT5A BCL2L1 BCL6 ESR1 E2F1 hsa-let-7a
+exflag 1 STAT5A BCL2L1 BCL6 ESR1 E2F1 hsa-let-7i
+exflag 2 STAT5A BCL2L1 BCL6 CCND2 TP73 hsa-miR-145
+exflag 2 STAT5A BCL2L1 BCL6 CTSB ESR1 hsa-miR-7
+exflag 2 STAT5A BCL2L1 BCL6 CTSB NFKB1 hsa-let-7b
+exflag 3 STAT5A BCL2L1 BCL6 ESR1 RELA hsa-miR-7 | TF1=ESR1 TF2=RELA miRNA=hsa-miR-7 target=BCL2L1
+exflag 3 STAT5A BCL2L1 CTSB ESR1 RELA hsa-miR-7 | TF1=ESR1 TF2=RELA miRNA=hsa-miR-7 target=BCL2L1
+exflag 3 STAT5A BCL2L1 CTSV ESR1 E2F1 hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=CTSV
+exflag 4 STAT5A BCL6 CCND2 HDAC1 EGR1 hsa-miR-124 | TF1=HDAC1 TF2=EGR1 miRNA=hsa-miR-124 target=CCND2
+exflag 4 STAT5A BCL6 CCND2 HDAC1 SMAD3 hsa-miR-424 | TF1=HDAC1 TF2=SMAD3 miRNA=hsa-miR-424 target=CCND2
+exflag 4 STAT5A BCL6 CCND2 HDAC1 SMAD3 hsa-miR-503 | TF1=HDAC1 TF2=SMAD3 miRNA=hsa-miR-503 target=CCND2
+exmask 63 STAT5A BCL2L1 BCL6 STAT6 FOS hsa-miR-142
+exmask 63 STAT5A BCL2L1 ESR1 FOS STAT6 hsa-miR-142
+exmask 63 STAT5A BCL2L1 ESR1 HRK RELA hsa-miR-19b
+exmask 95 STAT5A CCND2 ESR1 hsa-miR-143 hsa-miR-29a ETV4
+exmask 95 STAT5A CCND2 ESR1 hsa-miR-143 hsa-miR-29b ETV4
+exmask 95 STAT5A CCND2 ESR1 hsa-miR-143 hsa-miR-29c ETV4
+exmask 111 STAT5A BCL2L1 BCL6 HDAC4 hsa-miR-29c hsa-let-7b
+exmask 111 STAT5A BCL2L1 BCL6 HDAC4 hsa-miR-29c hsa-let-7e
+exmask 111 STAT5A BCL2L1 CTSB SP1 hsa-miR-29b hsa-let-7b
+exmask 125 hsa-miR-7 BACE1 MYC TFAP2A hsa-let-7b hsa-miR-29a
+exmask 125 hsa-miR-7 BACE1 MYC TFAP2A hsa-let-7e hsa-miR-29a
+exmask 125 hsa-miR-7 BACE1 MYC TFAP2A hsa-miR-29a hsa-miR-29c
+exmask 126 hsa-miR-7 BCL2L1 MYC TP73 hsa-let-7b hsa-let-7e
+exmask 126 hsa-miR-7 BCL2L1 MYC TP73 hsa-let-7b hsa-miR-29b
+exmask 126 hsa-miR-7 BCL2L1 MYC TP73 hsa-let-7b hsa-miR-29c

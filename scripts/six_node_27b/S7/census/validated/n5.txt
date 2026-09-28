@@ -1,0 +1,108 @@
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1060686
+visited 135242190
+rng_final 42
+comp 0 0 5 120
+comp 0 1 4 942
+comp 1 0 4 513
+comp 1 1 3 7921
+comp 1 2 2 44050
+comp 1 3 1 52316
+comp 2 0 3 2888
+comp 2 1 2 47785
+comp 2 2 1 329453
+comp 2 3 0 2728
+comp 3 0 2 16066
+comp 3 1 1 206228
+comp 3 2 0 49461
+comp 4 0 1 63648
+comp 4 1 0 178925
+comp 5 0 0 57642
+mask 2 1043
+mask 3 3553
+mask 6 10163
+mask 7 685
+mask 10 9
+mask 11 196
+mask 12 35044
+mask 13 11529
+mask 14 105684
+mask 15 65408
+mask 17 24
+mask 18 308
+mask 19 508
+mask 20 2318
+mask 21 415
+mask 22 22973
+mask 23 3357
+mask 25 26
+mask 26 64
+mask 27 937
+mask 28 11320
+mask 29 16601
+mask 30 17726
+mask 31 6498
+mask 32 6103
+mask 33 18126
+mask 34 56490
+mask 35 55562
+mask 36 25334
+mask 37 1678
+mask 38 111823
+mask 39 3140
+mask 40 1347
+mask 41 2511
+mask 42 255
+mask 43 1182
+mask 44 133892
+mask 45 104104
+mask 46 16474
+mask 47 91230
+mask 48 309
+mask 49 726
+mask 50 2121
+mask 51 682
+mask 52 23919
+mask 53 4583
+mask 54 36476
+mask 55 2817
+mask 56 763
+mask 57 4146
+mask 58 1370
+mask 59 3272
+mask 60 23411
+mask 61 8051
+mask 62 1221
+mask 63 1179
+flags 0 893665
+flags 2 15679
+flags 4 85856
+flags 6 13234
+flags 8 34203
+flags 10 1495
+flags 12 7425
+flags 14 814
+flags 24 5856
+flags 26 156
+flags 28 2223
+flags 30 80
+exflag 1 ABCA1 SCARB1 SREBF1 AR hsa-miR-145
+exflag 1 AHR BRCA1 IRF9 CCND2 hsa-miR-106b
+exflag 1 AHR FOS NR4A1 MMP2 hsa-miR-106b
+exflag 2 ABCA1 SCARB1 SREBF1 AR hsa-miR-145
+exflag 2 AHR BRCA1 HDAC1 CCND2 hsa-miR-106b
+exflag 2 AHR BRCA1 HDAC1 SMAD7 hsa-miR-106b
+exflag 3 AHR BRCA1 HDAC1 MYC hsa-miR-146a | TF1=BRCA1 TF2=HDAC1 miRNA=hsa-miR-146a target=MYC
+exflag 3 AHR BRCA1 HIF1A MYC hsa-miR-146a | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-146a target=MYC
+exflag 3 AHR BRCA1 MYC CCND2 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 4 APEX1 EP300 NFKB1 THBD hsa-miR-21 | TF1=EP300 TF2=NFKB1 miRNA=hsa-miR-21 target=THBD
+exflag 4 APEX1 EP300 RELA THBD hsa-miR-21 | TF1=EP300 TF2=RELA miRNA=hsa-miR-21 target=THBD
+exflag 4 APEX1 EP300 TP53 VEGFA hsa-miR-200c | TF1=EP300 TF2=TP53 miRNA=hsa-miR-200c target=VEGFA
+exmask 63 AR EP300 EPAS1 VEGFA hsa-miR-17
+exmask 63 AR EP300 EPAS1 VEGFA hsa-miR-20a
+exmask 63 AR EZH2 MMP2 TWIST1 hsa-miR-17

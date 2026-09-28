@@ -1,0 +1,14 @@
+"node","type","degree","mcode_node_score","mcode_cluster","in_MS_exemplar"
+"COL1A1","Gene",31,7,1,TRUE
+"COL3A1","Gene",10,7,1,TRUE
+"ETS1","TF",25,2.4,3,FALSE
+"NFKB1","TF",82,4.76923076923077,2,TRUE
+"RELA","TF",86,3.26666666666667,NA,TRUE
+"SP1","TF",93,2.88615384615385,3,TRUE
+"EZH2","TF",35,0.904411764705882,6,FALSE
+"hsa-miR-29a","miRNA",54,7,1,TRUE
+"hsa-miR-29b","miRNA",61,4.22058823529412,2,TRUE
+"hsa-miR-29c","miRNA",50,4.16339869281046,2,TRUE
+"hsa-miR-101","miRNA",34,0.433333333333333,NA,FALSE
+"hsa-let-7b","miRNA",33,7,1,TRUE
+"hsa-let-7e","miRNA",34,7,1,TRUE

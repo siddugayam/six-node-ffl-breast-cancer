@@ -1,0 +1,145 @@
+section,metric,value,detail
+A architecture,nodes,587,
+A architecture,directed edges,6859,
+A architecture,weakly connected components,1,
+A architecture,strongly connected components,224,221 of them singletons
+A architecture,bow-tie IN / CORE / OUT,7 / 362 / 215,"tubes 1, tendrils 2"
+A architecture,CORE composition,152 TF + 210 miRNA,zero genes in the core: every gene is an output
+A architecture,OUT composition,207 genes + 2 TF + 6 miRNA,
+A architecture,edges inside the core,2871 (41.9%),
+A architecture,reciprocity,0.3566,"all of it TF<->miRNA mutual pairs (1,223 dyads)"
+A architecture,core size,362.0,NULL-A z=+0.01 p=1; NULL-B z=-1.90 p=0.126 (300 randomisations)
+A architecture,flow hierarchy,0.5808,NULL-A z=-1.16 p=0.279; NULL-B z=+0.97 p=0.359 (300 randomisations)
+A architecture,global reaching centrality,0.3688,NULL-A z=-1.15 p=0.312; NULL-B z=+0.48 p=0.671 (300 randomisations)
+A architecture,trophic incoherence F0,0.625,NULL-A z=+15.21 p=0.00664; NULL-B z=-4.49 p=0.00664 (300 randomisations)
+A architecture,transitivity,0.035,NULL-A z=-3.06 p=0.00664; NULL-B z=+3.79 p=0.00664 (300 randomisations)
+A architecture,3-node FFL cores,1649.0,NULL-A z=-14.05 p=0.00664; NULL-B z=+1.90 p=0.0797 (300 randomisations)
+A architecture,"3-node FFL cores, raw directed count",3083.0,NULL-A z=-0.82 p=0.399; NULL-B z=+2.05 p=0.0399 (300 randomisations)
+A architecture,"trophic level, mean by class",Gene 1.78; TF 0.85; miRNA 0.77,
+A architecture,C(k) ~ k^b hierarchical-modularity exponent,-0.2,r=-0.249 over 69 degree bins (Ravasz-Barabasi predict b = -1)
+A architecture,independent cross-check in R/igraph,nodes=587; edges=6859; n_SCC=224; largest_SCC=362; reciprocity=0.356612; flow_hierarchy_full=0.580843; flow_hierarchy_regulators=0.0123669,igraph reproduces every networkx value exactly (systems_igraph_crosscheck.csv)
+A architecture,HIERARCHY TEST on regulators only (TF+miRNA),"380 nodes, 2911 edges; largest SCC 362 (95.3% of regulators)","the 206 out-degree-0 genes are forced into the bow-tie OUT layer by construction, so the apparent regulator-above-gene hierarchy is an artefact of network assembly; among the regulators themselves the network is one giant recurrent core"
+A architecture,regulator subnetwork: bow-tie IN / CORE / OUT,7 / 362 / 8,
+A architecture,regulator subnetwork: hierarchical layers (condensation DAG depth),3,full network: 4 layers
+A architecture,regulator subnetwork null: largest_SCC,obs 362.0000 vs null 365.5100+/-0.6945,"z=-5.05, p=0.00995 (200 curveball randomisations)"
+A architecture,regulator subnetwork null: flow_hierarchy,obs 0.0124 vs null 0.0126+/-0.0006,"z=-0.41, p=1 (200 curveball randomisations)"
+A architecture,regulator subnetwork null: global_reaching_centrality,obs 0.0335 vs null 0.0275+/-0.0018,"z=+3.37, p=0.0398 (200 curveball randomisations)"
+A architecture,regulator subnetwork null: trophic_incoherence_F0,obs 0.9468 vs null 0.9433+/-0.0008,"z=+4.55, p=0.00995 (200 curveball randomisations)"
+A architecture,regulator subnetwork null: condensation_depth_layers,obs 3.0000 vs null 3.4200+/-0.5432,"z=-0.77, p=1 (200 curveball randomisations)"
+A architecture,regulator subnetwork null: transitivity,obs 0.0347 vs null 0.0287+/-0.0013,"z=+4.58, p=0.00995 (200 curveball randomisations)"
+A architecture,"power law, degree_total","alpha=3.46, xmin=33, n_tail=147",Clauset-Shalizi-Newman bootstrap p=0.065 (1000 sims) -> power law RULED OUT (p<=0.1)
+A architecture,"power law, degree_out","alpha=4.56, xmin=32, n_tail=77",Clauset-Shalizi-Newman bootstrap p=0.742 (1000 sims) -> power law not ruled out
+A architecture,"power law, degree_in","alpha=4.73, xmin=37, n_tail=37",Clauset-Shalizi-Newman bootstrap p=0.907 (1000 sims) -> power law not ruled out
+A architecture,LRT degree_total vs lognormal,LR=-1.62,p_two=0.106
+A architecture,LRT degree_total vs exponential,LR=-0.97,p_two=0.331
+A architecture,LRT degree_total vs poisson,LR=+4.39,p_two=1.12e-05
+A architecture,LRT degree_out vs lognormal,LR=-0.93,p_two=0.353
+A architecture,LRT degree_out vs exponential,LR=-0.60,p_two=0.549
+A architecture,LRT degree_out vs poisson,LR=+2.56,p_two=0.0105
+A architecture,LRT degree_in vs lognormal,LR=-0.68,p_two=0.495
+A architecture,LRT degree_in vs exponential,LR=-0.52,p_two=0.601
+A architecture,LRT degree_in vs poisson,LR=+2.40,p_two=0.0166
+B controllability,maximum matching |M*|,381,independently recomputed with scipy.sparse.csgraph.maximum_bipartite_matching: 381 (agreement: True)
+B controllability,minimum driver nodes N_D,206,"n_D = 35.1% of nodes (Liu, Slotine & Barabasi 2011)"
+B controllability,control roles (Jia & Barabasi 2013),redundant 97; intermittent 485; critical 5,"from 2000 sampled maximum matchings; the 5 critical nodes are exactly the 5 in-degree-0 miRNAs (hsa-miR-1, hsa-miR-196a, hsa-miR-454, hsa-miR-487a, hsa-miR-767), which must be drivers in every configuration [VERIFIED 2026-09-09: the 5 critical nodes are exact, confirmed by an exhaustive matchability test. The redundant count is sampling-dependent - an independent 2000-matching run leaves only 11 nodes never observed as drivers - so 97 should be read as an upper bound.]"
+B controllability,deletion classes (Vinayagam et al. 2016),dispensable 201; neutral 381; indispensable 5,
+B controllability,FFL_hub (hub_ffl==TRUE) -> driver_node,8/60 (13.3%),"rest of network 37.6%, OR=0.256, Fisher p=9.77e-05"
+B controllability,FFL_hub (hub_ffl==TRUE) -> indispensable,0/60 (0.0%),"rest of network 0.9%, OR=0, Fisher p=1"
+B controllability,top20_FFL_participation -> driver_node,2/20 (10.0%),"rest of network 36.0%, OR=0.198, Fisher p=0.0162"
+B controllability,miR-29/collagen module -> driver_node,1/5 (20.0%),"rest of network 35.2%, OR=0.46, Fisher p=0.662"
+B controllability,miR-29/collagen module -> indispensable,0/5 (0.0%),"rest of network 0.9%, OR=0, Fisher p=1"
+B controllability,miR-29 family -> driver_node,1/3 (33.3%),"rest of network 35.1%, OR=0.924, Fisher p=1"
+B controllability,degree_hub -> driver_node,11/61 (18.0%),"rest of network 37.1%, OR=0.373, Fisher p=0.00278"
+B controllability,Spearman driver frequency vs FFL participation,-0.433,p=2.9e-28
+B controllability,FFL-hub driver depletion after adjusting for degree,log-odds -0.559,logistic driver ~ log(degree+1) + node type + is_FFL_hub: p=0.248. THE RAW FISHER DEPLETION IS A DEGREE EFFECT and does not survive adjustment.
+B controllability,"FFL-hub driver rate, degree-matched resampling",0.133 vs matched non-hubs 0.240+/-0.046,one-sided p=0.0111 (10000 resamples)
+B controllability,log(FFL participation) after adjusting for degree,log-odds +0.055,p=0.721
+B controllability,STRUCTURAL CAVEAT,"206 of 587 nodes have out-degree 0, all genes","206 of the 207 genes have out-degree 0 because the assembled network contains essentially no gene->anything edges (one STRING edge, COL1A1->COL3A1). The bow-tie OUT layer being made of genes, and genes never appearing in the strongly connected core, are therefore consequences of how the network was built, not discoveries about breast cancer regulation. Likewise the 5 ""critical"" driver nodes are exactly the 5 miRNAs with in-degree 0, which must be drivers in every control configuration."
+B controllability,Spearman driver frequency vs degree,-0.536,p=6.12e-45
+B controllability,hsa-miR-29a control status,"driver=False, role=intermittent, class=neutral",delta N_D on deletion = 0
+B controllability,hsa-miR-29b control status,"driver=False, role=intermittent, class=neutral",delta N_D on deletion = 0
+B controllability,hsa-miR-29c control status,"driver=True, role=intermittent, class=neutral",delta N_D on deletion = 0
+B controllability,COL1A1 control status,"driver=False, role=redundant, class=neutral",delta N_D on deletion = 0
+B controllability,COL3A1 control status,"driver=False, role=redundant, class=neutral",delta N_D on deletion = 0
+C information flow,current_flow_betweenness vs degree,Spearman +0.954,"top-20 overlap 12/20, Jaccard 0.429"
+C information flow,information_centrality vs degree,Spearman +0.978,"top-20 overlap 11/20, Jaccard 0.379"
+C information flow,rw_throughput_betweenness vs degree,Spearman +0.436,"top-20 overlap 9/20, Jaccard 0.29"
+C information flow,rw_flux_in vs degree,Spearman +0.679,"top-20 overlap 8/20, Jaccard 0.25"
+C information flow,shortest_path_betweenness_directed vs degree,Spearman +0.487,"top-20 overlap 14/20, Jaccard 0.538"
+C information flow,ffl_participation vs degree,Spearman +0.774,"top-20 overlap 15/20, Jaccard 0.6"
+C information flow,current_flow_betweenness vs degree [all nodes],Spearman +0.955,"n=587, top-20 overlap 12/20"
+C information flow,current_flow_betweenness vs degree [out-degree > 0 only],Spearman +0.959,"n=381, top-20 overlap 14/20"
+C information flow,information_centrality vs degree [all nodes],Spearman +0.978,"n=587, top-20 overlap 11/20"
+C information flow,information_centrality vs degree [out-degree > 0 only],Spearman +0.982,"n=381, top-20 overlap 15/20"
+C information flow,rw_throughput_betweenness vs degree [all nodes],Spearman +0.436,"n=587, top-20 overlap 9/20"
+C information flow,rw_throughput_betweenness vs degree [out-degree > 0 only],Spearman +0.752,"n=381, top-20 overlap 11/20"
+C information flow,rw_flux_in vs degree [all nodes],Spearman +0.679,"n=587, top-20 overlap 8/20"
+C information flow,rw_flux_in vs degree [out-degree > 0 only],Spearman +0.752,"n=381, top-20 overlap 11/20"
+C information flow,shortest_path_betweenness_directed vs degree [all nodes],Spearman +0.487,"n=587, top-20 overlap 14/20"
+C information flow,shortest_path_betweenness_directed vs degree [out-degree > 0 only],Spearman +0.852,"n=381, top-20 overlap 15/20"
+C information flow,ffl_participation vs degree [all nodes],Spearman +0.773,"n=587, top-20 overlap 15/20"
+C information flow,ffl_participation vs degree [out-degree > 0 only],Spearman +0.861,"n=381, top-20 overlap 14/20"
+C information flow,SINK CAVEAT,206 of 587 nodes have out-degree 0 and directed throughput exactly 0,"the undirected current-flow and information-centrality measures are direction-blind and credit these sinks with routing capacity they do not have; only the DIRECTED random-walk throughput distinguishes them, and even that differs from degree only moderately once the sinks are excluded"
+C information flow,degree hubs that cannot forward any signal,5 of the top 30 by degree,"CCND2, VEGFA, TGFBR2, ADAMTS5, ABCA1"
+C information flow,hsa-miR-29a ranks,"degree 23, current-flow betw 18, info centrality 20, directed RW throughput 20",
+C information flow,hsa-miR-29b ranks,"degree 15, current-flow betw 12, info centrality 15, directed RW throughput 19",
+C information flow,hsa-miR-29c ranks,"degree 38, current-flow betw 31, info centrality 31, directed RW throughput 57",
+C information flow,COL1A1 ranks,"degree 157, current-flow betw 92, info centrality 131, directed RW throughput 27",
+C information flow,COL3A1 ranks,"degree 410, current-flow betw 409, info centrality 372, directed RW throughput 517",
+C information flow,SP1 ranks,"degree 5, current-flow betw 1, info centrality 1, directed RW throughput 49",
+C information flow,RELA ranks,"degree 2, current-flow betw 4, info centrality 3, directed RW throughput 6",
+C information flow,NFKB1 ranks,"degree 4, current-flow betw 5, info centrality 4, directed RW throughput 11",
+C information flow,MYC ranks,"degree 3, current-flow betw 13, info centrality 9, directed RW throughput 8",
+C information flow,STAT3 ranks,"degree 7, current-flow betw 19, info centrality 13, directed RW throughput 21",
+C information flow,HIF1A ranks,"degree 6, current-flow betw 14, info centrality 11, directed RW throughput 9",
+C information flow,TP53 ranks,"degree 1, current-flow betw 2, info centrality 5, directed RW throughput 1",
+C information flow,VEGFA ranks,"degree 14, current-flow betw 6, info centrality 6, directed RW throughput 410",
+D perturbation,best single knockout,SP1 (composite 0.04693),"dFFL=0.137053, dReach=0.0, dCOL=0.003751"
+D perturbation,top 10 single knockouts,SP1; RELA; NFKB1; VEGFA; CCND2; STAT3; MKL1; TP53; MYC; HIF1A,
+D perturbation,druggable nodes (DGIdb),240,"194 with an approved drug, 159 with an antineoplastic"
+D perturbation,DRUGGABILITY CAVEAT,druggable nodes are 134 genes + 106 TFs + 0 miRNAs,"DGIdb is keyed on protein-coding gene symbols, so all 223 miRNAs in the network - including the entire miR-29 family - are druggable-by-definition-zero; the 'best druggable control point' can therefore only ever be a TF or a gene"
+D perturbation,double knockouts evaluated,171991,"exhaustive, no sampling"
+D perturbation,best pair,RELA + SP1 (composite 0.08932),1.90x the best single node; synergy -0.00361 (SUB-additive)
+D perturbation,best pair vs random-pair null,z = 11.55,random pairs mean 0.00539 sd 0.00727; empirical p = 5.81e-06
+D perturbation,pairs beating the best single node,736 / 171991 (0.428%),[CORRECTED 2026-09-09: 739 came from comparing against the CSV-rounded best-single composite; the exact value gives 736]
+D perturbation,synergy of the 100 most damaging pairs,69/100 SUB-additive,mean synergy -0.00162
+D perturbation,fraction of all pairs that are super-additive,37.7%,mean synergy -0.000156
+D perturbation,most synergistic pair,MKL1 + hsa-miR-143,"synergy +0.00675 (z=10.0 vs all pairs); composite damage 0.036971 = 78.8% of the best single node [CORRECTED 2026-09-09: the earlier ""14.4%"" was synergy/best-single, not damage/best-single]"
+D perturbation,best pair with an approved drug on both targets,NFKB1 + RELA,1.7131x best single; synergy -0.004251
+D perturbation,targeted knockout: miR-29 family,composite 0.040544 (0.8638x best single),"n=3, synergy -0.002762, 0 druggable members"
+D perturbation,targeted knockout: miR-29/collagen module,composite 0.033783 (0.7198x best single),"n=5, synergy -0.011746, 2 druggable members"
+D perturbation,targeted knockout: NF-kB module (RELA+NFKB1),composite 0.080405 (1.7131x best single),"n=2, synergy -0.004251, 2 druggable members"
+D perturbation,"targeted knockout: top3 FFL hubs (SP1,RELA,NFKB1)",composite 0.121597 (2.5908x best single),"n=3, synergy -0.009994, 3 druggable members"
+D perturbation,targeted knockout: top5 FFL hubs,composite 0.173087 (3.6878x best single),"n=5, synergy -0.029742, 5 druggable members"
+D perturbation,targeted knockout: best druggable pair (RELA+SP1),composite 0.089324 (1.9032x best single),"n=2, synergy -0.003615, 2 druggable members"
+D perturbation,targeted knockout: MKL1 + miR-143 (most synergistic),composite 0.036971 (0.7877x best single),"n=2, synergy 0.006746, 0 druggable members"
+D perturbation,targeted knockout: miR-17-92 seed cluster,composite 0.047298 (1.0077x best single),"n=5, synergy 0.001088, 0 druggable members"
+E dynamics,best single perturbation [published signs],POU5F1 (+1),"Spearman +0.1768 vs observed logFC; max-statistic FWER p=0.0050 (2000 permutations, null max 0.120+/-0.018)"
+E dynamics,sparse driver set [published signs],"R2 = 0.110 with 5 perturbations, 0.201 with 10","LASSO entry order: FOXM1, LPL, SOX10, S100B, MYBL2, FHL1"
+E dynamics,edges usable [published signs],6859,max Neumann iterations to 1e-12 = 34 (alpha=0.85)
+E dynamics,driver direction vs own logFC [published],6/20 of the top 20 consistent,a perturbation that fits the phenotype need not act in the direction the driver itself moves in the data
+E dynamics,best single perturbation [curated signs],hsa-miR-18a (-1),"Spearman +0.1862 vs observed logFC; max-statistic FWER p=0.0025 (2000 permutations, null max 0.122+/-0.018)"
+E dynamics,sparse driver set [curated signs],"R2 = 0.099 with 5 perturbations, 0.189 with 10","LASSO entry order: LPL, S100B, ZBTB16, MYBL2, FHL1, SOX10"
+E dynamics,edges usable [curated signs],6393,max Neumann iterations to 1e-12 = 34 (alpha=0.85)
+E dynamics,driver direction vs own logFC [curated],7/20 of the top 20 consistent,a perturbation that fits the phenotype need not act in the direction the driver itself moves in the data
+E dynamics,Boolean threshold attractor,"limit cycle of period 4, reached in 12 steps",not a fixed point
+E dynamics,attractor / phenotype sign agreement,0.7113 on n=336,permuted-seed null 0.503+/-0.110 p=0.0005; rewired-network null 0.503+/-0.130 p=0.00332; binomial vs 0.5 p=5.68e-15
+E dynamics,best Boolean clamp (>=50 nodes reached),CDX1 clamped to +1,"accuracy 0.657 on n=329, binomial p=1.44e-08"
+E dynamics,upstream perturbations reproducing the observed collagen increase,MKL1; STAT6; hsa-miR-767; hsa-miR-196a; hsa-miR-338; hsa-miR-193a,ranked by the magnitude of the correctly-signed response at COL1A1 and COL3A1
+F citations,references verified against live PubMed + Crossref,16/16,
+F citations,Maayan2005,Science 309:1078-1083 | doi 10.1126/science.1108876 | PMID 16099987,Crossref: Science 2005 v309 p1078-1083 -> VERIFIED
+F citations,Bhalla1999,Science 283:381-387 | doi 10.1126/science.283.5400.381 | PMID 9888852,Crossref: Science 1999 v283 p381-387 -> VERIFIED
+F citations,Berger2009,Bioinformatics 25:2466-2472 | doi 10.1093/bioinformatics/btp465 | PMID 19648136,Crossref: Bioinformatics 2009 v25 p2466-2472 -> VERIFIED
+F citations,Azeloglu2015,Cold Spring Harb Perspect Biol 7:a005934 | doi 10.1101/cshperspect.a005934 | PMID 25833842,Crossref: Cold Spring Harbor Perspectives in Biology 2015 v7 pa005934 -> VERIFIED
+F citations,Liu2011,Nature 473:167-173 | doi 10.1038/nature10011 | PMID 21562557,Crossref: Nature 2011 v473 p167-173 -> VERIFIED
+F citations,Clauset2009,SIAM Review 51:661-703 | doi 10.1137/070710111,Crossref: SIAM Review 2009 v51 p661-703 -> VERIFIED
+F citations,Vinayagam2016,PNAS 113:4976-4981 | doi 10.1073/pnas.1603992113 | PMID 27091990,Crossref: Proceedings of the National Academy of Sciences 2016 v113 p4976-4981 -> VERIFIED
+F citations,Jia2013,Nat Commun 4:2002 | doi 10.1038/ncomms3002 | PMID 23774965,Crossref: Nature Communications 2013 v4 p -> VERIFIED
+F citations,Newman2005,Social Networks 27:39-54 | doi 10.1016/j.socnet.2004.11.009,Crossref: Social Networks 2005 v27 p39-54 -> VERIFIED
+F citations,Broido2019,Nat Commun 10:1017 | doi 10.1038/s41467-019-08746-5 | PMID 30833554,Crossref: Nature Communications 2019 v10 p -> VERIFIED
+F citations,MacKay2020,R Soc Open Sci 7:201138 | doi 10.1098/rsos.201138 | PMID 33047061,Crossref: Royal Society Open Science 2020 v7 p -> VERIFIED
+F citations,Gillespie2015,J Stat Softw 64:1-16 | doi 10.18637/jss.v064.i02,Crossref: Journal of Statistical Software 2015 v64 p -> VERIFIED
+F citations,Mangan2003,PNAS 100:11980-11985 | doi 10.1073/pnas.2133841100 | PMID 14530388,Crossref: Proceedings of the National Academy of Sciences 2003 v100 p11980-11985 -> VERIFIED
+F citations,Freshour2021,Nucleic Acids Res 49:D1144-D1151 | doi 10.1093/nar/gkaa1084 | PMID 33237278,Crossref: Nucleic Acids Research 2020 v49 pD1144-D1151 -> VERIFIED
+F citations,Strona2014,Nat Commun 5:4114 | doi 10.1038/ncomms5114 | PMID 24916345,Crossref: Nature Communications 2014 v5 p -> VERIFIED
+F citations,Mones2012,PLoS ONE 7:e33799 | doi 10.1371/journal.pone.0033799 | PMID 22470477,Crossref: PLoS ONE 2012 v7 pe33799 -> VERIFIED

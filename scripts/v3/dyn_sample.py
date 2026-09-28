@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+dyn_sample.py -- scrambled-Sobol sampling of the dimensionless parameter space.
+Ranges are stated with their justification; every parameter is dimensionless
+(see the non-dimensionalisation block in dyn_models.py).
+"""
+import numpy as np
+from scipy.stats import qmc
+
+# name -> (low, high, scale, justification)
+RANGES = {
+ "gx":    (0.5, 5.0,  "log", "TF protein half-life 0.2-2x the target mRNA half-life"),
+ "gm":    (0.1, 1.5,  "log", "mature miRNAs are long-lived relative to mRNA (t1/2 ~1-5 d)"),
+ "gp":    (0.1, 2.0,  "log", "target protein half-life 0.5-10x the target mRNA half-life"),
+ "gx2":   (0.5, 5.0,  "log", "as gx, for the second TF"),
+ "gm2":   (0.1, 1.5,  "log", "as gm, for the cluster-partner miRNA"),
+ "KS":    (0.05, 1.5, "log", "signal threshold spans an order of magnitude either side of the scale"),
+ "nS":    (1.0, 4.0,  "lin", "non-cooperative to strongly cooperative"),
+ "Kxm":   (0.05, 1.5, "log", ""),
+ "nxm":   (1.0, 4.0,  "lin", ""),
+ "Kxy":   (0.05, 1.5, "log", ""),
+ "nxy":   (1.0, 4.0,  "lin", ""),
+ "Kx2y":  (0.05, 1.5, "log", ""),
+ "nx2y":  (1.0, 4.0,  "lin", ""),
+ "Kx2m":  (0.05, 1.5, "log", ""),
+ "nx2m":  (1.0, 4.0,  "lin", ""),
+ "Kx12":  (0.05, 1.5, "log", ""),
+ "nx12":  (1.0, 4.0,  "lin", ""),
+ "Kmx":   (0.05, 1.5, "log", ""),
+ "nmx":   (1.0, 4.0,  "lin", ""),
+ "Kmy":   (0.05, 1.5, "log", ""),
+ "nmy":   (1.0, 4.0,  "lin", "RISC action on a single site is ~non-cooperative; multiple sites give n>1"),
+ "Kmp":   (0.05, 1.5, "log", ""),
+ "nmp":   (1.0, 4.0,  "lin", ""),
+ "lam_y": (0.5, 20.0, "log", "miRNA can accelerate target-mRNA decay by <2x to >10x"),
+ "lam_x": (0.5, 20.0, "log", "as lam_y, for the reciprocal miRNA -| TF arm"),
+ "theta": (0.0, 10.0, "lin", "0 = purely catalytic RISC; >0 = stoichiometric titration"),
+ "Kc":    (0.2, 50.0, "log", "shared RISC/AGO capacity; large = no competition"),
+ "b":     (0.02, 0.5, "log", "TF-independent basal transcription, OR gate only"),
+ "rho":   (0.2, 3.0,  "log", "cluster partner's relative production"),
+ "phi":   (0.2, 3.0,  "log", "cluster partner's relative targeting efficacy"),
+ "rho_g2":(0.2, 3.0,  "log", "second gene's relative transcription rate"),
+ "kappa": (0.0, 10.0, "lin", "mutual protein stabilisation across the gene-gene edge"),
+ "w2":    (0.2, 3.0,  "log", "second gene's weight in miRNA titration"),
+ "Kg12":  (0.05, 1.5, "log", ""),
+ "ng12":  (1.0, 4.0,  "lin", ""),
+}
+NAMES = list(RANGES)
+
+
+def sample(n, seed=20260908):
+    """Scrambled Sobol sample of size n (n should be a power of two)."""
+    d = len(NAMES)
+    eng = qmc.Sobol(d=d, scramble=True, seed=seed)
+    m = int(np.ceil(np.log2(n)))
+    U = eng.random_base2(m)[:n]
+    P = {}
+    for j, k in enumerate(NAMES):
+        lo, hi, sc, _ = RANGES[k]
+        u = U[:, j]
+        if sc == "log":
+            P[k] = np.exp(np.log(lo) + u * (np.log(hi) - np.log(lo)))
+        else:
+            P[k] = lo + u * (hi - lo)
+    return P
+
+
+def ranges_table():
+    import pandas as pd
+    return pd.DataFrame([dict(parameter=k, low=v[0], high=v[1], scale=v[2], justification=v[3])
+                         for k, v in RANGES.items()])

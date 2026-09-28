@@ -1,0 +1,9 @@
+n = 4: modules 117,967 (Table 3 exhaustive 117,967: True); nodes in any module 580, in a legacy-free module 579; stored protein-coding set 352: members found in no module at all []; members found ONLY in modules with a legacy arc []
+   protein-coding nodes in a legacy-free module: 358; in any module: 358; stored set is a subset of the legacy-free union: True
+n = 5: modules 1,534,131 (Table 3 exhaustive 1,534,131: True); nodes in any module 585, in a legacy-free module 584; stored protein-coding set 340: members found in no module at all []; members found ONLY in modules with a legacy arc []
+   protein-coding nodes in a legacy-free module: 362; in any module: 362; stored set is a subset of the legacy-free union: True
+n = 6: modules 19,838,598 (Table 3 exhaustive 19,838,598: True); nodes in any module 585, in a legacy-free module 584; stored protein-coding set 314: members found in no module at all []; members found ONLY in modules with a legacy arc []
+   protein-coding nodes in a legacy-free module: 362; in any module: 362; stored set is a subset of the legacy-free union: True
+n = 4: node(s) reached only through modules with a legacy arc: ['hsa-miR-767']
+n = 5: node(s) reached only through modules with a legacy arc: ['hsa-miR-767']
+n = 6: node(s) reached only through modules with a legacy arc: ['hsa-miR-767']

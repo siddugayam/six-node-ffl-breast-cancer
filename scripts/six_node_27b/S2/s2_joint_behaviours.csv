@@ -1,0 +1,145 @@
+family,module,joint_behaviour,n_sets,pct_all_sets,n_sets_core_lacks,n_with_joint_where_core_lacks,pct_where_core_lacks
+COMP_C2_toggle,GG,memory AND pulse,0,0.0,16382,0,0.0
+COMP_C2_toggle,GG,memory AND damped oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG,memory AND either oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM,memory AND pulse,0,0.0,16382,0,0.0
+COMP_C2_toggle,GG+MM,memory AND damped oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM,memory AND either oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM+TT,memory AND pulse,999,6.097412109375,16382,999,6.098156513246246
+COMP_C2_toggle,GG+MM+TT,memory AND damped oscillation,91,0.555419921875,16384,91,0.555419921875
+COMP_C2_toggle,GG+MM+TT,memory AND certified sustained oscillation,13,0.079345703125,16384,13,0.079345703125
+COMP_C2_toggle,GG+MM+TT,memory AND either oscillation,104,0.634765625,16384,104,0.634765625
+COMP_C2_toggle,GG+MM+TT_S3a_TF2-|miR,memory AND pulse,0,0.0,16382,0,0.0
+COMP_C2_toggle,GG+MM+TT_S3a_TF2-|miR,memory AND damped oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM+TT_S3a_TF2-|miR,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM+TT_S3a_TF2-|miR,memory AND either oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,memory AND pulse,2011,12.274169921875,16382,2011,12.275668416554755
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,memory AND damped oscillation,329,2.008056640625,16384,329,2.008056640625
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,memory AND certified sustained oscillation,77,0.469970703125,16384,77,0.469970703125
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,memory AND either oscillation,406,2.47802734375,16384,406,2.47802734375
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,memory AND pulse,1112,6.787109375,16382,1112,6.787937980710536
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,memory AND damped oscillation,6,0.03662109375,16384,6,0.03662109375
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,memory AND either oscillation,6,0.03662109375,16384,6,0.03662109375
+COMP_C2_toggle,GG+TT,memory AND pulse,730,4.45556640625,16382,730,4.456110365034794
+COMP_C2_toggle,GG+TT,memory AND damped oscillation,63,0.384521484375,16384,63,0.384521484375
+COMP_C2_toggle,GG+TT,memory AND certified sustained oscillation,10,0.06103515625,16384,10,0.06103515625
+COMP_C2_toggle,GG+TT,memory AND either oscillation,73,0.445556640625,16384,73,0.445556640625
+COMP_C2_toggle,MM,memory AND pulse,1,0.006103515625,16382,1,0.0061042607740202665
+COMP_C2_toggle,MM,memory AND damped oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,MM,memory AND either oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,MM+TT,memory AND pulse,828,5.0537109375,16382,828,5.05432792088878
+COMP_C2_toggle,MM+TT,memory AND damped oscillation,99,0.604248046875,16384,99,0.604248046875
+COMP_C2_toggle,MM+TT,memory AND certified sustained oscillation,19,0.115966796875,16384,19,0.115966796875
+COMP_C2_toggle,MM+TT,memory AND either oscillation,118,0.72021484375,16384,118,0.72021484375
+COMP_C2_toggle,TT,memory AND pulse,592,3.61328125,16382,591,3.6076181174459774
+COMP_C2_toggle,TT,memory AND damped oscillation,87,0.531005859375,16384,87,0.531005859375
+COMP_C2_toggle,TT,memory AND certified sustained oscillation,15,0.091552734375,16384,15,0.091552734375
+COMP_C2_toggle,TT,memory AND either oscillation,102,0.62255859375,16384,102,0.62255859375
+COMP_C2_toggle,TT_S3c_TF1-|TF2,memory AND pulse,1443,8.807373046875,16382,1443,8.808448296911244
+COMP_C2_toggle,TT_S3c_TF1-|TF2,memory AND damped oscillation,19,0.115966796875,16384,19,0.115966796875
+COMP_C2_toggle,TT_S3c_TF1-|TF2,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,TT_S3c_TF1-|TF2,memory AND either oscillation,19,0.115966796875,16384,19,0.115966796875
+COMP_C2_toggle,core,memory AND pulse,2,0.01220703125,16382,0,0.0
+COMP_C2_toggle,core,memory AND damped oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,core,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_C2_toggle,core,memory AND either oscillation,0,0.0,16384,0,0.0
+COMP_I1_negfeedback,GG,memory AND pulse,661,4.034423828125,15528,175,1.1269963936115404
+COMP_I1_negfeedback,GG,memory AND damped oscillation,23,0.140380859375,16302,1,0.00613421666053245
+COMP_I1_negfeedback,GG,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_I1_negfeedback,GG,memory AND either oscillation,23,0.140380859375,16302,1,0.00613421666053245
+COMP_I1_negfeedback,GG+MM,memory AND pulse,903,5.511474609375,15528,485,3.1233900051519834
+COMP_I1_negfeedback,GG+MM,memory AND damped oscillation,14,0.08544921875,16302,9,0.05520794994479205
+COMP_I1_negfeedback,GG+MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_I1_negfeedback,GG+MM,memory AND either oscillation,14,0.08544921875,16302,9,0.05520794994479205
+COMP_I1_negfeedback,GG+MM+TT,memory AND pulse,916,5.5908203125,15528,642,4.134466769706337
+COMP_I1_negfeedback,GG+MM+TT,memory AND damped oscillation,78,0.47607421875,16302,70,0.4293951662372715
+COMP_I1_negfeedback,GG+MM+TT,memory AND certified sustained oscillation,7,0.042724609375,16384,7,0.042724609375
+COMP_I1_negfeedback,GG+MM+TT,memory AND either oscillation,85,0.518798828125,16302,77,0.47233468286099867
+COMP_I1_negfeedback,GG+TT,memory AND pulse,660,4.0283203125,15528,436,2.8078310149407524
+COMP_I1_negfeedback,GG+TT,memory AND damped oscillation,73,0.445556640625,16302,66,0.4048582995951417
+COMP_I1_negfeedback,GG+TT,memory AND certified sustained oscillation,7,0.042724609375,16384,7,0.042724609375
+COMP_I1_negfeedback,GG+TT,memory AND either oscillation,80,0.48828125,16302,73,0.4477978162188688
+COMP_I1_negfeedback,MM,memory AND pulse,1130,6.89697265625,15528,641,4.128026790314271
+COMP_I1_negfeedback,MM,memory AND damped oscillation,59,0.360107421875,16302,30,0.1840264998159735
+COMP_I1_negfeedback,MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_I1_negfeedback,MM,memory AND either oscillation,59,0.360107421875,16302,30,0.1840264998159735
+COMP_I1_negfeedback,MM+TT,memory AND pulse,1061,6.475830078125,15528,751,4.836424523441525
+COMP_I1_negfeedback,MM+TT,memory AND damped oscillation,117,0.714111328125,16302,102,0.6256900993743099
+COMP_I1_negfeedback,MM+TT,memory AND certified sustained oscillation,8,0.048828125,16384,8,0.048828125
+COMP_I1_negfeedback,MM+TT,memory AND either oscillation,125,0.762939453125,16302,110,0.6747638326585695
+COMP_I1_negfeedback,TT,memory AND pulse,811,4.949951171875,15528,487,3.1362699639361153
+COMP_I1_negfeedback,TT,memory AND damped oscillation,127,0.775146484375,16302,105,0.6440927493559072
+COMP_I1_negfeedback,TT,memory AND certified sustained oscillation,5,0.030517578125,16384,5,0.030517578125
+COMP_I1_negfeedback,TT,memory AND either oscillation,132,0.8056640625,16302,110,0.6747638326585695
+COMP_I1_negfeedback,core,memory AND pulse,856,5.224609375,15528,0,0.0
+COMP_I1_negfeedback,core,memory AND damped oscillation,82,0.50048828125,16302,0,0.0
+COMP_I1_negfeedback,core,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+COMP_I1_negfeedback,core,memory AND either oscillation,82,0.50048828125,16302,0,0.0
+COMP_I3_allneg_TT,GG,memory AND pulse,237,1.446533203125,16088,167,1.038040775733466
+COMP_I3_allneg_TT,GG,memory AND damped oscillation,55,0.335693359375,16358,53,0.32400048905734197
+COMP_I3_allneg_TT,GG,memory AND certified sustained oscillation,2,0.01220703125,16383,2,0.012207776353537203
+COMP_I3_allneg_TT,GG,memory AND either oscillation,57,0.347900390625,16357,55,0.3362474781439139
+COMP_I3_allneg_TT,GG+MM,memory AND pulse,246,1.50146484375,16088,201,1.2493784186971655
+COMP_I3_allneg_TT,GG+MM,memory AND damped oscillation,36,0.2197265625,16358,34,0.2078493703386722
+COMP_I3_allneg_TT,GG+MM,memory AND certified sustained oscillation,5,0.030517578125,16383,5,0.030519440883843008
+COMP_I3_allneg_TT,GG+MM,memory AND either oscillation,41,0.250244140625,16357,39,0.23843002995659351
+COMP_I3_allneg_TT,GG+MM+TT,memory AND pulse,499,3.045654296875,16088,478,2.9711586275484834
+COMP_I3_allneg_TT,GG+MM+TT,memory AND damped oscillation,129,0.787353515625,16358,127,0.7763785303826873
+COMP_I3_allneg_TT,GG+MM+TT,memory AND certified sustained oscillation,12,0.0732421875,16383,12,0.07324665812122322
+COMP_I3_allneg_TT,GG+MM+TT,memory AND either oscillation,141,0.860595703125,16357,138,0.8436754906156385
+COMP_I3_allneg_TT,GG+TT,memory AND pulse,487,2.972412109375,16088,465,2.89035305818001
+COMP_I3_allneg_TT,GG+TT,memory AND damped oscillation,175,1.068115234375,16358,172,1.0514732852426947
+COMP_I3_allneg_TT,GG+TT,memory AND certified sustained oscillation,9,0.054931640625,16383,9,0.054934993590917414
+COMP_I3_allneg_TT,GG+TT,memory AND either oscillation,184,1.123046875,16357,181,1.1065598826190621
+COMP_I3_allneg_TT,MM,memory AND pulse,322,1.96533203125,16088,241,1.4980109398309298
+COMP_I3_allneg_TT,MM,memory AND damped oscillation,15,0.091552734375,16358,12,0.07335860129600195
+COMP_I3_allneg_TT,MM,memory AND certified sustained oscillation,0,0.0,16383,0,0.0
+COMP_I3_allneg_TT,MM,memory AND either oscillation,15,0.091552734375,16357,12,0.07336308614049031
+COMP_I3_allneg_TT,MM+TT,memory AND pulse,573,3.497314453125,16088,539,3.3503232222774737
+COMP_I3_allneg_TT,MM+TT,memory AND damped oscillation,158,0.96435546875,16358,155,0.9475486000733586
+COMP_I3_allneg_TT,MM+TT,memory AND certified sustained oscillation,5,0.030517578125,16383,5,0.030519440883843008
+COMP_I3_allneg_TT,MM+TT,memory AND either oscillation,163,0.994873046875,16357,160,0.9781744818732041
+COMP_I3_allneg_TT,TT,memory AND pulse,581,3.546142578125,16088,547,3.4000497265042267
+COMP_I3_allneg_TT,TT,memory AND damped oscillation,201,1.226806640625,16358,198,1.2104169213840323
+COMP_I3_allneg_TT,TT,memory AND certified sustained oscillation,2,0.01220703125,16383,2,0.012207776353537203
+COMP_I3_allneg_TT,TT,memory AND either oscillation,203,1.239013671875,16357,200,1.2227181023415052
+COMP_I3_allneg_TT,core,memory AND pulse,296,1.806640625,16088,0,0.0
+COMP_I3_allneg_TT,core,memory AND damped oscillation,26,0.15869140625,16358,0,0.0
+COMP_I3_allneg_TT,core,memory AND certified sustained oscillation,1,0.006103515625,16383,0,0.0
+COMP_I3_allneg_TT,core,memory AND either oscillation,27,0.164794921875,16357,0,0.0
+I1_miRNA_FFL,GG,memory AND pulse,398,2.42919921875,15596,110,0.7053090536034881
+I1_miRNA_FFL,GG,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM,memory AND pulse,649,3.961181640625,15596,333,2.1351628622723777
+I1_miRNA_FFL,GG+MM,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM+TT,memory AND pulse,846,5.16357421875,15596,594,3.8086688894588354
+I1_miRNA_FFL,GG+MM+TT,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM+TT,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+MM+TT,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+TT,memory AND pulse,482,2.94189453125,15596,321,2.0582200564247244
+I1_miRNA_FFL,GG+TT,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+TT,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,GG+TT,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM,memory AND pulse,1081,6.597900390625,15596,614,3.9369068992049243
+I1_miRNA_FFL,MM,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM+TT,memory AND pulse,1262,7.70263671875,15596,914,5.860477045396255
+I1_miRNA_FFL,MM+TT,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM+TT,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,MM+TT,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,TT,memory AND pulse,830,5.06591796875,15596,512,3.282893049499872
+I1_miRNA_FFL,TT,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,TT,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,TT,memory AND either oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,core,memory AND pulse,788,4.8095703125,15596,0,0.0
+I1_miRNA_FFL,core,memory AND damped oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,core,memory AND certified sustained oscillation,0,0.0,16384,0,0.0
+I1_miRNA_FFL,core,memory AND either oscillation,0,0.0,16384,0,0.0

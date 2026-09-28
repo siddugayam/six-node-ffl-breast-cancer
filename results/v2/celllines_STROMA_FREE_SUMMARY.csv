@@ -1,0 +1,74 @@
+item,value,source_file
+"COL1A1~COL3A1 Spearman, breast cancer cell lines","rho=0.263 (95% CI 0.028 to 0.470), p=0.029, n=69",celllines_B_correlations.csv
+"COL1A1~COL3A1 Spearman, TCGA-BRCA bulk","rho=0.946, p=0, n=1097; p(cell line vs TCGA differ)=0",celllines_B_correlations.csv
+ETS1->COL1A1,"cell lines rho=+0.001 (CI -0.235,+0.238) p=0.99 n=69 | TCGA bulk rho=+0.284 p=9.2e-22 | TCGA CAF-adjusted rho=-0.219 p=2.2e-13 | p(cell line vs TCGA differ)=0.022",celllines_B_correlations.csv
+ETS1->COL3A1,"cell lines rho=+0.249 (CI +0.013,+0.459) p=0.0388 n=69 | TCGA bulk rho=+0.395 p=2.4e-42 | TCGA CAF-adjusted rho=+0.017 p=0.572 | p(cell line vs TCGA differ)=0.197",celllines_B_correlations.csv
+NFKB1->COL1A1,"cell lines rho=+0.193 (CI -0.046,+0.411) p=0.112 n=69 | TCGA bulk rho=+0.129 p=1.7e-05 | TCGA CAF-adjusted rho=+0.002 p=0.944 | p(cell line vs TCGA differ)=0.607",celllines_B_correlations.csv
+NFKB1->COL3A1,"cell lines rho=+0.419 (CI +0.202,+0.596) p=0.000342 n=69 | TCGA bulk rho=+0.223 p=8.4e-14 | TCGA CAF-adjusted rho=+0.125 p=3.28e-05 | p(cell line vs TCGA differ)=0.0831",celllines_B_correlations.csv
+RELA->COL1A1,"cell lines rho=+0.245 (CI +0.009,+0.455) p=0.0423 n=69 | TCGA bulk rho=+0.046 p=0.13 | TCGA CAF-adjusted rho=+0.147 p=9.69e-07 | p(cell line vs TCGA differ)=0.107",celllines_B_correlations.csv
+RELA->COL3A1,"cell lines rho=+0.447 (CI +0.235,+0.618) p=0.000118 n=69 | TCGA bulk rho=-0.034 p=0.261 | TCGA CAF-adjusted rho=+0.054 p=0.0759 | p(cell line vs TCGA differ)=4.88e-05",celllines_B_correlations.csv
+SP1->COL1A1,"cell lines rho=+0.216 (CI -0.022,+0.430) p=0.0753 n=69 | TCGA bulk rho=+0.060 p=0.0452 | TCGA CAF-adjusted rho=-0.063 p=0.0356 | p(cell line vs TCGA differ)=0.211",celllines_B_correlations.csv
+SP1->COL3A1,"cell lines rho=+0.190 (CI -0.048,+0.409) p=0.117 n=69 | TCGA bulk rho=+0.207 p=4.33e-12 | TCGA CAF-adjusted rho=+0.094 p=0.00181 | p(cell line vs TCGA differ)=0.891",celllines_B_correlations.csv
+hsa-miR-29a->COL1A1,"cell lines rho=-0.079 (CI -0.350,+0.204) p=0.585 n=50 | TCGA bulk rho=-0.246 p=3.35e-16 | TCGA CAF-adjusted rho=-0.205 p=1.52e-11 | p(cell line vs TCGA differ)=0.248",celllines_B_correlations.csv
+hsa-miR-29a->COL3A1,"cell lines rho=+0.246 (CI -0.034,+0.491) p=0.0845 n=50 | TCGA bulk rho=-0.248 p=1.89e-16 | TCGA CAF-adjusted rho=-0.203 p=2.18e-11 | p(cell line vs TCGA differ)=0.000699",celllines_B_correlations.csv
+hsa-miR-29b->COL1A1,"cell lines rho=-0.000 (CI -0.279,+0.278) p=0.998 n=50 | TCGA bulk rho=-0.292 p=2.32e-22 | TCGA CAF-adjusted rho=-0.194 p=1.62e-10 | p(cell line vs TCGA differ)=0.0441",celllines_B_correlations.csv
+hsa-miR-29b->COL3A1,"cell lines rho=+0.127 (CI -0.157,+0.392) p=0.378 n=50 | TCGA bulk rho=-0.268 p=5.13e-19 | TCGA CAF-adjusted rho=-0.168 p=3.69e-08 | p(cell line vs TCGA differ)=0.00687",celllines_B_correlations.csv
+hsa-miR-29c->COL1A1,"cell lines rho=+0.107 (CI -0.176,+0.374) p=0.459 n=50 | TCGA bulk rho=-0.244 p=6.45e-16 | TCGA CAF-adjusted rho=-0.125 p=4.01e-05 | p(cell line vs TCGA differ)=0.0167",celllines_B_correlations.csv
+hsa-miR-29c->COL3A1,"cell lines rho=-0.286 (CI -0.523,-0.008) p=0.0443 n=50 | TCGA bulk rho=-0.251 p=7.81e-17 | TCGA CAF-adjusted rho=-0.181 p=2.75e-09 | p(cell line vs TCGA differ)=0.804",celllines_B_correlations.csv
+miRNA assay positive controls in the same 50 lines,"11/13 with the expected sign; strongest miR-141->ZEB2 rho=-0.578, miR-200c->ZEB2 rho=-0.505",celllines_B_positive_controls.csv
+"COL1A1 median TPM, breast lines vs fibroblast lines",9.8 vs 5726 TPM (585x),celllines_C_lineage_collagen_TPM.csv
+"COL3A1 median TPM, breast lines vs fibroblast lines",0.21 vs 749 TPM (3485x),celllines_C_lineage_collagen_TPM.csv
+COL1A1 within-sample percentile: breast lines vs TCGA bulk tumours,0.637 vs 0.9999,celllines_C_absolute_expression.csv
+COL3A1 within-sample percentile: breast lines vs TCGA bulk tumours,0.306 vs 0.9996,celllines_C_absolute_expression.csv
+breast cancer lines with COL3A1 > 1 TPM,20.3% (14/69),celllines_C_absolute_expression.csv
+"scRNA (Wu 2021) COL1A1 pseudobulk CPM, CAF vs cancer epithelial",11604 vs 79.4 CPM (146.1x); 11.5% of cancer cells positive,celllines_C_scRNA_celltype_major.csv
+"scRNA (Wu 2021) COL3A1 pseudobulk CPM, CAF vs cancer epithelial",7097 vs 44.2 CPM (160.7x); 6.2% of cancer cells positive,celllines_C_scRNA_celltype_major.csv
+"CRISPR: ETS1 dependency vs COL1A1 expression, breast lines","rho=-0.378, p=0.00673, BH FDR=0.0193, n=50 (collagen-high lines are MORE ETS1-dependent)",celllines_D_dependency_vs_expression.csv
+CRISPR: any other TF dependency vs collagen expression in breast lines,none at BH FDR<0.05 among the 66 tests,celllines_D_dependency_vs_expression.csv
+"CRISPR: collagen module score vs dependency, network nodes",0 of 357 canonical-network genes at BH FDR<0.05 (genome-wide: 6 of 17787 genes),celllines_D_collagenscore_vs_dependency.csv
+CRISPR essentiality of MYC in breast cancer lines,53/53 lines with gene effect < -0.5 (median -2.011),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of NFKB1 in breast cancer lines,0/53 lines with gene effect < -0.5 (median -0.011),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of RELA in breast cancer lines,6/53 lines with gene effect < -0.5 (median -0.332),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of ETS1 in breast cancer lines,0/53 lines with gene effect < -0.5 (median +0.101),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of SP1 in breast cancer lines,11/53 lines with gene effect < -0.5 (median -0.218),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of COL1A1 in breast cancer lines,0/53 lines with gene effect < -0.5 (median -0.064),celllines_D_essentiality_all_breast_CRISPR.csv
+CRISPR essentiality of COL3A1 in breast cancer lines,0/53 lines with gene effect < -0.5 (median +0.061),celllines_D_essentiality_all_breast_CRISPR.csv
+Drug: GDSC2 / COL1A1 / AUC,0 of 275 compounds at BH FDR<0.05 (min FDR 0.481),celllines_E_drug_summary.csv
+Drug: GDSC2 / COL1A1 / LN_IC50,0 of 275 compounds at BH FDR<0.05 (min FDR 0.639),celllines_E_drug_summary.csv
+Drug: GDSC2 / collagen_module / AUC,5 of 275 compounds at BH FDR<0.05 (min FDR 0.00856),celllines_E_drug_summary.csv
+Drug: GDSC2 / collagen_module / LN_IC50,6 of 275 compounds at BH FDR<0.05 (min FDR 0.0243),celllines_E_drug_summary.csv
+Drug: GDSC2 / mesenchymal_score / AUC,4 of 275 compounds at BH FDR<0.05 (min FDR 0.00248),celllines_E_drug_summary.csv
+Drug: GDSC2 / mesenchymal_score / LN_IC50,6 of 275 compounds at BH FDR<0.05 (min FDR 0.00082),celllines_E_drug_summary.csv
+Drug: GDSC2 / miR29_target_module / AUC,1 of 275 compounds at BH FDR<0.05 (min FDR 0.0108),celllines_E_drug_summary.csv
+Drug: GDSC2 / miR29_target_module / LN_IC50,0 of 275 compounds at BH FDR<0.05 (min FDR 0.0692),celllines_E_drug_summary.csv
+Drug: PRISM_secondary / COL1A1 / AUC,0 of 914 compounds at BH FDR<0.05 (min FDR 0.555),celllines_E_drug_summary.csv
+Drug: PRISM_secondary / collagen_module / AUC,0 of 914 compounds at BH FDR<0.05 (min FDR 0.219),celllines_E_drug_summary.csv
+Drug: PRISM_secondary / mesenchymal_score / AUC,0 of 914 compounds at BH FDR<0.05 (min FDR 0.105),celllines_E_drug_summary.csv
+Drug: PRISM_secondary / miR29_target_module / AUC,0 of 914 compounds at BH FDR<0.05 (min FDR 0.423),celllines_E_drug_summary.csv
+"Network-level sign test, hsa-miR-29a, cell lines (n=50)","23.9% of 46 canonical targets negative; mean rho +0.2441; permutation p(frac)=0.954, p(mean rho)=0.995, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29b, cell lines (n=50)","24.5% of 53 canonical targets negative; mean rho +0.0971; permutation p(frac)=0.964, p(mean rho)=0.956, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29c, cell lines (n=50)","78.6% of 42 canonical targets negative; mean rho -0.2118; permutation p(frac)=0.163, p(mean rho)=0.0165, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-200c, cell lines (n=50)","77.8% of 45 canonical targets negative; mean rho -0.1100; permutation p(frac)=0.05, p(mean rho)=0.0755, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-21, cell lines (n=50)","22.5% of 40 canonical targets negative; mean rho +0.0801; permutation p(frac)=0.999, p(mean rho)=0.973, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-let-7b, cell lines (n=50)","28.0% of 25 canonical targets negative; mean rho +0.0670; permutation p(frac)=0.968, p(mean rho)=0.957, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-101, cell lines (n=50)","61.8% of 34 canonical targets negative; mean rho -0.0200; permutation p(frac)=0.611, p(mean rho)=0.683, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-34a, cell lines (n=50)","81.2% of 32 canonical targets negative; mean rho -0.1953; permutation p(frac)=0.111, p(mean rho)=0.0135, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-124, cell lines (n=50)","61.4% of 57 canonical targets negative; mean rho -0.0254; permutation p(frac)=0.482, p(mean rho)=0.595, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29a, TCGA-BRCA all_paired_tumours (n=1066)","39.1% of 46 canonical targets negative; mean rho +0.0221; permutation p(frac)=0.575, p(mean rho)=0.571, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29b, TCGA-BRCA all_paired_tumours (n=1066)","81.1% of 53 canonical targets negative; mean rho -0.1060; permutation p(frac)=0.0345, p(mean rho)=0.034, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29c, TCGA-BRCA all_paired_tumours (n=1066)","90.5% of 42 canonical targets negative; mean rho -0.1609; permutation p(frac)=0.0155, p(mean rho)=0.0025, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-200c, TCGA-BRCA all_paired_tumours (n=1066)","68.9% of 45 canonical targets negative; mean rho -0.0842; permutation p(frac)=0.191, p(mean rho)=0.0135, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-21, TCGA-BRCA all_paired_tumours (n=1066)","47.5% of 40 canonical targets negative; mean rho +0.0324; permutation p(frac)=0.59, p(mean rho)=0.742, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-let-7b, TCGA-BRCA all_paired_tumours (n=1066)","60.0% of 25 canonical targets negative; mean rho +0.0021; permutation p(frac)=0.421, p(mean rho)=0.53, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-101, TCGA-BRCA all_paired_tumours (n=1066)","55.9% of 34 canonical targets negative; mean rho -0.0309; permutation p(frac)=0.468, p(mean rho)=0.296, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-34a, TCGA-BRCA all_paired_tumours (n=1066)","65.6% of 32 canonical targets negative; mean rho -0.0438; permutation p(frac)=0.16, p(mean rho)=0.0973, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-124, TCGA-BRCA all_paired_tumours (n=1066)","33.3% of 57 canonical targets negative; mean rho +0.0152; permutation p(frac)=0.697, p(mean rho)=0.608, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29a, TCGA-BRCA CAF_low_tertile (n=355)","26.1% of 46 canonical targets negative; mean rho +0.0846; permutation p(frac)=0.713, p(mean rho)=0.703, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29b, TCGA-BRCA CAF_low_tertile (n=355)","75.5% of 53 canonical targets negative; mean rho -0.0630; permutation p(frac)=0.0251, p(mean rho)=0.0236, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-29c, TCGA-BRCA CAF_low_tertile (n=355)","76.2% of 42 canonical targets negative; mean rho -0.1485; permutation p(frac)=0.0556, p(mean rho)=0.00301, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-200c, TCGA-BRCA CAF_low_tertile (n=355)","55.6% of 45 canonical targets negative; mean rho +0.0055; permutation p(frac)=0.277, p(mean rho)=0.399, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-21, TCGA-BRCA CAF_low_tertile (n=355)","50.0% of 40 canonical targets negative; mean rho +0.0270; permutation p(frac)=0.482, p(mean rho)=0.682, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-let-7b, TCGA-BRCA CAF_low_tertile (n=355)","60.0% of 25 canonical targets negative; mean rho +0.0025; permutation p(frac)=0.216, p(mean rho)=0.342, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-101, TCGA-BRCA CAF_low_tertile (n=355)","29.4% of 34 canonical targets negative; mean rho +0.0210; permutation p(frac)=0.729, p(mean rho)=0.403, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-34a, TCGA-BRCA CAF_low_tertile (n=355)","59.4% of 32 canonical targets negative; mean rho -0.0330; permutation p(frac)=0.143, p(mean rho)=0.0706, 2000 permutations",celllines_F_network_sign_combined.csv
+"Network-level sign test, hsa-miR-124, TCGA-BRCA CAF_low_tertile (n=355)","42.1% of 57 canonical targets negative; mean rho +0.0126; permutation p(frac)=0.449, p(mean rho)=0.369, 2000 permutations",celllines_F_network_sign_combined.csv

@@ -1,0 +1,775 @@
+srx,antigen,ct_class,celltype,desc
+SRX016028,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016029,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016030,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016031,RBL2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016032,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016033,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016034,RBL2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016035,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016036,RBL2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016037,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016038,RBL2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016556,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016557,BRF1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX016559,SNAPC2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX017557,BRD7,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX017558,BRD7,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX017559,TP53,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX017560,TP53,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX067495,CTCF,Epidermis,NHDF,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX080340,CTCF,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX080341,CTCF,Epidermis,AG04449,Tissue=skin|Description=fetal buttock/thigh fibroblast
+SRX080343,CTCF,Epidermis,AG09309,"Tissue=skin|Description=adult toe fibroblast from apparently healthy 21 year old, ""7% of the cells examined showing random chromosome loss/gain"" -Coriell"
+SRX080358,CTCF,Epidermis,AG04449,Tissue=skin|Description=fetal buttock/thigh fibroblast
+SRX080386,CTCF,Others,AG09319,Tissue=gingival|Description=gum tissue fibroblasts from apparently heathly 24 year old
+SRX080391,CTCF,Others,AG09319,Tissue=gingival|Description=gum tissue fibroblasts from apparently heathly 24 year old
+SRX080413,CTCF,Epidermis,AG09309,"Tissue=skin|Description=adult toe fibroblast from apparently healthy 21 year old, ""7% of the cells examined showing random chromosome loss/gain"" -Coriell"
+SRX080415,CTCF,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX080432,CTCF,Lung,AG04450,Tissue=lung|Lineage=endoderm|Description=fetal lung fibroblast
+SRX093319,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX099404,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX099405,RBL1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX099406,RBL2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10059515,CEBPD,Others,Fibroblasts,
+SRX10059516,CEBPD,Others,Fibroblasts,
+SRX10059517,CEBPD,Others,Fibroblasts,
+SRX10059518,CEBPD,Others,Fibroblasts,
+SRX10059519,CEBPD,Others,Fibroblasts,
+SRX10059520,CEBPD,Others,Fibroblasts,
+SRX1012146,SMAD3,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX1027437,CEBPB,Others,Mesenchymal stem cells,
+SRX1027438,CEBPB,Others,Mesenchymal stem cells,
+SRX1027439,CEBPB,Others,Mesenchymal stem cells,
+SRX1027440,NR3C1,Others,Mesenchymal stem cells,
+SRX1027441,ATF4,Others,Mesenchymal stem cells,
+SRX1027443,CEBPB,Others,Mesenchymal stem cells,
+SRX1027444,CEBPB,Others,Mesenchymal stem cells,
+SRX1027445,CEBPB,Others,Mesenchymal stem cells,
+SRX1027446,CEBPB,Others,Mesenchymal stem cells,
+SRX1027447,ATF4,Others,Mesenchymal stem cells,
+SRX1027448,CEBPB,Others,Mesenchymal stem cells,
+SRX1027449,CEBPB,Others,Mesenchymal stem cells,
+SRX1027450,CEBPB,Others,Mesenchymal stem cells,
+SRX1027451,ATF4,Others,Mesenchymal stem cells,
+SRX1027452,ATF4,Others,Mesenchymal stem cells,
+SRX1038944,YAP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1038945,YAP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10567327,HMGB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10567329,HMGB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10567331,HMGB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10567333,HMGB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX10913934,EN1,Epidermis,Dermal fibroblast,
+SRX10913935,EN1,Epidermis,Dermal fibroblast,
+SRX10913936,SP1,Epidermis,Dermal fibroblast,
+SRX10913937,SP1,Epidermis,Dermal fibroblast,
+SRX10913940,EN1,Epidermis,Dermal fibroblast,
+SRX10913941,EN1,Epidermis,Dermal fibroblast,
+SRX10913942,SP1,Epidermis,Dermal fibroblast,
+SRX10913943,SP1,Epidermis,Dermal fibroblast,
+SRX10913946,EN1,Epidermis,Dermal fibroblast,
+SRX10913947,EN1,Epidermis,Dermal fibroblast,
+SRX10913948,SP1,Epidermis,Dermal fibroblast,
+SRX10913949,SP1,Epidermis,Dermal fibroblast,
+SRX1091830,CTCFL,Epidermis,NHDF,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX10976426,EZH2,Epidermis,Dermal fibroblast,
+SRX10976427,EZH2,Epidermis,Dermal fibroblast,
+SRX10976477,EZH2,Epidermis,Dermal fibroblast,
+SRX10976478,EZH2,Epidermis,Dermal fibroblast,
+SRX10976513,CTCF,Epidermis,HFFc6,
+SRX10976514,CTCF,Epidermis,HFFc6,
+SRX10976515,CTCF,Epidermis,HFFc6,
+SRX10976516,CTCF,Epidermis,HFFc6,
+SRX11023678,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11051049,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX11051050,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX11120906,RAD21,Others,Fibroblasts,
+SRX11120932,AFF4,Others,Fibroblasts,
+SRX11120933,AFF4,Others,Fibroblasts,
+SRX11120934,AFF4,Others,Fibroblasts,
+SRX11120938,NIPBL,Others,Fibroblasts,
+SRX11120939,NIPBL,Others,Fibroblasts,
+SRX11120950,NIPBL,Others,Fibroblasts,
+SRX11120957,RAD21,Others,Fibroblasts,
+SRX11120958,RAD21,Others,Fibroblasts,
+SRX11120959,RAD21,Others,Fibroblasts,
+SRX1112993,LMNB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1112994,LMNB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1112995,MAP1LC3B,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1112996,MAP1LC3B,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11470441,Epitope tags,Others,Mesenchymal stem cells,
+SRX11470442,ATF1,Others,Mesenchymal stem cells,
+SRX11470445,Epitope tags,Others,Mesenchymal stem cells,
+SRX11470446,ATF1,Others,Mesenchymal stem cells,
+SRX11470449,Epitope tags,Others,Mesenchymal stem cells,
+SRX11470450,ATF1,Others,Mesenchymal stem cells,
+SRX11470502,EP300,Others,Mesenchymal stem cells,
+SRX11470503,EP300,Others,Mesenchymal stem cells,
+SRX11470504,EP300,Others,Mesenchymal stem cells,
+SRX11470530,Epitope tags,Others,Mesenchymal stem cells,
+SRX11470532,Epitope tags,Others,Mesenchymal stem cells,
+SRX11470534,Epitope tags,Others,Mesenchymal stem cells,
+SRX11495270,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11495271,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11495272,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11495275,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11495276,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11495277,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11799121,NFKB2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX11799122,NFKB2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX12403187,ZHX3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX12403188,ZHX3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX12567758,GFP,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX12567762,GFP,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX12567763,GFP,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX130060,POU5F1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX130061,SOX2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX130062,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX130063,MYC,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX130255,LMNB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX13234466,SPI1,Epidermis,Dermal fibroblast,
+SRX13234467,IRF8,Epidermis,Dermal fibroblast,
+SRX13234468,BATF3,Epidermis,Dermal fibroblast,
+SRX13234469,SPI1,Epidermis,Dermal fibroblast,
+SRX13234470,IRF8,Epidermis,Dermal fibroblast,
+SRX13234471,BATF3,Epidermis,Dermal fibroblast,
+SRX13318152,LMNA,Others,Mesenchymal stem cells,
+SRX13318154,LMNA,Others,Mesenchymal stem cells,
+SRX13356476,SPI1,Epidermis,Dermal fibroblast,
+SRX13356477,IRF8,Epidermis,Dermal fibroblast,
+SRX13356478,BATF3,Epidermis,Dermal fibroblast,
+SRX1360982,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1360983,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1360984,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14024873,Epitope tags,Others,Mesenchymal stem cells,
+SRX14024874,Epitope tags,Others,Mesenchymal stem cells,
+SRX14024875,Epitope tags,Others,Mesenchymal stem cells,
+SRX14024876,Epitope tags,Others,Mesenchymal stem cells,
+SRX14024877,Epitope tags,Others,Mesenchymal stem cells,
+SRX14024878,Epitope tags,Others,Mesenchymal stem cells,
+SRX14096294,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096295,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096298,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096299,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096302,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096303,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096306,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096307,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096310,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX14096311,JUN,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX147007,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477647,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477648,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477649,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477650,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477651,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477652,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477653,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477654,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477655,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477656,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477657,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477658,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477660,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477661,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1477662,Epitope tags,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150103,BRF2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150105,GTF2B,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150106,SNAPC2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150107,SNAPC2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150108,SNAPC1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150109,SNAPC5,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150110,SNAPC4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150483,MAFK,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150484,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150598,CEBPB,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX150703,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1547996,TP53,Epidermis,Dermal fibroblast,
+SRX1547998,TP53,Epidermis,Dermal fibroblast,
+SRX15710550,MAU2,Others,Fibroblasts,
+SRX15710551,MAU2,Others,Fibroblasts,
+SRX15710552,NIPBL,Others,Fibroblasts,
+SRX15710553,RAD21,Others,Fibroblasts,
+SRX15710554,STAG1,Others,Fibroblasts,
+SRX15710555,STAG1,Others,Fibroblasts,
+SRX15710556,STAG2,Others,Fibroblasts,
+SRX15710557,STAG2,Others,Fibroblasts,
+SRX15710558,STAG2,Others,Fibroblasts,
+SRX15710559,STAG2,Others,Fibroblasts,
+SRX16005294,PCGF2,Lung,TIG-3,
+SRX16005295,PCGF2,Lung,TIG-3,
+SRX16005296,RNF2,Lung,TIG-3,
+SRX16005297,RNF2,Lung,TIG-3,
+SRX16005298,SUZ12,Lung,TIG-3,
+SRX16005299,SUZ12,Lung,TIG-3,
+SRX16367304,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX16367305,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX16367308,GTF3C2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX16367309,GTF3C2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1658067,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1658068,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1658069,BRD4,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX17116777,SS18,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX17116778,SS18,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX1759184,ATF3,Epidermis,Dermal fibroblast,
+SRX1759186,ATF3,Epidermis,Dermal fibroblast,
+SRX1781647,LMNA,Epidermis,Dermal fibroblast,
+SRX1781649,LMNA,Epidermis,Dermal fibroblast,
+SRX1781651,LMNA,Epidermis,Dermal fibroblast,
+SRX1781653,LMNA,Epidermis,Dermal fibroblast,
+SRX1781655,LMNA,Epidermis,Dermal fibroblast,
+SRX1781657,LMNA,Epidermis,Dermal fibroblast,
+SRX1781659,LMNA,Epidermis,Dermal fibroblast,
+SRX180823,E2F7,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX180824,E2F7,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX180825,E2F7,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX180826,E2F7,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX180827,E2F7,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813572,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813573,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813574,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813575,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813576,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813577,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813580,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813581,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813582,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813583,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813584,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813585,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813588,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813589,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813590,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813591,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813592,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813593,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813596,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813597,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813598,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813599,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813600,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1813601,MYC,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX18295232,Epitope tags,Epidermis,Dermal fibroblast,
+SRX18543044,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543045,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543046,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543047,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543048,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543049,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543050,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543051,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543052,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543053,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543054,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543055,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543056,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543057,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543058,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543059,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543060,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543061,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543062,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543063,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543064,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543065,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543066,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543067,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543068,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX18543069,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX185775,POU5F1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX185776,MYC,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX186617,RCOR1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX186618,MAZ,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX186619,MXI1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX186620,RFX5,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX186628,CHD1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX186746,EZH2,Epidermis,NHDF,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX1878943,BRD4,Others,Fibroblasts,
+SRX1878944,BRD4,Others,Fibroblasts,
+SRX189083,CTCF,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX189084,CTCF,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX19664486,BANF1,Others,Mesenchymal stem cells,
+SRX19664487,BANF1,Others,Mesenchymal stem cells,
+SRX19664488,BANF1,Others,Mesenchymal stem cells,
+SRX19664489,BANF1,Others,Mesenchymal stem cells,
+SRX19843147,MBD3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX19843158,Epitope tags,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1993515,HMGB2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX1993516,HMGB2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX199862,CTCF,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX199863,CTCF,Lung,AG04450,Tissue=lung|Lineage=endoderm|Description=fetal lung fibroblast
+SRX199865,CTCF,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX199872,CTCF,Epidermis,HFF,Tissue=foreskin|Description=foreskin fibroblast
+SRX199897,CTCF,Epidermis,HFF-Myc,Tissue=foreskin|Lineage=fibroblast|Description=foreskin fibroblast cells expressing canine cMyc
+SRX199899,CTCF,Epidermis,HFF-Myc,Tissue=foreskin|Lineage=fibroblast|Description=foreskin fibroblast cells expressing canine cMyc
+SRX199903,CTCF,Epidermis,NHDF-neo,Tissue=skin|Lineage=mesoderm|Description=neonatal dermal fibroblasts
+SRX199904,CTCF,Epidermis,NHDF-neo,Tissue=skin|Lineage=mesoderm|Description=neonatal dermal fibroblasts
+SRX20093960,LMNA,Epidermis,Dermal fibroblast,
+SRX20093962,LMNA,Epidermis,Dermal fibroblast,
+SRX20387973,5-mC,Liver,LX-2,
+SRX20387974,5-mC,Liver,LX-2,
+SRX20387975,5-mC,Liver,LX-2,
+SRX20387976,5-mC,Liver,LX-2,
+SRX20387977,5-mC,Liver,LX-2,
+SRX20387978,5-mC,Liver,LX-2,
+SRX204162,SUMO1,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204163,SUMO1,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204164,SUMO2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204165,UBE2I,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204171,SUMO1,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204172,SUMO1,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204173,SUMO2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204174,UBE2I,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204179,PIAS4,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX204180,PIAS4,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX208484,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX208485,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX208486,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX20871832,IRX2,Cardiovascular,Cardiac fibroblasts,
+SRX20871833,IRX2,Cardiovascular,Cardiac fibroblasts,
+SRX20971022,KAT6A,Others,Fibroblasts,
+SRX20971023,KAT6A,Others,Fibroblasts,
+SRX20971024,KAT6A,Others,Fibroblasts,
+SRX212182,RELA,Lung,Lung fibroblasts,
+SRX212183,RELA,Lung,Lung fibroblasts,
+SRX212184,EP300,Lung,Lung fibroblasts,
+SRX212185,EP300,Lung,Lung fibroblasts,
+SRX212197,CTCF,Lung,Lung fibroblasts,
+SRX21313896,SS18,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX21313897,SS18,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX21313898,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX21313899,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2188684,BRCA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2188685,BRCA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX22146970,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX22146971,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX22146974,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX22146975,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2268289,CHD1,Others,Mesenchymal stem cells,
+SRX2268290,CHD1,Others,Mesenchymal stem cells,
+SRX2268291,CHD1,Others,Mesenchymal stem cells,
+SRX23045260,GLI1,Epidermis,Dermal fibroblast,
+SRX23045261,GLI1,Epidermis,Dermal fibroblast,
+SRX23045262,GLI1,Epidermis,Dermal fibroblast,
+SRX23045263,GLI1,Epidermis,Dermal fibroblast,
+SRX23045264,GLI1,Epidermis,Dermal fibroblast,
+SRX23045265,GLI1,Epidermis,Dermal fibroblast,
+SRX23045266,GLI1,Epidermis,Dermal fibroblast,
+SRX23045267,GLI1,Epidermis,Dermal fibroblast,
+SRX23045268,GLI1,Epidermis,Dermal fibroblast,
+SRX23335288,EZH2,Epidermis,Dermal fibroblast,
+SRX23335289,EZH2,Epidermis,Dermal fibroblast,
+SRX23335290,EZH2,Epidermis,Dermal fibroblast,
+SRX2368878,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368879,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368884,GATA4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368885,GATA4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368898,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368899,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368900,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2368901,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2388755,AR,Prostate,Fetal prostate fibroblasts,
+SRX2388756,AR,Prostate,Prostate cancer-associated fibroblasts,
+SRX2388757,AR,Muscle,Myofibroblasts,MeSH Description=Spindle-shaped cells with characteristic CONTRACTILE PROTEINS and structures that contribute to the WOUND HEALING process. They occur in GRANULATION TISSUE and also in pathological processes such as FIBROSIS.
+SRX24188769,BMI1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188770,CTCF,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188772,RAD21,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188773,SMC3,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188774,SUZ12,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188776,HDAC1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188777,HDAC2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188778,BMI1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188779,CTCF,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188781,RAD21,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188782,SMC3,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188783,SUZ12,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188785,HDAC1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24188786,HDAC2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2423601,NFE2L2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2423602,NFE2L2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424280,ELK1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424281,ELK1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424662,BHLHE40,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424663,BHLHE40,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424749,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2424750,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2431535,POU5F1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431536,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431537,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431538,GATA4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431539,GATA4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431540,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431541,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431542,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX2431543,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX24723215,CDK9,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX24723217,CDK9,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX24723219,CDK9,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX24723221,CDK9,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX25501804,LMNA,Epidermis,Dermal fibroblast,
+SRX25501807,LMNA,Epidermis,Dermal fibroblast,
+SRX25501808,LMNA,Epidermis,Dermal fibroblast,
+SRX25501811,LMNA,Epidermis,Dermal fibroblast,
+SRX25501812,LMNA,Epidermis,Dermal fibroblast,
+SRX25501815,LMNA,Epidermis,Dermal fibroblast,
+SRX25501818,LMNA,Epidermis,Dermal fibroblast,
+SRX25501819,LMNA,Epidermis,Dermal fibroblast,
+SRX25532169,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX25532171,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX25532173,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2671813,EP300,Others,Fibroblasts,
+SRX2671850,EP300,Others,Fibroblasts,
+SRX268881,TRF2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX268882,NR2F2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX268883,NR2C2,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX268884,HMBOX1,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732208,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732209,POU5F1,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732210,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732211,SOX2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732212,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2732213,KLF4,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX2765967,HMGB2,Lung,Lung fibroblasts,
+SRX2765968,HMGB2,Lung,Lung fibroblasts,
+SRX2791697,LMNA,Epidermis,Dermal fibroblast,
+SRX2791698,LMNB1,Epidermis,Dermal fibroblast,
+SRX2791699,LMNA,Epidermis,Dermal fibroblast,
+SRX2791700,LMNB1,Epidermis,Dermal fibroblast,
+SRX295034,MECP2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX295035,MECP2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX295036,MECP2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX301445,BDP1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX323565,ASCL1,Epidermis,Dermal fibroblast,
+SRX3240987,MED1,Others,Mesenchymal stem cells,
+SRX3240988,MED1,Others,Mesenchymal stem cells,
+SRX3240989,MED1,Others,Mesenchymal stem cells,
+SRX3240990,MED1,Others,Mesenchymal stem cells,
+SRX3240991,MED1,Others,Mesenchymal stem cells,
+SRX3240992,MED1,Others,Mesenchymal stem cells,
+SRX3240993,MED1,Others,Mesenchymal stem cells,
+SRX3240994,MED1,Others,Mesenchymal stem cells,
+SRX3240995,MED1,Others,Mesenchymal stem cells,
+SRX3240996,MED1,Others,Mesenchymal stem cells,
+SRX3240997,MED1,Others,Mesenchymal stem cells,
+SRX3240998,MED1,Others,Mesenchymal stem cells,
+SRX326378,NUP98,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX326379,NUP98,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329081,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329082,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329083,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329084,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329085,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX329086,BCL10,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3321960,FOS,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3321961,FOS,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3322384,USF2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3322385,USF2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324957,CREBBP,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324958,CREBBP,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324959,CREBBP,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324960,CREBBP,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324961,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324962,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324963,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3324964,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX338978,ERCC6,Others,Fibroblasts,
+SRX338979,ERCC6,Others,Fibroblasts,
+SRX3421794,AR,Epidermis,Dermal fibroblast,
+SRX3468047,SS18,Others,Fibroblasts,
+SRX3468050,Epitope tags,Others,Fibroblasts,
+SRX3468051,Epitope tags,Others,Fibroblasts,
+SRX3468052,SUZ12,Others,Fibroblasts,
+SRX3468053,SUZ12,Others,Fibroblasts,
+SRX3511907,YAP1,Epidermis,Dermal fibroblast,
+SRX3511908,YAP1,Epidermis,Dermal fibroblast,
+SRX3511909,YAP1,Epidermis,Dermal fibroblast,
+SRX3511910,YAP1,Epidermis,Dermal fibroblast,
+SRX352046,ERCC6,Others,Fibroblasts,
+SRX3585704,HMGB1,Lung,Lung fibroblasts,
+SRX3644342,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644347,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644348,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644349,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644350,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644351,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644354,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644355,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644356,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644357,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3644358,FOXA2,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX3791761,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3791762,HMGA1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX392040,LMNB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX3946904,MED1,Others,Mesenchymal stem cells,
+SRX3946905,MED1,Others,Mesenchymal stem cells,
+SRX3946906,MED1,Others,Mesenchymal stem cells,
+SRX3946907,MED1,Others,Mesenchymal stem cells,
+SRX3946908,MED1,Others,Mesenchymal stem cells,
+SRX3946909,MED1,Others,Mesenchymal stem cells,
+SRX3946910,MED1,Others,Mesenchymal stem cells,
+SRX3946911,MED1,Others,Mesenchymal stem cells,
+SRX3946912,MED1,Others,Mesenchymal stem cells,
+SRX3946913,MED1,Others,Mesenchymal stem cells,
+SRX3946914,MED1,Others,Mesenchymal stem cells,
+SRX3946915,MED1,Others,Mesenchymal stem cells,
+SRX3946916,MED1,Others,Mesenchymal stem cells,
+SRX3946917,MED1,Others,Mesenchymal stem cells,
+SRX3946918,MED1,Others,Mesenchymal stem cells,
+SRX3946919,MED1,Others,Mesenchymal stem cells,
+SRX3946920,MED1,Others,Mesenchymal stem cells,
+SRX3946921,MED1,Others,Mesenchymal stem cells,
+SRX3946922,MED1,Others,Mesenchymal stem cells,
+SRX3946923,MED1,Others,Mesenchymal stem cells,
+SRX396251,TP53,Others,Fibroblasts,
+SRX396252,TP53,Others,Fibroblasts,
+SRX396253,TP53,Others,Fibroblasts,
+SRX396254,TP53,Others,Fibroblasts,
+SRX396255,TP53,Others,Fibroblasts,
+SRX396256,TP53,Others,Fibroblasts,
+SRX396257,TP53,Others,Fibroblasts,
+SRX396258,TP53,Others,Fibroblasts,
+SRX396259,TP53,Others,Fibroblasts,
+SRX396260,TP53,Others,Fibroblasts,
+SRX396265,TP53,Others,Fibroblasts,
+SRX396266,TP53,Others,Fibroblasts,
+SRX396268,TP53,Others,Fibroblasts,
+SRX3962733,LMNA,Epidermis,BJ-5ta,
+SRX3962736,LMNA,Epidermis,BJ-5ta,
+SRX3962738,LMNA,Epidermis,BJ-5ta,
+SRX3962742,LMNA,Epidermis,BJ-5ta,
+SRX3962743,LMNA,Epidermis,BJ-5ta,
+SRX4074762,FOSL1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX4074764,TEAD4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX4230307,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX4389606,Epitope tags,Others,Mesenchymal stem cells,
+SRX4389607,Epitope tags,Others,Mesenchymal stem cells,
+SRX4389612,CBX4,Others,Mesenchymal stem cells,
+SRX4389613,CBX4,Others,Mesenchymal stem cells,
+SRX447385,LMNA,Epidermis,Dermal fibroblast,
+SRX447387,LMNA,Epidermis,Dermal fibroblast,
+SRX447388,LMNA,Epidermis,Dermal fibroblast,
+SRX4637892,ELK1,Epidermis,Dermal fibroblast,
+SRX4637894,ELK1,Epidermis,Dermal fibroblast,
+SRX4714471,GTF3C2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX4714473,GTF3C2,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX481483,PRKDC,Others,Fibroblasts,
+SRX481484,PRKDC,Others,Fibroblasts,
+SRX481485,PCGF2,Others,Fibroblasts,
+SRX481486,PCGF2,Others,Fibroblasts,
+SRX490261,KDM6B,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX490262,KDM6B,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX490263,TP53,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX490264,TP53,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5001377,TEAD4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX502808,HIRA,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX502810,HIRA,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX502812,HIRA,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX502814,HIRA,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX512366,Epitope tags,Epidermis,Dermal fibroblast,
+SRX512367,Epitope tags,Epidermis,Dermal fibroblast,
+SRX512368,Epitope tags,Epidermis,Dermal fibroblast,
+SRX512372,Epitope tags,Epidermis,Dermal fibroblast,
+SRX512373,Epitope tags,Epidermis,Dermal fibroblast,
+SRX5138659,ETV2,Epidermis,Dermal fibroblast,
+SRX5138661,ETV2,Epidermis,Dermal fibroblast,
+SRX5204039,PRMT3,Others,Mesenchymal stem cells,
+SRX5204040,PRMT3,Others,Mesenchymal stem cells,
+SRX5254847,ZBTB16,Others,Mesenchymal stem cells,
+SRX5254848,ZBTB16,Others,Mesenchymal stem cells,
+SRX5254849,SUZ12,Others,Mesenchymal stem cells,
+SRX5254850,SUZ12,Others,Mesenchymal stem cells,
+SRX5254851,RNF2,Others,Mesenchymal stem cells,
+SRX5254852,RNF2,Others,Mesenchymal stem cells,
+SRX5290911,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX5290912,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX5290913,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX5290914,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX5360084,EZH2,Epidermis,Dermal fibroblast,
+SRX5360085,EZH2,Epidermis,Dermal fibroblast,
+SRX5360089,EZH2,Epidermis,Dermal fibroblast,
+SRX5360090,EZH2,Epidermis,Dermal fibroblast,
+SRX5360094,EZH2,Epidermis,Dermal fibroblast,
+SRX5360095,EZH2,Epidermis,Dermal fibroblast,
+SRX5360641,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360642,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360643,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360644,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360649,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360650,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360651,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360652,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360661,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360662,KLF4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360663,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360664,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360665,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5360666,Epitope tags,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5401652,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401653,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401656,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401657,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401658,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401659,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401662,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5401663,AR,Prostate,Prostate cancer-derived fibroblasts,
+SRX5774914,POU5F1,Epidermis,Dermal fibroblast,
+SRX5774915,POU5F1,Epidermis,Dermal fibroblast,
+SRX5774916,POU5F1,Epidermis,Dermal fibroblast,
+SRX5774919,POU5F1,Epidermis,Dermal fibroblast,
+SRX5774920,POU5F1,Epidermis,Dermal fibroblast,
+SRX5813556,EZH2,Epidermis,Dermal fibroblast,
+SRX5813557,EZH2,Epidermis,Dermal fibroblast,
+SRX5813558,EZH2,Epidermis,Dermal fibroblast,
+SRX5879970,TEAD4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5879971,TEAD4,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5888971,SMARCB1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5888972,SMARCB1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5888973,SMARCB1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5888974,SMARCB1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX5888975,SMARCB1,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX620746,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX620747,TP53,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6582163,JUN,Epidermis,BJ-5ta,
+SRX6582164,JUN,Epidermis,BJ-5ta,
+SRX6582165,JUN,Epidermis,BJ-5ta,
+SRX6582172,JUN,Others,Fibroblasts,
+SRX6582173,LMNA,Others,Fibroblasts,
+SRX6582174,LMNA,Others,Fibroblasts,
+SRX6596842,EGR1,Others,Fibroblasts,
+SRX6596843,EGR1,Others,Fibroblasts,
+SRX6596844,EGR1,Others,Fibroblasts,
+SRX6596845,EGR1,Others,Fibroblasts,
+SRX6596846,EGR1,Others,Fibroblasts,
+SRX6596847,EGR1,Others,Fibroblasts,
+SRX6596848,EGR1,Others,Fibroblasts,
+SRX6596849,EGR1,Others,Fibroblasts,
+SRX6596850,EGR1,Others,Fibroblasts,
+SRX659736,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659737,EP300,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659751,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659752,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659758,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659759,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659760,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX659761,RB1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX660077,CREBBP,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660078,CREBBP,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660083,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660084,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660085,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660086,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660087,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660088,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660089,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX660090,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX6614728,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614729,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614732,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614733,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614736,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614737,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614740,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614741,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614742,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614743,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614744,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614745,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614746,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614747,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614748,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614749,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614750,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614753,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614754,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614755,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614756,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614757,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614759,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614762,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614763,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614764,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614765,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614766,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614767,RAD21,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614768,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614769,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614770,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614771,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614772,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614773,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614774,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614775,SMC3,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614776,SMC3,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6614777,SMC3,Lung,WI-38,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX666592,RBPJ,Epidermis,Dermal fibroblast,
+SRX666593,RBPJ,Epidermis,Dermal fibroblast,
+SRX6818032,PML,Epidermis,NHDF,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX6878423,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6878424,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6878425,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6878426,CTCF,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX6911627,WHSC1,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX700518,BRD4,Epidermis,Dermal fibroblast,
+SRX700519,BRD4,Epidermis,Dermal fibroblast,
+SRX700520,BRD4,Epidermis,Dermal fibroblast,
+SRX700521,BRD4,Epidermis,Dermal fibroblast,
+SRX7015632,Epitope tags,Others,Fibroblasts,
+SRX7015633,Epitope tags,Others,Fibroblasts,
+SRX7015634,Epitope tags,Others,Fibroblasts,
+SRX7015635,Epitope tags,Others,Fibroblasts,
+SRX7015645,Epitope tags,Others,Fibroblasts,
+SRX7015647,Epitope tags,Others,Fibroblasts,
+SRX7015649,Epitope tags,Others,Fibroblasts,
+SRX7015651,Epitope tags,Others,Fibroblasts,
+SRX7015667,Epitope tags,Others,Fibroblasts,
+SRX7015669,Epitope tags,Others,Fibroblasts,
+SRX7015671,RNF2,Others,Fibroblasts,
+SRX7086149,HNF1A,Epidermis,Skin fibroblasts,
+SRX7086153,HNF1A,Epidermis,Skin fibroblasts,
+SRX7277172,LMNA,Others,Fibroblasts,
+SRX7277174,LMNA,Others,Fibroblasts,
+SRX7277179,JUN,Others,Fibroblasts,
+SRX751297,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX751298,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX751299,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX751300,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX7626336,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7626337,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7626338,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7626339,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7626340,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7626341,CTCF,Others,Mesenchymal Stromal Cells,"MeSH Description=Mesenchymal stromal cells found in WHARTON JELLY, in the perivascular, intervascular, and subamnion regions of the UMBILICAL CORD. They are fibroblastic in appearance, rich in hyaluronic acid, and have been induced to form bone, cartilage, and adipose cells in vitro."
+SRX7805694,NFATC1,Others,Mesenchymal stem cells,
+SRX7805695,NFATC1,Others,Mesenchymal stem cells,
+SRX7805696,NFATC1,Others,Mesenchymal stem cells,
+SRX7805700,NFATC1,Others,Mesenchymal stem cells,
+SRX7805701,NFATC1,Others,Mesenchymal stem cells,
+SRX7805702,NFATC1,Others,Mesenchymal stem cells,
+SRX7805893,SMC1A,Epidermis,Dermal fibroblast,
+SRX7805895,SMC1A,Epidermis,Dermal fibroblast,
+SRX7805897,SMC1A,Epidermis,Dermal fibroblast,
+SRX7805899,NIPBL,Epidermis,Dermal fibroblast,
+SRX7805901,NIPBL,Epidermis,Dermal fibroblast,
+SRX8119674,SMARCA2,Lung,MRC-5,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX8171743,MYBBP1A,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX8171744,MYBBP1A,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX8359003,FLI1,Others,Mesenchymal stem cells,
+SRX8359006,FLI1,Others,Mesenchymal stem cells,
+SRX864094,MYC,Epidermis,Dermal fibroblast,
+SRX864095,MYC,Epidermis,Dermal fibroblast,
+SRX8707932,ERH,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX8707933,ERH,Epidermis,BJ,Primary Tissue=Skin|Tissue Diagnosis=Normal
+SRX8961847,TBP,Others,Mesenchymal stem cells,
+SRX8961858,TBP,Others,Mesenchymal stem cells,
+SRX9012289,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX9012290,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX9012291,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX9012292,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells,
+SRX9505510,ZNF416,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX9505511,ZNF416,Lung,IMR-90,Primary Tissue=Lung|Tissue Diagnosis=Normal
+SRX9738635,Epitope tags,Others,Mesenchymal stem cells,
+SRX9738636,Epitope tags,Others,Mesenchymal stem cells,
+SRX9738637,Epitope tags,Others,Mesenchymal stem cells,
+SRX9738638,Epitope tags,Others,Mesenchymal stem cells,
+SRX9738639,Epitope tags,Others,Mesenchymal stem cells,
+SRX9738640,Epitope tags,Others,Mesenchymal stem cells,

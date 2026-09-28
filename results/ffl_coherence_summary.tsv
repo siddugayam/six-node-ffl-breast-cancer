@@ -1,0 +1,88 @@
+ffl_class	coherence_type	signs_R_M__M_T__R_T	coherent	n_cores_all	n_cores_fully_curated_signs
+ALL	C1	(+,+,+)	TRUE	3269	235
+ALL	C2	(-,-,+)	TRUE	1219	324
+ALL	C3	(-,+,-)	TRUE	3250	1263
+ALL	C4	(+,-,-)	TRUE	5432	360
+ALL	I1	(+,-,+)	FALSE	2284	730
+ALL	I2	(-,+,+)	FALSE	2240	119
+ALL	I3	(-,-,-)	FALSE	1101	1101
+ALL	I4	(+,+,-)	FALSE	392	52
+ALL	COHERENT_TOTAL		TRUE	13170	2182
+ALL	INCOHERENT_TOTAL		FALSE	6017	2002
+ALL	UNCLASSIFIABLE_assumed_sign		NA	15003	0
+canonical_TF->miRNA->gene_with_TF->gene	C2	(-,-,+)	TRUE	326	
+canonical_TF->miRNA->gene_with_TF->gene	C4	(+,-,-)	TRUE	138	
+canonical_TF->miRNA->gene_with_TF->gene	I1	(+,-,+)	FALSE	770	
+canonical_TF->miRNA->gene_with_TF->gene	I3	(-,-,-)	FALSE	69	
+Composite-FFL	C1	(+,+,+)	TRUE	1847	
+Composite-FFL	C2	(-,-,+)	TRUE	1111	
+Composite-FFL	C3	(-,+,-)	TRUE	2873	
+Composite-FFL	C4	(+,-,-)	TRUE	347	
+Composite-FFL	I1	(+,-,+)	FALSE	1795	
+Composite-FFL	I2	(-,+,+)	FALSE	1913	
+Composite-FFL	I3	(-,-,-)	FALSE	915	
+Composite-FFL	I4	(+,+,-)	FALSE	33	
+miRNA-miRNA-Gene	C4	(+,-,-)	TRUE	2470	
+miRNA-miRNA-TF	C4	(+,-,-)	TRUE	2432	
+TF-TF-miRNA	C1	(+,+,+)	TRUE	644	
+TF-TF-miRNA	C2	(-,-,+)	TRUE	59	
+TF-TF-miRNA	C3	(-,+,-)	TRUE	137	
+TF-TF-miRNA	C4	(+,-,-)	TRUE	126	
+TF-TF-miRNA	I1	(+,-,+)	FALSE	306	
+TF-TF-miRNA	I2	(-,+,+)	FALSE	142	
+TF-TF-miRNA	I3	(-,-,-)	FALSE	68	
+TF-TF-miRNA	I4	(+,+,-)	FALSE	211	
+TF-TF-TF	C1	(+,+,+)	TRUE	320	
+TF-TF-TF	C2	(-,-,+)	TRUE	21	
+TF-TF-TF	C3	(-,+,-)	TRUE	47	
+TF-TF-TF	C4	(+,-,-)	TRUE	35	
+TF-TF-TF	I1	(+,-,+)	FALSE	96	
+TF-TF-TF	I2	(-,+,+)	FALSE	91	
+TF-TF-TF	I3	(-,-,-)	FALSE	19	
+TF-TF-TF	I4	(+,+,-)	FALSE	81	
+TF-TF-Gene	C1	(+,+,+)	TRUE	394	
+TF-TF-Gene	C2	(-,-,+)	TRUE	19	
+TF-TF-Gene	C3	(-,+,-)	TRUE	23	
+TF-TF-Gene	C4	(+,-,-)	TRUE	18	
+TF-TF-Gene	I1	(+,-,+)	FALSE	76	
+TF-TF-Gene	I2	(-,+,+)	FALSE	84	
+TF-TF-Gene	I3	(-,-,-)	FALSE	1	
+TF-TF-Gene	I4	(+,+,-)	FALSE	58	
+miRNA-FFL	C3	(-,+,-)	TRUE	100	
+miRNA-FFL	I2	(-,+,+)	FALSE	4	
+miRNA-FFL	I3	(-,-,-)	FALSE	42	
+miRNA-Gene-TF	C3	(-,+,-)	TRUE	55	
+miRNA-Gene-TF	I3	(-,-,-)	FALSE	26	
+miRNA-Gene-Gene	C3	(-,+,-)	TRUE	13	
+miRNA-Gene-Gene	I3	(-,-,-)	FALSE	26	
+TF-FFL	C1	(+,+,+)	TRUE	27	
+TF-FFL	C2	(-,-,+)	TRUE	4	
+TF-FFL	C4	(+,-,-)	TRUE	1	
+TF-FFL	I1	(+,-,+)	FALSE	3	
+TF-FFL	I3	(-,-,-)	FALSE	1	
+TF-Gene-miRNA	C1	(+,+,+)	TRUE	10	
+TF-Gene-miRNA	C2	(-,-,+)	TRUE	3	
+TF-Gene-miRNA	C4	(+,-,-)	TRUE	1	
+TF-Gene-miRNA	I1	(+,-,+)	FALSE	5	
+TF-Gene-miRNA	I2	(-,+,+)	FALSE	3	
+TF-Gene-miRNA	I4	(+,+,-)	FALSE	2	
+TF-Gene-TF	C1	(+,+,+)	TRUE	13	
+TF-Gene-TF	C2	(-,-,+)	TRUE	1	
+TF-Gene-TF	C4	(+,-,-)	TRUE	1	
+TF-Gene-TF	I1	(+,-,+)	FALSE	1	
+TF-Gene-TF	I2	(-,+,+)	FALSE	3	
+TF-Gene-TF	I4	(+,+,-)	FALSE	4	
+Gene-TF-Gene	C1	(+,+,+)	TRUE	1	
+Gene-TF-Gene	C2	(-,-,+)	TRUE	1	
+Gene-TF-Gene	C3	(-,+,-)	TRUE	1	
+Gene-TF-Gene	I1	(+,-,+)	FALSE	1	
+Gene-TF-Gene	I3	(-,-,-)	FALSE	2	
+Gene-TF-Gene	I4	(+,+,-)	FALSE	2	
+Gene-TF-TF	C1	(+,+,+)	TRUE	4	
+Gene-TF-TF	C3	(-,+,-)	TRUE	1	
+Gene-TF-TF	I3	(-,-,-)	FALSE	1	
+Gene-TF-TF	I4	(+,+,-)	FALSE	1	
+TF-Gene-Gene	C1	(+,+,+)	TRUE	5	
+TF-Gene-Gene	C4	(+,-,-)	TRUE	1	
+TF-Gene-Gene	I1	(+,-,+)	FALSE	1	
+Gene-miRNA-miRNA	C1	(+,+,+)	TRUE	4	

@@ -1,0 +1,14 @@
+sets flagged as sustained oscillators at n=6: 108 of 16384 (0.659%)
+  n3: median rel amplitude (last 25% of 1,000 tau) = 0.0000; % with complex leading pair = 0.0
+  n4: median rel amplitude (last 25% of 1,000 tau) = 0.0000; % with complex leading pair = 0.0
+  n5: median rel amplitude (last 25% of 1,000 tau) = 0.0000; % with complex leading pair = 0.0
+  n6: median rel amplitude (last 25% of 1,000 tau) = 0.1923; % with complex leading pair = 57.4
+
+flagged at n=6                                : 108
+amplitude still > 2% after 1,000 tau          : 90
+same amplitude AND period from 2 different ICs: 92
+CERTIFIED limit cycles                        : 83 (76.9% of flagged; 0.507% of the 16,384-set design)
+of those, embedded 3-node core also oscillates : 0
+median certified period                       : 2.40 tau = 31.2 h (tau = mRNA lifetime 12.98 h)
+max |Im(lambda)| in the 3-node cores of these sets: 0
+EXIT=0

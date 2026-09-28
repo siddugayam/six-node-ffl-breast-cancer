@@ -1,0 +1,26 @@
+METABRIC full: n = 1979  events = 1143  hubs = 50 
+Warning message:
+In coxph.fit(X, Y, istrat, offset, init, control, weights = weights,  :
+  Loglik converged before variable  1 ; coefficient may be infinite. 
+                            metric   value
+                   METABRIC_full_n 1979.00
+              METABRIC_full_events 1143.00
+            TCGA_OS_events_matched  151.00
+                downsampled_mean_n  261.00
+           downsampled_mean_events  150.80
+                              reps  200.00
+       mean_hubs_BHq05_downsampled    1.28
+     median_hubs_BHq05_downsampled    0.00
+     pct_reps_with_zero_hubs_BHq05   53.50
+ mean_hubs_nominal_p05_downsampled    7.34
+       hubs_BHq05_METABRIC_full_OS   19.00
+           hubs_BHq05_TCGA_full_OS    0.00
+     hubs_nominal_p05_TCGA_full_OS    8.00
+hubs reaching BH q<0.05 per subsample: median 0  IQR 0 - 2  mean 1.28  range 0 - 11 
+fraction of subsamples with >=1 hub at q<0.05: 0.465  ( 93 of 200 )
+events per subsample: mean 150.8  median 152  range 127 - 172 
+R R version 4.5.1 (2025-06-13)  survival 3.8.6  RNGkind Mersenne-Twister/Inversion/Rejection 
+
+real	0m44.538s
+user	0m37.804s
+sys	0m0.401s

@@ -1,0 +1,51 @@
+degree table rows: 587 
+
+===== degree_total  n = 587  max = 140 
+  power law: alpha = 3.5021  xmin = 34  ntail = 137  KS = 0.0614
+Expected total run time for 1000 sims, using 4 threads is 180 seconds.
+  CSN bootstrap goodness-of-fit p = 0.0560  (1000 sims)
+  vs lognormal     LR =   -1.553  p_two = 0.1204  (indistinguishable)
+  vs exponential   LR =   -0.982  p_two = 0.3263  (indistinguishable)
+  vs poisson       LR =   +4.203  p_two = 2.639e-05  (power law favoured)
+
+===== degree_out  n = 381  max = 91 
+  power law: alpha = 4.7486  xmin = 34  ntail = 64  KS = 0.0509
+Expected total run time for 1000 sims, using 4 threads is 91.4 seconds.
+  CSN bootstrap goodness-of-fit p = 0.6800  (1000 sims)
+  vs lognormal     LR =   -0.725  p_two = 0.4685  (indistinguishable)
+  vs exponential   LR =   -0.351  p_two = 0.7254  (indistinguishable)
+  vs poisson       LR =   +2.446  p_two = 0.01443  (power law favoured)
+
+===== degree_in  n = 582  max = 90 
+  power law: alpha = 4.7315  xmin = 37  ntail = 37  KS = 0.0513
+Expected total run time for 1000 sims, using 4 threads is 130 seconds.
+  CSN bootstrap goodness-of-fit p = 0.9070  (1000 sims)
+  vs lognormal     LR =   -0.683  p_two = 0.4946  (indistinguishable)
+  vs exponential   LR =   -0.523  p_two = 0.6013  (indistinguishable)
+  vs poisson       LR =   +2.396  p_two = 0.01656  (power law favoured)
+
+--- SUMMARY ---
+      distribution   n n_tail    alpha xmin         KS bootstrap_p nboot
+total degree_total 587    137 3.502068   34 0.06140427       0.056  1000
+out     degree_out 381     64 4.748618   34 0.05085071       0.680  1000
+inn      degree_in 582     37 4.731489   37 0.05127186       0.907  1000
+      scale_free_supported
+total                FALSE
+out                   TRUE
+inn                   TRUE
+
+        alternative         LR  p_one_sided  p_two_sided distribution
+total.1   lognormal -1.5530827 9.397983e-01 1.204034e-01 degree_total
+total.2 exponential -0.9816396 8.368613e-01 3.262774e-01 degree_total
+total.3     poisson  4.2025906 1.319388e-05 2.638776e-05 degree_total
+out.1     lognormal -0.7248622 7.657317e-01 4.685366e-01   degree_out
+out.2   exponential -0.3512241 6.372899e-01 7.254202e-01   degree_out
+out.3       poisson  2.4464305 7.213931e-03 1.442786e-02   degree_out
+inn.1     lognormal -0.6830275 7.527053e-01 4.945895e-01    degree_in
+inn.2   exponential -0.5225951 6.993720e-01 6.012560e-01    degree_in
+inn.3       poisson  2.3963183 8.280351e-03 1.656070e-02    degree_in
+null device 
+          1 
+null device 
+          1 
+figures written

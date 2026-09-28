@@ -1,0 +1,46 @@
+
+== nolegacy: M->T 1553, T->M 1239, reciprocal M<->T 1223, T->T 657, reciprocal T<->T pairs 53, Gene-Gene links 158, miRNA-miRNA links 480
+  3-node miRNA_FFL      miRNA=153 TF=83 Gene=128 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=748 miRNA-TF=661 TF-miRNA=NA TF-Gene=351  FFL=1,355  sets=1,355
+  3-node TF_FFL         miRNA=148 TF=76 Gene=124 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=686 miRNA-TF=NA TF-miRNA=556 TF-Gene=334  FFL=1,182  sets=1,182
+  3-node Composite_FFL  miRNA=146 TF=76 Gene=124 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=679 miRNA-TF=551 TF-miRNA=551 TF-Gene=331  FFL=1,173  sets=1,173
+  3-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=1,364  sets=1,364
+  4-node miRNA_FFL      miRNA=166 TF=93 Gene=106 Gene-Gene=141 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=775 miRNA-TF=825 TF-miRNA=NA TF-Gene=295  FFL=2,580  sets=2,554
+  4-node TF_FFL         miRNA=159 TF=88 Gene=105 Gene-Gene=140 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=695 miRNA-TF=NA TF-miRNA=652 TF-Gene=282  FFL=2,090  sets=2,065
+  4-node Composite_FFL  miRNA=157 TF=88 Gene=105 Gene-Gene=140 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=683 miRNA-TF=642 TF-miRNA=642 TF-Gene=282  FFL=2,054  sets=2,029
+  4-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=2,616  sets=2,590
+  5-node miRNA_FFL      miRNA=87 TF=66 Gene=93 Gene-Gene=116 miRNA-miRNA=112 TF-TF=NA miRNA-Gene=455 miRNA-TF=429 TF-miRNA=NA TF-Gene=223  FFL=2,272  sets=1,456
+  5-node TF_FFL         miRNA=85 TF=61 Gene=93 Gene-Gene=116 miRNA-miRNA=102 TF-TF=NA miRNA-Gene=424 miRNA-TF=NA TF-miRNA=339 TF-Gene=210  FFL=1,719  sets=1,168
+  5-node Composite_FFL  miRNA=85 TF=61 Gene=93 Gene-Gene=116 miRNA-miRNA=102 TF-TF=NA miRNA-Gene=424 miRNA-TF=339 TF-miRNA=339 TF-Gene=210  FFL=1,719  sets=1,168
+  5-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=2,272  sets=1,456
+  6-node miRNA_FFL      miRNA=96 TF=122 Gene=112 Gene-Gene=142 miRNA-miRNA=142 TF-TF=377 miRNA-Gene=638 miRNA-TF=687 TF-miRNA=NA TF-Gene=311  FFL=14,003  sets=8,606
+  6-node TF_FFL         miRNA=99 TF=117 Gene=112 Gene-Gene=141 miRNA-miRNA=169 TF-TF=354 miRNA-Gene=656 miRNA-TF=NA TF-miRNA=543 TF-Gene=309  FFL=15,701  sets=9,950
+  6-node Composite_FFL  miRNA=79 TF=45 Gene=86 Gene-Gene=113 miRNA-miRNA=96 TF-TF=45 miRNA-Gene=433 miRNA-TF=290 TF-miRNA=290 TF-Gene=176  FFL=3,898  sets=2,498
+  6-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=25,806  sets=15,590
+  6-node relaxed miRNA_FFL      FFL=29,689  sets=17,727
+  6-node relaxed TF_FFL         FFL=23,302  sets=14,540
+  6-node relaxed Composite_FFL  FFL=23,295  sets=14,540
+  6-node relaxed Unique_FFL     FFL=29,696  sets=17,727
+  merged 3-to-6 composite network: 3674 SIF edges, 451 nodes
+
+== nolegacy_nostring: M->T 1553, T->M 1239, reciprocal M<->T 1223, T->T 657, reciprocal T<->T pairs 53, Gene-Gene links 1, miRNA-miRNA links 480
+  3-node miRNA_FFL      miRNA=153 TF=83 Gene=128 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=748 miRNA-TF=661 TF-miRNA=NA TF-Gene=351  FFL=1,355  sets=1,355
+  3-node TF_FFL         miRNA=148 TF=76 Gene=124 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=686 miRNA-TF=NA TF-miRNA=556 TF-Gene=334  FFL=1,182  sets=1,182
+  3-node Composite_FFL  miRNA=146 TF=76 Gene=124 Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=679 miRNA-TF=551 TF-miRNA=551 TF-Gene=331  FFL=1,173  sets=1,173
+  3-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=1,364  sets=1,364
+  4-node miRNA_FFL      miRNA=6 TF=5 Gene=2 Gene-Gene=1 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=6 miRNA-TF=10 TF-miRNA=NA TF-Gene=5  FFL=10  sets=10
+  4-node TF_FFL         miRNA=6 TF=5 Gene=2 Gene-Gene=1 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=6 miRNA-TF=NA TF-miRNA=10 TF-Gene=5  FFL=10  sets=10
+  4-node Composite_FFL  miRNA=6 TF=5 Gene=2 Gene-Gene=1 miRNA-miRNA=NA TF-TF=NA miRNA-Gene=6 miRNA-TF=10 TF-miRNA=10 TF-Gene=5  FFL=10  sets=10
+  4-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=10  sets=10
+  5-node miRNA_FFL      miRNA=3 TF=3 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=NA miRNA-Gene=3 miRNA-TF=6 TF-miRNA=NA TF-Gene=3  FFL=8  sets=5
+  5-node TF_FFL         miRNA=3 TF=3 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=NA miRNA-Gene=3 miRNA-TF=NA TF-miRNA=6 TF-Gene=3  FFL=8  sets=5
+  5-node Composite_FFL  miRNA=3 TF=3 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=NA miRNA-Gene=3 miRNA-TF=6 TF-miRNA=6 TF-Gene=3  FFL=8  sets=5
+  5-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=8  sets=5
+  6-node miRNA_FFL      miRNA=3 TF=17 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=18 miRNA-Gene=3 miRNA-TF=20 TF-miRNA=NA TF-Gene=6  FFL=35  sets=27
+  6-node TF_FFL         miRNA=3 TF=23 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=34 miRNA-Gene=3 miRNA-TF=NA TF-miRNA=27 TF-Gene=7  FFL=73  sets=54
+  6-node Composite_FFL  miRNA=3 TF=6 Gene=2 Gene-Gene=1 miRNA-miRNA=2 TF-TF=5 miRNA-Gene=3 miRNA-TF=3 TF-miRNA=3 TF-Gene=3  FFL=7  sets=7
+  6-node Unique_FFL     miRNA=NA TF=NA Gene=NA Gene-Gene=NA miRNA-miRNA=NA TF-TF=NA miRNA-Gene=NA miRNA-TF=NA TF-miRNA=NA TF-Gene=NA  FFL=101  sets=70
+  6-node relaxed miRNA_FFL      FFL=119  sets=77
+  6-node relaxed TF_FFL         FFL=91  sets=64
+  6-node relaxed Composite_FFL  FFL=91  sets=64
+  6-node relaxed Unique_FFL     FFL=119  sets=77
+  merged 3-to-6 composite network: 2133 SIF edges, 348 nodes

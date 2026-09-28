@@ -1,0 +1,928 @@
+family,module,param_set,rel_amp_zero_IC,rel_amp_high_IC,period_tau_zero_IC,amplitude_sustained_1000tau,independent_of_initial_condition,certified_limit_cycle,source,period_tau_high_IC
+COMP_C2_toggle,GG+MM+TT,228,0.192033830398923,0.1920335776144445,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,380,0.0825857250475257,0.0825864031949881,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,652,1.075049700597948e-09,1.0375391914278674e-09,7.2000000000000455,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,653,1.8121118033193948,1.809632572616676,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,699,0.6955683700764757,0.6943458672647118,7.600000000000136,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,706,0.0924391088644797,0.0924400710639958,4.399999999999864,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,810,2.141714475083545e-08,3.02802692199149e-08,4.0,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,834,0.1559635937030435,0.1559801474475713,2.800000000000182,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,922,0.0011804573392939,0.001179186802633,3.200000000000045,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,1740,1.602389608654839e-05,1.6030665643525557e-05,2.0,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,1910,0.1392055801639904,0.1391821081643093,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2130,0.8032023297320191,0.8024406477427883,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2194,0.6598722621004476,0.6612701384266215,4.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2197,0.1912701536511958,0.1912647153545549,8.799999999999955,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2212,0.0272156920143347,0.0272161175932411,1.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2426,0.3434853190723944,0.343241487323193,4.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2523,0.2195130078274736,0.2194404831504874,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2845,0.0791746813609063,0.0792298086572125,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,2941,0.2079894286620224,0.2080729640890876,1.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,3010,0.2028458867514303,0.2027907549796697,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,3045,0.1222204162180399,0.1222210085689729,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,3208,0.2064570110668786,0.2064552300976733,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,3840,0.0710648924327299,0.0710753761510406,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,3938,0.3785836700575171,0.3787541163703772,3.800000000000068,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4046,0.505229046897178,0.5051201778656632,3.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4068,0.2248921265725277,0.2248936108527753,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4118,0.2660496083835063,0.2660528142355655,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4226,0.0026128780541372,0.0026068056877515,1.599999999999909,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4438,0.3937453879073719,0.3937896188773829,3.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,4494,0.5711539896080744,0.5717161134224468,2.399999999999864,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,5331,0.5521210465722346,0.5517998528230685,5.2000000000000455,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,5719,0.1766305132020612,0.1766320256685338,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,5874,0.1035391322699354,0.1035533930366948,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,5994,0.1925538628665816,0.1924066548487531,4.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6053,0.1831348370352412,0.1831692971416124,1.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6072,1.2068686442584814e-06,1.0871977126627083e-06,2.7999999999999545,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6142,0.7348840184013457,0.7344013449842273,6.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6230,8.16783117498624e-05,8.209631868846212e-05,2.400000000000091,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6371,0.0540680587391326,0.0540695626763429,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6412,0.0910476840753013,0.0,1.599999999999909,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6456,0.0995182356996652,0.0995106888534667,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6484,0.0617905551423287,0.0617908629687962,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6569,0.1259828183793895,0.1259918256105568,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6589,0.2261407341935292,0.2261075773099084,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6930,0.4208745121403002,0.4208550685562748,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6962,0.425829842105345,0.4257213921002456,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,6986,0.042450312637841,0.0425245600536393,3.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7058,2.6327189427398285,2.63716632402687,4.800000000000182,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7114,7.594766723801795e-06,7.33422213449301e-06,3.200000000000045,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7170,9.700003138901909e-08,1.0313303966033228e-07,4.399999999999864,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7182,0.0954124026762721,0.0954123735887643,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7277,0.2521505136293186,0.2521307989537036,4.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7330,0.0855759074890406,9.724764028081415e-10,1.599999999999909,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7354,1.2061066928703915e-10,0.0,3.200000000000045,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7718,0.1756820169367331,0.1757046036208612,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,7786,0.1683193529154847,0.1682817822306108,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8025,0.0044993799805591,0.0047390718366201,5.599999999999909,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8092,0.0004533461720596,0.0004616550702889,2.0,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8318,0.606500314864174,0.6063813034227407,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8324,0.1723684007416546,0.1723770749037782,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8370,0.4211878496284581,0.0,2.7999999999999545,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8638,1.171114635478835,1.1712649924989738,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8788,0.1355734770941069,0.1356002531802857,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,8989,0.2606458077265354,0.2606476592339464,3.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9108,0.1575900023475587,0.1575783769401728,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9186,2.0311725661003965,2.0344451733207816,5.600000000000023,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9454,0.5915823173837641,0.5915919676859418,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9478,1.1897864963926843,1.189773034392552,3.200000000000045,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9517,0.4835654512299716,0.4838695802277273,7.2000000000000455,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,9910,0.1516282346558219,0.1516531902824348,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10062,4.157165420598708e-05,4.276362054185724e-05,2.400000000000091,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10244,0.6201695764975874,0.6203433147522152,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10364,0.122318696343117,0.1223049489927203,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10558,0.4868371143450445,0.4865586312946434,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10745,2.907185563499363,2.908265679745853,7.399999999999977,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10810,0.673120308776545,0.6731277199139227,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,10978,1.014076634477555,1.0134499818160685,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11062,0.6108654052814695,0.6115585318756648,3.200000000000045,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11116,0.4574221192101947,0.4574265340621831,3.200000000000045,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11138,0.1238799218641234,0.1238790813178228,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11162,1.579559303503038,1.5862101612407933,5.199999999999818,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11272,0.6134043166481178,0.6121695022747994,3.800000000000068,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11334,0.2326631336717274,0.2327087040808132,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11486,1.3378796887540552,1.3410020716918265,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11506,0.03218026442781,0.032179485656499,1.599999999999909,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11530,1.1087579163369214,1.113443694381813,4.399999999999864,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11690,0.4854268654931656,0.4854178472657899,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,11808,0.4701582802605432,0.4702628521306916,4.399999999999864,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,12066,0.2141025968372241,0.2141438685228969,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,12118,0.8084197599613893,0.8065541992187143,4.0,True,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13010,0.1296736132491137,0.1296718064035053,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13344,0.0451309737606823,0.0451332659305504,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13378,0.1575988664422251,0.157610800189003,1.2000000000000457,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13530,0.1808895740903418,0.1808890710673539,2.400000000000091,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13762,0.4252451371305287,0.4250046715548387,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,13909,0.2810699026736858,0.2810282758593529,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,14156,0.0291870786086802,0.0291414419994572,1.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,14818,0.0700683351332958,0.0700679520712398,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,14842,4.5804441494087605e-11,4.8234932898632605e-11,3.200000000000045,False,False,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15026,0.4910808087003183,0.4911417872262024,4.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15412,0.8317341043855417,0.8318677662961714,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15485,0.366506718000106,0.3665868982351681,3.6000000000001364,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15638,3.600234720939401e-05,3.604318222272902e-05,2.7999999999999545,False,True,False,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15864,0.1802482023073273,0.1802412542436124,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,15902,0.0490057450485148,0.0490074843883973,2.399999999999864,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,16093,0.3683008027010936,0.3681703988687097,2.7999999999999545,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,16155,0.2943181388882919,0.294306138024022,2.399999999999864,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+MM+TT,16338,0.0693846551726885,0.0693800297148534,2.0,True,True,True,"results/v3/dynamics_n6_limit_cycle_certified.csv (03f, stored)",
+COMP_C2_toggle,GG+TT,70,0.0001226123351776,0.0001292794796717,2.0,False,False,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,313,0.0388981483315131,0.0388948972944243,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,652,0.1384954896785968,0.1384831279115881,8.799999999999955,True,True,True,s2_certify_limit_cycles.py,8.799999999999955
+COMP_C2_toggle,GG+TT,962,0.3956827971515216,0.3958143905257916,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,GG+TT,1098,0.0354264339235701,0.0354264353134852,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,1856,0.0334525010930189,0.0334524719322808,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,1910,0.1337601075525658,0.1337499859493013,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,1920,0.218855013478252,0.2188233652810368,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+TT,1986,0.0256881026336653,0.0256878569842636,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+TT,2194,0.6443742063154839,0.6439109782194965,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+TT,2290,0.0900465189141213,9.592528507643597e-08,2.400000000000091,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,2386,0.079811446508879,0.0798064000131414,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+TT,2506,0.4683851323400557,0.4683734592994054,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+TT,2690,0.6645007404412823,0.6653002924132612,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+TT,2740,0.4802200627307714,0.4802925986330063,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+TT,3010,0.1946967993965009,0.1947046037473102,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,3606,0.5111831642037994,0.0,4.7999999999999545,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,3962,0.5560169677626519,0.5561039118405522,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,4378,0.7145689394984064,0.714983039243841,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+TT,4546,0.0045558343335012,0.0046134513841059,7.600000000000136,False,True,False,s2_certify_limit_cycles.py,7.600000000000136
+COMP_C2_toggle,GG+TT,5132,0.065757694939286,0.0657502370576543,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,5332,0.0921800886003624,0.092192609629945,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,5994,0.1857208104089699,0.1857217755492931,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+TT,6240,0.2085772106371583,0.2086050111229122,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,6530,0.0190309663662239,0.0190277671985624,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+TT,6790,0.2627468850113939,0.2628960919500245,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+TT,6814,0.1438735436506182,0.1438739651006433,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,6918,0.0583461447738653,0.0583521548867929,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,7044,0.1227171300597774,0.1235162120829044,8.399999999999864,True,True,True,s2_certify_limit_cycles.py,8.399999999999864
+COMP_C2_toggle,GG+TT,7194,0.0684793286311387,0.0684775620253589,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,7330,0.08696696726888,9.68814875250219e-10,1.599999999999909,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,7598,1.755419276424338,1.7537453381832573,3.3999999999999773,True,True,True,s2_certify_limit_cycles.py,3.3999999999999773
+COMP_C2_toggle,GG+TT,7606,0.0580010661542282,0.0579998709673872,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,8704,0.0374553163737218,0.037455736465755,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+TT,8770,0.1049314423700398,0.0,2.0,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,8788,0.0911783807027243,0.0911753498758606,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+TT,9186,2.18565747246381,2.1616296585061594,5.600000000000023,True,True,True,s2_certify_limit_cycles.py,5.600000000000023
+COMP_C2_toggle,GG+TT,9878,0.1817762777606853,0.1818054656684482,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,10062,0.0022901680624955,0.0023141474002686,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,10558,0.3401317027664038,0.3399612909961848,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,10786,0.1583321027418383,2.577836858833072e-06,5.599999999999909,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,11098,0.0431901900798815,0.0,2.0,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,11138,0.1241108651193638,0.124119145224533,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+TT,11258,0.6012407250488904,0.6004840177562913,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,11272,1.0383544429387357,1.0373187555532282,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+TT,11402,0.1332722461307553,0.1332740787267857,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,11906,1.4203920558000211,1.4222108429948657,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,11926,2.273172390448901e-06,2.34774409140584e-06,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+TT,12024,0.0595203899410769,0.0595522444341916,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,12276,0.1411334194809355,0.1411338955654332,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.199999999999818
+COMP_C2_toggle,GG+TT,12300,0.1247877983008855,0.1247786627270433,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,12877,0.0002087130550533,0.0002199922488237,8.0,False,False,False,s2_certify_limit_cycles.py,8.0
+COMP_C2_toggle,GG+TT,13094,0.0605318655861364,0.060532454087696,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,13594,0.226724696597272,0.2267277465666261,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+TT,13830,0.0702459265891768,0.0702467318456965,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,GG+TT,14156,0.0973603974877021,0.0973705795199317,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+TT,14268,7.48871855826542e-12,7.776469981878711e-12,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+TT,14562,6.179624950063967e-06,6.420004414627969e-06,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+TT,14626,1.8210044011828483,1.816785848282207,5.7999999999999545,True,True,True,s2_certify_limit_cycles.py,5.7999999999999545
+COMP_C2_toggle,GG+TT,15300,0.7659077979421726,0.766698999287057,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+TT,15482,9.16364397510752e-05,0.0001377578851212,,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+TT,15849,0.1028439644688633,0.1028509336136008,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,GG+TT,16158,1.4468052543246273,1.437912139018661,6.399999999999977,True,True,True,s2_certify_limit_cycles.py,6.399999999999977
+COMP_C2_toggle,GG+TT,16234,0.652953222960143,0.6532297437206656,6.0,True,True,True,s2_certify_limit_cycles.py,5.800000000000068
+COMP_C2_toggle,GG+TT,16350,0.0001746324095866,6.263875149362427e-05,,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,MM+TT,228,0.1920349075324937,0.1920343739379072,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,289,0.5584379471385008,0.5581424499551784,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,380,0.0826005603419666,0.0826075971050532,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,531,0.2207579568100798,0.220761357118372,1.6000000000000227,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,653,1.8121137543418195,1.8090420773886893,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,810,5.1336594324941064e-08,5.0206702802022244e-08,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,834,0.1561140973604175,0.1560700015736112,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,MM+TT,922,0.0013625031829668,0.0013618132281714,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,1032,0.0822005181603805,0.0822029143138745,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,MM+TT,1222,0.6585917298682531,0.6577895124583112,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,1298,0.072227497960119,0.0722288306533367,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,MM+TT,1684,0.1261356602892613,0.1261376387717521,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,1910,0.1392068860710108,0.1391816189847473,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,2090,0.4186064173934739,0.4186739988947781,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,MM+TT,2130,0.8032076569843377,0.8026989944965315,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,2162,0.1035184733199079,0.1035342559312289,3.200000000000045,True,False,False,s2_certify_limit_cycles.py,3.3999999999999773
+COMP_C2_toggle,MM+TT,2194,0.6599738843254274,0.6581118957667047,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,MM+TT,2197,0.2603832886677619,0.2603715865623447,8.799999999999955,True,True,True,s2_certify_limit_cycles.py,8.799999999999955
+COMP_C2_toggle,MM+TT,2212,0.0274059724561052,0.0274056161018998,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,2426,0.3533234156904865,0.3530335169607828,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,2523,0.2181489235992544,0.2180601693688276,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,2749,0.6060769654100575,0.6060635810489499,4.800000000000182,True,True,True,s2_certify_limit_cycles.py,4.800000000000182
+COMP_C2_toggle,MM+TT,2845,0.0796441491377071,0.0796415583699203,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,2860,0.553424895245317,0.5533556497307951,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,2941,0.2046204431926742,0.2046093719014899,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,3045,0.123091796643394,0.1230930518762861,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,3208,0.2032647768054337,0.2033106520142673,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,MM+TT,3400,0.1292085931058968,0.1292103527239591,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,3492,0.1847012462763873,0.1847785598468798,2.199999999999932,True,True,True,s2_certify_limit_cycles.py,2.199999999999932
+COMP_C2_toggle,MM+TT,3658,0.2455878384786939,0.2456539769340046,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,3840,0.0715690789784989,0.0715759660748122,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,3938,0.3786871108040049,0.378871879602888,3.800000000000068,True,True,True,s2_certify_limit_cycles.py,3.800000000000068
+COMP_C2_toggle,MM+TT,4046,0.5052343983450477,0.5051258385354562,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,4438,0.3937220987329243,0.3934067647402391,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,4494,0.5711514811225922,0.5719149826519582,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,MM+TT,4853,0.033378556910771,0.0332285148376141,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,4900,0.0445711775281231,0.044572856694995,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,5045,2.547688054343196,2.541986619482705,9.0,True,True,True,s2_certify_limit_cycles.py,9.0
+COMP_C2_toggle,MM+TT,5331,0.5518514410443935,0.5518930634736449,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,MM+TT,5609,0.6253685242264391,0.6262693824644882,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,5719,0.1766253202584215,0.1766322358509551,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,5958,0.3482054394006355,0.3481848927235756,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,MM+TT,6053,0.1898480108376714,0.1898612550729814,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,6072,9.142164627886268e-07,8.521727225119548e-07,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,6230,0.0001173887478515,0.000117965120336,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,6412,0.0911385014460499,0.091134705240996,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,6456,0.1012741183874528,0.1012904489210013,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,6484,0.0632235850321539,0.0632226127159192,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,6569,0.1225126174644222,0.1225022350307641,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,6666,0.2686025272259982,0.2686220375959801,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,6817,0.0668680053822005,0.0668724455118031,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,6962,0.4278715636909849,0.4279199591042099,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,7058,2.632828095765146,2.6400604877286784,5.800000000000068,True,True,True,s2_certify_limit_cycles.py,5.800000000000068
+COMP_C2_toggle,MM+TT,7114,7.719889581268517e-06,6.684261148208206e-06,3.200000000000045,False,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,7142,0.1525518032423403,0.1526137264154305,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,7170,1.6858310384387558e-06,1.6996216242297186e-06,4.399999999999864,False,True,False,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,MM+TT,7182,0.096468749649938,0.0964624937450629,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,MM+TT,7277,0.2606861968103876,0.2606197050196837,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,7330,0.0856424658518884,0.0856426214466536,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,7354,1.7109216985519384e-05,1.70376250752487e-05,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,7482,0.0534489927399915,0.0534524218719933,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,7718,0.2068322306560751,0.2069244163057592,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,7786,0.1683530295127711,0.1683354180649107,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,7821,1.2641499105334703e-11,1.3578690871468227e-11,3.200000000000045,False,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,8092,0.0005485738272526,0.0005564904398589,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,8318,0.606491184587002,0.6063848962351153,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,8324,0.1723983342792777,0.1724118524998688,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,8370,0.4217551318832538,0.4222437030632819,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,8638,1.1712229467139952,1.1712037807579978,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,8788,0.1356305174834793,0.1356328629512153,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,8794,1.1543135373664076e-06,1.2121971581045445e-06,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,8955,0.4139533098947685,0.4136374662225076,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,8989,0.2631956257671967,0.2632625548452453,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,MM+TT,9108,0.1577363321216442,0.1577277518305038,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,9186,2.0312168977659644,2.034802418400582,5.600000000000023,True,False,False,s2_certify_limit_cycles.py,4.800000000000182
+COMP_C2_toggle,MM+TT,9276,0.050228822616071,0.0502286697721496,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,9444,0.0846410152168222,0.0846412209665725,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,9454,0.594107061107476,0.5940045413819856,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,9478,1.1898548569917742,1.1892367068289,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,9870,0.0686348064582477,0.0686346583878596,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,9910,0.1517691111609999,0.1517509513720824,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,10062,4.946029041919576e-05,5.066056739225388e-05,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,10244,0.6201888203133521,0.6203754969822718,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,10364,0.1224549101509935,0.1224492774348262,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,10558,0.4868371337149339,0.4866077845214811,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,10745,2.910886727533344,2.9500388778190727,7.599999999999909,True,True,True,s2_certify_limit_cycles.py,7.399999999999977
+COMP_C2_toggle,MM+TT,10810,0.6735393284472541,0.6730242061073611,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,10938,0.0409426423631624,0.0409422309195101,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,11062,0.6108613218316397,0.6108228888367007,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,MM+TT,11074,2.568333832215393,2.558852017283194,6.800000000000068,True,False,False,s2_certify_limit_cycles.py,5.599999999999909
+COMP_C2_toggle,MM+TT,11098,0.0008953509733593,0.000890642830798,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,11115,0.0252789467076055,0.0252783824626797,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,MM+TT,11138,0.1239385343296652,0.1239378446051204,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,MM+TT,11162,1.579045508162191,1.5855937391366015,5.2000000000000455,True,False,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,MM+TT,11272,0.6520275627871839,0.6520083529820883,3.800000000000068,True,True,True,s2_certify_limit_cycles.py,3.800000000000068
+COMP_C2_toggle,MM+TT,11334,0.2341277926811784,0.2329619486862865,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,11486,1.3426414810007767,1.342444289443319,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,11506,0.0297400488506589,0.0297400237150844,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,11530,1.1087330131489543,1.1137623411593174,4.399999999999864,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,MM+TT,11686,1.843635673477425,1.842156641429953,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,MM+TT,11690,0.4932633836393761,0.4932488820367081,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,11727,0.0730414718413822,0.0730435722977345,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,MM+TT,12066,0.3095564625029046,0.3094952614323821,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,12118,0.8084164337693871,0.8064670076471763,4.0,True,True,True,s2_certify_limit_cycles.py,4.199999999999932
+COMP_C2_toggle,MM+TT,12148,0.2180047617689725,0.2180824530629936,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,12914,0.9673677938337898,0.9675342359463756,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,MM+TT,13010,0.1297015190699999,0.129731099112098,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,13310,0.1628966866254557,0.1628978636923875,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,13474,1.082696513927622,1.0819456002375905,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,13530,0.1808846441954937,0.1808824327388781,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,13654,0.0292665779148717,0.0140104284121722,1.599999999999909,False,False,False,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,13674,0.1405665318053436,0.1405795574972834,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,MM+TT,13716,0.1604031339040329,0.1603510994724239,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,13762,0.4320521099242477,0.4321692546071189,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,13875,0.3054987025676043,0.3055084152183542,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,13881,0.2317106685149329,0.2318962874451452,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,13909,0.2827802250970433,0.2826973592005833,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,14134,0.5695650979348996,0.5695448312432588,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,MM+TT,14156,0.0291978605067226,0.0291377348167126,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,MM+TT,14818,0.0701603881611857,0.070157342890104,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,14842,4.582596741734001e-11,4.818613702430988e-11,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,3.0
+COMP_C2_toggle,MM+TT,15026,0.4912788456637305,0.4913141809350793,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,MM+TT,15048,0.0263726830053765,0.0263670431297228,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,MM+TT,15412,0.831540984695583,0.8316053309240797,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,15485,0.0017389106740542,0.0018012019779633,3.599999999999909,False,True,False,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,MM+TT,15614,0.0898866514200376,0.089891634724109,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,MM+TT,15638,0.2751047459480915,0.2751057980073345,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,15864,0.1867101174586111,0.1867099871493999,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,MM+TT,16093,0.367490459948983,0.3674694654770645,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,MM+TT,16155,0.2780057115331298,0.2779959869853059,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,MM+TT,16298,0.7511463367911753,0.7513306371062966,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,MM+TT,16338,0.0693916934096495,0.0693869145471256,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,70,0.0001236504452961,0.0001284957917409,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,652,0.2084860406998999,0.2085349935033593,8.799999999999955,True,True,True,s2_certify_limit_cycles.py,8.799999999999955
+COMP_C2_toggle,TT,962,0.4322557081959025,0.4323190570106455,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,TT,1032,0.0652261819130495,0.0652290233870802,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_C2_toggle,TT,1098,0.0354266182103519,0.0354266207290886,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,1856,0.0338233219940038,0.0338217645363142,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,1910,0.1337598522731978,0.1337512767445837,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,1920,0.2207825699767167,0.2207424919827593,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,1986,0.0258066232062972,0.0258082589755363,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,2112,1.2647616905209116,1.2605807865851544,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,TT,2212,0.0292414258996382,0.0292414536711986,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,TT,2290,0.0910105683123383,0.0910102659741546,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,2386,0.0798727779644301,0.0798682111064792,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,3010,0.1979832811252259,0.1979743542416564,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,3201,0.2941608639030253,0.2942225171742225,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,TT,3208,0.27661001805088,0.2765922933446161,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,3606,0.5114686006876489,0.5115350562079328,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,TT,4068,0.1287832597097183,0.1287845202034954,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,4098,0.1140613631432025,0.1140874136992993,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,4118,0.2883098148204201,0.2882604464181386,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,4900,0.0327192683811772,0.0327191580414147,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,5026,0.4835329469196837,0.4836100310178386,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,TT,5132,0.0656269659929026,0.0656268473675822,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,5149,6.041902758642883e-10,6.30400262599576e-10,6.400000000000091,False,True,False,s2_certify_limit_cycles.py,6.400000000000091
+COMP_C2_toggle,TT,5332,0.0921963962397346,0.0922085347201024,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,5538,0.3674024092521173,0.3673626964876955,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,TT,5592,0.0898550489270614,0.0898603132207123,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.199999999999818
+COMP_C2_toggle,TT,6240,0.2086260566352666,0.2086778418513545,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,6362,3.3203367916548246e-09,3.7025484361386124e-09,6.199999999999932,False,False,False,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,TT,6380,0.0287044350878122,0.0287036099888042,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,6530,0.021009696044409,0.0210521043033572,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,TT,6738,1.8972594895026489,1.8949492387184816,2.199999999999932,True,True,True,s2_certify_limit_cycles.py,2.199999999999932
+COMP_C2_toggle,TT,6790,0.2737319464607005,0.2736302589621788,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,TT,6814,0.1440424168325058,0.1440268666022208,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,6918,0.0583529253505139,0.0583589021085911,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,6930,0.2055301076556259,0.2054595178961241,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,7044,0.1235980520308623,0.1242734530975473,8.399999999999864,True,True,True,s2_certify_limit_cycles.py,8.399999999999864
+COMP_C2_toggle,TT,7330,0.0870433316365015,0.0870433415101138,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,7482,0.0230699154114675,0.0230695782923294,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,TT,7598,1.7682886422331894,1.7651673701217228,3.200000000000045,True,False,False,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,TT,7606,0.0580977204086448,0.0580975749661501,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,7858,0.0978179482255095,0.0978142156175731,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,8770,0.1090190265666459,0.0,2.0,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,TT,8788,0.091275890992556,0.0912826129993002,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,9186,2.185912806750525,2.1624218779532485,5.600000000000023,True,True,True,s2_certify_limit_cycles.py,5.600000000000023
+COMP_C2_toggle,TT,9276,0.0532167329148744,0.0532144962148512,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,9878,0.1894735546496956,0.189476958901027,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,9974,1.8585889908597928,1.860874514749924,4.400000000000091,True,False,False,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,TT,10062,0.0027335196751031,0.0027543544940767,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,10558,0.3401042755067358,0.3399121100757207,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,10578,0.1279743801458022,0.127973964922491,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,10786,0.2101964864632317,0.2101951899993437,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_C2_toggle,TT,11098,0.0682403255318417,0.0,2.0,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,TT,11116,0.4669290569773466,0.4680588353939299,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,TT,11138,0.1241857315875658,0.1241973181822514,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,11272,1.1271403208733797,1.1275415744216406,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,TT,11808,0.3673141448668958,0.3674377900958388,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,TT,11884,0.022828755941908,0.0228282956109666,0.7999999999999545,True,True,True,s2_certify_limit_cycles.py,0.7999999999999545
+COMP_C2_toggle,TT,11906,1.420390811499572,1.4221985664680583,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,11926,2.4300526224002422e-06,2.466388008774192e-06,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,12024,0.0595588960364304,0.0595170012840389,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,12066,0.301911747814544,0.3016942183155351,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,TT,12276,0.1411337074190559,0.1411331674448491,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.199999999999818
+COMP_C2_toggle,TT,12300,0.1248796941358806,0.1248704292131785,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,13094,0.0606106804924459,0.060611605147509,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,13344,0.0660257329082177,0.0660255642631699,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,13518,1.82002510069876,1.820138059467293,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_C2_toggle,TT,13594,0.2277219023933229,0.2277419278439397,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,TT,13830,0.086730885745245,0.0867303633711995,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,TT,14156,0.0973668424105059,0.0973764811475703,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,TT,14162,0.3617512197363316,0.3617074221416752,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,TT,14268,7.366500393955866e-12,7.739493954499017e-12,1.6000000000001364,False,True,False,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,TT,14562,5.0170303014558895e-05,5.135891164738014e-05,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,14626,1.8139206734706568,1.8084685124658857,5.7999999999999545,True,True,True,s2_certify_limit_cycles.py,5.7999999999999545
+COMP_C2_toggle,TT,15108,0.0255774214721528,0.0255773647526819,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,15300,0.7685907714779436,0.7684293907991202,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,TT,15482,8.799215917741726e-12,4.672718229514516e-12,9.599999999999907,False,False,False,s2_certify_limit_cycles.py,9.599999999999907
+COMP_C2_toggle,TT,15849,0.1259523358655359,0.1259230235208797,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,TT,15882,2.1077352470257567,2.1048024068648727,5.600000000000023,True,False,False,s2_certify_limit_cycles.py,6.399999999999864
+COMP_C2_toggle,TT,15942,0.1058389160181806,0.1058673932399056,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,TT,16134,0.0379462195496575,0.0379462063207648,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,TT,16146,0.3220019433208477,0.3217035900452642,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,TT,16158,1.4514354344873974,1.4411318059746052,6.199999999999932,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,TT,16230,0.1833378876265655,0.1833701760762609,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,TT,16234,0.6457489164248621,0.645707348148032,5.600000000000136,True,True,True,s2_certify_limit_cycles.py,5.600000000000136
+COMP_I1_negfeedback,GG+MM+TT,213,0.1401223388857119,0.1403224259628611,4.399999999999864,True,False,False,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_I1_negfeedback,GG+MM+TT,473,0.0286165773486435,0.0286164709759765,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,1322,0.03051073129701,0.030509860148777,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,2194,0.0003368929632962,0.0003196619770612,3.200000000000045,False,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+MM+TT,3526,0.020636197333197,0.0206358748642727,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,GG+MM+TT,4142,0.141229951415461,0.1412315013162728,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+MM+TT,4214,0.2123051990768103,0.2123072220283081,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,4282,0.0391838302513897,0.0391827086869099,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,4470,0.0221244851433451,0.0221259519535619,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,5122,0.0246314507157224,0.024632658845365,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,5979,0.0439005052786928,0.0438984850862384,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.199999999999818
+COMP_I1_negfeedback,GG+MM+TT,6410,2.053243671815588,2.041883588589352,5.600000000000136,True,False,False,s2_certify_limit_cycles.py,6.7999999999999545
+COMP_I1_negfeedback,GG+MM+TT,7090,0.0473894506789639,0.0473864762024593,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+MM+TT,7426,0.0471692216978964,0.0471723953442081,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,7981,0.7955961627024581,0.795689095224068,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+MM+TT,8458,0.0602909711154439,0.0602322038366733,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+MM+TT,8582,0.0010454826503611,0.0010330775581949,2.399999999999864,False,True,False,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I1_negfeedback,GG+MM+TT,9021,0.0744145038872621,0.0744455735164272,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+MM+TT,9110,0.4790795997739434,0.4789348911669925,4.7999999999999545,True,False,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,GG+MM+TT,9978,0.0332962474207327,0.0332951361633086,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,10038,0.3310271002567694,0.3311514728973871,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+MM+TT,10230,0.0019113866348585,0.0019101180936391,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,10753,0.2365315854559868,0.2364821131560698,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I1_negfeedback,GG+MM+TT,10754,0.4344522372888124,0.4343933938912812,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+MM+TT,11021,1.4013196932734375,1.3981160372537251,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+MM+TT,11074,0.7803041083157137,0.77880160487754,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,11413,0.0519091338720101,0.051905630584999,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,11524,0.0298100888710177,0.0298103570394197,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,GG+MM+TT,11754,0.1544187528835226,0.1544354050990401,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+MM+TT,12957,0.7735881656115433,0.7740936342571328,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,GG+MM+TT,13086,0.1280517205403884,0.1280482836450793,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+MM+TT,13254,0.0320919665543902,0.032092023585542,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,GG+MM+TT,13980,0.460636207839555,0.460764568926635,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,14742,0.113404507139153,0.1133909076774195,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,GG+MM+TT,15140,0.1307150806873251,0.1307140863567961,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,GG+MM+TT,15974,0.3539110554669969,0.3538691177406707,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+MM+TT,16038,0.1057239404661797,0.1057115572669725,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+TT,213,0.0320507611861167,0.0062011177532022,4.0,False,False,False,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,GG+TT,1730,7.498035017528284e-10,7.807428553627353e-10,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+TT,3020,0.2527200682766365,0.2526405115267216,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+TT,3662,0.0081480715916915,0.0081627033212947,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,GG+TT,4054,0.1228718250488973,0.1198542879250356,2.400000000000091,True,False,False,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+TT,5280,0.0205132957737851,0.0205128497853023,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I1_negfeedback,GG+TT,6173,0.2128523299864159,0.2128263933463637,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+TT,7090,0.0526230395506524,0.0526247937047387,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,GG+TT,7426,0.0424517047039284,0.0424541653883932,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+TT,8458,0.3851692739197119,0.3850543474332776,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,GG+TT,8650,0.165241706720615,0.1652746457253998,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,GG+TT,9110,0.3647005462399041,0.3646585355500551,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I1_negfeedback,GG+TT,9189,0.7454933367831912,0.7454454376908201,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,GG+TT,10038,0.2236808326541902,0.2236791234623827,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+TT,10230,0.0016974446359978,0.0016963428235205,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+TT,10596,0.0519281742344532,0.0519288690844408,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,GG+TT,11074,0.5932454086090256,0.5922231628194944,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,GG+TT,11162,0.6468904456065081,0.6470275149215218,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_I1_negfeedback,GG+TT,11524,0.0362806294450452,0.0362805212405568,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,GG+TT,11754,0.1392922329168247,0.1393020919570917,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,GG+TT,13086,0.1336354577133665,0.1336387263073933,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,GG+TT,13254,0.0350783265895406,0.0350769266360093,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,GG+TT,14490,0.5570850003362139,0.5571741245338794,5.600000000000136,True,True,True,s2_certify_limit_cycles.py,5.600000000000136
+COMP_I1_negfeedback,GG+TT,15140,0.0342916431130494,0.0342895441486695,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,GG+TT,16114,0.1465291266897587,0.146549126749516,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,TT,50,0.408181042139446,0.4082493071961225,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,TT,141,0.0560046614248034,0.0558116016452182,3.6000000000001364,True,False,False,s2_certify_limit_cycles.py,3.800000000000068
+COMP_I1_negfeedback,TT,1652,0.0862906604660513,0.0862860972233508,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,TT,1661,3.64386196815204e-07,4.125933859457283e-07,4.0,False,False,False,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,TT,1730,9.285084468060883e-10,1.0106924938559656e-09,2.800000000000182,False,False,False,s2_certify_limit_cycles.py,2.800000000000182
+COMP_I1_negfeedback,TT,2430,0.0909353493442988,0.0909331966957748,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,TT,4054,0.1231504577033449,0.1231664360220836,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,TT,6173,0.2129083195062805,0.2129154481470326,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,TT,7090,0.0529580917611196,0.0529595119512631,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,TT,7426,0.0464003437690301,0.0464007858911528,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,TT,8458,0.5227407072035367,0.522869353356523,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,TT,8650,0.1652565199439992,0.1652902500410212,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,TT,8962,0.845470455949586,0.845308270299131,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,TT,9110,0.3733609201390227,0.373359807526708,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I1_negfeedback,TT,9189,0.7455610733349902,0.7452758275652357,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,TT,9369,9.7363467156509e-08,9.584624863652285e-08,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,TT,10830,0.0703732960787801,0.0703651894404702,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,TT,11074,0.6225808028374387,0.6228769085036941,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,TT,11162,0.6495704072636928,0.6495749115677292,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_I1_negfeedback,TT,11524,0.0362805870615518,0.0362804743226255,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,TT,12818,2.5270534029718115e-05,2.480417236152712e-05,3.199999999999818,False,True,False,s2_certify_limit_cycles.py,3.199999999999818
+COMP_I1_negfeedback,TT,13086,0.133641693380683,0.1336404809456893,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,TT,14490,0.557099246977579,0.5580505138700091,5.600000000000136,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I1_negfeedback,TT,14742,0.1258434415560268,0.1258433487577274,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,TT,14818,0.0639314900235206,0.063929462928574,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,TT,16106,0.1234091771345556,0.1233812558709372,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,12987,0.1696916895889147,0.0242835025803068,5.599999999999909,True,False,False,s2_certify_limit_cycles.py,5.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3c_TF1-|TF2,16171,0.1186211771542862,0.1190014071182382,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,TT,881,0.1002349090614499,0.1002646647586403,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,TT,1278,0.1465418597498414,0.1465223232507375,4.2000000000000455,True,True,True,s2_certify_limit_cycles.py,4.2000000000000455
+COMP_I3_allneg_TT,TT,1330,0.1465900529243669,0.1465426633575167,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I3_allneg_TT,TT,3117,1.8809887638886265,1.88331408576603,12.0,True,False,False,s2_certify_limit_cycles.py,14.0
+COMP_I3_allneg_TT,TT,5312,0.3648301086585003,0.3644199559004302,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,TT,5533,0.0229132321892527,0.0229119670130722,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,TT,5538,0.3288175605324379,0.3289684305987112,6.199999999999932,True,True,True,s2_certify_limit_cycles.py,6.199999999999932
+COMP_I3_allneg_TT,TT,6313,0.133854462191949,0.1338613670131907,7.399999999999977,True,True,True,s2_certify_limit_cycles.py,7.399999999999977
+COMP_I3_allneg_TT,TT,6738,0.4896219589181564,0.4898089042008743,2.0,True,False,False,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I3_allneg_TT,TT,6884,0.0321744040750634,0.0321763123047479,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,TT,8072,0.0286909597105802,0.0286910260820924,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,TT,8292,7.418326505140704e-07,9.06432734081992e-07,3.200000000000045,False,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,TT,8298,0.3045658331133388,0.3044229270190561,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I3_allneg_TT,TT,8606,0.2676244022789152,0.2672047522074442,6.0,True,True,True,s2_certify_limit_cycles.py,5.800000000000068
+COMP_I3_allneg_TT,TT,8638,1.3671976653213096,1.3715278938977271,4.0,True,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,TT,9337,1.1368543225397003,1.1332990333991924,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,TT,10134,0.078502856390973,0.0784891488711075,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,TT,10608,0.0233122636329991,0.0233126877037137,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I3_allneg_TT,TT,10620,0.0045215827530149,0.0048443580803508,6.0,False,False,False,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,TT,12914,0.2984937961571389,0.3000085314639996,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I3_allneg_TT,TT,13243,0.0992357191312836,0.0996655048755416,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,TT,13246,9.533358347268522e-05,0.0001015221339215,2.0,False,False,False,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,TT,13710,0.2699807617390906,0.2699723995246473,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,TT,14248,0.0513301923830961,0.0513266687204029,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,TT,14586,0.0293760686800938,0.0295612877890041,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,TT,15788,0.0872208411658383,0.0872229869098569,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I3_allneg_TT,TT,16082,0.2099844306531776,0.2100857827896185,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,core,6281,0.6336339767698117,0.6338644108895561,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,core,8571,0.1637689768700032,0.1639168651683625,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,18,0.0062196964287538,0.0064259748311044,3.599999999999909,False,True,False,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,36,2.478559572705629e-07,2.641794349364951e-07,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,144,0.0261528271018692,0.0261528619581515,0.7999999999999545,True,True,True,s2_certify_limit_cycles.py,0.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,196,2.3503267666938643e-08,2.3748113528417403e-08,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,228,0.1590306138122753,0.1590296151483911,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,252,0.9661689157020492,0.9703728430298408,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,289,0.5588173094736081,0.5582453597576591,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,323,0.0724011173918634,0.0723974391109753,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,334,2.160416223590019,2.1443459887342224,5.399999999999977,True,False,False,s2_certify_limit_cycles.py,4.800000000000182
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,356,7.58775626736648e-08,7.64115437312301e-08,2.399999999999864,False,True,False,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,362,0.3731826121834665,0.3729048302736104,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,366,0.0217087397271192,0.0217087294217938,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,420,0.0501776013521762,0.0501777157801158,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,473,0.6995781399159092,0.6989376809492374,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,502,0.0561956586320478,0.0561952774690996,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,531,0.0244964876687034,0.0244964800861123,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,538,1.3856941613635103,1.380544550281784,4.199999999999932,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,550,0.0440541801363367,0.0440524016387131,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,595,3.479348547848437e-10,3.7821444611255847e-10,4.0,False,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,653,1.1241365721565022,1.1235916157479726,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,730,0.0346304049494572,0.0346306970037847,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,782,0.0753673984626835,0.0109854064861195,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,834,0.0804498384114779,0.0804479793409424,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1018,0.1170755836203237,0.1170725148064132,8.0,True,True,True,s2_certify_limit_cycles.py,8.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1032,0.1925479911854196,0.192554496513289,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1150,1.2984516239274757,1.3019621067884286,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1222,0.6109059592042733,0.6108927224205971,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1596,0.0805985693214715,0.0166087353128316,1.2000000000000457,False,False,False,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1684,0.165622847415895,0.1656597532418483,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1696,2.776778752061942,2.771560790828751,4.7999999999999545,True,False,False,s2_certify_limit_cycles.py,6.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1740,0.2049664712342605,0.2049650494546178,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1750,0.0747317763769134,0.0747345240061128,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1804,2.4372446766610144e-10,2.5970000584233504e-10,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1812,0.0108425047169576,0.0111781156207643,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,1974,9.32144596500588e-05,9.621473018588263e-05,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2162,0.02866182312252,0.0285477971432469,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2165,0.1782912346273887,0.1781940679597188,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2206,0.206989354718061,0.2070310849967788,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2267,1.1886478269900014,1.1910644574388565,31.600000000000136,True,True,True,s2_certify_limit_cycles.py,31.600000000000136
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2514,0.041869508160286,0.0418695592764981,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2726,0.1535132655836432,0.1535089130959088,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2761,1.551386723540921,1.549518420278976,8.799999999999955,True,True,True,s2_certify_limit_cycles.py,8.799999999999955
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2889,0.4099170961092667,0.409796869955243,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,2926,0.0984690195436661,0.0984647207663673,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3261,0.0599652279801127,0.0600184303014035,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3317,1.7163959280408778,1.721379523024897,8.199999999999932,True,False,False,s2_certify_limit_cycles.py,9.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3344,0.2570467237472641,0.2568964340594619,5.399999999999977,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3368,1.061292128990979,1.0603895027685424,3.199999999999932,True,True,True,s2_certify_limit_cycles.py,3.199999999999932
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3506,0.0414700280214479,0.0414687717470038,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3545,0.1102288196291792,0.1102424547168038,3.3999999999999773,True,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3782,0.682364389704054,0.6827413238456861,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3840,0.0678658341415589,0.067863998895872,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3894,0.1082604954899824,0.1082490956813421,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,3962,0.1023474142401036,0.1023447308474234,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4068,0.4662984640189763,0.466283002026414,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4098,0.0557275300701472,0.0557265058330852,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4226,0.0051965651984272,0.0051965803506897,2.0,False,True,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4232,0.2785965729204717,0.2785838144013877,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4314,0.345489716279806,0.3454086058881243,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4378,0.7237915410515717,0.723613347395858,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4474,0.2877658467239046,0.2875372727871056,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4494,0.5469004713101101,0.547527877351029,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4546,0.0730968514018078,0.0730971287393607,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4643,0.1402296746362522,0.1370265344852631,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4840,3.394244890485456e-07,2.463484814790553e-07,,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,4918,0.0484162233224374,0.0484174925975588,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5045,2.8738365116376245,2.8444270942320378,7.600000000000136,True,False,False,s2_certify_limit_cycles.py,9.400000000000093
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5109,0.2175770693565375,0.217608545190647,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5218,0.1033138479119177,0.1033045427899987,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5277,0.4799403371426118,0.4799102529162906,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5287,0.0713879737643999,0.0713768046785111,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5331,0.9977301157755648,0.9917646959121936,9.200000000000044,True,False,False,s2_certify_limit_cycles.py,10.400000000000093
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5538,0.670761490808987,0.6700100440244969,5.399999999999977,True,True,True,s2_certify_limit_cycles.py,5.399999999999977
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5653,0.0208358484005438,0.0208367058071722,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5768,0.0078698702647991,0.0078695214115101,4.400000000000091,False,True,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5802,0.1914194011176072,0.1914094180500349,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5810,0.6528744915785832,0.6531741829670661,6.0,True,False,False,s2_certify_limit_cycles.py,5.600000000000136
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5950,0.4020610859576805,0.4022164180615066,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,5994,0.2562828392291613,0.2564357496256303,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6053,0.2003961394039605,0.2003913013756945,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6072,0.0008012670790863,0.0007803058769834,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6105,0.2751748018119525,0.275154405018127,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6182,0.4776841836671395,0.4775008755994446,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6230,0.0010228891273554,0.0010193783506859,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6353,0.0245263683728275,0.0245262823837454,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6362,1.5303963003244998,1.530297782475309,9.599999999999907,True,True,True,s2_certify_limit_cycles.py,9.599999999999907
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6371,0.1091841487645546,0.1090860625780042,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6387,0.1498489297242738,0.1496359860392031,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6398,0.2758226853717111,0.2760818653462054,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6484,0.0601085786738769,0.0601134381871437,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6636,0.0502775972775285,0.050282766623804,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6666,0.0770062548336686,0.0770249470525595,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6716,0.1536993834746594,0.1537172444483125,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6730,0.1426472015419943,0.1426139540389308,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6733,0.0359901855200591,0.0359966575067553,7.599999999999909,True,True,True,s2_certify_limit_cycles.py,7.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6851,0.1895505426971124,0.18956914188327,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6875,0.1607641213372562,0.1608511729798394,4.800000000000182,True,False,False,s2_certify_limit_cycles.py,5.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,6986,2.934275251925203e-05,3.173840787969218e-05,4.7999999999999545,False,False,False,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7046,0.1129401195651596,0.1129670489169855,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7058,2.5839813842345807,2.576075246261113,5.800000000000068,True,True,True,s2_certify_limit_cycles.py,5.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7110,0.0826733842094138,0.0826696070184853,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7114,8.721227887932973e-06,8.417228900206243e-06,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7116,0.0471425187725993,0.0471426897653604,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7226,1.758200783048678,1.7613495298280717,5.600000000000023,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7330,0.0664975761166774,0.0665014031595201,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7521,1.086756354272019,1.0854292811779038,3.6000000000001364,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7563,0.0191951847749266,0.0193043881891353,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7606,0.0205081926053755,0.0204992302876813,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7752,0.0808740269832173,0.0808126971161585,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7821,0.9342025026839794,0.9318082280817118,3.3999999999999773,True,True,True,s2_certify_limit_cycles.py,3.3999999999999773
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7833,0.098713397870523,0.0987197142904816,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7894,0.2698847309951719,0.270165276483316,7.599999999999909,True,True,True,s2_certify_limit_cycles.py,7.600000000000023
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7950,0.2486258717719437,0.0994661064408243,2.0,True,False,False,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7957,0.2432565822823409,0.2431229579409863,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,7978,0.8848498889530608,0.1879338960892649,3.3999999999999773,True,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8292,0.3838590038271833,0.3837490691771851,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8311,1.213297132217021,1.2141028449397973,3.0,True,False,False,s2_certify_limit_cycles.py,3.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8318,0.5561548541409211,0.5560345236690118,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8324,0.1498517331394197,0.1498580967089766,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8559,0.0864710307580939,0.08647388142363,0.7999999999999545,True,True,True,s2_certify_limit_cycles.py,0.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8562,0.1064080831923536,0.1064199168274455,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8630,0.3375748989801891,0.3376487973565659,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8638,2.739524188811221,2.737757572227198,2.800000000000182,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8696,0.1346103186324386,0.1345562386700103,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8741,0.1216203974172722,0.1215884940983568,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8748,0.2692069612385571,0.2692300106035782,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,8908,0.7649988509696417,0.764665871911415,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9186,0.3775196001843861,0.3774485204075491,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.600000000000023
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9291,0.1023058250828821,0.1022938325269611,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9382,0.1171099392881119,0.1170898091904603,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9384,0.3503325102881193,0.3503350816213732,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9402,0.8335415816677827,0.8336269189455495,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9495,2.2226595136045595,2.1694020266337253,22.19999999999993,True,True,True,s2_certify_limit_cycles.py,22.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9596,0.0549535361902432,0.0549542347356523,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9636,0.0439539087186159,0.0439542967999483,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,9949,0.2789788835131178,0.2789247897182684,6.400000000000091,True,True,True,s2_certify_limit_cycles.py,6.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10180,0.8395287681686293,0.8409409375452798,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10244,0.7735886825118392,0.7735327887426219,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10261,0.0758296264668436,0.0758318051227549,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10323,0.0316793683477131,0.0316806461124917,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10329,0.2607581964674375,0.2609177490767312,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10521,0.0915771124403014,0.0915966375070486,9.200000000000044,True,False,False,s2_certify_limit_cycles.py,12.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10558,0.4096337828610707,0.4093996097375094,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10591,1.700466573000782,1.701026576143242,2.199999999999932,True,True,True,s2_certify_limit_cycles.py,2.199999999999932
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10806,0.4765029302139257,0.476510425082758,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10810,0.4221770486377403,0.4223423122942879,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10928,0.1286068317960255,0.1286061281789893,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,10978,0.4051483515919852,0.40510681985353,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11014,1.958594490043177,1.954237879693812,4.600000000000023,True,True,True,s2_certify_limit_cycles.py,4.600000000000023
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11034,2.6929240928150526,2.6820528287783025,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11054,0.0759030653577034,0.0759102447390899,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11062,1.0434926459991385,1.0435780284287388,4.199999999999932,True,True,True,s2_certify_limit_cycles.py,4.199999999999932
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11115,0.0634916765898123,0.0635030868806483,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11116,0.5123200967599117,0.512220365179757,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11170,0.6603367981621083,0.6603163858394964,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11267,0.051752371876378,0.0517522195788493,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11328,0.1333884207409574,0.1333738962871712,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11334,0.0364160001657909,0.0364148725422738,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11471,5.983876616309949e-09,7.776076374191926e-09,4.0,False,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11526,0.2016839173647497,0.2017371854728638,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11530,0.9882547893382252,0.9873064427850629,4.0,True,False,False,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11639,0.3743610471240752,0.3742951320258347,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11686,1.682977515833866,1.680865553225251,4.399999999999977,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11690,1.2830757265912536,1.2832374708619922,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11705,0.0703750784198773,0.0703755519738515,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11727,0.2216938108414717,0.221691748115155,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11736,1.2491700703500212e-05,1.2853747275003262e-05,6.0,False,True,False,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11748,0.0244516228480464,0.0244507073194252,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11884,0.0482060566918185,0.0482060281688343,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,11902,6.107952498543901e-10,6.05877528195888e-10,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12096,0.261496892537288,0.2615443277460249,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12118,0.7202877253620463,0.7219699485622644,4.199999999999932,True,True,True,s2_certify_limit_cycles.py,4.199999999999932
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12146,0.00233245071017,0.0023408296298077,3.599999999999909,False,True,False,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12352,0.1744385257729693,0.1744286290831177,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12381,0.1304665534671826,0.1304653781826026,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12426,3.0839136754152072,3.083787371310982,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,12966,0.0683499735366411,0.0683495328781935,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13006,0.0051797177178049,0.0051805782812329,1.599999999999909,False,True,False,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13010,0.0478284604762793,0.0478293806514997,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13170,1.150185636440496,1.1496524936580808,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.399999999999977
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13286,0.0215140184715103,0.0215140144375925,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13344,0.0758878067170464,0.0758875184265801,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13413,3.484241784012364e-07,7.995472048349866e-09,,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13442,0.080391403797494,0.080391410006633,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13530,0.1701261562273883,0.1701180478946575,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13646,0.033614471048994,0.0336604075846139,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13674,0.4202753636651242,0.4201010474055483,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13759,0.2725595908921864,0.2726493529961636,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13864,0.0333533441945611,0.0333531870667385,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13881,0.247653012879874,0.2475205217367634,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13909,0.0368820078792768,0.0368862453152241,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13936,0.0695819057670287,0.0695796477539557,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13941,0.0284113388690302,0.0284109710972883,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,13994,1.6281208563776184,1.6284610890848312,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14064,0.2277229440372778,0.2277093575133702,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14139,0.9479025232160868,0.946666340997355,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14162,0.0376028836027062,0.0376026504489428,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14174,0.0666722631553343,0.0666763207371156,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14300,0.6183152130521795,0.6181577878443689,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14436,0.1714977546279908,0.1715001840390262,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14574,0.6555443651568237,0.655521549331673,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14586,0.1864683881325306,0.1864374159789985,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14621,2.1682696871991265,2.1612646502536896,3.6000000000001364,True,False,False,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14629,0.0501585296859922,0.0505975977823764,6.399999999999864,True,True,True,s2_certify_limit_cycles.py,6.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14710,0.0569511128250712,0.0569508303631432,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14722,0.223237321011216,0.0,2.399999999999864,False,False,False,s2_certify_limit_cycles.py,
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14752,0.6952350579652428,0.6951328048706699,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14774,0.0184847879889081,0.0184849860225929,4.399999999999864,False,True,False,s2_certify_limit_cycles.py,4.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14852,1.0356732647104507,1.0365353304544156,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14886,0.3197042439870533,0.3197054114368542,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,14933,0.4163519923582813,0.4162727671632485,3.6000000000001364,True,True,True,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15035,0.0533073091240799,0.0533072531221487,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15391,0.0425788011725651,0.0439785760943762,8.399999999999864,True,True,True,s2_certify_limit_cycles.py,8.399999999999864
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15594,0.0493145936349857,0.0493130425602955,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15604,0.0777905444496786,0.0777821207258672,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15705,1.2554188650165383,1.257106186285094,5.199999999999818,True,True,True,s2_certify_limit_cycles.py,5.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15730,0.5994383591501673,0.5976319263293797,7.2000000000000455,True,True,True,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15770,1.0693057306013396,1.0699053951765227,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.3999999999999773
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15849,0.2751776642276169,0.2750898531269931,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,15976,1.7509427372299415,1.7486008849289345,11.200000000000044,True,True,True,s2_certify_limit_cycles.py,11.200000000000044
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16134,0.051647396974174,0.051650091008385,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16155,1.6730787077556806,1.6743570835993733,3.199999999999818,True,False,False,s2_certify_limit_cycles.py,2.800000000000182
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16178,0.1011700275969994,0.1011344849390977,5.199999999999818,True,True,True,s2_certify_limit_cycles.py,5.199999999999818
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16230,0.0340171133674575,0.0340191522875414,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.3999999999999773
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16276,1.200347804354144,1.2042375658304094,16.600000000000023,True,True,True,s2_certify_limit_cycles.py,16.600000000000023
+COMP_C2_toggle,GG+MM+TT_S3b_TF2-|G1,16377,0.1169380572960898,0.116938497641678,5.199999999999818,True,True,True,s2_certify_limit_cycles.py,5.199999999999818
+COMP_I3_allneg_TT,GG+MM+TT,653,1.491995203381152,1.4934208596542755,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM+TT,881,0.010766337764067,0.0107649577993355,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+MM+TT,1287,0.0706754760602902,0.070661898600341,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM+TT,1350,0.0725350568530696,0.0128557919548784,8.0,False,False,False,s2_certify_limit_cycles.py,8.0
+COMP_I3_allneg_TT,GG+MM+TT,1556,0.0323971480182482,0.0323986933040402,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I3_allneg_TT,GG+MM+TT,1837,1.314160460494829,1.3079793798404902,8.400000000000091,True,True,True,s2_certify_limit_cycles.py,8.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,1957,0.0719657507062663,0.0719654010592664,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+MM+TT,2003,0.97035164994665,0.968855451550539,7.2000000000000455,True,False,False,s2_certify_limit_cycles.py,7.599999999999909
+COMP_I3_allneg_TT,GG+MM+TT,2278,1.3330222498301088,1.3352519952827338,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+MM+TT,2426,0.5281547520277924,0.5286780052261569,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,GG+MM+TT,2438,4.5701635232738645e-09,5.790261780138487e-09,1.6000000000001364,False,False,False,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I3_allneg_TT,GG+MM+TT,2761,0.2412872636607355,0.2413138991461959,9.200000000000044,True,True,True,s2_certify_limit_cycles.py,9.200000000000044
+COMP_I3_allneg_TT,GG+MM+TT,2981,0.2279592427255244,0.2279718542431194,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM+TT,3000,0.7941639418941834,0.7963911691912218,6.399999999999977,True,True,True,s2_certify_limit_cycles.py,6.399999999999977
+COMP_I3_allneg_TT,GG+MM+TT,3297,1.3181543989868378,1.3209237171403247,4.999999999999886,True,True,True,s2_certify_limit_cycles.py,5.0
+COMP_I3_allneg_TT,GG+MM+TT,4019,0.0014952449696833,0.0014931742564858,1.2000000000000457,False,True,False,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+MM+TT,4666,0.741927497402989,0.7447562086965732,5.600000000000136,True,False,False,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,GG+MM+TT,5312,0.3293289957671221,0.3293728973143066,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM+TT,5533,0.0130831419505278,0.0130832977126703,2.400000000000091,False,True,False,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,5538,0.3631443184657767,0.3629292477501307,6.399999999999864,True,True,True,s2_certify_limit_cycles.py,6.199999999999932
+COMP_I3_allneg_TT,GG+MM+TT,5647,0.0150930494349817,0.0150935470251576,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+MM+TT,5679,0.1661993376793792,0.1661411654789189,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,6146,9.788288589920667e-07,1.7193626864893362e-06,8.0,False,False,False,s2_certify_limit_cycles.py,8.0
+COMP_I3_allneg_TT,GG+MM+TT,6393,0.4200084494652671,0.4199180066784332,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,6398,0.0441179060787214,0.0441184226288493,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+MM+TT,6651,0.0696669500724318,0.0696551385446061,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+MM+TT,6738,0.3599981198890392,0.3601693969925135,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+MM+TT,6790,0.1633559657822132,0.1633247279117488,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,GG+MM+TT,7339,0.0677704524943663,0.0678162944305028,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM+TT,7812,0.0414546739281619,0.0414535538031139,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+MM+TT,8065,0.0727171712588185,0.0727180678312243,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,8292,0.3878603669187264,0.3882298934327683,3.199999999999818,True,True,True,s2_certify_limit_cycles.py,3.199999999999818
+COMP_I3_allneg_TT,GG+MM+TT,8355,0.0226473417488547,0.0226455712236703,1.199999999999818,True,True,True,s2_certify_limit_cycles.py,1.199999999999818
+COMP_I3_allneg_TT,GG+MM+TT,8362,0.4973965991567048,0.4979649605023229,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I3_allneg_TT,GG+MM+TT,8611,2.36639395077118e-07,7.169925607705904e-07,1.2000000000000457,False,False,False,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+MM+TT,9657,1.1264615767846458,1.1245599717961725,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,9730,0.3989347416912982,0.3981972502715475,5.199999999999818,True,True,True,s2_certify_limit_cycles.py,5.0
+COMP_I3_allneg_TT,GG+MM+TT,10435,0.0060365264228201,0.0060488788158308,5.600000000000136,False,True,False,s2_certify_limit_cycles.py,5.600000000000136
+COMP_I3_allneg_TT,GG+MM+TT,10578,0.0555317259348205,0.0157544185942321,2.0,False,False,False,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+MM+TT,10978,0.162471657382138,0.1625097672230736,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I3_allneg_TT,GG+MM+TT,11550,0.2137230184370817,0.2138095307277184,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG+MM+TT,11733,0.0177364024850713,0.017736347948584,4.400000000000091,False,True,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,12637,2.669979889639864e-06,2.83700521437416e-06,2.7999999999999545,False,False,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG+MM+TT,12780,0.1027743719904644,0.101326459064022,2.0,True,False,False,s2_certify_limit_cycles.py,1.8000000000000682
+COMP_I3_allneg_TT,GG+MM+TT,13066,0.4919310035364765,0.4920558297930555,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+MM+TT,13243,0.1118943346612005,0.1119068048902155,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,13994,1.0592973701753168,1.0577235816938104,4.600000000000023,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,14646,0.0265227801886512,0.0265234271145222,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I3_allneg_TT,GG+MM+TT,15613,0.0644509707020124,0.0644521905235816,6.400000000000091,True,True,True,s2_certify_limit_cycles.py,6.400000000000091
+COMP_I3_allneg_TT,GG+MM+TT,15788,0.1824070257793857,0.1823678185330074,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I3_allneg_TT,GG+TT,881,0.0097751077731567,0.0097727296560088,4.399999999999864,False,True,False,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,GG+TT,1298,0.0548587528022846,0.0548538491724071,2.800000000000182,True,True,True,s2_certify_limit_cycles.py,2.800000000000182
+COMP_I3_allneg_TT,GG+TT,1784,0.1821671380276836,0.1820904218091527,7.2000000000000455,True,True,True,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_I3_allneg_TT,GG+TT,2278,1.3531781689461615,1.3461713734253644,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,GG+TT,2327,0.2124119713547865,0.2123044428391594,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG+TT,3225,0.231245256639398,0.2312436056485183,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I3_allneg_TT,GG+TT,3368,0.3136229983889029,0.3137403077677408,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+TT,5132,0.1301515703335372,0.1301503014901619,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I3_allneg_TT,GG+TT,5538,0.3265937087119513,0.3266224651539352,6.199999999999932,True,True,True,s2_certify_limit_cycles.py,6.199999999999932
+COMP_I3_allneg_TT,GG+TT,5679,0.8560956609645084,0.8560824893843989,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,GG+TT,6313,0.1339395948158741,0.1338231223150934,6.800000000000182,True,False,False,s2_certify_limit_cycles.py,7.399999999999977
+COMP_I3_allneg_TT,GG+TT,6738,0.3982560205544964,0.3982400772055863,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+TT,6790,0.0967452500041861,0.0967555181565224,5.199999999999818,True,True,True,s2_certify_limit_cycles.py,5.199999999999818
+COMP_I3_allneg_TT,GG+TT,7812,0.0498690669744476,0.0498696701294582,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+TT,8606,2.788909720246664,2.66778264236583,23.600000000000023,True,True,True,s2_certify_limit_cycles.py,23.600000000000023
+COMP_I3_allneg_TT,GG+TT,8611,9.815046269296477e-08,9.187872560795244e-07,1.2000000000000457,False,False,False,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+TT,8638,1.3600707000441647,1.3569264432779566,3.6000000000000227,True,True,True,s2_certify_limit_cycles.py,3.6000000000000227
+COMP_I3_allneg_TT,GG+TT,9369,0.7410649581453791,0.7401846395242138,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,GG+TT,10364,0.333820261790601,0.3333436802470734,5.2000000000000455,True,True,True,s2_certify_limit_cycles.py,5.2000000000000455
+COMP_I3_allneg_TT,GG+TT,10620,0.0008620475481459,0.0009489404298748,6.0,False,False,False,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,GG+TT,10696,0.0383852689768342,0.038385249130137,0.7999999999999545,True,True,True,s2_certify_limit_cycles.py,0.7999999999999545
+COMP_I3_allneg_TT,GG+TT,11550,0.1954220129755124,0.1956897002447048,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG+TT,11906,0.1605185343379434,0.1605574463171625,2.399999999999864,True,True,True,s2_certify_limit_cycles.py,2.399999999999864
+COMP_I3_allneg_TT,GG+TT,12066,1.4649876650565143,1.466472237913096,6.199999999999932,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,GG+TT,12514,0.2221871894026684,0.222186764914647,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,GG+TT,12914,0.8563664575757853,0.8602643863690117,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I3_allneg_TT,GG+TT,13243,0.0736755609354454,0.0736812798759799,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG+TT,13246,0.0837759695930349,0.0837700967538638,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+TT,13508,6.931677993268488e-13,9.004752672918946e-06,1.2000000000000457,False,False,False,s2_certify_limit_cycles.py,
+COMP_I3_allneg_TT,GG+TT,14179,0.5512410733515501,0.5512858374029947,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,GG+TT,14586,0.0284718818126606,0.0286880002794026,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+TT,14650,0.0014892665728581,0.001510803923022,1.2000000000000457,False,True,False,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I3_allneg_TT,GG+TT,15412,0.0794922536926444,0.0794920570455334,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+TT,16082,0.2249337033919995,0.224905657177216,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,MM+TT,50,0.178188443887708,0.1783191041925585,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,MM+TT,141,0.0590420392199191,0.0590420267534794,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,MM+TT,213,0.1438862589917859,0.1438520677982324,3.6000000000001364,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,MM+TT,531,0.0424482375168894,0.0424481541948498,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,MM+TT,622,0.0264216745291475,0.026421358629495,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,1322,0.0305121047414471,0.0305121177296526,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,2022,0.0236049549793392,0.0236051372359616,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,MM+TT,2162,0.0255585030671835,0.0255595810943764,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,2194,0.0003117843513604,0.0002983955698798,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,MM+TT,3437,0.0388857914780201,0.0388860429016131,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,MM+TT,3526,0.2068519605896186,0.2068969459766599,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,3662,0.0656054648230319,0.0656059598693489,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,3862,0.505229794075145,0.5045777420811942,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I1_negfeedback,MM+TT,4214,0.2123121001772354,0.2123981441704099,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,4470,0.0232212169691332,0.023221752494405,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,MM+TT,4546,0.0018096993023475,0.0018340130180051,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,MM+TT,5122,0.0246461742140336,0.0246464520332599,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,MM+TT,7090,0.0476303688097264,0.0476348057858737,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,MM+TT,7426,0.0509035305812263,0.0509004157957642,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,MM+TT,7981,0.7975702271717988,0.7965785594918982,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,MM+TT,8458,0.227186594943505,0.2272917223215728,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,MM+TT,8582,0.533909922596879,0.533846237733682,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,9110,0.4834141729556542,0.4833392097244885,4.7999999999999545,True,False,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I1_negfeedback,MM+TT,9978,0.0334134969034937,0.0334118100239757,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,10413,0.0498057662625519,0.0498060029012489,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,10754,0.442504087419563,0.4427753529473851,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I1_negfeedback,MM+TT,11021,1.4304535668051788,1.4345386871474324,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I1_negfeedback,MM+TT,11074,0.7925082023435213,0.7919570020648554,3.599999999999909,True,True,True,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I1_negfeedback,MM+TT,11173,0.1673845256471169,0.1674139672908606,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,11413,0.0726159896784885,0.0726169313909581,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I1_negfeedback,MM+TT,11434,0.0285454195992852,0.0285441377803338,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I1_negfeedback,MM+TT,11524,0.0298097086683054,0.0298108725335072,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,MM+TT,11910,0.0321315672598755,0.0321318564764807,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I1_negfeedback,MM+TT,12957,0.7737321186268157,0.7746446463869184,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I1_negfeedback,MM+TT,13086,0.1280548230291676,0.1280592039888342,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364
+COMP_I1_negfeedback,MM+TT,13237,0.036106351933203,0.0361061336256281,1.2000000000000457,True,True,True,s2_certify_limit_cycles.py,1.2000000000000457
+COMP_I1_negfeedback,MM+TT,14772,0.3708266601852005,0.3710723273318908,5.599999999999909,True,True,True,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I1_negfeedback,MM+TT,15974,0.3552890148876505,0.3552865562822864,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG,773,0.0015336816504312,0.0016967164065465,3.200000000000045,False,False,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG,1784,0.1872517550043192,0.1871259466330282,7.2000000000000455,True,True,True,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_I3_allneg_TT,GG,2162,0.00257481224415,0.0024789938467439,2.7999999999999545,False,True,False,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG,2823,0.0174628860502243,0.0174629012760265,3.599999999999909,False,True,False,s2_certify_limit_cycles.py,3.599999999999909
+COMP_I3_allneg_TT,GG,5605,1.1789375597094758,1.1800003289170369,8.0,True,True,True,s2_certify_limit_cycles.py,8.0
+COMP_I3_allneg_TT,GG,6612,0.9068443539529144,0.9048090936281834,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,GG,7099,1.0139248796710951,1.0085223680952369,8.0,True,False,False,s2_certify_limit_cycles.py,9.200000000000044
+COMP_I3_allneg_TT,GG,9337,0.9657741252220498,0.9721262414957256,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,GG,9369,0.7472677105532817,0.7471881853091433,4.399999999999864,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,GG,9858,0.0728967991334334,0.0728779567151371,6.800000000000182,True,False,False,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_I3_allneg_TT,GG,10645,0.0639559413184838,0.0639321412360434,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG,11988,1.5084343273488356,1.5082283064278614,8.400000000000091,True,True,True,s2_certify_limit_cycles.py,8.400000000000091
+COMP_I3_allneg_TT,GG,12285,0.6525344793031145,0.6525211963490407,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,GG,14621,1.7728152508339216e-05,1.7626570473744114e-05,7.2000000000000455,False,True,False,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_I3_allneg_TT,GG,15031,0.1073348579209692,0.1073104980209499,4.399999999999977,True,True,True,s2_certify_limit_cycles.py,4.399999999999864
+COMP_I3_allneg_TT,GG+MM,2801,0.021550979495105,0.0215512522620141,3.200000000000045,True,True,True,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM,3047,0.0123996485471527,0.0123996958779058,3.200000000000045,False,True,False,s2_certify_limit_cycles.py,3.200000000000045
+COMP_I3_allneg_TT,GG+MM,6281,0.7885354313932335,0.785251871056092,4.7999999999999545,True,True,True,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,GG+MM,6461,0.0327105396930016,0.0327088940569051,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,GG+MM,8121,0.8460808282420944,0.8415879660868915,9.199999999999818,True,True,True,s2_certify_limit_cycles.py,8.799999999999955
+COMP_I3_allneg_TT,GG+MM,14308,0.021473671853527,0.021474112342439,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,MM,12465,0.1125206753430563,0.112474710936162,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_C2_toggle,TT_S3c_TF1-|TF2,3689,4.088934070707646e-07,4.385930253104007e-07,7.2000000000000455,False,False,False,s2_certify_limit_cycles.py,7.2000000000000455
+COMP_C2_toggle,TT_S3c_TF1-|TF2,5129,0.3348853420557958,0.33476177715003613,6.400000000000091,True,True,True,s2_certify_limit_cycles.py,6.400000000000091
+COMP_I3_allneg_TT,MM+TT,400,0.11273695794439219,0.11273898893808382,2.3999999999998636,True,True,True,s2_certify_limit_cycles.py,2.3999999999998636
+COMP_I3_allneg_TT,MM+TT,1278,0.17229942738400542,0.1722875859811256,4.2000000000000455,True,False,False,s2_certify_limit_cycles.py,3.6000000000001364
+COMP_I3_allneg_TT,MM+TT,1350,0.11955771279292773,0.11955507423126242,8.200000000000045,True,True,True,s2_certify_limit_cycles.py,8.200000000000045
+COMP_I3_allneg_TT,MM+TT,2761,0.2587531308860609,0.2587533469935086,8.800000000000182,True,True,True,s2_certify_limit_cycles.py,9.199999999999818
+COMP_I3_allneg_TT,MM+TT,2981,0.4208588756125116,0.42151422226917695,3.2000000000000455,True,True,True,s2_certify_limit_cycles.py,3.2000000000000455
+COMP_I3_allneg_TT,MM+TT,3000,0.8037260703369019,0.802514665527853,6.0,True,False,False,s2_certify_limit_cycles.py,6.399999999999977
+COMP_I3_allneg_TT,MM+TT,3297,1.3182286302082333,1.3175957511869694,5.0,True,True,True,s2_certify_limit_cycles.py,5.0
+COMP_I3_allneg_TT,MM+TT,4321,0.4941382569567708,0.49336251066443837,4.0,True,False,False,s2_certify_limit_cycles.py,4.599999999999909
+COMP_I3_allneg_TT,MM+TT,4575,0.10557811272392598,0.10558774625710544,1.2000000000000455,True,True,True,s2_certify_limit_cycles.py,1.2000000000000455
+COMP_I3_allneg_TT,MM+TT,4666,0.742889039755124,0.7424812311239251,6.000000000000114,True,True,True,s2_certify_limit_cycles.py,6.000000000000114
+COMP_I3_allneg_TT,MM+TT,5719,0.1011067450497355,0.10108623980018562,5.199999999999818,True,False,False,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,MM+TT,5970,0.3422184089126568,0.34246965862034706,4.399999999999864,True,False,False,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,MM+TT,6393,0.41395397049321836,0.41390115122731974,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,MM+TT,6398,0.33373726007473103,0.33382513801394026,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I3_allneg_TT,MM+TT,6412,0.05107026105252567,0.051069937167630704,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,MM+TT,6651,0.06902051175430281,0.0690229692936197,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,MM+TT,6790,0.18805361659117234,0.18785874318990886,4.800000000000182,True,True,True,s2_certify_limit_cycles.py,4.800000000000182
+COMP_I3_allneg_TT,MM+TT,6941,0.006486971220323606,0.006327827028463163,4.0,False,True,False,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,MM+TT,7142,0.5405651969006943,0.5401658754967096,8.400000000000091,True,True,True,s2_certify_limit_cycles.py,8.400000000000091
+COMP_I3_allneg_TT,MM+TT,7377,0.22005291065804852,0.2200206298059412,1.599999999999909,True,True,True,s2_certify_limit_cycles.py,1.599999999999909
+COMP_I3_allneg_TT,MM+TT,8065,0.05391809408737409,0.05391929365338278,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,MM+TT,8292,0.3968347054593387,0.3973086048176472,3.2000000000000455,True,True,True,s2_certify_limit_cycles.py,3.2000000000000455
+COMP_I3_allneg_TT,MM+TT,8362,0.36519750044672133,0.3650719608634958,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,MM+TT,8469,0.13887545729290207,0.13889997687096295,4.7999999999999545,True,False,False,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,MM+TT,9048,0.46881587478741094,0.4680644688865017,5.0,True,True,True,s2_certify_limit_cycles.py,5.199999999999818
+COMP_I3_allneg_TT,MM+TT,9657,1.0855007092800666,1.086938577654005,4.400000000000091,True,True,True,s2_certify_limit_cycles.py,4.400000000000091
+COMP_I3_allneg_TT,MM+TT,9730,0.39570023943260596,0.39481577862341705,5.0,True,True,True,s2_certify_limit_cycles.py,5.0
+COMP_I3_allneg_TT,MM+TT,10067,0.020850278857062598,0.020850942239899018,1.2000000000000455,True,True,True,s2_certify_limit_cycles.py,1.2000000000000455
+COMP_I3_allneg_TT,MM+TT,10244,0.6163209428292941,0.6160512870888634,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,MM+TT,10370,0.26686343940570895,0.2671740238035859,6.0,True,False,False,s2_certify_limit_cycles.py,6.399999999999977
+COMP_I3_allneg_TT,MM+TT,10445,0.03252614707088439,0.03268472936211613,2.400000000000091,True,True,True,s2_certify_limit_cycles.py,2.400000000000091
+COMP_I3_allneg_TT,MM+TT,10978,0.12496169569824839,0.12494770668042768,2.3999999999998636,True,True,True,s2_certify_limit_cycles.py,2.3999999999998636
+COMP_I3_allneg_TT,MM+TT,12465,0.1131237753578122,0.11312569635944286,6.0,True,True,True,s2_certify_limit_cycles.py,6.0
+COMP_I3_allneg_TT,MM+TT,12914,2.50670494937729e-05,1.961610085302479e-05,5.599999999999909,False,False,False,s2_certify_limit_cycles.py,5.599999999999909
+COMP_I3_allneg_TT,MM+TT,12983,0.02255592726045098,0.02255558210763285,0.7999999999999545,True,True,True,s2_certify_limit_cycles.py,0.7999999999999545
+COMP_I3_allneg_TT,MM+TT,13066,0.4769482306168606,0.47686812509181287,4.0,True,True,True,s2_certify_limit_cycles.py,4.0
+COMP_I3_allneg_TT,MM+TT,13246,5.095484078388167e-06,5.621940205873675e-06,2.0,False,False,False,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,MM+TT,13373,0.022005544151987837,0.0,2.400000000000091,False,False,False,s2_certify_limit_cycles.py,
+COMP_I3_allneg_TT,MM+TT,13619,0.2171389699838527,0.21718606466897075,2.0,True,True,True,s2_certify_limit_cycles.py,2.0
+COMP_I3_allneg_TT,MM+TT,14050,0.4679843736653062,0.46827037869082166,2.7999999999999545,True,True,True,s2_certify_limit_cycles.py,2.7999999999999545
+COMP_I3_allneg_TT,MM+TT,14842,3.7460514888661414,3.7426825322783737,9.0,True,True,True,s2_certify_limit_cycles.py,9.0
+COMP_I3_allneg_TT,MM+TT,15613,0.05853878282836636,0.05853460804403543,6.400000000000091,True,True,True,s2_certify_limit_cycles.py,6.400000000000091
+COMP_I3_allneg_TT,MM+TT,15875,0.2732266128588989,0.27323237122548694,1.2000000000000455,True,True,True,s2_certify_limit_cycles.py,1.2000000000000455
+COMP_I3_allneg_TT,MM+TT,16082,3.5472243883479935e-05,3.673861948027073e-05,4.7999999999999545,False,True,False,s2_certify_limit_cycles.py,4.7999999999999545
+COMP_I3_allneg_TT,MM+TT,16134,0.024614210772167616,0.024614617987146564,1.2000000000000455,True,True,True,s2_certify_limit_cycles.py,1.2000000000000455
+COMP_I3_allneg_TT,MM+TT,16318,0.1255222635159396,0.1255061268798623,1.6000000000001364,True,True,True,s2_certify_limit_cycles.py,1.6000000000001364

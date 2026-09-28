@@ -1,0 +1,135 @@
+{
+  "ffl_table": {
+    "3-miR": {
+      "tf_incl": 0,
+      "mir_incl": 1593,
+      "comp": 0,
+      "tf_excl": 0,
+      "mir_excl": 1593,
+      "total_excl": 1593,
+      "total_incl": 1593
+    },
+    "3-TF": {
+      "tf_incl": 1303,
+      "mir_incl": 67,
+      "comp": 4,
+      "tf_excl": 1299,
+      "mir_excl": 63,
+      "total_excl": 1366,
+      "total_incl": 1370
+    },
+    "3-Comp": {
+      "tf_incl": 1380,
+      "mir_incl": 1443,
+      "comp": 1380,
+      "tf_excl": 0,
+      "mir_excl": 63,
+      "total_excl": 1443,
+      "total_incl": 2823
+    },
+    "4-TF": {
+      "tf_incl": 0,
+      "mir_incl": 0,
+      "comp": 0,
+      "tf_excl": 0,
+      "mir_excl": 0,
+      "total_excl": 0,
+      "total_incl": 0
+    },
+    "5-TF": {
+      "tf_incl": 0,
+      "mir_incl": 0,
+      "comp": 0,
+      "tf_excl": 0,
+      "mir_excl": 0,
+      "total_excl": 0,
+      "total_incl": 0
+    },
+    "6-TF": {
+      "tf_incl": 8,
+      "mir_incl": 0,
+      "comp": 0,
+      "tf_excl": 8,
+      "mir_excl": 0,
+      "total_excl": 8,
+      "total_incl": 8
+    },
+    "UNION": {
+      "tf_incl": 1481,
+      "mir_incl": 1684,
+      "comp": 1472,
+      "tf_excl": 9,
+      "mir_excl": 212,
+      "total_excl": 1693,
+      "total_incl": 3165
+    }
+  },
+  "n_raw_labels_sif": 803,
+  "n_raw_labels_attr": 803,
+  "n_raw_labels_union": 803,
+  "n_canon_nodes": 587,
+  "node_types": {
+    "Gene": 207,
+    "TF": 157,
+    "miRNA": 223
+  },
+  "n_edges": 6860,
+  "edge_classes": {
+    "TF_target": 771,
+    "TF_miRNA": 1239,
+    "gene_gene": 1,
+    "miRNA_target": 4819,
+    "miRNA_miRNA": 30
+  },
+  "n_recip": 1223,
+  "n_mir_raw": 439,
+  "n_mir_ci": 224,
+  "n_both_cases": 215,
+  "jaccard": [
+    [
+      "hsa-mir-130a",
+      "hsa-miR-130a",
+      8,
+      50,
+      0,
+      58,
+      0.0
+    ],
+    [
+      "hsa-mir-21",
+      "hsa-miR-21",
+      27,
+      13,
+      0,
+      40,
+      0.0
+    ],
+    [
+      "hsa-mir-124",
+      "hsa-miR-124",
+      11,
+      46,
+      0,
+      57,
+      0.0
+    ],
+    [
+      "hsa-mir-29a",
+      "hsa-miR-29a",
+      15,
+      32,
+      1,
+      46,
+      0.021739130434782608
+    ],
+    [
+      "hsa-mir-34a",
+      "hsa-miR-34a",
+      23,
+      9,
+      0,
+      32,
+      0.0
+    ]
+  ]
+}

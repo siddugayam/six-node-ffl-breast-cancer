@@ -1,0 +1,4 @@
+test,estimate,se,statistic,p,detail
+logistic: is_FFL_hub | degree + node type,-0.5586,0.4839,-1.154,0.2483355808522396,log-odds of being a driver node
+logistic: log(FFL participation+1) | degree + node type,0.0548,0.1535,0.357,0.7210568933000973,log-odds of being a driver node
+degree-matched resampling of FFL hubs,-0.107,0.0464,,0.0110988901109889,driver rate 0.133 vs degree-matched 0.240

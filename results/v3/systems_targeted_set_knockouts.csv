@@ -1,0 +1,9 @@
+set_name,members,n,dFFL,dReach,dCOL_signed,composite_damage,sum_of_single_damages,synergy,ratio_to_best_single,all_druggable,n_druggable
+miR-29 family,hsa-miR-29a;hsa-miR-29b;hsa-miR-29c,3,0.090358,0.007941,0.023332,0.040544,0.043306,-0.002762,0.8638,False,0
+miR-29/collagen module,hsa-miR-29a;hsa-miR-29b;hsa-miR-29c;COL1A1;COL3A1,5,0.09339,0.007959,,0.033783,0.045529,-0.011746,0.7198,False,2
+NF-kB module (RELA+NFKB1),RELA;NFKB1,2,0.218921,0.015801,0.006492,0.080405,0.084656,-0.004251,1.7131,True,2
+"top3 FFL hubs (SP1,RELA,NFKB1)",SP1;RELA;NFKB1,3,0.3396,0.015834,0.009357,0.121597,0.13159,-0.009994,2.5908,True,3
+top5 FFL hubs,SP1;RELA;NFKB1;VEGFA;CCND2,5,0.489994,0.01587,-0.013397,0.173087,0.202829,-0.029742,3.6878,True,5
+best druggable pair (RELA+SP1),RELA;SP1,2,0.248636,0.010615,0.008722,0.089324,0.092939,-0.003615,1.9032,True,2
+MKL1 + miR-143 (most synergistic),MKL1;hsa-miR-143,2,0.010916,0.0,0.099996,0.036971,0.030225,0.006746,0.7877,False,0
+miR-17-92 seed cluster,hsa-miR-17;hsa-miR-18a;hsa-miR-19a;hsa-miR-19b;hsa-miR-20a,5,0.128563,0.0,-0.013331,0.047298,0.04621,0.001088,1.0077,False,0

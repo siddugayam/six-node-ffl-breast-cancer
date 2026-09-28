@@ -1,0 +1,3 @@
+network,primary_seeds,converged_seeds,stalled_seed_sizes,consensus_size,prior30_in_consensus,hyper_p,zmatched_null_mean,p_zmatched,COL1A1_in,COL3A1_in,miR29abc_converged_seeds_selecting
+full,10,10,"",205,19,0.00106,20.23,0.9678,TRUE,FALSE,0/0/0
+nolegacy,10,9,2,121,9,0.142,12.2,0.9605,TRUE,FALSE,1/0/1

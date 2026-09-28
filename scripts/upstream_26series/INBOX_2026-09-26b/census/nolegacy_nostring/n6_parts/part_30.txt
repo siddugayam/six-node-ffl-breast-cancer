@@ -1,0 +1,64 @@
+K 6
+nparts 64
+part 30
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 30604
+visited 24138048
+rng_final 42
+comp 1 3 2 2
+comp 2 1 3 1
+comp 2 2 2 335
+comp 2 3 1 1703
+comp 3 1 2 478
+comp 3 2 1 13103
+comp 3 3 0 49
+comp 4 0 2 70
+comp 4 1 1 7353
+comp 4 2 0 2042
+comp 5 0 1 1442
+comp 5 1 0 3454
+comp 6 0 0 572
+mask 2 572
+mask 3 1512
+mask 6 2470
+mask 7 54
+mask 14 7270
+mask 15 11176
+mask 20 6
+mask 21 6
+mask 22 3069
+mask 23 1219
+mask 27 46
+mask 28 168
+mask 29 73
+mask 30 1449
+mask 31 1509
+mask 47 5
+flags 0 27818
+flags 1 82
+flags 2 329
+flags 3 252
+flags 6 4
+flags 8 1039
+flags 10 31
+flags 11 1
+flags 24 1035
+flags 26 12
+flags 30 1
+exflag 0 ETV4 CCND2 hsa-miR-200b SMAD7 MYC hsa-let-7a
+exflag 0 ETV4 CCND2 hsa-miR-200b SMAD7 MYC hsa-let-7b
+exflag 0 ETV4 CCND2 hsa-miR-200b SMAD7 MYC hsa-let-7c
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-106a IRF9
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-142 IRF9
+exflag 1 ETV4 CCND2 ETS1 EGR1 hsa-miR-20b IRF9
+exflag 2 HSF1 NFKB1 COL1A1 COL3A1 RELA hsa-let-7b
+exflag 2 HSF1 NFKB1 COL1A1 COL3A1 RELA hsa-let-7e
+exflag 2 HSF1 NFKB1 COL1A1 COL3A1 RELA hsa-miR-29a
+exflag 3 ETV4 CCND2 ETS1 EGR1 HIF1A hsa-miR-183 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-183 target=CCND2
+exflag 3 ETV4 CCND2 ETS1 EGR1 HIF1A hsa-miR-96 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-96 target=CCND2
+exflag 3 ETV4 CCND2 ETS1 EGR1 hsa-let-7e hsa-miR-183 | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-183 target=CCND2
+exflag 4 ETV4 ETS1 EGR1 FLI1 TGFBR2 hsa-miR-181c | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-181c target=TGFBR2
+exflag 4 ETV4 ETS1 EGR1 HIF1A TGFBR2 hsa-miR-181c | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-181c target=TGFBR2
+exflag 4 ETV4 ETS1 EGR1 TGFBR2 hsa-miR-106a hsa-miR-181c | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-181c target=TGFBR2

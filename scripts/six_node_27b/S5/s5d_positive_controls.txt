@@ -1,0 +1,30 @@
+MYC/E2F-miR-17~92: 20 of 22 edges present; network sign agrees with the literature sign for 18; present but unsigned 2; present with the opposite sign 0
+ZEB/SNAIL-miR-200: 10 of 21 edges present; network sign agrees with the literature sign for 10; present but unsigned 0; present with the opposite sign 0
+MYC/E2F-miR-17~92: key roles [{'TF1': 'E2F1', 'TF2': 'MYC', 'miR1': 'hsa-miR-17'}, {'TF1': 'E2F1', 'TF2': 'MYC', 'miR1': 'hsa-miR-20a'}]; key node sets [{'E2F1', 'MYC', 'hsa-miR-17'}, {'E2F1', 'MYC', 'hsa-miR-20a'}]; key pairs [{'E2F1', 'hsa-miR-17'}, {'E2F1', 'hsa-miR-20a'}]
+   BHAT6 composite: role assignments with the key roles 0; containing a key node set 0; containing a key pair 34 (of 3898)
+   MODEL6 FULL: role assignments with the key roles 0; containing a key node set 28; containing a key pair 92 (of 336)
+   MODEL6 DEF: role assignments with the key roles 310; containing a key node set 2372; containing a key pair 6332 (of 45666)
+   CENSUS6 (c)-with-core modules containing a key node set 2260; containing a key pair 6148 (of 210115)
+   typed three-node cores (analysed network, 1,774) containing a key pair: 4; containing a key node set: 0
+   those cores (u -> v -> t): [('E2F1', 'hsa-miR-17', 'CDCA7'), ('E2F1', 'hsa-miR-17', 'VEGFA'), ('E2F1', 'hsa-miR-20a', 'CDCA7'), ('E2F1', 'hsa-miR-20a', 'VEGFA')]
+ZEB/SNAIL-miR-200: key roles [{'TF1': 'ZEB2', 'miR1': 'hsa-miR-200a'}, {'TF1': 'ZEB2', 'miR1': 'hsa-miR-200b'}, {'TF1': 'ZEB2', 'miR1': 'hsa-miR-200c'}, {'TF1': 'ZEB2', 'miR1': 'hsa-miR-141'}, {'TF1': 'ZEB2', 'miR1': 'hsa-miR-429'}]; key node sets [{'ZEB2', 'SNAI1', 'hsa-miR-200a'}, {'ZEB2', 'SNAI1', 'hsa-miR-200b'}, {'ZEB2', 'SNAI1', 'hsa-miR-200c'}, {'ZEB2', 'SNAI1', 'hsa-miR-141'}, {'ZEB2', 'SNAI1', 'hsa-miR-429'}]; key pairs [{'ZEB2', 'hsa-miR-200a'}, {'ZEB2', 'hsa-miR-200b'}, {'ZEB2', 'hsa-miR-200c'}, {'ZEB2', 'hsa-miR-141'}, {'ZEB2', 'hsa-miR-429'}]
+   BHAT6 composite: role assignments with the key roles 0; containing a key node set 0; containing a key pair 0 (of 3898)
+   MODEL6 FULL: role assignments with the key roles 0; containing a key node set 0; containing a key pair 0 (of 336)
+   MODEL6 DEF: role assignments with the key roles 0; containing a key node set 0; containing a key pair 0 (of 45666)
+   CENSUS6 (c)-with-core modules containing a key node set 3; containing a key pair 20 (of 210115)
+   typed three-node cores (analysed network, 1,774) containing a key pair: 0; containing a key node set: 0
+   those cores (u -> v -> t): []
+sign configuration of the typed three-node cores containing a key pair (TF -> miRNA, TF -> target; miRNA -> target is -):
+   E2F1 -> hsa-miR-17 (+), E2F1 -> CDCA7 (+), hsa-miR-17 -| CDCA7; reciprocal hsa-miR-17 -| E2F1: - -> COMP_I1
+   E2F1 -> hsa-miR-17 (+), E2F1 -> VEGFA (-), hsa-miR-17 -| VEGFA; reciprocal hsa-miR-17 -| E2F1: - -> COMP_C4
+   E2F1 -> hsa-miR-20a (+), E2F1 -> CDCA7 (+), hsa-miR-20a -| CDCA7; reciprocal hsa-miR-20a -| E2F1: - -> COMP_I1
+   E2F1 -> hsa-miR-20a (+), E2F1 -> VEGFA (-), hsa-miR-20a -| VEGFA; reciprocal hsa-miR-20a -| E2F1: - -> COMP_C4
+CENSUS6 seeds with TF1=E2F1, TF2=MYC, m=hsa-miR-17: 2 (targets t: ['CDCA7', 'VEGFA']); modules containing such a seed: 1018
+   loop E2F1 -> MYC -> hsa-miR-17 -| E2F1 signs: E2F1->MYC + (TF_target (TRRUST census layer)), MYC->hsa-miR-17 unsigned, hsa-miR-17->E2F1 -
+CENSUS6 seeds with TF1=E2F1, TF2=MYC, m=hsa-miR-20a: 2 (targets t: ['CDCA7', 'VEGFA']); modules containing such a seed: 1018
+   loop E2F1 -> MYC -> hsa-miR-20a -| E2F1 signs: E2F1->MYC + (TF_target (TRRUST census layer)), MYC->hsa-miR-20a unsigned, hsa-miR-20a->E2F1 -
+ZEB2 / hsa-miR-200a: reciprocal ZEB2 -| hsa-miR-200a (-) and hsa-miR-200a -| ZEB2 (-); common targets of ZEB2 and hsa-miR-200a in the analysed network: []
+ZEB2 / hsa-miR-200b: reciprocal ZEB2 -| hsa-miR-200b (-) and hsa-miR-200b -| ZEB2 (-); common targets of ZEB2 and hsa-miR-200b in the analysed network: []
+ZEB2 / hsa-miR-200c: reciprocal ZEB2 -| hsa-miR-200c (-) and hsa-miR-200c -| ZEB2 (-); common targets of ZEB2 and hsa-miR-200c in the analysed network: []
+ZEB2 / hsa-miR-141: reciprocal ZEB2 -| hsa-miR-141 (-) and hsa-miR-141 -| ZEB2 (-); common targets of ZEB2 and hsa-miR-141 in the analysed network: []
+ZEB2 / hsa-miR-429: reciprocal ZEB2 -| hsa-miR-429 (-) and hsa-miR-429 -| ZEB2 (-); common targets of ZEB2 and hsa-miR-429 in the analysed network: []

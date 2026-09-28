@@ -1,0 +1,67 @@
+K 6
+nparts 64
+part 5
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 12219
+visited 5032146
+rng_final 42
+comp 1 2 3 21
+comp 1 3 2 837
+comp 1 4 1 151
+comp 2 1 3 25
+comp 2 2 2 1289
+comp 2 3 1 5516
+comp 2 4 0 2
+comp 3 0 3 2
+comp 3 1 2 430
+comp 3 2 1 2702
+comp 3 3 0 435
+comp 4 0 2 92
+comp 4 1 1 391
+comp 4 2 0 297
+comp 5 0 1 13
+comp 5 1 0 16
+mask 3 107
+mask 6 8
+mask 7 136
+mask 11 11
+mask 14 867
+mask 15 1263
+mask 18 6
+mask 19 40
+mask 20 243
+mask 21 35
+mask 22 480
+mask 23 128
+mask 26 26
+mask 27 168
+mask 28 3800
+mask 29 535
+mask 30 2885
+mask 31 1326
+mask 78 30
+mask 79 12
+mask 86 13
+mask 92 26
+mask 93 10
+mask 94 64
+flags 0 10836
+flags 1 1186
+flags 2 32
+flags 3 103
+flags 8 56
+flags 24 6
+exflag 0 PPARA LPL STAT5A ESR1 hsa-miR-143 hsa-miR-29a
+exflag 0 PPARA LPL STAT5A ESR1 hsa-miR-143 hsa-miR-29b
+exflag 0 PPARA LPL STAT5A ESR1 hsa-miR-143 hsa-miR-29c
+exflag 1 PPARA SERPINE1 SREBF2 PPARG hsa-miR-142 KLF10
+exflag 1 PPARA SERPINE1 SREBF2 PPARG hsa-miR-17 KLF10
+exflag 1 PPARA SERPINE1 SREBF2 PPARG hsa-miR-19a KLF10
+exflag 3 PPARA LPL STAT5A SP1 NFKB1 hsa-miR-29b | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-29b target=LPL
+exflag 3 PPARA LPL STAT5A SP1 NFKB1 hsa-miR-29c | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-29c target=LPL
+exflag 3 PPARA SERPINE1 STAT5A SP1 E2F1 hsa-miR-34c | TF1=SP1 TF2=E2F1 miRNA=hsa-miR-34c target=SERPINE1
+exflag 4 PPARA LPL STAT5A SP1 NFKB1 hsa-miR-29b | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-29b target=LPL
+exflag 4 PPARA LPL STAT5A SP1 NFKB1 hsa-miR-29c | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-29c target=LPL
+exflag 4 PPARA SERPINE1 STAT5A SP1 E2F1 hsa-miR-34c | TF1=SP1 TF2=E2F1 miRNA=hsa-miR-34c target=SERPINE1

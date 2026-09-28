@@ -1,0 +1,9 @@
+{
+ "min_n": 30,
+ "n_cohorts": 31,
+ "n_paired_samples": 9309,
+ "gene_rows_total": 20531,
+ "gene_rows_extracted": 283,
+ "mirna_rows": 743,
+ "missing_genes": []
+}

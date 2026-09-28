@@ -1,0 +1,292 @@
+### bionet_01_bum_and_scan.R
+graph: V= 587  E= 5636  components= 1 
+nodes with p: 576 / 587  (missing: CTSV,hsa-miR-103,hsa-miR-1193,hsa-miR-203,hsa-miR-300,hsa-miR-367,hsa-miR-4295,hsa-miR-448,hsa-miR-487,hsa-miR-544,hsa-miR-613 )
+BUM genes genome-wide      n=20250  lambda=0.1871  a=0.0226  negLL=-644299.63
+BUM genes network-only     n=  363  lambda=0.0687  a=0.0172  negLL=-17875.08
+BUM miRNAs all             n=  495  lambda=0.2164  a=0.0303  negLL=-10885.03
+BUM miRNAs network-only    n=  213  lambda=0.1191  a=0.0227  negLL=-7326.14
+BUM genes+miRNAs pooled    n=20745  lambda=0.1880  a=0.0227  negLL=-655168.35
+null device 
+          1 
+       fdr      tau_gene       tau_mir n_pos module_n n_mir n_neg_in_mod
+     <num>         <num>         <num> <int>    <int> <int>        <int>
+ 1:  1e-01  4.269346e-01  3.471939e-01   545      545   197            0
+ 2:  1e-02  3.706093e-02  2.958365e-02   486      485   170            1
+ 3:  1e-03  3.484780e-03  2.729724e-03   446      444   154            1
+ 4:  1e-04  3.301645e-04  2.537888e-04   414      413   146            1
+ 5:  1e-05  3.130498e-05  2.361312e-05   388      384   132            1
+ 6:  1e-06  2.968446e-06  2.197187e-06   361      362   125            3
+ 7:  1e-07  2.814804e-07  2.044484e-07   340      341   118            3
+ 8:  1e-08  2.669116e-08  1.902396e-08   323      325   114            4
+ 9:  1e-09  2.530969e-09  1.770183e-09   314      314   105            3
+10:  1e-10  2.399973e-10  1.647158e-10   303      303   101            3
+11:  1e-11  2.275756e-11  1.532683e-11   292      294    94            4
+12:  1e-12  2.157968e-12  1.426165e-12   277      276    90            3
+13:  1e-13  2.046277e-13  1.327049e-13   268      263    85            2
+14:  1e-14  1.940367e-14  1.234821e-14   254      251    80            2
+15:  1e-15  1.839938e-15  1.149003e-15   244      241    75            2
+16:  1e-18  1.568778e-18  9.257052e-19   213      210    65            3
+17:  1e-20  1.410588e-20  8.015065e-21   206      205    63            4
+18:  1e-25  1.081427e-25  5.591045e-26   165      161    43            4
+19:  1e-30  8.290754e-31  3.900128e-31   137      140    36            6
+20:  1e-40  4.872905e-41  1.897801e-41   101       96    24            4
+21:  1e-50  2.864058e-51  9.234694e-52    68       67    17            7
+22:  1e-60  1.683355e-61  4.493599e-62    48       45    13            4
+23:  1e-80  5.815184e-82  1.063991e-82    24       23     5            3
+24: 1e-100 2.008867e-102 2.519310e-103    12        6     2            1
+       fdr      tau_gene       tau_mir n_pos module_n n_mir n_neg_in_mod
+     <num>         <num>         <num> <int>    <int> <int>        <int>
+    module_score has_COL1A1 has_COL3A1 has_EZH2 has_miR29a has_miR101
+           <num>     <lgcl>     <lgcl>   <lgcl>     <lgcl>     <lgcl>
+ 1:   26780.8228       TRUE       TRUE     TRUE       TRUE       TRUE
+ 2:   25544.7397       TRUE       TRUE     TRUE       TRUE       TRUE
+ 3:   24383.3256       TRUE       TRUE     TRUE       TRUE       TRUE
+ 4:   23428.3950       TRUE       TRUE     TRUE       TRUE       TRUE
+ 5:   22311.0359       TRUE       TRUE     TRUE      FALSE       TRUE
+ 6:   21453.4124       TRUE       TRUE     TRUE      FALSE       TRUE
+ 7:   20642.0821       TRUE       TRUE     TRUE      FALSE       TRUE
+ 8:   19890.3826       TRUE       TRUE     TRUE      FALSE       TRUE
+ 9:   19155.3994       TRUE       TRUE     TRUE      FALSE       TRUE
+10:   18444.5839       TRUE       TRUE     TRUE      FALSE       TRUE
+11:   17908.8176       TRUE       TRUE     TRUE      FALSE       TRUE
+12:   17088.9043       TRUE       TRUE     TRUE      FALSE      FALSE
+13:   16447.9604       TRUE       TRUE     TRUE      FALSE      FALSE
+14:   15855.2213       TRUE       TRUE     TRUE      FALSE      FALSE
+15:   15287.6293       TRUE       TRUE     TRUE      FALSE      FALSE
+16:   13606.4906       TRUE      FALSE     TRUE      FALSE      FALSE
+17:   12652.6903       TRUE      FALSE     TRUE      FALSE      FALSE
+18:   10507.7608       TRUE      FALSE     TRUE      FALSE      FALSE
+19:    8758.5973       TRUE      FALSE     TRUE      FALSE      FALSE
+20:    5865.5838       TRUE      FALSE     TRUE      FALSE      FALSE
+21:    3877.7504      FALSE      FALSE     TRUE      FALSE      FALSE
+22:    2493.6619      FALSE      FALSE     TRUE      FALSE      FALSE
+23:    1016.7460      FALSE      FALSE     TRUE      FALSE      FALSE
+24:     239.7733      FALSE      FALSE    FALSE      FALSE      FALSE
+    module_score has_COL1A1 has_COL3A1 has_EZH2 has_miR29a has_miR101
+           <num>     <lgcl>     <lgcl>   <lgcl>     <lgcl>     <lgcl>
+### bionet_02_main.R
+size rule: module <= 58 nodes (10% of 587); primary FDR = 1.63e-54 -> 58 nodes
+core-matrisome/collagen nodes present in network (n=17): ASPN, COL18A1, COL1A1, COL3A1, COL7A1, FBN1, FGL2, FN1, IGFBP4, IGFBP5, LTBP1, POSTN, SPARC, SPP1, TGFBI, THBS1, THBS2
+         run          fdr module_n frac_of_network n_gene  n_TF n_miRNA
+      <char>        <num>    <int>           <num>  <int> <int>   <int>
+1:   primary 1.625315e-54       58       0.0988075     24    19      15
+2: sens_vign 1.000000e-03      444       0.7563884    167   123     154
+3:  sens_mid 1.000000e-25      161       0.2742760     66    52      43
+   overlap_pri30 expected_pri30 fold_pri30      p_pri30 n_ecm  fold_ecm
+           <int>          <num>      <num>        <num> <int>     <num>
+1:            13       2.964225   4.385632 7.479732e-07     1 0.5953347
+2:            27      22.691652   1.189865 4.024088e-02    12 0.9332273
+3:            18       8.228279   2.187578 1.221837e-04     5 1.0723420
+       p_ecm
+       <num>
+1: 0.8337952
+2: 0.7873631
+3: 0.5195579
+
+--- signature enrichment, PRIMARY module (universe = 364 gene/TF network nodes) ---
+                  signature n_module n_ref n_overlap   expected      fold
+                     <char>    <int> <int>     <int>      <num>     <num>
+ 1:               FFL_3node       43   204        34 24.0989011 1.4108527
+ 2:       CHANG_CSR_LATE_UP       43     7         4  0.8269231 4.8372093
+ 3:               FFL_4node       43   239        36 28.2335165 1.2750803
+ 4:               FFL_5node       43   239        36 28.2335165 1.2750803
+ 5:           FFL_6node_all       43   308        41 36.3846154 1.1268499
+ 6:  ESTIMATE_STROMAL_noCOL       43    10         3  1.1813187 2.5395349
+ 7:      MS_exemplar_module       43     5         2  0.5906593 3.3860465
+ 8:   CHANG_WOUND_UP_SORLIE       43     1         1  0.1181319 8.4651163
+ 9:        ESTIMATE_STROMAL       43    11         3  1.2994505 2.3086681
+10: CHANG_WOUND_UP_VANTVEER       43     3         1  0.3543956 2.8217054
+11: CHANG_WOUND_DN_VANTVEER       43     3         1  0.3543956 2.8217054
+12:             MAMMOSPHERE       43     4         1  0.4725275 2.1162791
+13:      CHANG_CSR_EARLY_UP       43    12         2  1.4175824 1.4108527
+14:             TRIULZI_ECM       43    26         3  3.0714286 0.9767442
+15:   HALLMARK_ANGIOGENESIS       43     8         1  0.9450549 1.0581395
+         p_hyper       q_BH
+           <num>      <num>
+ 1: 0.0007650163 0.02677557
+ 2: 0.0045762232 0.04173484
+ 3: 0.0047696957 0.04173484
+ 4: 0.0047696957 0.04173484
+ 5: 0.0228088414 0.15966189
+ 6: 0.1020156957 0.50157215
+ 7: 0.1082191047 0.50157215
+ 8: 0.1181318681 0.50157215
+ 9: 0.1289756959 0.50157215
+10: 0.3149392044 1.00000000
+11: 0.3149392044 1.00000000
+12: 0.3965392438 1.00000000
+13: 0.4249965682 1.00000000
+14: 0.6156293281 1.00000000
+15: 0.6380176566 1.00000000
+
+--- signature enrichment, FDR=1e-3 module ---
+                signature n_module n_ref n_overlap   expected     fold
+                   <char>    <int> <int>     <int>      <num>    <num>
+1:       ESTIMATE_STROMAL      290    11        11   8.763736 1.255172
+2: ESTIMATE_STROMAL_noCOL      290    10        10   7.967033 1.255172
+3:  HALLMARK_ANGIOGENESIS      290     8         8   6.373626 1.255172
+4:      CHANG_CSR_LATE_UP      290     7         7   5.576923 1.255172
+5:              FFL_3node      290   204       166 162.527473 1.021366
+6:              FFL_4node      290   239       193 190.412088 1.013591
+7:              FFL_5node      290   239       193 190.412088 1.013591
+8:          FFL_6node_all      290   308       247 245.384615 1.006583
+      p_hyper  q_BH
+        <num> <num>
+1: 0.07891249     1
+2: 0.09976794     1
+3: 0.15911602     1
+4: 0.20072234     1
+5: 0.21740064     1
+6: 0.28159837     1
+7: 0.28159837     1
+8: 0.33615983     1
+
+--- PRIMARY module members, top 40 by node score ---
+    score_rank         name   type     logFC          pval     score
+         <int>       <char> <char>     <num>         <num>     <num>
+ 1:          1         CAV1   Gene -3.380560 3.793108e-158 231.81912
+ 2:          2         FHL1   Gene -4.335022 8.882582e-145 201.72911
+ 3:          3  hsa-miR-139  miRNA -3.172458 8.644712e-140 187.82039
+ 4:          4      ADAMTS5   Gene -3.542208 1.257996e-136 183.38383
+ 5:          5          LPL   Gene -4.722055 1.551130e-127 162.92334
+ 6:          6   hsa-miR-21  miRNA  2.042561 3.901418e-126 157.33352
+ 7:          7        PPARG     TF -3.238975 4.145914e-116 137.20535
+ 8:          8        FOXM1     TF  3.434990 2.741204e-114 133.10847
+ 9:          9          MME   Gene -4.227470 2.026799e-109 122.15040
+10:         10        ADRB2   Gene -3.139306 4.006291e-106 114.73245
+11:         11       TGFBR2   Gene -2.409979 7.520724e-106 114.11686
+12:         12         EZH2     TF  2.259092 3.486756e-104 110.36693
+13:         13         OXTR   Gene -4.292118 2.322984e-102 106.26261
+14:         14        FOXO1     TF -1.975760  9.513593e-99  98.13263
+15:         15  hsa-miR-204  miRNA -1.581698  4.553974e-96  90.20139
+16:         16        EPAS1     TF -1.936760  1.634432e-93  86.35049
+17:         17           F8   Gene -1.826497  3.094415e-93  85.72658
+18:         18        MYBL2   Gene  3.718326  9.676973e-91  80.11088
+19:         19         KLF4     TF -2.597527  1.744166e-88  75.03378
+20:         20   hsa-miR-96  miRNA  1.497183  3.769449e-85  65.82460
+21:         21         TAL1     TF -2.120157  3.204550e-84  65.43665
+22:         22       DNAJB4   Gene -1.597673  3.802167e-84  65.26951
+23:         23         E2F1     TF  2.456276  3.856256e-83  63.00506
+24:         24  hsa-miR-145  miRNA -2.006575  2.338048e-82  59.58951
+25:         25  hsa-miR-10b  miRNA -1.893373  2.794230e-80  54.95119
+26:         26         FOSB   Gene -4.261832  5.300815e-79  53.69152
+27:         27         EGR1     TF -3.101347  4.656141e-78  51.56763
+28:         28          ERG     TF -1.860267  6.340093e-78  51.26589
+29:         29         ESR2     TF -1.851114  5.242743e-77  49.20101
+30:         30      ADAMTS1   Gene -2.621866  2.519679e-76  47.66655
+31:         31       ZBTB16     TF -4.441896  2.930929e-76  47.51878
+32:         32        SPRY1   Gene -2.121125  3.923366e-76  47.23372
+33:         33  hsa-miR-183  miRNA  1.866008  1.937642e-76  46.37522
+34:         34          FN1   Gene  2.683236  3.636723e-73  40.55596
+35:         35  hsa-miR-182  miRNA  2.163088  8.618937e-72  35.99705
+36:         36       CXCL12   Gene -2.235503  6.415345e-71  35.49988
+37:         37 hsa-miR-125b  miRNA -1.597166  2.186136e-68  28.39631
+38:         38  hsa-miR-141  miRNA  1.994404  2.240531e-68  28.37248
+39:         39         TYMS   Gene  1.980212  1.148362e-67  28.17887
+40:         40  hsa-miR-100  miRNA -2.213268  1.895177e-67  26.30206
+    score_rank         name   type     logFC          pval     score
+         <int>       <char> <char>     <num>         <num>     <num>
+    in_prioritised30 in_core_matrisome
+              <lgcl>            <lgcl>
+ 1:            FALSE             FALSE
+ 2:            FALSE             FALSE
+ 3:            FALSE             FALSE
+ 4:            FALSE             FALSE
+ 5:            FALSE             FALSE
+ 6:             TRUE             FALSE
+ 7:            FALSE             FALSE
+ 8:            FALSE             FALSE
+ 9:            FALSE             FALSE
+10:            FALSE             FALSE
+11:            FALSE             FALSE
+12:             TRUE             FALSE
+13:            FALSE             FALSE
+14:            FALSE             FALSE
+15:             TRUE             FALSE
+16:            FALSE             FALSE
+17:            FALSE             FALSE
+18:             TRUE             FALSE
+19:            FALSE             FALSE
+20:            FALSE             FALSE
+21:            FALSE             FALSE
+22:            FALSE             FALSE
+23:             TRUE             FALSE
+24:            FALSE             FALSE
+25:            FALSE             FALSE
+26:            FALSE             FALSE
+27:            FALSE             FALSE
+28:            FALSE             FALSE
+29:            FALSE             FALSE
+30:            FALSE             FALSE
+31:            FALSE             FALSE
+32:            FALSE             FALSE
+33:            FALSE             FALSE
+34:             TRUE              TRUE
+35:            FALSE             FALSE
+36:             TRUE             FALSE
+37:            FALSE             FALSE
+38:             TRUE             FALSE
+39:            FALSE             FALSE
+40:            FALSE             FALSE
+    in_prioritised30 in_core_matrisome
+              <lgcl>            <lgcl>
+### bionet_04_stability_and_nulls.R
+primary module n = 58  at FDR 1.63e-54 
+edge-resample module sizes: median 54 (IQR 52-57)
+selection frequency of the paper's key nodes:
+           name   type          pval selection_freq in_primary
+         <char> <char>         <num>          <num>     <lgcl>
+ 1:        EZH2     TF 3.486756e-104          1.000       TRUE
+ 2:         FN1   Gene  3.636723e-73          1.000       TRUE
+ 3:       NFKB1     TF  4.642819e-05          0.645       TRUE
+ 4:         SP1     TF  5.453379e-15          0.585       TRUE
+ 5:        RELA     TF  1.349778e-01          0.020      FALSE
+ 6:      COL1A1   Gene  4.724895e-51          0.000      FALSE
+ 7:      COL3A1   Gene  3.173843e-18          0.000      FALSE
+ 8:        ETS1     TF  1.446000e-24          0.000      FALSE
+ 9:       POSTN   Gene  1.553729e-30          0.000      FALSE
+10:       SPARC   Gene  7.783174e-02          0.000      FALSE
+11:       TGFBI   Gene  3.127972e-01          0.000      FALSE
+12:       THBS2   Gene  7.604132e-08          0.000      FALSE
+13: hsa-miR-101  miRNA  1.449551e-12          0.000      FALSE
+14: hsa-miR-29a  miRNA  1.021576e-04          0.000      FALSE
+
+top-58 by DE score alone: overlap with pri30 = 12 ; BioNet module = 13 ; Jaccard(module,topk) = 0.785
+DE-rank-matched null: observed overlap 13, null mean 10.97 (sd 1.18), p = 0.0830
+unconditional null   : observed overlap 13, null mean 2.97, p = 0.0001
+           name   type         pval score_at_primary rank_by_score
+         <char> <char>        <num>            <num>         <num>
+ 1:         FN1   Gene 3.636723e-73        40.555963            36
+ 2:      COL1A1   Gene 4.724895e-51        -9.213951            69
+ 3:       POSTN   Gene 1.553729e-30       -55.390273           138
+ 4:        SPP1   Gene 2.169749e-28       -60.217970           151
+ 5:        ETS1     TF 1.446000e-24       -68.823871           175
+ 6:      COL3A1   Gene 3.173843e-18       -83.096111           218
+ 7:         SP1     TF 5.453379e-15       -90.377109           248
+ 8:        ASPN   Gene 4.140356e-13       -94.609148           273
+ 9: hsa-miR-101  miRNA 1.449551e-12       -96.238644           278
+10:       THBS2   Gene 7.604132e-08      -106.456538           336
+11:        FBN1   Gene 2.590289e-05      -112.155828           386
+12:       NFKB1     TF 4.642819e-05      -112.726215           390
+13: hsa-miR-29a  miRNA 1.021576e-04      -113.761261           400
+14:       SPARC   Gene 7.783174e-02      -119.983119           501
+15:        RELA     TF 1.349778e-01      -120.521260           515
+16:       TGFBI   Gene 3.127972e-01      -121.342744           537
+    in_primary_module
+               <lgcl>
+ 1:              TRUE
+ 2:             FALSE
+ 3:             FALSE
+ 4:             FALSE
+ 5:             FALSE
+ 6:             FALSE
+ 7:              TRUE
+ 8:             FALSE
+ 9:             FALSE
+10:             FALSE
+11:             FALSE
+12:              TRUE
+13:             FALSE
+14:             FALSE
+15:             FALSE
+16:             FALSE

@@ -1,0 +1,111 @@
+K 6
+nparts 64
+part 1
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 6891
+visited 2472346
+rng_final 42
+comp 0 1 5 5
+comp 1 0 5 1
+comp 1 1 4 23
+comp 1 2 3 174
+comp 1 3 2 2
+comp 2 0 4 7
+comp 2 1 3 85
+comp 2 2 2 499
+comp 2 3 1 75
+comp 3 0 3 21
+comp 3 1 2 521
+comp 3 2 1 2206
+comp 3 3 0 5
+comp 4 0 2 155
+comp 4 1 1 1884
+comp 4 2 0 179
+comp 5 0 1 423
+comp 5 1 0 475
+comp 6 0 0 151
+mask 3 9
+mask 6 2
+mask 14 566
+mask 15 716
+mask 21 1
+mask 22 63
+mask 23 11
+mask 27 4
+mask 28 5
+mask 29 15
+mask 30 14
+mask 31 135
+mask 33 21
+mask 34 189
+mask 35 539
+mask 36 8
+mask 37 2
+mask 38 356
+mask 39 12
+mask 40 5
+mask 41 6
+mask 42 3
+mask 43 8
+mask 44 481
+mask 45 477
+mask 46 817
+mask 47 1596
+mask 52 47
+mask 53 33
+mask 54 242
+mask 55 52
+mask 59 10
+mask 60 43
+mask 61 194
+mask 62 26
+mask 63 37
+mask 79 21
+mask 93 2
+mask 94 6
+mask 100 6
+mask 102 23
+mask 108 31
+mask 109 29
+mask 111 15
+mask 116 3
+mask 118 2
+mask 125 8
+flags 0 3850
+flags 1 411
+flags 2 64
+flags 3 75
+flags 4 2283
+flags 5 12
+flags 6 146
+flags 7 1
+flags 8 2
+flags 12 24
+flags 24 13
+flags 28 10
+exflag 0 GATA4 CCND2 RB1 hsa-miR-144 FOSB hsa-miR-449a
+exflag 0 GATA4 CCND2 RB1 hsa-miR-144 FOSB hsa-miR-449b
+exflag 0 GATA4 CCND2 RB1 hsa-miR-144 MET hsa-miR-449a
+exflag 1 ACTA2 ACTC1 COL1A1 RUNX2 AR hsa-miR-32
+exflag 1 ACTA2 ACTC1 COL1A1 RUNX2 AR hsa-miR-92a
+exflag 1 ACTA2 ACTC1 COL1A1 RUNX2 SMAD3 hsa-miR-30d
+exflag 2 ACTA2 ACTC1 COL1A1 RUNX2 AR hsa-miR-32
+exflag 2 ACTA2 ACTC1 COL1A1 RUNX2 AR hsa-miR-92a
+exflag 2 ACTA2 ACTC1 MYH11 RUNX1 JUN hsa-miR-25
+exflag 3 GATA4 CCND2 HDAC9 ESR1 NFKB1 hsa-miR-17 | TF1=ESR1 TF2=NFKB1 miRNA=hsa-miR-17 target=CCND2
+exflag 3 GATA4 CCND2 HDAC9 ESR1 RELA hsa-miR-145 | TF1=ESR1 TF2=RELA miRNA=hsa-miR-145 target=CCND2
+exflag 3 GATA4 CCND2 HDAC9 ESR1 RELA hsa-miR-17 | TF1=ESR1 TF2=RELA miRNA=hsa-miR-17 target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 FOXO3 hsa-let-7b | TF1=NFKB1 TF2=FOXO3 miRNA=hsa-let-7b target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 STAT3 hsa-miR-150 | TF1=NFKB1 TF2=STAT3 miRNA=hsa-miR-150 target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 STAT3 hsa-miR-17 | TF1=NFKB1 TF2=STAT3 miRNA=hsa-miR-17 target=CCND2
+exmask 63 GATA4 CCND2 HDAC9 ESR1 RELA hsa-miR-19b
+exmask 63 GATA4 CCND2 HDAC9 ESR1 STAT3 hsa-miR-19b
+exmask 63 GATA4 CCND2 HDAC9 NFKB1 STAT3 hsa-miR-16
+exmask 111 GATA4 CCND2 SOX9 KLF4 hsa-miR-143 hsa-let-7b
+exmask 111 GATA4 CCND2 SOX9 KLF4 hsa-miR-143 hsa-let-7e
+exmask 111 GATA4 CCND2 SOX9 KLF4 hsa-miR-143 hsa-miR-29a
+exmask 125 GATA4 CCND2 SRF hsa-miR-143 hsa-miR-29a ETV4
+exmask 125 GATA4 CCND2 SRF hsa-miR-143 hsa-miR-29b ETV4
+exmask 125 GATA4 CCND2 SRF hsa-miR-143 hsa-miR-29c ETV4

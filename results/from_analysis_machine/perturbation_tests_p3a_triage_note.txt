@@ -1,0 +1,21 @@
+P3a dataset selection (SETTINGS.md, P3: if more than 40 datasets qualify, the 40 with the most samples are kept, ties broken
+by GSE number, and the rest are listed).
+
+1. Search: the P1b search pattern for each of the 223 network miRNAs (P3a/P3a_search_log.tsv): 1,253 GEO series
+   (P3a/P3a_hits.tsv). The first-pass screen counted, per series, the human samples naming a miRNA next to a
+   perturbation word and the control samples; 492 series had >= 2 of each.
+2. Candidates already analysed: the human P1b and P2 contrasts.
+3. Reading order. For every screened series the largest possible contrast (largest miRNA-perturbation group of a cell
+   type plus that cell type's control groups) was estimated from the sample annotations. The 52 series with an estimate
+   of >= 10 samples, and the 70 series with the most screen-counted samples, were read, and their contrasts were set by
+   the P1-P3 dataset rules (P3a/p3a_triage.tsv).
+   - The contrasts range from 23 samples (GSE115646, HepG2: 17 mock controls) down to 10.
+   - The 40th contrast has 10 samples. At 10 samples, 9 contrasts tie: GSE46039, GSE53143 (P1b), GSE121892 (x2),
+     GSE133527, GSE196161, GSE206584, GSE243063 and GSE271495. The first 7 by GSE number are kept.
+   - Series whose estimate is below 10 samples cannot enter the 40. They were not read further and are listed in
+     DATASETS.tsv as "not read".
+4. The perturbed mature miRNA maps to its network node by removing the arm suffix. Mimics of miRNAs that are not network
+   nodes are not used, and neither are arms whose family member is not named.
+5. Composition of the 40: 25 are HepG2 contrasts of one series (GSE115646) that share its 17 mock controls, and these
+   contrasts are not independent. The fixed rule does not weight by series. Per-dataset values are in
+   P3/p3a_per_dataset.tsv.

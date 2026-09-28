@@ -1,0 +1,6 @@
+metric,value
+hg38_experiments_total,197044
+hg38_TF_experiments,33368
+hg38_TF_unique_antigens,1851
+hg38_TF_experiments_fibroblast_mesenchymal,751
+hg38_TF_unique_antigens_fibroblast_mesenchymal,125

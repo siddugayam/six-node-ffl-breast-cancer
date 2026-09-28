@@ -1,0 +1,6 @@
+"rank","score","nodes","edges","seed","n_TF","n_miRNA","n_Gene","TF","miRNA","Gene"
+1,2.6667,4,4,"FBN1",0,1,3,"","hsa-miR-29c","COL1A1;FBN1;MMP2"
+2,2.6316,20,25,"MET",7,6,7,"AR;CTNNB1;DNMT1;HDAC1;JUN;NFKB1;TWIST1","hsa-miR-130b;hsa-miR-15b;hsa-miR-16;hsa-miR-27a;hsa-miR-424;hsa-miR-429","CD44;CXCL12;CYLD;IRAK2;ITGB1;PLAU;UBB"
+3,2.4615,14,16,"hsa-miR-182",4,4,6,"CEBPA;E2F1;GATA3;RELA","hsa-miR-181c;hsa-miR-182;hsa-miR-19b;hsa-miR-300","BCL2L1;CCL2;F3;F8;ID1;SPP1"
+4,2.25,9,9,"POSTN",1,3,5,"EP300","hsa-miR-106a;hsa-miR-18a;hsa-miR-19a","FN1;LTBP1;POSTN;THBS1;VCAM1"
+5,0.8571,8,3,"BMP7",2,3,3,"ESR1;HDAC2","hsa-miR-106b;hsa-miR-145;hsa-miR-181d","BMP7;TGFBR2;THBD"

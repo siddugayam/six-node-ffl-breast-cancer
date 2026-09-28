@@ -1,0 +1,46 @@
+x,y,verdict,N
+ETS1,COL1A1,INCONSISTENT (ACME and ADE opposite sign),25
+ETS1,COL1A1,"partial, same-signed mediation",13
+ETS1,COL1A1,complete mediation,5
+ETS1,COL1A1,no mediation,2
+ETS1,COL3A1,"partial, same-signed mediation",22
+ETS1,COL3A1,INCONSISTENT (ACME and ADE opposite sign),13
+ETS1,COL3A1,complete mediation,7
+ETS1,COL3A1,no mediation,3
+NFKB1,COL1A1,INCONSISTENT (ACME and ADE opposite sign),33
+NFKB1,COL1A1,complete mediation,8
+NFKB1,COL1A1,no mediation,3
+NFKB1,COL1A1,"partial, same-signed mediation",1
+NFKB1,COL3A1,"partial, same-signed mediation",28
+NFKB1,COL3A1,INCONSISTENT (ACME and ADE opposite sign),8
+NFKB1,COL3A1,complete mediation,6
+NFKB1,COL3A1,no mediation,3
+RELA,COL1A1,no mediation,29
+RELA,COL1A1,INCONSISTENT (ACME and ADE opposite sign),13
+RELA,COL1A1,complete mediation,3
+SP1,COL1A1,INCONSISTENT (ACME and ADE opposite sign),38
+SP1,COL1A1,no mediation,7
+hsa-miR-29a,COL1A1,"partial, same-signed mediation",23
+hsa-miR-29a,COL1A1,complete mediation,10
+hsa-miR-29a,COL1A1,no mediation,7
+hsa-miR-29a,COL1A1,INCONSISTENT (ACME and ADE opposite sign),5
+hsa-miR-29a,COL3A1,"partial, same-signed mediation",20
+hsa-miR-29a,COL3A1,complete mediation,13
+hsa-miR-29a,COL3A1,no mediation,7
+hsa-miR-29a,COL3A1,INCONSISTENT (ACME and ADE opposite sign),5
+hsa-miR-29b,COL1A1,"partial, same-signed mediation",33
+hsa-miR-29b,COL1A1,no mediation,5
+hsa-miR-29b,COL1A1,complete mediation,5
+hsa-miR-29b,COL1A1,INCONSISTENT (ACME and ADE opposite sign),2
+hsa-miR-29b,COL3A1,"partial, same-signed mediation",26
+hsa-miR-29b,COL3A1,complete mediation,12
+hsa-miR-29b,COL3A1,no mediation,5
+hsa-miR-29b,COL3A1,INCONSISTENT (ACME and ADE opposite sign),2
+hsa-miR-29c,COL1A1,"partial, same-signed mediation",30
+hsa-miR-29c,COL1A1,no mediation,7
+hsa-miR-29c,COL1A1,complete mediation,6
+hsa-miR-29c,COL1A1,INCONSISTENT (ACME and ADE opposite sign),2
+hsa-miR-29c,COL3A1,"partial, same-signed mediation",30
+hsa-miR-29c,COL3A1,no mediation,7
+hsa-miR-29c,COL3A1,complete mediation,6
+hsa-miR-29c,COL3A1,INCONSISTENT (ACME and ADE opposite sign),2

@@ -1,0 +1,6 @@
+n_nodes,ffl_modules,method,max_edge_classes,note
+3,"5,833",exhaustive,3,"typed cores: 1,434 composite / 206 miRNA-FFL / 9 TF-FFL"
+4,"116,505",exhaustive,5,
+5,"1,506,263",exhaustive,6,maximum first reached
+6,"19,401,840",exhaustive,6,
+7,2.26e8,"RAND-ESU, 8 seeds",6,seed SD 9.4e5

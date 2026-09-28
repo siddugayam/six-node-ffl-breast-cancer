@@ -1,0 +1,119 @@
+K 6
+nparts 64
+part 59
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 195207
+visited 43142567
+rng_final 42
+comp 0 1 5 190
+comp 1 0 5 4
+comp 1 1 4 922
+comp 1 2 3 6966
+comp 1 3 2 8156
+comp 1 4 1 4075
+comp 2 0 4 21
+comp 2 1 3 3580
+comp 2 2 2 35672
+comp 2 3 1 53826
+comp 2 4 0 317
+comp 3 0 3 45
+comp 3 1 2 9738
+comp 3 2 1 47139
+comp 3 3 0 4420
+comp 4 0 2 95
+comp 4 1 1 8413
+comp 4 2 0 9423
+comp 5 0 1 32
+comp 5 1 0 2170
+comp 6 0 0 3
+mask 3 10
+mask 7 7
+mask 10 3
+mask 11 36
+mask 13 1
+mask 14 2465
+mask 15 1121
+mask 17 3
+mask 18 58
+mask 19 276
+mask 20 1445
+mask 21 229
+mask 22 2795
+mask 23 455
+mask 25 1
+mask 26 16
+mask 27 343
+mask 28 19832
+mask 29 4945
+mask 30 19960
+mask 31 10046
+mask 33 4
+mask 34 9
+mask 35 177
+mask 38 136
+mask 39 48
+mask 40 523
+mask 41 2260
+mask 42 320
+mask 43 2182
+mask 44 10192
+mask 45 3997
+mask 46 6499
+mask 47 2873
+mask 48 135
+mask 49 542
+mask 50 2182
+mask 51 1979
+mask 52 2317
+mask 53 439
+mask 54 8091
+mask 55 485
+mask 56 517
+mask 57 3589
+mask 58 2422
+mask 59 5680
+mask 60 25930
+mask 61 20025
+mask 62 16832
+mask 63 10775
+flags 0 133408
+flags 1 19656
+flags 2 20
+flags 3 4072
+flags 4 20600
+flags 5 7494
+flags 6 321
+flags 7 3551
+flags 8 2944
+flags 9 188
+flags 11 237
+flags 12 1098
+flags 13 95
+flags 14 7
+flags 15 114
+flags 24 826
+flags 25 125
+flags 27 48
+flags 28 311
+flags 29 57
+flags 31 35
+exflag 0 STAT1 CCL2 NR1H4 SERPINE1 hsa-miR-124 hsa-miR-199a
+exflag 0 STAT1 CCL2 NR1H4 SERPINE1 hsa-miR-124 hsa-miR-34a
+exflag 0 STAT1 CCL2 NR1H4 SERPINE1 hsa-miR-199a hsa-miR-34a
+exflag 1 STAT1 CCL2 NR1H4 PPARA SERPINE1 hsa-miR-199a
+exflag 1 STAT1 CCL2 NR1H4 PPARA SERPINE1 hsa-miR-34a
+exflag 1 STAT1 CCL2 NR1H4 RXRA SERPINE1 hsa-miR-143
+exflag 2 STAT1 CCL2 NR1H4 PPARA SERPINE1 hsa-miR-199a
+exflag 2 STAT1 CCL2 NR1H4 PPARA SERPINE1 hsa-miR-34a
+exflag 2 STAT1 CCL2 NR1H4 RXRA HNF4A hsa-miR-124
+exflag 3 STAT1 EDN1 MMP2 NR1H4 hsa-let-7a hsa-miR-29a | TF1=STAT1 TF2=NR1H4 miRNA=hsa-miR-29a target=EDN1
+exflag 3 STAT1 EDN1 MMP2 NR1H4 hsa-miR-124 hsa-miR-29a | TF1=STAT1 TF2=NR1H4 miRNA=hsa-miR-29a target=EDN1
+exflag 3 STAT1 EDN1 MMP2 NR1H4 hsa-miR-29a ETV4 | TF1=STAT1 TF2=NR1H4 miRNA=hsa-miR-29a target=EDN1
+exflag 4 hsa-miR-199a ABCA1 FN1 NFKB1 STAT3 hsa-miR-17 | TF1=NFKB1 TF2=STAT3 miRNA=hsa-miR-17 target=ABCA1
+exflag 4 hsa-miR-199a ABCA1 FN1 NFKB1 STAT3 hsa-miR-23b | TF1=NFKB1 TF2=STAT3 miRNA=hsa-miR-23b target=ABCA1
+exflag 4 hsa-miR-199a ABCA1 NFKB1 FOXO3 STAT3 hsa-miR-17 | TF1=NFKB1 TF2=STAT3 miRNA=hsa-miR-17 target=ABCA1
+exmask 63 STAT1 CCL2 NR1H4 PPARA SERPINE1 hsa-miR-199a
+exmask 63 STAT1 CCL2 NR1H4 SERPINE1 hsa-miR-199a EPAS1
+exmask 63 STAT1 CCL2 NR1H4 SERPINE1 hsa-miR-199a HIF1A

@@ -1,0 +1,96 @@
+K 6
+nparts 64
+part 28
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 268013
+visited 95053730
+rng_final 42
+comp 1 2 3 89
+comp 1 3 2 1830
+comp 1 4 1 12235
+comp 2 1 3 49
+comp 2 2 2 10562
+comp 2 3 1 119179
+comp 2 4 0 1937
+comp 3 0 3 7
+comp 3 1 2 1915
+comp 3 2 1 69281
+comp 3 3 0 15919
+comp 4 0 2 340
+comp 4 1 1 14941
+comp 4 2 0 13107
+comp 5 0 1 1909
+comp 5 1 0 4229
+comp 6 0 0 484
+mask 2 484
+mask 3 2256
+mask 6 2564
+mask 7 456
+mask 10 4
+mask 11 43
+mask 12 9126
+mask 13 1332
+mask 14 63283
+mask 15 35947
+mask 19 2
+mask 20 8596
+mask 21 831
+mask 22 22598
+mask 23 4457
+mask 26 12
+mask 27 20
+mask 28 69684
+mask 29 8764
+mask 30 13423
+mask 31 14879
+mask 46 12
+mask 47 14
+mask 61 1
+mask 70 326
+mask 71 3
+mask 76 2978
+mask 77 179
+mask 78 2038
+mask 79 1013
+mask 84 406
+mask 86 702
+mask 87 33
+mask 92 462
+mask 93 934
+mask 94 54
+mask 95 90
+mask 109 5
+mask 110 2
+flags 0 239807
+flags 1 9097
+flags 2 415
+flags 3 1096
+flags 6 13
+flags 7 14
+flags 8 15382
+flags 10 129
+flags 11 346
+flags 24 1691
+flags 26 13
+flags 27 9
+flags 30 1
+exflag 0 ETS2 EGR1 CCND2 hsa-miR-106a IRF9 hsa-miR-196b
+exflag 0 ETS2 EGR1 CCND2 hsa-miR-142 IRF9 hsa-miR-196b
+exflag 0 ETS2 EGR1 CCND2 hsa-miR-196b hsa-miR-20b IRF9
+exflag 1 ETS2 EGR1 ATF3 MMP2 hsa-miR-124 NR4A1
+exflag 1 ETS2 EGR1 ATF3 MMP2 hsa-miR-149 MSC
+exflag 1 ETS2 EGR1 CCND2 MYC hsa-miR-106a IRF9
+exflag 2 ETS2 EGR1 hsa-let-7e COL1A1 COL3A1 hsa-miR-196b
+exflag 2 ETS2 EGR1 hsa-miR-196b COL1A1 COL3A1 hsa-miR-335
+exflag 2 ETS2 EGR1 hsa-miR-196b COL1A1 COL3A1 hsa-miR-455
+exflag 3 ETS2 EGR1 AR ATF3 MYC hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=MYC
+exflag 3 ETS2 EGR1 AR CACNA1H MYC hsa-miR-32 | TF1=EGR1 TF2=AR miRNA=hsa-miR-32 target=MYC
+exflag 3 ETS2 EGR1 AR CCND2 MYC hsa-let-7a | TF1=AR TF2=MYC miRNA=hsa-let-7a target=CCND2
+exflag 4 ETS2 EGR1 AR FN1 MYC hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=FN1
+exflag 4 ETS2 EGR1 AR MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 ETS2 EGR1 AR MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exmask 95 ETS2 EGR1 HIF1A MMP2 hsa-miR-335 hsa-miR-29b
+exmask 95 ETS2 EGR1 HIF1A MMP2 hsa-miR-455 hsa-miR-29b
+exmask 95 ETS2 EGR1 HIF1A TERT hsa-miR-455 hsa-miR-29b

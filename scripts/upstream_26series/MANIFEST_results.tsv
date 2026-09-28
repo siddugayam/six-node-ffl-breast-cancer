@@ -1,0 +1,252 @@
+path	md5	size_bytes	backs
+INBOX_2026-09-26/rerun/A3_power_downsample/metabric_power_downsampling.csv	facd98102031d464f6775a1fff22ad9d	407	Results 3.8 / Methods 2.6: METABRIC downsampled to the TCGA event count, hubs at q < 0.05 per subsample (median 0, IQR 0-2; >= 1 hub in 93/200) (INBOX_2026-09-26 VALUES A3)
+INBOX_2026-09-26/rerun/A3_power_downsample/metabric_power_downsampling_per_subsample.csv	35474a0c45cedf14f4ee2535f99e1b68	3204	Results 3.8 / Methods 2.6: METABRIC downsampled to the TCGA event count, hubs at q < 0.05 per subsample (median 0, IQR 0-2; >= 1 hub in 93/200) (INBOX_2026-09-26 VALUES A3)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n3.json	6503a7af4164bc1f276d42038d361078	1753	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n3.txt	6f9dbbacc786a02ccbfc4055a67a9b6d	1019	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n4.json	cb6c34210cadd711309459fc27ff4c8c	2945	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n4.txt	01e5827474b042d21e178f2b11a38329	1772	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n5.json	b42d9b7fc7a2a016191582e44e1d329d	3944	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n5.txt	a6fa97d69eef3d8ad0f16bd5fbdeae55	2483	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n6_exhaustive.json	bf24ff9ad7f83e6d95b9e2f21d9dc864	5717	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/census_nolegacy_n6_exhaustive.txt	69036de8988e88fca0c8b158efc23a07	3100	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/nl_n3.txt	d452aa34cf08bc9a7de81bfe92d0f4e4	427	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/nl_n4.txt	eed81251a8eb44d487df167d2468c7bd	1582	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26/rerun/B_census/nolegacy/nl_n5.txt	2c2ca4a4456d8f01749126839cd21466	2208	no-legacy census counts, n = 3-6 exhaustive; n = 6 maximum 6 of 7 classes, 265,275 modules (INBOX_2026-09-26 VALUES B4)
+INBOX_2026-09-26c/bhat_networks/topology_network_summary.json	b190489d0e2204ef64dcaedb13f63cf8	1440	merged 3-to-6-node composite network topology summary (INBOX_2026-09-26c VALUES 4)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_nostring_six_node_composite_clusters.csv	c4e063082561db6b3736f0aa142e8a9a	225	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (no-STRING sensitivity, VALUES 6)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_nostring_six_node_composite_node_scores.csv	8a3268b0af3efcd21225e2827cc56d40	489	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (no-STRING sensitivity, VALUES 6)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_nostring_tiebreak_100_orders.tsv	7920b11e6a3c8ea74f3298195cbfed68	26	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (no-STRING sensitivity, VALUES 6)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_nostring_top_cluster_edge_betweenness.csv	bf6c5acf20b6aea873ee9202d44e5239	409	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (no-STRING sensitivity, VALUES 6)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_six_node_composite_clusters.csv	b8cc4340c4ed613a65d5913b1acc3b41	1028	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_six_node_composite_node_scores.csv	18269896b6184f53623530b4f61dfb6f	9017	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_tiebreak_100_orders.tsv	ee3477ee34f8e0bd67acb1dc218ecfc7	19	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/mcode_nolegacy_top_cluster_edge_betweenness.csv	7c6e4ad9bb8abe85f824f632b1c1d497	2271	MCODE clusters, node scores, top-cluster edge betweenness and 100-order tie-break check on the six-node composite network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/sif/nolegacy_mcode_top_cluster.sif	23db76533e69288ca315616512ca5997	1545	the top MCODE cluster as a network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/sif/nolegacy_nostring_mcode_top_cluster.sif	57fe84afa970c67c94712e9f40fe0b27	162	the top MCODE cluster as a network (INBOX_2026-09-26c VALUES 5)
+INBOX_2026-09-26c/bhat_networks/b5_erratum_six_node_composite.csv	8157ab15dd8923da75d65674c007f83a	309	B5 erratum: six-node composite counts under the literal Fig. 1d rule (INBOX_2026-09-26c VALUES 7)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_Ck_scaling.csv	dcd123d67a439586a165f3d58a4faff8	1065	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_architecture_summary.csv	476bc07ee04e32b2f4fc41530032d671	1822	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_architecture_summary.json	a7cfecd0bca3a3d668c42c089ae9ad85	2120	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_bowtie_membership.csv	41fddce91d930418587a893395d35ac5	12536	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_controllability_degree_control.csv	c979ab78e67c938a67bfd41d7782a4ae	396	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_controllability_degree_control.json	0af11a149e209f1f79e66605c5fb5f09	2139	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_controllability_enrichment.csv	1e70fb5564d5c8dd08f818feaaa2225c	3170	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_controllability_focus_nodes.csv	46d377728e9df052a686c05b2c4b3831	1170	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_controllability_summary.json	ecce7f45c4ea7c538433c659008911c7	522	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_flow_bottlenecks.csv	23f1ec5687d8a2e4f225d9ed2dc6180b	1065	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_focus_node_ranks.csv	e21aa45015479668ae7a11ed9b128847	548	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_information_flow_meta.json	5a19cc301c86a748eca4c8070beac6f6	106	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_matching_crosscheck.json	74f75772298657bd3972b351766cbe23	424	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_null_ffl_counts.npy	4812a89beccb95dbe2501290e8e38dc2	1728	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_powerlaw_csn_fits.csv	09028f8738e2276499b88f5a3331a3a5	320	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_powerlaw_csn_lrt.csv	1dce7f0855d4c9444c5233004fc342f7	789	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/out_nolegacy_hash0/systems_trophic_levels.csv	cba5609c88cabb40b3e6fa4831d30055	16222	Note S5 without the 30 legacy edges (architecture, power law, controllability, information flow, trophic levels; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/exact_control_roles_nolegacy.json	3de841d908f47429d58506c69ea67b7e	1273	exact controllability roles and the hub test without the legacy edges (Note S5; INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v3/exact_control_roles_full.json	29b3f18162dea2febcafa2833e5f1f94	1255	exact controllability roles, full network (INBOX_2026-09-27 VALUES 1-2)
+INBOX_2026-09-27/legacy_audit/hubboot/hub_bootstrap_stability_1000_nolegacy.csv	9d526c0a6ac6e787658cbc6eeea7ebca	4354	Table S5: hub bootstrap stability without the legacy edges
+INBOX_2026-09-27/legacy_audit/hubboot/hub_bootstrap_stability_1000_full.csv	a8834cbf4ccda49df7b81cb6006a29ec	4353	hub bootstrap stability, full network (reproduction of the stored Table S5)
+INBOX_2026-09-27/legacy_audit/tables/TableS1_all_interactions_flagged.csv	c7c4b12a4a7e22b6401a89b2a5858068	1205644	Table S1 with the in_analysed_network flag (6,859 rows)
+INBOX_2026-09-27/legacy_audit/tables/TableS5_hub_bootstrap_stability_nolegacy.csv	9d526c0a6ac6e787658cbc6eeea7ebca	4354	Table S5 (no legacy edges)
+INBOX_2026-09-27/legacy_audit/tables/TableS6_directed_hub_table_nolegacy.csv	c3b49c9ac4b0d14dde82029affe0a893	39103	Table S6 (no legacy edges, exact controllability roles)
+INBOX_2026-09-27/legacy_audit/literature/literature_vs_topology_both.csv	ceab827f7afc337739b60eaa1816b6d9	807	literature volume vs topology with and without the legacy edges (INBOX_2026-09-27 VALUES 2)
+INBOX_2026-09-27/legacy_audit/v7/cd_audit_full.json	5511d9e1cc1b7a3532f3cebabec7c626	549	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_audit_nolegacy.json	18ff81a2658352f2e7882b95b19be96f	487	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_prior30_best_module_full.csv	ea7a29b4384147e28452a8b1b22fa942	887	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_prior30_best_module_nolegacy.csv	6afc889279e716294b59035e023813c0	692	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_seed_frequency.csv	99978454e0a0d8921f8cfdae3f8d9dba	257	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_trio_by_run_full.csv	b27d406ac48cca2dae7c9b6e04e8b2e2	1385	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/cd_trio_by_run_nolegacy.csv	7256d8f99801aced5c1f2913159142f2	1175	Note S6 / Table S9: community-detection claims with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7/sandbox_full/results/v7/cm2_subnetwork_sensitivity.csv	fd0bcc40c4cbf68376de25c0af5afe3d	2174	Note S6 / Table S9: igraph battery run summary and subnetwork sensitivity (full)
+INBOX_2026-09-27/legacy_audit/v7/sandbox_full/results/v7/cm2_igraph_runs.csv	b31dd6dc57ae364eddae6e32632c8fa9	2831	Note S6 / Table S9: igraph battery run summary and subnetwork sensitivity (full)
+INBOX_2026-09-27/legacy_audit/v7/sandbox_nolegacy/results/v7/cm2_subnetwork_sensitivity.csv	527054734a70dee75f561246a8f815e1	2195	Note S6 / Table S9: igraph battery run summary and subnetwork sensitivity (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7/sandbox_nolegacy/results/v7/cm2_igraph_runs.csv	f4b4cf3522f0efd27c407e52d7457e64	2825	Note S6 / Table S9: igraph battery run summary and subnetwork sensitivity (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/jam_converged_consensus.csv	35ab0676b7df33a550a004aaaf0cabae	302	Note S6: GO-BP/KEGG over-representation of the modules and the jActiveModules consensus, with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7b/ora_coreECM_summary.csv	c72794773bfca38dfaeeded07d3b0145	1711	Note S6: GO-BP/KEGG over-representation of the modules and the jActiveModules consensus, with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7b/ora_module_inventory.csv	7c70d961a2a1079924d0efbb548fcbac	26459	Note S6: GO-BP/KEGG over-representation of the modules and the jActiveModules consensus, with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7b/ora_modules_full_term_table.csv.gz	c7917cdc87244f4867e5815d6914cf43	4071938	Note S6: GO-BP/KEGG over-representation of the modules and the jActiveModules consensus, with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7b/ora_reproduction_check.csv	9abd980adb9efa6cbee2d3781ddb2540	313	Note S6: GO-BP/KEGG over-representation of the modules and the jActiveModules consensus, with and without the legacy edges
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_edge_resample_stability.csv	61a12e0f75cce4967580822f4cc40f0b	27752	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_fdr_bisection_trace.csv	30e58d8aec98ec8bb71119a524303498	123	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_fdr_scan.csv	53386e10bcddc595e10a171ef4bba51a	2940	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_fdr_scan_with_members.csv	a3e42868d49549aa290b011f7ca04c00	50675	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_key_stroma_nodes_status.csv	429176a14c913a34c1e2bc1d630291d3	1004	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_module_sens_mid_members.csv	18ccc5a20ee8ec0d3fb8ae5f37686b23	19703	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_module_sens_vign_members.csv	f20ebf189f4aa751d9e93704dc555a5b	54704	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_module_summary.csv	8236df875619f5d998689dc1df417888	6668	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_pri30_overlap_nulls.csv	915fd91adae6bb3bb82e68244ea8c076	348997	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_primary_module_signature_enrichment.csv	c39b34589a1a2924c52776180d0ac6b8	3216	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/bionet_sens_vign_module_signature_enrichment.csv	c102b257e145c9e3262522477be5ad6a	3241	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_calibration.csv	0c2feb5c290d64da299bc4983236274b	108814	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_hallmark_ORA_consensus.csv	b25221d223a7d5ee872beaccfbe9a8f0	5988	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_membership_auc.csv	1fa2e9205ccce4389460dd292a4e1140	87	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_module_enrichment.csv	011deec09473c8e8cbe5a240018b92bf	7639	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_module_vs_z_threshold.csv	a4abeb67d6fe81831d9f2c87523e1dd3	236	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_modules_annotated.csv	0316f39b0c0a5365ce519c12fd209d2a	22667	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_node_selection_frequency.csv	5cc08e278448fafecba063459d2f067c	41207	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_paper_nodes_membership.csv	e59d2ce492a828fbcfb4b873b224d59d	1969	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_paper_sets_scored.csv	a54e601d51bd47bc9c8e0089abefe84e	652	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_prioritisation_circularity.csv	627ad917f2d4db0bd9251d1202c17a9d	468	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_prioritisation_zmatched_test.csv	58339a14cda1bdaf005ee1f58224429a	85	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_reproducibility.csv	92d5b8feb84d62eeb92b6d8d34a436b6	1904	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_stroma_vs_proliferation.csv	a56b1e09010520c5721662ee5dd0359e	727	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_full/results/v7/jam_variant_consensus_enrichment.csv	26679fea63c8320633dbc92a1c9c312f	12264	Note S6 / Table S9: BioNet and jActiveModules results (full)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_edge_resample_stability.csv	880b6131eb4dac2f9e6163897ee2eb7f	27712	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_fdr_bisection_trace.csv	07542273ef2575bda664ff54834be35d	123	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_fdr_scan.csv	4f31a77d38c03103a7488302aadeffe2	2941	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_fdr_scan_with_members.csv	d1a9628ad65f4c150913386360b3ef45	50712	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_key_stroma_nodes_status.csv	1efa155df6b8c59b108065c87b9fc35e	1007	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_module_sens_mid_members.csv	98419ecfdb68f185cdd9ded04247f590	19940	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_module_sens_vign_members.csv	3c6fb134bf6854a6db6becc6fdfe65c3	54697	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_module_summary.csv	da90d785a958f4a0f46643785a11943a	6667	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_pri30_overlap_nulls.csv	20f4aae4aee227ac6b8b75b80dff0cce	348275	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_primary_module_signature_enrichment.csv	584c6d915a091c82d5877aa2ef97c022	3247	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/bionet_sens_vign_module_signature_enrichment.csv	ccf81cc55276851f293c8f36e7e61d7d	3240	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_calibration.csv	19ba2cc1cdbf056fbf6f7ff4779f5951	108841	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_hallmark_ORA_consensus.csv	9863974d5c07888aa8395971ca5231a0	3523	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_membership_auc.csv	0981cd23ad5fecee90cb6ab56f01b28d	87	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_module_enrichment.csv	f7edd87562c736924cfbd3d2b8a7cd1d	7354	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_module_vs_z_threshold.csv	168f324a9d3f2c5dc0ed53b5ddb8a122	215	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_modules_annotated.csv	3932db36a8dc7f8826274a6510641f66	22717	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_node_selection_frequency.csv	3947ba5d08a000d7672781ff047a06bf	41649	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_paper_nodes_membership.csv	b8fd8aa0e27996a5c81aa2199270bab5	1969	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_paper_sets_scored.csv	90f9b0dedbdbf18e386f4637bd037477	653	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_prioritisation_circularity.csv	b23ae65d6f7cd482dcab812f73841727	469	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_prioritisation_zmatched_test.csv	c9013e8bde5b2f906e400f1e02c7ea26	67	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_reproducibility.csv	10297ae161a85e03b984118969a8d478	1867	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_stroma_vs_proliferation.csv	bc46d0cba1b434f2e07710abba71d4f0	661	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+INBOX_2026-09-27/legacy_audit/v7b/sandbox_nolegacy/results/v7/jam_variant_consensus_enrichment.csv	2f0f56235e0001bb3756bf396e5fbb4b	11888	Note S6 / Table S9: BioNet and jActiveModules results (nolegacy)
+logs/v2/R1_graph_and_n3.log	9cd09b4d02d690db9604460e5bc6516f	1128	run record: v2 census / class-diversity run
+logs/v2/R4_export.log	da86a285f4db2ea70404a02fd4d49088	312	run record: v2 census / class-diversity run
+logs/v2/R5_dep_k3_k4.log	2156d4dd2da155af3059a3048f0bbe3e	691	run record: v2 census / class-diversity run
+logs/v2/R5_k3_k4.log	026ace9468fd004d55b1624be42b1d66	726	run record: v2 census / class-diversity run
+logs/v2/R5_k5_aug.log	582fc56599b0ab6f6effa0b5fc0a1569	464	run record: v2 census / class-diversity run
+logs/v2/R5_k6_aug.log	2a5304a63d33cb3a02f160732407782f	475	run record: v2 census / class-diversity run
+logs/v2/R8_string_impact.log	9a18c1ca885e599c9559a66eaa3a52d2	350	run record: v2 census / class-diversity run
+logs/v2/R9_no_string.log	1e372e8d1e2613811ceb7ffaadc44951	420	run record: v2 census / class-diversity run
+logs/v2/build_graph.log	5121401889710258e1b382ecc9396e66	442	run record: v2 census / class-diversity run
+logs/v2/census2_dep_n3.log	895cbe7cd1f49ab0f7a893fe49605344	214	run record: v2 census / class-diversity run
+logs/v2/census2_dep_n4.log	fdeb898b33c4cb01185bedb41967fa9b	378	run record: v2 census / class-diversity run
+logs/v2/census2_dep_n5.log	8032901c084905bd2d494a4d6acd8b82	516	run record: v2 census / class-diversity run
+logs/v2/census2_n3.log	7705927e75b0d48df6586fca80566d99	268	run record: v2 census / class-diversity run
+logs/v2/census2_n4.log	31556f5af1093d115b21ea6859a4c10e	638	run record: v2 census / class-diversity run
+logs/v2/census2_n5.log	8941a83c6615e9aa0844a321bb5ef52a	1249	run record: v2 census / class-diversity run
+logs/v2/census2_n6_exhaustive.log	060a46b1615fb37876cfac7ce4b9d4b3	1684	run record: v2 census / class-diversity run
+logs/v2/census_dep_n67.log	2d9fb13a3ce1676d5bbb4ea21d73484b	2106	run record: v2 census / class-diversity run
+logs/v2/census_n5_sampled.log	9be28fdd8247f17d4f092edb64a5aa5f	3055	run record: v2 census / class-diversity run
+logs/v2/census_n6_exhaustive.log	7ae604d4f0f1bd86667149b49193f377	206	run record: v2 census / class-diversity run
+logs/v2/census_n6_sampled.log	eb6e13325e6667f656df192aabc596db	6522	run record: v2 census / class-diversity run
+logs/v2/census_n7_sampled.log	7d8180be0baead834fe648aa8373ed62	6209	run record: v2 census / class-diversity run
+logs/v2/census_n7_sampled_altq.log	1457b201450796562a0c70994565424b	3819	run record: v2 census / class-diversity run
+logs/v2/classdiv_dep.log	9b63f46bc21ec0cdfbe9153dbc500ff2	883	run record: v2 census / class-diversity run
+logs/v2/classdiv_pub.log	7e403484f9776335c65ed0f9c26bbd17	3062	run record: v2 census / class-diversity run
+logs/v2/make_census_csv.log	2c4651501c347b32a56d0ad36e5ae8a4	1907	run record: v2 census / class-diversity run
+logs/census_k4.log	b46ca51957d12300f7c71175748fa9b4	988	run record: v2 census / class-diversity run
+logs/census_k5.log	ece4597ff4ad5f39277912c6de6ba6d3	1006	run record: v2 census / class-diversity run
+logs/census_k5_s21.log	ce42f3601efb7e1fd81c579d8ee57d14	1025	run record: v2 census / class-diversity run
+logs/census_k5_s22.log	d52dec693a792fde9bcfc20643c2d84e	1026	run record: v2 census / class-diversity run
+logs/census_k5_s23.log	e31df549d0c7fafabf1d035b01e2a3cf	1025	run record: v2 census / class-diversity run
+logs/census_k6.log	997dc4c5337127eac3a5b090a0fedf9c	724	run record: v2 census / class-diversity run
+logs/census_k6_s31.log	7e79d70cc6023a8b501adeff55aeee9c	1047	run record: v2 census / class-diversity run
+logs/census_k6_s32.log	f213228038664806de9064ae023e8018	1047	run record: v2 census / class-diversity run
+logs/census_k6_s33.log	ab5a34a6d15edcdcb3214b0fe2467f18	1047	run record: v2 census / class-diversity run
+logs/classdiv_k3.log	0a29f733fafc1823067e16387e187b7b	1643	run record: v2 census / class-diversity run
+logs/classdiv_k4.log	313749958f007d516e8a69fcf2912606	1856	run record: v2 census / class-diversity run
+logs/classdiv_k5.log	afecfb4e62ee6e06d2da63944e8d2e83	1947	run record: v2 census / class-diversity run
+logs/classdiv_k6.log	2469a937c363d1a5908c4538c6b4dbce	1990	run record: v2 census / class-diversity run
+logs/classdiv_k7.log	efede907adbffdb384633f1b13313fff	1979	run record: v2 census / class-diversity run
+logs/v3/03_higher_order_sweep.log	28015652d520dfcaa803ce1354f079e8	2072	run record: v3 dynamics run
+logs/v3/03c_wellposedness.log	c3b1268dfc8f9d92a4f62f56ea87c01c	4930	run record: v3 dynamics run
+logs/v3/03d_higher_order_compI1.log	9eda120ddc5d51e6b62e09060119acfd	1180	run record: v3 dynamics run
+logs/v3/03e_convergence_audit.log	570623b39698e28fe421ea8473481a2a	4170	run record: v3 dynamics run
+logs/v3/03f_n6_limit_cycle.log	dfa84ef0ce20d5d3989e42b2dc1b9d82	915	run record: v3 dynamics run
+logs/v3/03g_empirical_support.log	22f2477a8ddf199366c4bd3f41caaf11	7718	run record: v3 dynamics run
+logs/v3/07_dynamics.log	07d2ff13924218e5c2aa464af8ac6756	5646	run record: v3 dynamics run
+logs/v3/07b_dynamics_nulls.log	4406b3bd5fd0a9e51299fd3a004e3218	1527	run record: v3 dynamics run
+results/multiomics/brca_copynumber_loci_detail.csv	739329a620233ca108f01f5ab838c7ac	139652	output of scripts/mo_02_copynumber.R
+results/multiomics/brca_copynumber_nodes.csv	7f90aa4d529d0498756139304711078d	151339	output of scripts/mo_02_copynumber.R
+results/multiomics/brca_methylation_background_genes.csv	b4e553716a405554802f61ee915187f5	202644	output of scripts/mo_05_methylation.R
+results/multiomics/brca_methylation_featured_mirna_probes.csv	7cc61a1a387d7a9b959f7257576934c6	13527	output of scripts/mo_05_methylation.R
+results/multiomics/brca_methylation_nodes.csv	89dfab136aedf7e049308c46d3872f31	128744	output of scripts/mo_05_methylation.R
+results/multiomics/brca_mutation_frequency.csv	c027a4bd1a0e8f310b608435f5b7af2b	20049	output of scripts/mo_01_mutation.R; scripts/mo_06_mut_lengthmatched.R
+results/multiomics/brca_mutation_lengthmatched_permutation.csv	84cfccbb522ce3bf18ab02b01df4cebd	434	output of scripts/mo_06_mut_lengthmatched.R
+results/multiomics/brca_mutation_network_vs_background.csv	133927b43fc053b85d486c23ff98dbeb	379	output of scripts/mo_01_mutation.R
+results/multiomics/breast_metabolomics.csv	0e9f7c1123dad65ce8c19af334478b58	157658	output of scripts/E1_metabolomics.R
+results/multiomics/celltype_source.csv	d4950ee1071457da32826b1aae16f9dc	66254	Note S1: 90.2 % and 88.1 % of CAFs vs 11.5 % and 6.2 % of epithelial cells (scripts/ct_04_celltype_source.py:108)
+results/multiomics/celltype_source_long.csv	38a88b38da8ea69c22956e63691de0c4	196193	long-format per-gene x cell-type pseudobulk table (companion of celltype_source.csv); no saved script writes it (NOT FOUND among revision/scripts and the inboxes)
+results/multiomics/celltype_source_mirna_hostgenes.csv	83ef9eb75044413321d1ac07115c5782	5100	output of scripts/ct_07_mirna_hostgenes.py
+results/multiomics/chipseq_TF_collagen_membership.csv	077e69d6923c32b8ce42783f8f644e84	13226	output of scripts/C2_chipseq_libs.py
+results/multiomics/chipseq_TF_collagen_summary.csv	b13ae5ca6d10c48c62f1a067fcf9ef82	3035	output of scripts/C3_perturbation_summary.R
+results/multiomics/cptac_concordance_summary.csv	1a339c8c510e33980063e98531b430b6	4169	Results 3.4: network-edge concordance 69.7 % vs null 57.1 %, and 47.7 % vs 48.4 % (scripts/21_cptac_protein_validation.R:227)
+results/multiomics/cptac_mRNA_protein_concordance.csv	1d200caa3712cdb2891450054531e38f	19601	output of scripts/22_cptac_axes_mrnaprot_phospho.R
+results/multiomics/cptac_miRNA_mRNA_vs_protein.csv	9c02ee195e569c430ea5246fba634ed4	591906	output of scripts/21_cptac_protein_validation.R
+results/multiomics/cptac_named_axes_protein.csv	87a708c8ad88e9d57c5d66b9ad88f3cd	6218	output of scripts/22_cptac_axes_mrnaprot_phospho.R
+results/multiomics/cptac_nfkb_activity_score.csv	63625c985c5846147bda8973c4b9f6e7	2006	output of scripts/24_nfkb_activity_score.R
+results/multiomics/cptac_nfkb_phospho_vs_collagen.csv	ef070cf2c828d5e8d970f923b186d278	22589	output of scripts/22_cptac_axes_mrnaprot_phospho.R
+results/multiomics/cptac_null_pairs.csv	03b98407116eb1d70db2a1c90521866a	4182308	output of scripts/21_cptac_protein_validation.R
+results/multiomics/cptac_paired_mRNA_vs_protein.csv	95fb5785a12118707536d945f0e6b6f6	330	output of scripts/21_cptac_protein_validation.R
+results/multiomics/cptac_sample_overlap.csv	2649ab6ad4235056696c5b55e8a4ed9c	181	output of scripts/20_cptac_prep.R
+results/multiomics/cptac_sensitivity.csv	59d9e0ccba53feff0e3b53b6e4974462	770	output of scripts/22_cptac_axes_mrnaprot_phospho.R
+results/multiomics/depmap_breast_lines_used.csv	730367a1d82b870035e4d539f2b49fcb	3427	output of scripts/A_depmap_essentiality.R
+results/multiomics/depmap_essentiality_nodes.csv	291f8e9cc1ee90608a26e6f358344e3c	130067	output of scripts/A_depmap_essentiality.R
+results/multiomics/depmap_group_comparisons.csv	8b7f6b867405e88d2cde39c535075a4f	1545	DepMap group comparisons, Wilcoxon p = 0.11-0.86 (scripts/A_depmap_essentiality.R:189)
+results/multiomics/depmap_missing_network_genes.txt	527dffa1ccb407480fdf72641f66a20f	21	output of scripts/A_depmap_essentiality.R
+results/multiomics/depmap_named_hubs.csv	4fd37e56e68c919b146068fa49babf3d	5836	output of scripts/A_depmap_essentiality.R
+results/multiomics/depmap_screened_lineages.csv	e24868a7c956341e96e88c2770393646	412	output of scripts/A_depmap_essentiality.R
+results/multiomics/external_cohort_correlations.csv	73c1b72b0f4a927d4347e1bf6b02bb4f	8070	output of scripts/ct_09_external_corr.R
+results/multiomics/external_cohort_info.csv	11b5ff1ccbf872e2415013445599a24c	412	output of scripts/ct_09_external_corr.R
+results/multiomics/external_cohort_replication.csv	1a11562904fd20720df08b687f55b0ee	1642	output of scripts/ct_12_replication_summary.R
+results/multiomics/hub_druggability.csv	7edb3b36a5172166eeb9aafeb83550cb	593377	output of scripts/B_druggability.R
+results/multiomics/hub_druggability_gene_summary.csv	528d3dcf9cd32de7ab484d9d9eef118a	8571	output of scripts/B_druggability.R
+results/multiomics/hub_multiomic_summary.csv	00f47619dfbe39cf1b23e691aaad193b	11940	output of scripts/mo_07_integrate.R
+results/multiomics/lincs_TF_collagen_breastlines.csv	5501102434c73e1ea4c2d49a6694549e	1610	output of scripts/C4_lincs_mcf7.R
+results/multiomics/lincs_TF_collagen_stats.csv	2bb1acdde3d8ca389f5e52a9a20df025	4661	output of scripts/C3_perturbation_summary.R
+results/multiomics/lincs_TF_signatures_collagen.csv	d7c3ab56431f991f5b6b2648f54bd34c	124025	output of scripts/C1_lincs_fetch.py
+results/multiomics/metabolic_pathway_scores.csv	c611b7a535310de51b4937ba1cab723c	426286	output of scripts/E2_pathway_gsva.R
+results/multiomics/metabric_power_downsampling.csv	facd98102031d464f6775a1fff22ad9d	407	output of scripts/ct_11_power_downsample.R
+results/multiomics/metabric_survival_replication.csv	981a38cea984af19a5e8c4bb00fae98f	37365	output of scripts/ct_10_metabric_survival.R
+results/multiomics/mir29_collagen_literature.csv	36998832a7e01897e9a676c4771939cd	7684	output of scripts/D2_mir29_evidence_table.py
+results/multiomics/node_vs_stromal_correlation.csv	9ee1d19d21fc79216a6be02adb9277c1	68903	output of scripts/ct_06_partial_corr.R
+results/multiomics/nrf2_keap1_brca.csv	06bcf863fcbc1e4ca3f9234471aec374	23376	output of scripts/E3_nrf2_keap1.R
+results/multiomics/nrf2_keap1_mutation_by_cohort.csv	965d4854050e54701ab56872a02d2987	1403	output of scripts/E3_nrf2_keap1.R
+results/multiomics/perturbation_TF_collagen.csv	c69c06c7c40ebe3ab113d40eda890ea2	18574	output of scripts/C3_perturbation_summary.R
+results/multiomics/rppa_RELA_pS536_vs_targets.csv	7df6a4b568419e38747868a219f0b41d	1312	output of scripts/23_rppa_second_platform.R
+results/multiomics/rppa_miRNA_target_edges.csv	f9c8ee0cf0bbf1a27a3fa23331682583	83127	output of scripts/23_rppa_second_platform.R
+results/multiomics/rppa_miRNA_target_summary.csv	355c058239e4b86bdb4f91130ab3cb4e	1046	output of scripts/23_rppa_second_platform.R
+results/multiomics/rppa_panel_coverage.csv	f97fb83d7053433f7dc2b14930043702	2299	output of scripts/23_rppa_second_platform.R
+results/multiomics/rppa_protein_vs_mRNA.csv	909e6e27ffab3c6234bbac9f5166e25a	3682	output of scripts/23_rppa_second_platform.R
+results/multiomics/stromal_adjusted_correlations.csv	5a674c7fccde6ebfb14f789e2177c7d2	13996	output of scripts/ct_06_partial_corr.R
+results/multiomics/stromal_adjusted_edge_rho.csv	6d7603bf5a869a20234862b8a2cc05eb	515570	output of scripts/ct_08_network_stromal.R
+results/multiomics/stromal_adjusted_network_concordance.csv	da0a23a0f30138c7b63f6c116ff3c138	601	output of scripts/ct_08_network_stromal.R
+results/multiomics/stromal_stratified_correlations.csv	515f2292266d1e14c419f570c98708f3	4421	output of scripts/ct_13_stratified.R
+results/multiomics/trrust_TF_collagen_records.csv	3b88d67dde0aa616fc2792d8be4ec41a	546	output of scripts/C3_perturbation_summary.R
+results/v4/gsea_ffl_class_background_summary.csv	0c4bda88edce4ba97b82e12d64f3b094	1214	output of scripts/v4/10_final_tables_and_figures.R
+results/v4/gsea_ffl_class_comparison.csv	32bc1254dce0913f6a876d4d14d8c266	81944	output of scripts/v4/07_ffl_class_gsea.R
+results/v4/gsea_ffl_class_network_background_test.csv	62db79ca3c38725a63ccf7decc609307	1568	output of scripts/v4/07_ffl_class_gsea.R
+results/v4/gsea_ffl_class_setmembers.csv	f37159d43fab90cc2a72025eb034cb44	68480	output of scripts/v4/02_build_genesets.R
+results/v4/gsea_ffl_class_setoverlap.csv	d4b5822c8d1750627523ac73603c1a14	1445	output of scripts/v4/07_ffl_class_gsea.R
+results/v4/gsea_ffl_class_transcriptome_background_test.csv	7e4f4c573d5235d65b83e2edad9f1bf5	1080	output of scripts/v4/07_ffl_class_gsea.R
+results/v4/metabolic_ccle_ssgsea_scores.csv	d0104a33d03f7ce431fce1d18691ddd8	378906	output of scripts/v4/28_metabolic_ccle.R
+results/v4/metabolic_ccle_two_lines.csv	385ed67946c09d0e93efdb69b7db04f8	1172	output of scripts/v4/30_metabolic_robustness.R
+results/v4/metabolic_claim_i_glycolysis_tvn.csv	baaf0b0208af20ecffbb9b41a368d2ef	4411	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_i_let7_correlations.csv	5b01002eda4ded481afd3d5898db1197	7766	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_i_let7_network_edges.csv	bf1ac5ea93176aa3718cf13146a83501	14928	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_i_let7_targetset_membership.csv	60900a7fd210c441a59c33d7bc9aef7b	372	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_ii_determinant_genes_tvn.csv	7e0a0bcfd77d9200dd5e465e08ac604f	2470	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_ii_folate_tvn.csv	099f0513aec2550fe4160b79d2633e3d	4940	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_ii_folate_vs_modules.csv	c03fc86791806238c3c1c406742f7ae4	9129	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_iii_agerage_genes_tvn.csv	e6ef48f07e378b0bbe5e74afb819040b	11424	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_claim_iii_agerage_partners.csv	5f27d4f17ac9813f8a4d1e053008ffce	1512	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_feature_correlations.csv	6243554e18940ce5443c3b21d097ce1d	5797117	output of scripts/v4/23_metabolic_associations.R
+results/v4/metabolic_gene_level_tumour_vs_normal.csv	ad1b809fec94b171689cf9a75c90ac70	2364791	output of scripts/v4/24_metabolic_three_claims.R
+results/v4/metabolic_geneset_inventory.csv	c1e88ad20546ec9c5acabc5858f3ec50	90143	output of scripts/v4/20_metabolic_genesets.R
+results/v4/metabolic_metabolite_ST000054.csv	7cb60e38f798b256719ee8ecf2916922	11155	output of scripts/v4/27_metabolite_consistency.R
+results/v4/metabolic_metabolite_ST000054_mediannorm.csv	c898988994a22f13d887f0ae5748ecfb	7149	output of scripts/v4/27_metabolite_consistency.R
+results/v4/metabolic_metabolite_vs_transcript_consistency.csv	3bc963cdbf7b1c245b111609e8acc755	14529	output of scripts/v4/27_metabolite_consistency.R
+results/v4/metabolic_module_leave_shared_out.csv	c7f1b1ebf31e60245653dd3f03f18ddf	9520	output of scripts/v4/25_metabolic_module_overlap_control.R
+results/v4/metabolic_module_overlap_control.csv	a0e36efadab238b7c77c28b0a68e0b7e	866045	output of scripts/v4/25_metabolic_module_overlap_control.R
+results/v4/metabolic_score_method_agreement.csv	5bbd6b8518c5b78f3b5c7886437be43a	26872	output of scripts/v4/21_metabolic_scores.R
+results/v4/metabolic_survival_cox.csv	9554b6e2d282683fd776a2cd52800abe	632984	output of scripts/v4/26_metabolic_survival.R
+results/v4/metabolic_survival_significant.csv	8f82399ceb91d99d7de067c5eca89468	42154	output of scripts/v4/29_metabolic_summary.R
+results/v4/metabolic_tumour_vs_normal.csv	c0a9ed9364b2d8af31ba5f389c93a462	290510	output of scripts/v4/22_metabolic_tumour_vs_normal.R
+results/v4/metabolic_tumour_vs_normal_RANKED.csv	12c5cc483b19239cc5aaff9069788cb0	80885	output of scripts/v4/29_metabolic_summary.R
+results/v4/metabolic_tumour_vs_normal_method_concordance.csv	2cc5a633416991af86f5001e2dedc748	49234	output of scripts/v4/22_metabolic_tumour_vs_normal.R

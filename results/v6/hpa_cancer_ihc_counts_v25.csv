@@ -1,0 +1,1041 @@
+gene,ensembl,hpa_version,antibody,organ,cancer,cell_type,high,medium,low,not_detected,n_patients,ihc_reliability
+BRCA1,ENSG00000012048,25,CAB001946,Female tissues,Breast cancer,Tumor cells,4,4,1,3,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Pancreas,Carcinoid,Tumor cells,0,2,1,1,4,supported
+BRCA1,ENSG00000012048,25,CAB001946,Female tissues,Cervical cancer,Tumor cells,3,6,0,3,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,9,0,1,11,supported
+BRCA1,ENSG00000012048,25,CAB001946,Female tissues,Endometrial cancer,Tumor cells,0,1,5,6,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Brain,Glioma,Tumor cells,1,6,3,2,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,2,1,0,4,supported
+BRCA1,ENSG00000012048,25,CAB001946,Liver & gallbladder,Liver cancer,Tumor cells,0,1,10,1,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Respiratory system,Lung cancer,Tumor cells,1,2,3,6,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,4,4,3,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Skin,Melanoma,Tumor cells,1,6,4,0,11,supported
+BRCA1,ENSG00000012048,25,CAB001946,Female tissues,Ovarian cancer,Tumor cells,1,5,1,5,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Pancreas,Pancreatic cancer,Tumor cells,0,1,10,1,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Male tissues,Prostate cancer,Tumor cells,0,1,7,4,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,5,7,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Skin,Skin cancer,Tumor cells,0,4,6,1,11,supported
+BRCA1,ENSG00000012048,25,CAB001946,Gastrointestinal tract,Stomach cancer,Tumor cells,0,4,5,3,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Male tissues,Testis cancer,Tumor cells,2,6,2,2,12,supported
+BRCA1,ENSG00000012048,25,CAB001946,Endocrine tissues,Thyroid cancer,Tumor cells,1,3,0,0,4,supported
+BRCA1,ENSG00000012048,25,CAB001946,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,9,2,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Female tissues,Breast cancer,Tumor cells,3,9,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Pancreas,Carcinoid,Tumor cells,2,2,0,0,4,supported
+BRCA1,ENSG00000012048,25,HPA034966,Female tissues,Cervical cancer,Tumor cells,4,7,0,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Gastrointestinal tract,Colorectal cancer,Tumor cells,5,6,0,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Female tissues,Endometrial cancer,Tumor cells,1,8,1,0,10,supported
+BRCA1,ENSG00000012048,25,HPA034966,Brain,Glioma,Tumor cells,3,8,0,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Gastrointestinal tract,Head and neck cancer,Tumor cells,4,0,0,0,4,supported
+BRCA1,ENSG00000012048,25,HPA034966,Liver & gallbladder,Liver cancer,Tumor cells,1,6,4,1,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Respiratory system,Lung cancer,Tumor cells,5,7,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,5,5,1,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Skin,Melanoma,Tumor cells,8,4,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Female tissues,Ovarian cancer,Tumor cells,8,4,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Pancreas,Pancreatic cancer,Tumor cells,4,5,1,0,10,supported
+BRCA1,ENSG00000012048,25,HPA034966,Male tissues,Prostate cancer,Tumor cells,2,5,1,0,8,supported
+BRCA1,ENSG00000012048,25,HPA034966,Kidney & urinary bladder,Renal cancer,Tumor cells,1,9,1,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Skin,Skin cancer,Tumor cells,0,12,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA034966,Gastrointestinal tract,Stomach cancer,Tumor cells,2,9,0,0,11,supported
+BRCA1,ENSG00000012048,25,HPA034966,Male tissues,Testis cancer,Tumor cells,7,3,0,0,10,supported
+BRCA1,ENSG00000012048,25,HPA034966,Endocrine tissues,Thyroid cancer,Tumor cells,1,3,0,0,4,supported
+BRCA1,ENSG00000012048,25,HPA034966,Kidney & urinary bladder,Urothelial cancer,Tumor cells,6,5,0,0,11,supported
+BRCA1,ENSG00000012048,25,HPA057371,Female tissues,Breast cancer,Tumor cells,4,4,2,0,10,supported
+BRCA1,ENSG00000012048,25,HPA057371,Pancreas,Carcinoid,Tumor cells,1,0,3,0,4,supported
+BRCA1,ENSG00000012048,25,HPA057371,Female tissues,Cervical cancer,Tumor cells,6,3,1,0,10,supported
+BRCA1,ENSG00000012048,25,HPA057371,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,8,1,0,10,supported
+BRCA1,ENSG00000012048,25,HPA057371,Female tissues,Endometrial cancer,Tumor cells,3,6,2,0,11,supported
+BRCA1,ENSG00000012048,25,HPA057371,Brain,Glioma,Tumor cells,1,6,5,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,2,1,0,4,supported
+BRCA1,ENSG00000012048,25,HPA057371,Liver & gallbladder,Liver cancer,Tumor cells,2,7,3,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Respiratory system,Lung cancer,Tumor cells,3,5,4,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,1,11,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Skin,Melanoma,Tumor cells,1,7,4,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Female tissues,Ovarian cancer,Tumor cells,5,5,0,0,10,supported
+BRCA1,ENSG00000012048,25,HPA057371,Pancreas,Pancreatic cancer,Tumor cells,6,6,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Male tissues,Prostate cancer,Tumor cells,3,6,1,1,11,supported
+BRCA1,ENSG00000012048,25,HPA057371,Kidney & urinary bladder,Renal cancer,Tumor cells,4,2,6,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Skin,Skin cancer,Tumor cells,2,8,0,1,11,supported
+BRCA1,ENSG00000012048,25,HPA057371,Gastrointestinal tract,Stomach cancer,Tumor cells,6,6,0,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Male tissues,Testis cancer,Tumor cells,2,6,4,0,12,supported
+BRCA1,ENSG00000012048,25,HPA057371,Endocrine tissues,Thyroid cancer,Tumor cells,0,3,0,1,4,supported
+BRCA1,ENSG00000012048,25,HPA057371,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,8,2,1,11,supported
+BRCA1,ENSG00000012048,25,CAB080454,Female tissues,Breast cancer,Tumor cells,4,6,2,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Pancreas,Carcinoid,Tumor cells,1,2,0,1,4,supported
+BRCA1,ENSG00000012048,25,CAB080454,Female tissues,Cervical cancer,Tumor cells,0,3,4,5,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,10,2,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Female tissues,Endometrial cancer,Tumor cells,1,8,3,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Brain,Glioma,Tumor cells,3,5,3,0,11,supported
+BRCA1,ENSG00000012048,25,CAB080454,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,1,3,0,4,supported
+BRCA1,ENSG00000012048,25,CAB080454,Liver & gallbladder,Liver cancer,Tumor cells,0,9,3,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Respiratory system,Lung cancer,Tumor cells,0,0,6,6,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,4,8,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Skin,Melanoma,Tumor cells,0,8,4,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Female tissues,Ovarian cancer,Tumor cells,0,3,7,1,11,supported
+BRCA1,ENSG00000012048,25,CAB080454,Pancreas,Pancreatic cancer,Tumor cells,0,8,4,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Male tissues,Prostate cancer,Tumor cells,0,6,3,0,9,supported
+BRCA1,ENSG00000012048,25,CAB080454,Kidney & urinary bladder,Renal cancer,Tumor cells,0,12,0,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Skin,Skin cancer,Tumor cells,0,0,8,4,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Gastrointestinal tract,Stomach cancer,Tumor cells,1,8,2,0,11,supported
+BRCA1,ENSG00000012048,25,CAB080454,Male tissues,Testis cancer,Tumor cells,0,8,4,0,12,supported
+BRCA1,ENSG00000012048,25,CAB080454,Endocrine tissues,Thyroid cancer,Tumor cells,0,3,1,0,4,supported
+BRCA1,ENSG00000012048,25,CAB080454,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,8,2,0,11,supported
+CCND2,ENSG00000118971,25,HPA049138,Female tissues,Breast cancer,Tumor cells,0,1,2,9,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Pancreas,Carcinoid,Tumor cells,1,0,1,2,4,approved
+CCND2,ENSG00000118971,25,HPA049138,Female tissues,Cervical cancer,Tumor cells,2,1,2,6,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,2,3,6,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Female tissues,Endometrial cancer,Tumor cells,0,1,2,8,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Brain,Glioma,Tumor cells,0,0,4,8,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,2,2,4,approved
+CCND2,ENSG00000118971,25,HPA049138,Liver & gallbladder,Liver cancer,Tumor cells,0,0,4,8,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Respiratory system,Lung cancer,Tumor cells,0,3,5,3,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,1,0,9,10,approved
+CCND2,ENSG00000118971,25,HPA049138,Skin,Melanoma,Tumor cells,0,3,5,3,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Female tissues,Ovarian cancer,Tumor cells,1,3,1,7,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Pancreas,Pancreatic cancer,Tumor cells,1,2,6,2,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,1,11,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Skin,Skin cancer,Tumor cells,0,0,8,3,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Gastrointestinal tract,Stomach cancer,Tumor cells,0,2,7,3,12,approved
+CCND2,ENSG00000118971,25,HPA049138,Male tissues,Testis cancer,Tumor cells,0,1,0,10,11,approved
+CCND2,ENSG00000118971,25,HPA049138,Endocrine tissues,Thyroid cancer,Tumor cells,2,2,0,0,4,approved
+CCND2,ENSG00000118971,25,HPA049138,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,3,7,10,approved
+COL1A1,ENSG00000108821,25,HPA011795,Female tissues,Breast cancer,Tumor cells,0,8,3,1,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Pancreas,Carcinoid,Tumor cells,0,1,0,2,3,approved
+COL1A1,ENSG00000108821,25,HPA011795,Female tissues,Cervical cancer,Tumor cells,0,7,4,1,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,11,0,0,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Female tissues,Endometrial cancer,Tumor cells,2,4,5,1,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Brain,Glioma,Tumor cells,0,0,3,9,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,4,0,0,4,approved
+COL1A1,ENSG00000108821,25,HPA011795,Liver & gallbladder,Liver cancer,Tumor cells,1,2,2,7,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Respiratory system,Lung cancer,Tumor cells,0,3,4,4,11,approved
+COL1A1,ENSG00000108821,25,HPA011795,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,3,7,2,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Skin,Melanoma,Tumor cells,0,1,1,9,11,approved
+COL1A1,ENSG00000108821,25,HPA011795,Female tissues,Ovarian cancer,Tumor cells,0,3,5,3,11,approved
+COL1A1,ENSG00000108821,25,HPA011795,Pancreas,Pancreatic cancer,Tumor cells,1,3,3,3,10,approved
+COL1A1,ENSG00000108821,25,HPA011795,Male tissues,Prostate cancer,Tumor cells,0,5,5,1,11,approved
+COL1A1,ENSG00000108821,25,HPA011795,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,4,8,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Skin,Skin cancer,Tumor cells,1,5,3,0,9,approved
+COL1A1,ENSG00000108821,25,HPA011795,Gastrointestinal tract,Stomach cancer,Tumor cells,1,3,4,2,10,approved
+COL1A1,ENSG00000108821,25,HPA011795,Male tissues,Testis cancer,Tumor cells,0,3,1,8,12,approved
+COL1A1,ENSG00000108821,25,HPA011795,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,1,2,4,approved
+COL1A1,ENSG00000108821,25,HPA011795,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,3,1,5,9,approved
+COL3A1,ENSG00000168542,25,HPA007583,Female tissues,Breast cancer,Tumor cells,0,4,2,6,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Pancreas,Carcinoid,Tumor cells,0,0,1,3,4,approved
+COL3A1,ENSG00000168542,25,HPA007583,Female tissues,Cervical cancer,Tumor cells,0,1,5,4,10,approved
+COL3A1,ENSG00000168542,25,HPA007583,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,2,5,5,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Female tissues,Endometrial cancer,Tumor cells,0,1,1,9,11,approved
+COL3A1,ENSG00000168542,25,HPA007583,Brain,Glioma,Tumor cells,0,2,3,7,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,1,1,1,3,approved
+COL3A1,ENSG00000168542,25,HPA007583,Liver & gallbladder,Liver cancer,Tumor cells,0,1,4,7,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Respiratory system,Lung cancer,Tumor cells,0,1,5,5,11,approved
+COL3A1,ENSG00000168542,25,HPA007583,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,2,10,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Skin,Melanoma,Tumor cells,1,2,2,4,9,approved
+COL3A1,ENSG00000168542,25,HPA007583,Female tissues,Ovarian cancer,Tumor cells,0,1,4,6,11,approved
+COL3A1,ENSG00000168542,25,HPA007583,Pancreas,Pancreatic cancer,Tumor cells,0,5,1,6,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Male tissues,Prostate cancer,Tumor cells,0,0,0,10,10,approved
+COL3A1,ENSG00000168542,25,HPA007583,Kidney & urinary bladder,Renal cancer,Tumor cells,0,5,2,5,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Skin,Skin cancer,Tumor cells,1,1,3,6,11,approved
+COL3A1,ENSG00000168542,25,HPA007583,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,HPA007583,Male tissues,Testis cancer,Tumor cells,0,0,5,6,11,approved
+COL3A1,ENSG00000168542,25,HPA007583,Endocrine tissues,Thyroid cancer,Tumor cells,0,2,2,0,4,approved
+COL3A1,ENSG00000168542,25,HPA007583,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,4,2,6,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Female tissues,Breast cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,approved
+COL3A1,ENSG00000168542,25,CAB016766,Female tissues,Cervical cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Female tissues,Endometrial cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Brain,Glioma,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,approved
+COL3A1,ENSG00000168542,25,CAB016766,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Respiratory system,Lung cancer,Tumor cells,0,0,0,9,9,approved
+COL3A1,ENSG00000168542,25,CAB016766,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Skin,Melanoma,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Female tissues,Ovarian cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Male tissues,Prostate cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Skin,Skin cancer,Tumor cells,0,0,0,9,9,approved
+COL3A1,ENSG00000168542,25,CAB016766,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB016766,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB016766,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,approved
+COL3A1,ENSG00000168542,25,CAB016766,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Female tissues,Breast cancer,Tumor cells,0,0,1,10,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,approved
+COL3A1,ENSG00000168542,25,CAB059993,Female tissues,Cervical cancer,Tumor cells,0,0,1,10,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,4,7,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Female tissues,Endometrial cancer,Tumor cells,0,0,7,4,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Brain,Glioma,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,approved
+COL3A1,ENSG00000168542,25,CAB059993,Liver & gallbladder,Liver cancer,Tumor cells,0,0,3,9,12,approved
+COL3A1,ENSG00000168542,25,CAB059993,Respiratory system,Lung cancer,Tumor cells,0,1,0,10,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Skin,Melanoma,Tumor cells,0,1,3,5,9,approved
+COL3A1,ENSG00000168542,25,CAB059993,Female tissues,Ovarian cancer,Tumor cells,0,0,1,10,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Pancreas,Pancreatic cancer,Tumor cells,0,0,3,9,12,approved
+COL3A1,ENSG00000168542,25,CAB059993,Male tissues,Prostate cancer,Tumor cells,0,0,0,11,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Kidney & urinary bladder,Renal cancer,Tumor cells,0,1,0,11,12,approved
+COL3A1,ENSG00000168542,25,CAB059993,Skin,Skin cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB059993,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,approved
+COL3A1,ENSG00000168542,25,CAB059993,Male tissues,Testis cancer,Tumor cells,0,1,3,7,11,approved
+COL3A1,ENSG00000168542,25,CAB059993,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,1,3,4,approved
+COL3A1,ENSG00000168542,25,CAB059993,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,2,9,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Female tissues,Breast cancer,Tumor cells,1,3,4,4,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Pancreas,Carcinoid,Tumor cells,0,3,1,0,4,approved
+CXCL12,ENSG00000107562,25,CAB017564,Female tissues,Cervical cancer,Tumor cells,0,0,3,8,11,approved
+CXCL12,ENSG00000107562,25,CAB017564,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,1,1,9,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Female tissues,Endometrial cancer,Tumor cells,0,0,1,10,11,approved
+CXCL12,ENSG00000107562,25,CAB017564,Brain,Glioma,Tumor cells,0,0,0,12,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,1,2,3,approved
+CXCL12,ENSG00000107562,25,CAB017564,Liver & gallbladder,Liver cancer,Tumor cells,0,1,6,5,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Respiratory system,Lung cancer,Tumor cells,0,2,2,6,10,approved
+CXCL12,ENSG00000107562,25,CAB017564,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,3,0,2,7,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Skin,Melanoma,Tumor cells,0,4,6,2,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Female tissues,Ovarian cancer,Tumor cells,0,5,6,1,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Pancreas,Pancreatic cancer,Tumor cells,0,4,4,3,11,approved
+CXCL12,ENSG00000107562,25,CAB017564,Male tissues,Prostate cancer,Tumor cells,0,4,0,5,9,approved
+CXCL12,ENSG00000107562,25,CAB017564,Kidney & urinary bladder,Renal cancer,Tumor cells,0,7,3,2,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Skin,Skin cancer,Tumor cells,0,0,0,12,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,2,9,11,approved
+CXCL12,ENSG00000107562,25,CAB017564,Male tissues,Testis cancer,Tumor cells,0,1,3,8,12,approved
+CXCL12,ENSG00000107562,25,CAB017564,Endocrine tissues,Thyroid cancer,Tumor cells,0,3,1,0,4,approved
+CXCL12,ENSG00000107562,25,CAB017564,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,3,4,3,10,approved
+DNMT1,ENSG00000130816,25,HPA002694,Female tissues,Breast cancer,Tumor cells,0,3,5,3,11,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Pancreas,Carcinoid,Tumor cells,0,0,3,1,4,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Female tissues,Cervical cancer,Tumor cells,0,3,4,5,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,5,1,5,11,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Female tissues,Endometrial cancer,Tumor cells,0,2,2,8,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Brain,Glioma,Tumor cells,0,1,2,9,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,3,1,0,4,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Liver & gallbladder,Liver cancer,Tumor cells,0,0,4,8,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Respiratory system,Lung cancer,Tumor cells,0,1,3,8,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,2,7,2,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Skin,Melanoma,Tumor cells,0,0,3,9,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Female tissues,Ovarian cancer,Tumor cells,0,1,7,4,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,11,11,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Male tissues,Prostate cancer,Tumor cells,0,0,1,11,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,1,10,11,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Skin,Skin cancer,Tumor cells,0,2,0,8,10,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,2,7,10,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,2,2,4,enhanced
+DNMT1,ENSG00000130816,25,HPA002694,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,6,5,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Female tissues,Breast cancer,Tumor cells,0,4,5,3,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Pancreas,Carcinoid,Tumor cells,0,0,3,1,4,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Female tissues,Cervical cancer,Tumor cells,1,8,3,0,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Gastrointestinal tract,Colorectal cancer,Tumor cells,4,5,2,1,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Female tissues,Endometrial cancer,Tumor cells,0,1,6,4,11,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Brain,Glioma,Tumor cells,0,5,7,0,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,4,0,0,4,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Liver & gallbladder,Liver cancer,Tumor cells,1,1,6,2,10,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Respiratory system,Lung cancer,Tumor cells,3,2,3,4,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,3,5,3,1,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Skin,Melanoma,Tumor cells,2,4,2,4,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Female tissues,Ovarian cancer,Tumor cells,1,2,4,5,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Pancreas,Pancreatic cancer,Tumor cells,0,2,8,2,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Kidney & urinary bladder,Renal cancer,Tumor cells,0,1,7,4,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Skin,Skin cancer,Tumor cells,0,2,4,4,10,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Gastrointestinal tract,Stomach cancer,Tumor cells,3,4,3,1,11,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Male tissues,Testis cancer,Tumor cells,2,1,8,1,12,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,1,2,3,enhanced
+DNMT1,ENSG00000130816,25,CAB005876,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,5,6,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Female tissues,Breast cancer,Tumor cells,3,6,3,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Pancreas,Carcinoid,Tumor cells,1,1,2,0,4,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Female tissues,Cervical cancer,Tumor cells,5,4,2,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Gastrointestinal tract,Colorectal cancer,Tumor cells,6,4,2,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Female tissues,Endometrial cancer,Tumor cells,1,4,5,0,10,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Brain,Glioma,Tumor cells,2,9,1,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,1,0,1,4,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Liver & gallbladder,Liver cancer,Tumor cells,6,1,4,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Respiratory system,Lung cancer,Tumor cells,2,8,0,0,10,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,5,4,2,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Skin,Melanoma,Tumor cells,8,2,1,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Female tissues,Ovarian cancer,Tumor cells,5,4,2,1,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Pancreas,Pancreatic cancer,Tumor cells,4,5,2,1,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Male tissues,Prostate cancer,Tumor cells,0,4,2,5,11,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Kidney & urinary bladder,Renal cancer,Tumor cells,0,4,8,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Skin,Skin cancer,Tumor cells,1,4,5,2,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Gastrointestinal tract,Stomach cancer,Tumor cells,2,5,2,0,9,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Male tissues,Testis cancer,Tumor cells,1,3,4,4,12,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Endocrine tissues,Thyroid cancer,Tumor cells,1,2,0,0,3,enhanced
+E2F1,ENSG00000101412,25,CAB000329,Kidney & urinary bladder,Urothelial cancer,Tumor cells,4,4,3,0,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Female tissues,Breast cancer,Tumor cells,5,5,2,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Pancreas,Carcinoid,Tumor cells,2,2,0,0,4,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Female tissues,Cervical cancer,Tumor cells,6,5,1,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,11,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Female tissues,Endometrial cancer,Tumor cells,2,8,1,0,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Brain,Glioma,Tumor cells,3,8,0,1,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,1,0,0,3,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Liver & gallbladder,Liver cancer,Tumor cells,7,5,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Respiratory system,Lung cancer,Tumor cells,6,4,2,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,8,4,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Skin,Melanoma,Tumor cells,9,3,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Female tissues,Ovarian cancer,Tumor cells,4,6,1,0,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Pancreas,Pancreatic cancer,Tumor cells,1,8,1,1,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Male tissues,Prostate cancer,Tumor cells,0,8,2,1,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Kidney & urinary bladder,Renal cancer,Tumor cells,4,8,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Skin,Skin cancer,Tumor cells,3,6,1,1,11,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Gastrointestinal tract,Stomach cancer,Tumor cells,4,8,0,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Male tissues,Testis cancer,Tumor cells,5,6,1,0,12,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Endocrine tissues,Thyroid cancer,Tumor cells,1,3,0,0,4,enhanced
+E2F1,ENSG00000101412,25,HPA008003,Kidney & urinary bladder,Urothelial cancer,Tumor cells,2,8,0,0,10,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Female tissues,Breast cancer,Tumor cells,2,8,0,0,10,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Pancreas,Carcinoid,Tumor cells,0,2,0,2,4,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Female tissues,Cervical cancer,Tumor cells,2,8,1,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Gastrointestinal tract,Colorectal cancer,Tumor cells,5,6,1,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Female tissues,Endometrial cancer,Tumor cells,4,6,2,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Brain,Glioma,Tumor cells,0,8,4,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,2,0,0,4,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Liver & gallbladder,Liver cancer,Tumor cells,4,6,0,2,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Respiratory system,Lung cancer,Tumor cells,1,8,1,1,11,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,8,4,0,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Skin,Melanoma,Tumor cells,4,7,0,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Female tissues,Ovarian cancer,Tumor cells,0,11,1,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Pancreas,Pancreatic cancer,Tumor cells,0,8,1,0,9,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Male tissues,Prostate cancer,Tumor cells,0,12,0,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Kidney & urinary bladder,Renal cancer,Tumor cells,0,7,3,1,11,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Skin,Skin cancer,Tumor cells,4,7,0,0,11,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Gastrointestinal tract,Stomach cancer,Tumor cells,2,10,0,0,12,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Male tissues,Testis cancer,Tumor cells,2,7,0,1,10,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Endocrine tissues,Thyroid cancer,Tumor cells,0,3,1,0,4,enhanced
+E2F1,ENSG00000101412,25,CAB019308,Kidney & urinary bladder,Urothelial cancer,Tumor cells,2,9,0,0,11,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Female tissues,Breast cancer,Tumor cells,7,0,0,3,10,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Female tissues,Cervical cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Female tissues,Endometrial cancer,Tumor cells,2,2,1,6,11,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,10,10,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Respiratory system,Lung cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Skin,Melanoma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Female tissues,Ovarian cancer,Tumor cells,2,1,2,7,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Male tissues,Prostate cancer,Tumor cells,0,0,2,9,11,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Skin,Skin cancer,Tumor cells,0,0,1,11,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB000037,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Female tissues,Breast cancer,Tumor cells,7,2,0,3,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Pancreas,Carcinoid,Tumor cells,0,0,1,3,4,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Female tissues,Cervical cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Female tissues,Endometrial cancer,Tumor cells,2,3,2,5,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Respiratory system,Lung cancer,Tumor cells,0,0,0,9,9,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,8,8,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Skin,Melanoma,Tumor cells,0,0,0,10,10,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Female tissues,Ovarian cancer,Tumor cells,1,2,2,5,10,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Skin,Skin cancer,Tumor cells,0,0,0,9,9,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Male tissues,Testis cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,3,3,enhanced
+ESR1,ENSG00000091831,25,HPA000449,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Female tissues,Breast cancer,Tumor cells,6,2,0,3,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Pancreas,Carcinoid,Tumor cells,0,0,3,1,4,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Female tissues,Cervical cancer,Tumor cells,0,0,3,9,12,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,4,7,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Female tissues,Endometrial cancer,Tumor cells,0,2,8,1,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Liver & gallbladder,Liver cancer,Tumor cells,0,3,6,2,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Respiratory system,Lung cancer,Tumor cells,0,0,1,10,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,8,8,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Skin,Melanoma,Tumor cells,0,0,3,6,9,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Female tissues,Ovarian cancer,Tumor cells,1,2,4,3,10,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Pancreas,Pancreatic cancer,Tumor cells,0,0,4,8,12,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Male tissues,Prostate cancer,Tumor cells,0,0,9,3,12,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,3,8,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Skin,Skin cancer,Tumor cells,0,0,1,9,10,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,2,9,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Male tissues,Testis cancer,Tumor cells,0,0,2,9,11,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,2,1,3,enhanced
+ESR1,ENSG00000091831,25,HPA000450,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,3,9,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Female tissues,Breast cancer,Tumor cells,5,3,2,1,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Female tissues,Endometrial cancer,Tumor cells,1,5,2,2,10,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Liver & gallbladder,Liver cancer,Tumor cells,0,0,1,11,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Respiratory system,Lung cancer,Tumor cells,0,2,0,10,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,10,10,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Skin,Melanoma,Tumor cells,0,1,0,11,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Female tissues,Ovarian cancer,Tumor cells,0,5,2,4,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Male tissues,Prostate cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Skin,Skin cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB055099,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Female tissues,Breast cancer,Tumor cells,2,5,3,2,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Female tissues,Endometrial cancer,Tumor cells,1,4,5,2,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Respiratory system,Lung cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Skin,Melanoma,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Female tissues,Ovarian cancer,Tumor cells,0,1,6,5,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Skin,Skin cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Male tissues,Testis cancer,Tumor cells,0,0,0,11,11,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+ESR1,ENSG00000091831,25,CAB072858,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Female tissues,Breast cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,10,10,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Female tissues,Endometrial cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Brain,Glioma,Tumor cells,0,0,1,11,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Respiratory system,Lung cancer,Tumor cells,0,2,0,9,11,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,5,4,1,2,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Skin,Melanoma,Tumor cells,0,1,5,4,10,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Female tissues,Ovarian cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Skin,Skin cancer,Tumor cells,0,0,1,11,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,1,11,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+ETS1,ENSG00000134954,25,CAB002575,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,0,11,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Female tissues,Breast cancer,Tumor cells,4,6,2,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Pancreas,Carcinoid,Tumor cells,2,1,0,1,4,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Female tissues,Cervical cancer,Tumor cells,11,0,1,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Gastrointestinal tract,Colorectal cancer,Tumor cells,9,2,0,0,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Female tissues,Endometrial cancer,Tumor cells,2,8,1,0,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Brain,Glioma,Tumor cells,3,3,5,1,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,2,0,0,4,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Liver & gallbladder,Liver cancer,Tumor cells,5,1,3,2,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Respiratory system,Lung cancer,Tumor cells,9,3,0,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,8,4,0,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Skin,Melanoma,Tumor cells,10,1,1,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Female tissues,Ovarian cancer,Tumor cells,4,5,1,0,10,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Pancreas,Pancreatic cancer,Tumor cells,3,5,2,0,10,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Male tissues,Prostate cancer,Tumor cells,1,3,6,1,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,6,5,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Skin,Skin cancer,Tumor cells,12,0,0,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Gastrointestinal tract,Stomach cancer,Tumor cells,7,3,2,0,12,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Male tissues,Testis cancer,Tumor cells,7,4,0,0,11,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Endocrine tissues,Thyroid cancer,Tumor cells,0,2,2,0,4,enhanced
+EZH2,ENSG00000106462,25,CAB009589,Kidney & urinary bladder,Urothelial cancer,Tumor cells,6,1,4,0,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Female tissues,Breast cancer,Tumor cells,2,3,1,5,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Pancreas,Carcinoid,Tumor cells,0,1,1,2,4,enhanced
+FN1,ENSG00000115414,25,CAB000126,Female tissues,Cervical cancer,Tumor cells,1,3,7,1,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,1,1,8,10,enhanced
+FN1,ENSG00000115414,25,CAB000126,Female tissues,Endometrial cancer,Tumor cells,0,6,3,2,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Brain,Glioma,Tumor cells,2,0,0,10,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,1,3,0,4,enhanced
+FN1,ENSG00000115414,25,CAB000126,Liver & gallbladder,Liver cancer,Tumor cells,4,5,3,0,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Respiratory system,Lung cancer,Tumor cells,2,2,4,4,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,5,4,3,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Skin,Melanoma,Tumor cells,1,1,7,1,10,enhanced
+FN1,ENSG00000115414,25,CAB000126,Female tissues,Ovarian cancer,Tumor cells,0,0,3,9,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Pancreas,Pancreatic cancer,Tumor cells,2,2,5,2,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Male tissues,Prostate cancer,Tumor cells,0,1,2,9,12,enhanced
+FN1,ENSG00000115414,25,CAB000126,Kidney & urinary bladder,Renal cancer,Tumor cells,2,1,3,3,9,enhanced
+FN1,ENSG00000115414,25,CAB000126,Skin,Skin cancer,Tumor cells,0,2,3,6,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Gastrointestinal tract,Stomach cancer,Tumor cells,0,4,2,4,10,enhanced
+FN1,ENSG00000115414,25,CAB000126,Male tissues,Testis cancer,Tumor cells,1,4,2,4,11,enhanced
+FN1,ENSG00000115414,25,CAB000126,Endocrine tissues,Thyroid cancer,Tumor cells,1,1,1,1,4,enhanced
+FN1,ENSG00000115414,25,CAB000126,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,4,3,5,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Female tissues,Breast cancer,Tumor cells,0,2,2,8,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Pancreas,Carcinoid,Tumor cells,0,0,1,3,4,enhanced
+FN1,ENSG00000115414,25,HPA027066,Female tissues,Cervical cancer,Tumor cells,0,0,5,7,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,2,4,4,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Female tissues,Endometrial cancer,Tumor cells,1,1,1,8,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Brain,Glioma,Tumor cells,0,0,2,9,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,2,2,4,enhanced
+FN1,ENSG00000115414,25,HPA027066,Liver & gallbladder,Liver cancer,Tumor cells,3,4,2,3,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Respiratory system,Lung cancer,Tumor cells,0,2,5,5,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,1,11,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Skin,Melanoma,Tumor cells,0,3,2,7,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Female tissues,Ovarian cancer,Tumor cells,0,0,2,7,9,enhanced
+FN1,ENSG00000115414,25,HPA027066,Pancreas,Pancreatic cancer,Tumor cells,3,3,3,2,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Male tissues,Prostate cancer,Tumor cells,0,0,2,9,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,2,10,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Skin,Skin cancer,Tumor cells,0,1,1,9,11,enhanced
+FN1,ENSG00000115414,25,HPA027066,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,3,4,8,enhanced
+FN1,ENSG00000115414,25,HPA027066,Male tissues,Testis cancer,Tumor cells,0,1,7,4,12,enhanced
+FN1,ENSG00000115414,25,HPA027066,Endocrine tissues,Thyroid cancer,Tumor cells,1,2,0,1,4,enhanced
+FN1,ENSG00000115414,25,HPA027066,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,4,3,4,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Female tissues,Breast cancer,Tumor cells,3,6,0,0,9,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,1,3,6,10,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Female tissues,Endometrial cancer,Tumor cells,0,0,0,11,11,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Brain,Glioma,Tumor cells,0,0,0,10,10,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Liver & gallbladder,Liver cancer,Tumor cells,0,1,0,10,11,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Respiratory system,Lung cancer,Tumor cells,0,0,0,12,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Skin,Melanoma,Tumor cells,0,0,0,11,11,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Female tissues,Ovarian cancer,Tumor cells,0,1,0,9,10,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Pancreas,Pancreatic cancer,Tumor cells,0,2,0,9,11,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Male tissues,Prostate cancer,Tumor cells,0,0,1,9,10,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Skin,Skin cancer,Tumor cells,0,0,2,10,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,1,11,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Male tissues,Testis cancer,Tumor cells,0,0,3,9,12,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,3,3,enhanced
+GATA3,ENSG00000107485,25,CAB016217,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,2,2,7,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Female tissues,Breast cancer,Tumor cells,3,4,2,2,11,enhanced
+JUN,ENSG00000177606,25,CAB003801,Pancreas,Carcinoid,Tumor cells,0,1,1,1,3,enhanced
+JUN,ENSG00000177606,25,CAB003801,Female tissues,Cervical cancer,Tumor cells,10,2,0,0,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Gastrointestinal tract,Colorectal cancer,Tumor cells,3,6,2,0,11,enhanced
+JUN,ENSG00000177606,25,CAB003801,Female tissues,Endometrial cancer,Tumor cells,2,5,1,4,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Brain,Glioma,Tumor cells,1,7,2,2,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,0,1,1,4,enhanced
+JUN,ENSG00000177606,25,CAB003801,Liver & gallbladder,Liver cancer,Tumor cells,1,0,3,6,10,enhanced
+JUN,ENSG00000177606,25,CAB003801,Respiratory system,Lung cancer,Tumor cells,3,6,2,1,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,1,4,7,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Skin,Melanoma,Tumor cells,2,4,2,3,11,enhanced
+JUN,ENSG00000177606,25,CAB003801,Female tissues,Ovarian cancer,Tumor cells,2,6,2,2,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Pancreas,Pancreatic cancer,Tumor cells,1,5,2,3,11,enhanced
+JUN,ENSG00000177606,25,CAB003801,Male tissues,Prostate cancer,Tumor cells,1,4,1,4,10,enhanced
+JUN,ENSG00000177606,25,CAB003801,Kidney & urinary bladder,Renal cancer,Tumor cells,2,4,3,3,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Skin,Skin cancer,Tumor cells,9,3,0,0,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Gastrointestinal tract,Stomach cancer,Tumor cells,0,3,4,5,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Male tissues,Testis cancer,Tumor cells,0,0,3,9,12,enhanced
+JUN,ENSG00000177606,25,CAB003801,Endocrine tissues,Thyroid cancer,Tumor cells,0,2,1,1,4,enhanced
+JUN,ENSG00000177606,25,CAB003801,Kidney & urinary bladder,Urothelial cancer,Tumor cells,4,1,4,3,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Female tissues,Breast cancer,Tumor cells,0,3,2,7,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Pancreas,Carcinoid,Tumor cells,0,1,2,1,4,enhanced
+JUN,ENSG00000177606,25,CAB007780,Female tissues,Cervical cancer,Tumor cells,2,7,0,3,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,7,4,0,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Female tissues,Endometrial cancer,Tumor cells,1,2,1,7,11,enhanced
+JUN,ENSG00000177606,25,CAB007780,Brain,Glioma,Tumor cells,0,6,1,4,11,enhanced
+JUN,ENSG00000177606,25,CAB007780,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,1,0,1,4,enhanced
+JUN,ENSG00000177606,25,CAB007780,Liver & gallbladder,Liver cancer,Tumor cells,0,2,3,7,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Respiratory system,Lung cancer,Tumor cells,3,3,3,3,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,1,2,9,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Skin,Melanoma,Tumor cells,2,1,1,8,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Female tissues,Ovarian cancer,Tumor cells,1,4,2,4,11,enhanced
+JUN,ENSG00000177606,25,CAB007780,Pancreas,Pancreatic cancer,Tumor cells,0,5,2,5,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Male tissues,Prostate cancer,Tumor cells,0,2,3,7,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,1,10,11,enhanced
+JUN,ENSG00000177606,25,CAB007780,Skin,Skin cancer,Tumor cells,5,5,1,1,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,5,6,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Male tissues,Testis cancer,Tumor cells,0,0,3,9,12,enhanced
+JUN,ENSG00000177606,25,CAB007780,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,2,1,4,enhanced
+JUN,ENSG00000177606,25,CAB007780,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,4,2,5,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Female tissues,Breast cancer,Tumor cells,3,7,2,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Pancreas,Carcinoid,Tumor cells,0,3,1,0,4,enhanced
+JUN,ENSG00000177606,25,HPA066898,Female tissues,Cervical cancer,Tumor cells,9,3,0,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Gastrointestinal tract,Colorectal cancer,Tumor cells,10,2,0,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Female tissues,Endometrial cancer,Tumor cells,3,2,4,3,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Brain,Glioma,Tumor cells,7,4,0,1,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Gastrointestinal tract,Head and neck cancer,Tumor cells,4,0,0,0,4,enhanced
+JUN,ENSG00000177606,25,HPA066898,Liver & gallbladder,Liver cancer,Tumor cells,1,6,2,3,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Respiratory system,Lung cancer,Tumor cells,2,8,2,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,2,1,8,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Skin,Melanoma,Tumor cells,4,5,0,2,11,enhanced
+JUN,ENSG00000177606,25,HPA066898,Female tissues,Ovarian cancer,Tumor cells,6,6,0,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Pancreas,Pancreatic cancer,Tumor cells,10,1,0,1,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Male tissues,Prostate cancer,Tumor cells,1,7,2,2,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Kidney & urinary bladder,Renal cancer,Tumor cells,7,5,0,0,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Skin,Skin cancer,Tumor cells,10,1,0,0,11,enhanced
+JUN,ENSG00000177606,25,HPA066898,Gastrointestinal tract,Stomach cancer,Tumor cells,7,3,0,2,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Male tissues,Testis cancer,Tumor cells,1,1,2,8,12,enhanced
+JUN,ENSG00000177606,25,HPA066898,Endocrine tissues,Thyroid cancer,Tumor cells,0,4,0,0,4,enhanced
+JUN,ENSG00000177606,25,HPA066898,Kidney & urinary bladder,Urothelial cancer,Tumor cells,5,3,1,3,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Female tissues,Breast cancer,Tumor cells,0,3,3,6,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Pancreas,Carcinoid,Tumor cells,0,2,1,1,4,enhanced
+JUN,ENSG00000177606,25,CAB080216,Female tissues,Cervical cancer,Tumor cells,0,1,4,7,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Gastrointestinal tract,Colorectal cancer,Tumor cells,2,4,2,4,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Female tissues,Endometrial cancer,Tumor cells,0,2,5,5,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Brain,Glioma,Tumor cells,9,1,0,1,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,0,1,0,2,enhanced
+JUN,ENSG00000177606,25,CAB080216,Liver & gallbladder,Liver cancer,Tumor cells,0,1,6,4,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Respiratory system,Lung cancer,Tumor cells,0,0,3,9,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,4,4,0,3,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Skin,Melanoma,Tumor cells,3,7,1,0,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Female tissues,Ovarian cancer,Tumor cells,0,2,4,6,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Pancreas,Pancreatic cancer,Tumor cells,0,4,5,2,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Male tissues,Prostate cancer,Tumor cells,1,1,5,5,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Kidney & urinary bladder,Renal cancer,Tumor cells,0,7,1,4,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Skin,Skin cancer,Tumor cells,1,7,3,0,11,enhanced
+JUN,ENSG00000177606,25,CAB080216,Gastrointestinal tract,Stomach cancer,Tumor cells,0,5,3,4,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Male tissues,Testis cancer,Tumor cells,0,0,1,11,12,enhanced
+JUN,ENSG00000177606,25,CAB080216,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,2,0,3,enhanced
+JUN,ENSG00000177606,25,CAB080216,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,6,3,10,enhanced
+JUN,ENSG00000177606,25,CAB080219,Female tissues,Breast cancer,Tumor cells,3,2,1,6,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Pancreas,Carcinoid,Tumor cells,0,0,2,2,4,enhanced
+JUN,ENSG00000177606,25,CAB080219,Female tissues,Cervical cancer,Tumor cells,3,6,1,1,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Gastrointestinal tract,Colorectal cancer,Tumor cells,4,5,3,0,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Female tissues,Endometrial cancer,Tumor cells,1,1,6,4,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Brain,Glioma,Tumor cells,5,4,0,2,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,1,0,0,2,enhanced
+JUN,ENSG00000177606,25,CAB080219,Liver & gallbladder,Liver cancer,Tumor cells,2,0,0,10,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Respiratory system,Lung cancer,Tumor cells,3,3,4,2,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,3,2,6,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Skin,Melanoma,Tumor cells,2,1,4,4,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Female tissues,Ovarian cancer,Tumor cells,2,2,6,2,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Pancreas,Pancreatic cancer,Tumor cells,3,4,1,3,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Male tissues,Prostate cancer,Tumor cells,1,4,3,4,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Kidney & urinary bladder,Renal cancer,Tumor cells,1,7,1,3,12,enhanced
+JUN,ENSG00000177606,25,CAB080219,Skin,Skin cancer,Tumor cells,8,2,0,1,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,4,5,10,enhanced
+JUN,ENSG00000177606,25,CAB080219,Male tissues,Testis cancer,Tumor cells,1,2,2,6,11,enhanced
+JUN,ENSG00000177606,25,CAB080219,Endocrine tissues,Thyroid cancer,Tumor cells,1,1,0,1,3,enhanced
+JUN,ENSG00000177606,25,CAB080219,Kidney & urinary bladder,Urothelial cancer,Tumor cells,3,3,1,4,11,enhanced
+MET,ENSG00000105976,25,CAB005282,Female tissues,Breast cancer,Tumor cells,0,8,3,0,11,approved
+MET,ENSG00000105976,25,CAB005282,Pancreas,Carcinoid,Tumor cells,0,3,1,0,4,approved
+MET,ENSG00000105976,25,CAB005282,Female tissues,Cervical cancer,Tumor cells,3,8,1,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Gastrointestinal tract,Colorectal cancer,Tumor cells,7,5,0,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Female tissues,Endometrial cancer,Tumor cells,2,7,2,0,11,approved
+MET,ENSG00000105976,25,CAB005282,Brain,Glioma,Tumor cells,0,3,8,0,11,approved
+MET,ENSG00000105976,25,CAB005282,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,3,0,0,4,approved
+MET,ENSG00000105976,25,CAB005282,Liver & gallbladder,Liver cancer,Tumor cells,0,8,2,0,10,approved
+MET,ENSG00000105976,25,CAB005282,Respiratory system,Lung cancer,Tumor cells,0,4,6,1,11,approved
+MET,ENSG00000105976,25,CAB005282,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,6,5,1,12,approved
+MET,ENSG00000105976,25,CAB005282,Skin,Melanoma,Tumor cells,4,4,4,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Female tissues,Ovarian cancer,Tumor cells,3,8,1,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Pancreas,Pancreatic cancer,Tumor cells,0,11,0,0,11,approved
+MET,ENSG00000105976,25,CAB005282,Male tissues,Prostate cancer,Tumor cells,0,5,7,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Kidney & urinary bladder,Renal cancer,Tumor cells,2,10,0,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Skin,Skin cancer,Tumor cells,0,9,3,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Gastrointestinal tract,Stomach cancer,Tumor cells,1,9,2,0,12,approved
+MET,ENSG00000105976,25,CAB005282,Male tissues,Testis cancer,Tumor cells,0,6,5,0,11,approved
+MET,ENSG00000105976,25,CAB005282,Endocrine tissues,Thyroid cancer,Tumor cells,2,2,0,0,4,approved
+MET,ENSG00000105976,25,CAB005282,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,9,2,0,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Female tissues,Breast cancer,Tumor cells,0,1,9,0,10,approved
+MMP14,ENSG00000157227,25,CAB009918,Pancreas,Carcinoid,Tumor cells,0,1,1,2,4,approved
+MMP14,ENSG00000157227,25,CAB009918,Female tissues,Cervical cancer,Tumor cells,0,0,9,3,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,2,7,3,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Female tissues,Endometrial cancer,Tumor cells,0,0,9,2,11,approved
+MMP14,ENSG00000157227,25,CAB009918,Brain,Glioma,Tumor cells,0,0,2,10,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,3,0,1,4,approved
+MMP14,ENSG00000157227,25,CAB009918,Liver & gallbladder,Liver cancer,Tumor cells,0,0,6,6,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Respiratory system,Lung cancer,Tumor cells,0,2,7,3,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Skin,Melanoma,Tumor cells,0,0,7,5,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Female tissues,Ovarian cancer,Tumor cells,0,1,6,4,11,approved
+MMP14,ENSG00000157227,25,CAB009918,Pancreas,Pancreatic cancer,Tumor cells,0,1,8,3,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Male tissues,Prostate cancer,Tumor cells,0,2,7,1,10,approved
+MMP14,ENSG00000157227,25,CAB009918,Kidney & urinary bladder,Renal cancer,Tumor cells,0,7,5,0,12,approved
+MMP14,ENSG00000157227,25,CAB009918,Skin,Skin cancer,Tumor cells,0,0,4,7,11,approved
+MMP14,ENSG00000157227,25,CAB009918,Gastrointestinal tract,Stomach cancer,Tumor cells,0,2,4,5,11,approved
+MMP14,ENSG00000157227,25,CAB009918,Male tissues,Testis cancer,Tumor cells,0,1,5,5,11,approved
+MMP14,ENSG00000157227,25,CAB009918,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,2,1,4,approved
+MMP14,ENSG00000157227,25,CAB009918,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,3,6,3,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Female tissues,Breast cancer,Tumor cells,0,0,2,10,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Pancreas,Carcinoid,Tumor cells,0,0,2,2,4,approved
+MMP14,ENSG00000157227,25,HPA051432,Female tissues,Cervical cancer,Tumor cells,0,0,2,9,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,3,5,3,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Female tissues,Endometrial cancer,Tumor cells,0,0,3,5,8,approved
+MMP14,ENSG00000157227,25,HPA051432,Brain,Glioma,Tumor cells,0,1,0,11,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,1,2,1,4,approved
+MMP14,ENSG00000157227,25,HPA051432,Liver & gallbladder,Liver cancer,Tumor cells,0,1,3,7,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Respiratory system,Lung cancer,Tumor cells,1,0,1,10,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Skin,Melanoma,Tumor cells,0,3,2,6,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Female tissues,Ovarian cancer,Tumor cells,2,0,1,7,10,approved
+MMP14,ENSG00000157227,25,HPA051432,Pancreas,Pancreatic cancer,Tumor cells,1,5,1,3,10,approved
+MMP14,ENSG00000157227,25,HPA051432,Male tissues,Prostate cancer,Tumor cells,0,2,6,3,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Kidney & urinary bladder,Renal cancer,Tumor cells,0,1,2,8,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Skin,Skin cancer,Tumor cells,0,1,4,4,9,approved
+MMP14,ENSG00000157227,25,HPA051432,Gastrointestinal tract,Stomach cancer,Tumor cells,1,1,2,7,11,approved
+MMP14,ENSG00000157227,25,HPA051432,Male tissues,Testis cancer,Tumor cells,0,1,3,8,12,approved
+MMP14,ENSG00000157227,25,HPA051432,Endocrine tissues,Thyroid cancer,Tumor cells,0,2,1,1,4,approved
+MMP14,ENSG00000157227,25,HPA051432,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,3,8,12,approved
+MYBL2,ENSG00000101057,25,CAB017114,Female tissues,Breast cancer,Tumor cells,7,5,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Pancreas,Carcinoid,Tumor cells,3,1,0,0,4,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Female tissues,Cervical cancer,Tumor cells,1,11,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Gastrointestinal tract,Colorectal cancer,Tumor cells,2,6,1,0,9,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Female tissues,Endometrial cancer,Tumor cells,4,8,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Brain,Glioma,Tumor cells,3,8,1,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,1,0,0,3,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Liver & gallbladder,Liver cancer,Tumor cells,11,0,0,0,11,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Respiratory system,Lung cancer,Tumor cells,4,6,0,0,10,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,10,1,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Skin,Melanoma,Tumor cells,2,9,0,0,11,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Female tissues,Ovarian cancer,Tumor cells,5,7,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Pancreas,Pancreatic cancer,Tumor cells,8,2,0,0,10,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Male tissues,Prostate cancer,Tumor cells,8,4,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Kidney & urinary bladder,Renal cancer,Tumor cells,11,1,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Skin,Skin cancer,Tumor cells,4,8,0,0,12,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Gastrointestinal tract,Stomach cancer,Tumor cells,6,3,0,0,9,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Male tissues,Testis cancer,Tumor cells,9,2,0,0,11,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Endocrine tissues,Thyroid cancer,Tumor cells,2,2,0,0,4,uncertain
+MYBL2,ENSG00000101057,25,CAB017114,Kidney & urinary bladder,Urothelial cancer,Tumor cells,6,5,0,0,11,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Female tissues,Breast cancer,Tumor cells,1,8,2,0,11,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Pancreas,Carcinoid,Tumor cells,0,3,0,0,3,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Female tissues,Cervical cancer,Tumor cells,0,9,1,1,11,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Gastrointestinal tract,Colorectal cancer,Tumor cells,1,9,2,0,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Female tissues,Endometrial cancer,Tumor cells,0,4,3,5,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Brain,Glioma,Tumor cells,0,1,0,9,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,2,1,1,4,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Liver & gallbladder,Liver cancer,Tumor cells,1,9,1,1,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Respiratory system,Lung cancer,Tumor cells,1,4,0,5,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,5,2,3,11,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Skin,Melanoma,Tumor cells,0,4,2,4,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Female tissues,Ovarian cancer,Tumor cells,0,7,1,4,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Pancreas,Pancreatic cancer,Tumor cells,3,7,0,1,11,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Male tissues,Prostate cancer,Tumor cells,2,7,2,1,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Kidney & urinary bladder,Renal cancer,Tumor cells,0,3,5,4,12,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Skin,Skin cancer,Tumor cells,0,5,4,1,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Gastrointestinal tract,Stomach cancer,Tumor cells,0,4,3,3,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Male tissues,Testis cancer,Tumor cells,2,7,1,0,10,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Endocrine tissues,Thyroid cancer,Tumor cells,0,3,0,1,4,uncertain
+MYBL2,ENSG00000101057,25,HPA030530,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,6,4,0,11,uncertain
+NFKB1,ENSG00000109320,25,CAB004031,Female tissues,Breast cancer,Tumor cells,0,4,4,2,10,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Female tissues,Cervical cancer,Tumor cells,0,2,1,8,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,3,4,4,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Female tissues,Endometrial cancer,Tumor cells,0,0,0,11,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Brain,Glioma,Tumor cells,1,3,1,6,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Liver & gallbladder,Liver cancer,Tumor cells,0,1,1,8,10,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Respiratory system,Lung cancer,Tumor cells,0,1,1,10,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,7,1,3,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Skin,Melanoma,Tumor cells,0,0,1,11,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Female tissues,Ovarian cancer,Tumor cells,0,2,4,6,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Pancreas,Pancreatic cancer,Tumor cells,0,1,3,8,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Male tissues,Prostate cancer,Tumor cells,0,3,2,6,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Kidney & urinary bladder,Renal cancer,Tumor cells,1,0,1,10,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Skin,Skin cancer,Tumor cells,0,0,2,9,11,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,1,11,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Male tissues,Testis cancer,Tumor cells,0,0,3,9,12,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,2,1,4,enhanced
+NFKB1,ENSG00000109320,25,CAB004031,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,2,2,6,10,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Female tissues,Breast cancer,Tumor cells,0,10,2,0,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Pancreas,Carcinoid,Tumor cells,0,1,1,2,4,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Female tissues,Cervical cancer,Tumor cells,1,5,3,3,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Gastrointestinal tract,Colorectal cancer,Tumor cells,3,5,3,0,11,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Female tissues,Endometrial cancer,Tumor cells,0,3,5,4,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Brain,Glioma,Tumor cells,0,0,2,8,10,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,3,1,0,4,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Liver & gallbladder,Liver cancer,Tumor cells,0,3,4,5,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Respiratory system,Lung cancer,Tumor cells,0,1,3,6,10,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,6,5,0,1,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Skin,Melanoma,Tumor cells,0,3,6,1,10,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Female tissues,Ovarian cancer,Tumor cells,0,6,3,3,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Pancreas,Pancreatic cancer,Tumor cells,0,6,1,4,11,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Male tissues,Prostate cancer,Tumor cells,0,3,3,5,11,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,2,9,11,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Skin,Skin cancer,Tumor cells,0,7,2,2,11,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,7,2,10,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Male tissues,Testis cancer,Tumor cells,0,1,1,10,12,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,0,2,3,enhanced
+NFKB1,ENSG00000109320,25,HPA027305,Kidney & urinary bladder,Urothelial cancer,Tumor cells,1,4,4,3,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Female tissues,Breast cancer,Tumor cells,1,1,1,9,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Female tissues,Cervical cancer,Tumor cells,0,0,3,6,9,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,2,1,8,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Female tissues,Endometrial cancer,Tumor cells,1,1,7,2,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Brain,Glioma,Tumor cells,3,4,2,2,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,1,3,4,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Liver & gallbladder,Liver cancer,Tumor cells,0,0,1,9,10,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Respiratory system,Lung cancer,Tumor cells,0,0,2,10,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Skin,Melanoma,Tumor cells,1,0,3,8,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Female tissues,Ovarian cancer,Tumor cells,0,3,3,5,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Male tissues,Prostate cancer,Tumor cells,0,0,0,9,9,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Skin,Skin cancer,Tumor cells,0,0,0,10,10,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,3,8,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Male tissues,Testis cancer,Tumor cells,0,4,1,7,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,1,2,3,enhanced
+PDGFRB,ENSG00000113721,25,CAB003842,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,2,10,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Female tissues,Breast cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Female tissues,Cervical cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Female tissues,Endometrial cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Respiratory system,Lung cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Skin,Melanoma,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Female tissues,Ovarian cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,10,10,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Skin,Skin cancer,Tumor cells,0,0,0,12,12,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,11,11,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Male tissues,Testis cancer,Tumor cells,0,0,0,10,10,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+PDGFRB,ENSG00000113721,25,CAB018144,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,11,11,enhanced
+PLAU,ENSG00000122861,25,HPA070796,Female tissues,Breast cancer,Tumor cells,0,2,2,7,11,supported
+PLAU,ENSG00000122861,25,HPA070796,Pancreas,Carcinoid,Tumor cells,2,1,0,0,3,supported
+PLAU,ENSG00000122861,25,HPA070796,Female tissues,Cervical cancer,Tumor cells,0,1,2,7,10,supported
+PLAU,ENSG00000122861,25,HPA070796,Gastrointestinal tract,Colorectal cancer,Tumor cells,2,1,1,8,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Female tissues,Endometrial cancer,Tumor cells,3,3,1,4,11,supported
+PLAU,ENSG00000122861,25,HPA070796,Brain,Glioma,Tumor cells,0,3,0,6,9,supported
+PLAU,ENSG00000122861,25,HPA070796,Gastrointestinal tract,Head and neck cancer,Tumor cells,1,0,1,1,3,supported
+PLAU,ENSG00000122861,25,HPA070796,Liver & gallbladder,Liver cancer,Tumor cells,3,3,1,5,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Respiratory system,Lung cancer,Tumor cells,2,3,2,5,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,1,0,9,10,supported
+PLAU,ENSG00000122861,25,HPA070796,Skin,Melanoma,Tumor cells,7,4,0,0,11,supported
+PLAU,ENSG00000122861,25,HPA070796,Female tissues,Ovarian cancer,Tumor cells,0,2,1,9,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Pancreas,Pancreatic cancer,Tumor cells,3,8,1,0,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Male tissues,Prostate cancer,Tumor cells,6,4,0,1,11,supported
+PLAU,ENSG00000122861,25,HPA070796,Kidney & urinary bladder,Renal cancer,Tumor cells,11,1,0,0,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Skin,Skin cancer,Tumor cells,0,2,3,5,10,supported
+PLAU,ENSG00000122861,25,HPA070796,Gastrointestinal tract,Stomach cancer,Tumor cells,0,3,6,3,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Male tissues,Testis cancer,Tumor cells,2,2,2,6,12,supported
+PLAU,ENSG00000122861,25,HPA070796,Endocrine tissues,Thyroid cancer,Tumor cells,1,2,0,1,4,supported
+PLAU,ENSG00000122861,25,HPA070796,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,3,1,8,12,supported
+POSTN,ENSG00000133110,25,HPA012306,Female tissues,Breast cancer,Tumor cells,0,0,1,10,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Pancreas,Carcinoid,Tumor cells,0,0,2,2,4,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,12,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Female tissues,Endometrial cancer,Tumor cells,0,0,1,10,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Brain,Glioma,Tumor cells,0,2,3,6,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,2,0,2,4,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Liver & gallbladder,Liver cancer,Tumor cells,0,6,2,4,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Respiratory system,Lung cancer,Tumor cells,0,0,2,10,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,1,11,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Skin,Melanoma,Tumor cells,0,8,2,1,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Female tissues,Ovarian cancer,Tumor cells,0,0,0,11,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Pancreas,Pancreatic cancer,Tumor cells,0,2,5,5,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,11,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Skin,Skin cancer,Tumor cells,0,0,1,10,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,11,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Male tissues,Testis cancer,Tumor cells,0,1,0,10,11,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,1,3,4,enhanced
+POSTN,ENSG00000133110,25,HPA012306,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,2,9,12,enhanced
+RELA,ENSG00000173039,25,CAB004264,Female tissues,Breast cancer,Tumor cells,5,5,2,0,12,supported
+RELA,ENSG00000173039,25,CAB004264,Pancreas,Carcinoid,Tumor cells,1,0,1,2,4,supported
+RELA,ENSG00000173039,25,CAB004264,Female tissues,Cervical cancer,Tumor cells,5,3,3,0,11,supported
+RELA,ENSG00000173039,25,CAB004264,Gastrointestinal tract,Colorectal cancer,Tumor cells,5,4,2,0,11,supported
+RELA,ENSG00000173039,25,CAB004264,Female tissues,Endometrial cancer,Tumor cells,3,4,1,1,9,supported
+RELA,ENSG00000173039,25,CAB004264,Brain,Glioma,Tumor cells,2,2,5,2,11,supported
+RELA,ENSG00000173039,25,CAB004264,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,2,1,1,4,supported
+RELA,ENSG00000173039,25,CAB004264,Liver & gallbladder,Liver cancer,Tumor cells,5,2,1,3,11,supported
+RELA,ENSG00000173039,25,CAB004264,Respiratory system,Lung cancer,Tumor cells,3,5,1,2,11,supported
+RELA,ENSG00000173039,25,CAB004264,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,5,5,1,1,12,supported
+RELA,ENSG00000173039,25,CAB004264,Skin,Melanoma,Tumor cells,6,4,1,0,11,supported
+RELA,ENSG00000173039,25,CAB004264,Female tissues,Ovarian cancer,Tumor cells,7,2,1,0,10,supported
+RELA,ENSG00000173039,25,CAB004264,Pancreas,Pancreatic cancer,Tumor cells,6,4,1,0,11,supported
+RELA,ENSG00000173039,25,CAB004264,Male tissues,Prostate cancer,Tumor cells,3,8,0,0,11,supported
+RELA,ENSG00000173039,25,CAB004264,Kidney & urinary bladder,Renal cancer,Tumor cells,1,4,1,6,12,supported
+RELA,ENSG00000173039,25,CAB004264,Skin,Skin cancer,Tumor cells,5,7,0,0,12,supported
+RELA,ENSG00000173039,25,CAB004264,Gastrointestinal tract,Stomach cancer,Tumor cells,6,3,1,1,11,supported
+RELA,ENSG00000173039,25,CAB004264,Male tissues,Testis cancer,Tumor cells,2,6,2,2,12,supported
+RELA,ENSG00000173039,25,CAB004264,Endocrine tissues,Thyroid cancer,Tumor cells,1,1,1,1,4,supported
+RELA,ENSG00000173039,25,CAB004264,Kidney & urinary bladder,Urothelial cancer,Tumor cells,8,2,1,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Female tissues,Breast cancer,Tumor cells,6,5,0,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Pancreas,Carcinoid,Tumor cells,2,1,0,1,4,supported
+RELA,ENSG00000173039,25,CAB005030,Female tissues,Cervical cancer,Tumor cells,6,5,1,0,12,supported
+RELA,ENSG00000173039,25,CAB005030,Gastrointestinal tract,Colorectal cancer,Tumor cells,6,5,0,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Female tissues,Endometrial cancer,Tumor cells,7,2,2,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Brain,Glioma,Tumor cells,4,4,3,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Gastrointestinal tract,Head and neck cancer,Tumor cells,3,1,0,0,4,supported
+RELA,ENSG00000173039,25,CAB005030,Liver & gallbladder,Liver cancer,Tumor cells,5,2,2,1,10,supported
+RELA,ENSG00000173039,25,CAB005030,Respiratory system,Lung cancer,Tumor cells,2,6,0,0,8,supported
+RELA,ENSG00000173039,25,CAB005030,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,12,0,0,0,12,supported
+RELA,ENSG00000173039,25,CAB005030,Skin,Melanoma,Tumor cells,6,3,0,0,9,supported
+RELA,ENSG00000173039,25,CAB005030,Female tissues,Ovarian cancer,Tumor cells,7,4,0,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Pancreas,Pancreatic cancer,Tumor cells,1,8,2,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Male tissues,Prostate cancer,Tumor cells,10,1,0,0,11,supported
+RELA,ENSG00000173039,25,CAB005030,Kidney & urinary bladder,Renal cancer,Tumor cells,3,6,3,0,12,supported
+RELA,ENSG00000173039,25,CAB005030,Skin,Skin cancer,Tumor cells,6,3,0,0,9,supported
+RELA,ENSG00000173039,25,CAB005030,Gastrointestinal tract,Stomach cancer,Tumor cells,1,9,2,0,12,supported
+RELA,ENSG00000173039,25,CAB005030,Male tissues,Testis cancer,Tumor cells,2,6,4,0,12,supported
+RELA,ENSG00000173039,25,CAB005030,Endocrine tissues,Thyroid cancer,Tumor cells,3,1,0,0,4,supported
+RELA,ENSG00000173039,25,CAB005030,Kidney & urinary bladder,Urothelial cancer,Tumor cells,6,5,0,0,11,supported
+SP1,ENSG00000185591,25,CAB000330,Female tissues,Breast cancer,Tumor cells,0,0,10,2,12,supported
+SP1,ENSG00000185591,25,CAB000330,Pancreas,Carcinoid,Tumor cells,0,0,1,3,4,supported
+SP1,ENSG00000185591,25,CAB000330,Female tissues,Cervical cancer,Tumor cells,0,1,9,2,12,supported
+SP1,ENSG00000185591,25,CAB000330,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,10,2,0,12,supported
+SP1,ENSG00000185591,25,CAB000330,Female tissues,Endometrial cancer,Tumor cells,0,1,4,6,11,supported
+SP1,ENSG00000185591,25,CAB000330,Brain,Glioma,Tumor cells,0,0,2,10,12,supported
+SP1,ENSG00000185591,25,CAB000330,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,4,0,4,supported
+SP1,ENSG00000185591,25,CAB000330,Liver & gallbladder,Liver cancer,Tumor cells,0,0,3,8,11,supported
+SP1,ENSG00000185591,25,CAB000330,Respiratory system,Lung cancer,Tumor cells,0,1,4,7,12,supported
+SP1,ENSG00000185591,25,CAB000330,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,8,4,12,supported
+SP1,ENSG00000185591,25,CAB000330,Skin,Melanoma,Tumor cells,0,1,10,1,12,supported
+SP1,ENSG00000185591,25,CAB000330,Female tissues,Ovarian cancer,Tumor cells,0,3,3,5,11,supported
+SP1,ENSG00000185591,25,CAB000330,Pancreas,Pancreatic cancer,Tumor cells,0,0,8,4,12,supported
+SP1,ENSG00000185591,25,CAB000330,Male tissues,Prostate cancer,Tumor cells,0,0,0,11,11,supported
+SP1,ENSG00000185591,25,CAB000330,Kidney & urinary bladder,Renal cancer,Tumor cells,0,2,3,5,10,supported
+SP1,ENSG00000185591,25,CAB000330,Skin,Skin cancer,Tumor cells,0,0,11,0,11,supported
+SP1,ENSG00000185591,25,CAB000330,Gastrointestinal tract,Stomach cancer,Tumor cells,0,2,5,5,12,supported
+SP1,ENSG00000185591,25,CAB000330,Male tissues,Testis cancer,Tumor cells,0,0,6,5,11,supported
+SP1,ENSG00000185591,25,CAB000330,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,supported
+SP1,ENSG00000185591,25,CAB000330,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,7,4,12,supported
+SP1,ENSG00000185591,25,HPA001853,Female tissues,Breast cancer,Tumor cells,5,6,0,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Pancreas,Carcinoid,Tumor cells,1,3,0,0,4,supported
+SP1,ENSG00000185591,25,HPA001853,Female tissues,Cervical cancer,Tumor cells,6,5,0,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Gastrointestinal tract,Colorectal cancer,Tumor cells,7,5,0,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Female tissues,Endometrial cancer,Tumor cells,2,8,1,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Brain,Glioma,Tumor cells,1,7,4,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Gastrointestinal tract,Head and neck cancer,Tumor cells,2,2,0,0,4,supported
+SP1,ENSG00000185591,25,HPA001853,Liver & gallbladder,Liver cancer,Tumor cells,0,7,3,0,10,supported
+SP1,ENSG00000185591,25,HPA001853,Respiratory system,Lung cancer,Tumor cells,0,6,5,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,9,3,0,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Skin,Melanoma,Tumor cells,1,7,3,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Female tissues,Ovarian cancer,Tumor cells,3,6,3,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Pancreas,Pancreatic cancer,Tumor cells,1,5,4,0,10,supported
+SP1,ENSG00000185591,25,HPA001853,Male tissues,Prostate cancer,Tumor cells,3,8,0,0,11,supported
+SP1,ENSG00000185591,25,HPA001853,Kidney & urinary bladder,Renal cancer,Tumor cells,0,8,2,0,10,supported
+SP1,ENSG00000185591,25,HPA001853,Skin,Skin cancer,Tumor cells,3,5,0,0,8,supported
+SP1,ENSG00000185591,25,HPA001853,Gastrointestinal tract,Stomach cancer,Tumor cells,0,7,5,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Male tissues,Testis cancer,Tumor cells,3,7,2,0,12,supported
+SP1,ENSG00000185591,25,HPA001853,Endocrine tissues,Thyroid cancer,Tumor cells,1,2,1,0,4,supported
+SP1,ENSG00000185591,25,HPA001853,Kidney & urinary bladder,Urothelial cancer,Tumor cells,6,5,0,0,11,supported
+SP1,ENSG00000185591,25,HPA012292,Female tissues,Breast cancer,Tumor cells,7,5,0,0,12,supported
+SP1,ENSG00000185591,25,HPA012292,Pancreas,Carcinoid,Tumor cells,1,0,1,2,4,supported
+SP1,ENSG00000185591,25,HPA012292,Female tissues,Cervical cancer,Tumor cells,7,1,1,3,12,supported
+SP1,ENSG00000185591,25,HPA012292,Gastrointestinal tract,Colorectal cancer,Tumor cells,7,5,0,0,12,supported
+SP1,ENSG00000185591,25,HPA012292,Female tissues,Endometrial cancer,Tumor cells,3,5,1,2,11,supported
+SP1,ENSG00000185591,25,HPA012292,Brain,Glioma,Tumor cells,2,1,3,5,11,supported
+SP1,ENSG00000185591,25,HPA012292,Gastrointestinal tract,Head and neck cancer,Tumor cells,3,1,0,0,4,supported
+SP1,ENSG00000185591,25,HPA012292,Liver & gallbladder,Liver cancer,Tumor cells,3,1,3,4,11,supported
+SP1,ENSG00000185591,25,HPA012292,Respiratory system,Lung cancer,Tumor cells,0,0,2,10,12,supported
+SP1,ENSG00000185591,25,HPA012292,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,1,4,7,0,12,supported
+SP1,ENSG00000185591,25,HPA012292,Skin,Melanoma,Tumor cells,1,8,2,0,11,supported
+SP1,ENSG00000185591,25,HPA012292,Female tissues,Ovarian cancer,Tumor cells,3,3,3,2,11,supported
+SP1,ENSG00000185591,25,HPA012292,Pancreas,Pancreatic cancer,Tumor cells,2,5,2,2,11,supported
+SP1,ENSG00000185591,25,HPA012292,Male tissues,Prostate cancer,Tumor cells,7,4,0,1,12,supported
+SP1,ENSG00000185591,25,HPA012292,Kidney & urinary bladder,Renal cancer,Tumor cells,8,2,0,2,12,supported
+SP1,ENSG00000185591,25,HPA012292,Skin,Skin cancer,Tumor cells,4,3,4,1,12,supported
+SP1,ENSG00000185591,25,HPA012292,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,2,7,10,supported
+SP1,ENSG00000185591,25,HPA012292,Male tissues,Testis cancer,Tumor cells,6,2,3,1,12,supported
+SP1,ENSG00000185591,25,HPA012292,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,2,2,4,supported
+SP1,ENSG00000185591,25,HPA012292,Kidney & urinary bladder,Urothelial cancer,Tumor cells,7,4,0,1,12,supported
+SREBF1,ENSG00000072310,25,HPA043343,Female tissues,Breast cancer,Tumor cells,0,2,0,10,12,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Female tissues,Cervical cancer,Tumor cells,0,0,0,11,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,1,9,10,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Female tissues,Endometrial cancer,Tumor cells,0,0,0,11,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Brain,Glioma,Tumor cells,0,0,1,9,10,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,3,3,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,10,10,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Respiratory system,Lung cancer,Tumor cells,1,0,1,10,12,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,0,11,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Skin,Melanoma,Tumor cells,2,2,4,3,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Female tissues,Ovarian cancer,Tumor cells,0,1,0,8,9,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,9,9,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Male tissues,Prostate cancer,Tumor cells,1,1,3,6,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,1,10,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Skin,Skin cancer,Tumor cells,0,0,1,9,10,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,1,10,11,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Male tissues,Testis cancer,Tumor cells,0,1,1,8,10,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,2,1,3,uncertain
+SREBF1,ENSG00000072310,25,HPA043343,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,0,11,11,uncertain
+STAT5A,ENSG00000126561,25,CAB003860,Female tissues,Breast cancer,Tumor cells,2,0,2,7,11,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Pancreas,Carcinoid,Tumor cells,0,0,2,2,4,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Female tissues,Cervical cancer,Tumor cells,0,1,2,9,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Female tissues,Endometrial cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Brain,Glioma,Tumor cells,1,4,1,5,11,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,4,4,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Respiratory system,Lung cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,4,5,0,3,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Skin,Melanoma,Tumor cells,4,3,3,2,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Female tissues,Ovarian cancer,Tumor cells,0,1,0,11,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Skin,Skin cancer,Tumor cells,0,0,1,11,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Gastrointestinal tract,Stomach cancer,Tumor cells,0,1,0,10,11,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Male tissues,Testis cancer,Tumor cells,0,2,0,10,12,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,2,2,4,enhanced
+STAT5A,ENSG00000126561,25,CAB003860,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,3,0,9,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Female tissues,Breast cancer,Tumor cells,0,2,0,7,9,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Pancreas,Carcinoid,Tumor cells,0,0,2,2,4,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Female tissues,Cervical cancer,Tumor cells,0,0,2,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,3,9,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Female tissues,Endometrial cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Brain,Glioma,Tumor cells,0,0,1,7,8,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,1,1,2,4,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Liver & gallbladder,Liver cancer,Tumor cells,0,1,1,10,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Respiratory system,Lung cancer,Tumor cells,0,1,1,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,2,1,6,2,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Skin,Melanoma,Tumor cells,0,2,4,6,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Female tissues,Ovarian cancer,Tumor cells,0,1,2,9,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Pancreas,Pancreatic cancer,Tumor cells,0,0,4,7,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Male tissues,Prostate cancer,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,4,8,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Skin,Skin cancer,Tumor cells,0,0,1,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,8,8,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Male tissues,Testis cancer,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,1,2,3,enhanced
+STAT5A,ENSG00000126561,25,HPA027873,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Female tissues,Breast cancer,Tumor cells,0,1,4,5,10,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Female tissues,Cervical cancer,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,2,10,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Female tissues,Endometrial cancer,Tumor cells,0,0,2,10,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Brain,Glioma,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,3,3,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Respiratory system,Lung cancer,Tumor cells,0,0,0,10,10,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Skin,Melanoma,Tumor cells,0,0,3,8,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Female tissues,Ovarian cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,9,9,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Kidney & urinary bladder,Renal cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Skin,Skin cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Endocrine tissues,Thyroid cancer,Tumor cells,0,0,0,4,4,enhanced
+STAT5A,ENSG00000126561,25,HPA042128,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,0,1,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Female tissues,Breast cancer,Tumor cells,0,0,1,10,11,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Female tissues,Cervical cancer,Tumor cells,0,1,0,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,0,4,8,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Female tissues,Endometrial cancer,Tumor cells,0,0,2,10,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Brain,Glioma,Tumor cells,0,1,3,6,10,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,0,3,3,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Liver & gallbladder,Liver cancer,Tumor cells,0,6,0,5,11,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Respiratory system,Lung cancer,Tumor cells,2,1,0,7,10,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,1,1,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Skin,Melanoma,Tumor cells,0,1,5,5,11,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Female tissues,Ovarian cancer,Tumor cells,0,0,1,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Pancreas,Pancreatic cancer,Tumor cells,0,0,0,10,10,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Male tissues,Prostate cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Kidney & urinary bladder,Renal cancer,Tumor cells,0,1,0,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Skin,Skin cancer,Tumor cells,0,0,0,11,11,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Male tissues,Testis cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Endocrine tissues,Thyroid cancer,Tumor cells,0,1,0,3,4,enhanced
+STAT5A,ENSG00000126561,25,HPA049883,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,1,6,5,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Female tissues,Breast cancer,Tumor cells,0,6,3,2,11,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Pancreas,Carcinoid,Tumor cells,0,0,0,4,4,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Female tissues,Cervical cancer,Tumor cells,0,7,3,2,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Gastrointestinal tract,Colorectal cancer,Tumor cells,0,2,2,8,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Female tissues,Endometrial cancer,Tumor cells,0,2,3,7,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Brain,Glioma,Tumor cells,0,3,1,8,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Gastrointestinal tract,Head and neck cancer,Tumor cells,0,0,1,2,3,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Liver & gallbladder,Liver cancer,Tumor cells,0,0,0,12,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Respiratory system,Lung cancer,Tumor cells,0,1,1,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Bone marrow & lymphoid tissues,Lymphoma,Tumor cells,0,2,0,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Skin,Melanoma,Tumor cells,0,3,3,4,10,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Female tissues,Ovarian cancer,Tumor cells,0,2,1,7,10,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Pancreas,Pancreatic cancer,Tumor cells,0,2,6,3,11,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Male tissues,Prostate cancer,Tumor cells,0,0,1,11,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Kidney & urinary bladder,Renal cancer,Tumor cells,0,2,4,6,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Skin,Skin cancer,Tumor cells,0,0,2,9,11,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Gastrointestinal tract,Stomach cancer,Tumor cells,0,0,6,6,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Male tissues,Testis cancer,Tumor cells,0,1,1,10,12,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Endocrine tissues,Thyroid cancer,Tumor cells,0,2,1,1,4,enhanced
+STAT5A,ENSG00000126561,25,HPA051156,Kidney & urinary bladder,Urothelial cancer,Tumor cells,0,6,5,1,12,enhanced

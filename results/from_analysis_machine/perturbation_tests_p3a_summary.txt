@@ -1,0 +1,5 @@
+candidate datasets (human, perturbing network miRNAs): 77; used (40 with the most samples): 40; listed but not used: 37
+strong: k = 24; pooled shift +0.1986 (95 % CI +0.0746 to +0.3226), p 0.0017; tau2 0.0646 -> SUPPORTED
+weak: k = 29; pooled shift +0.0093 (95 % CI -0.0170 to +0.0356), p 0.489; tau2 0 -> NOT SUPPORTED
+predicted_only: k = 31; pooled shift +0.0033 (95 % CI -0.0300 to +0.0367), p 0.845; tau2 0 -> NOT SUPPORTED
+predicted minus strong: k = 20; pooled shift -0.0341 (95 % CI -0.0964 to +0.0283), p 0.284; tau2 0

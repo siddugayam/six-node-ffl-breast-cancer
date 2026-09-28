@@ -1,0 +1,39 @@
+nolegacy           3-node Composite_FFL          instances   1,173 sets   1,173   MATCH
+nolegacy           3-node TF_FFL                 instances   1,182 sets   1,182   MATCH
+nolegacy           3-node Unique_FFL             instances   1,364 sets   1,364   MATCH
+nolegacy           3-node miRNA_FFL              instances   1,355 sets   1,355   MATCH
+nolegacy           4-node Composite_FFL          instances   2,054 sets   2,029   MATCH
+nolegacy           4-node TF_FFL                 instances   2,090 sets   2,065   MATCH
+nolegacy           4-node Unique_FFL             instances   2,616 sets   2,590   MATCH
+nolegacy           4-node miRNA_FFL              instances   2,580 sets   2,554   MATCH
+nolegacy           5-node Composite_FFL          instances   1,719 sets   1,168   MATCH
+nolegacy           5-node TF_FFL                 instances   1,719 sets   1,168   MATCH
+nolegacy           5-node Unique_FFL             instances   2,272 sets   1,456   MATCH
+nolegacy           5-node miRNA_FFL              instances   2,272 sets   1,456   MATCH
+nolegacy           6-node Composite_FFL          instances   3,898 sets   2,498   MATCH
+nolegacy           6-node Composite_FFL relaxed  instances  23,295 sets  14,540   MATCH
+nolegacy           6-node TF_FFL                 instances  15,701 sets   9,950   MATCH
+nolegacy           6-node TF_FFL relaxed         instances  23,302 sets  14,540   MATCH
+nolegacy           6-node Unique_FFL             instances  25,806 sets  15,590   MATCH
+nolegacy           6-node miRNA_FFL              instances  14,003 sets   8,606   MATCH
+nolegacy           6-node miRNA_FFL relaxed      instances  29,689 sets  17,727   MATCH
+nolegacy_nostring  3-node Composite_FFL          instances   1,173 sets   1,173   MATCH
+nolegacy_nostring  3-node TF_FFL                 instances   1,182 sets   1,182   MATCH
+nolegacy_nostring  3-node Unique_FFL             instances   1,364 sets   1,364   MATCH
+nolegacy_nostring  3-node miRNA_FFL              instances   1,355 sets   1,355   MATCH
+nolegacy_nostring  4-node Composite_FFL          instances      10 sets      10   MATCH
+nolegacy_nostring  4-node TF_FFL                 instances      10 sets      10   MATCH
+nolegacy_nostring  4-node Unique_FFL             instances      10 sets      10   MATCH
+nolegacy_nostring  4-node miRNA_FFL              instances      10 sets      10   MATCH
+nolegacy_nostring  5-node Composite_FFL          instances       8 sets       5   MATCH
+nolegacy_nostring  5-node TF_FFL                 instances       8 sets       5   MATCH
+nolegacy_nostring  5-node Unique_FFL             instances       8 sets       5   MATCH
+nolegacy_nostring  5-node miRNA_FFL              instances       8 sets       5   MATCH
+nolegacy_nostring  6-node Composite_FFL          instances       7 sets       7   MATCH
+nolegacy_nostring  6-node Composite_FFL relaxed  instances      91 sets      64   MATCH
+nolegacy_nostring  6-node TF_FFL                 instances      73 sets      54   MATCH
+nolegacy_nostring  6-node TF_FFL relaxed         instances      91 sets      64   MATCH
+nolegacy_nostring  6-node Unique_FFL             instances     101 sets      70   MATCH
+nolegacy_nostring  6-node miRNA_FFL              instances      35 sets      27   MATCH
+nolegacy_nostring  6-node miRNA_FFL relaxed      instances     119 sets      77   MATCH
+ALL MATCH

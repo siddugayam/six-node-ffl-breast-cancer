@@ -1,0 +1,2 @@
+aug nodes 587 edges 8031 recip_contracted 1223 classes present ['Gene->Gene', 'TF->Gene', 'TF->TF', 'TF->miRNA', 'miRNA->Gene', 'miRNA->TF', 'miRNA-miRNA']
+dep nodes 587 edges 5636 recip_contracted 1223 classes present ['Gene->Gene', 'TF->Gene', 'TF->TF', 'TF->miRNA', 'miRNA->Gene', 'miRNA->TF', 'miRNA-miRNA']

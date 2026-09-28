@@ -1,0 +1,20 @@
+quantity,value
+package / version,"BioNet 1.68.0 (Bioconductor 3.21), RBGL 1.84.0, graph 1.86.0, igraph 2.2.2, R 4.5.1"
+graph,"587 nodes, 5,636 undirected edges (from 6,859 directed signed edges), 1 connected component, no self-loops"
+p-values,genes/TFs 363/364 from results/v2/v2_DE_genes.csv; miRNAs 213/223 from results/v2/v2_DE_mirnas.csv; 11 unmeasured nodes scored at p=1
+"BUM fit (genes, genome-wide n=20,250)","lambda=0.1871, a=0.0226; upper bound on null fraction = 20.5%"
+modules returned by runFastHeinz,"1 (the method returns a single maximum-scoring connected subnetwork, not a partition)"
+primary FDR (pre-specified rule: largest FDR giving <=10% of nodes),"1.63e-54 -> 58 nodes (24 genes, 19 TFs, 15 miRNAs), module score 3330"
+sensitivity FDR 1e-3 (BioNet vignette default),444 nodes = 76% of the network
+sensitivity FDR 1e-25,161 nodes = 27% of the network
+smallest FDR at which COL1A1 is still a member,"1e-40 (module n=96, 16% of network)"
+smallest FDR at which COL3A1 is still a member,"1e-15 (module n=241, 41% of network)"
+smallest FDR at which hsa-miR-101 is still a member,"1e-11 (module n=294, 50% of network)"
+smallest FDR at which hsa-miR-29a is still a member,"1e-04 (module n=413, 70% of network)"
+overlap with the 30 prioritised nodes (primary),13/30 in a 58-node module; expected 2.96; 4.39-fold; hypergeometric p = 7.5e-07 (universe 587)
+same overlap under a DE-rank-matched null,"observed 13, null mean 10.97 (sd 1.18), p = 0.083 - not significant once shared dependence on the same DE p-values is controlled"
+module vs DE ranking alone,Jaccard 0.785 with the top-58 nodes by node score; the top-58 list alone already overlaps the prioritised 30 by 12
+collagen / matrisome content of the primary module,"NABA collagens 0/4; NABA core matrisome 1/17 (FN1 only, expected 2.0); Farmer stroma-related 0/13; HALLMARK EMT 4/47 (expected 5.6)"
+paper's module layers,"FFL 3-node members 34/204 enriched 1.41x, p=7.7e-4, q=0.027; higher-order-only members 7/104, 0.57x, depletion p=0.038"
+edge-resampling stability (200 x 90% of edges),"module size median 54 (IQR 52-57); selection frequency EZH2 1.00, FN1 1.00, NFKB1 0.65, SP1 0.59, RELA 0.02, COL1A1 0.00, COL3A1 0.00, ETS1 0.00, POSTN 0.00, SPARC 0.00, THBS2 0.00, TGFBI 0.00, miR-29a 0.00, miR-101 0.00"
+compartment skew (Wu breast atlas pseudobulk),"module median log2(CAF/carcinoma) = 1.49 vs 0.73 for the network background, Wilcoxon p = 0.021; but 25 of the 26 CAF-skewed members are DOWN in tumour (only FN1 is up)"

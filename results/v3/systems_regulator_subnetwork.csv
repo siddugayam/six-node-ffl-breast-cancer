@@ -1,0 +1,3 @@
+network,N,M,n_SCC,largest_SCC,frac_nodes_in_largest_SCC,n_SCC_singleton,bowtie_IN,bowtie_CORE,bowtie_OUT,bowtie_other,flow_hierarchy,global_reaching_centrality,trophic_incoherence_F0,condensation_depth_layers,reciprocity,transitivity
+full (587 nodes),587,6859,224,362,0.616695059625213,221,7,362,215,3,0.5808426884385479,0.3688365618702606,0.624976590136709,4,0.35661175098410847,0.03500915822948388
+regulators only (TF+miRNA),380,2911,17,362,0.9526315789473684,14,7,362,8,3,0.012366884232222652,0.03346537548471544,0.9467908480274306,3,0.8402610786671247,0.034748695091197

@@ -1,0 +1,72 @@
+K 6
+nparts 64
+part 16
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 35103
+visited 23725881
+rng_final 42
+comp 1 2 3 13
+comp 1 3 2 53
+comp 1 4 1 642
+comp 2 1 3 13
+comp 2 2 2 1169
+comp 2 3 1 14954
+comp 3 0 3 1
+comp 3 1 2 336
+comp 3 2 1 12603
+comp 3 3 0 1141
+comp 4 0 2 21
+comp 4 1 1 1592
+comp 4 2 0 1770
+comp 5 0 1 155
+comp 5 1 0 614
+comp 6 0 0 26
+mask 2 26
+mask 3 177
+mask 6 446
+mask 7 55
+mask 11 9
+mask 12 45
+mask 13 44
+mask 14 14062
+mask 15 3647
+mask 18 3
+mask 19 12
+mask 20 166
+mask 21 25
+mask 22 2910
+mask 23 400
+mask 27 65
+mask 28 3907
+mask 29 530
+mask 30 5014
+mask 31 3545
+mask 44 1
+mask 45 2
+mask 46 11
+mask 61 1
+flags 0 33317
+flags 1 639
+flags 2 187
+flags 3 519
+flags 7 11
+flags 8 411
+flags 10 2
+flags 24 17
+exflag 0 EGR2 LIF hsa-miR-142 FOSL1 EZH2 hsa-miR-181b
+exflag 0 EGR2 LIF hsa-miR-142 FOSL1 EZH2 hsa-miR-26a
+exflag 0 MITF FOS BCL2L1 hsa-let-7d hsa-miR-23a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-130a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-23a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-23b STAT5A
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-let-7e
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-miR-143
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-miR-29c
+exflag 3 MITF FOS HIF1A AR EP300 hsa-miR-21 | TF1=HIF1A TF2=AR miRNA=hsa-miR-21 target=EP300
+exflag 3 MITF FOS HIF1A AR MYC hsa-miR-146a | TF1=MITF TF2=HIF1A miRNA=hsa-miR-146a target=AR
+exflag 3 MITF FOS HIF1A AR MYC hsa-miR-20a | TF1=HIF1A TF2=AR miRNA=hsa-miR-20a target=MYC
+exflag 4 MITF FOS HIF1A CXCL12 NFKB1 hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=CXCL12
+exflag 4 MITF FOS HIF1A CXCL12 NFKB1 hsa-miR-23b | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-23b target=CXCL12
+exflag 4 MITF FOS HIF1A EDN1 NFKB1 hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=EDN1

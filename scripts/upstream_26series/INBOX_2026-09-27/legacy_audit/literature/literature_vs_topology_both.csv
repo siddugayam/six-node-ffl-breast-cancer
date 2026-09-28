@@ -1,0 +1,13 @@
+network,n,literature,metric,rho,p
+full,587,pubmed_total,degree,0.2452,1.7415301147863608e-09
+full,587,pubmed_total,betw_undirected,0.2421,2.819096347495688e-09
+full,587,pubmed_total,ffl_cores,0.3133,7.718381834245487e-15
+full,587,pubmed_breast,degree,0.3259,5.446765994438836e-16
+full,587,pubmed_breast,betw_undirected,0.316,4.458239728638565e-15
+full,587,pubmed_breast,ffl_cores,0.385,3.524008705920867e-22
+nolegacy,587,pubmed_total,degree,0.2469,1.3428514012896569e-09
+nolegacy,587,pubmed_total,betw_undirected,0.2469,1.334105317154974e-09
+nolegacy,587,pubmed_total,ffl_cores,0.3133,7.718381834245487e-15
+nolegacy,587,pubmed_breast,degree,0.3262,5.057051651972721e-16
+nolegacy,587,pubmed_breast,betw_undirected,0.3168,3.760915332371994e-15
+nolegacy,587,pubmed_breast,ffl_cores,0.385,3.524008705920867e-22
