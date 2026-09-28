@@ -2,7 +2,7 @@ path	bytes	md5
 .gitignore	274	46388f694a171cc845a7b54ad14d1166
 ANALYSIS_GUIDE.ipynb	54119	3ef220ad75ce4ac73bc19a45a3140157
 LICENSE	1121	1b435a1087f25e460ebb0b1ea55e4b67
-README.md	0	d41d8cd98f00b204e9800998ecf8427e
+README.md	13560	14bf358f7cd9420fd3c8029adcad5517
 analyses/README.md	1793	61a411d6adc66c8a3d3bdcc8148a9b12
 analyses/analysed_network_reruns/README.md	1114	52dac491866f9814e4b741711d4fb8b1
 analyses/analysed_network_reruns/figure_fixes/fig_s5_information_flow_notitles.py	4425	3c1e4d934fc250e3a3db39ef2e941a21
