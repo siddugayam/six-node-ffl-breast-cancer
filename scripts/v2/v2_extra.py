@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import csv,os,re,collections
-SIF="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
-ATT="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes"
+SIF="/path/to/revision/analyses/original_submission_code/SIF_files"
+ATT="/path/to/revision/analyses/original_submission_code/node_attributes"
 REV="/path/to/revision"
 NETS=["3-miR","3-TF","3-Comp","4-TF","5-TF","6-TF"]
 L=[]

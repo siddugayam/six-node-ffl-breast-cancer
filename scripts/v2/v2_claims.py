@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """(c) case duplicates, (e) TRRUST, (f) manuscript claims, (g) diff vs existing canonical."""
 import csv,os,re,collections,json,sys
-SIF="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
-ATT="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes"
+SIF="/path/to/revision/analyses/original_submission_code/SIF_files"
+ATT="/path/to/revision/analyses/original_submission_code/node_attributes"
 REV="/path/to/revision"
 OUT=f"{REV}/results/v2"
 NETS=["3-miR","3-TF","3-Comp","4-TF","5-TF","6-TF"]

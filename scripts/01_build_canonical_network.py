@@ -16,7 +16,7 @@ Repairs applied (each logged):
 """
 import csv, re, json, collections, os, sys
 
-REPO = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR"
+REPO = "/path/to/revision/analyses/original_submission_code"
 OUT  = "/path/to/revision/data"
 PREFIXES = ['3-miR', '3-TF', '3-Comp', '4-TF', '5-TF', '6-TF']
 os.makedirs(OUT, exist_ok=True)

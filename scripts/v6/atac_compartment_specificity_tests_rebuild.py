@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""R1 (INBOX_2026-09-28a): rebuild of results/v6/atac_encode_compartment_specificity_tests.csv, for which no saved script
+"""R1 (analyses/perturbation_checks): rebuild of results/v6/atac_encode_compartment_specificity_tests.csv, for which no saved script
 exists (it was written on 2026-09-10 at 10:25, one minute after scripts/v6/atac_06_encode_compartment.py last changed, by a
 step that was not kept).  The rule is read off the stored file and checked against it:
   input   results/v6/atac_encode_region_accessible.csv (atac_06's 0/1 matrix: query region x ENCODE sample)

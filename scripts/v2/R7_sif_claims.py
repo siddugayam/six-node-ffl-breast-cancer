@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Re-verify the deposited-SIF claims made in results/00_DATA_AUDIT.md sections A and B."""
 import os, csv, collections, re
-SIF='/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files'
-ATT='/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes'
+SIF='/path/to/revision/analyses/original_submission_code/SIF_files'
+ATT='/path/to/revision/analyses/original_submission_code/node_attributes'
 nets=['3-miR','3-TF','3-Comp','4-TF','5-TF','6-TF']
 raw={}; allpairs=set(); alllabels=set()
 for n in nets:

@@ -2,8 +2,8 @@
 # against three null models.
 # Revised 2026-09-25: drawn at print width (174 mm) with 8 pt text (9 pt axis titles), counts in the
 # number format of Table 3, italic n. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
-# Revised 2026-09-27: every number is read from the re-run tables of the analysis machine (INBOX_2026-09-26b,
-# copied to results/v2/legacy_rerun_2026-09-26b/): the census graph and the network used for the motif tests
+# Revised 2026-09-27: every number is read from the re-run tables of the analysis machine (analyses/census_and_motif_nulls,
+# copied to results/v2/census_rerun/): the census graph and the network used for the motif tests
 # exclude the 30 legacy miRNA-miRNA edges of the exemplar circuits (graphs `nolegacy` and `dep_nolegacy`);
 # counts at n = 3-6 are exhaustive and n = 7 is the mean +- SD of eight RAND-ESU seeds.
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(scales)})
@@ -13,7 +13,7 @@ FIG <- file.path(REV,"figures/final"); dir.create(FIG, showWarnings=FALSE, recur
 BASE <- 9.5; TXT <- 8 / .pt   # theme_pub(9.5): tick labels and legends 8 pt; in-panel text 8 pt
 
 # ---- panel A: census -----------------------------------------------------------------
-RR <- file.path(REV,"results/v2/legacy_rerun_2026-09-26b")
+RR <- file.path(REV,"results/v2/census_rerun")
 cc <- fread(file.path(RR,"census_all_graphs.csv"))[graph=="nolegacy"]
 cen <- data.table(n=cc$n, ffl=as.numeric(cc$modules), sd=suppressWarnings(as.numeric(cc$modules_sd)),
                   exact=cc$method=="exhaustive", maxclass=cc$max_edge_classes)

@@ -2,8 +2,8 @@
 """Brute-force grid over plausible 3-node FFL definitions, searching for which
 (if any) reproduces the published 6,037 'exhaustive' figure."""
 import csv,os,re,collections,itertools
-SIF="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
-ATT="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes"
+SIF="/path/to/revision/analyses/original_submission_code/SIF_files"
+ATT="/path/to/revision/analyses/original_submission_code/node_attributes"
 NETS=["3-miR","3-TF","3-Comp","4-TF","5-TF","6-TF"]
 raw={n:[(l.split("\t")[0].strip(),l.split("\t")[2].strip()) for l in open(f"{SIF}/{n}.sif") if l.strip()] for n in NETS}
 at=collections.defaultdict(set)

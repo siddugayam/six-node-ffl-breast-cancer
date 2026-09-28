@@ -4,7 +4,7 @@
 suppressMessages({library(data.table); library(igraph); library(ggplot2); library(ggraph)
                   library(tidygraph); library(patchwork); library(ggrepel)})
 REV  <- "/path/to/revision"
-REPO <- "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR"
+REPO <- "/path/to/revision/analyses/original_submission_code"
 FIG  <- file.path(REV,"figures")
 nodes <- fread(file.path(REV,"data/canonical_nodes.tsv"))
 ntype <- setNames(nodes$type, nodes$name)

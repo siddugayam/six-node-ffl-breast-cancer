@@ -6,7 +6,7 @@ and the subsets matching the exact composition the manuscript specifies."""
 import sys, itertools, csv
 sys.path.insert(0,"/path/to/revision/scripts")
 import ffl_graph as fg, ffl_def
-SIF="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
+SIF="/path/to/revision/analyses/original_submission_code/SIF_files"
 nodes,ntype,arcs,meta=fg.build(verbose=False)
 und=set(e for e,a in arcs.items() if a["undirected"])
 A=set(arcs)

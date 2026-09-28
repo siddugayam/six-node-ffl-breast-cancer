@@ -51,7 +51,7 @@ farmer_mediation_propmediated_wide.csv	results/v5/farmer_mediation_propmediated_
 farmer_neoadjuvant_possible_duplicates.csv	results/v5/farmer_neoadjuvant_possible_duplicates.csv
 farmer_neoadjuvant_pcr.csv	results/v5/farmer_neoadjuvant_pcr.csv
 farmer_neoadjuvant_meta.csv	results/v5/farmer_neoadjuvant_meta.csv
-farmer_neoadjuvant_forest.pdf	results/from_analysis_machine/farmer_neoadjuvant_forest.pdf
+farmer_neoadjuvant_forest.pdf	results/figures/v5/farmer_neoadjuvant_forest.pdf
 farmer_neoadjuvant_meta_ERstratified.csv	results/v5/farmer_neoadjuvant_meta_ERstratified.csv
 farmer_neoadjuvant_headtohead_GSE25066.csv	results/v5/farmer_neoadjuvant_headtohead_GSE25066.csv
 farmer_neoadjuvant_meta_meanz.csv	results/v5/farmer_neoadjuvant_meta_meanz.csv
@@ -66,4 +66,4 @@ farmer_signature_sources.csv	results/v5/farmer_signature_sources.csv
 farmer_pergene_rho.csv	results/v5/farmer_pergene_rho.csv
 farmer_neoadjuvant_pcr_ERstratified.csv	results/v5/farmer_neoadjuvant_pcr_ERstratified.csv
 farmer_neoadjuvant_pcr_meanz.csv	results/v5/farmer_neoadjuvant_pcr_meanz.csv
-farmer_vs_module_scatter.png	results/from_analysis_machine/farmer_vs_module_scatter.png
+farmer_vs_module_scatter.png	results/figures/v5/farmer_vs_module_scatter.png

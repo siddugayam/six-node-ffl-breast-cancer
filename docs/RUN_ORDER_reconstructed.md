@@ -149,7 +149,7 @@ directory they live in; within a directory the numeric prefix gives the order th
 | `v2_dl_chunked.sh` | N-way parallel HTTP range download (targetscan.org throttles single connections hard). |
 | `v2_encode_query.py` | """Third resource: ENCODE portal REST API - how many human TF ChIP-seq experiments exist for |
 | `v2_export_graph.py` | sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))) |
-| `v2_extra.py` | SIF="/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files" |
+| `v2_extra.py` | SIF="/path/to/revision/analyses/original_submission_code/SIF_files" |
 | `v2_ffl_grid.py` | """Brute-force grid over plausible 3-node FFL definitions, searching for which |
 | `v2_ffl_variants.py` | """FFL-core counting under several explicit definitional variants, so the |
 | `v2_graph_final.py` | """Final graph definitions used by all v2 motif work. |

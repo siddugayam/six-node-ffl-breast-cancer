@@ -4,7 +4,7 @@ only the identifier-harmonisation repair. This is the fairest reproduction of th
 authors' own per-network analysis and yields the census the manuscript never reported."""
 import csv, collections, json
 REV='/path/to/revision'
-REPO='/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR'
+REPO='/path/to/revision/analyses/original_submission_code'
 nm=json.load(open(f'{REV}/data/name_map.json'))
 merge=nm['merge_map']; ntype=nm['node_type']
 def T(n): return ntype.get(merge.get(n,n),'Gene')

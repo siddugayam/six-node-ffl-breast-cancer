@@ -13,7 +13,7 @@ from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import ffl_graph as fg, ffl_def
 
-SIF = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
+SIF = "/path/to/revision/analyses/original_submission_code/SIF_files"
 n2, ntype, arcs2, _ = fg.build(include_string=True, verbose=False)
 A2 = set(arcs2); und2 = set(e for e, a in arcs2.items() if a["undirected"])
 print("PERMISSIVE GRAPH: canonical arcs + undirected STRING associations. arcs=%d" % len(A2))

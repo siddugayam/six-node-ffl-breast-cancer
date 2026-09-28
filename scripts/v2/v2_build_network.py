@@ -7,8 +7,8 @@ as an input (canonical_*.tsv is read ONLY at the very end for the diff).
 """
 import csv, os, re, sys, json, itertools, collections
 
-SIF_DIR  = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
-ATTR_DIR = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes"
+SIF_DIR  = "/path/to/revision/analyses/original_submission_code/SIF_files"
+ATTR_DIR = "/path/to/revision/analyses/original_submission_code/node_attributes"
 OUT      = "/path/to/revision/results/v2"
 NETS     = ["3-miR", "3-TF", "3-Comp", "4-TF", "5-TF", "6-TF"]
 

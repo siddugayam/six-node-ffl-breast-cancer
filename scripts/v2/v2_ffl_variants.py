@@ -4,8 +4,8 @@ published numbers can be matched to a definition rather than assumed."""
 import csv, os, re, collections, itertools, json
 import sys
 
-SIF_DIR  = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/SIF_files"
-ATTR_DIR = "/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes"
+SIF_DIR  = "/path/to/revision/analyses/original_submission_code/SIF_files"
+ATTR_DIR = "/path/to/revision/analyses/original_submission_code/node_attributes"
 NETS = ["3-miR","3-TF","3-Comp","4-TF","5-TF","6-TF"]
 
 raw_edges={}

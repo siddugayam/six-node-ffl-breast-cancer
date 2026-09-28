@@ -354,7 +354,7 @@ def main():
     for tag, f in (('exemplar_4node', '4-TF.csv'), ('exemplar_5node', '5-TF.csv'),
                    ('exemplar_6node', '6-TF.csv')):
         rows = list(csv.DictReader(open(
-            f'/path/to/home/Desktop/DD/R_GPR/miRNA_FFL/miRNA_Github_GPR/node_attributes/{f}')))
+            f'/path/to/revision/analyses/original_submission_code/node_attributes/{f}')))
         node_sets[tag] = {r['name'] for r in rows}
         ffl_counts[tag] = 1
         log(f'{tag}: {len(rows)} nodes ('
