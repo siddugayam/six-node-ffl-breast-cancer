@@ -9,7 +9,7 @@ Downloaded public files (not in the project; kept outside it, URL and md5 record
   https://stringdb-downloads.org/download/protein.links.detailed.v12.0/9606.protein.links.detailed.v12.0.txt.gz
       md5 1fbb6885583541bf0b3d82919ed0b649
 Symbols map to STRING proteins through the project's own exact map (cache/string_symbol_map_exact.tsv,
-scripts/01_network_assembly/05a_string_map_and_fetch.R).  The downloaded files are cross-checked against the cached API
+scripts/01_network_assembly/06a_string_map_and_fetch.R).  The downloaded files are cross-checked against the cached API
 output behind the gene-gene layer (cache/string_physical_900_ensp.tsv, string_functional_900_ensp.tsv).
 The G1-G2 link of BHAT6 and MODEL6 is a gene_gene arc of the census graph (labels 4 and 5 of
 S1/graph_nolegacy_labels.txt; the deposit's COL1A1-COL3A1 edge and the 833 STRING arcs).  Every such

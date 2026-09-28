@@ -1,8 +1,8 @@
 ## Community-detection claims of Supplementary Note S6 / Table S9, with and without the 30 legacy
-## GeneMANIA miRNA-miRNA edges.  Partitions come from scripts/14_module_detection/03_igraph_battery.R run unchanged in
-## sandbox_<mode>/ (setup_sandbox.sh); this script repeats the logic of 04_analysis.R (run summary),
-## 05_consensus_and_stability.R (degeneracy rule), 07_stroma_module_test.R (COL1A1-module membership),
-## 06_null_and_prioritisation.R (b: 500-rewiring null; c: prioritised-30 overlap) on those partitions.
+## GeneMANIA miRNA-miRNA edges.  Partitions come from scripts/14_module_detection/04_igraph_battery.R run unchanged in
+## sandbox_<mode>/ (setup_sandbox.sh); this script repeats the logic of 05_analysis.R (run summary),
+## 06_consensus_and_stability.R (degeneracy rule), 08_stroma_module_test.R (COL1A1-module membership),
+## 07_null_and_prioritisation.R (b: 500-rewiring null; c: prioritised-30 overlap) on those partitions.
 ## The four clusterMaker2 (Cytoscape) runs can only be included for the full network, from the stored
 ## partition file; Cytoscape is not available here to repeat them without the legacy edges.
 ## usage: Rscript cd_audit.R <full|nolegacy>

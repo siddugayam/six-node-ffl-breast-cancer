@@ -1,9 +1,0 @@
-file,hpa_release,url,zip_bytes,tsv_bytes,rows_incl_header,data_rows,contents
-proteinatlas.tsv,HPA 25.1 (Ensembl 109),https://www.proteinatlas.org/download/proteinatlas.tsv.zip,7460135,43055808,20163,20162,"consolidated per-gene table: prognostics, reliability, subcellular, antibodies"
-pathology.tsv,HPA 23.0,https://v23.proteinatlas.org/download/pathology.tsv.zip,3612666,21788184,403241,403240,per-gene per-cancer IHC staining counts + prognostic p and direction
-normal_tissue.tsv,HPA 23.0,https://v23.proteinatlas.org/download/normal_tissue.tsv.zip,5615221,82941549,1197501,1197500,IHC staining level per normal tissue and cell type
-rna_single_cell_type.tsv,HPA 23.0,https://v23.proteinatlas.org/download/rna_single_cell_type.tsv.zip,8537360,74101573,1626643,1626642,scRNA nTPM per pan-tissue cell type
-rna_single_cell_type_tissue.tsv,HPA 23.0,https://v23.proteinatlas.org/download/rna_single_cell_type_tissue.tsv.zip,86025442,668725052,11185675,11185674,scRNA nTPM per tissue-specific cluster (includes breast)
-rna_tissue_consensus.tsv,HPA 23.0,https://v23.proteinatlas.org/download/rna_tissue_consensus.tsv.zip,5170393,37949495,1000037,1000036,consensus tissue RNA nTPM
-subcellular_location.tsv,HPA 23.0,https://v23.proteinatlas.org/download/subcellular_location.tsv.zip,218349,1774474,13148,13147,ICC/IF subcellular location and reliability
-"xml/ (per-gene entries, 26 genes)",HPA 25.1 (Ensembl 109),https://www.proteinatlas.org/<ENSG>.xml,,26979171,26,26,"full current entry: normal IHC by cell type, per-patient cancer IHC, prognostics, subcellular, per-antibody validation"

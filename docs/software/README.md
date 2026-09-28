@@ -11,10 +11,8 @@ These files list the software the deposited code uses, at the versions of the an
 
 ## Python: `requirements.txt`
 
-`pip install -r requirements.txt` installs the 25 packages the code imports, at the recorded versions.
+`pip install -r requirements.txt` installs the 24 packages the code imports, at the recorded versions.
 - **torch** is the CUDA 12.4 build (2.6.0+cu124). The file points pip to the PyTorch index for it.
-- **playwright** needs its browser as well: `python -m playwright install chromium`. It is used by the web-portal
-  scripts `scripts/10_survival_and_clinical/web_portals/portal_*.py`.
 
 ## R: `r_packages.tsv` and `install_r_packages.R`
 

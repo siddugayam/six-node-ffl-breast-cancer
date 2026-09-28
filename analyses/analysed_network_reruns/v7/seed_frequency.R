@@ -1,5 +1,5 @@
 ## How often do COL1A1, COL3A1 and miR-29a share a module across the stochastic seeds that
-## 03_igraph_battery.R stores (50 Louvain, 20 Infomap, 100 label-propagation), with and without the
+## 04_igraph_battery.R stores (50 Louvain, 20 Infomap, 100 label-propagation), with and without the
 ## 30 legacy edges.  Also the size of the shared module, since a 145-node module is not a specific one.
 suppressMessages({library(igraph); library(data.table)})
 HERE <- "/path/to/revision/analyses/analysed_network_reruns/v7"

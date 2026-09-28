@@ -8,7 +8,7 @@
 #      so gene in-degrees are directly comparable between the BRCA and the control gene sets.
 suppressPackageStartupMessages({library(data.table)})
 BASE <- "/path/to/revision"
-source(file.path(BASE,"scripts","01_network_assembly","00_mirna_canon.R"))
+source(file.path(BASE,"scripts","01_network_assembly","01_mirna_canon.R"))
 LOG <- file.path(BASE,"logs","motif_specificity.log")
 say <- function(...) { m <- paste0(format(Sys.time(),"%H:%M:%S")," | ",paste0(...,collapse=""))
                        cat(m,"\n"); cat(m,"\n",file=LOG,append=TRUE); flush.console() }

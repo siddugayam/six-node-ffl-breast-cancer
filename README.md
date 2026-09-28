@@ -86,7 +86,7 @@ The analysis ran on Ubuntu 22.04.5 LTS with R 4.5.1 (Bioconductor 3.21), Python 
 `requirements.txt` pins the Python packages the scripts import, and `install_r_packages.R` installs the R packages at
 the versions used (CRAN, Bioconductor, CRAN archive and GitHub; the full list is in `docs/software/r_packages.tsv`).
 Command-line tools used by some scripts: gcc and g++, bedtools, bigBedToBed (UCSC) and curl. The Enformer and Borzoi
-steps need an NVIDIA GPU; they ran on an RTX A4000 (16 GB). `playwright` needs `python -m playwright install chromium`.
+steps need an NVIDIA GPU; they ran on an RTX A4000 (16 GB).
 
 Scripts use absolute paths under the original analysis root, shown as the placeholder `/path/to/revision`. Set it to
 the root of this repository: `scripts/`, `results/` and `analyses/` then resolve as they are here. The network files
@@ -107,7 +107,6 @@ The C programs are given as source; build each with gcc. The recorded commands a
 | Program | Command |
 |---|---|
 | `analyses/census_and_motif_nulls/census/ffl_census_composition.c` and `nulls/v2_null.c` | in `analyses/census_and_motif_nulls/run_all.sh` (`gcc -O3 -march=native` and `gcc -O2`) |
-| `analyses/census_and_motif_nulls/first_rerun/ffl_census_composition.c` | in `first_rerun/run_census.sh` |
 | `analyses/six_node_pattern/S7/v2_null.c` | `gcc -O2` |
 | `analyses/six_node_pattern/S7/ffl_census_composition.c` | `gcc -O3 -march=native` |
 | `analyses/six_node_pattern/S1/s1_null6.c`, `F/F4/f4_node_union.c` | `gcc -O2 -o <name> <name>.c -lm` |

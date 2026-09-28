@@ -81,7 +81,7 @@ Pg <- collapse_to_symbol(P, map, "PROTEIN")
 Rg <- collapse_to_symbol(R, map, "mRNA")
 
 ## ---------------- miRNA canonicalisation ----------------
-source(file.path(REV,"scripts","01_network_assembly","00_mirna_canon.R"))
+source(file.path(REV,"scripts","01_network_assembly","01_mirna_canon.R"))
 cm <- canon_mirna(rownames(MI))
 say("miRNA rows ", nrow(MI), " -> ", length(unique(cm)), " canonical stems")
 idx <- split(seq_len(nrow(MI)), cm)

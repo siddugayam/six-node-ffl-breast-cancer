@@ -47,7 +47,7 @@
  *              arcs: TF->miRNA = label 0, miRNA->X = 1, TF->X = 2/3, G1-G2 = 4/5, miR1-miR2 = 6
  *  CENSUS6c    number of six-node D1-D4 modules of the contracted graph containing the composite core
  *              with TF2 regulating both the target and the miRNA ('c_full' of
- *              analyses/census_and_motif_nulls/first_rerun/ffl_census_composition.c: TF1->TF2, TF1->m, TF2->m,
+ *              analyses/census_and_motif_nulls/census/ffl_census_composition.c: TF1->TF2, TF1->m, TF2->m,
  *              TF2->t, TF1->t, m->t in the contracted graph, m->TF1 in the uncontracted one, t
  *              non-miRNA).  Exact: every seed (TF1,TF2,m,t) is extended by every pair of further
  *              vertices that keeps the six-set weakly connected; each six-set is tested with the

@@ -1,22 +1,16 @@
 #!/usr/bin/env python3
+# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T); relabelled 2026-09-26 from an earlier non-standard numbering.
 """Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the CORRECTLY counted core set.
 
 Numbering, keyed on (sign X->Y, sign Y->Z, sign X->Z):
-  C1 (+,+,+)  C2 (-,-,+)  C3 (-,+,-)  C4 (+,-,-)
-  I1 (+,-,+)  I2 (-,+,+)  I3 (-,-,-)  I4 (+,+,-)
+  C1 (+,+,+)  C2 (-,+,-)  C3 (+,-,-)  C4 (-,-,+)
+  I1 (+,-,+)  I2 (-,-,-)  I3 (+,+,-)  I4 (-,+,+)
 A core is coherent iff sign(X->Z) == sign(X->Y)*sign(Y->Z).
 Each composite core is counted ONCE (see 01a_counting_convention.py)."""
 import csv, collections, os
 REV='/path/to/revision'
 
 nodes={r['name']:r['type'] for r in csv.DictReader(open(f'{REV}/data/canonical_nodes.tsv'),delimiter='\t')}
-# ---- E5 sandbox: optional re-typing of the 22 TF-typed nodes absent from the Lambert census as genes
-import sys as _sys
-T22='APEX1 BMI1 BRCA1 CREBBP CTNNB1 EP300 EZH2 HDAC1 HDAC2 HDAC3 HDAC4 HDAC9 ILF3 MEN1 MKL1 MTA1 NCOR1 NF1 RB1 SIRT1 SUZ12 VHL'.split()
-RETYPE=len(_sys.argv)>1 and _sys.argv[1]=='retype'
-if RETYPE:
-    assert all(nodes[x]=='TF' for x in T22); nodes.update({x:'Gene' for x in T22})
-print('E5 sandbox: 22 nodes re-typed as Gene' if RETYPE else 'E5 sandbox: original node types')
 E=set(); ET={}
 for r in csv.DictReader(open(f'{REV}/data/canonical_edges.tsv'),delimiter='\t'):
     E.add((r['source'],r['target'])); ET[(r['source'],r['target'])]=r['edge_type']
@@ -54,8 +48,8 @@ for (m,t) in E:                                       # miRNA-FFL
             if nodes.get(g)!='miRNA' and g not in (m,t): cores.append((m,t,g,'miRNA-FFL'))
 
 print("class counts:", dict(collections.Counter(c[3] for c in cores)), " total:", len(cores))
-NAME={(1,1,1):'C1',(-1,-1,1):'C2',(-1,1,-1):'C3',(1,-1,-1):'C4',
-      (1,-1,1):'I1',(-1,1,1):'I2',(-1,-1,-1):'I3',(1,1,-1):'I4'}
+NAME={(1,1,1):'C1',(-1,1,-1):'C2',(1,-1,-1):'C3',(-1,-1,1):'C4',
+      (1,-1,1):'I1',(-1,-1,-1):'I2',(1,1,-1):'I3',(-1,1,1):'I4'}
 coh=collections.Counter(); byclass=collections.defaultdict(collections.Counter)
 rows=[]
 for R,M,T,cls in cores:
@@ -77,8 +71,7 @@ for cls in byclass:
     print(f"   {cls:<15} resolved {r:>5}  coherent {c} ({100*c/r:.1f}%)" if r else f"   {cls:<15} none resolved")
 print("\nThe canonical TF-driven circuit (TF -> miRNA, miRNA -| gene, TF -> gene) is type",
       NAME[(1,-1,1)], "- incoherent type 1, a pulse generator / response accelerator.")
-import os as _os
-with open(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)),'e5b_cores_'+('retyped' if RETYPE else 'original')+'.csv'),'w',newline='') as fh:
+with open(f'{REV}/results/v2/ffl_cores_coherence_corrected.csv','w',newline='') as fh:
     w=csv.writer(fh); w.writerow(['regulator','intermediate','target','class','type_R','type_M','type_T','sign_RM','sign_MT','sign_RT','coherence'])
     w.writerows(rows)
-print("\nwrote e5b_cores_*.csv (E5 sandbox)")
+print("\nwrote results/v2/ffl_cores_coherence_corrected.csv")
