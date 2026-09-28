@@ -845,12 +845,10 @@ analyses/six_node_pattern/S2/perset/COMP_C2_toggle__GG+TT.csv.gz	2310911	5a43e1b
 analyses/six_node_pattern/S2/perset/COMP_C2_toggle__MM+TT.csv.gz	2286493	20f911be7a83784538a2633503902928
 analyses/six_node_pattern/S2/perset/COMP_C2_toggle__MM.csv.gz	2131331	743545d246d7c6f3464d4b29965ff00b
 analyses/six_node_pattern/S2/perset/COMP_C2_toggle__TT_S3c_TF1-TF2.csv.gz	2249163	88ae6d4e6631d9431359a238c7d587cd
-analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__GG+MM+TT@verify.csv.gz	293516	41627b6f43bdbb5048d3cdff0ecdf1b8
 analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__GG+TT.csv.gz	2319677	0f33d8e19fdc58bb05df731d8bb29fe1
 analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__MM+TT.csv.gz	2311930	b6cb44b59def5f17f3ae008a4643b5f7
 analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__MM.csv.gz	2298347	db021b1114f5f051d5635cafa2393200
 analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__TT.csv.gz	2286120	49ba7a3ad3d256e0d88b615ac86096a1
-analyses/six_node_pattern/S2/perset/COMP_I1_negfeedback__core@verify.csv.gz	286825	5e5bfe5f3587a5e046f7eaeac203b117
 analyses/six_node_pattern/S2/perset/I1_miRNA_FFL__GG+TT.csv.gz	2286952	815c288ebbb90a2d3fb5829a21c606eb
 analyses/six_node_pattern/S2/perset/I1_miRNA_FFL__MM+TT.csv.gz	2265938	f241f28883edff3153fcaf30612f5b3e
 analyses/six_node_pattern/S2/perset/I1_miRNA_FFL__MM.csv.gz	2261422	0d66189c00946f0a84a3fbab718dd64c
@@ -1391,8 +1389,6 @@ results/v2/verify_direct_evidence.csv	6991	40003623ca53c0c113a028a3306e06d2
 results/v2/verify_expression.csv	7179	ddab55a475275cbeb3e41ac3b5e6d2fa
 results/v2/verify_mediation.csv	3218	9c9312accdb2fbf997713a65cc2290dc
 results/v2/verify_motif.csv	7003	60d3cb32225e32f5750c89cdecdfbd45
-results/v2/verify_motif_convention.csv	1393	cbbb150ada50b95b6e5d02eee031574d
-results/v2/verify_pernetwork.csv	663	09ec8bc8622cd6b499880db16928ed73
 results/v3/cgc.tsv	14	3be7b8b182ccd96e48989b4e57311193
 results/v3/deconv_FINAL_summary.csv	12636	373d6677c7b3eaaece7786a67d145bec
 results/v3/deconv_acme_by_mediator_family.csv	5125	889921b84b4a401853f2bc768650b016
@@ -1679,7 +1675,6 @@ results/v3/systems_perturbation_meta.json	158	9c29705cc16bfb289afea13acab1d113
 results/v3/systems_pmid_lookup.json	1866	73cf5b508b23c04c1d2e5ebc5d84910a
 results/v3/systems_powerlaw_csn_fits.csv	321	4c2678d47065593633cac454bb40e1bc
 results/v3/systems_powerlaw_csn_lrt.csv	789	1ad799333078e75fb7c9577f0d0d25a6
-results/v3/systems_references_crossref_recheck.csv	2941	ccce40d93415206b59d0f2b3952e681e
 results/v3/systems_references_verified.csv	4700	010248e0fb284e92233ab275dd5723c3
 results/v3/systems_regulator_subnetwork.csv	577	d11171967e317b1eb3c7a0e74553f20c
 results/v3/systems_regulator_subnetwork.json	2814	1fa76d5f5a9a95b6fd30186fb8efcd2a

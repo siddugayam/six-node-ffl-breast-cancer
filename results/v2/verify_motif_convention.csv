@@ -1,8 +1,0 @@
-convention,graph,Composite,TF_FFL,miRNA_FFL,typed_total,all_3node_modules,note
-D1-D4 formal definition (vertex-induced module = node set); composite counted ONCE,augmented (deposited + TRRUST TF_target + gene_gene layer as-is + miRNA_miRNA 10kb both directions),1403,9,291,1703,6037,THIS is the definition the task and the revised Methods state; ONCE is forced by D1
-D1-D4 formal definition; composite counted TWICE (once per arc),augmented,2806,9,291,3106,n/a,not admissible under D1-D4: the miRNA->TF arc has been contracted away
-D1-D4 formal definition; composite counted ONCE,deposited canonical_edges.tsv only,1334,9,208,1551,2067,graph actually used by 30_motif_significance.py
-D1-D4 formal definition; composite counted TWICE,deposited only,2668,9,208,2885,n/a,
-"published 30_motif_significance.py convention: ordered cores, target restricted to non-miRNA, NO acyclicity/induced test; composite ONCE",deposited only,1434,9,206,1649,n/a,"EXACT reproduction of the published observed values 1,434 / 9 / 206 / 1,649"
-"published first-pass convention (results/motif_specificity.csv): same, composite counted TWICE",deposited only,2868,9,206,3083,n/a,"2,868 = 2 x 1,434; the '3,083 typed cores' of the revised Methods"
-published convention applied to the AUGMENTED graph (for reference),augmented,4008,9,636,4653,n/a,shows the census graph and the motif graph are not the same graph

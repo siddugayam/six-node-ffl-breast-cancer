@@ -1,7 +1,0 @@
-network,D1D4_modules,D1D4_miRNA_FFL,D1D4_TF_FFL,D1D4_Composite,pubconv_typed_once,pubconv_typed_twice,published_claim,verdict
-3-miR,1636,1593,0,0,1593,1593,1593,CONFIRMED
-3-TF,1489,63,1283,4,1366,1370,1370,CONFIRMED only with composites counted TWICE (1299+2*4+63)
-3-Comp,1486,63,0,1284,1443,2823,2823,CONFIRMED only with composites counted TWICE (2*1380+63)
-4-TF,0,0,0,0,0,0,0,CONFIRMED
-5-TF,20,0,0,0,0,0,0,CONFIRMED for typed cores; 20 D1-D4 modules exist (all miRNA->miRNA->COL3A1)
-6-TF,36,0,8,0,0,0,0,"CONFIRMED for the published typed-core convention (target must be non-miRNA); under D1-D4 there are 36 modules, 8 of them TF-FFL with a miRNA target"
