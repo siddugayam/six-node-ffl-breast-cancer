@@ -1,5 +1,5 @@
-# Core revision figures: global network, the FFL census
-#, and correctly directed module diagrams.
+# Fig. S1 (the global regulatory network, FigureS1_global_network), with a census panel and directed diagrams
+# of the exemplar modules; Figs S2 and 2 of the paper are drawn by scripts 70 and 72.
 suppressMessages({library(data.table); library(igraph); library(ggplot2); library(ggraph)
                   library(tidygraph); library(patchwork); library(jsonlite); library(scales)})
 REV <- "/path/to/revision"

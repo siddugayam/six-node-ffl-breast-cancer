@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fig. S5 for submission: identical to analyses/analysed_network_reruns/v3/fig_s5_information_flow.py (the Fig 3 block of
+"""Fig. S5 for submission: identical to analyses/analysed_network_reruns/v3/fig_s5_information_flow.py (the information-flow block of
 scripts/05_network_architecture/10_figures.py) except that the in-panel titles are replaced by lowercase panel letters, as Springer requires
 ("do not include titles or captions within your illustrations"); the titles' content moves to the legend.
 usage: python3 fig_s5_information_flow_notitles.py   (reads the analysed-network outputs of analyses/analysed_network_reruns)"""

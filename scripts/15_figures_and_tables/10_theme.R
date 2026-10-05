@@ -1,4 +1,4 @@
-# Shared publication theme for all revision figures.
+# Shared publication theme for the figures.
 suppressMessages({library(ggplot2); library(grid)})
 PAL   <- c(TF="#C2410C", miRNA="#1D4ED8", Gene="#047857")
 EPAL  <- c(TF_target="#EA580C", TF_miRNA="#F59E0B", miRNA_target="#2563EB",

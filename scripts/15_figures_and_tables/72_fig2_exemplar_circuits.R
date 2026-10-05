@@ -1,5 +1,5 @@
-# Fig. 2 of the research-article version (1 Oct 2026): the exemplar four-, five- and six-node circuits as directed signed graphs
-# (formerly Fig. S2; same data, palette and layout as 21_figure_exemplars.R, redrawn at print width with 8 pt labels, italic
+# Fig. 2: the exemplar four-, five- and six-node circuits as directed signed graphs
+# (drawn at print width with 8 pt labels, italic
 # gene symbols, one shared key). Circuits are read from the SIF files of the first submission; node classes from
 # data/canonical_nodes.tsv. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressMessages({library(data.table); library(igraph); library(ggplot2); library(ggraph); library(tidygraph); library(patchwork); library(ggrepel)})

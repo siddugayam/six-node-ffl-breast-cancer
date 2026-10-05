@@ -1,7 +1,6 @@
-# Fig. 4 of the research-article version (1 Oct 2026): (a) mediation of the TF-collagen and miR-29-collagen associations by
-# stromal content across 42 estimates (formerly Fig. 2d); (b) spatial compartment occupancy, (c) patient-to-xenograft change and
-# (d) bulk versus within-stroma TF-COL1A1 correlation (formerly Fig. 4a-c); (e) miR-29a survival meta-analysis (formerly Fig. 4d).
-# Code and data as in 12_fig_validation.R and 60_fig8_independent_validation.R; one theme (theme_pub), 8 pt text, 174 mm, 600 dpi.
+# Fig. 4: (a) mediation of the TF-collagen and miR-29-collagen associations by stromal content across 42 estimates;
+# (b) spatial compartment occupancy, (c) patient-to-xenograft change and (d) bulk versus within-stroma TF-COL1A1
+# correlation; (e) miR-29a survival meta-analysis. One theme (theme_pub), 8 pt text, 174 mm, 600 dpi.
 # Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(scales); library(ragg)})
 REV <- Sys.getenv("FFL_REV", unset = "/path/to/revision")

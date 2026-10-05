@@ -30,7 +30,7 @@ ggpubr	0.6.3	CRAN archive	original submission code
 ggraph	2.2.2	CRAN	main analyses and original submission code	
 ggrepel	0.9.7	CRAN archive	main analyses and original submission code	
 ggridges	0.5.7	CRAN	main analyses	
-ggtext	0.1.2	CRAN archive	main analyses	used by scripts/15_figures_and_tables/12_fig_validation.R
+ggtext	0.1.2	CRAN archive	main analyses	used by scripts/15_figures_and_tables/70_fig_supp_census_coherence_concordance.R
 ggupset	not recorded	CRAN (version not recorded)	original submission code	used only by analyses/original_submission_code/Scripts/03_Network_Analysis_Hub_Enrichment.R, which installs it itself
 GO.db	3.21.0	Bioconductor 3.21 (data/annotation)	main analyses	
 graph	1.86.0	Bioconductor 3.21 (bioc)	main analyses	

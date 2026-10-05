@@ -1,6 +1,6 @@
-# Figure: the 30 prioritised nodes, their evidence-domain profiles, and the divergence between
+# Fig. S4: the 30 prioritised nodes, their evidence-domain profiles, and the divergence between
 # ranking by FFL topology and ranking by evidence.
-# Revised 2026-09-25: drawn at print width (174 mm) with 8 pt text (9 pt axis titles); gene symbols
+# Drawn at print width (174 mm) with 8 pt text (9 pt axis titles); gene symbols
 # italic, miRNA names roman. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(ggrepel)})
 REV <- "/path/to/revision"
@@ -58,6 +58,6 @@ pB <- ggplot(H, aes(domain, name, fill=score)) +
         legend.position="right", legend.key.height=unit(24,"pt"))
 
 out <- pA / pB + plot_layout(heights=c(1.2, 1.5))
-ggsave(file.path(FIG,"Fig5_prioritisation.png"), out, width=6.85, height=8.6, dpi = 600, bg="white", device=ragg::agg_png)
-ggsave(file.path(FIG,"Fig5_prioritisation.pdf"), out, width=6.85, height=8.6, bg="white", device=cairo_pdf)
-cat("wrote Fig5_prioritisation\n")
+ggsave(file.path(FIG,"FigS4_prioritisation.png"), out, width=6.85, height=8.6, dpi = 600, bg="white", device=ragg::agg_png)
+ggsave(file.path(FIG,"FigS4_prioritisation.pdf"), out, width=6.85, height=8.6, bg="white", device=cairo_pdf)
+cat("wrote FigS4_prioritisation\n")

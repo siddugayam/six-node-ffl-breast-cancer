@@ -1,6 +1,6 @@
-# Fig. 3 of the research-article version (1 Oct 2026): (a) over-representation of three-node FFLs and of reciprocal TF-miRNA pairs
-# against the three null models (formerly Fig. 1c, same code and data); (b) the six-node composite pattern of Bhat et al. (2024)
-# under NULL-C and NULL-L, as tested and in the three variants that limit the result (new panel; every value is read from
+# Fig. 3: (a) over-representation of three-node FFLs and of reciprocal TF-miRNA pairs against the three null models;
+# (b) the six-node composite pattern of Bhat et al. (2024) under NULL-C and NULL-L, as tested and in three variants
+# (physical STRING links only, each co-transcribed cluster counted once, D1-D4 six-node modules; every value is read from
 # results/v6/fig3b_six_node_pattern.csv, whose last column names the source file and line). Drawn at 174 mm, 8 pt text, 600 dpi.
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(scales); library(ragg)})
 REV <- Sys.getenv("FFL_REV", unset = "/path/to/revision")

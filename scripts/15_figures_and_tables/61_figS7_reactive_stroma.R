@@ -1,5 +1,5 @@
-# Figure 5: FFL module scores against the Farmer stroma-related signature, and the pCR meta-analysis.
-# Revised 2026-09-25: drawn at print width (174 mm) with 8 pt text (9 pt axis titles); gene symbols
+# Fig. S7: FFL module scores against the Farmer stroma-related signature, and the pCR meta-analysis.
+# Drawn at print width (174 mm) with 8 pt text (9 pt axis titles); gene symbols
 # italic; signature names as in the legend. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressPackageStartupMessages({library(data.table);library(ggplot2);library(patchwork)})
 REV <- "/path/to/revision"
@@ -73,6 +73,6 @@ pb <- ggplot(b, aes(OR_random, lab)) +
   theme_pub(BASE) + theme(panel.grid.major.y=element_blank())
 
 fig <- pa / pb + plot_layout(heights=c(1,1))
-ggsave(file.path(OUT,"Fig5_reactive_stroma.png"), fig, width=6.85, height=6.4, dpi=600, bg="white", device=ragg::agg_png)
-ggsave(file.path(OUT,"Fig5_reactive_stroma.pdf"), fig, width=6.85, height=6.4, bg="white", device=cairo_pdf)
-cat("wrote Fig5_reactive_stroma\n")
+ggsave(file.path(OUT,"FigS7_reactive_stroma.png"), fig, width=6.85, height=6.4, dpi=600, bg="white", device=ragg::agg_png)
+ggsave(file.path(OUT,"FigS7_reactive_stroma.pdf"), fig, width=6.85, height=6.4, bg="white", device=cairo_pdf)
+cat("wrote FigS7_reactive_stroma\n")

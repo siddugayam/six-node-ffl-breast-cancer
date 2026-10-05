@@ -17,3 +17,15 @@ gives the path of every file named in the Supplementary Notes.
 | `figures/` | Plots kept with the results |
 
 Files above 50 MB are gzip-compressed (`.gz`).
+
+## Files behind the reported values
+
+- Census: `v2/census_rerun/census_all_graphs.csv`. The top-level `ffl_census_summary.csv`, `ffl_census.csv` and
+  `ffl_higher_order.csv.gz` count the graph that also holds the 30 exemplar miRNA–miRNA edges.
+- Node ranks: Table S1 (`supplementary_tables/TableS1_node_prioritisation_full.csv`), ordered by its `priority` column;
+  `ANALYSIS_GUIDE.ipynb` recomputes them. In `v5/node_prioritisation_full.csv`, rank by the same column.
+- `v5/tables/` holds the tables under the analysis numbering; its README maps them to the published tables.
+- `v7/mcode_19_headline_summary.csv` is compiled from the files `mcode_00` to `mcode_18` of the same folder, which hold
+  its values.
+- `v6/atac_encode_compartment_specificity_tests.csv` is rebuilt byte for byte from `v6/atac_encode_region_accessible.csv`
+  by `scripts/09_regulatory_evidence/encode_accessibility/atac_compartment_specificity_tests_rebuild.py`, which writes the rebuilt copy and a summary next to itself.

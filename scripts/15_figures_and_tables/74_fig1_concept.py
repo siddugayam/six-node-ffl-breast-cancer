@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Fig. 1 of the research-article version (1 Oct 2026; draft of the same day sent for approval): workflow (a), the three FFL classes and the edge-addition series from three to six nodes (b),
-and the topological definition of an n-node FFL (c). Redraws the first-submission Figs 1 and 2 with signed edges.
+"""Fig. 1: workflow (a), the three FFL classes and the edge-addition series from three to six nodes (b),
+and the topological definition of an n-node FFL (c).
 Plain SVG, 174 mm wide (1 unit = 1 mm). Palette = PAL and EPAL of 10_theme.R in the same folder (TF-TF edges use the TF-target colour). No data are plotted; no number appears that is not in the paper
 (587 nodes, 6,829 edges)."""
 import math, sys
@@ -150,5 +150,5 @@ conds = ["D1  induced subgraph on n vertices, connected when edge directions are
 for i, c in enumerate(conds): text(3, 222.6 + i * 3.7, c, size=2.85)
 add('</g>')
 add('</svg>')
-open(sys.argv[1] if len(sys.argv) > 1 else "fig1_concept_draft.svg", "w", encoding="utf8").write("\n".join(out))
+open(sys.argv[1] if len(sys.argv) > 1 else "Fig1_concept.svg", "w", encoding="utf8").write("\n".join(out))
 print("written")

@@ -16,3 +16,17 @@ in the layout in which it was run. Scripts refer to other analyses as `analyses/
 | [`perturbation_tests/`](perturbation_tests) | Note S1 | Tests with public perturbation data, purified-cell miRNA atlases and a second sequence model |
 | [`perturbation_sensitivity/`](perturbation_sensitivity) | Notes S1, S2 | Sensitivity analyses of the perturbation tests |
 | [`original_submission_code/`](original_submission_code) | — | The network files and R scripts of the original submission (MIT licence) |
+
+## Inputs read from outside these folders
+
+- `six_node_pattern/E/E6` and `S8` read the TCGA-BRCA R objects `data/brca_*.rds`, built by
+  `scripts/07_expression_validation/tcga_differential_expression/01_tcga_brca_prep_de.R` and `scripts/10_survival_and_clinical/cox_models/10_survival_cox_hubs.R` from the downloads listed in the main README.
+- `six_node_pattern/S7/s7b_restricted_gene_gene.py` reads the STRING v12 downloads, and `six_node_followups/Q7` the
+  TargetScan 8.0 miRNA family file.
+- `six_node_pattern/E/E5/e5a_hypergeometric_filter.py` and `six_node_followups/Q123`, `Q5` and `Q9` take the authors'
+  pair-filter archive as an argument; its files are in `data/pair_filter/`.
+- The two scripts of `six_node_pattern/S5` read the edge list of `results/v5/tables/TableS1_all_interactions.csv` (the
+  published Table S2), not its sign columns.
+- The perturbation-data tests read, besides public downloads, the network tables,
+  `results/v3/seqreg_ext_occlusion_allsites.csv`, TRRUST v2 and, for `P2/p2_analyse.py`, the six-node composite
+  instances of `six_node_pattern/S1`.

@@ -1,8 +1,8 @@
-# Figure 6: behaviours gained and lost by higher-order modules relative to their embedded three-node
+# Fig. 5: behaviours gained and lost by higher-order modules relative to their embedded three-node
 # cores, for the composite circuit (a) and the incoherent type-1 circuit I1 (b).
-# R version of the Fig_dyn5 panel of 05_figures_springer.py (same data, same encoding: gains right of
+# R version of the Fig_dyn5 panel of scripts/11_dynamics/05_figures.py (same data, same encoding: gains right of
 # zero in red, losses left of zero in blue, colour intensity by module size), drawn at print width
-# (174 mm) with 8 pt text in the style of the other main figures. Written 2026-09-25; it supersedes
+# (174 mm) with 8 pt text in the style of the other main figures; it replaces
 # the Fig_dyn5 output of the Python script. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressMessages({library(data.table); library(ggplot2); library(patchwork)})
 REV <- "/path/to/revision"
@@ -22,7 +22,7 @@ g[, `:=`(ymin = y + (k - 2) * w - 0.45 * w, ymax = y + (k - 2) * w + 0.45 * w)]
 bars <- rbind(g[, .(family, module, y, ymin, ymax, xmin = 0, xmax = pct_gain, dir = "gain")],
               g[, .(family, module, y, ymin, ymax, xmin = -pct_loss, xmax = 0, dir = "loss")])
 bars[, key := paste(dir, module, sep = ".")]
-# colours of 05_figures_springer.py (DIV_HI, DIV_LO) at alpha 0.45, 0.65 and 0.85 over white
+# colours of scripts/11_dynamics/05_figures.py (DIV_HI, DIV_LO) at alpha 0.45, 0.65 and 0.85 over white
 tint <- function(hex, a) { v <- col2rgb(hex)[, 1]; rgb(t(a * v + (1 - a) * 255), maxColorValue = 255) }
 cols <- c(gain.n4 = tint("#e34948", 0.45), gain.n5 = tint("#e34948", 0.65), gain.n6 = tint("#e34948", 0.85),
           loss.n4 = tint("#2a78d6", 0.45), loss.n5 = tint("#2a78d6", 0.65), loss.n6 = tint("#2a78d6", 0.85))

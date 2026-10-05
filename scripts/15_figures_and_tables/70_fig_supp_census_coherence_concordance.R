@@ -1,7 +1,5 @@
-# Supplementary Figs S2, S3 and S6 of the research-article version (1 Oct 2026): panels that moved out of the main
-# figures. S2 = census and edge-class saturation (formerly Fig. 1a, b); S3 = coherence typology (formerly Fig. 2a, b);
-# S6 = sign concordance by edge class and evidence tier (formerly Fig. 2c). Code and data as in 11_fig_census_motif.R
-# and 12_fig_validation.R; drawn at print width (174 mm), 8 pt text, 600 dpi. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
+# Supplementary Figs S2, S3 and S6: S2 = census and edge-class saturation; S3 = coherence typology;
+# S6 = sign concordance by edge class and evidence tier. Drawn at print width (174 mm), 8 pt text, 600 dpi. Run in a UTF-8 locale (LC_ALL=en_US.UTF-8).
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(scales); library(ragg); library(ggtext)})
 REV <- Sys.getenv("FFL_REV", unset = "/path/to/revision")
 source(file.path(REV,"scripts/15_figures_and_tables/10_theme.R"))
