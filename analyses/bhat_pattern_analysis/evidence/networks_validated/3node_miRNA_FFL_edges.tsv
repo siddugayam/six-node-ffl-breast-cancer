@@ -1,0 +1,1182 @@
+source	target	edge_type	sign	sign_source	evidence_tier	layer	n_ffl
+AR	CDH11	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+AR	ETV1	TF_target	1	TRRUST		analysed network	5
+AR	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+AR	PMEPA1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+AR	VEGFA	TF_target	1	TRRUST		analysed network	2
+ARNT	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ATF4	VEGFA	TF_target	1	TRRUST		analysed network	2
+BRCA1	VEGFA	TF_target	1	TRRUST		analysed network	1
+CEBPA	CCL2	TF_target	1	TRRUST		analysed network	1
+CEBPA	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+CEBPB	ADM	TF_target	1	TRRUST		analysed network	1
+CEBPB	FURIN	TF_target	1	TRRUST		analysed network	5
+CEBPB	GADD45G	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+CREB1	BDNF	TF_target	1	TRRUST		analysed network	1
+CTNNB1	CD44	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+CTNNB1	FST	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+CTNNB1	MMP14	TF_target	1	TRRUST		analysed network	1
+CTNNB1	VIM	TF_target	1	TRRUST		analysed network	2
+DNMT1	VEGFA	TF_target	1	TRRUST		analysed network	2
+E2F1	CD2AP	TF_target	1	TRRUST		analysed network	7
+E2F1	CDCA7	TF_target	1	TRRUST		analysed network	6
+E2F1	FMN2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+E2F1	HIC1	TF_target	1	TRRUST		analysed network	5
+E2F1	MYBL2	TF_target	1	TRRUST		analysed network	1
+E2F1	PEG10	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+E2F1	RBM38	TF_target	1	TRRUST		analysed network	2
+E2F1	THBS1	TF_target	1	TRRUST		analysed network	5
+E2F1	VEGFA	TF_target	-1	TRRUST		analysed network	11
+E2F3	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+EGR1	CACNA1H	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+EGR1	CCND2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+EGR1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+EGR1	FAS	TF_target	-1	TRRUST		analysed network	2
+EGR1	FN1	TF_target	1	TRRUST		analysed network	6
+EGR1	MMP14	TF_target	1	TRRUST		analysed network	1
+EGR1	PLAU	TF_target	1	TRRUST		analysed network	2
+EGR1	SPRY1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+EGR1	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+EGR1	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+ELK1	FOSL1	TF_target	1	TRRUST		analysed network	1
+EP300	THBD	TF_target	-1	TRRUST		analysed network	1
+EP300	VEGFA	TF_target	1	TRRUST		analysed network	1
+EPAS1	MMP14	TF_target	1	TRRUST		analysed network	1
+EPAS1	SERPINE1	TF_target	1	TRRUST		analysed network	5
+EPAS1	VEGFA	TF_target	1	TRRUST		analysed network	9
+ESR1	SERPINE1	TF_target	1	TRRUST		analysed network	3
+ESR1	VEGFA	TF_target	1	TRRUST		analysed network	4
+ESR2	SERPINE1	TF_target	-1	TRRUST		analysed network	1
+ETS1	CTSB	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+ETS1	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ETS1	PTHLH	TF_target	1	TRRUST		analysed network	1
+ETS1	TGFBR2	TF_target	1	TRRUST		analysed network	6
+ETV4	CCND2	TF_target	1	TRRUST		analysed network	3
+ETV4	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+EZH2	ADAMTS1	TF_target	-1	TRRUST		analysed network	2
+EZH2	ADRB2	TF_target	-1	TRRUST		analysed network	1
+EZH2	AXL	TF_target	1	TRRUST		analysed network	1
+EZH2	FBXO32	TF_target	-1	TRRUST		analysed network	5
+FOS	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+FOS	FAS	TF_target	1	TRRUST		analysed network	1
+FOS	NTF3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+FOS	OXTR	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+FOS	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+FOS	SMAD7	TF_target	1	TRRUST		analysed network	3
+FOXM1	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+FOXO3	CCND2	TF_target	-1	TRRUST		analysed network	2
+GATA3	LOX	TF_target	-1	TRRUST		analysed network	1
+HDAC1	CCND2	TF_target	-1	TRRUST		analysed network	2
+HDAC1	SMAD7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+HDAC2	TGFBR2	TF_target	-1	TRRUST		analysed network	2
+HDAC2	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+HDAC3	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+HDAC4	VEGFA	TF_target	-1	TRRUST		analysed network	3
+HIF1A	CXCL12	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+HIF1A	EDN1	TF_target	1	TRRUST		analysed network	5
+HIF1A	HBEGF	TF_target	1	TRRUST		analysed network	10
+HIF1A	LOX	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+HIF1A	MET	TF_target	1	TRRUST		analysed network	9
+HIF1A	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+HIF1A	NT5E	TF_target	1	TRRUST		analysed network	2
+HIF1A	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+HIF1A	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+HIF1A	TERT	TF_target	1	TRRUST		analysed network	1
+HIF1A	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	11
+HIF1A	VIM	TF_target	1	TRRUST		analysed network	2
+HOXA10	IL11	TF_target	-1	TRRUST		analysed network	1
+JUN	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+JUN	GJA1	TF_target	1	TRRUST		analysed network	2
+JUN	MAP3K1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+JUN	MMP2	TF_target	1	TRRUST		analysed network	1
+JUN	SMAD7	TF_target	1	TRRUST		analysed network	4
+JUN	VEGFA	TF_target	-1	TRRUST		analysed network	4
+JUND	FOSL1	TF_target	1	TRRUST		analysed network	1
+KLF4	THBD	TF_target	1	TRRUST		analysed network	1
+KLF4	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+LEF1	CYLD	TF_target	-1	TRRUST		analysed network	2
+MEF2A	MAPK7	TF_target	1	TRRUST		analysed network	1
+MEF2C	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+MITF	MET	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+MYB	IL15	TF_target	1	TRRUST		analysed network	1
+MYC	CCND2	TF_target	1	TRRUST		analysed network	29
+MYC	CDCA7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+MYC	DKK1	TF_target	-1	TRRUST		analysed network	1
+MYC	IER3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+MYC	LDHA	TF_target	1	TRRUST		analysed network	1
+MYC	VEGFA	TF_target	1	TRRUST		analysed network	14
+MYCN	DKK3	TF_target	-1	TRRUST		analysed network	3
+MYCN	GRHL1	TF_target	-1	TRRUST		analysed network	1
+NANOG	DKK1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+NFKB1	ABCA1	TF_target	-1	TRRUST		analysed network	7
+NFKB1	BACE1	TF_target	-1	TRRUST		analysed network	8
+NFKB1	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+NFKB1	CCND2	TF_target	1	TRRUST		analysed network	9
+NFKB1	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+NFKB1	COL7A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+NFKB1	EDN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+NFKB1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+NFKB1	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+NFKB1	FGF7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+NFKB1	FN1	TF_target	1	TRRUST		analysed network	2
+NFKB1	GADD45G	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+NFKB1	HBEGF	TF_target	1	TRRUST		analysed network	5
+NFKB1	IER3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+NFKB1	LPL	TF_target	1	TRRUST		analysed network	4
+NFKB1	MMP14	TF_target	1	TRRUST		analysed network	1
+NFKB1	MMP2	TF_target	1	TRRUST		analysed network	4
+NFKB1	OPTN	TF_target	1	TRRUST		analysed network	1
+NFKB1	PTHLH	TF_target	1	TRRUST		analysed network	5
+NFKB1	RGS4	TF_target	1	TRRUST		analysed network	1
+NFKB1	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+NFKB1	SQSTM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+NFKB1	TBX21	TF_target	1	TRRUST		analysed network	1
+NFKB1	THBD	TF_target	-1	TRRUST		analysed network	1
+NFKB1	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+POU5F1	SEMA6A	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RELA	ABCA1	TF_target	-1	TRRUST		analysed network	9
+RELA	BACE1	TF_target	-1	TRRUST		analysed network	5
+RELA	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+RELA	CCND2	TF_target	1	TRRUST		analysed network	9
+RELA	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+RELA	COL7A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RELA	CTSB	TF_target	1	TRRUST		analysed network	3
+RELA	CXCL12	TF_target	1	TRRUST		analysed network	2
+RELA	EDN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RELA	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+RELA	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+RELA	FGF7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RELA	FN1	TF_target	1	TRRUST		analysed network	7
+RELA	HBEGF	TF_target	1	TRRUST		analysed network	6
+RELA	IER3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+RELA	LPL	TF_target	1	TRRUST		analysed network	3
+RELA	MMP14	TF_target	1	TRRUST		analysed network	1
+RELA	MMP2	TF_target	1	TRRUST		analysed network	3
+RELA	OXTR	TF_target	1	TRRUST		analysed network	1
+RELA	PTGER4	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+RELA	PTHLH	TF_target	1	TRRUST		analysed network	3
+RELA	RGS4	TF_target	1	TRRUST		analysed network	2
+RELA	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+RELA	THBD	TF_target	-1	TRRUST		analysed network	2
+RELA	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+REST	NRP1	TF_target	-1	TRRUST		analysed network	2
+RUNX1	CCND2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+RUNX1	FHL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RUNX1	VEGFA	TF_target	-1	TRRUST		analysed network	4
+RUNX2	VEGFC	TF_target	1	TRRUST		analysed network	1
+SIRT1	ADAMTS5	TF_target	-1	TRRUST		analysed network	1
+SIRT1	NOTCH1	TF_target	-1	TRRUST		analysed network	1
+SMAD3	CCND2	TF_target	1	TRRUST		analysed network	10
+SMAD3	COL7A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SMAD3	FST	TF_target	1	TRRUST		analysed network	2
+SMAD3	PTHLH	TF_target	1	TRRUST		analysed network	5
+SMAD3	SERPINE1	TF_target	1	TRRUST		analysed network	5
+SMAD3	SMAD7	TF_target	-1	TRRUST		analysed network	8
+SMAD3	TERT	TF_target	-1	TRRUST		analysed network	1
+SMAD3	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+SMAD4	SERPINE1	TF_target	1	TRRUST		analysed network	4
+SMAD4	SKIL	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SMAD4	SMAD7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+SMAD4	UCP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SNAI1	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SNAI1	HBEGF	TF_target	1	TRRUST		analysed network	1
+SP1	ABCA1	TF_target	1	TRRUST		analysed network	10
+SP1	ADA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SP1	ASPN	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SP1	BACE1	TF_target	1	TRRUST		analysed network	7
+SP1	CCND2	TF_target	1	TRRUST		analysed network	13
+SP1	CD2AP	TF_target	1	TRRUST		analysed network	5
+SP1	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SP1	COL7A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SP1	CTGF	TF_target	1	TRRUST		analysed network	3
+SP1	ELF4	TF_target	1	TRRUST		analysed network	2
+SP1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+SP1	FAS	TF_target	1	TRRUST		analysed network	3
+SP1	FBN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+SP1	GJA1	TF_target	1	TRRUST		analysed network	8
+SP1	HBEGF	TF_target	1	TRRUST		analysed network	5
+SP1	ID4	TF_target	-1	TRRUST		analysed network	6
+SP1	ITGA5	TF_target	1	TRRUST		analysed network	2
+SP1	LDHA	TF_target	1	TRRUST		analysed network	1
+SP1	LPL	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+SP1	MET	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+SP1	MMP14	TF_target	1	TRRUST		analysed network	1
+SP1	MMP2	TF_target	1	TRRUST		analysed network	5
+SP1	MYBL1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+SP1	MYBL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SP1	OXTR	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SP1	PTHLH	TF_target	1	TRRUST		analysed network	7
+SP1	SERPINE1	TF_target	1	TRRUST		analysed network	1
+SP1	SNAP25	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SP1	SQSTM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+SP1	TBX21	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SP1	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	12
+SP1	THBD	TF_target	1	TRRUST		analysed network	1
+SP1	UGCG	TF_target	1	TRRUST		analysed network	7
+SP1	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	9
+SP1	VIM	TF_target	1	TRRUST		analysed network	1
+SREBF2	ABCA1	TF_target	-1	TRRUST		analysed network	6
+SREBF2	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SRF	FOSL1	TF_target	1	TRRUST		analysed network	1
+SRF	MMP2	TF_target	1	TRRUST		analysed network	1
+SRF	SERPINE1	TF_target	-1	TRRUST		analysed network	1
+STAT1	CCL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT1	CTSB	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT1	EDN1	TF_target	1	TRRUST		analysed network	1
+STAT1	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT3	ABCA1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+STAT3	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT3	CCL2	TF_target	1	TRRUST		analysed network	1
+STAT3	CCND2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	19
+STAT3	CTGF	TF_target	-1	TRRUST		analysed network	3
+STAT3	F2R	TF_target	1	TRRUST		analysed network	2
+STAT3	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+STAT3	IL11	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT3	LTBP1	TF_target	-1	TRRUST		analysed network	1
+STAT3	MMP14	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+STAT3	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+STAT3	MYD88	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+STAT3	TERT	TF_target	1	TRRUST		analysed network	1
+STAT3	UCP2	TF_target	-1	TRRUST		analysed network	2
+STAT3	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+TFAP2A	BACE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+TFAP2A	DCBLD2	TF_target	1	TRRUST		analysed network	2
+TFAP2A	FAS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+TFAP2A	IGFBP5	TF_target	1	TRRUST		analysed network	1
+TP53	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+TP53	EPHA2	TF_target	1	TRRUST		analysed network	4
+TP53	FAS	TF_target	1	TRRUST		analysed network	2
+TP53	ID1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+TP53	IER3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+TP53	MET	TF_target	-1	TRRUST		analysed network	4
+TP53	MMP2	TF_target	1	TRRUST		analysed network	4
+TP53	PDGFRB	TF_target	1	TRRUST		analysed network	2
+TP53	PLAGL1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+TP53	TERT	TF_target	-1	TRRUST		analysed network	1
+TP53	THBS1	TF_target	1	TRRUST		analysed network	9
+TP53	VEGFA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+TWIST1	DKK1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+TWIST1	F2R	TF_target	-1	TRRUST		analysed network	1
+TWIST1	FN1	TF_target	1	TRRUST		analysed network	1
+TWIST1	MMP2	TF_target	1	TRRUST		analysed network	5
+USF1	ABCA1	TF_target	1	TRRUST		analysed network	1
+USF1	SERPINE1	TF_target	1	TRRUST		analysed network	1
+USF1	TGFB2	TF_target	1	TRRUST		analysed network	1
+YBX1	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+YY1	FAS	TF_target	-1	TRRUST		analysed network	1
+ZEB2	ITGA5	TF_target	1	TRRUST		analysed network	1
+hsa-let-7a	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-let-7a	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-let-7a	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-let-7a	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-let-7a	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7a	HIC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-let-7a	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	RBM38	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	STAT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7a	YY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-let-7b	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7b	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	FOXO3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-let-7c	ADAMTS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7c	ADRB2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7c	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7c	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-let-7c	FBXO32	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7c	FOXO3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7c	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7d	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7d	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7d	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7d	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7d	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-let-7e	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7e	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-let-7e	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7e	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7e	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7e	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7e	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7e	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7e	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7e	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-let-7f	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7f	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7g	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7g	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-let-7i	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7i	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-let-7i	HIC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7i	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7i	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7i	RBM38	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7i	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-1	AXL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-1	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-1	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-1	FN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-1	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-1	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-101	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-101	CDH11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-101	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-101	ETV1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-101	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-101	FBXO32	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-101	FN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-101	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-101	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-106a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-106a	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-106a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-106a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-106a	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-106a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-106a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-106a	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-106a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-106a	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-106a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-106a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106a	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	8
+hsa-miR-106b	ARNT	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	ATF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-106b	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-106b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-106b	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-106b	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-106b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-106b	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-106b	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-10b	EPHA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-10b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-124	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-124	CCL2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-124	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-124	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-124	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-124	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-124	IL11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-124	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-124	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-124	REST	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-124	SPRY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-124	STAT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-124	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-124	VIM	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-1271	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-1271	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-128	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-128	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-128	ITGA5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-128	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-128	SNAI1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-128	ZEB2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-130a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130a	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-130a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-130a	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-130a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-130a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130a	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-130a	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-130a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	10
+hsa-miR-130a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-130a	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-130b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-130b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-132	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-132	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-132	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-132	SPRY1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-135b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-135b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-139	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-139	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-140	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-140	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-141	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-141	EPHA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-141	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-141	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-141	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-141	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-142	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-142	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-142	IER3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	IL11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-142	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-142	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-142	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-143	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-143	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-143	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-143	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-143	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-143	TERT	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-143	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-143	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-145	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-145	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-145	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	POU5F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-145	SEMA6A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-145	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-145	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-145	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	SRF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-148a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148a	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-148a	IL15	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-148a	MYB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-148a	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-148a	TGFB2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-148a	USF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-148b	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148b	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148b	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-148b	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-150	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-150	MMP14	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-152	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-152	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-155	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-155	FGF7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-155	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-155	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-155	RELA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-155	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-15a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-15a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15a	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-15a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	PLAGL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-15a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-15a	UCP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-15a	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-15b	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	CREB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15b	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	PLAGL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15b	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-16	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-16	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-16	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-16	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	GADD45G	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-16	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-16	PLAGL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-16	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-16	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-16	UCP2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-17	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-17	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-17	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-17	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-17	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-17	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-17	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-17	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	ETV1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-17	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-17	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-17	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-17	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-17	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-17	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-17	RGS4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-17	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-17	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-17	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-17	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-17	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-17	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-17	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-17	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-17	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-181a	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181a	F2R	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181a	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-181a	LEF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181a	MMP14	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181a	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181a	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181a	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-181a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181b	ADAMTS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181b	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181b	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181b	F2R	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181b	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-181b	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181b	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181b	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181c	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181c	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181c	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181c	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181c	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181c	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-181c	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181c	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-181d	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181d	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181d	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-182	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-182	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-182	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-182	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-182	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-182	LEF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-182	MYD88	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-182	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-182	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-182	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-183	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-183	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-183	CTSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-183	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-183	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-183	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-183	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-183	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-183	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-183	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-183	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-185	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-185	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-18a	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-18a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-18a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-18a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18a	THBD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-18a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-18b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18b	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-194	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-194	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-195	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-195	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-195	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-195	HDAC3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-195	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-195	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-196a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-196a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-199a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-199a	CD44	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-199a	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-199a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-199a	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-199a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-199a	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-199a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-199a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-199a	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-19a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-19a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-19a	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-19a	CDH11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19a	DCBLD2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	ETV1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-19a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19a	PMEPA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-19a	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-19a	TFAP2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-19a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-19b	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-19b	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-19b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-19b	CDH11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19b	DCBLD2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-19b	ETV1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	FAS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-19b	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	HIC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19b	PMEPA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-19b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-19b	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-19b	TFAP2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-19b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-19b	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-200a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200a	EPHA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200a	MYBL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200b	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200b	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200b	FN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-200b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-200b	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200b	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200b	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-200b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200b	SNAI1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-200b	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200b	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-200c	EP300	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	FN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200c	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200c	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	SNAI1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-200c	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200c	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-204	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-204	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-205	BRCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-205	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-205	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-205	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-205	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-206	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-206	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-20a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-20a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-20a	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-20a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-20a	E2F3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	ETV1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-20a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-20a	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-20a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-20a	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-20a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20a	RGS4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-20a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-20a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-20a	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-20a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-20a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20a	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-20b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-20b	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-20b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-20b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-20b	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-20b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-20b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-20b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-20b	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-21	EP300	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-21	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-21	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	NTF3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-21	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-21	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-21	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-21	THBD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-212	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-212	SPRY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-214	IGFBP5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-214	TFAP2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-22	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-22	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-221	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-221	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-222	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-222	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-224	EPHA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-224	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-224	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-224	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23a	CXCL12	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-23a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23a	ELF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	FAS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-23a	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	FBXO32	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-23a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23a	OXTR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23a	PTGER4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-23a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-23a	SPRY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23b	CXCL12	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	ELF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-23b	HIC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-23b	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-23b	PTGER4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-23b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-24	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-24	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	MAPK7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-24	MEF2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	MMP14	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-24	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-24	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-24	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-24	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-25	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-25	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-25	FMN2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-25	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-25	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-26a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-26a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-26a	LTBP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-26a	MMP14	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-26a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-26a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-26a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-26b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-26b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-27a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27a	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	CDH11	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27a	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-27a	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-27a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	IER3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27a	ITGA5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	LPL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27a	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-27a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-27a	RUNX2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-27a	SNAP25	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-27a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-27a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-27a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-27a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	VEGFC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-27b	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	HIC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	IER3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27b	LPL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-27b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-27b	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-27b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29a	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-29a	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	COL7A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29a	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29a	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	ID1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	LPL	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29a	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-29a	MYBL2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-29a	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29a	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-29a	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-29b	ADA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29b	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29b	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-29b	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29b	COL7A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29b	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29b	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29b	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29b	FOSL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29b	GATA3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29b	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29b	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-29b	JUND	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29b	LOX	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29b	LPL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29b	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-29b	MYBL2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-29b	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-29b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-29b	SRF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-29b	TBX21	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-29b	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	8
+hsa-miR-29b	YBX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29c	ADA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29c	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-29c	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-29c	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-29c	COL7A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-29c	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29c	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29c	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29c	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-29c	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29c	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-29c	LOX	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-29c	LPL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29c	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-29c	MYBL2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29c	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29c	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-29c	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29c	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-29c	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-29c	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29c	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	8
+hsa-miR-301a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-301a	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-301a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-301a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-301a	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-301a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-302a	DKK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-302a	NANOG	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30a	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30a	ESR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30a	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30a	FBXO32	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30a	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30b	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-30b	VIM	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30c	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30c	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30d	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30d	FBXO32	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-30d	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30d	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30d	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-30d	VIM	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30e	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-30e	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30e	VIM	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-32	CACNA1H	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-32	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-320a	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-320a	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-320a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-320a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-320a	VIM	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-33a	DKK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-33a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	ELK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-34a	FOSL1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	LDHA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-34a	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-34a	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-34a	SIRT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-34c	LDHA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-34c	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-34c	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-34c	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-34c	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-361	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-361	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-361	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-370	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-370	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-373	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-373	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-373	DKK1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-373	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-373	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-373	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-373	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-424	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-424	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	FGF7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	GADD45G	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	HDAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-424	MEF2C	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-424	PTHLH	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	SIRT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	SKIL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-424	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-424	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-424	UCP2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-429	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-429	FOXM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-429	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-429	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-429	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-429	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-429	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-429	UGCG	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-429	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-452	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-452	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-454	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-454	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-455	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-455	SPRY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-497	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-497	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-503	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-503	HDAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-503	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-503	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-7	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-7	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-7	CTSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-7	RELA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-7	STAT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-9	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-9	BACE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-9	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-9	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-9	OPTN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-9	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-9	REST	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-9	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	ADM	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	ASPN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-92a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-92a	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	FHL2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	FMN2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	ITGA5	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-92a	PMEPA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	PTGER4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-92a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-92b	CACNA1H	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92b	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-92b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92b	GRHL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-93	ARNT	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	ATF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	CDCA7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-93	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-93	EPAS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-93	MAP3K1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-93	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-93	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-93	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	VEGFA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-96	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-96	CCND2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-96	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	CTSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-96	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-96	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-96	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-96	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-96	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2

@@ -1,0 +1,17 @@
+CHECK P: the unmodified run reproduces results/v5/node_prioritisation_full.csv byte for byte: TRUE; top10_per_class.csv: TRUE
+3node_miRNA_FFL: Spearman 0.9994; thirty kept 29 of 30
+3node_TF_FFL: Spearman 0.9989; thirty kept 29 of 30
+3node_composite_FFL: Spearman 0.9989; thirty kept 29 of 30
+4node_miRNA_FFL: Spearman 0.9935; thirty kept 27 of 30
+4node_TF_FFL: Spearman 0.9932; thirty kept 27 of 30
+4node_composite_FFL: Spearman 0.9933; thirty kept 27 of 30
+5node_miRNA_FFL: Spearman 0.9910; thirty kept 26 of 30
+5node_TF_FFL: Spearman 0.9909; thirty kept 26 of 30
+5node_composite_FFL: Spearman 0.9909; thirty kept 26 of 30
+6node_miRNA_FFL: Spearman 0.9899; thirty kept 27 of 30
+6node_TF_FFL: Spearman 0.9894; thirty kept 27 of 30
+6node_composite_FFL: Spearman 0.9907; thirty kept 26 of 30
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, Gene (207 rankable): 0 x207
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, TF (157 rankable): 0 x157
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, miRNA (219 rankable): 4 x219
+label: the twelve Bhat networks

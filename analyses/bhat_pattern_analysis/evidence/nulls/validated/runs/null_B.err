@@ -1,0 +1,3 @@
+groups: g0:173 g1:111 g2:730 g3:1194 g4:506 g5:2081 g6:202 g7:960
+observed reciprocal TF<->TF pairs among TF_target arcs: 53
+swap attempts=594900515 accepted=362309545

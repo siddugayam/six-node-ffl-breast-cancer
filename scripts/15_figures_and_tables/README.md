@@ -1,5 +1,3 @@
 # Figures and tables
 
-`10_theme.R` (shared theme) → the figure scripts `11_fig_census_motif.R` (Fig. 1), `12_fig_validation.R` (Fig. 2),
-`13_fig_prioritisation.R` (Fig. 3), `60_fig8_independent_validation.R` (Fig. 4), `61_fig5_reactive_stroma.R` (Fig. 5),
-`62_fig6_gain_loss.R` (Fig. 6); `21_tables.R` (main-text and supplementary tables).
+`10_theme.R` (shared theme) → the figure scripts `74_fig1_concept.py` (Fig. 1), `72_fig2_exemplar_circuits.R` (Fig. 2), `71_fig3_nulls_sixnode.R` (Fig. 3), `73_fig4_compartment_mir29a.R` (Fig. 4), `62_fig6_gain_loss.R` (Fig. 5), `70_fig_supp_census_coherence_concordance.R` (Figs S2, S3 and S6), `13_fig_prioritisation.R` (Fig. S4) and `61_fig5_reactive_stroma.R` (Fig. S7). `11_fig_census_motif.R`, `12_fig_validation.R` and `60_fig8_independent_validation.R` drew earlier versions of panels that scripts 70, 71 and 73 now draw. `21_tables.R` writes the main-text and supplementary tables.

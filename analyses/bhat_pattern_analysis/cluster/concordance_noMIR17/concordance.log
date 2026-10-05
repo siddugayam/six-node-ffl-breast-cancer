@@ -1,0 +1,10 @@
+TRRUST-layer arcs in the networks: 430 (signed 228)
+X1 rows: 106
+CPTAC: TRRUST-layer arcs with both partners measured at mRNA and protein: 254
+X2 rows: 186
+CHECK X1 signs: 3800 distinct analysed-network edges in the twelve networks; sign in the network files differs from results/edge_correlation.csv predicted_sign for 0
+CHECK X1 whole network: 9 strata matched; n equal TRUE; concordance equal TRUE; max |null rate difference| 5e-16; max |binomial p difference| 4.44e-16
+CHECK X1 recomputed rho: largest |difference| from results/edge_correlation.csv over its 6642 rhos: 5e-16
+CHECK X2 whole network: 14 strata x assays matched; concordance rate max |difference| 5e-16; null rate max |difference| 3.89e-16; binomial p max |difference| 4.72e-16
+CHECK X2 signs: every stored CPTAC TF -> target predicted sign equals the network files' sign unless listed above
+CHECK X2 recomputed CPTAC rho (first 20 TF -> target edges, mRNA): largest |difference| 4.44e-16

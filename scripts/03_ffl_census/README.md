@@ -1,4 +1,4 @@
-# Feed-forward loops: three-node cores and the n-node census (Methods 2.2, Table 3)
+# Feed-forward loops: three-node cores and the n-node census (Methods 2.2, Fig. S2, Supplementary Note S2)
 
 - Definitions and three-node cores: `01a_counting_convention.py`, `01b_coherence_corrected.py` (Mangan–Alon coherence
   sub-types, Table S4); `ffl_def.py`, `ffl_graph.py`, `ffl_cores.py` → `02_ffl_census.py` and the follow-up analyses

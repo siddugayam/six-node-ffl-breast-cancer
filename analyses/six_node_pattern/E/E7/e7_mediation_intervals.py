@@ -2,9 +2,9 @@
 """E7: direct (ADE) and mediated (ACME) effects with 95 % percentile-bootstrap CIs (2,000 resamples) for
 the four TF -> COL1A1 arms (ETS1, NFKB1, RELA, SP1) and the three miR-29 -> COL1A1 arms, one row per arm and
 stromal estimate, from results/v3/deconv_mediation_extended.csv (scripts/08_stroma_and_cell_types/deconvolution_and_mediation/46_deconv2_mediation.R).
-The stored run, like the manuscript (Methods, Abstract, Fig. legend), has 45 stromal estimates per arm;
-a set of 42 is not defined anywhere in the project.  Rows are therefore flagged so that any 42-estimate
-subset can be recounted: 'exact_duplicate_of' marks the three estimates whose results equal another
+The stored run has 45 stromal estimates per arm; the 42 estimates of the manuscript leave out three that repeat
+another estimate's results to the last digit.  Rows are flagged so that the 42-estimate subset can be
+recounted: 'exact_duplicate_of' marks the three estimates whose results equal another
 estimate's to the last digit: MCPcounter_Fibroblasts_recomputed (= MCPcounter_Fibroblasts), NNLS_Wu_CAFs
 (= NNLS_Wu641_full_CAFs) and QPROG_Wu_CAFs (= QPROG_Wu641_full_CAFs), the later name alphabetically being
 flagged; 'non_RNA' the six non-transcriptomic estimates.

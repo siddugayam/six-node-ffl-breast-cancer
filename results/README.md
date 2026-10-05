@@ -7,7 +7,7 @@ gives the path of every file named in the Supplementary Notes.
 | Folder | What it holds |
 |---|---|
 | top level | Network topology and hubs, three-node cores and coherence, the first census, motif significance, enrichment, edge correlations and survival |
-| `v2/` | Coherence, the census graphs, differential expression, CAF-adjusted correlations, mediation, cell lines and external cohorts; `census_rerun/` holds the census and motif tables of Table 3 and Fig. 1 |
+| `v2/` | Coherence, the census graphs, differential expression, CAF-adjusted correlations, mediation, cell lines and external cohorts; `census_rerun/` holds the census and motif tables behind Table 2, Fig. 3a and Fig. S2 |
 | `v3/` | Dynamics, architecture and information flow, sequence-level regulation, deconvolution and mediation, single-cell and screen results |
 | `v4/` | Gene-set enrichment of the FFL classes and the metabolic analyses |
 | `v5/` | Prioritisation, node compendium, literature counts, the Farmer reactive-stroma analyses and copies of the tables (`tables/`) |

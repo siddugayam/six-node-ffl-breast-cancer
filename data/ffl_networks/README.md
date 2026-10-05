@@ -17,7 +17,7 @@ For each network `<name>` (for example `6node_composite_FFL`):
 
 ## Graph
 
-All twelve networks are built on the census graph (the graph of Table 3), 9,226 arcs:
+All twelve networks are built on the census graph (the census graph of Supplementary Note S2), 9,226 arcs:
 - the analysed network: the interaction table (Table S2) without the 30 miRNA-miRNA edges of the original circuits,
   587 nodes and 6,829 edges;
 - 604 TF-to-target arcs from TRRUST;
@@ -89,7 +89,7 @@ Edges by source (the `layer` column):
 
 - **Note S2:** 3,898 six-node composite instances. The file reproduces this, and the
   script stops otherwise.
-- **Table S4 and Table 3, three-node row:** the paper counts 1,649 typed three-node cores with exclusive classes:
+- **Table S4 and the census of Supplementary Note S2, three-node row:** the paper counts 1,649 typed three-node cores with exclusive classes:
   1,434 composite, 206 miRNA-FFL and 9 TF-FFL. There, a composite core counts only as composite.
   - 285 of those cores have a TF as target; the Bhat pattern requires a gene target. The other 1,364 have a gene target:
     1,173 composite, 182 miRNA-FFL and 9 TF-FFL.
@@ -98,7 +98,7 @@ Edges by source (the `layer` column):
     - TF-FFL: 1,182 = 1,173 + 9;
     - miRNA-FFL: 1,355 = 1,173 + 182.
   - The script checks this correspondence core by core, and stops otherwise.
-- **Table 3, other counts:** 5,833 at n = 3 and the modules at four to seven nodes are D1-D4 modules counted
+- **Census counts of Supplementary Note S2:** 5,833 at n = 3 and the modules at four to seven nodes are D1-D4 modules counted
   irrespective of node type. They are a different object from these typed networks.
 
 ## The original submission's files

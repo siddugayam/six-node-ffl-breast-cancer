@@ -1,0 +1,25 @@
+family,module,behaviour,paper_n,paper_pct,paper_source,stored_recomputed_pct,nested_n,nested_pct,abs_difference_pct_points,sets_differing,tolerance,result
+COMP_C2_toggle,GG+MM+TT,memory,9593,58.551025390625,"s2_prevalence_gain_loss.csv line 26, column pct",58.551025390625,9593,58.551025390625,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,ultrasensitivity,10838,66.14990234375,"s2_prevalence_gain_loss.csv line 27, column pct",66.14990234375,10838,66.14990234375,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,bistability,2046,12.48779296875,"s2_prevalence_gain_loss.csv line 28, column pct",12.48779296875,2046,12.48779296875,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,pulse generation,4116,25.1220703125,"s2_prevalence_gain_loss.csv line 29, column pct",25.1220703125,4116,25.1220703125,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,noise rejection,13144,80.224609375,"s2_prevalence_gain_loss.csv line 30, column pct",80.224609375,13144,80.224609375,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,damped oscillation,862,5.26123046875,"s2_prevalence_gain_loss.csv line 31, column pct",5.26123046875,862,5.26123046875,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,certified sustained oscillation,83,0.506591796875,"s2_prevalence_gain_loss.csv line 32, column pct",0.506591796875,83,0.506591796875,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,flagged sustained oscillation (sweep),108,0.6591796875,"s2_prevalence_gain_loss.csv line 33, column pct",0.6591796875,108,0.6591796875,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,memory AND pulse,999,6.097412109375,"s2_prevalence_gain_loss.csv line 34, column pct",6.097412109375,999,6.097412109375,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,memory AND damped oscillation,91,0.555419921875,"s2_prevalence_gain_loss.csv line 35, column pct",0.555419921875,91,0.555419921875,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,memory AND certified sustained oscillation,13,0.079345703125,"s2_prevalence_gain_loss.csv line 36, column pct",0.079345703125,13,0.079345703125,0.0,0,0 sets differing,PASS
+COMP_C2_toggle,GG+MM+TT,memory AND either oscillation,104,0.634765625,"s2_prevalence_gain_loss.csv line 37, column pct",0.634765625,104,0.634765625,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,memory,8278,50.52490234375,"s2_prevalence_gain_loss.csv line 170, column pct",50.52490234375,8278,50.52490234375,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,ultrasensitivity,12528,76.46484375,"s2_prevalence_gain_loss.csv line 171, column pct",76.46484375,12528,76.46484375,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,bistability,426,2.60009765625,"s2_prevalence_gain_loss.csv line 172, column pct",2.60009765625,426,2.60009765625,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,pulse generation,5040,30.76171875,"s2_prevalence_gain_loss.csv line 173, column pct",30.76171875,5040,30.76171875,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,noise rejection,11977,73.101806640625,"s2_prevalence_gain_loss.csv line 174, column pct",73.101806640625,11977,73.101806640625,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,damped oscillation,635,3.875732421875,"s2_prevalence_gain_loss.csv line 175, column pct",3.875732421875,635,3.875732421875,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,certified sustained oscillation,31,0.189208984375,"s2_prevalence_gain_loss.csv line 176, column pct",0.189208984375,31,0.189208984375,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,flagged sustained oscillation (sweep),37,0.225830078125,"s2_prevalence_gain_loss.csv line 177, column pct",0.225830078125,37,0.225830078125,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,memory AND pulse,916,5.5908203125,"s2_prevalence_gain_loss.csv line 178, column pct",5.5908203125,916,5.5908203125,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,memory AND damped oscillation,78,0.47607421875,"s2_prevalence_gain_loss.csv line 179, column pct",0.47607421875,78,0.47607421875,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,memory AND certified sustained oscillation,7,0.042724609375,"s2_prevalence_gain_loss.csv line 180, column pct",0.042724609375,7,0.042724609375,0.0,0,0 sets differing,PASS
+COMP_I1_negfeedback,GG+MM+TT,memory AND either oscillation,85,0.518798828125,"s2_prevalence_gain_loss.csv line 181, column pct",0.518798828125,85,0.518798828125,0.0,0,0 sets differing,PASS

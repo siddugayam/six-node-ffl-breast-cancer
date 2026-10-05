@@ -1,0 +1,5 @@
+family,module,registry,size_key,mir_to_TF,input_node,s_TM,s_TY,s_T12,s_T21,s_T2Y,s_T2M
+COMP_I1_negfeedback,TT@nested,,TT,True,TF1,1,1,1,0,1,1
+COMP_I1_negfeedback,GG+TT@nested,,GG+TT,True,TF1,1,1,1,0,1,1
+COMP_I1_negfeedback,MM@nested,,MM,True,TF1,1,1,1,0,1,1
+COMP_I1_negfeedback,MM+TT@nested,,MM+TT,True,TF1,1,1,1,0,1,1

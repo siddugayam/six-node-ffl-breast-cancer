@@ -26,8 +26,8 @@ Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 | **Regulatory network** | 587 nodes (157 TFs, 223 miRNAs, 207 genes); 6,829 directed edges in the analysed network |
 | **Edge classes** | miRNA → gene 3,266 · miRNA → TF 1,553 · TF → miRNA 1,239 · TF → gene 681 · TF → TF 89 · gene–gene 1 |
 | **Three-node FFL cores** | 1,649 typed cores: 1,434 composite, 206 miRNA-FFL and 9 TF-FFL (Table S4) |
-| **Higher-order census** | 116,505 four-node, 1,506,263 five-node and 19,401,840 six-node modules (Table 3) |
-| **Prioritised nodes** | 30: the ten highest-ranked TFs, genes and miRNAs (Table 4; all nodes in Table S1) |
+| **Higher-order census** | 116,505 four-node, 1,506,263 five-node and 19,401,840 six-node modules (Supplementary Note S2; Fig. S2) |
+| **Prioritised nodes** | 30: the 10 highest-ranked TFs, genes and miRNAs (Supplementary Note S3; Fig. S4; all nodes in Table S1) |
 | **FFL networks** | 12 files ready for Cytoscape: miRNA-, TF- and composite FFLs at three to six nodes ([`data/ffl_networks/`](data/ffl_networks)) |
 
 <p align="center">
@@ -56,7 +56,7 @@ Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 |---|---|
 | [`data/`](data) | The regulatory network ([`network/`](data/network)), the FFL networks ([`ffl_networks/`](data/ffl_networks)), the miRNA–TF pair filter ([`pair_filter/`](data/pair_filter)) and the curation rules ([`curation/`](data/curation)) |
 | [`scripts/`](scripts) | The code of the main analysis, grouped by analysis: `01_network_assembly` … `15_figures_and_tables` |
-| [`analyses/`](analyses) | Later, self-contained analyses with their code, inputs and outputs: census and motif null models, the six-node pattern, perturbation-data tests and re-runs on the analysed network |
+| [`analyses/`](analyses) | Later, self-contained analyses with their code, inputs and outputs: census and motif null models, the six-node pattern, the twelve networks of Bhat et al. (2024), perturbation-data tests and re-runs on the analysed network |
 | [`results/`](results) | The outputs of `scripts/`, in the folders the scripts write to |
 | [`supplementary_tables/`](supplementary_tables) | Supplementary Tables S1–S9 |
 | [`docs/`](docs) | Software versions, the file manifest (MD5), the script index, run logs, and every file named in the Supplementary Notes with its path here |
@@ -67,9 +67,9 @@ Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 ```mermaid
 flowchart TD
     A["<b>1 · Regulatory network</b><br/>TRRUST · TransmiR · multiMiR · STRING<br/>587 nodes · 6,829 edges<br/>miRNA–TF pair filter (hypergeometric)"]
-    B["<b>2 · Feed-forward loops</b><br/>1,649 typed three-node cores (Table S4)<br/>census of 3- to 7-node modules (Table 3)"]
+    B["<b>2 · Feed-forward loops</b><br/>1,649 typed three-node cores (Table S4)<br/>census of 3- to 7-node modules (Note S2)"]
     C["<b>3 · Over-representation and dynamics</b><br/>three null models · six-node composite pattern (Note S2)<br/>dynamical models of higher-order modules"]
-    D["<b>4 · Node prioritisation</b><br/>30 nodes (Table 4) · all nodes (Table S1)"]
+    D["<b>4 · Node prioritisation</b><br/>30 nodes (Note S3) · all nodes (Table S1)"]
     E["<b>5 · Validation</b><br/>expression, protein and survival<br/>TCGA · GEO · CPTAC · METABRIC"]
     F["<b>6 · Mechanism checks</b><br/>stromal mediation and compartment tests · perturbation data (Note S1)<br/>module detection (Note S7)"]
     A --> B --> C --> D --> E --> F
@@ -110,6 +110,7 @@ The C programs are given as source; build each with gcc. The recorded commands a
 | `analyses/six_node_pattern/S7/v2_null.c` | `gcc -O2` |
 | `analyses/six_node_pattern/S7/ffl_census_composition.c` | `gcc -O3 -march=native` |
 | `analyses/six_node_pattern/S1/s1_null6.c`, `F/F4/f4_node_union.c` | `gcc -O2 -o <name> <name>.c -lm` |
+| `analyses/bhat_pattern_analysis/scripts/bhat_null.c` | compiled by the scripts that use it, with `gcc -O2` |
 
 The flags used for `scripts/03_ffl_census/ffl_enum.c`, `ffl_enum2.c` and the other census programs of that folder were not
 recorded; `scripts/04_motif_significance/v2_null.c` is the program that `run_all.sh` compiles with `gcc -O2`.

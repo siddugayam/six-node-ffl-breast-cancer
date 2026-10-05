@@ -5,9 +5,10 @@ in the layout in which it was run. Scripts refer to other analyses as `analyses/
 
 | Folder | Paper | What it holds |
 |---|---|---|
-| [`census_and_motif_nulls/`](census_and_motif_nulls) | Table 3, Fig. 1 | The census of 3- to 7-node FFL modules and the three-node motif null models, on four versions of the network |
+| [`census_and_motif_nulls/`](census_and_motif_nulls) | Table 2, Figs 3a and S2, Note S2 | The census of 3- to 7-node FFL modules and the three-node motif null models, on four versions of the network |
 | [`six_node_pattern/`](six_node_pattern) | Note S2 | Tests of the six-node composite pattern: over-representation, dynamics, signed circuits, robustness and survival |
 | [`six_node_pattern_networks/`](six_node_pattern_networks) | Note S2 | The three- to six-node composite FFL networks rebuilt on the census graph, with topology and MCODE |
+| [`bhat_pattern_analysis/`](bhat_pattern_analysis) | Note S2 | The twelve networks of Bhat et al. (2024), analysed with the settings of the paper: over-representation, dynamics with a TF2→TF1 arc, sensitivity to clusters and to the evidence filter |
 | [`six_node_followups/`](six_node_followups) | Notes S1, S2 | Follow-up questions on the miRNA–TF pair filter and the six-node pattern |
 | [`analysed_network_reruns/`](analysed_network_reruns) | Notes S4, S7 | Re-runs without the 30 exemplar miRNA–miRNA edges: architecture, hubs, Tables S2, S3 and S6, module detection |
 | [`dynamics_controls/`](dynamics_controls) | Results 3.7 | Feedback-loop structure of the modelled topologies and the four-node TF–TF control |

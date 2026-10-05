@@ -1,0 +1,11 @@
+cell,behaviour,configurations,passing,passing_detail
+"miRNA-FFL, TF2 -> TF1 not in the pattern",memory AND pulse,1,0,
+"miRNA-FFL, TF2 -> TF1 not in the pattern",memory AND oscillation,2,0,
+"TF-FFL, TF2 -> TF1 activation",memory AND pulse,1,0,
+"TF-FFL, TF2 -> TF1 activation",memory AND oscillation,1,0,
+"TF-FFL, TF2 -> TF1 repression",memory AND pulse,1,0,
+"TF-FFL, TF2 -> TF1 repression",memory AND oscillation,1,0,
+"composite, TF2 -> TF1 activation",memory AND pulse,2,0,
+"composite, TF2 -> TF1 activation",memory AND oscillation,2,0,
+"composite, TF2 -> TF1 repression",memory AND pulse,4,0,
+"composite, TF2 -> TF1 repression",memory AND oscillation,4,0,

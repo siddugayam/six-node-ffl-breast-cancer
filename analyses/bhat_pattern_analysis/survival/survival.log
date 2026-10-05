@@ -1,0 +1,14 @@
+node sets: 4node_miRNA_FFL 2554; 4node_TF_FFL 2065; 4node_composite_FFL 2029; 5node_miRNA_FFL 1456; 5node_TF_FFL 1168; 5node_composite_FFL 1168; 6node_miRNA_FFL 8606; 6node_TF_FFL 9950; 6node_composite_FFL 2498
+samples: 1065; features: 20742
+circuits with all members measured: 4node_miRNA_FFL 2509 of 2554; 4node_TF_FFL 2011 of 2065; 4node_composite_FFL 2003 of 2029; 5node_miRNA_FFL 1397 of 1456; 5node_TF_FFL 1139 of 1168; 5node_composite_FFL 1139 of 1168; 6node_miRNA_FFL 8417 of 8606; 6node_TF_FFL 9724 of 9950; 6node_composite_FFL 2383 of 2498
+distinct gene sets: 27498 (27411 scored by GSVA; 87 one-gene extensions)
+GSVA done in 8.9 min; 27411 x 1065
+OS: univariable n = 1051 events 147; adjusted n = 1028 events 137
+OS GSVA_adjusted_age_stage: 30722 circuits in 1.6 min
+OS meanZ_univariable: 30722 circuits in 1.2 min
+PFI: univariable n = 1051 events 140; adjusted n = 1028 events 132
+PFI GSVA_adjusted_age_stage: 30722 circuits in 1.6 min
+PFI meanZ_univariable: 30722 circuits in 1.3 min
+CHECK S8: rows here 9532, rows in S8 9532, matched on method, endpoint and members 9532; core and extension equal: TRUE; n and events equal: TRUE
+CHECK S8: largest absolute difference: HR_circuit 5.11e-15; p_circuit 6.66e-16; C_core 5.55e-16; C_circuit 6.11e-16; deltaC 5.13e-16; LRT_p_extension_adds 5.55e-16; q_BH 5.55e-16
+CHECK S8: GSVA OS circuits at q < 0.05 here 16, in S8 16

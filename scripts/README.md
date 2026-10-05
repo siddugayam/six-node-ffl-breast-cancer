@@ -9,7 +9,7 @@ of their numeric prefixes. `ANALYSIS_GUIDE.ipynb` (repository root) names the sc
 |---|---|---|
 | [`01_network_assembly/`](01_network_assembly) | Methods 2.1, Results 3.1 | Network assembly from TRRUST, TransmiR, multiMiR and STRING; evidence tiers |
 | [`02_pair_filter/`](02_pair_filter) | Methods 2.1 | The hypergeometric miRNA–TF pair filter, recomputed from `data/pair_filter/` |
-| [`03_ffl_census/`](03_ffl_census) | Methods 2.2, Results 3.2, Table 3 | Three-node cores and coherence; census of 3- to 7-node modules |
+| [`03_ffl_census/`](03_ffl_census) | Methods 2.2, Results 3.2, Fig. S2, Note S2 | Three-node cores and coherence; census of 3- to 7-node modules |
 | [`04_motif_significance/`](04_motif_significance) | Results 3.2 | Null models and motif over-representation; node sets |
 | [`05_network_architecture/`](05_network_architecture) | Note S4 | Degree distribution, controllability, information flow, knockouts |
 | [`06_node_prioritisation/`](06_node_prioritisation) | Results 3.3, Notes S3, S5 | Hubs, ExIR, prioritisation, node compendium and literature |

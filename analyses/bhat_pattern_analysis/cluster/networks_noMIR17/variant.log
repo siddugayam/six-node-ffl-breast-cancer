@@ -1,0 +1,12 @@
+noMIR17 3node_miRNA_FFL: instances 1355 -> kept 1153; nodes 353; edges 1581
+noMIR17 3node_TF_FFL: instances 1182 -> kept 1011; nodes 336; edges 1418
+noMIR17 3node_composite_FFL: instances 1173 -> kept 1002; nodes 334; edges 1886
+noMIR17 4node_miRNA_FFL: instances 2580 -> kept 2260; nodes 357; edges 1874
+noMIR17 4node_TF_FFL: instances 2090 -> kept 1838; nodes 344; edges 1632
+noMIR17 4node_composite_FFL: instances 2054 -> kept 1802; nodes 342; edges 2183
+noMIR17 5node_miRNA_FFL: instances 2272 -> kept 1443; nodes 231; edges 1115
+noMIR17 5node_TF_FFL: instances 1719 -> kept 1111; nodes 224; edges 992
+noMIR17 5node_composite_FFL: instances 1719 -> kept 1111; nodes 224; edges 1261
+noMIR17 6node_miRNA_FFL: instances 14003 -> kept 8002; nodes 317; edges 2045
+noMIR17 6node_TF_FFL: instances 15701 -> kept 9794; nodes 318; edges 1973
+noMIR17 6node_composite_FFL: instances 3898 -> kept 2170; nodes 200; edges 1247

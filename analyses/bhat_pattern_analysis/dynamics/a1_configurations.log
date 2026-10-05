@@ -1,0 +1,13 @@
+3node_miRNA_FFL: 1355 instances; 3 sign patterns; 2 configurations cover 1355 (100.0 %)
+3node_TF_FFL: 1182 instances; 9 sign patterns; 3 configurations cover 1120 (94.8 %)
+3node_composite_FFL: 1173 instances; 9 sign patterns; 3 configurations cover 1112 (94.8 %)
+4node_miRNA_FFL: 2580 instances; 3 sign patterns; 2 configurations cover 2580 (100.0 %)
+4node_TF_FFL: 2090 instances; 9 sign patterns; 3 configurations cover 2006 (96.0 %)
+4node_composite_FFL: 2054 instances; 9 sign patterns; 3 configurations cover 1975 (96.2 %)
+5node_miRNA_FFL: 2272 instances; 3 sign patterns; 2 configurations cover 2272 (100.0 %)
+5node_TF_FFL: 1719 instances; 9 sign patterns; 3 configurations cover 1665 (96.9 %)
+5node_composite_FFL: 1719 instances; 9 sign patterns; 3 configurations cover 1665 (96.9 %)
+6node_miRNA_FFL: 14003 instances; 9 sign patterns; 3 configurations cover 13329 (95.2 %)
+6node_TF_FFL: 15701 instances; 9 sign patterns; 3 configurations cover 15120 (96.3 %)
+6node_composite_FFL: 3898 instances; 26 sign patterns; 5 configurations cover 3692 (94.7 %)
+modules: 51 (10 available as the paper's stored modules, 41 to run); CPU-hours 114; with 12 workers about 9.5 h, plus limit-cycle certification

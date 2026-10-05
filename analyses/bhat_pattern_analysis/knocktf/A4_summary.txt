@@ -1,0 +1,14 @@
+TF-TF arcs used by the six-node networks: 519; by layer {'census layer: TRRUST TF-target': 444, 'analysed network': 75}; used as T2->T1 385, as T1->T2 409; signed 284 (+1 156, -1 128)
+KnockTF 2.0 datasets of the 120 source TFs with >= 2 control and >= 2 treated samples: 238 (76 TFs); knockdown verified and not duplicated: 132 (65 TFs); not verified: 101; duplicates: 5; no rows: 0
+all used TF-TF arcs: 519 arcs; k = 62 datasets (29 TFs); pooled |log2FC| difference +0.0138 (95 % CI -0.0075 to +0.0352), p 0.205; sign agreement 131/261 = 50.2 % (binomial p 1) -> NOT SUPPORTED
+used as T2->T1: 385 arcs; k = 53 datasets (22 TFs); pooled |log2FC| difference +0.0095 (95 % CI -0.0120 to +0.0309), p 0.388; sign agreement 98/197 = 49.7 % (binomial p 1) -> NOT SUPPORTED
+used as T1->T2: 409 arcs; k = 54 datasets (24 TFs); pooled |log2FC| difference +0.0091 (95 % CI -0.0134 to +0.0316), p 0.427; sign agreement 112/222 = 50.5 % (binomial p 0.947) -> NOT SUPPORTED
+all used TF-TF arcs, analysed network: 75 arcs; k = 10 datasets (2 TFs); pooled |log2FC| difference +0.3726 (95 % CI -0.0492 to +0.7943), p 0.0834; sign agreement 13/25 = 52.0 % (binomial p 1) -> NOT SUPPORTED
+all used TF-TF arcs, TRRUST TF-target: 444 arcs; k = 57 datasets (25 TFs); pooled |log2FC| difference +0.0086 (95 % CI -0.0097 to +0.0270), p 0.356; sign agreement 102/209 = 48.8 % (binomial p 0.782) -> NOT SUPPORTED
+used as T2->T1, analysed network: 46 arcs; k = 8 datasets (2 TFs); pooled |log2FC| difference +0.1083 (95 % CI -0.0118 to +0.2285), p 0.0773; sign agreement 9/18 = 50.0 % (binomial p 1) -> NOT SUPPORTED
+used as T2->T1, TRRUST TF-target: 339 arcs; k = 48 datasets (21 TFs); pooled |log2FC| difference +0.0119 (95 % CI -0.0107 to +0.0346), p 0.302; sign agreement 77/154 = 50.0 % (binomial p 1) -> NOT SUPPORTED
+used as T1->T2, analysed network: 70 arcs; k = 10 datasets (2 TFs); pooled |log2FC| difference +0.3788 (95 % CI -0.0539 to +0.8114), p 0.0862; sign agreement 13/25 = 52.0 % (binomial p 1) -> NOT SUPPORTED
+used as T1->T2, TRRUST TF-target: 339 arcs; k = 49 datasets (20 TFs); pooled |log2FC| difference +0.0049 (95 % CI -0.0152 to +0.0250), p 0.634; sign agreement 82/169 = 48.5 % (binomial p 0.758) -> NOT SUPPORTED
+per arc, all used TF-TF arcs: 519 arcs; with perturbation data 345; no perturbation data 174; signed and measured 186, of which the median Log2FC agrees with the sign for 99
+per arc, used as T2->T1: 385 arcs; with perturbation data 260; no perturbation data 125; signed and measured 135, of which the median Log2FC agrees with the sign for 69
+per arc, used as T1->T2: 409 arcs; with perturbation data 283; no perturbation data 126; signed and measured 153, of which the median Log2FC agrees with the sign for 84

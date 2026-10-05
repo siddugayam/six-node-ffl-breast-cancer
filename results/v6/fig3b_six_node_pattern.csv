@@ -1,0 +1,9 @@
+row_order,variant,null,ratio_observed_over_null_mean,p_upper,observed,null_mean,source
+1,all layers (as tested),NULL-C,2.3473443333734796,0.001998001998001998,3898.0,1660.6,analyses/bhat_pattern_analysis/nulls/null_summary.csv line 48
+1,all layers (as tested),NULL-L,3.6883958411397124,0.000999000999000999,3898.0,1056.828,analyses/bhat_pattern_analysis/nulls/null_summary.csv line 72
+2,gene-gene links: physical STRING only,NULL-C,1.4358047876007323,0.1088911088911089,906.0,631.005,analyses/six_node_followups/Q6/q6_null_summary.csv line 18
+2,gene-gene links: physical STRING only,NULL-L,2.6142961022172466,0.001998001998001998,906.0,346.556,analyses/six_node_followups/Q6/q6_null_summary.csv line 22
+3,each co-transcribed cluster counted once,NULL-C,1.1919815165194554,0.2077922077922078,1151.0,,analyses/bhat_pattern_analysis/cluster/nulls/variant_decision.csv line 37
+3,each co-transcribed cluster counted once,NULL-L,2.1120932477241325,0.000999000999000999,1151.0,,analyses/bhat_pattern_analysis/cluster/nulls/variant_decision.csv line 37
+4,"D1–D4 six-node modules (composite core, second TF)",NULL-C,1.3752722996936007,0.07792207792207792,210115.0,152780.653,analyses/six_node_pattern/S1/s1_null_summary.csv line 27
+4,"D1–D4 six-node modules (composite core, second TF)",NULL-L,0.8322598205559655,0.8461538461538461,210115.0,252463.227,analyses/six_node_pattern/S1/s1_null_summary.csv line 40

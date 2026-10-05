@@ -1,0 +1,35 @@
+           family                  module                                    role s_T21              behaviour    pct  n_sets  exceeds_all_seven_p_lt_005                          not_exceeded
+  Bhat_TF_TM+_TY+ GG+MM+TT_T120_T21+_T2Y-                                 verdict     1       memory AND pulse  9.473    1552                       False                             TT, MM+TT
+  Bhat_TF_TM+_TY+ GG+MM+TT_T120_T21+_T2Y-                                 verdict     1 memory AND oscillation  0.000       0                       False core, GG, MM, TT, GG+MM, GG+TT, MM+TT
+  Bhat_TF_TM-_TY+ GG+MM+TT_T120_T21-_T2Y+                                 verdict    -1       memory AND pulse  0.055       9                       False                      TT, GG+TT, MM+TT
+  Bhat_TF_TM-_TY+ GG+MM+TT_T120_T21-_T2Y+                                 verdict    -1 memory AND oscillation  0.000       0                       False core, GG, MM, TT, GG+MM, GG+TT, MM+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T21-_T2Y-                                 verdict    -1       memory AND pulse  8.203    1344                       False                             TT, MM+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T21-_T2Y-                                 verdict    -1 memory AND oscillation  0.519      85                       False                core, TT, GG+TT, MM+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T21+_T2Y+                                 verdict     1       memory AND pulse  7.904    1295                       False                             TT, MM+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T21+_T2Y+                                 verdict     1 memory AND oscillation  0.183      30                       False        core, GG, MM, TT, GG+TT, MM+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T21-_T2Y+                                 verdict    -1       memory AND pulse  7.483    1226                       False                             TT, GG+TT
+Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T21-_T2Y+                                 verdict    -1 memory AND oscillation  0.165      27                       False core, GG, MM, TT, GG+MM, GG+TT, MM+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T21-_T2Y-                                 verdict    -1       memory AND pulse 10.382    1701                       False                                 MM+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T21-_T2Y-                                 verdict    -1 memory AND oscillation  1.532     251                       False                      TT, GG+TT, MM+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T21+_T2Y+                                 verdict     1       memory AND pulse  1.929     316                       False                      TT, GG+TT, MM+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T21+_T2Y+                                 verdict     1 memory AND oscillation  0.055       9                       False                      TT, GG+TT, MM+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T21-_T2Y+                                 verdict    -1       memory AND pulse  2.069     339                       False                             TT, GG+TT
+Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T21-_T2Y+                                 verdict    -1 memory AND oscillation  0.006       1                       False core, GG, MM, TT, GG+MM, GG+TT, MM+TT
+ Bhat_miR_TM0_TY+ GG+MM+TT_T12-_T210_T2Y+                                 verdict     0       memory AND pulse  1.868     306                       False                      TT, GG+TT, MM+TT
+ Bhat_miR_TM0_TY+ GG+MM+TT_T12-_T210_T2Y+                                 verdict     0 memory AND oscillation  0.287      47                       False                             TT, GG+TT
+ Bhat_miR_TM0_TY+ GG+MM+TT_T12+_T210_T2Y+ option (b): memory AND oscillation only     0       memory AND pulse  0.366      60                       False                      GG, GG+MM, GG+TT
+ Bhat_miR_TM0_TY+ GG+MM+TT_T12+_T210_T2Y+ option (b): memory AND oscillation only     0 memory AND oscillation  3.265     535                       False                             TT, GG+TT
+
+                                    cell              behaviour  configurations  passing passing_detail
+miRNA-FFL, TF2 -> TF1 not in the pattern       memory AND pulse               1        0               
+miRNA-FFL, TF2 -> TF1 not in the pattern memory AND oscillation               2        0               
+           TF-FFL, TF2 -> TF1 activation       memory AND pulse               1        0               
+           TF-FFL, TF2 -> TF1 activation memory AND oscillation               1        0               
+           TF-FFL, TF2 -> TF1 repression       memory AND pulse               1        0               
+           TF-FFL, TF2 -> TF1 repression memory AND oscillation               1        0               
+        composite, TF2 -> TF1 activation       memory AND pulse               2        0               
+        composite, TF2 -> TF1 activation memory AND oscillation               2        0               
+        composite, TF2 -> TF1 repression       memory AND pulse               4        0               
+        composite, TF2 -> TF1 repression memory AND oscillation               4        0               
+
+VERDICT (memory AND pulse, 0 of 5 cells pass): not reproduced on the Bhat patterns

@@ -1,0 +1,8 @@
+network sets: 3node_miRNA_FFL=163 3node_miRNA_FFL__TFonly=63 3node_miRNA_FFL__Geneonly=100 3node_TF_FFL=179 3node_TF_FFL__TFonly=69 3node_TF_FFL__Geneonly=110 3node_composite_FFL=154 3node_composite_FFL__TFonly=57 3node_composite_FFL__Geneonly=97 4node_miRNA_FFL=174 4node_miRNA_FFL__TFonly=73 4node_miRNA_FFL__Geneonly=101 4node_TF_FFL=188 4node_TF_FFL__TFonly=85 4node_TF_FFL__Geneonly=103 4node_composite_FFL=162 4node_composite_FFL__TFonly=64 4node_composite_FFL__Geneonly=98 5node_miRNA_FFL=133 5node_miRNA_FFL__TFonly=51 5node_miRNA_FFL__Geneonly=82 5node_TF_FFL=144 5node_TF_FFL__TFonly=58 5node_TF_FFL__Geneonly=86 5node_composite_FFL=127 5node_composite_FFL__TFonly=46 5node_composite_FFL__Geneonly=81 6node_miRNA_FFL=211 6node_miRNA_FFL__TFonly=107 6node_miRNA_FFL__Geneonly=104 6node_TF_FFL=218 6node_TF_FFL__TFonly=112 6node_TF_FFL__Geneonly=106 6node_composite_FFL=113 6node_composite_FFL__TFonly=36 6node_composite_FFL__Geneonly=77 ALL_NETWORK_NODES=364
+derived sets: 3node_union=187 4node_miRNA_FFL_not_3node=55 4node_TF_FFL_not_3node=62 4node_composite_FFL_not_3node=50 5node_miRNA_FFL_not_3node=37 5node_TF_FFL_not_3node=41 5node_composite_FFL_not_3node=35 6node_miRNA_FFL_not_3node=80 6node_TF_FFL_not_3node=82 6node_composite_FFL_not_3node=29 higherorder_union=241 higherorder_not_3node=101 network_not_in_any_Bhat_network=76 ALL_NETWORK_NODES=364
+ranked list tumour_vs_normal: n=20250
+E1 GSEA rows: 51
+E2 background rows: 25 (background 363 genes)
+universe A entrez 17042; universe B entrez 361
+KEGG: 39577 pathway-gene links, 372 pathways; release: 
+E3 ORA done in 50.5 min; rows 93776

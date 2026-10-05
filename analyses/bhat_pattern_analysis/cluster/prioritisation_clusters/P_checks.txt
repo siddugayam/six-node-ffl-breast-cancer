@@ -1,0 +1,4 @@
+CHECK P: the unmodified run reproduces results/v5/node_prioritisation_full.csv byte for byte: TRUE; top10_per_class.csv: TRUE
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, Gene (207 rankable): 0 x207
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, TF (157 rankable): 0 x157
+CHECK Table S4 rank_within_type minus the rank among rankable nodes, miRNA (219 rankable): 4 x219

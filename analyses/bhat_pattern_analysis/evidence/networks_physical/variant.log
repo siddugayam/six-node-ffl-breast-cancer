@@ -1,0 +1,12 @@
+physical 3node_miRNA_FFL: instances 1355 -> kept 1355; nodes 364; edges 1760
+physical 3node_TF_FFL: instances 1182 -> kept 1182; nodes 348; edges 1576
+physical 3node_composite_FFL: instances 1173 -> kept 1173; nodes 346; edges 2112
+physical 4node_miRNA_FFL: instances 914 -> kept 914; nodes 255; edges 1070
+physical 4node_TF_FFL: instances 705 -> kept 705; nodes 241; edges 910
+physical 4node_composite_FFL: instances 691 -> kept 691; nodes 240; edges 1278
+physical 5node_miRNA_FFL: instances 611 -> kept 611; nodes 168; edges 690
+physical 5node_TF_FFL: instances 447 -> kept 447; nodes 162; edges 601
+physical 5node_composite_FFL: instances 447 -> kept 447; nodes 162; edges 806
+physical 6node_miRNA_FFL: instances 3633 -> kept 3633; nodes 252; edges 1506
+physical 6node_TF_FFL: instances 4153 -> kept 4153; nodes 247; edges 1425
+physical 6node_composite_FFL: instances 906 -> kept 906; nodes 152; edges 893

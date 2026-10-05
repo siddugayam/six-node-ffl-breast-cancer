@@ -1,0 +1,12 @@
+network,config,s_TM,s_T12,s_T2Y,instances,compatible,exact,newly_covered
+6node_miRNA_FFL,1,,1,1,14003,9645,2069,9645
+6node_miRNA_FFL,2,,-1,-1,14003,5459,418,2572
+6node_miRNA_FFL,3,,-1,1,14003,7901,1112,1112
+6node_TF_FFL,1,1,,1,15701,9588,4087,9588
+6node_TF_FFL,2,-1,,1,15701,5761,2054,4213
+6node_TF_FFL,3,1,,-1,15701,6074,1103,1319
+6node_composite_FFL,1,1,-1,1,3898,1761,213,1761
+6node_composite_FFL,2,-1,-1,1,3898,1157,71,962
+6node_composite_FFL,3,1,1,-1,3898,990,131,467
+6node_composite_FFL,4,-1,1,-1,3898,718,56,264
+6node_composite_FFL,5,1,1,1,3898,1621,184,238

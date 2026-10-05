@@ -1,0 +1,1640 @@
+source	target	edge_type	sign	sign_source	evidence_tier	layer	n_ffl
+ABCA1	SCARB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	71
+ACTA2	COL1A1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	7
+ACTA2	TAGLN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	3
+ADA	NT5E	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	16
+ADAMTS5	SDC4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+AHR	FOS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+AHR	IL6	TF_target	1	TRRUST		analysed network	122
+AHR	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+ANPEP	CHAC1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	7
+APEX1	CCL2	TF_target	1	TRRUST		analysed network	6
+AR	CTNNB1	TF_target	1	TRRUST		census layer: TRRUST TF-target	36
+AR	EP300	TF_target	1	TRRUST		census layer: TRRUST TF-target	54
+AR	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	273
+AR	JUN	TF_target	1	TRRUST		census layer: TRRUST TF-target	81
+AR	KLF5	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+AR	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	40
+AR	NFKB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	193
+AR	RELA	TF_target	-1	TRRUST		census layer: TRRUST TF-target	191
+AR	REST	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+ARNT	AHR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+ARNT	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+ARNT	FOS	TF_target	-1	TRRUST		analysed network	6
+ARNT	HIF1A	TF_target	1	TRRUST		census layer: TRRUST TF-target	6
+ARNT	JUN	TF_target	-1	TRRUST		census layer: TRRUST TF-target	10
+ASCL1	ID4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	5
+ASCL1	POU3F2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1
+ATF3	ID1	TF_target	-1	TRRUST		analysed network	36
+ATF3	MMP2	TF_target	-1	TRRUST		analysed network	78
+ATF3	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+ATF4	CEBPB	TF_target	1	TRRUST		analysed network	4
+ATF4	DDIT3	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+ATF4	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+ATF4	SIRT1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+AXL	SHC1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	4
+BAG3	SQSTM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	5
+BCL2L1	CTSB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	34
+BCL2L1	CTSV	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	4
+BCL2L1	HRK	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	216
+BCL6	BCL2L1	TF_target	-1	TRRUST		analysed network	13
+BDNF	NGFR	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+BDNF	NTF3	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	5
+BMP7	FST	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	4
+CAV1	GJA1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	202
+CAV1	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	31
+CAV1	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	42
+CCL2	SERPINE1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	65
+CCL2	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	28
+CD151	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1
+CD2AP	UBB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	12
+CD44	COL1A1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	54
+CD44	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	74
+CD44	HBEGF	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	116
+CD44	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	30
+CD44	MET	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	46
+CD44	MMP2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	62
+CD44	NT5E	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	17
+CD44	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	41
+CD44	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	23
+CEBPA	CCL2	TF_target	1	TRRUST		analysed network	4
+CEBPA	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	69
+CEBPA	ID1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	19
+CEBPA	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	50
+CEBPA	MYC	TF_target	-1	TRRUST		census layer: TRRUST TF-target	7
+CEBPA	SPI1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	5
+CEBPA	SPP1	TF_target	1	TRRUST		analysed network	12
+CEBPA	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	17
+CEBPB	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+CEBPB	DDIT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	27
+CEBPB	F8	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	34
+CEBPB	HSF1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	31
+CEBPB	IL6	TF_target	1	TRRUST		analysed network	44
+CEBPB	XBP1	TF_target	1	TRRUST		census layer: TRRUST TF-target	28
+COL18A1	MMP2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	7
+COL1A1	COL3A1	gene_gene		unannotated (excluded from sign-dependent analyses)		analysed network	29
+COL1A1	FBN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	41
+COL1A1	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	156
+COL1A1	ITGA5	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	17
+COL1A1	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	48
+COL1A1	POSTN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	33
+COL1A1	SPARC	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	35
+COL3A1	FBN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1
+COL3A1	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	67
+COL3A1	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	14
+COL3A1	POSTN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	8
+COL3A1	SPARC	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	3
+CREB1	FOS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+CREB1	IL6	TF_target	1	TRRUST		analysed network	40
+CREB1	JUN	TF_target	-1	TRRUST		census layer: TRRUST TF-target	7
+CREB1	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	16
+CREB1	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+CREB1	SMAD6	TF_target	1	TRRUST		analysed network	14
+CREB1	SNAI2	TF_target	-1	TRRUST		analysed network	2
+CTCF	IRAK2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+CTGF	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	168
+CTNNB1	CD44	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	41
+CTNNB1	JUN	TF_target	1	TRRUST		census layer: TRRUST TF-target	30
+CTNNB1	MMP14	TF_target	1	TRRUST		analysed network	67
+CTNNB1	MYC	TF_target	1	TRRUST		census layer: TRRUST TF-target	6
+CTNNB1	RB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	6
+CXCL12	MET	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	49
+CYLD	OPTN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	30
+CYLD	SQSTM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	24
+CYLD	UBB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	8
+DDIT3	IL6	TF_target	1	TRRUST		analysed network	122
+DKK1	DKK3	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	173
+DNMT1	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	3
+DNMT1	HDAC1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+DNMT1	RB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	2
+DNMT1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	11
+E2F1	AR	TF_target	1	TRRUST		census layer: TRRUST TF-target	30
+E2F1	CD2AP	TF_target	1	TRRUST		analysed network	2
+E2F1	CTSV	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+E2F1	DDIT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	36
+E2F1	ETV4	TF_target	1	TRRUST		analysed network	76
+E2F1	HMGA1	TF_target	1	TRRUST		census layer: TRRUST TF-target	20
+E2F1	IRF3	TF_target	-1	TRRUST		census layer: TRRUST TF-target	10
+E2F1	MAP1LC3A	TF_target	1	TRRUST		analysed network	21
+E2F1	MYB	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	12
+E2F1	MYC	TF_target	1	TRRUST		census layer: TRRUST TF-target	45
+E2F1	MYCN	TF_target	1	TRRUST		census layer: TRRUST TF-target	32
+E2F1	PEG10	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+E2F1	PPARG	TF_target	1	TRRUST		census layer: TRRUST TF-target	57
+E2F1	SERPINE1	TF_target	-1	TRRUST		analysed network	143
+E2F1	THBS1	TF_target	1	TRRUST		analysed network	61
+E2F1	TLR3	TF_target	-1	TRRUST		analysed network	19
+E2F1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	68
+E2F1	TYMS	TF_target	1	TRRUST		analysed network	3
+EDN1	MMP2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	179
+EGR1	AR	TF_target	-1	TRRUST		census layer: TRRUST TF-target	10
+EGR1	ATF3	TF_target	1	TRRUST		analysed network	11
+EGR1	EP300	TF_target	1	TRRUST		census layer: TRRUST TF-target	29
+EGR1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+EGR1	FN1	TF_target	1	TRRUST		analysed network	125
+EGR1	HIF1A	TF_target	1	TRRUST		census layer: TRRUST TF-target	40
+EGR1	IL6	TF_target	-1	TRRUST		analysed network	109
+EGR1	MMP14	TF_target	1	TRRUST		analysed network	92
+EGR1	MYB	TF_target	-1	TRRUST		census layer: TRRUST TF-target	5
+EGR1	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	123
+EGR1	PLAU	TF_target	1	TRRUST		analysed network	7
+EGR1	PPARG	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	23
+EGR1	TCF4	TF_target	1	TRRUST		census layer: TRRUST TF-target	20
+EGR1	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	80
+EGR1	TP53	TF_target	1	TRRUST		census layer: TRRUST TF-target	41
+ELK1	EZH2	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+ELK1	FOS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+ELK1	SRF	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	22
+EP300	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	90
+EP300	THBD	TF_target	-1	TRRUST		analysed network	64
+EP300	VCAM1	TF_target	1	TRRUST		analysed network	15
+EPAS1	MMP14	TF_target	1	TRRUST		analysed network	62
+EPAS1	SERPINE1	TF_target	1	TRRUST		analysed network	37
+EPHA2	SHC1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	19
+ERG	SPP1	TF_target	1	TRRUST		analysed network	8
+ESR1	AHR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	42
+ESR1	AR	TF_target	1	TRRUST		census layer: TRRUST TF-target	28
+ESR1	CEBPB	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	76
+ESR1	CTNNB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	28
+ESR1	CXCL12	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+ESR1	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	46
+ESR1	FOS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	37
+ESR1	JUN	TF_target	1	TRRUST		census layer: TRRUST TF-target	99
+ESR1	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	50
+ESR1	RARA	TF_target	1	TRRUST		census layer: TRRUST TF-target	37
+ESR1	RUNX2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	15
+ESR1	SERPINE1	TF_target	1	TRRUST		analysed network	72
+ESR1	SP1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	233
+ESR1	TP53	TF_target	-1	TRRUST		census layer: TRRUST TF-target	54
+ESR1	TYMS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ESR2	SERPINE1	TF_target	-1	TRRUST		analysed network	25
+ETS1	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	20
+ETS1	CTGF	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ETS1	EGR1	TF_target	1	TRRUST		census layer: TRRUST TF-target	28
+ETS1	ERG	TF_target	1	TRRUST		census layer: TRRUST TF-target	4
+ETS1	FLI1	TF_target	1	TRRUST		census layer: TRRUST TF-target	9
+ETS1	MYB	TF_target	1	TRRUST		census layer: TRRUST TF-target	7
+ETS1	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ETS1	SQSTM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ETS1	TFAP2A	TF_target	1	TRRUST		census layer: TRRUST TF-target	10
+ETS1	TGFBR2	TF_target	1	TRRUST		analysed network	14
+ETS1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	14
+ETS2	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+ETV4	ETS1	TF_target	1	TRRUST		census layer: TRRUST TF-target	24
+ETV4	MMP14	TF_target	1	TRRUST		analysed network	31
+ETV4	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	16
+ETV4	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	29
+EZH2	AXL	TF_target	1	TRRUST		analysed network	2
+EZH2	HDAC1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	12
+EZH2	MMP2	TF_target	1	TRRUST		analysed network	15
+EZH2	MYC	TF_target	-1	TRRUST		census layer: TRRUST TF-target	6
+EZH2	SNAI2	TF_target	-1	TRRUST		analysed network	9
+EZH2	TP53	TF_target	-1	TRRUST		census layer: TRRUST TF-target	13
+EZH2	TWIST1	TF_target	-1	TRRUST		analysed network	13
+EZH2	VDR	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+F2R	THBD	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+F3	F8	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	267
+F3	SERPINE1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	821
+F3	THBD	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	450
+F8	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	24
+FBN1	FN1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	94
+FBN1	LTBP1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+FBN1	TGFBR2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	49
+FDFT1	HMGCS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	10
+FGF7	MET	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	31
+FGF7	PDGFRB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	26
+FHL1	STAT5A	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+FLI1	CTGF	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+FLI1	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+FN1	IL6	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	205
+FN1	ITGA5	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	32
+FN1	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	97
+FN1	LOX	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	168
+FN1	LTBP1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	16
+FN1	POSTN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	43
+FN1	SDC4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+FN1	SPARC	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	74
+FN1	SPP1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	33
+FN1	TGFBI	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	8
+FN1	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	259
+FN1	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	75
+FN1	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	84
+FOS	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	27
+FOS	DDIT3	TF_target	1	TRRUST		census layer: TRRUST TF-target	10
+FOS	MYC	TF_target	-1	TRRUST		census layer: TRRUST TF-target	10
+FOS	NFKB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	123
+FOS	NTF3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+FOS	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	9
+FOS	SMAD4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+FOS	SMAD7	TF_target	1	TRRUST		analysed network	149
+FOS	SPI1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	9
+FOS	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	28
+FOSB	FOSL1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	11
+FOSB	NR4A1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+FOXA2	COL18A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+FOXM1	MYC	TF_target	1	TRRUST		census layer: TRRUST TF-target	1
+FOXO1	IL6	TF_target	1	TRRUST		analysed network	1
+FOXO3	AR	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+FURIN	MMP14	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	366
+GATA3	ERG	TF_target	1	TRRUST		census layer: TRRUST TF-target	4
+GATA3	LOX	TF_target	-1	TRRUST		analysed network	12
+GATA3	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	40
+GATA3	RELA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	40
+GATA6	PLAU	TF_target	-1	TRRUST		analysed network	1
+HBEGF	MMP14	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	146
+HBEGF	MMP2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	423
+HDAC1	CD44	TF_target	-1	TRRUST		analysed network	88
+HDAC1	E2F1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+HDAC1	EGR1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+HDAC1	KLF4	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+HDAC1	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+HDAC1	POU5F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+HDAC1	SMAD7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	24
+HDAC1	SNAI2	TF_target	-1	TRRUST		analysed network	1
+HDAC1	SP1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	11
+HDAC1	SPP1	TF_target	-1	TRRUST		analysed network	28
+HDAC1	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	3
+HDAC1	TP53	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+HDAC2	BMP7	TF_target	-1	TRRUST		analysed network	4
+HDAC2	CCL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+HDAC2	KLF4	TF_target	-1	TRRUST		census layer: TRRUST TF-target	8
+HDAC2	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+HDAC2	MYCN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	8
+HDAC2	SNAI2	TF_target	-1	TRRUST		analysed network	8
+HDAC2	SP1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	45
+HDAC2	TGFBR2	TF_target	-1	TRRUST		analysed network	59
+HDAC2	TWIST1	TF_target	-1	TRRUST		analysed network	16
+HDAC3	MMP2	TF_target	-1	TRRUST		analysed network	17
+HDAC4	ATF4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+HDAC4	HDAC3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+HDAC4	JUN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	28
+HDAC4	KLF4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	8
+HDAC4	RUNX2	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+HDAC4	VCAM1	TF_target	1	TRRUST		analysed network	10
+HES1	ASCL1	TF_target	-1	TRRUST		analysed network	6
+HES1	E2F1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	29
+HIF1A	APEX1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	6
+HIF1A	AR	TF_target	1	TRRUST		census layer: TRRUST TF-target	29
+HIF1A	CTGF	TF_target	1	TRRUST		analysed network	20
+HIF1A	CXCL12	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+HIF1A	EDN1	TF_target	1	TRRUST		analysed network	22
+HIF1A	HBEGF	TF_target	1	TRRUST		analysed network	22
+HIF1A	LDHA	TF_target	1	TRRUST		analysed network	2
+HIF1A	LOX	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	20
+HIF1A	MET	TF_target	1	TRRUST		analysed network	8
+HIF1A	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	99
+HIF1A	NR4A1	TF_target	1	TRRUST		analysed network	9
+HIF1A	NT5E	TF_target	1	TRRUST		analysed network	15
+HIF1A	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+HIF1A	PPARA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	26
+HIF1A	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	65
+HIF1A	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	102
+HIF1A	TWIST1	TF_target	1	TRRUST		analysed network	110
+HIF1A	VHL	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	17
+HMGA1	CD44	TF_target	1	TRRUST		analysed network	61
+HMGA1	SP1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	26
+HMGA1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	8
+HMGA1	TWIST1	TF_target	1	TRRUST		analysed network	16
+HOXA10	MYCN	TF_target	-1	TRRUST		census layer: TRRUST TF-target	21
+HOXA10	SNAI1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	7
+HOXA10	TP53	TF_target	1	TRRUST		census layer: TRRUST TF-target	17
+HOXA9	VCAM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+HOXB7	MMP2	TF_target	1	TRRUST		analysed network	27
+HOXB7	THBS2	TF_target	-1	TRRUST		analysed network	7
+HSF1	BAG3	TF_target	-1	TRRUST		analysed network	5
+HSF1	SERPINE1	TF_target	1	TRRUST		analysed network	49
+HSF1	UBB	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	23
+HSF2	HIF1A	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	6
+ID1	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	182
+IL11	LIF	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	56
+IL1R1	IL6	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	84
+IL1R1	IRAK2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	7
+IL1R1	MYD88	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	2
+IL1R1	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	10
+IL6	LIF	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1464
+IL6	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	145
+IL6	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	72
+IRAK2	MYD88	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	5
+IRAK2	NGFR	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	13
+IRAK2	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+IRF1	E2F1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	34
+IRF1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	26
+IRF1	VCAM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	32
+IRF3	TLR3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+IRF3	TLR4	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	6
+IRF9	STAT5A	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	7
+ITGA5	ITGB1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+ITGB1	SPP1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	20
+ITGB1	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	66
+ITGB1	THBS2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	14
+ITGB1	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	52
+JUN	AR	TF_target	-1	TRRUST		census layer: TRRUST TF-target	3
+JUN	ATF3	TF_target	1	TRRUST		analysed network	6
+JUN	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	23
+JUN	CCL2	TF_target	1	TRRUST		analysed network	21
+JUN	CTGF	TF_target	-1	TRRUST		analysed network	11
+JUN	DDIT3	TF_target	1	TRRUST		census layer: TRRUST TF-target	6
+JUN	EDN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	16
+JUN	ETS1	TF_target	1	TRRUST		census layer: TRRUST TF-target	10
+JUN	ETS2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	3
+JUN	EZH2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	5
+JUN	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+JUN	FGF7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+JUN	FOSL1	TF_target	1	TRRUST		analysed network	7
+JUN	IL6	TF_target	1	TRRUST		analysed network	163
+JUN	LDHA	TF_target	1	TRRUST		analysed network	1
+JUN	MMP2	TF_target	1	TRRUST		analysed network	58
+JUN	MYB	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+JUN	MYC	TF_target	-1	TRRUST		census layer: TRRUST TF-target	6
+JUN	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+JUN	PPARA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	11
+JUN	RARA	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+JUN	RUNX2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	3
+JUN	SMAD7	TF_target	1	TRRUST		analysed network	134
+JUN	SPI1	TF_target	1	TRRUST		census layer: TRRUST TF-target	8
+JUN	TP53	TF_target	-1	TRRUST		census layer: TRRUST TF-target	16
+JUN	VCAM1	TF_target	1	TRRUST		analysed network	23
+JUN	VDR	TF_target	1	TRRUST		analysed network	6
+JUND	BCL6	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+JUND	FOSL1	TF_target	1	TRRUST		analysed network	4
+JUND	MYB	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	8
+KLF2	THBD	TF_target	1	TRRUST		analysed network	26
+KLF4	ATF3	TF_target	1	TRRUST		analysed network	2
+KLF4	IL6	TF_target	1	TRRUST		analysed network	53
+KLF4	MMP2	TF_target	1	TRRUST		analysed network	18
+KLF4	RARA	TF_target	-1	TRRUST		census layer: TRRUST TF-target	2
+KLF4	TAGLN	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+KLF4	THBD	TF_target	1	TRRUST		analysed network	36
+KLF4	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	12
+KLF4	VDR	TF_target	-1	TRRUST		analysed network	4
+KLF5	FOXO1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+KLF5	HIF1A	TF_target	1	TRRUST		census layer: TRRUST TF-target	5
+KLF5	MYH11	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+KLF5	NOTCH1	TF_target	1	TRRUST		analysed network	2
+KLF8	FN1	TF_target	-1	TRRUST		analysed network	41
+KLF8	MMP14	TF_target	1	TRRUST		analysed network	28
+LDHA	ME1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	8
+LEF1	AR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+LEF1	CEBPA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+LEF1	CTNNB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+LEF1	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+LEF1	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+LEF1	SNAI2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+LEF1	TCF4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	5
+LTBP1	TGFB2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+LTBP1	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	19
+MAP1LC3A	SQSTM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	21
+MAX	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	31
+MEF2A	JUN	TF_target	1	TRRUST		census layer: TRRUST TF-target	9
+MEN1	JUND	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+MET	SHC1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	37
+MITF	FOS	TF_target	1	TRRUST		analysed network	16
+MITF	HIF1A	TF_target	1	TRRUST		census layer: TRRUST TF-target	46
+MMP14	MMP2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	97
+MMP2	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	475
+MTA1	BCL2L1	TF_target	1	TRRUST		analysed network	8
+MTA1	EPHA2	TF_target	-1	TRRUST		analysed network	2
+MTA1	SMAD7	TF_target	-1	TRRUST		analysed network	28
+MYB	ANPEP	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+MYB	CEBPA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+MYB	COL1A1	TF_target	1	TRRUST		analysed network	28
+MYB	GATA3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+MYB	MYC	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+MYC	ATF3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	56
+MYC	CEBPA	TF_target	-1	TRRUST		analysed network	138
+MYC	DKK1	TF_target	-1	TRRUST		analysed network	83
+MYC	EP300	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	86
+MYC	HDAC2	TF_target	1	TRRUST		census layer: TRRUST TF-target	39
+MYC	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	359
+MYC	LDHA	TF_target	1	TRRUST		analysed network	5
+MYC	TP53	TF_target	1	TRRUST		census layer: TRRUST TF-target	129
+MYCN	CD44	TF_target	1	TRRUST		analysed network	71
+MYCN	HDAC2	TF_target	1	TRRUST		census layer: TRRUST TF-target	22
+MYCN	HMGA1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	14
+MYCN	NGFR	TF_target	-1	TRRUST		analysed network	28
+MYCN	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	55
+MYD88	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+MYH11	MYH9	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1
+NANOG	DKK1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+NANOG	SEMA6A	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+NCOR1	ESR1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+NCOR1	PPARG	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+NCOR1	SNAI2	TF_target	-1	TRRUST		analysed network	1
+NFKB1	AR	TF_target	-1	TRRUST		census layer: TRRUST TF-target	34
+NFKB1	ATF3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	20
+NFKB1	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	37
+NFKB1	CCL2	TF_target	1	TRRUST		analysed network	15
+NFKB1	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	82
+NFKB1	CTCF	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+NFKB1	CTSB	TF_target	1	TRRUST		analysed network	3
+NFKB1	CXCL12	TF_target	1	TRRUST		analysed network	16
+NFKB1	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	25
+NFKB1	EDN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	21
+NFKB1	EGR1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	79
+NFKB1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+NFKB1	F8	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	144
+NFKB1	FGF7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	29
+NFKB1	FN1	TF_target	1	TRRUST		analysed network	192
+NFKB1	HBEGF	TF_target	1	TRRUST		analysed network	21
+NFKB1	HDAC1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	42
+NFKB1	HES1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+NFKB1	HIF1A	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	39
+NFKB1	HOXA9	TF_target	-1	TRRUST		census layer: TRRUST TF-target	8
+NFKB1	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	188
+NFKB1	IRF1	TF_target	1	TRRUST		analysed network	8
+NFKB1	MMP14	TF_target	1	TRRUST		analysed network	131
+NFKB1	MMP2	TF_target	1	TRRUST		analysed network	79
+NFKB1	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	14
+NFKB1	OPTN	TF_target	1	TRRUST		analysed network	35
+NFKB1	PLAU	TF_target	1	TRRUST		analysed network	10
+NFKB1	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	131
+NFKB1	SNAI1	TF_target	1	TRRUST		census layer: TRRUST TF-target	52
+NFKB1	SQSTM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	19
+NFKB1	THBD	TF_target	-1	TRRUST		analysed network	128
+NFKB1	TLR3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	16
+NFKB1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	56
+NFKB1	VCAM1	TF_target	1	TRRUST		analysed network	40
+NFKB1	YY1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	27
+NGF	NGFR	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+NOTCH1	POSTN	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+NR1H4	EDN1	TF_target	-1	TRRUST		analysed network	1
+NR1H4	SCARB1	TF_target	1	TRRUST		analysed network	3
+NRP1	SEMA6A	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+NRP1	VEGFC	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	3
+NT5E	TYMS	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	16
+OPTN	SQSTM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	28
+OPTN	UBB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	1
+PAX5	MYCN	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+PAX6	ITGA5	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	15
+PAX6	ITGB1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	29
+PAX6	MET	TF_target	1	TRRUST		analysed network	3
+PAX6	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	19
+PDGFRB	SHC1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	21
+PEG10	PEG3	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	16
+PLAU	SERPINE1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	104
+POU2F1	ID1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	9
+POU2F1	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+POU2F1	SDC4	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	26
+POU2F1	SPP1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+POU2F1	VCAM1	TF_target	-1	TRRUST		analysed network	14
+POU5F1	GATA6	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+POU5F1	SEMA6A	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+POU5F1	SPP1	TF_target	1	TRRUST		analysed network	4
+PPARA	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	90
+PPARA	SERPINE1	TF_target	1	TRRUST		analysed network	49
+PPARA	STAT5A	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	13
+PPARG	BCL2L1	TF_target	-1	TRRUST		analysed network	16
+PPARG	CAV1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	50
+PPARG	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	62
+RARA	ETS1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+RARA	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	5
+RARA	THBD	TF_target	1	TRRUST		analysed network	64
+RB1	TGFBI	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	8
+RBPJ	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+RELA	AR	TF_target	-1	TRRUST		census layer: TRRUST TF-target	16
+RELA	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	21
+RELA	CCL2	TF_target	1	TRRUST		analysed network	1
+RELA	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	46
+RELA	CTSB	TF_target	1	TRRUST		analysed network	3
+RELA	CXCL12	TF_target	1	TRRUST		analysed network	8
+RELA	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	28
+RELA	EDN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+RELA	EGR1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	73
+RELA	EPAS1	TF_target	1	TRRUST		analysed network	28
+RELA	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+RELA	F8	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	113
+RELA	FGF7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+RELA	FN1	TF_target	1	TRRUST		analysed network	132
+RELA	GATA3	TF_target	1	TRRUST		census layer: TRRUST TF-target	6
+RELA	HBEGF	TF_target	1	TRRUST		analysed network	14
+RELA	HDAC1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	49
+RELA	HES1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+RELA	HIF1A	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	53
+RELA	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	139
+RELA	IRF1	TF_target	1	TRRUST		analysed network	8
+RELA	MMP14	TF_target	1	TRRUST		analysed network	97
+RELA	MMP2	TF_target	1	TRRUST		analysed network	53
+RELA	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	25
+RELA	NFKB1	TF_target	1	TRRUST		analysed network	156
+RELA	OPTN	TF_target	1	TRRUST		analysed network	24
+RELA	PLAU	TF_target	1	TRRUST		analysed network	1
+RELA	PPARA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	37
+RELA	SERPINE1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	107
+RELA	SIRT1	TF_target	1	TRRUST		census layer: TRRUST TF-target	14
+RELA	SNAI1	TF_target	1	TRRUST		census layer: TRRUST TF-target	30
+RELA	STAT1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	48
+RELA	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	87
+RELA	THBD	TF_target	-1	TRRUST		analysed network	107
+RELA	TLR3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	12
+RELA	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	49
+RELA	TWIST1	TF_target	1	TRRUST		analysed network	66
+RELA	VCAM1	TF_target	1	TRRUST		analysed network	18
+RELA	YY1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	27
+REST	NRP1	TF_target	-1	TRRUST		analysed network	1
+RUNX1	JUN	TF_target	1	TRRUST		census layer: TRRUST TF-target	88
+RUNX1	KLF4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	79
+RUNX1	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	214
+RUNX1	RELA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	212
+RUNX1	SPI1	TF_target	1	TRRUST		census layer: TRRUST TF-target	37
+RUNX2	AR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+RUNX2	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+RUNX2	MMP2	TF_target	1	TRRUST		analysed network	17
+RUNX2	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+RUNX2	SNAI2	TF_target	1	TRRUST		analysed network	4
+RUNX2	TWIST1	TF_target	1	TRRUST		analysed network	4
+RUNX2	VEGFC	TF_target	1	TRRUST		analysed network	3
+SCARB1	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	37
+SCARB1	THBS2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+SCARB1	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	11
+SDC4	THBS1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	9
+SDC4	THBS2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	2
+SHC1	TGFBR2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	39
+SIRT1	HSF1	TF_target	1	TRRUST		census layer: TRRUST TF-target	1
+SIRT1	NOTCH1	TF_target	-1	TRRUST		analysed network	2
+SIRT1	SHC1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	41
+SMAD3	AHR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	34
+SMAD3	FOXA2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+SMAD3	JUN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	105
+SMAD3	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	43
+SMAD3	SERPINE1	TF_target	1	TRRUST		analysed network	26
+SMAD3	SMAD7	TF_target	-1	TRRUST		analysed network	27
+SMAD3	VDR	TF_target	1	TRRUST		analysed network	34
+SMAD4	AHR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	6
+SMAD4	JUN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	35
+SMAD4	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	6
+SMAD4	SERPINE1	TF_target	1	TRRUST		analysed network	3
+SMAD4	SMAD7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+SMAD6	SMAD7	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	168
+SMAD7	TGFBR2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	413
+SNAI1	FN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	57
+SNAI1	HBEGF	TF_target	1	TRRUST		analysed network	8
+SNAI1	THBS1	TF_target	-1	TRRUST		analysed network	24
+SNAI1	VDR	TF_target	-1	TRRUST		analysed network	1
+SNAI2	CD44	TF_target	1	TRRUST		analysed network	27
+SNAI2	CXCL12	TF_target	1	TRRUST		analysed network	5
+SNAI2	POU5F1	TF_target	1	TRRUST		census layer: TRRUST TF-target	3
+SNAI2	VDR	TF_target	-1	TRRUST		analysed network	9
+SOX2	PAX6	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	19
+SP1	AHR	TF_target	-1	TRRUST		census layer: TRRUST TF-target	38
+SP1	AR	TF_target	1	TRRUST		census layer: TRRUST TF-target	41
+SP1	CAV1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	23
+SP1	CCL2	TF_target	1	TRRUST		analysed network	5
+SP1	CD151	TF_target	1	TRRUST		analysed network	1
+SP1	CD44	TF_target	1	TRRUST		analysed network	21
+SP1	COL18A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+SP1	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	15
+SP1	CREB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	66
+SP1	CTGF	TF_target	1	TRRUST		analysed network	5
+SP1	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	47
+SP1	EGR1	TF_target	1	TRRUST		census layer: TRRUST TF-target	130
+SP1	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	29
+SP1	F3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+SP1	FBN1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	27
+SP1	FOS	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	36
+SP1	GATA3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+SP1	HBEGF	TF_target	1	TRRUST		analysed network	3
+SP1	HDAC4	TF_target	1	TRRUST		census layer: TRRUST TF-target	10
+SP1	HMGA1	TF_target	1	TRRUST		census layer: TRRUST TF-target	27
+SP1	HOXB7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	17
+SP1	IL6	TF_target	1	TRRUST		analysed network	48
+SP1	ITGA5	TF_target	1	TRRUST		analysed network	7
+SP1	KLF8	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	69
+SP1	MET	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+SP1	MMP14	TF_target	1	TRRUST		analysed network	26
+SP1	MMP2	TF_target	1	TRRUST		analysed network	16
+SP1	MTA1	TF_target	1	TRRUST		census layer: TRRUST TF-target	38
+SP1	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	46
+SP1	MYCN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	28
+SP1	NFKB1	TF_target	1	TRRUST		analysed network	270
+SP1	NT5E	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+SP1	PAX6	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	47
+SP1	PLAU	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	3
+SP1	RARA	TF_target	1	TRRUST		census layer: TRRUST TF-target	26
+SP1	RELA	TF_target	1	TRRUST		analysed network	268
+SP1	SERPINE1	TF_target	1	TRRUST		analysed network	34
+SP1	SIRT1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	27
+SP1	SPP1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	7
+SP1	SQSTM1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	4
+SP1	SREBF1	TF_target	1	TRRUST		census layer: TRRUST TF-target	40
+SP1	TGFBR2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	27
+SP1	THBD	TF_target	1	TRRUST		analysed network	34
+SP1	VDR	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	38
+SP1	YY1	TF_target	1	TRRUST		census layer: TRRUST TF-target	42
+SPARC	SPP1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	20
+SPARC	VCAM1	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	49
+SPI1	CCL2	TF_target	1	TRRUST		analysed network	9
+SPI1	FLI1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	1
+SPI1	SCARB1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	44
+SPI1	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	12
+SPI1	TLR4	TF_target	1	TRRUST		analysed network	6
+SQSTM1	UBB	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	6
+SREBF1	AR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	12
+SREBF1	BCL2L1	TF_target	-1	TRRUST		analysed network	8
+SREBF1	CAV1	TF_target	-1	TRRUST		analysed network	22
+SREBF1	FDFT1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	10
+SREBF1	PPARG	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+SREBF2	PPARG	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	43
+SRF	CREB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	5
+SRF	FOS	TF_target	1	TRRUST		analysed network	3
+SRF	MMP14	TF_target	1	TRRUST		analysed network	8
+SRF	MMP2	TF_target	1	TRRUST		analysed network	2
+SRF	SERPINE1	TF_target	-1	TRRUST		analysed network	12
+STAT1	CCL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	9
+STAT1	CTSB	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+STAT1	EDN1	TF_target	1	TRRUST		analysed network	12
+STAT1	IL1R1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	14
+STAT1	IL6	TF_target	-1	TRRUST		analysed network	94
+STAT1	IRF1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+STAT1	NR1H4	TF_target	-1	TRRUST		census layer: TRRUST TF-target	4
+STAT1	PPARA	TF_target	1	TRRUST		census layer: TRRUST TF-target	1
+STAT1	SCARB1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	81
+STAT1	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	23
+STAT1	TLR3	TF_target	1	TRRUST		analysed network	7
+STAT1	TP53	TF_target	1	TRRUST		census layer: TRRUST TF-target	21
+STAT3	AR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	52
+STAT3	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	21
+STAT3	BCL6	TF_target	1	TRRUST		census layer: TRRUST TF-target	11
+STAT3	CCL2	TF_target	1	TRRUST		analysed network	16
+STAT3	CTGF	TF_target	-1	TRRUST		analysed network	16
+STAT3	DDIT3	TF_target	-1	TRRUST		census layer: TRRUST TF-target	41
+STAT3	EPAS1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	60
+STAT3	ESR2	TF_target	1	TRRUST		census layer: TRRUST TF-target	25
+STAT3	FOS	TF_target	1	TRRUST		analysed network	43
+STAT3	HIF1A	TF_target	1	TRRUST		census layer: TRRUST TF-target	86
+STAT3	IL11	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	56
+STAT3	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	84
+STAT3	IRF1	TF_target	1	TRRUST		analysed network	14
+STAT3	LTBP1	TF_target	-1	TRRUST		analysed network	50
+STAT3	MMP14	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	67
+STAT3	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	51
+STAT3	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	51
+STAT3	MYD88	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	13
+STAT3	NANOG	TF_target	1	TRRUST		census layer: TRRUST TF-target	13
+STAT3	POU2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	67
+STAT3	PPARA	TF_target	1	TRRUST		census layer: TRRUST TF-target	70
+STAT3	STAT1	TF_target	1	TRRUST		census layer: TRRUST TF-target	93
+STAT3	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	101
+STAT3	TWIST1	TF_target	1	TRRUST		analysed network	156
+STAT3	VDR	TF_target	-1	TRRUST		analysed network	41
+TCF4	CD44	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	28
+TCF4	JUN	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+TCF4	KLF4	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	4
+TCF4	MYC	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+TCF7L2	CTNNB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+TCF7L2	SNAI2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+TCF7L2	STAT3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	10
+TFAP2A	COL1A1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	21
+TFAP2A	ETS1	TF_target	1	TRRUST		census layer: TRRUST TF-target	4
+TFAP2A	MMP2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	18
+TGFB2	TGFBR2	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	23
+TLR3	TLR4	gene_gene		unsigned (STRING association)		census layer: STRING gene-gene	58
+TP53	ATF3	TF_target	1	TRRUST		analysed network	19
+TP53	BCL2L1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	66
+TP53	CAV1	TF_target	1	TRRUST		analysed network	180
+TP53	CTNNB1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	35
+TP53	DKK1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	64
+TP53	E2F1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	39
+TP53	EGR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	106
+TP53	EPHA2	TF_target	1	TRRUST		analysed network	17
+TP53	ESR1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	28
+TP53	EZH2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	10
+TP53	HSF1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	45
+TP53	ID1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	78
+TP53	KLF2	TF_target	-1	TRRUST		census layer: TRRUST TF-target	26
+TP53	MET	TF_target	-1	TRRUST		analysed network	17
+TP53	MMP2	TF_target	1	TRRUST		analysed network	183
+TP53	MYC	TF_target	-1	TRRUST		census layer: TRRUST TF-target	40
+TP53	NFKB1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	220
+TP53	PDGFRB	TF_target	1	TRRUST		analysed network	17
+TP53	RELA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	214
+TP53	SMAD3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	53
+TP53	STAT1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	78
+TP53	STAT3	TF_target	-1	TRRUST		census layer: TRRUST TF-target	120
+TP53	THBS1	TF_target	1	TRRUST		analysed network	130
+TP53	TYMS	TF_target	-1	TRRUST		analysed network	11
+TP63	KLF4	TF_target	-1	TRRUST		census layer: TRRUST TF-target	10
+TP63	PPARA	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+TP63	TCF4	TF_target	1	TRRUST		census layer: TRRUST TF-target	3
+TP63	VDR	TF_target	1	TRRUST		analysed network	4
+TP73	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	2
+TP73	VDR	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+TWIST1	CD44	TF_target	1	TRRUST		analysed network	126
+TWIST1	DKK1	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	16
+TWIST1	ESR1	TF_target	-1	TRRUST		census layer: TRRUST TF-target	18
+TWIST1	FN1	TF_target	1	TRRUST		analysed network	109
+TWIST1	FOS	TF_target	1	TRRUST		analysed network	30
+TWIST1	ITGB1	TF_target	1	TRRUST		analysed network	74
+TWIST1	MMP2	TF_target	1	TRRUST		analysed network	56
+TWIST1	MYB	TF_target	-1	TRRUST		census layer: TRRUST TF-target	1
+TWIST1	RUNX2	TF_target	-1	TRRUST		census layer: TRRUST TF-target	2
+VDR	IL6	TF_target	-1	TRRUST		analysed network	143
+VHL	SPARC	TF_target	1	TRRUST		analysed network	17
+XBP1	CCL2	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	1
+XBP1	IL6	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	27
+YBX1	AR	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	12
+YBX1	E2F1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	6
+YBX1	MYCN	TF_target	1	TRRUST		census layer: TRRUST TF-target	8
+YY1	EPAS1	TF_target	-1	TRRUST		analysed network	11
+YY1	HDAC1	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	30
+YY1	HDAC2	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	8
+YY1	HDAC3	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	13
+YY1	HIF1A	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	25
+YY1	HOXB7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	17
+YY1	MYC	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	7
+YY1	PEG3	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	12
+YY1	POSTN	TF_target	-1	TRRUST		analysed network	35
+YY1	SMAD7	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	49
+YY1	TFAP2A	TF_target	1	TRRUST		census layer: TRRUST TF-target	29
+YY1	TP53	TF_target		unannotated (excluded from sign-dependent analyses)		census layer: TRRUST TF-target	39
+ZBTB16	CEBPA	TF_target		unannotated (excluded from sign-dependent analyses)		analysed network	2
+ZEB2	POU5F1	TF_target	1	TRRUST		census layer: TRRUST TF-target	2
+hsa-let-7a	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-let-7a	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-let-7a	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	73
+hsa-let-7a	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	42
+hsa-let-7a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	51
+hsa-let-7a	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	77
+hsa-let-7a	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	126
+hsa-let-7a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	54
+hsa-let-7a	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	30
+hsa-let-7a	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-let-7a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	36
+hsa-let-7a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	75
+hsa-let-7a	NGF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-let-7a	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-let-7a	STAT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-let-7a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	171
+hsa-let-7a	YY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-let-7a	hsa-let-7b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	177
+hsa-let-7a	hsa-let-7d	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	181
+hsa-let-7a	hsa-let-7f	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	153
+hsa-let-7b	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-let-7b	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-let-7b	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-let-7b	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	26
+hsa-let-7b	FOXO3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7b	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	43
+hsa-let-7b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-let-7b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	25
+hsa-let-7b	NGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7b	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7b	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	59
+hsa-let-7d	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7d	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-let-7d	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	31
+hsa-let-7d	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-let-7d	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	36
+hsa-let-7d	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	55
+hsa-let-7d	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-let-7d	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-let-7d	NGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7d	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7d	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	56
+hsa-let-7d	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	85
+hsa-let-7d	hsa-let-7f	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	58
+hsa-let-7f	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7f	BCL2L1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-let-7f	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-let-7f	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-let-7f	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	33
+hsa-let-7f	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	50
+hsa-let-7f	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-let-7f	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	24
+hsa-let-7f	NGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-let-7f	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-let-7f	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	75
+hsa-miR-106a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-106a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	26
+hsa-miR-106a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-106a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-miR-106a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	215
+hsa-miR-106a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	54
+hsa-miR-106a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	38
+hsa-miR-106a	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-106a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	164
+hsa-miR-106a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-106a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-106a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	54
+hsa-miR-106a	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	34
+hsa-miR-106a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	32
+hsa-miR-106a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	99
+hsa-miR-106a	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-106a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	39
+hsa-miR-106a	TLR4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	124
+hsa-miR-106a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	95
+hsa-miR-106a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-106a	hsa-miR-18b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	105
+hsa-miR-106a	hsa-miR-19b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	244
+hsa-miR-106a	hsa-miR-20b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	335
+hsa-miR-106a	hsa-miR-363	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	7
+hsa-miR-106a	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	35
+hsa-miR-106b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	AHR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-106b	ARNT	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-106b	ATF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-106b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-106b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-106b	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-106b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-106b	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-106b	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-106b	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	25
+hsa-miR-106b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-106b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-106b	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-106b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-106b	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-106b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-106b	THBS2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-106b	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-106b	hsa-miR-25	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	11
+hsa-miR-106b	hsa-miR-93	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	104
+hsa-miR-130b	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-130b	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-130b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-130b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-130b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-130b	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-130b	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-130b	TP63	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-130b	UBB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-130b	hsa-miR-301b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	32
+hsa-miR-132	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-132	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	23
+hsa-miR-132	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-132	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-miR-132	hsa-miR-212	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	50
+hsa-miR-143	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-143	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-143	KLF5	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-143	RARA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-143	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	57
+hsa-miR-143	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-143	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-143	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-143	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	10
+hsa-miR-143	hsa-miR-145	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	57
+hsa-miR-145	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-145	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	9
+hsa-miR-145	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-145	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	KLF5	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	POU5F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-145	RARA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-145	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-145	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	57
+hsa-miR-145	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-145	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-145	SRF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-15a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	CHAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-15a	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-15a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-15a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-15a	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	IRAK2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-15a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15a	PAX5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15a	POU3F2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-15a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-15a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-15a	hsa-miR-16	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	61
+hsa-miR-15b	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-15b	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15b	CHAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-15b	CREB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-15b	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-15b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-15b	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	15
+hsa-miR-15b	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-15b	IRAK2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	11
+hsa-miR-15b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	8
+hsa-miR-15b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-15b	hsa-miR-16	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	54
+hsa-miR-16	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-16	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-16	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-16	CHAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-16	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-16	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-16	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-16	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	31
+hsa-miR-16	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-16	IRAK2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	24
+hsa-miR-16	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-16	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-16	POU3F2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-16	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-16	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-16	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	26
+hsa-miR-17	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-17	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	83
+hsa-miR-17	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-17	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	35
+hsa-miR-17	ELK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-17	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	88
+hsa-miR-17	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	451
+hsa-miR-17	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	131
+hsa-miR-17	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-miR-17	HES1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-17	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-17	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-17	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	403
+hsa-miR-17	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-17	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	174
+hsa-miR-17	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-17	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-17	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	52
+hsa-miR-17	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	129
+hsa-miR-17	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	77
+hsa-miR-17	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	27
+hsa-miR-17	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	59
+hsa-miR-17	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-miR-17	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	134
+hsa-miR-17	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-17	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-17	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	72
+hsa-miR-17	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	99
+hsa-miR-17	THBS2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-17	TLR4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	258
+hsa-miR-17	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	132
+hsa-miR-17	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-17	hsa-miR-18a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	221
+hsa-miR-17	hsa-miR-19a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	300
+hsa-miR-17	hsa-miR-19b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	308
+hsa-miR-17	hsa-miR-20a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	880
+hsa-miR-17	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	45
+hsa-miR-181a	ACTA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-181a	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181a	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	9
+hsa-miR-181a	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	36
+hsa-miR-181a	F2R	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-181a	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	21
+hsa-miR-181a	LEF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-181a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-miR-181a	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-181a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-181a	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-181a	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	20
+hsa-miR-181a	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	60
+hsa-miR-181a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-181a	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-181a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181a	SNAI2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	28
+hsa-miR-181a	TCF4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-181a	TCF7L2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-181a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-181a	TP63	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-181a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-181a	VCAM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	117
+hsa-miR-181a	hsa-miR-181b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	329
+hsa-miR-181b	ACTA2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-181b	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181b	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-181b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	36
+hsa-miR-181b	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-181b	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-181b	F2R	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-181b	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	21
+hsa-miR-181b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-miR-181b	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-181b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-181b	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-181b	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-181b	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	60
+hsa-miR-181b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-181b	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-181b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181b	SNAI2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-181b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	28
+hsa-miR-181b	TCF7L2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-181b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-181b	TP63	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-181b	VCAM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	117
+hsa-miR-181c	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181c	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	19
+hsa-miR-181c	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181c	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	19
+hsa-miR-181c	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-181c	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-181c	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-181c	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-181c	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	16
+hsa-miR-181c	SNAI2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181c	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-181c	VCAM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	31
+hsa-miR-181c	hsa-miR-181d	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	84
+hsa-miR-181d	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-181d	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	19
+hsa-miR-181d	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-181d	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-181d	PLAU	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-181d	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-181d	SNAI2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-181d	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-181d	VCAM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	31
+hsa-miR-182	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	44
+hsa-miR-182	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-182	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-182	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-182	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	386
+hsa-miR-182	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-182	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	188
+hsa-miR-182	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	43
+hsa-miR-182	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-182	HSF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-182	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-182	LEF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-182	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-182	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	69
+hsa-miR-182	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-182	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	66
+hsa-miR-182	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	38
+hsa-miR-182	hsa-miR-183	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	299
+hsa-miR-182	hsa-miR-96	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	284
+hsa-miR-183	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-183	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-183	CTSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-183	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	41
+hsa-miR-183	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-miR-183	FHL1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-183	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	344
+hsa-miR-183	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	165
+hsa-miR-183	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	44
+hsa-miR-183	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-miR-183	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	78
+hsa-miR-183	SHC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-miR-183	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-183	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	47
+hsa-miR-183	hsa-miR-96	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	279
+hsa-miR-18a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	62
+hsa-miR-18a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-18a	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	77
+hsa-miR-18a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-18a	ELK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-18a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	54
+hsa-miR-18a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	439
+hsa-miR-18a	HES1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18a	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	400
+hsa-miR-18a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-18a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	94
+hsa-miR-18a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	62
+hsa-miR-18a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	18
+hsa-miR-18a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	98
+hsa-miR-18a	SPI1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-18a	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	60
+hsa-miR-18a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	287
+hsa-miR-18a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	100
+hsa-miR-18a	hsa-miR-19a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	377
+hsa-miR-18a	hsa-miR-19b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	389
+hsa-miR-18a	hsa-miR-20a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	220
+hsa-miR-18b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-18b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	36
+hsa-miR-18b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	165
+hsa-miR-18b	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-18b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-miR-18b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	140
+hsa-miR-18b	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-18b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	15
+hsa-miR-18b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-18b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	40
+hsa-miR-18b	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	101
+hsa-miR-18b	hsa-miR-19b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	229
+hsa-miR-18b	hsa-miR-20b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	73
+hsa-miR-195	CHAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-195	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-195	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-195	IRAK2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-195	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-195	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-195	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-195	hsa-miR-497	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	17
+hsa-miR-19a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	20
+hsa-miR-19a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	92
+hsa-miR-19a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	15
+hsa-miR-19a	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	71
+hsa-miR-19a	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	32
+hsa-miR-19a	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	59
+hsa-miR-19a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	91
+hsa-miR-19a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	412
+hsa-miR-19a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	117
+hsa-miR-19a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	53
+hsa-miR-19a	HES1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-19a	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-19a	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	53
+hsa-miR-19a	IL1R1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	89
+hsa-miR-19a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	370
+hsa-miR-19a	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-19a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	35
+hsa-miR-19a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	10
+hsa-miR-19a	POSTN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	58
+hsa-miR-19a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	89
+hsa-miR-19a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	28
+hsa-miR-19a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	150
+hsa-miR-19a	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-19a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	90
+hsa-miR-19a	TFAP2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	85
+hsa-miR-19a	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	265
+hsa-miR-19a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	142
+hsa-miR-19a	hsa-miR-19b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	684
+hsa-miR-19a	hsa-miR-20a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	296
+hsa-miR-19a	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	31
+hsa-miR-19b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	29
+hsa-miR-19b	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	142
+hsa-miR-19b	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-miR-19b	CTGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	72
+hsa-miR-19b	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	32
+hsa-miR-19b	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	76
+hsa-miR-19b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	63
+hsa-miR-19b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	143
+hsa-miR-19b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	647
+hsa-miR-19b	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	176
+hsa-miR-19b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	94
+hsa-miR-19b	HES1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-19b	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-19b	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	53
+hsa-miR-19b	IL1R1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	89
+hsa-miR-19b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	570
+hsa-miR-19b	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-19b	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-19b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	53
+hsa-miR-19b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	15
+hsa-miR-19b	POSTN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	58
+hsa-miR-19b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	137
+hsa-miR-19b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	44
+hsa-miR-19b	SOX2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-19b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	229
+hsa-miR-19b	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-19b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	139
+hsa-miR-19b	TFAP2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-19b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	129
+hsa-miR-19b	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	373
+hsa-miR-19b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	222
+hsa-miR-19b	hsa-miR-20a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	304
+hsa-miR-19b	hsa-miR-20b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	197
+hsa-miR-19b	hsa-miR-363	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	15
+hsa-miR-19b	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	33
+hsa-miR-200b	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-200b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	15
+hsa-miR-200b	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	11
+hsa-miR-200b	FN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	155
+hsa-miR-200b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	14
+hsa-miR-200b	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-200b	MYB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-200b	SHC1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	46
+hsa-miR-200b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-200b	SNAI1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-200b	SNAI2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-200b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	24
+hsa-miR-200b	TP73	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-200b	ZEB2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-200b	hsa-miR-429	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	201
+hsa-miR-20a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-20a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	83
+hsa-miR-20a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-20a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	35
+hsa-miR-20a	ELK1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-20a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	88
+hsa-miR-20a	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	448
+hsa-miR-20a	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	131
+hsa-miR-20a	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	61
+hsa-miR-20a	HES1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	29
+hsa-miR-20a	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-20a	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-20a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	403
+hsa-miR-20a	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	174
+hsa-miR-20a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-20a	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-20a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	129
+hsa-miR-20a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	77
+hsa-miR-20a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-miR-20a	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	57
+hsa-miR-20a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	32
+hsa-miR-20a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	134
+hsa-miR-20a	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-20a	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-20a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	72
+hsa-miR-20a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	95
+hsa-miR-20a	THBS2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	17
+hsa-miR-20a	TLR4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	258
+hsa-miR-20a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	132
+hsa-miR-20a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-20a	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	42
+hsa-miR-20b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	26
+hsa-miR-20b	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-20b	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	63
+hsa-miR-20b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	177
+hsa-miR-20b	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	45
+hsa-miR-20b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	37
+hsa-miR-20b	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-20b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	138
+hsa-miR-20b	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-20b	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-20b	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20b	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	54
+hsa-miR-20b	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	31
+hsa-miR-20b	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-20b	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-20b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	35
+hsa-miR-20b	TLR4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	124
+hsa-miR-20b	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-20b	hsa-miR-363	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	4
+hsa-miR-20b	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	29
+hsa-miR-212	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-212	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	23
+hsa-miR-212	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-miR-221	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-221	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-221	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-221	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-221	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-221	PEG3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-221	RBPJ	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-221	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-221	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	97
+hsa-miR-221	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-221	ZBTB16	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-221	hsa-miR-222	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	103
+hsa-miR-222	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-222	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-222	ETS1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-222	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-222	HMGA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-222	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-222	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-222	PEG3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-222	RBPJ	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-222	THBS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	97
+hsa-miR-222	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-23a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-23a	CREB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-23a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-23a	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-23a	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-23a	FOSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-23a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23a	MEF2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23a	MEN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23a	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	86
+hsa-miR-23a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-23a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-23a	RUNX2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-23a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-23a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	27
+hsa-miR-23a	hsa-miR-27a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	134
+hsa-miR-23b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-23b	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-23b	FOSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-23b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-23b	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	MEN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-23b	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	42
+hsa-miR-23b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-23b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-23b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-23b	hsa-miR-27b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	60
+hsa-miR-24	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-24	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-24	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-24	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	84
+hsa-miR-24	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-24	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	49
+hsa-miR-24	MEF2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-24	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-24	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-24	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-24	RUNX2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-24	SEMA6A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-24	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	15
+hsa-miR-24	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-24	hsa-miR-27a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	99
+hsa-miR-24	hsa-miR-27b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	35
+hsa-miR-25	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-25	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-25	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-25	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-25	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-25	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-25	hsa-miR-93	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	11
+hsa-miR-27a	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-27a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-27a	ATF3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-27a	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-27a	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-27a	FOSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-27a	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-27a	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-27a	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	49
+hsa-miR-27a	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27a	LOX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	49
+hsa-miR-27a	MEF2A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-27a	MEN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27a	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	86
+hsa-miR-27a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-27a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-27a	RUNX2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-27a	SEMA6A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-27a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-27a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-27a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	27
+hsa-miR-27a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	14
+hsa-miR-27a	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27b	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-27b	ADAMTS5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27b	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-27b	FOSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-27b	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-27b	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	35
+hsa-miR-27b	ID4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-27b	MEN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-27b	MET	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	42
+hsa-miR-27b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-27b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-27b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-27b	TP53	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-29a	ADA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-29a	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	59
+hsa-miR-29a	COL3A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	56
+hsa-miR-29a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-miR-29a	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-29a	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	60
+hsa-miR-29a	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	28
+hsa-miR-29a	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	101
+hsa-miR-29a	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-29a	HMGA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	44
+hsa-miR-29a	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-29a	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-29a	ID1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-29a	ITGB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	137
+hsa-miR-29a	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	62
+hsa-miR-29a	LOX	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	30
+hsa-miR-29a	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	100
+hsa-miR-29a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	21
+hsa-miR-29a	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	55
+hsa-miR-29a	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-29a	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29a	SPARC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	78
+hsa-miR-29a	STAT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-29a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	45
+hsa-miR-29a	TGFB2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	15
+hsa-miR-29a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	73
+hsa-miR-29a	YY1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	29
+hsa-miR-29a	hsa-miR-29b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	781
+hsa-miR-29b	ADA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-29b	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	129
+hsa-miR-29b	COL3A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	122
+hsa-miR-29b	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-29b	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	125
+hsa-miR-29b	FOS	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	56
+hsa-miR-29b	GATA3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	84
+hsa-miR-29b	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	203
+hsa-miR-29b	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	24
+hsa-miR-29b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	60
+hsa-miR-29b	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-29b	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	79
+hsa-miR-29b	ID1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	40
+hsa-miR-29b	ITGB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	279
+hsa-miR-29b	JUND	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	10
+hsa-miR-29b	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	128
+hsa-miR-29b	LOX	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	67
+hsa-miR-29b	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-29b	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	203
+hsa-miR-29b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	42
+hsa-miR-29b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	110
+hsa-miR-29b	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	27
+hsa-miR-29b	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-29b	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-29b	SOX2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-29b	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	198
+hsa-miR-29b	SPARC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	164
+hsa-miR-29b	SREBF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-29b	SRF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-29b	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	90
+hsa-miR-29b	TGFB2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	29
+hsa-miR-29b	YBX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-29b	YY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	58
+hsa-miR-29b	hsa-miR-29c	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	841
+hsa-miR-29c	ADA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-29c	COL1A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	70
+hsa-miR-29c	COL3A1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	66
+hsa-miR-29c	ETV4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-29c	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	65
+hsa-miR-29c	FOS	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	28
+hsa-miR-29c	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	102
+hsa-miR-29c	HDAC4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-29c	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	30
+hsa-miR-29c	HMGCS1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-29c	HRK	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	40
+hsa-miR-29c	ID1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-29c	ITGB1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	142
+hsa-miR-29c	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	66
+hsa-miR-29c	LOX	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	37
+hsa-miR-29c	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	103
+hsa-miR-29c	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	21
+hsa-miR-29c	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	55
+hsa-miR-29c	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	15
+hsa-miR-29c	PEG10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-29c	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	99
+hsa-miR-29c	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	99
+hsa-miR-29c	SPARC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	86
+hsa-miR-29c	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	45
+hsa-miR-29c	TGFB2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-29c	YY1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	29
+hsa-miR-301b	CYLD	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-301b	EDN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-301b	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-301b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-301b	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-301b	MET	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-301b	UBB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-302a	CREB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-302a	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-302a	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-302a	hsa-miR-302b	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	4
+hsa-miR-302a	hsa-miR-302c	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	3
+hsa-miR-302a	hsa-miR-302d	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	3
+hsa-miR-302b	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-302b	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-302b	hsa-miR-302c	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	1
+hsa-miR-302b	hsa-miR-302d	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	1
+hsa-miR-302c	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-302d	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-30b	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-30b	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-30b	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-30b	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30b	ME1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-30b	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-30b	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	10
+hsa-miR-30b	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-30b	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	21
+hsa-miR-30b	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-30b	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	22
+hsa-miR-30b	hsa-miR-30d	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	62
+hsa-miR-30c	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30c	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-30c	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-30c	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-30c	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-30c	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-30c	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30c	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30c	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-30c	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30c	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	20
+hsa-miR-30c	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-30c	hsa-miR-30e	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	45
+hsa-miR-30d	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-30d	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-30d	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-30d	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30d	ME1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-30d	MYC	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-30d	NCOR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30d	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-30d	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	21
+hsa-miR-30d	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-30d	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-30e	BDNF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30e	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-30e	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	9
+hsa-miR-30e	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-30e	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-30e	NRP1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-30e	NT5E	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-30e	PDGFRB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-30e	SERPINE1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	20
+hsa-miR-363	AXL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-363	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-363	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-miR-363	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	42
+hsa-miR-363	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-363	ITGA5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	36
+hsa-miR-363	MYH9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-363	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-363	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	18
+hsa-miR-363	hsa-miR-92a	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	111
+hsa-miR-372	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-372	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-372	hsa-miR-373	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	3
+hsa-miR-373	CREB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-373	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-373	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-373	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-424	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	HDAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-424	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	SIRT1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-424	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	9
+hsa-miR-424	SPI1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-424	hsa-miR-503	miRNA_miRNA		unsigned (co-transcription within 10 kb)		census layer: miRNA pair within 10 kb	11
+hsa-miR-429	DNMT1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-429	EZH2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	11
+hsa-miR-429	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	155
+hsa-miR-429	FOXM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-429	HDAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-429	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-429	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	14
+hsa-miR-429	KLF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-429	KLF5	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-429	MYB	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-429	SHC1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	46
+hsa-miR-429	SOX2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	3
+hsa-miR-429	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	24
+hsa-miR-429	TP73	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-429	ZEB2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-497	CHAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-497	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	6
+hsa-miR-497	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	2
+hsa-miR-497	HOXA10	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-497	IRAK2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-497	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	4
+hsa-miR-503	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-503	HDAC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-503	HDAC2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-503	NFKB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-503	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	9
+hsa-miR-92a	AR	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-92a	AXL	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-92a	CD2AP	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-92a	CEBPA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-92a	CEBPB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	DKK3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	82
+hsa-miR-92a	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	16
+hsa-miR-92a	ESR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-miR-92a	FBN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	42
+hsa-miR-92a	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	ITGA5	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	36
+hsa-miR-92a	MAX	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	3
+hsa-miR-92a	MITF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-92a	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-92a	MYH9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-92a	NOTCH1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-92a	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	39
+hsa-miR-92a	RUNX1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	12
+hsa-miR-92a	SMAD3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	7
+hsa-miR-92a	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	95
+hsa-miR-92a	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	63
+hsa-miR-92a	SP1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	43
+hsa-miR-92a	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	21
+hsa-miR-92a	TP53	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	25
+hsa-miR-93	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	1
+hsa-miR-93	ARNT	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-93	ATF4	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-93	E2F1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	12
+hsa-miR-93	F3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	16
+hsa-miR-93	FURIN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-93	GJA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-93	IRF1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	5
+hsa-miR-93	IRF9	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	JUN	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-93	LIF	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	22
+hsa-miR-93	MMP2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	25
+hsa-miR-93	MYC	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	7
+hsa-miR-93	MYCN	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	5
+hsa-miR-93	SMAD6	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	11
+hsa-miR-93	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	14
+hsa-miR-93	SQSTM1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	2
+hsa-miR-93	TGFBR2	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	9
+hsa-miR-93	THBS2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-93	TWIST1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-96	ABCA1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	4
+hsa-miR-96	CTNNB1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	13
+hsa-miR-96	CTSB	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	26
+hsa-miR-96	EGR1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	41
+hsa-miR-96	FHL1	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	6
+hsa-miR-96	FN1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	330
+hsa-miR-96	FST	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	HBEGF	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	155
+hsa-miR-96	HIF1A	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	24
+hsa-miR-96	RELA	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	79
+hsa-miR-96	SHC1	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	33
+hsa-miR-96	SMAD4	miRNA_target	-1	mechanistic (miRNA repression)	strong	analysed network	13
+hsa-miR-96	SMAD7	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	8
+hsa-miR-96	SREBF2	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	1
+hsa-miR-96	STAT3	miRNA_target	-1	mechanistic (miRNA repression)	weak	analysed network	47

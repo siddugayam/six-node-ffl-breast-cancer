@@ -11,6 +11,6 @@ analyses without them (`nolegacy`) and, as a check, with them (`full`).
 | `literature/` | Literature volume against network topology |
 | `v7/` | Community detection (Supplementary Note S7, Table S9) |
 | `v7b/` | BioNet, jActiveModules and GO/KEGG over-representation of the modules |
-| `figure_fixes/` | The information-flow figure of the paper (Fig. S3) |
+| `figure_fixes/` | The information-flow figure of the paper (Fig. S5) |
 
 The `sandbox_*` folders mirror the paths that the module-detection scripts (`scripts/14_module_detection/`) expect.

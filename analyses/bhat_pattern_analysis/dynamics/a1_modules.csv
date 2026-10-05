@@ -1,0 +1,52 @@
+family,module,registry,size_key,mir_to_TF,input_node,s_TM,s_TY,s_T12,s_T21,s_T2Y,s_T2M,stored_as,cpu_hours
+Bhat_TF_TM+_TY+,GG,,GG,False,TF1,1,1,1,0,1,1,I1_miRNA_FFL GG,0.0
+Bhat_TF_TM+_TY-,GG,,GG,False,TF1,1,-1,1,0,1,1,,2.4
+Bhat_TF_TM-_TY+,GG,,GG,False,TF1,-1,1,1,0,1,1,,2.4
+Bhat_comp_TM+_TY+,GG,,GG,True,TF1,1,1,1,0,1,1,COMP_I1_negfeedback GG,0.0
+Bhat_comp_TM+_TY-,GG,,GG,True,TF1,1,-1,1,0,1,1,,2.4
+Bhat_comp_TM-_TY+,GG,,GG,True,TF1,-1,1,1,0,1,1,COMP_C2_toggle GG,0.0
+Bhat_miR_TM0_TY+,GG,,GG,True,MIR1,0,1,1,0,1,1,,2.4
+Bhat_miR_TM0_TY-,GG,,GG,True,MIR1,0,-1,1,0,1,1,,2.4
+Bhat_TF_TM+_TY+,GG+MM,,GG+MM,False,TF1,1,1,1,0,1,1,I1_miRNA_FFL GG+MM,0.0
+Bhat_TF_TM+_TY-,GG+MM,,GG+MM,False,TF1,1,-1,1,0,1,1,,2.7
+Bhat_TF_TM-_TY+,GG+MM,,GG+MM,False,TF1,-1,1,1,0,1,1,,2.7
+Bhat_comp_TM+_TY+,GG+MM,,GG+MM,True,TF1,1,1,1,0,1,1,COMP_I1_negfeedback GG+MM,0.0
+Bhat_comp_TM+_TY-,GG+MM,,GG+MM,True,TF1,1,-1,1,0,1,1,,2.7
+Bhat_comp_TM-_TY+,GG+MM,,GG+MM,True,TF1,-1,1,1,0,1,1,COMP_C2_toggle GG+MM,0.0
+Bhat_miR_TM0_TY+,GG+MM,,GG+MM,True,MIR1,0,1,1,0,1,1,,2.7
+Bhat_miR_TM0_TY-,GG+MM,,GG+MM,True,MIR1,0,-1,1,0,1,1,,2.7
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,,GG+MM+TT,False,TF1,1,1,0,1,1,1,,3.2
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,,GG+MM+TT,False,TF1,1,1,0,1,-1,1,,3.2
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,,GG+MM+TT,False,TF1,1,1,0,-1,1,1,,3.2
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,,GG+MM+TT,False,TF1,1,1,0,-1,-1,1,,3.2
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,,GG+MM+TT,False,TF1,1,1,0,0,1,1,,3.2
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,,GG+MM+TT,False,TF1,1,1,0,0,-1,1,,3.2
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,,GG+MM+TT,False,TF1,-1,1,0,1,1,1,,3.2
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,,GG+MM+TT,False,TF1,-1,1,0,-1,1,1,,3.2
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,,GG+MM+TT,False,TF1,-1,1,0,0,1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,,GG+MM+TT,True,TF1,1,1,1,1,1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,,GG+MM+TT,True,TF1,1,1,1,1,-1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,,GG+MM+TT,True,TF1,1,1,1,-1,1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,,GG+MM+TT,True,TF1,1,1,1,-1,-1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,,GG+MM+TT,True,TF1,1,1,1,0,1,1,COMP_I1_negfeedback GG+MM+TT,0.0
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,,GG+MM+TT,True,TF1,1,1,1,0,-1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,,GG+MM+TT,True,TF1,1,1,-1,1,1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,,GG+MM+TT,True,TF1,1,1,-1,-1,1,1,,3.2
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,,GG+MM+TT,True,TF1,1,1,-1,0,1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,,GG+MM+TT,True,TF1,-1,1,1,1,-1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,,GG+MM+TT,True,TF1,-1,1,1,-1,-1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,,GG+MM+TT,True,TF1,-1,1,1,0,-1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,,GG+MM+TT,True,TF1,-1,1,-1,1,1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,,GG+MM+TT,True,TF1,-1,1,-1,-1,1,1,,3.2
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,,GG+MM+TT,True,TF1,-1,1,-1,0,1,1,,3.2
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,,GG+MM+TT,True,MIR1,0,1,1,0,1,1,,3.2
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,,GG+MM+TT,True,MIR1,0,1,-1,0,1,1,,3.2
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,,GG+MM+TT,True,MIR1,0,1,-1,0,-1,1,,3.2
+Bhat_TF_TM+_TY+,core,,core,False,TF1,1,1,1,0,1,1,I1_miRNA_FFL core,0.0
+Bhat_TF_TM+_TY-,core,,core,False,TF1,1,-1,1,0,1,1,,1.0
+Bhat_TF_TM-_TY+,core,,core,False,TF1,-1,1,1,0,1,1,,1.0
+Bhat_comp_TM+_TY+,core,,core,True,TF1,1,1,1,0,1,1,COMP_I1_negfeedback core,0.0
+Bhat_comp_TM+_TY-,core,,core,True,TF1,1,-1,1,0,1,1,,1.0
+Bhat_comp_TM-_TY+,core,,core,True,TF1,-1,1,1,0,1,1,COMP_C2_toggle core,0.0
+Bhat_miR_TM0_TY+,core,,core,True,MIR1,0,1,1,0,1,1,,1.0
+Bhat_miR_TM0_TY-,core,,core,True,MIR1,0,-1,1,0,1,1,,1.0
