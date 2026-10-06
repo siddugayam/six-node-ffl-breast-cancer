@@ -127,7 +127,7 @@ for(t in c("Gene","TF","miRNA")){ s<-ok[type==t]
       t,nrow(s),median(s$cn_expr_rho),100*mean(s$cn_expr_rho>0),100*mean(s$cn_expr_fdr<0.05 & s$cn_expr_rho>0))) }
 
 cat("\n=== FEATURED LOCI (all loci, not just primary) ===\n")
-feat <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-130a","COL1A1","COL3A1","EZH2",
+feat <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","COL1A1","COL3A1","EZH2",
           "hsa-miR-101","hsa-miR-124","hsa-let-7b","hsa-let-7e","hsa-miR-34a",
           "hsa-miR-200b","hsa-miR-200c","hsa-miR-145")
 print(L[node %in% feat, .(node,locus,chrom,cn_source,cn_method,amp=round(frac_amp,3),

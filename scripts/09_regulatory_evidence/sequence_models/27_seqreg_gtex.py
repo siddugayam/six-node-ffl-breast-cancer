@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """27_seqreg_gtex.py -- GTEx v8/v10 cis-eQTL and sQTL evidence for COL1A1, COL3A1 and the
-miR-29/miR-130a host genes, with emphasis on breast and cultured fibroblasts.
+miR-29 host genes, with emphasis on breast and cultured fibroblasts.
 Endpoints used (GTEx portal API v2): /reference/gene, /association/independentEqtl,
 /association/fineMapping, /association/singleTissueSqtl, /association/singleTissueEqtlByLocation.
 """
@@ -31,7 +31,7 @@ def paged(path, **params):
         page+=1
     return out
 
-GENES=["COL1A1","COL3A1","MIR130AHG","MIR29B2CHG","MIR29A","MIR29B1","MIR29C","LINC-PINT",
+GENES=["COL1A1","COL3A1","MIR29B2CHG","MIR29A","MIR29B1","MIR29C","LINC-PINT",
        "NFKB1","RELA","SP1","ETS1"]
 g=get("reference/gene", geneId=GENES)
 gdf=pd.DataFrame(g['data'])
@@ -39,7 +39,7 @@ gdf.to_csv(f"{RES}/seqreg_gtex_genes.csv", index=False)
 print(gdf[['geneSymbol','gencodeId','chromosome','tss','strand']].to_string(index=False))
 gmap={r.geneSymbol:r.gencodeId for r in gdf.itertuples()}
 
-FOCUS=["COL1A1","COL3A1","MIR130AHG","MIR29B2CHG","LINC-PINT"]
+FOCUS=["COL1A1","COL3A1","MIR29B2CHG","LINC-PINT"]
 FOCUS=[x for x in FOCUS if x in gmap]
 
 rows=[]
@@ -78,7 +78,7 @@ pd.DataFrame(sq).to_csv(f"{RES}/seqreg_gtex_sqtl.csv", index=False)
 # eQTLs by location: promoter windows (+/-5 kb of TSS) in fibroblast/breast tissues
 reg=pd.read_csv(f"{RES}/seqreg_regions.csv")
 loc=[]
-for _,r in reg[reg.region.isin(["COL1A1","COL3A1","MIR130AHG","MIR29B2CHG"])].iterrows():
+for _,r in reg[reg.region.isin(["COL1A1","COL3A1","MIR29B2CHG"])].iterrows():
     for t in ["Breast_Mammary_Tissue","Cells_Cultured_fibroblasts"]:
         try:
             d=get("association/singleTissueEqtlByLocation", tissueSiteDetailId=t,

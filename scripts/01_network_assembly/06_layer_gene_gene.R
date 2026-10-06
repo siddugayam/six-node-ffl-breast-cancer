@@ -4,7 +4,7 @@
 #                       Gene node, including sources the manuscript never classified as TFs.
 #    Tier 2 (STRING)  : UNDIRECTED STRING v12 high-confidence (combined_score >= 900)
 #                       interactions; physical-subnetwork and full functional network both run.
-#    Identifiers are resolved EXACTLY via the STRING v12 flat files (see 05a) because the
+#    Identifiers are resolved EXACTLY via the STRING v12 flat files (see 06a_string_map_and_fetch.R) because the
 #    /get_string_ids API fuzzy-matches and mis-resolves VEGFA -> COL18A1, VDR -> CYP27B1.
 suppressPackageStartupMessages(library(data.table))
 BASE <- "/path/to/revision"

@@ -101,7 +101,7 @@ cat(sprintf("%-6s n=%3d median rho=%+.3f  %%negative=%.1f  %%FDR<.05 & rho<0=%.1
     100*mean(s$meth_expr_fdr<0.05 & s$meth_expr_rho<0)))
 
 cat("\n=== FEATURED miRNA PROMOTERS ===\n")
-feat <- c("hsa-miR-130a","hsa-miR-124","hsa-miR-101","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c",
+feat <- c("hsa-miR-124","hsa-miR-101","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c",
           "hsa-let-7b","hsa-let-7e","hsa-miR-34a","hsa-miR-200b","hsa-miR-200c","hsa-miR-145")
 print(res[node %in% feat, .(node,n_probes,beta_normal=round(beta_normal,3),
    beta_tumour=round(beta_tumour,3), delta=round(delta_beta,4), fdr=signif(wilcox_fdr,2),

@@ -3,7 +3,7 @@
 ## expression / survival meta-analysis and write them to
 ## results/v4/multicohort_genesets.csv (+ an RDS for the analysis scripts).
 ## Every set is derived from a file on disk; nothing is hand-typed except the
-## five literature tumour-suppressor anchors, which are named in the analysis plan.
+## marker-gene and PAM50 lists of section 5.
 ## ==========================================================================
 suppressPackageStartupMessages({library(data.table)})
 setwd("/path/to/revision")
@@ -42,21 +42,7 @@ cat("FFL 3-node union", length(S$FFL_3NODE_UNION),
     " higher-order union", length(S$FFL_HIGHERORDER_UNION),
     " higher-order-only", length(S$FFL_HIGHER_ONLY), "\n")
 
-## ---- 4. miR-130a target sets ---------------------------------------------
-AC <- fread("results/v3/mir130a_anticorrelated_validated_genes.csv")
-S$MIR130A_ANTICORR <- sort(unique(AC$gene))
-TS <- fread("results/v3/mir130a_target_set.csv")
-cat("mir130a_target_set tiers:\n"); print(table(TS$tier))
-S$MIR130A_STRONG   <- sort(unique(TS[tier=="STRONG_lowthroughput", gene]))
-S$MIR130A_TS_ANCHOR<- c("PTEN","SMAD4","TGFBR2","DICER1","KLF4")
-cat("miR-130a sets: anticorr", length(S$MIR130A_ANTICORR),
-    " strong", length(S$MIR130A_STRONG),
-    " ts_anchor", length(S$MIR130A_TS_ANCHOR), "\n")
-## the anchors must be inside the strong set -- assert
-cat("TS anchors that are in the STRONG tier:",
-    paste(intersect(S$MIR130A_TS_ANCHOR, S$MIR130A_STRONG), collapse=","), "\n")
-
-## ---- 5. miR-29 target / ECM module ---------------------------------------
+## ---- 4. miR-29 target / ECM module ---------------------------------------
 E <- fread("data/canonical_edges.tsv")
 m29 <- E[edge_type=="miRNA_target" & grepl("^hsa-miR-29[abc]$", source), unique(target)]
 S$MIR29_TARGETS_NET <- sort(m29)
@@ -73,7 +59,7 @@ cat("miR-29 network targets", length(S$MIR29_TARGETS_NET),
     " of which ECM-organisation", length(S$MIR29_ECM), ":",
     paste(S$MIR29_ECM, collapse=","), "\n")
 
-## ---- 6. helper gene sets used for covariates / subtyping ------------------
+## ---- 5. helper gene sets used for covariates / subtyping ------------------
 S$CAF_A <- readLines("cache/newcohorts/cafA_signature_genes.txt")
 S$EPITHELIAL <- c("EPCAM","KRT8","KRT18","KRT19","CDH1","KRT7","ELF3","CLDN4")
 S$IMMUNE     <- c("PTPRC","CD3D","CD2","CD53","LCP1","CORO1A")

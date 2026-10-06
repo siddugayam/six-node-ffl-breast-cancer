@@ -1,3 +1,4 @@
+# Assembles per-node evidence for the node compendium (results/v5/node_compendium_table.csv).
 suppressMessages({library(data.table)})
 REV <- "/path/to/revision"; R5 <- file.path(REV,"results/v5")
 lg <- function(...) cat(...,"\n")

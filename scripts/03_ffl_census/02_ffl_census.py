@@ -57,7 +57,7 @@ from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-ROOT = os.path.dirname(HERE)
+ROOT = os.path.dirname(os.path.dirname(HERE))   # repository root
 RES = os.path.join(ROOT, "results")
 LOG = os.path.join(ROOT, "logs")
 SCRATCH = os.environ.get("FFL_SCRATCH",

@@ -57,7 +57,7 @@ for reg_ in ["COL1A1","COL3A1"]:
             add("B_Borzoi", f"{reg_}: predicted {tf} ChIP at promoter, {len(f)} tracks",
                 f"median background percentile {f.bg_percentile.median():.1f}, max {f.bg_percentile.max():.1f}",
                 "seqreg_borzoi_promoter_tracks.csv.gz")
-for reg_ in ["MIR130A","MIR130AHG","MIR29B2CHG","LINC_PINT_prox","MIR29A"]:
+for reg_ in ["MIR29B2CHG","LINC_PINT_prox","MIR29A"]:
     sb=bz[bz.region==reg_]
     tr=sb[sb.assay=="RNA"].nlargest(1,"value").iloc[0]
     add("B_Borzoi", f"{reg_}: top predicted RNA track",
@@ -159,12 +159,6 @@ for _,r in arch.iterrows():
         f"GC {r.gc:.3f} ({r.gc_percentile:.1f}th pct of 3,000 random promoters); CpG o/e {r.cpg_oe:.3f} "
         f"({r.cpg_oe_percentile:.1f}th pct); CpG island overlap: {r.cpg_island_overlap or 'NONE'}; "
         f"cCREs: {r.ccre_overlap or 'none'}", "seqreg_promoter_architecture.csv")
-prb=pd.read_csv(f"{RES}/seqreg_mir130a_probe_annotation.csv")
-add("C_miR130a_methylation", "hg38 positions of the six 450k probes used in the project's miR-130a analysis",
-    "; ".join(f"{x.probe} {x.chrom}:{int(x.end)} (host-TSS{int(x.dist_to_MIR130AHG_TSS):+d}, "
-              f"hairpin{int(x.dist_to_MIR130A_hairpin):+d}, cCRE {x.ccre or 'none'}, "
-              f"CpG island {x.cpg_island or 'NONE'})" for x in prb.itertuples()),
-    "seqreg_mir130a_probe_annotation.csv")
 
 # ---- C GTEx
 neg=pd.read_csv(f"{RES}/seqreg_gtex_breast_fibroblast_negatives.csv")
@@ -178,7 +172,7 @@ add("C_GTEx", "COL1A1/COL3A1 eQTL or fine-mapped variants within 2 kb of the TSS
     "seqreg_gtex_collagen_variants.csv")
 mi=pd.read_csv(f"{RES}/seqreg_gtex_mirna_eqtl.csv")
 add("C_GTEx", "independent cis-eQTLs for MIR29A/MIR29B1/MIR29C in any GTEx v8 tissue",
-    "none (0 signals); MIR130AHG and MIR29B2CHG are absent from the GTEx v8 gencode v26 reference",
+    "none (0 signals); MIR29B2CHG is absent from the GTEx v8 gencode v26 reference",
     "seqreg_gtex_mirna_eqtl.csv")
 sq=pd.read_csv(f"{RES}/seqreg_gtex_sqtl.csv")
 if len(sq):
@@ -186,7 +180,7 @@ if len(sq):
 
 # ---- C motifs
 mc=pd.read_csv(f"{RES}/seqreg_motif_focus_calibrated_BH.csv")
-for reg_ in ["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox","MIR130AHG","MIR130A"]:
+for reg_ in ["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox"]:
     s=mc[mc.region==reg_]
     for fam,tfs in [("NF-kB family",["NFKB1","NFKB2","RELA","RELB","REL"]),
                     ("SP family",["SP1","SP2","SP3"]),
@@ -197,7 +191,7 @@ for reg_ in ["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox","MIR130AHG","MIR130
             f"promoters {t.p_used.min():.3f} (BH q {t.BH_q.min():.2f}); "
             f"matrices with 0 sites: {int((t.n_sites==0).sum())}/{len(t)}",
             "seqreg_motif_focus_calibrated_BH.csv")
-add("C_motif", "multiple-testing note", "250 tests (25 matrices x 10 promoters); nothing survives BH at q<0.25",
+add("C_motif", "multiple-testing note", "200 tests (25 matrices x 8 promoters); nothing survives BH at q<0.25",
     "seqreg_motif_focus_calibrated_BH.csv")
 
 out=pd.DataFrame(R)

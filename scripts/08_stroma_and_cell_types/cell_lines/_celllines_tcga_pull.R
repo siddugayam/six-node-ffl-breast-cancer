@@ -1,3 +1,4 @@
+# Written and run by celllines_02_corr.py, which holds this code; running that script regenerates this file.
 
 g <- readRDS("/path/to/revision/data/brca_gene_expr.rds")
 m <- readRDS("/path/to/revision/data/brca_mirna_expr_canonical.rds")
@@ -12,7 +13,7 @@ genes <- genes[genes %in% rownames(g)]
 write.table(g[genes, gt], "/path/to/revision/results/v2/_tcga_genes_tumour.tsv", sep="\t", quote=FALSE)
 mirs <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-let-7b","hsa-let-7e",
           "hsa-miR-143","hsa-miR-218","hsa-miR-133a","hsa-miR-133b","hsa-miR-101",
-          "hsa-miR-21","hsa-miR-130a")
+          "hsa-miR-21")
 mirs <- mirs[mirs %in% rownames(m)]
 write.table(m[mirs, both], "/path/to/revision/results/v2/_tcga_mirs_tumour.tsv", sep="\t", quote=FALSE)
 write.table(g[genes, both], "/path/to/revision/results/v2/_tcga_genes_paired.tsv", sep="\t", quote=FALSE)

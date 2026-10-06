@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """PART 2H, independent replication in the Wu et al. 2021 atlas (the project's original atlas),
-using its own celltype_minor pseudobulk, to check that the compartment segregation of the two
+using its own celltype_minor pseudobulk, to check that the compartment bias of the miR-29
 target sets is not specific to the Human Breast Cancer Single Cell Atlas."""
 import pandas as pd, numpy as np
-from scipy import stats
 REV="/path/to/revision"; OUT=f"{REV}/results/v3"
 rng=np.random.default_rng(20260909)
 def msg(*a): print(*a, flush=True)
@@ -17,9 +16,7 @@ share=C.div(C.sum(axis=1), axis=0)
 fib=share[FIB].sum(axis=1); mal=share[MAL].sum(axis=1)
 sets={
  'mir29_anticorrelated': pd.read_csv(f"{OUT}/screens_mir29_anticorrelated_genes.csv").gene.tolist(),
- 'mir130a_anticorrelated': pd.read_csv(f"{OUT}/mir130a_anticorrelated_validated_genes.csv").gene.tolist(),
- 'mir29_strong': pd.read_csv(f"{OUT}/screens_mir29_target_set.csv").query("tier=='STRONG_lowthroughput'").gene.tolist(),
- 'mir130a_strong': pd.read_csv(f"{OUT}/mir130a_target_set.csv").query("tier=='STRONG_lowthroughput'").gene.tolist()}
+ 'mir29_strong': pd.read_csv(f"{OUT}/screens_mir29_target_set.csv").query("tier=='STRONG_lowthroughput'").gene.tolist()}
 tot=C.sum(axis=1); dec=pd.qcut(tot.rank(method='first'), 10, labels=False)
 B=2000; rows=[]
 for name,gl in sets.items():
@@ -39,8 +36,3 @@ for name,gl in sets.items():
 R=pd.DataFrame(rows); R.to_csv(f"{OUT}/sc_wu_target_set_compartment_summary.csv", index=False)
 msg("\n=== Wu et al. 2021: CAF vs cancer-epithelial expression share of the two target sets ===")
 print(R.round(4).to_string(index=False))
-a=[x for x in set(sets['mir29_anticorrelated']) if x in C.index]
-b=[x for x in set(sets['mir130a_anticorrelated']) if x in C.index]
-u1=stats.mannwhitneyu(fib.loc[a], fib.loc[b]); u2=stats.mannwhitneyu(mal.loc[a], mal.loc[b])
-msg(f"\nhead-to-head (Wu): CAF share median {fib.loc[a].median():.4f} vs {fib.loc[b].median():.4f}, MWU p={u1.pvalue:.3g}")
-msg(f"                   cancer share median {mal.loc[a].median():.4f} vs {mal.loc[b].median():.4f}, MWU p={u2.pvalue:.3g}")

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """26_seqreg_screen_ccre.py -- ENCODE SCREEN candidate cis-regulatory elements (cCREs)
-and UCSC CpG islands at the COL1A1/COL3A1/miR-29/miR-130a loci (hg38).
+and UCSC CpG islands at the COL1A1/COL3A1/miR-29 loci (hg38).
 Source: UCSC REST API tracks encodeCcreCombined (ENCODE Registry of cCREs) and cpgIslandExt.
 """
 import json, os, time, urllib.request

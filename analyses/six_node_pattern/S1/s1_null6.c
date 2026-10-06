@@ -1,14 +1,14 @@
 /* s1_null6.c -- S1 of analyses/six_node_pattern: are six-node patterns over-represented?
  *
  * Graph: the census graph without the legacy miRNA-miRNA arcs ('nolegacy'), in the null format of
- * scripts/04_motif_significance/v2_null.c (uncontracted, 9,226 arcs, fine class = source type -> target type), plus one
+ * analyses/census_and_motif_nulls/nulls/v2_null.c (uncontracted, 9,226 arcs, fine class = source type -> target type), plus one
  * layer label per arc (make_s1_inputs.py):
  *   0 TF_miRNA  1 miRNA_target  2 TF_target (analysed)  3 TF_target (TRRUST census layer)
  *   4 gene_gene (deposit, analysed)  5 gene_gene (STRING census layer, oriented low->high index =
  *   alphabetical)  6 miRNA_miRNA (10 kb census layer, both directions)
  *
  * RANDOMISATION
- *  NULL-A/B/C  verbatim copy of scripts/04_motif_significance/v2_null.c: same xorshift64 stream, same groups, same order
+ *  NULL-A/B/C  verbatim copy of analyses/census_and_motif_nulls/nulls/v2_null.c: same xorshift64 stream, same groups, same order
  *              of draws, each replicate restarting from the observed graph.  Replicate r is therefore
  *              the graph behind row r of the stored runs, which the three-node counts check.
  *              Layer labels travel with the arc index (a Maslov-Sneppen swap changes only the target).
@@ -51,7 +51,7 @@
  *              TF2->t, TF1->t, m->t in the contracted graph, m->TF1 in the uncontracted one, t
  *              non-miRNA).  Exact: every seed (TF1,TF2,m,t) is extended by every pair of further
  *              vertices that keeps the six-set weakly connected; each six-set is tested with the
- *              verbatim acyclic() + check_module() of v2_census2.c and counted once (hash set).
+ *              verbatim acyclic() + check_module() of census_09_esu_classmask.c and counted once (hash set).
  *
  * usage: s1_null6 graph labels MODE R seed spe census_reps nproc proc [listprefix]
  *   MODE  A B C L LT LG LM  (randomised replicates), OBS or OBSNOSTRING (observed graph only)
@@ -87,7 +87,7 @@ static inline int has(int u,int v){ return (ADJ[u][v>>6]>>(v&63))&1ULL; }
 static inline void setE(int u,int v){ ADJ[u][v>>6]|=1ULL<<(v&63); }
 static inline void clrE(int u,int v){ ADJ[u][v>>6]&=~(1ULL<<(v&63)); }
 
-/* ===================== verbatim from scripts/04_motif_significance/v2_null.c (randomisation) ===================== */
+/* ===================== verbatim from analyses/census_and_motif_nulls/nulls/v2_null.c (randomisation) ===================== */
 typedef struct { int *idx; int n; int kind; } Group;   /* kind 0=MS swap, 1=curveball */
 static Group grp[MAXC*2]; static int ngrp=0;
 static int frozen[MAXE];
@@ -405,7 +405,7 @@ static void model6(void){
     for(int c=0;c<2;c++) m6_sets[c]=HM[c].n;
 }
 
-/* ---------------- CENSUS6c: verbatim D1-D4 of v2_census2.c ---------------- */
+/* ---------------- CENSUS6c: verbatim D1-D4 of census_09_esu_classmask.c ---------------- */
 static int adj[8][8];
 static int check_module(int n){
     int i, j, it;

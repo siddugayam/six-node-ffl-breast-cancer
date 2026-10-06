@@ -32,7 +32,7 @@ import numpy as np, pandas as pd, torch
 OUT = os.path.dirname(os.path.abspath(__file__))
 INB = os.path.dirname(OUT); REV = os.path.dirname(os.path.dirname(INB))
 RES, CACHE = f"{REV}/results/v3", f"{REV}/cache/seqreg"
-HF27 = f"{REV}/data_cache_2026-09-27d/huggingface"
+HF27 = f"{REV}/data_cache/huggingface"
 ap = argparse.ArgumentParser(); ap.add_argument('--reps', default='0,1,2,3'); ap.add_argument('--check-only', action='store_true')
 ap.add_argument('--bench', action='store_true')
 A = ap.parse_args(); REPS = [int(x) for x in A.reps.split(',')]

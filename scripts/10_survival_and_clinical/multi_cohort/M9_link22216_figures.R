@@ -1,8 +1,7 @@
 ## ==========================================================================
 ## M9_link22216_figures.R
 ##  (i)  prove the GSE22219 (mRNA) <-> GSE22216 (miRNA) patient linkage from
-##       the deposited clinical fields, then use it as a second independent
-##       validation of the miR-130a target-activity score
+##       the deposited clinical fields
 ##  (ii) forest-plot figures for the headline meta-analyses
 ## ==========================================================================
 suppressPackageStartupMessages({library(data.table)})
@@ -10,9 +9,6 @@ setwd("/path/to/revision")
 source("scripts/07_expression_validation/external_cohorts/N0_geo_utils.R")
 CA <- "cache/v4/multicohort"; OUT <- "results/v4"; FIG <- "figures/v4"
 dir.create(FIG, showWarnings=FALSE, recursive=TRUE)
-S  <- readRDS(file.path(CA,"genesets.rds"))
-CO <- readRDS(file.path(CA,"mrna_cohorts.rds"))
-MI <- readRDS(file.path(CA,"mirna_cohorts.rds"))
 num <- function(v){ v[v %in% c(".","NA","")] <- NA; suppressWarnings(as.numeric(v)) }
 
 ## ---------- (i) linkage proof ---------------------------------------------
@@ -55,33 +51,6 @@ chk <- rbind(chk, data.table(method="clinical fingerprint (6 fields)", field="al
   n_pairs=nrow(LK), n_identical=nrow(LK), pct=100))
 fwrite(chk, file.path(OUT,"multicohort_C_GSE22219_GSE22216_linkage_check.csv"))
 fwrite(LK, file.path(CA,"GSE22219_GSE22216_link.csv"))
-LINKED <- nrow(LK) > 150
-
-## ---------- second independent validation of the target-activity score -----
-if(LINKED){
-  Xm <- CO$GSE22219$X; Mu <- MI$GSE22216$M
-  jm <- LK[match(colnames(Xm), LK$gsm_mrna)]
-  ok <- !is.na(jm$gsm_mirna) & jm$gsm_mirna %in% colnames(Mu)
-  cat("paired mRNA+miRNA samples usable:", sum(ok), "\n")
-  sc <- function(X, genes){ g<-intersect(genes,rownames(X)); Z<-t(scale(t(X[g,,drop=FALSE])))
-    Z<-Z[is.finite(rowSums(Z)),,drop=FALSE]; list(v=colMeans(Z), n=nrow(Z)) }
-  rows <- list()
-  for(k in c("MIR130A_ANTICORR","MIR130A_STRONG","MIR130A_TS_ANCHOR")){
-    r <- sc(Xm, S[[k]])
-    v <- if(k=="MIR130A_ANTICORR") -r$v else r$v
-    lab <- if(k=="MIR130A_ANTICORR") "MIR130A_ACTIVITY" else k
-    ct <- cor.test(v[ok], as.numeric(Mu["hsa-miR-130a", jm$gsm_mirna[ok]]), method="spearman")
-    rows[[length(rows)+1]] <- data.table(cohort="GSE22219/GSE22216", n=sum(ok), score=lab,
-      rho=unname(ct$estimate), p=ct$p.value,
-      note=sprintf("independent validation, patients linked on a 6-field clinical fingerprint; %d/%d set genes measured", r$n, length(S[[k]])))
-    cat(sprintf("  %-18s rho=%+.3f p=%.3g (%d genes)\n", lab, ct$estimate, ct$p.value, r$n))
-  }
-  V <- fread(file.path(OUT,"multicohort_C_targetscore_validation.csv"))
-  V <- V[cohort != "GSE22219/GSE22216"]
-  V <- rbind(V, rbindlist(rows), fill=TRUE)
-  fwrite(V, file.path(OUT,"multicohort_C_targetscore_validation.csv"))
-  print(V)
-}
 
 ## ---------- (ii) forest plots ---------------------------------------------
 Z <- fread(file.path(OUT,"multicohort_FOREST_TABLE.csv"))
@@ -120,24 +89,10 @@ forest <- function(d, main, xlab, logx=TRUE, refline=if(logx) 1 else 0, file){
     d$Q[ip], d$p_Q[ip]), side=1, line=4.6, adj=0.5, cex=0.72, col="grey30")
   par(op); dev.off(); cat("wrote", file, "\n")
 }
-forest(Z[analysis=="mir130a_HR_primary_univariate"],
-  "hsa-miR-130a and outcome: random-effects meta-analysis",
-  "hazard ratio per SD of miR-130a (primary endpoint per cohort)", TRUE, 1,
-  file.path(FIG,"fig_multicohort_forest_mir130a_HR.png"))
-forest(Z[analysis=="mir130a_tumour_vs_normal"],
-  "hsa-miR-130a: tumour vs normal breast",
-  "Hedges g (tumour minus normal)", FALSE, 0,
-  file.path(FIG,"fig_multicohort_forest_mir130a_tumour_vs_normal.png"))
-for(m in c("MIR130A_ACTIVITY","MIR130A_STRONG","MIR130A_TS_ANCHOR","MIR29_ECM",
+for(m in c("MIR29_ECM",
            "FFL_3NODE_UNION","FFL_HIGHER_ONLY"))
   forest(Z[analysis=="module_HR_primary_univariate__all_cohorts" & feature==m],
     paste0(m, ": pooled prognostic effect"),
     "hazard ratio per SD of the module score", TRUE, 1,
     file.path(FIG, paste0("fig_multicohort_forest_", m, ".png")))
-for(st in c("basal_TNBC","luminalA_ERpos"))
-  forest(Z[analysis=="module_HR_subtype_stratified" & stratum==st &
-           feature=="MIR130A_STRONG"],
-    paste0("miR-130a validated-target score, ", st),
-    "hazard ratio per SD", TRUE, 1,
-    file.path(FIG, paste0("fig_multicohort_forest_MIR130A_STRONG_", st, ".png")))
 cat("\nfigures written to", FIG, "\n")

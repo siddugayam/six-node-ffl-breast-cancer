@@ -10,3 +10,9 @@
 
 `census_all_graphs.csv` and `motif_nulls_all_graphs.csv` are also in `results/v2/census_rerun/`, where the figure
 scripts read them. Graph `nolegacy` is the census graph of the paper.
+
+## Scripts in this folder
+
+| Script | What it does |
+|---|---|
+| `run_all.sh` | Analyses/census_and_motif_nulls re-runs. |

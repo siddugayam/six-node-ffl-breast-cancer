@@ -1,4 +1,6 @@
 #!/usr/bin/env Rscript
+# Maps Illumina 450k probes to gene promoters (IlluminaHumanMethylation450kanno.ilmn12.hg19) for the network
+# genes and the background genes; writes cache/multiomics/promoter_probes_*.tsv.
 suppressPackageStartupMessages({library(data.table); library(IlluminaHumanMethylation450kanno.ilmn12.hg19)})
 RV<-"/path/to/revision"; CA<-file.path(RV,"cache/multiomics")
 ann <- as.data.frame(minfi::getAnnotation(IlluminaHumanMethylation450kanno.ilmn12.hg19))
@@ -53,7 +55,7 @@ cat("union miRNA promoter probes:", nrow(mall), " unique probes:", uniqueN(mall$
     " miRNAs covered:", uniqueN(mall$mature), "/", uniqueN(ml$mature), "\n")
 fwrite(mall, file.path(CA,"promoter_probes_mirnas.tsv"), sep="\t")
 
-feat <- c("hsa-miR-130a","hsa-miR-124","hsa-miR-101","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c",
+feat <- c("hsa-miR-124","hsa-miR-101","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c",
           "hsa-let-7b","hsa-let-7e","hsa-miR-34a","hsa-miR-200b","hsa-miR-200c","hsa-miR-145")
 cat("\nprobe counts for featured miRNAs:\n")
 print(mall[mature %in% feat, .N, by=.(mature)][order(mature)])

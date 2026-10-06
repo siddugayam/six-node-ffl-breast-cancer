@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Downloads the GEO SOFT descriptions of the series listed in the file given as argument into
+# cache/v6/cohorts/soft/, skipping files already present.
 import os, sys, time, urllib.request, json
 CACHE="/path/to/revision/cache/v6/cohorts/soft"
 os.makedirs(CACHE, exist_ok=True)

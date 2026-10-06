@@ -108,19 +108,12 @@ wt <- wilcox.test(ND[is_FFL_hub==TRUE, d2_breast], ND[is_FFL_hub==FALSE, d2_brea
 msg("  Wilcoxon hub vs non-hub D2: p =", signif(wt$p.value,3))
 
 ## ---------------- set-level test with the project's decile-matched null ----------------
-A130 <- fread(file.path(OUT,"mir130a_target_set.csv"))
-R130 <- fread(file.path(OUT,"mir130a_tcga_target_correlations.csv"))
 A29  <- fread(file.path(OUT,"screens_mir29_target_set.csv"))
 R29  <- fread(file.path(OUT,"screens_mir29_tcga_correlations.csv"))
-edges <- fread(file.path(REV,"data/canonical_edges.tsv"))
-universe <- R130$gene
+universe <- R29$gene
 gs <- rownames(M)
 
 sets <- list(
-  mir130a_STRONG              = A130[tier=="STRONG_lowthroughput", gene],
-  mir130a_VALIDATED_anticorr  = R130[!is.na(fdr_VALIDATED_any) & fdr_VALIDATED_any<0.05 & rho_3p<0, gene],
-  mir130a_TARGETSCAN          = A130[in_targetscan==TRUE, gene],
-  mir130a_AUTHOR_NETWORK      = edges[source=="hsa-miR-130a" & edge_type=="miRNA_target", target],
   mir29_STRONG                = A29[tier=="STRONG_lowthroughput", gene],
   mir29_anticorrelated        = fread(file.path(OUT,"screens_mir29_anticorrelated_genes.csv"))$gene,
   mir29_TARGETSCAN            = A29[in_targetscan==TRUE, gene],
@@ -131,7 +124,7 @@ sets <- list(
 sets <- lapply(sets, function(g) intersect(intersect(unique(g), gs), universe))
 for (nm in names(sets)) msg("set", nm, ": screened in DEMETER2 & TCGA-expressed:", length(sets[[nm]]))
 
-mexp <- setNames(R130$mean_expr, R130$gene)
+mexp <- setNames(R29$mean_expr, R29$gene)
 pooluniv <- intersect(gs, universe)
 brk <- unique(quantile(mexp[pooluniv], probs=seq(0,1,0.1)))
 dec <- setNames(as.integer(cut(mexp[pooluniv], breaks=brk, include.lowest=TRUE)), pooluniv)
@@ -139,7 +132,7 @@ B <- 2000L
 res <- rbindlist(lapply(names(sets), function(nm){
   g <- sets[[nm]]; if(length(g) < 5) return(NULL)
   ## null pool excludes anything in the set itself and any annotated target of the same miRNA
-  excl <- if (grepl("^mir130a", nm)) A130$gene else if (grepl("^mir29", nm)) A29$gene else g
+  excl <- if (grepl("^mir29", nm)) A29$gene else g
   pool <- setdiff(pooluniv, excl)
   pbd <- split(pool, dec[pool])
   obs_mean <- mean(d2_breast[g], na.rm=TRUE); obs_ess <- mean(d2_frac_ess[g] > 0.5, na.rm=TRUE)
@@ -156,20 +149,6 @@ res <- rbindlist(lapply(names(sets), function(nm){
 msg("DEMETER2 set-level essentiality vs expression-decile-matched null (B =", B, "):")
 print(res, digits=3)
 fwrite(res, file.path(OUT,"screens_demeter2_setlevel.csv"))
-
-## miR-130a strong targets, gene by gene
-st <- data.table(gene=sets$mir130a_STRONG)
-st[, d2_breast := d2_breast[gene]][, d2_frac_lines_essential := d2_frac_ess[gene]]
-st[, d2_other_lineages := d2_other[gene]][, chronos_breast := chronos_breast[gene]]
-st <- merge(st, R130[, .(gene, rho_3p)], by="gene", all.x=TRUE)
-setorder(st, d2_breast)
-fwrite(st, file.path(OUT,"screens_demeter2_mir130a_strong_targets.csv"))
-msg("miR-130a STRONG targets essential by RNAi (mean D2 < -0.5):",
-    sum(st$d2_breast < -0.5, na.rm=TRUE), "of", nrow(st),
-    "| by CRISPR (Chronos < -0.5):", sum(st$chronos_breast < -0.5, na.rm=TRUE))
-msg("miR-130a STRONG targets with POSITIVE mean D2 (knockdown increases fitness):",
-    sum(st$d2_breast > 0, na.rm=TRUE), "of", nrow(st))
-print(head(st, 12), digits=3)
 
 ## miR-29 strong targets
 st29 <- data.table(gene=sets$mir29_STRONG)

@@ -63,7 +63,7 @@ out=pd.DataFrame(rows)
 out.to_csv(f"{RES}/seqreg_remap_promoter_tfs_calibrated.csv", index=False)
 pd.set_option("display.width",240)
 FOC=["NFKB1","NFKB2","RELA","RELB","SP1","SP2","SP3","ETS1","ETS2","MED1","EP300","CTCF","ESR1","TWIST1","STAT3","SMAD3"]
-for reg in ["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox","MIR130AHG"]:
+for reg in ["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox"]:
     print(f"\n===== {reg}")
     print(out[(out.region==reg)&(out.tf.isin(FOC))][["tf","n_peaks","n_peaks_fibroblast","bg_mean_peaks",
           "bg_median_peaks","pct_bg_bound","percentile_vs_bg","emp_p_ge"]].to_string(index=False))

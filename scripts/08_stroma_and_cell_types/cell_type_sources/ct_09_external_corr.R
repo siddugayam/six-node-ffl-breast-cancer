@@ -15,8 +15,8 @@ gene_pairs <- data.frame(
   stringsAsFactors=FALSE)
 mir_pairs <- data.frame(
   source=c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c",
-           "hsa-let-7b","hsa-let-7e","hsa-miR-101","hsa-miR-130a"),
-  target=c("COL1A1","COL1A1","COL1A1","COL3A1","COL3A1","COL3A1","COL3A1","COL3A1","EZH2","VEGFA"),
+           "hsa-let-7b","hsa-let-7e","hsa-miR-101"),
+  target=c("COL1A1","COL1A1","COL1A1","COL3A1","COL3A1","COL3A1","COL3A1","COL3A1","EZH2"),
   stringsAsFactors=FALSE)
 
 cafscore <- function(X) {

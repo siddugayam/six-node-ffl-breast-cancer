@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """28b_seqreg_motif_calibration.py -- higher-resolution GC-matched calibration of the
-focus-TF motif counts at all ten promoters.
+focus-TF motif counts at all eight promoters.
 
 28_ used 1,000 background promoters, which left only 74 GC-matched controls for the very
 AT-rich COL3A1 promoter, so its empirical p could not fall below 0.054. This repeats the

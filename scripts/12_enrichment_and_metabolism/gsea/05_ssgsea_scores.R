@@ -20,11 +20,9 @@ sel[, absNES := abs(NES)]
 setorder(sel, ranked_list, collection, -absNES)
 top <- sel[, head(.SD, TOPN), by = .(ranked_list, collection)]
 chosen <- unique(top[, .(collection, pathway)])
-## always include every FFL class set + the two miR-130a positive-control sets
+## always include every FFL class set + the two miR-29 positive-control sets
 chosen <- rbind(chosen,
                 data.table(collection = "FFL_CLASS", pathway = names(sets$FFL_CLASS)),
-                data.table(collection = "C3_MIR_LEGACY", pathway = "TTGCACT_MIR130A_MIR301_MIR130B"),
-                data.table(collection = "C3_MIR_MIRDB",  pathway = "MIR130A_3P"),
                 data.table(collection = "C3_MIR_LEGACY", pathway = "TGGTGCT_MIR29A_MIR29B_MIR29C"),
                 data.table(collection = "C3_MIR_MIRDB",  pathway = "MIR29A_3P"))
 chosen <- unique(chosen)
@@ -71,12 +69,9 @@ msg("ssGSEA vs GSVA per-set Spearman: median ", signif(median(cm), 4),
 ## ---- sample annotation -----------------------------------------------------
 ph  <- readRDS(file.path(ROOT, "data", "brca_pheno.rds"))
 srv <- readRDS(file.path(ROOT, "data", "brca_survival.rds"))
-ter <- fread(file.path(RES, "mir130a_tertile_assignment.csv"))
 mir <- readRDS(file.path(ROOT, "data", "brca_mirna_expr.rds"))
 ann <- data.table(sample = colnames(ss))
 ann[, sample_type := ph$sample_type[match(sample, ph$sample)]]
-ann[, mir130a_3p := ter$mir130a_3p[match(sample, ter$sample)]]
-ann[, mir130a_tertile := ter$tertile[match(sample, ter$sample)]]
 ann[, mir29a_3p := ifelse(sample %in% colnames(mir), mir["hsa-miR-29a-3p", match(sample, colnames(mir))], NA_real_)]
 for (v in c("OS", "OS.time", "PFI", "PFI.time", "DSS", "DSS.time",
             "ajcc_pathologic_tumor_stage", "age_at_initial_pathologic_diagnosis"))
@@ -94,8 +89,6 @@ res <- rbindlist(lapply(rownames(ss), function(r) {
   pf <- tum[!is.na(PFI.time) & PFI.time > 0]
   zp <- as.numeric(scale(ss[r, pf$sample]))
   cp <- tryCatch(summary(coxph(Surv(pf$PFI.time, pf$PFI) ~ zp)), error = function(e) NULL)
-  hl <- ann[sample_type == "Primary Tumor" & mir130a_tertile %in% c("high", "low")]
-  wt <- tryCatch(wilcox.test(ss[r, hl$sample] ~ hl$mir130a_tertile), error = function(e) NULL)
   tn <- ann[!is.na(sample_type)]
   wtn <- tryCatch(wilcox.test(ss[r, tn$sample] ~ tn$sample_type), error = function(e) NULL)
   data.table(set_id = r,
@@ -105,20 +98,15 @@ res <- rbindlist(lapply(rownames(ss), function(r) {
              PFI_HR_perSD = if (is.null(cp)) NA_real_ else cp$coefficients[1, 2],
              PFI_p = if (is.null(cp)) NA_real_ else cp$coefficients[1, 5],
              PFI_n = nrow(pf), PFI_events = sum(pf$PFI, na.rm = TRUE),
-             mir130a_high_minus_low = mean(ss[r, hl$sample[hl$mir130a_tertile == "high"]]) -
-                                      mean(ss[r, hl$sample[hl$mir130a_tertile == "low"]]),
-             mir130a_wilcox_p = if (is.null(wt)) NA_real_ else wt$p.value,
              tumour_minus_normal = mean(ss[r, tn$sample[tn$sample_type == "Primary Tumor"]]) -
                                    mean(ss[r, tn$sample[tn$sample_type == "Solid Tissue Normal"]]),
              tumour_vs_normal_wilcox_p = if (is.null(wtn)) NA_real_ else wtn$p.value)
 }))
 res[, `:=`(OS_fdr = p.adjust(OS_p, "BH"), PFI_fdr = p.adjust(PFI_p, "BH"),
-           mir130a_fdr = p.adjust(mir130a_wilcox_p, "BH"),
            tumour_vs_normal_fdr = p.adjust(tumour_vs_normal_wilcox_p, "BH"))]
 setorder(res, OS_p)
 fwrite(res, file.path(RES, "gsea_ssgsea_set_associations.csv"))
 msg("set-level associations: OS FDR<0.05 -> ", sum(res$OS_fdr < 0.05, na.rm = TRUE),
-    " ; PFI FDR<0.05 -> ", sum(res$PFI_fdr < 0.05, na.rm = TRUE),
-    " ; miR-130a tertile FDR<0.05 -> ", sum(res$mir130a_fdr < 0.05, na.rm = TRUE))
+    " ; PFI FDR<0.05 -> ", sum(res$PFI_fdr < 0.05, na.rm = TRUE))
 print(head(res[, .(set_id, OS_HR_perSD, OS_p, OS_fdr, PFI_HR_perSD, PFI_p)], 15))
 msg("DONE 05")

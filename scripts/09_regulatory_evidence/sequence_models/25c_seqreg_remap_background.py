@@ -59,5 +59,5 @@ cur["n_bg_promoters"]=cur.n_bg_promoters.fillna(n)
 cur.to_csv(f"{RES}/seqreg_remap_promoter_tfs_calibrated.csv", index=False)
 pd.set_option("display.width",240)
 FOC=["NFKB1","NFKB2","RELA","RELB","REL","SP1","SP2","SP3","ETS1","ETS2","MED1","EP300","CTCF","ESR1","TWIST1","STAT3","SMAD3"]
-print(cur[(cur.region.isin(["COL1A1","COL3A1","MIR29B2CHG","MIR130AHG","LINC_PINT_prox"]))&(cur.tf.isin(FOC))]
+print(cur[(cur.region.isin(["COL1A1","COL3A1","MIR29B2CHG","LINC_PINT_prox"]))&(cur.tf.isin(FOC))]
       [["region","tf","n_peaks","n_biotypes","n_peaks_fibroblast","frac_bg_promoters_bound"]].to_string(index=False))

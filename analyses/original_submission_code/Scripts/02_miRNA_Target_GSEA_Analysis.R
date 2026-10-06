@@ -3,7 +3,7 @@
 # ==============================================================================
 #
 # CONSOLIDATES (2 original scripts):
-#   - miRNA-130a Target Gene Set Enrichment Analysis.R  → Section 4 (single miRNA mode)
+#   - miRNA Target Gene Set Enrichment Analysis.R  → Section 4 (single miRNA mode)
 #   - Automated miRNA Target Gene Expression Analysis.R → Section 5 (multi-miRNA loop)
 #
 # PURPOSE:
@@ -49,11 +49,10 @@
 ANALYSIS_MODE <- "MULTI"         # "SINGLE" | "MULTI"
 
 # For SINGLE mode: the one miRNA to analyse
-MIRNA_OF_INTEREST <- "hsa-miR-130a-3p"
+MIRNA_OF_INTEREST <- "hsa-miR-29a-3p"
 
 # For MULTI mode: list of miRNAs to loop over
 MIRNA_LIST <- c(
-  "hsa-miR-130a-3p",
   "hsa-miR-21-5p",
   "hsa-miR-124-3p",
   "hsa-miR-34a-5p",
@@ -213,7 +212,7 @@ tryCatch({
 #   Returns the closest matching gene set name, or NULL if not found.
 #
 # Args:
-#   mirna_name   — character, e.g. "hsa-miR-130a-3p"
+#   mirna_name   — character
 #   msig_df      — MSigDB data frame with gs_name column
 # Returns: character gene set name or NULL
 # ------------------------------------------------------------------------------
@@ -223,7 +222,7 @@ mirna_to_msig_name <- function(mirna_name, msig_df) {
   # Normalise: strip "hsa-", upper-case, convert "-" to "_"
   clean <- toupper(mirna_name)
   clean <- gsub("^HSA-", "", clean)
-  clean <- gsub("-", "", clean)   # e.g. MIR130A3P
+  clean <- gsub("-", "", clean)
 
   # Try prefix match in the gene set names
   all_sets <- unique(msig_df$gs_name)

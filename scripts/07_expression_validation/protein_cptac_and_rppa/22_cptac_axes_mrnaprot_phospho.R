@@ -31,7 +31,7 @@ axes <- list()
 mir_gene <- list(c("hsa-miR-29a","COL1A1"),c("hsa-miR-29b","COL1A1"),c("hsa-miR-29c","COL1A1"),
                  c("hsa-miR-29a","COL3A1"),c("hsa-miR-29b","COL3A1"),c("hsa-miR-29c","COL3A1"),
                  c("hsa-let-7b","COL3A1"),c("hsa-let-7e","COL3A1"),c("hsa-miR-101","EZH2"),
-                 c("hsa-miR-130a","VEGFA"),c("hsa-miR-124","STAT3"))
+                 c("hsa-miR-124","STAT3"))
 for (pr in mir_gene) {
   axes[[length(axes)+1]] <- cbind(ct(getP(pr[1],Mm3), getP(pr[2],Pm3), pr[1], paste0(pr[2],"_PROTEIN"),"RNA+prot+miR n<=101"), layer="miRNA_vs_protein")
   axes[[length(axes)+1]] <- cbind(ct(getP(pr[1],Mm3), getP(pr[2],Rm3), pr[1], paste0(pr[2],"_mRNA"),   "RNA+prot+miR n<=101"), layer="miRNA_vs_mRNA")

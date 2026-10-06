@@ -72,6 +72,6 @@ cat("\n=== counts ===\n"); print(H[,.N,by=basis][order(-N)])
 
 ## miR-29 cluster loci detail
 cat("\n=== miR-29 cluster / featured loci (all loci) ===\n")
-print(cnl[node %in% c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-130a","COL1A1","COL3A1"),
+print(cnl[node %in% c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","COL1A1","COL3A1"),
   .(node,locus,chrom,cn_source,cn_method,amp=round(frac_amp,3),del=round(frac_del,3),
     rho=round(cn_expr_rho,3),fdr=signif(cn_expr_fdr,2))])

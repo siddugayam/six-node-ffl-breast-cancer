@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Builds the miRNA survival cohorts from GEO series matrices (expression, probe mapping, endpoint and event)
+# and records the probe mapping in cache/v6/cohorts/built/probe_report.json.
 import sys, os, json, numpy as np, csv
 sys.path.insert(0,"/path/to/revision/scripts/10_survival_and_clinical/mirna_survival_meta_analysis")
 from c07_build_mirna_cohorts import build, write_cohort, TARGETS

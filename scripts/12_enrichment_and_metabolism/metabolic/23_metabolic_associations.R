@@ -1,6 +1,6 @@
 ## 23_metabolic_associations.R --------------------------------------------
-## Part C: correlate every metabolic score with hsa-miR-130a-3p, the miR-29
-## family, the let-7 family and the FFL 3-node / higher-order module scores.
+## Part C: correlate every metabolic score with the miR-29 family, the let-7
+## family and the FFL 3-node / higher-order module scores.
 ## BH-FDR across ALL pathway x feature pairs.
 suppressPackageStartupMessages({library(data.table)})
 ROOT <- "/path/to/revision"; RES <- file.path(ROOT,"results/v4")
@@ -16,14 +16,12 @@ smp <- intersect(intersect(colnames(ss), tum), colnames(MI))
 cat("paired primary tumours with mRNA + miRNA:", length(smp), "\n")
 SS <- ss[, smp, drop=FALSE]; GV <- gv[, smp, drop=FALSE]; MM <- MI[, smp, drop=FALSE]
 
-mir_feats <- c("hsa-miR-130a-3p","hsa-miR-130a-5p","hsa-miR-130b-3p","hsa-miR-301a-3p","hsa-miR-301b",
-               "hsa-miR-29a-3p","hsa-miR-29b-3p","hsa-miR-29c-3p","hsa-miR-29a-5p","hsa-miR-29c-5p",
+mir_feats <- c("hsa-miR-29a-3p","hsa-miR-29b-3p","hsa-miR-29c-3p","hsa-miR-29a-5p","hsa-miR-29c-5p",
                grep("^hsa-let-7", rownames(MM), value=TRUE))
 mir_feats <- intersect(mir_feats, rownames(MM))
 cat("miRNA features:", length(mir_feats), "\n")
-## family aggregate (mean of log2 arms) for miR-130a/301 seed family and miR-29 family
+## family aggregate (mean of log2 arms) for the miR-29 and let-7 families
 fam <- list(
-  FAMILY_miR130_301_seed = c("hsa-miR-130a-3p","hsa-miR-130b-3p","hsa-miR-301a-3p","hsa-miR-301b"),
   FAMILY_miR29_3p        = c("hsa-miR-29a-3p","hsa-miR-29b-3p","hsa-miR-29c-3p"),
   FAMILY_let7_5p         = grep("^hsa-let-7.*-5p$", rownames(MM), value=TRUE))
 FM <- do.call(rbind, lapply(fam, function(v) colMeans(MM[intersect(v, rownames(MM)), , drop=FALSE])))
@@ -63,14 +61,6 @@ show <- function(f, k=15) {
   cat("-- most NEGATIVE --\n")
   print(d[order(rho)][1:k, .(set_id, collection, rho=round(rho,3), FDR=signif(FDR,3))])
 }
-show("hsa-miR-130a-3p"); show("hsa-miR-29a-3p", 10); show("FAMILY_let7_5p", 10)
+show("hsa-miR-29a-3p", 10); show("FAMILY_let7_5p", 10)
 show("FFLCLASS|3node_union", 10); show("FFLCLASS|higherorder_not_3node", 10)
-
-## GSVA sensitivity for miR-130a
-a <- out[score=="ssGSEA" & feature=="hsa-miR-130a-3p", .(set_id, rho_ss=rho)]
-b <- out[score=="GSVA"   & feature=="hsa-miR-130a-3p", .(set_id, rho_gv=rho)]
-m <- merge(a,b,by="set_id")
-cat("\nmiR-130a rho: ssGSEA vs GSVA Pearson", round(cor(m$rho_ss,m$rho_gv),3),
-    "; sign agreement", round(mean(sign(m$rho_ss)==sign(m$rho_gv)),3), "\n")
-fwrite(m, file.path(RES,"metabolic_mir130a_rho_method_concordance.csv"))
 cat("DONE 23\n")

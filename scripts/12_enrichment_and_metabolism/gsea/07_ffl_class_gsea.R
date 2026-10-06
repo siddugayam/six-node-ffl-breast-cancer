@@ -42,7 +42,7 @@ extra <- list(
 extra <- extra[lengths(extra) >= 5]
 msg("derived sets: ", paste(names(extra), lengths(extra), sep = "=", collapse = "  "))
 
-LISTS <- c("tumour_vs_normal", "mir130a_corr", "mir29a_corr", "mir130a_high_vs_low")
+LISTS <- c("tumour_vs_normal", "mir29a_corr")
 read_rank <- function(tag) {
   d <- fread(file.path(RES, paste0("rank_", tag, ".csv")))
   d <- d[!is.na(stat)][!duplicated(feature)]

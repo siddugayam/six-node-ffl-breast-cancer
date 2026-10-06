@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Download helper for analyses/perturbation_tests.  Every file fetched for these tests goes through fetch(), which stores it
-under REV/data_cache_2026-09-27d/<subdir>/, and appends one row to DOWNLOADS.tsv:
+under REV/data_cache/<subdir>/, and appends one row to DOWNLOADS.tsv:
 part, source, accession, URL, date (UTC), size_bytes, md5, licence, file (relative to the cache).
 A file already in the cache with a DOWNLOADS.tsv row is not fetched again.  The cap of P0 (42.9 GB) is checked
 before every download against the running total of DOWNLOADS.tsv."""
@@ -8,7 +8,7 @@ import os, csv, hashlib, datetime, time, urllib.request, urllib.error, shutil
 
 INB = os.path.dirname(os.path.abspath(__file__))
 REV = os.path.dirname(os.path.dirname(INB))
-CACHE = os.path.join(REV, 'data_cache_2026-09-27d')
+CACHE = os.path.join(REV, 'data_cache')
 LOG = os.path.join(INB, 'DOWNLOADS.tsv')
 COLS = ['part', 'source', 'accession', 'url', 'date_utc', 'size_bytes', 'md5', 'licence', 'file']
 CAP_BYTES = 42.9e9

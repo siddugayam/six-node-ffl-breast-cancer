@@ -1,3 +1,6 @@
+# Sensitivity analyses of the miRNA survival meta-analysis: pooled estimates for alternative cohort sets,
+# fixed- against random-effects estimates and Egger tests; writes results/v6/mirna_meta_sensitivity.csv and
+# mirna_meta_FE_vs_RE_and_egger.csv.
 suppressPackageStartupMessages({library(data.table); library(metafor)})
 setwd("/path/to/revision"); OUT<-"results/v6"
 C<-fread(file.path(OUT,"mirna_meta_percohort_cox.csv"))
@@ -27,8 +30,8 @@ for(tg in unique(P$miRNA)){ s<-P[miRNA==tg]; if(nrow(s)<3) next
 FE<-rbindlist(fe)
 fwrite(S, file.path(OUT,"mirna_meta_sensitivity.csv"))
 fwrite(FE, file.path(OUT,"mirna_meta_FE_vs_RE_and_egger.csv"))
-cat("=== sensitivity: pooled HR under cohort exclusions (miR-29a, miR-195, miR-204, miR-130a) ===\n")
-print(as.data.frame(S[miRNA %in% c("miR-29a","miR-195","miR-204","miR-130a"),
+cat("=== sensitivity: pooled HR under cohort exclusions (miR-29a, miR-195, miR-204) ===\n")
+print(as.data.frame(S[miRNA %in% c("miR-29a","miR-195","miR-204"),
   .(miRNA,analysis,k,n,nevent,HR=round(HR,3),lo=round(lo,3),hi=round(hi,3),
     p=signif(p,3),I2=round(I2,1))][order(miRNA,analysis)]))
 cat("\n=== fixed vs random effects + Egger regression test ===\n")

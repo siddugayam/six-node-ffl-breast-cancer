@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T); relabelled 2026-09-26 from an earlier non-standard numbering.
 """Independent cross-check of the 3-node FFL census and coherence typing.
-Deliberately written separately from the census agent's implementation so the two
+Deliberately written independently of the census implementation so the two
 can be compared. Uses only the canonical network + TRRUST/TransmiR signs."""
 import csv, collections, itertools, os, sys
 REV='/path/to/revision'

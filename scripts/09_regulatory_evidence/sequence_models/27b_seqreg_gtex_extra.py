@@ -34,7 +34,7 @@ for s in ["MIR29A","MIR29B1","MIR29C"]:
     print(s, len(d))
     if not d: rows.append(dict(querySymbol=s, gencodeId=gmap[s], status="no independent cis-eQTL in any GTEx v8 tissue"))
     for r in d: r['querySymbol']=s; rows.append(r)
-for s in ["MIR130AHG","MIR29B2CHG"]:
+for s in ["MIR29B2CHG"]:
     rows.append(dict(querySymbol=s, status="gene not present in the GTEx v8 reference (gencode v26); no eQTL can be queried"))
 pd.DataFrame(rows).to_csv(f"{RES}/seqreg_gtex_mirna_eqtl.csv", index=False)
 

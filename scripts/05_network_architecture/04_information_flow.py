@@ -144,7 +144,7 @@ print('\nFlow bottlenecks (rank gain over degree):',
 
 # where do the focal nodes sit?
 FOCUS = ['hsa-miR-29a', 'hsa-miR-29b', 'hsa-miR-29c', 'COL1A1', 'COL3A1', 'SP1', 'RELA',
-         'NFKB1', 'MYC', 'STAT3', 'HIF1A', 'TP53', 'VEGFA', 'hsa-miR-130a']
+         'NFKB1', 'MYC', 'STAT3', 'HIF1A', 'TP53', 'VEGFA']
 frows = []
 for n in FOCUS:
     if n not in idx:

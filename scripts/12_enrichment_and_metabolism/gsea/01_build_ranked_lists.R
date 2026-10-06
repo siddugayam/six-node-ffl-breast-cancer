@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# v4/01 -- Build the five ranked lists for GSEA
+# v4/01 -- Build the three ranked lists for GSEA
 # Outputs: results/v4/rank_*.csv  and  results/v4/ranklist_provenance.csv
 suppressPackageStartupMessages({
   library(limma); library(data.table); library(matrixStats)
@@ -103,24 +103,14 @@ make_corr_rank <- function(mirna_id, tag) {
       sum(dt$fdr < 0.05 & dt$rho > 0), ")")
   invisible(dt)
 }
-msg("(2)(3) Spearman correlation rankings")
-c130 <- make_corr_rank("hsa-miR-130a-3p", "mir130a_corr")
+msg("(2) Spearman correlation ranking")
 c29  <- make_corr_rank("hsa-miR-29a-3p",  "mir29a_corr")
 
-## sanity vs v3 file
-v3 <- tryCatch(fread(file.path(ROOT, "results", "v3", "mir130a_tcga_target_correlations.csv")),
-               error = function(e) NULL)
-if (!is.null(v3) && "rho_3p" %in% names(v3)) {
-  mm <- merge(c130[, .(gene = feature, rho_new = rho)], v3[, .(gene, rho_3p)], by = "gene")
-  msg("    cross-check vs v3 mir130a_tcga_target_correlations: n=", nrow(mm),
-      " Pearson r = ", signif(cor(mm$rho_new, mm$rho_3p), 6))
-}
-
-## ================================================================ (4) signed influence
+## ================================================================ (3) signed influence
 sif <- file.path(ROOT, "results", "signed_influence_scores.csv")
 if (file.exists(sif)) {
   s <- fread(sif)
-  msg("(4) signed_influence_scores.csv found: ", nrow(s), " nodes; cols: ",
+  msg("(3) signed_influence_scores.csv found: ", nrow(s), " nodes; cols: ",
       paste(names(s), collapse = ", "))
   msg("    node types: ", paste(names(table(s$type)), table(s$type), sep = "=", collapse = " "))
   ## keep protein-coding nodes (Gene + TF) -- gene sets are gene-symbol based
@@ -142,50 +132,20 @@ if (file.exists(sif)) {
   stop("signed_influence_scores.csv missing -- fallback not implemented")
 }
 
-## ================================================================ (5) 130a high vs low tertile
-y130 <- as.numeric(mir["hsa-miR-130a-3p", ctum])
-qs   <- quantile(y130, c(1/3, 2/3))
-grp2 <- ifelse(y130 <= qs[1], "low", ifelse(y130 >= qs[2], "high", "mid"))
-msg("(5) miR-130a-3p tertiles: ", paste(names(table(grp2)), table(grp2), sep = "=", collapse = " "),
-    " | cutpoints ", paste(signif(qs, 5), collapse = ", "))
-sel  <- grp2 %in% c("low", "high")
-Eh   <- expr[keep, ctum[sel], drop = FALSE]
-Eh   <- Eh[rowVars(Eh) > 0, , drop = FALSE]
-gh   <- factor(grp2[sel], levels = c("low", "high"))
-d2   <- model.matrix(~ gh)
-f2   <- eBayes(lmFit(Eh, d2))
-t2   <- topTable(f2, coef = "ghhigh", number = Inf, sort.by = "none")
-if (all(grepl("^[0-9]+$", rownames(t2)))) stop("FATAL: topTable returned integer indices (contrast 5)")
-stopifnot(identical(rownames(t2), rownames(Eh)))
-r5 <- data.table(feature = rownames(Eh), stat = t2$t, logFC = t2$logFC,
-                 AveExpr = t2$AveExpr, P.Value = t2$P.Value, adj.P.Val = t2$adj.P.Val)
-setorder(r5, -stat)
-fwrite(r5, file.path(RES, "rank_mir130a_high_vs_low.csv"))
-msg("    ", nrow(r5), " genes; FDR<0.05: ", sum(r5$adj.P.Val < 0.05),
-    " (up in high ", sum(r5$adj.P.Val < 0.05 & r5$logFC > 0),
-    " / down in high ", sum(r5$adj.P.Val < 0.05 & r5$logFC < 0), ")")
-## also record the sample-level group assignment for the survival arm
-fwrite(data.table(sample = ctum, mir130a_3p = y130, tertile = grp2),
-       file.path(RES, "mir130a_tertile_assignment.csv"))
-
 ## ================================================================ provenance
 prov <- data.table(
-  ranked_list = c("tumour_vs_normal", "mir130a_corr", "mir29a_corr",
-                  "ffl_signed_influence", "mir130a_high_vs_low"),
+  ranked_list = c("tumour_vs_normal", "mir29a_corr",
+                  "ffl_signed_influence"),
   statistic = c("limma moderated t (Tumor vs Normal)",
-                "Spearman rho vs hsa-miR-130a-3p",
                 "Spearman rho vs hsa-miR-29a-3p",
-                "signed influence (curated network)",
-                "limma moderated t (miR-130a-3p high vs low tertile)"),
-  n_features = c(nrow(r1), nrow(c130), nrow(c29),
-                 nrow(fread(file.path(RES, "rank_ffl_signed_influence.csv"))), nrow(r5)),
-  n_samples = c(length(tum) + length(nor), length(ctum), length(ctum),
-                NA_integer_, sum(sel)),
+                "signed influence (curated network)"),
+  n_features = c(nrow(r1), nrow(c29),
+                 nrow(fread(file.path(RES, "rank_ffl_signed_influence.csv")))),
+  n_samples = c(length(tum) + length(nor), length(ctum),
+                NA_integer_),
   detail = c(paste0(length(tum), " tumour vs ", length(nor), " normal"),
              paste0(length(ctum), " paired primary tumours"),
-             paste0(length(ctum), " paired primary tumours"),
-             "587 network nodes -> protein-coding subset",
-             paste0(sum(grp2 == "high"), " high vs ", sum(grp2 == "low"), " low"))
+             "587 network nodes -> protein-coding subset")
 )
 fwrite(prov, file.path(RES, "ranklist_provenance.csv"))
 print(prov)

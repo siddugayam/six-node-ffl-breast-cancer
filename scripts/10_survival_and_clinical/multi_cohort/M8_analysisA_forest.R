@@ -3,7 +3,7 @@
 ##  A3) hub DE direction: TCGA tumour vs GTEx normal breast (cross-study),
 ##      re-derived here rather than taken from the v2 workflow
 ##  A4) consolidate every direction-concordance test into one table
-##  Z ) one forest-plot-ready table covering B, C, D and E
+##  Z ) one forest-plot-ready table covering C, D and E
 ## ==========================================================================
 suppressPackageStartupMessages({library(data.table)})
 setwd("/path/to/revision")
@@ -73,15 +73,6 @@ cols <- c("analysis","feature","stratum","row_type","cohort","accession","endpoi
           "Q","p_Q","scale","note")
 mk <- function(dt) { for(cc in setdiff(cols, names(dt))) dt[[cc]] <- NA; dt[, ..cols] }
 
-B  <- fread(file.path(OUT,"multicohort_B_mir130a_meta.csv"))
-B[, `:=`(feature="hsa-miR-130a (measured)", stratum="all", estimate=HR,
-         scale="hazard ratio per SD of miR-130a expression")]
-Bg <- fread(file.path(OUT,"multicohort_B_mir130a_tumour_vs_normal_meta.csv"))
-Bg[, `:=`(analysis="mir130a_tumour_vs_normal", feature="hsa-miR-130a (measured)",
-  stratum="all", row_type=ifelse(grepl("POOLED", cohort),"RE_pooled","study"),
-  endpoint="tumour vs normal", model="two-sample", n=n_tumour+n_normal, nevent=NA_integer_,
-  estimate=hedges_g, scale="Hedges g (tumour minus normal); negative = lower in tumour",
-  note="no hazard ratio; effect size on the standardised mean difference scale")]
 CD <- fread(file.path(OUT,"multicohort_CD_module_meta.csv"))
 CD[, `:=`(analysis=paste0(analysis,"__",pool), feature=module, stratum="all",
           estimate=HR, scale="hazard ratio per SD of the module score")]
@@ -103,21 +94,14 @@ H[, `:=`(analysis="FFL_3node_vs_higherorder_mutually_adjusted",
   accession="", model="mutually adjusted", estimate=HR,
   scale="hazard ratio per SD, both module scores in one Cox model",
   note="the two scores are correlated r=0.72-0.88 within cohort; this is a collinear contrast, not two independent effects")]
-Z <- rbindlist(list(mk(B), mk(Bg), mk(CD), mk(E), mk(Ep), mk(H)), use.names=TRUE)
+Z <- rbindlist(list(mk(CD), mk(E), mk(Ep), mk(H)), use.names=TRUE)
 Z <- Z[is.finite(estimate)]
 fwrite(Z, file.path(OUT,"multicohort_FOREST_TABLE.csv"))
 cat("forest table rows:", nrow(Z), " analyses:", length(unique(Z$analysis)), "\n")
-print(Z[row_type=="RE_pooled" & analysis %in%
-   c("mir130a_HR_primary_univariate","mir130a_HR_primary_univariate_noTCGA",
-     "mir130a_tumour_vs_normal"),
-   .(analysis,feature,k,n,estimate=round(estimate,3),lo=round(lo,3),hi=round(hi,3),
-     p=signif(p,3),I2=round(I2,1))])
 
 ## ---------------- headline summary ----------------------------------------
 P <- Z[row_type=="RE_pooled"]
-head1 <- P[analysis %in% c("mir130a_HR_primary_univariate",
-  "mir130a_HR_primary_univariate_noTCGA","mir130a_tumour_vs_normal",
-  "module_HR_primary_univariate__all_cohorts",
+head1 <- P[analysis %in% c("module_HR_primary_univariate__all_cohorts",
   "module_HR_primary_univariate__independent_of_TCGA",
   "module_HR_primary_adjusted__all_cohorts",
   "module_HR_subtype_stratified","FFL_3node_vs_higherorder_mutually_adjusted")]

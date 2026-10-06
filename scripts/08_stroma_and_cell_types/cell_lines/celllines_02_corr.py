@@ -25,7 +25,7 @@ DATA = os.path.join(ROOT, "data")
 TFS = ["ETS1", "NFKB1", "RELA", "SP1", "MYB", "MKL1", "STAT6", "TFAP2A"]
 MIRS = ["hsa-miR-29a", "hsa-miR-29b", "hsa-miR-29c", "hsa-let-7b", "hsa-let-7e",
         "hsa-miR-143", "hsa-miR-218", "hsa-miR-133a", "hsa-miR-133b", "hsa-miR-101",
-        "hsa-miR-21", "hsa-miR-130a"]
+        "hsa-miR-21"]
 COLS = ["COL1A1", "COL3A1"]
 
 
@@ -114,7 +114,7 @@ genes <- genes[genes %%in%% rownames(g)]
 write.table(g[genes, gt], "%s/_tcga_genes_tumour.tsv", sep="\t", quote=FALSE)
 mirs <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-let-7b","hsa-let-7e",
           "hsa-miR-143","hsa-miR-218","hsa-miR-133a","hsa-miR-133b","hsa-miR-101",
-          "hsa-miR-21","hsa-miR-130a")
+          "hsa-miR-21")
 mirs <- mirs[mirs %%in%% rownames(m)]
 write.table(m[mirs, both], "%s/_tcga_mirs_tumour.tsv", sep="\t", quote=FALSE)
 write.table(g[genes, both], "%s/_tcga_genes_paired.tsv", sep="\t", quote=FALSE)

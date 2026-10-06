@@ -20,7 +20,7 @@ RNG = np.random.default_rng(20260909)
 N_PERM = 2000
 
 FOCUS = ["hsa-miR-29a", "hsa-miR-29b", "hsa-miR-29c", "hsa-miR-200c", "hsa-miR-21",
-         "hsa-let-7b", "hsa-miR-101", "hsa-miR-130a", "hsa-miR-34a", "hsa-miR-124"]
+         "hsa-let-7b", "hsa-miR-101", "hsa-miR-34a", "hsa-miR-124"]
 
 edges = pd.read_csv(os.path.join(DATA, "canonical_edges.tsv"), sep="\t")
 mt = edges[edges.edge_type == "miRNA_target"]

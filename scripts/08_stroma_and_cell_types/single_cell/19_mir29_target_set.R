@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
-## 19) Build the miR-29 family target set (mirrors 01_mir130a_target_set.R) and its
-##     TCGA-BRCA correlations, so that the miR-29 axis can be tested in the same way
-##     as miR-130a in the functional-genomic screens and single-cell analyses.
+## 19) Build the miR-29 family target set and its TCGA-BRCA correlations, so that
+##     the miR-29 axis can be tested in the functional-genomic screens and
+##     single-cell analyses.
 suppressPackageStartupMessages({library(data.table)})
 set.seed(20260909)
 REV <- "/path/to/revision"

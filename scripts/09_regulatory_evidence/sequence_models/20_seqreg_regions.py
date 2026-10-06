@@ -29,10 +29,9 @@ def refseq(chrom, start, end):
     u = f"{API}/getData/track?genome=hg38;track=ncbiRefSeqCurated;chrom={chrom};start={start};end={end}"
     return get(u).get('ncbiRefSeqCurated', [])
 
-# --- 1. pull the annotation for the five loci -------------------------------
+# --- 1. pull the annotation for the four loci -------------------------------
 WIN = [("chr17",50170000,50215000),("chr2",188960000,189025000),
-       ("chr7",130800000,130950000),("chr1",207740000,207890000),
-       ("chr11",57600000,57680000)]
+       ("chr7",130800000,130950000),("chr1",207740000,207890000)]
 ann = []
 for c,s,e in WIN:
     for r in refseq(c,s,e):
@@ -61,9 +60,7 @@ for sym, acc, label, kind in [
     ("MIR29B1","NR_029517.1","MIR29B1","miRNA_hairpin"),
     ("MIR29C","NR_029832.1","MIR29C","miRNA_hairpin"),
     ("MIR29B2","NR_029518.1","MIR29B2","miRNA_hairpin"),
-    ("MIR130A","NR_029673.1","MIR130A","miRNA_hairpin"),
     ("MIR29B2CHG","NR_135298.1","MIR29B2CHG","host_gene_TSS"),
-    ("MIR130AHG","NR_186232.1","MIR130AHG","host_gene_TSS"),
     ("LINC-PINT","NR_110473.1","LINC_PINT_prox","host_gene_TSS"),
 ]:
     c,p,st,a,b = tss(sym, acc)

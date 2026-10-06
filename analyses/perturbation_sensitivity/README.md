@@ -6,4 +6,4 @@ Three sensitivity analyses of the primary results. They read the result tables o
 - `C2/c2_p3a_without_gse115646.py`: the strong-tier shift without the GSE115646 series.
 - `C3/c3_p2_mouse_leave_one_series_out.py`: the mouse results, leaving out one series at a time.
 
-`_rma.R` pools the estimates (random-effects model, metafor).
+`analyses/perturbation_tests/_rma.R` pools the estimates (random-effects model, metafor).

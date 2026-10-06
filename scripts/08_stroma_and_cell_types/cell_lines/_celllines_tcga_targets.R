@@ -1,3 +1,5 @@
+# Written and run by celllines_09_network_sign_tcga.py, which holds this code; running that script regenerates
+# this file.
 
 g <- readRDS("/path/to/revision/data/brca_gene_expr.rds"); m <- readRDS("/path/to/revision/data/brca_mirna_expr_canonical.rds")
 p <- readRDS("/path/to/revision/data/brca_pheno.rds")

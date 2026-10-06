@@ -19,7 +19,6 @@ axes <- rbind(
  data.frame(x=c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c"), y="COL3A1", assay="miRNA"),
  data.frame(x="hsa-miR-101", y="EZH2", assay="miRNA"),
  data.frame(x=c("hsa-let-7b","hsa-let-7e"), y="COL3A1", assay="miRNA"),
- data.frame(x="hsa-miR-130a", y="VEGFA", assay="miRNA"),
  data.frame(x="COL1A1", y="COL3A1", assay="gene"))
 E <- read.delim("data/canonical_edges.tsv", stringsAsFactors=FALSE)
 axes$in_network <- paste(axes$x, axes$y) %in% paste(E$source, E$target)

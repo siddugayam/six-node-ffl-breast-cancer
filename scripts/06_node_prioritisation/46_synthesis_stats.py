@@ -18,7 +18,7 @@ assert sorted(itertools.chain(*PROG.values()))==sorted(T.name)
 T["programme"]=""
 for k,v in PROG.items(): T.loc[T.name.isin(v),"programme"]=k
 
-# ---- rule-based cis-mechanism call (identical to the rule used in 44_write_compendium.py) ----
+# ---- rule-based cis-mechanism call ----
 def mech_call(r):
     if pd.isna(r.fdr_TCGA) or r.fdr_TCGA >= 0.05:
         return "not_DE"

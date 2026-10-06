@@ -5,7 +5,7 @@ import requests
 
 OUT = "/path/to/revision/data/gwas"
 S = requests.Session()
-S.headers.update({"User-Agent": "miRNA-FFL-revision/1.0"})
+S.headers.update({"User-Agent": "miRNA-FFL/1.0"})
 
 def enc(iri):
     return urllib.parse.quote(urllib.parse.quote(iri, safe=""), safe="")

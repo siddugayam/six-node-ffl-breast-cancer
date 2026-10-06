@@ -28,7 +28,7 @@ EXTRA = ["NFKB1","ETS1","EPCAM","KRT8","KRT18","KRT19","ERBB2","PTPRC","PECAM1",
 sym2ent = json.load(open(f"{CACHE}/gene_symbol_entrez.json"))
 ent2sym = {}
 for s,e in sym2ent.items(): ent2sym.setdefault(e, s)
-meta = json.load(open("/tmp/pdmr_breast_meta.json"))
+meta = json.load(open("/path/to/scratch/pdmr_breast_meta.json"))
 
 long = pd.read_csv(f"{CACHE}/pdmr_breast_expr_long.tsv", sep="\t")
 W = long.pivot_table(index="sampleId", columns="entrezGeneId", values="value", aggfunc="mean")
@@ -36,7 +36,7 @@ W.columns = [ent2sym.get(c, str(c)) for c in W.columns]
 W = W.loc[:, ~pd.Index(W.columns).duplicated()]
 print("PDMR matrix", W.shape)
 
-ref_panel = json.load(open("/tmp/ref_panel_entrez.json"))
+ref_panel = json.load(open("/path/to/scratch/ref_panel_entrez.json"))
 REF = sorted(set(ref_panel.keys()) & set(W.columns))
 TARGETS = [g for g in TARGET_ORDER+EXTRA if g in W.columns]
 REF = [g for g in REF if g not in TARGETS]

@@ -1,9 +1,9 @@
 ## ==========================================================================
 ## M6_analysis_C_D_E.R
-##  C) miR-130a target-activity score: Cox + random-effects meta-analysis
-##     across every mRNA cohort with an outcome
-##  D) the same for the miR-29 target / ECM module and for the 3-node vs
-##     higher-order FFL module scores, adjusted for age/grade/size/node
+##  C/D) Cox + random-effects meta-analysis across every mRNA cohort with an
+##     outcome for the miR-29 target / ECM module and for the 3-node vs
+##     higher-order FFL module scores, univariate and adjusted for
+##     age/grade/size/node
 ##  E) subtype-stratified (basal / TNBC vs luminal A) versions
 ## ==========================================================================
 suppressPackageStartupMessages({library(data.table); library(survival); library(metafor)})
@@ -11,7 +11,6 @@ setwd("/path/to/revision")
 CA <- "cache/v4/multicohort"; OUT <- "results/v4"
 S  <- readRDS(file.path(CA,"genesets.rds"))
 CO <- readRDS(file.path(CA,"mrna_cohorts.rds"))
-MI <- readRDS(file.path(CA,"mirna_cohorts.rds"))
 set.seed(1)
 dl <- function(y,v){ ok<-is.finite(y)&is.finite(v)&v>0; y<-y[ok]; v<-v[ok]; k<-length(y)
   if(k<2) return(NULL); w<-1/v; yF<-sum(w*y)/sum(w); Q<-sum(w*(y-yF)^2)
@@ -28,8 +27,7 @@ score <- function(X, genes){
   Z <- Z[is.finite(rowSums(Z)), , drop=FALSE]
   list(v=colMeans(Z, na.rm=TRUE), n=nrow(Z))
 }
-SETS <- c("MIR130A_ANTICORR","MIR130A_STRONG","MIR130A_TS_ANCHOR",
-          "MIR29_TARGETS_NET","MIR29_ECM",
+SETS <- c("MIR29_TARGETS_NET","MIR29_ECM",
           "FFL_3NODE_UNION","FFL_HIGHERORDER_UNION","FFL_HIGHER_ONLY",
           "FFL_4_node","FFL_5_node","FFL_6_node","FFL_3_miR","FFL_3_TF","FFL_3_Comp",
           "ALL_NETWORK_PROTEIN","HUB_PROTEIN","PROLIF","CAF_A")
@@ -39,52 +37,17 @@ for(nm in names(CO)){
   s <- sapply(SETS, function(k) score(X, S[[k]])$n)
   n <- sapply(SETS, function(k){ r <- score(X,S[[k]]); if(is.null(r$v)) rep(NA_real_, ncol(X)) else r$v })
   M <- as.data.frame(n); rownames(M) <- colnames(X)
-  ## the "activity" convention: high = targets repressed = inferred high miR-130a
-  M$MIR130A_ACTIVITY <- -M$MIR130A_ANTICORR
   SC[[nm]] <- M
   COV[[nm]] <- data.table(cohort=nm, set=names(s), n_genes_used=as.integer(s),
                           n_genes_in_set=sapply(SETS, function(k) length(S[[k]])))
-  cat(sprintf("%-12s scored %d samples; genes used: MIR130A_ANTICORR %d/%d, FFL_3NODE %d/%d, FFL_HIGHER_ONLY %d/%d, MIR29_ECM %d/%d\n",
-    nm, ncol(X), s["MIR130A_ANTICORR"], length(S$MIR130A_ANTICORR),
+  cat(sprintf("%-12s scored %d samples; genes used: FFL_3NODE %d/%d, FFL_HIGHER_ONLY %d/%d, MIR29_ECM %d/%d\n",
+    nm, ncol(X),
     s["FFL_3NODE_UNION"], length(S$FFL_3NODE_UNION),
     s["FFL_HIGHER_ONLY"], length(S$FFL_HIGHER_ONLY), s["MIR29_ECM"], length(S$MIR29_ECM)))
 }
 COVd <- rbindlist(COV); fwrite(COVd, file.path(OUT,"multicohort_module_gene_coverage.csv"))
 saveRDS(SC, file.path(CA,"module_scores.rds"))
-ALLSETS <- c("MIR130A_ACTIVITY", SETS)
-
-################################################################################
-## C0 -- does the target-activity score actually track measured miR-130a?
-################################################################################
-cat("\n=========== C0  validating the target-activity score ===========\n")
-val <- list()
-## TCGA: paired mRNA + miRNA (this is also the cohort the gene set was derived in)
-mt <- MI$TCGA_BRCA$M; r <- "hsa-miR-130a-3p"
-sh <- intersect(rownames(SC$TCGA_BRCA), colnames(mt))
-cat("TCGA samples with both mRNA module score and miRNA:", length(sh), "\n")
-for(k in c("MIR130A_ACTIVITY","MIR130A_ANTICORR","MIR130A_STRONG","MIR130A_TS_ANCHOR")){
-  ct <- cor.test(SC$TCGA_BRCA[sh,k], as.numeric(mt[r,sh]), method="spearman")
-  val[[length(val)+1]] <- data.table(cohort="TCGA_BRCA", n=length(sh), score=k,
-    rho=unname(ct$estimate), p=ct$p.value,
-    note="gene set was SELECTED on this correlation -> circular, shown for completeness")
-  cat(sprintf("  TCGA   %-18s rho=%+.3f p=%.3g\n", k, ct$estimate, ct$p.value))
-}
-## GSE19783: independent matched mRNA + miRNA
-g <- readRDS("cache/external2/gse19783.rds")
-Xg <- g$GSE19783_mRNA; Mg <- g$GSE19783_miRNA
-stopifnot(identical(colnames(Xg), colnames(Mg)))
-for(k in c("MIR130A_ANTICORR","MIR130A_STRONG","MIR130A_TS_ANCHOR")){
-  sv <- score(Xg, S[[k]])
-  if(is.null(sv$v)) next
-  v <- if(k=="MIR130A_ANTICORR") -sv$v else sv$v      ## activity convention for the primary set
-  lab <- if(k=="MIR130A_ANTICORR") "MIR130A_ACTIVITY" else k
-  ct <- cor.test(v, as.numeric(Mg["hsa-miR-130a",]), method="spearman")
-  val[[length(val)+1]] <- data.table(cohort="GSE19783", n=ncol(Xg), score=lab,
-    rho=unname(ct$estimate), p=ct$p.value,
-    note=sprintf("independent validation; %d/%d set genes measured", sv$n, length(S[[k]])))
-  cat(sprintf("  GSE19783 %-18s rho=%+.3f p=%.3g  (%d genes)\n", lab, ct$estimate, ct$p.value, sv$n))
-}
-VAL <- rbindlist(val); fwrite(VAL, file.path(OUT,"multicohort_C_targetscore_validation.csv"))
+ALLSETS <- SETS
 
 ################################################################################
 ## C/D -- Cox models for every module score in every cohort
@@ -147,8 +110,6 @@ for(nm in names(EPMAP)){
 CX <- rbindlist(rows)
 fwrite(CX, file.path(OUT,"multicohort_CD_module_cox_all.csv"))
 cat("\nmodule Cox rows:", nrow(CX), "\n")
-cat("\nmiR-130a activity score, primary endpoints, univariate:\n")
-print(CX[module=="MIR130A_ACTIVITY" & model=="univariate", .(cohort,endpoint,n,nevent,HR=round(HR,3),lo=round(lo,3),hi=round(hi,3),p=signif(p,3))])
 
 ################################################################################
 ## meta-analysis of every module, primary endpoint per cohort

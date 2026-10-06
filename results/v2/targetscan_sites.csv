@@ -47,8 +47,6 @@ named_axis_pair,hsa-let-7e,hsa-let-7e-5p,COL3A1,1,ENST00000304636.3,,,,,,,,,,let
 named_axis_pair,hsa-miR-101,hsa-miR-101-3p.1,EZH2,1,ENST00000478654.1,,,,,,,,,,miR-101-3p.1,ACAGUAC,2,2,2,1,1,0,1,-0.905,-0.905,0.913,-0.598,99.0,,
 named_axis_pair,hsa-miR-101,hsa-miR-101-3p.2,EZH2,1,ENST00000478654.1,,,,,,,,,,miR-101-3p.2,UACAGUA,2,1,1,1,0,0,1,-0.328,-0.328,0.318,-0.328,99.0,,
 named_axis_pair,hsa-miR-101,hsa-miR-101-5p,EZH2,1,,,,,,,,,,,miR-101-5p,AGUUAUC,-1,0,0,0,0,0,0,,,,,,,
-named_axis_pair,hsa-miR-130a,hsa-miR-130a-3p,VEGFA,0,,,,,,,,,,,miR-130-3p/301-3p/454-3p,AGUGCAA,2,0,0,0,0,0,0,,,,,,,
-named_axis_pair,hsa-miR-130a,hsa-miR-130a-5p,VEGFA,0,,,,,,,,,,,miR-23-3p,UCACAUU,2,0,0,0,0,0,0,,,,,,,
 named_axis_pair,hsa-miR-124,hsa-miR-124-3p.1,STAT3,1,ENST00000585517.1,,,,,,,,,,miR-124-3p.1,AAGGCAC,2,1,1,1,0,0,1,-0.204,-0.183,0.795,-0.204,90.0,,
 named_axis_pair,hsa-miR-124,hsa-miR-124-3p.2,STAT3,1,ENST00000585517.1,,,,,,,,,,miR-124-3p.2/506-3p,UAAGGCA,2,1,1,0,1,0,0,-0.153,-0.137,0.632,-0.119,58.0,,
 named_axis_pair,hsa-miR-124,hsa-miR-124-5p,STAT3,1,,,,,,,,,,,miR-124-5p,GUGUUCA,-1,0,0,0,0,0,0,,,,,,,

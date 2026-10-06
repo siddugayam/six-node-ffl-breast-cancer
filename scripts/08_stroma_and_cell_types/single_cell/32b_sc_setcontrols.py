@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """PART 2H controls.  (1) Is the CAF-weighting of the miR-29 target set just the collagen
 genes themselves?  (2) Where do the network's TFs and FFL hubs sit?  (3) How much of the
-apparent segregation is circular, i.e. inherited from the way the anti-correlated sets were
-derived in bulk (miR-29 tracks stroma negatively, miR-130a-3p tracks stroma positively)?"""
+apparent CAF-weighting is circular, i.e. inherited from the way the anti-correlated set was
+derived in bulk (miR-29 tracks stroma negatively)?"""
 import numpy as np, pandas as pd
 from scipy import stats
 REV="/path/to/revision"; OUT=f"{REV}/results/v3"
@@ -20,12 +20,9 @@ msg(f"genes {C.shape[0]}, fibroblast columns {FIB}")
 
 sets={}
 sets['mir29_anticorrelated']=pd.read_csv(f"{OUT}/screens_mir29_anticorrelated_genes.csv").gene.tolist()
-sets['mir130a_anticorrelated']=pd.read_csv(f"{OUT}/mir130a_anticorrelated_validated_genes.csv").gene.tolist()
-a29=pd.read_csv(f"{OUT}/screens_mir29_target_set.csv"); a130=pd.read_csv(f"{OUT}/mir130a_target_set.csv")
+a29=pd.read_csv(f"{OUT}/screens_mir29_target_set.csv")
 sets['mir29_strong']=a29.query("tier=='STRONG_lowthroughput'").gene.tolist()
-sets['mir130a_strong']=a130.query("tier=='STRONG_lowthroughput'").gene.tolist()
 sets['mir29_targetscan_conserved']=a29.query("in_targetscan==True").gene.tolist()
-sets['mir130a_targetscan_conserved']=a130.query("in_targetscan==True").gene.tolist()
 sets['mir29_anticorr_noCOL']=[g for g in sets['mir29_anticorrelated'] if not g.startswith('COL')]
 nodes=pd.read_csv(f"{REV}/data/canonical_nodes.tsv", sep="\t")
 ctrl=pd.read_csv(f"{OUT}/systems_controllability_nodes.csv")

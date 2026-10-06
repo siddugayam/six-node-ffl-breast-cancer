@@ -10,7 +10,7 @@ Writes results/ffl_class_coverage.tsv
 import sys, os, csv, pickle
 from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
-ROOT = os.path.dirname(HERE); RES = os.path.join(ROOT, "results")
+ROOT = os.path.dirname(os.path.dirname(HERE)); RES = os.path.join(ROOT, "results")
 SCRATCH = os.environ.get("FFL_SCRATCH",
   "/path/to/scratch")
 import ffl_graph as fg, ffl_def

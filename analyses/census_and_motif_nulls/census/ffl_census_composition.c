@@ -1,6 +1,6 @@
 /* ffl_census_composition.c -- counting-only n-node FFL census for the first re-runs, Part B.
  *
- * Enumeration and module test are copied from scripts/03_ffl_census/v2_census2.c (the program behind the
+ * Enumeration and module test are copied from scripts/03_ffl_census/census_09_esu_classmask.c (the program behind the
  * exhaustive counts in results/v2/verify_census.csv): source-rooted ESU over out-neighbourhoods,
  * acyclicity pruning, D1-D4 with a unit-capacity max-flow test for D4, and the same xorshift64
  * RAND-ESU with the same order of random draws.  With nparts=1 the 'found' and 'visited' counts
@@ -60,7 +60,7 @@ static int adj[8][8];
 static int Vsub[8];
 static uint64_t forbid[W];
 
-/* ---- D1-D4, verbatim logic of v2_census2.c check_module ---- */
+/* ---- D1-D4, verbatim logic of census_09_esu_classmask.c check_module ---- */
 static int check_module(int n){
     int i, j, it;
     int indeg[8], outdeg[8];

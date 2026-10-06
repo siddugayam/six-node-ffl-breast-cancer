@@ -253,7 +253,6 @@ named <- data.frame(rbind(
   c("hsa-miR-29a", "COL1A1"), c("hsa-miR-29b", "COL1A1"), c("hsa-miR-29c", "COL1A1"),
   c("hsa-miR-29a", "COL3A1"), c("hsa-miR-29b", "COL3A1"), c("hsa-miR-29c", "COL3A1"),
   c("hsa-let-7b", "COL3A1"), c("hsa-let-7e", "COL3A1"),
-  c("hsa-miR-130a", "VEGFA"), c("hsa-miR-130a", "MMP2"),
   c("hsa-miR-124", "STAT3"), c("hsa-miR-101", "EZH2"), c("hsa-let-7b", "HK2")),
   stringsAsFactors = FALSE)
 colnames(named) <- c("source", "target")

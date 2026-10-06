@@ -1,3 +1,5 @@
+# Selects the 450k methylation probes for the promoter analysis of the network genes and of a background gene
+# set, and writes the miRNA loci (hg19) to cache/multiomics/.
 import gzip, random, sys
 RV="/path/to/revision"; CA=RV+"/cache/multiomics"
 # network nodes

@@ -101,6 +101,6 @@ cat("nodes tested:", table(nvv$type), "\n")
 cat("\nTop 15 CAF-tracking nodes:\n"); print(head(nvv[,c("node","type","rho_vs_CAF_score","fdr_vs_CAF")],15), row.names=FALSE)
 cat("\nFeatured nodes:\n")
 print(nvv[nvv$node %in% c("COL1A1","COL3A1","NFKB1","RELA","SP1","ETS1","VEGFA","EZH2","TP53","MYC",
-   "hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-101","hsa-let-7b","hsa-let-7e","hsa-miR-130a",
+   "hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-101","hsa-let-7b","hsa-let-7e",
    "hsa-miR-145","hsa-miR-200c","hsa-miR-124"), c("node","type","n","rho_vs_CAF_score","p_vs_CAF","fdr_vs_CAF","rho_vs_epithelial_score")], row.names=FALSE)
 saveRDS(list(s_gene=s_gene, s_both=s_both), paste0(CACHE,"ct06_samples.rds"))

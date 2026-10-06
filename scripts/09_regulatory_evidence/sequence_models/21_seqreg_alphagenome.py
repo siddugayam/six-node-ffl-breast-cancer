@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """21_seqreg_alphagenome.py -- AlphaGenome (Google DeepMind, 2025) sequence-to-function
-predictions at the COL1A1 / COL3A1 / miR-29 / miR-130a loci.
+predictions at the COL1A1 / COL3A1 / miR-29 loci.
 
 STATUS: NOT RUN -- no API key was obtainable without the account holder
 signing in to a Google account and accepting the AlphaGenome Terms of Service (see the
@@ -14,17 +14,10 @@ Queries implemented:
  (i)   predicted chromatin accessibility (DNASE/ATAC), histone marks, TF binding (CHIP_TF)
        and expression (RNA_SEQ/CAGE) over COL1A1 and COL3A1, with the CHIP_TF tracks ranked
        so that NFKB1/RELA/SP1/ETS1 can be compared against the full predicted factor set;
- (ii)  the same for the miR-29a/b-1 (chr7q32), miR-29b-2/c (chr1q32) and miR-130a (chr11q12)
-       loci, plus their host-gene promoters (LINC-PINT / MIR29B2CHG / MIR130AHG);
- (iii) AlphaGenome takes DNA sequence only and has NO DNA-methylation input or output head,
-       so "predicted effect of promoter methylation on miR-130a expression" CANNOT be asked
-       of it directly. The nearest supported query -- implemented here -- is (a) predicted
-       H3K27me3/H3K9me3/H3K4me3 and accessibility at the MIR130A/MIR130AHG promoter, and
-       (b) in-silico saturation of the CpG-island core by C->T transitions, scored with the
-       gene-mask LFC scorer, which asks whether the model believes that sequence is
-       load-bearing for MIR130AHG expression.
+ (ii)  the same for the miR-29a/b-1 (chr7q32) and miR-29b-2/c (chr1q32) loci, plus their
+       host-gene promoters (LINC-PINT / MIR29B2CHG).
 """
-import os, sys, json
+import os, sys
 import numpy as np, pandas as pd
 
 ROOT="/path/to/revision"
@@ -34,7 +27,7 @@ if not KEY:
     sys.exit("ALPHAGENOME_API_KEY not set -- see results/v3/seqreg_alphagenome_access.csv")
 
 from alphagenome.data import genome
-from alphagenome.models import dna_client, variant_scorers
+from alphagenome.models import dna_client
 
 model = dna_client.create(KEY)
 SEQLEN = dna_client.SEQUENCE_LENGTH_500KB      # 524,288 bp
@@ -74,29 +67,4 @@ for _,r in reg.iterrows():
                              locus_max=float(v[:,j].max())))
     print("done", r.region, flush=True)
 pd.DataFrame(rows).to_csv(f"{RES}/seqreg_alphagenome_tracks.csv.gz", index=False, compression="gzip")
-
-# (iii) in-silico C->T saturation of the MIR130A CpG island core
-cpg=pd.read_csv(f"{RES}/seqreg_cpg_islands.csv")
-isl=cpg[(cpg.region=="MIR130AHG")].sort_values("dist_to_anchor", key=abs).head(1)
-if len(isl):
-    ch=isl.chrom.iloc[0]; s=int(isl.start.iloc[0]); e=int(isl.end.iloc[0])
-    scorer=[variant_scorers.GeneMaskLFCScorer(requested_output=dna_client.OutputType.RNA_SEQ)]
-    recs=[]
-    import pyfaidx
-    fa=pyfaidx.Fasta(f"{ROOT}/cache/seqreg/genome/hg38.fa", as_raw=True, sequence_always_upper=True)
-    seq=str(fa[ch][s:e])
-    centre=(s+e)//2
-    iv=genome.Interval(chromosome=ch, start=centre-SEQLEN//2, end=centre+SEQLEN//2)
-    for i,base in enumerate(seq):
-        if base!='C': continue
-        pos=s+i+1
-        var=genome.Variant(chromosome=ch, position=pos, reference_bases='C', alternate_bases='T')
-        try:
-            sc=model.score_variant(interval=iv, variant=var, variant_scorers=scorer)
-        except Exception as ex:
-            recs.append(dict(pos=pos, error=str(ex))); continue
-        for ad in sc:
-            df=ad.to_df() if hasattr(ad,'to_df') else None
-            recs.append(dict(pos=pos, payload=json.dumps(ad.var.to_dict() if hasattr(ad,'var') else {})[:500]))
-    pd.DataFrame(recs).to_csv(f"{RES}/seqreg_alphagenome_mir130a_cpg_ism.csv", index=False)
 print("AlphaGenome run complete")

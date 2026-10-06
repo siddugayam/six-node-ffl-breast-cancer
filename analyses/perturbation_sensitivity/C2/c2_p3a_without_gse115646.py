@@ -13,7 +13,7 @@ R = R[np.isfinite(R['shift']) & np.isfinite(R['se']) & (R['se'] > 0)]
 drop = R.gse == 'GSE115646'
 X = R[~drop]
 X.rename(columns={'tier': 'group', 'shift': 'yi', 'se': 'sei'})[['group', 'yi', 'sei']].to_csv(f'{HERE}/c2_pool_in.tsv', sep='\t', index=False)
-subprocess.run(['Rscript', f'{INB}/_rma.R', f'{HERE}/c2_pool_in.tsv', f'{HERE}/c2_pooled.tsv'], check=True)
+subprocess.run(['Rscript', f'{INB}/../perturbation_tests/_rma.R', f'{HERE}/c2_pool_in.tsv', f'{HERE}/c2_pooled.tsv'], check=True)
 PT = pd.read_csv(f'{HERE}/c2_pooled.tsv', sep='\t'); P0 = pd.read_csv(f'{SRC}/p3a_pooled.tsv', sep='\t')
 L = []; P = L.append
 for tier in ('strong', 'weak', 'predicted_only'):

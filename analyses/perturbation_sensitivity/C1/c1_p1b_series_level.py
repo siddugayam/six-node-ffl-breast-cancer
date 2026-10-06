@@ -23,7 +23,7 @@ for lab, y, s, _ in OUT:
         rows.append(r); mr.append(dict(group=lab, yi=r['yi'], sei=r['sei'], mod=1 if cls == 'fibroblast lineage' else 0))
 S = pd.DataFrame(rows); S.to_csv(f'{HERE}/c1_series_values.tsv', sep='\t', index=False)
 pd.DataFrame(mr).to_csv(f'{HERE}/c1_mr_in.tsv', sep='\t', index=False)
-subprocess.run(['Rscript', f'{INB}/_rma.R', f'{HERE}/c1_mr_in.tsv', f'{HERE}/c1_meta_regression.tsv'], check=True)
+subprocess.run(['Rscript', f'{INB}/../perturbation_tests/_rma.R', f'{HERE}/c1_mr_in.tsv', f'{HERE}/c1_meta_regression.tsv'], check=True)
 MR = pd.read_csv(f'{HERE}/c1_meta_regression.tsv', sep='\t')
 M0 = pd.read_csv(f'{SRC}/p1b_meta_regression.tsv', sep='\t')
 L = []; P = L.append

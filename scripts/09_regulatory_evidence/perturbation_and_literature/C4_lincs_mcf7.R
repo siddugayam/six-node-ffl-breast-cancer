@@ -1,4 +1,6 @@
 #!/usr/bin/env Rscript
+# LINCS transcription-factor perturbation signatures in breast cancer cell lines: change of COL1A1 and COL3A1
+# per TF and perturbation type; writes results/multiomics/lincs_TF_collagen_breastlines.csv.
 suppressPackageStartupMessages({library(data.table)})
 OUT <- "/path/to/revision/results/multiomics"
 msg <- function(...) cat(format(Sys.time(),"%H:%M:%S"),"|",...,"\n")

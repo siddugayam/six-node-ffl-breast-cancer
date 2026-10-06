@@ -46,8 +46,8 @@ if os.path.exists(utr_zip):
             p = line.rstrip('\n').split('\t')
             if len(p) >= 5 and p[3] == '9606': lens[p[2]] = max(lens.get(p[2], 0), len(p[4].replace('-', '')))
     UTRL = pd.Series(lens)
-names = open(f'{INB}/../analyses/six_node_pattern/S1/node_names.txt').read().split('\n')
-BH = pd.read_csv(f'{INB}/../analyses/six_node_pattern/S1/obs/nolegacy_bhat6_composite_instances.tsv', sep='\t', header=None, names=['m1', 'm2', 't1', 't2', 'g1', 'g2'])
+names = open(f'{REV}/analyses/six_node_pattern/S1/node_names.txt').read().split('\n')
+BH = pd.read_csv(f'{REV}/analyses/six_node_pattern/S1/obs/nolegacy_bhat6_composite_instances.tsv', sep='\t', header=None, names=['m1', 'm2', 't1', 't2', 'g1', 'g2'])
 for c in BH.columns: BH[c] = BH[c].map(lambda i: names[i])
 def dmed(a, b, key=''):
     rng = rng_for(key)

@@ -2,7 +2,7 @@
 ## 29_correlations.R
 ## (B) pairwise Spearman correlation matrix between every fibroblast/stromal estimate
 ## (D) correlation of every cell-type fraction from every method with COL1A1, COL3A1
-##     and the miR-29 family (and, for context, ETS1/NFKB1 and miR-130a)
+##     and the miR-29 family (and, for context, ETS1/NFKB1)
 suppressPackageStartupMessages({library(data.table); library(matrixStats)})
 BASE <- "/path/to/revision"
 LOG  <- file.path(BASE, "logs/v3/29_correlations.log"); cat("", file = LOG)
@@ -53,7 +53,7 @@ fwrite(data.table(estimate = names(ct), cluster = as.integer(ct)),
 
 ## ------------------------------------------------------------------- (D) ------------
 TARG_G <- c("COL1A1","COL3A1","COL1A2","FN1","ACTA2","FAP","PDGFRB","ETS1","NFKB1","SP1","RELA","EPCAM","PTPRC","ESR1")
-TARG_M <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c","hsa-miR-130a")
+TARG_M <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c")
 mir29  <- colMeans(mexp[c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c"), SB, drop = FALSE])
 CFV <- readRDS(file.path(BASE, "cache/v3/deconv/fibroblast_estimates_collagenfree.rds"))
 long <- rbind(long, data.table(method = "collagen_free",
@@ -86,7 +86,7 @@ res[, feature := NULL]
 setorder(res, target, -rho)
 fwrite(res, file.path(BASE, "results/v3/deconv_celltype_target_correlations.csv"))
 logf("WROTE deconv_celltype_target_correlations.csv rows = ", nrow(res))
-for (tg in c("COL1A1","COL3A1","miR-29 family (mean)","hsa-miR-29a","hsa-miR-130a")) {
+for (tg in c("COL1A1","COL3A1","miR-29 family (mean)","hsa-miR-29a")) {
   s <- res[target == tg][order(-rho)]
   logf("\n--- ", tg, " : top 12 positively correlated cell-type estimates ---")
   for (i in 1:12) logf(sprintf("  %+.3f (FDR %8.2g)  %s :: %s", s$rho[i], s$fdr[i], s$method[i], s$cell_feature[i]))

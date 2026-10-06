@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# v4/06 -- Figures: dot plots, enrichment curves, ridge plots, FFL-class NES, positive control
+# v4/06 -- Figures: dot plots, enrichment curves, ridge plots, FFL-class NES
 suppressPackageStartupMessages({
   library(fgsea); library(data.table); library(ggplot2); library(ggridges)
   library(patchwork); library(cowplot)
@@ -13,13 +13,11 @@ theme_set(theme_bw(base_size = 9))
 
 sets <- readRDS(file.path(CACHE, "genesets.rds"))
 A    <- fread(file.path(RES, "gsea_all_results.csv"))
-LISTS <- c("tumour_vs_normal", "mir130a_corr", "mir29a_corr",
-           "ffl_signed_influence", "mir130a_high_vs_low")
+LISTS <- c("tumour_vs_normal", "mir29a_corr",
+           "ffl_signed_influence")
 NICE <- c(tumour_vs_normal = "Tumour vs normal (limma t)",
-          mir130a_corr = "Gene ~ miR-130a-3p (Spearman rho)",
           mir29a_corr = "Gene ~ miR-29a-3p (Spearman rho)",
-          ffl_signed_influence = "FFL signed influence",
-          mir130a_high_vs_low = "miR-130a high vs low tertile (limma t)")
+          ffl_signed_influence = "FFL signed influence")
 PRIMARY <- c("H", "C2_CP_KEGG", "C2_CP_REACTOME", "C6")
 
 read_rank <- function(tag) {
@@ -132,31 +130,6 @@ ggsave(file.path(FIG, "fig_gsea_ffl_class_enrichment.png"), pp, width = 10.5, he
 ggsave(file.path(FIG, "fig_gsea_ffl_class_enrichment.pdf"), pp, width = 10.5, height = 5.6)
 msg("FFL class figures written")
 
-## ================= miR-130a positive control ================================
-ctrl <- data.table(
-  set = c("TTGCACT_MIR130A_MIR301_MIR130B", "MIR130A_3P",
-          "TTGCACT_MIR130A_MIR301_MIR130B", "MIR130A_3P"),
-  cl  = c("C3_MIR_LEGACY", "C3_MIR_MIRDB", "C3_MIR_LEGACY", "C3_MIR_MIRDB"),
-  rl  = c("mir130a_high_vs_low", "mir130a_high_vs_low", "mir130a_corr", "mir130a_corr"))
-pl <- lapply(seq_len(nrow(ctrl)), function(i) {
-  st <- read_rank(ctrl$rl[i])
-  row <- A[ranked_list == ctrl$rl[i] & collection == ctrl$cl[i] & pathway == ctrl$set[i]]
-  plotEnrichment(sets[[ctrl$cl[i]]][[ctrl$set[i]]], st) +
-    labs(title = paste0(short(ctrl$set[i], 40), "\n", NICE[[ctrl$rl[i]]]),
-         subtitle = if (nrow(row)) sprintf("NES %.2f | p %.3g | FDR %.3g | size %d",
-                                           row$NES, row$pval, row$padj, row$size) else "not tested",
-         x = "rank", y = "ES") +
-    theme(plot.title = element_text(size = 7.5, face = "bold"), plot.subtitle = element_text(size = 6.5))
-})
-pp <- wrap_plots(pl, ncol = 2) +
-  plot_annotation(title = "Internal positive control: miR-130a seed-family target sets",
-                  subtitle = "Expect DEPLETION (negative NES) where miR-130a is high, i.e. targets shift to the low-expression end",
-                  theme = theme(plot.title = element_text(face = "bold", size = 11),
-                                plot.subtitle = element_text(size = 8)))
-ggsave(file.path(FIG, "fig_gsea_mir130a_positive_control.png"), pp, width = 8.2, height = 6.2, dpi = 300)
-ggsave(file.path(FIG, "fig_gsea_mir130a_positive_control.pdf"), pp, width = 8.2, height = 6.2)
-msg("positive-control figure written")
-
 ## ================= Hallmark NES heatmap across lists ========================
 hh <- A[collection == "H"]
 hm <- dcast(hh, pathway ~ ranked_list, value.var = "NES")
@@ -171,7 +144,7 @@ ph <- ggplot(mh, aes(ranked_list, pathway, fill = NES)) +
   geom_tile(colour = "white", linewidth = 0.25) +
   geom_text(aes(label = ifelse(!is.na(padj) & padj < 0.05, "*", "")), size = 2.4, vjust = 0.75) +
   scale_fill_gradient2(low = "#2166AC", mid = "white", high = "#B2182B", midpoint = 0, na.value = "grey93") +
-  labs(x = NULL, y = NULL, title = "Hallmark NES across all five ranked lists",
+  labs(x = NULL, y = NULL, title = "Hallmark NES across all three ranked lists",
        subtitle = "* FDR < 0.05 (BH within collection)") +
   theme(axis.text.x = element_text(angle = 25, hjust = 1, size = 7),
         axis.text.y = element_text(size = 6), plot.title = element_text(face = "bold"))
@@ -186,7 +159,7 @@ pg <- ggplot(tp, aes(n_sets_total, gene, fill = factor(n_ranked_lists))) +
   geom_col(width = 0.75) +
   scale_fill_brewer(palette = "YlOrRd", name = "ranked lists\ndriven") +
   labs(x = "number of significant gene sets whose leading edge contains this gene",
-       y = NULL, title = "Genes driving the most signatures across all five ranked lists",
+       y = NULL, title = "Genes driving the most signatures across all three ranked lists",
        subtitle = "Leading-edge recurrence (FDR<0.05 sets, MSigDB collections only)") +
   theme(axis.text.y = element_text(size = 6.5), plot.title = element_text(face = "bold"))
 ggsave(file.path(FIG, "fig_gsea_leadingedge_recurrence.png"), pg, width = 8, height = 7.2, dpi = 300)

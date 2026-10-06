@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-## PART 1C) Does a miR-29 target score, a miR-130a target score or a collagen score
+## PART 1C) Does a miR-29 target score or a collagen score
 ## predict sensitivity to any compound class in BREAST cell lines?
 ## Two independent resources: PRISM Repurposing 19Q4 secondary screen (AUC) and
 ## GDSC2 (LN_IC50).  Spearman association per compound, BH-corrected within resource.
@@ -10,7 +10,7 @@ OUT <- file.path(REV,"results/v3"); CA <- file.path(REV,"cache/v7")
 msg <- function(...) cat(format(Sys.time(),"%H:%M:%S"),"|",...,"\n")
 
 S <- fread(file.path(OUT,"screens_celline_module_scores.csv"))
-scores <- c("COLLAGEN","MIR29_TARGET","MIR130A_TARGET","MIR29_STRONG","MIR130A_STRONG")
+scores <- c("COLLAGEN","MIR29_TARGET","MIR29_STRONG")
 msg("breast lines with module scores:", nrow(S))
 
 ## ---------------- PRISM ----------------

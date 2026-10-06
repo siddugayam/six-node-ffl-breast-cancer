@@ -4,13 +4,13 @@ suppressPackageStartupMessages({library(metafor); library(data.table)})
 setwd("/path/to/revision")
 OUT <- "results/v6"; B <- "cache/v6/cohorts/built"
 TARGETS <- c("miR-21","miR-195","miR-204","miR-383","miR-124","miR-155","miR-429",
-             "miR-141","miR-34a","miR-101","miR-130a","miR-29a")
+             "miR-141","miR-34a","miR-101","miR-29a")
 RX <- c("miR-21"="^hsa-mir-21(-[0-9])?(-[35]p)?$","miR-195"="^hsa-mir-195(-[35]p)?$",
         "miR-204"="^hsa-mir-204(-[35]p)?$","miR-383"="^hsa-mir-383(-[35]p)?$",
         "miR-124"="^hsa-mir-124a?(-[123])?(-[35]p)?$","miR-155"="^hsa-mir-155(-[35]p)?$",
         "miR-429"="^hsa-mir-429(-[35]p)?$","miR-141"="^hsa-mir-141(-[35]p)?$",
         "miR-34a"="^hsa-mir-34a(-[35]p)?$","miR-101"="^hsa-mir-101(-[12])?(-[35]p)?$",
-        "miR-130a"="^hsa-mir-130a(-[35]p)?$","miR-29a"="^hsa-mir-29a(-[35]p)?$")
+        "miR-29a"="^hsa-mir-29a(-[35]p)?$")
 pick <- function(M,tgt){ rn<-rownames(M); nm<-tolower(gsub("miR","mir",rn))
   star<-grepl("\\*",nm); nm2<-gsub("\\*","",nm)
   hit<-which(grepl(RX[[tgt]],nm2)&!star); if(!length(hit)) hit<-which(grepl(RX[[tgt]],nm2))

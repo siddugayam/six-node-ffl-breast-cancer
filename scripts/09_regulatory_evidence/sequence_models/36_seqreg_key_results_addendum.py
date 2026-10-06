@@ -35,7 +35,7 @@ for _,r in C.iterrows():
 
 # BH-corrected ReMap
 RM=pd.read_csv(f"{RES}/seqreg_remap_promoter_tfs_calibrated.csv")
-for reg in ["COL1A1","COL3A1","LINC_PINT_prox","MIR29B2CHG","MIR130AHG","MIR130A","MIR29A","MIR29B1"]:
+for reg in ["COL1A1","COL3A1","LINC_PINT_prox","MIR29B2CHG","MIR29A","MIR29B1"]:
     s=RM[RM.region==reg]
     sig=s[s.BH_q<0.25].sort_values("BH_q")
     add("C_ReMap_BH", f"{reg} promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), "

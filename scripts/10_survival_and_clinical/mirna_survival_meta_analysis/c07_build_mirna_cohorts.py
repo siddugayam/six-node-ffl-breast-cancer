@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Parse GEO series matrices for breast-cancer miRNA cohorts, map probes to the
-12 target miRNAs, extract clinical/outcome, and write tidy per-cohort CSVs."""
+11 target miRNAs, extract clinical/outcome, and write tidy per-cohort CSVs."""
 import gzip, os, re, sys, csv, json, math
 import numpy as np
 
@@ -20,7 +20,6 @@ TARGETS = {
  "miR-141":  r"^hsa-mir-141(-[35]p)?\*?$",
  "miR-34a":  r"^hsa-mir-34a(-[35]p)?\*?$",
  "miR-101":  r"^hsa-mir-101(-[12])?(-[35]p)?\*?$",
- "miR-130a": r"^hsa-mir-130a(-[35]p)?\*?$",
  "miR-29a":  r"^hsa-mir-29a(-[35]p)?\*?$",
 }
 TRE={k:re.compile(v,re.I) for k,v in TARGETS.items()}

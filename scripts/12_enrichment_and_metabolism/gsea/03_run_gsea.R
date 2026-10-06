@@ -15,8 +15,8 @@ sets <- readRDS(file.path(CACHE, "genesets.rds"))
 inv  <- fread(file.path(RES, "gsea_geneset_inventory.csv"))
 lab  <- setNames(inv$label, inv$collection)
 
-LISTS <- c("tumour_vs_normal", "mir130a_corr", "mir29a_corr",
-           "ffl_signed_influence", "mir130a_high_vs_low")
+LISTS <- c("tumour_vs_normal", "mir29a_corr",
+           "ffl_signed_influence")
 
 read_rank <- function(tag) {
   d <- fread(file.path(RES, paste0("rank_", tag, ".csv")))

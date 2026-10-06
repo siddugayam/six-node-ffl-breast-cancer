@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """22_seqreg_enformer.py -- Enformer (Avsec et al. 2021) sequence-to-function predictions
-at the COL1A1 / COL3A1 / miR-29 / miR-130a loci (hg38), with a genome-wide promoter
+at the COL1A1 / COL3A1 / miR-29 loci (hg38), with a genome-wide promoter
 background so that every statement is a calibrated percentile rather than a raw number.
 
 Model: EleutherAI/enformer-official-rough (the official Enformer weights ported to PyTorch).

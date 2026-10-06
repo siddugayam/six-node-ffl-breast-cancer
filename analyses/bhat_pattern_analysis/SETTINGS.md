@@ -1,9 +1,9 @@
-# analyses/bhat_pattern_analysis: the twelve Bhat FFL networks, analysed with the paper's settings (report only)
+# analyses/bhat_pattern_analysis: the twelve Bhat FFL networks, analysed with the paper's settings
 
-**The request.** Run each of the paper's analyses on the twelve FFL networks of `DEPOSIT_ffl_networks_2026-09-28.zip`
-(md5 182a1629…) and report the result beside the paper's value. The networks are three classes (miRNA-FFL, TF-FFL,
-composite FFL) at three to six nodes, following Bhat et al. (2024) on the census graph. Nothing goes into the
-manuscript.
+**Aim.** Run each of the paper's analyses on the twelve FFL networks of `data/ffl_networks/` and report the result
+beside the paper's value. The networks are three classes (miRNA-FFL, TF-FFL,
+composite FFL) at three to six nodes, following Bhat et al. (2024) on the census graph. Supplementary Note S2 reports the
+results.
 
 **When settings were fixed.** Each section below was written before its analysis was run, and carries the time it was
 written. A change made after seeing a result is logged under "Changes", with both versions reported. Analyses added
@@ -660,4 +660,3 @@ current text may word it differently.
     counts are given: instances compatible with the configuration (an unsigned arc matches either sign), and
     instances with exactly its signs.
   - **Everything else is as written above.** The nested check gates the runs, and the verdict rule is unchanged.
-  - **Handover files**, next to the zip and not in it: a status file and a reply note.

@@ -1,3 +1,5 @@
+# Prints the headline results of the external-cohort replication from results/v2/newcohorts_*.csv (cohort
+# inventory, direction concordance of hubs and edges, meta-analysis).
 options(width=250)
 setwd("/path/to/revision")
 OUT <- "results/v2"

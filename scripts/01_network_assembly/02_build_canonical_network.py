@@ -40,7 +40,7 @@ def is_mir(n):
 
 # ------------------------------------------------- canonical miRNA naming
 def canon(n):
-    """hsa-mir-130a -> hsa-miR-130a ; hsa-let-7a stays ; genes untouched."""
+    """hsa-mir-29a -> hsa-miR-29a ; hsa-let-7a stays ; genes untouched."""
     if not is_mir(n):
         return n
     m = re.match(r'^hsa-(mir|miR)-(.+)$', n)

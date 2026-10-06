@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""E5(b) nulls: NULL-A, NULL-B, NULL-C (scripts/04_motif_significance/v2_null.c, 1,000 randomisations, seed 20250908,
+"""E5(b) nulls: NULL-A, NULL-B, NULL-C (analyses/census_and_motif_nulls/nulls/v2_null.c, 1,000 randomisations, seed 20250908,
 100 swaps per edge) on the analysed network (6,829 edges) with the 22 non-Lambert TF-typed nodes re-typed
 as genes (null_dep_nolegacy_retyped22.txt: node-type line changed, fine classes recomputed), against the
 stored original-typing runs analyses/census_and_motif_nulls/nulls/null_{A,B,C}_dep_nolegacy.tsv."""

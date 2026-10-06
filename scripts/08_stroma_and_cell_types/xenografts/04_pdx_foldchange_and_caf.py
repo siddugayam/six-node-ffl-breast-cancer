@@ -18,13 +18,13 @@ CACHE=f"{BASE}/cache/v6/pdx"; RES=f"{BASE}/results/v6"
 sym2ent=json.load(open(f"{CACHE}/gene_symbol_entrez.json"))
 ent2sym={}
 for s,e in sym2ent.items(): ent2sym.setdefault(e,s)
-meta=json.load(open("/tmp/pdmr_breast_meta.json"))
+meta=json.load(open("/path/to/scratch/pdmr_breast_meta.json"))
 long=pd.read_csv(f"{CACHE}/pdmr_breast_expr_long.tsv", sep="\t")
 W=long.pivot_table(index="sampleId", columns="entrezGeneId", values="value", aggfunc="mean")
 W.columns=[ent2sym.get(c,str(c)) for c in W.columns]
 W=W.loc[:,~pd.Index(W.columns).duplicated()]
 
-ref=json.load(open("/tmp/ref_panel_entrez.json"))
+ref=json.load(open("/path/to/scratch/ref_panel_entrez.json"))
 TARGET=["COL1A1","COL3A1","FN1","PDGFRB","CXCL12","POSTN","MMP14","PLAU","MET","STAT5A",
         "CCND2","MYBL2","E2F1","E2F3","EZH2","DNMT1","BRCA1","GATA3","ESR1","JUN","EGR2","SREBF1",
         "NFKB1","ETS1","EPCAM","KRT8","KRT18","KRT19","ERBB2","PTPRC","PECAM1","ACTA2","DCN","LUM",

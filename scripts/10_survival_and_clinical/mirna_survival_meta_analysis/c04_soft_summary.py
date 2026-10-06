@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Screens the GEO SOFT descriptions in cache/v6/cohorts/soft/ for outcome annotation (survival, relapse,
+# response) and prints a summary for each series.
 import os, re, sys, json, collections
 CACHE="/path/to/revision/cache/v6/cohorts/soft"
 OUTCOME_RE=re.compile(r"surviv|dfs|rfs|\bos\b|relapse|recur|event|follow.?up|death|dead|alive|"

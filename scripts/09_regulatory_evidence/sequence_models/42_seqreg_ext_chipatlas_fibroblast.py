@@ -151,7 +151,7 @@ frows = []
 for ag in FOCUS:
     ne = int(n_exp.get(ag, 0))
     for rg in ["COL1A1", "COL3A1", "MIR29A", "MIR29B1", "MIR29C", "MIR29B2",
-               "MIR130A", "MIR130AHG", "MIR29B2CHG", "LINC_PINT_prox"]:
+               "MIR29B2CHG", "LINC_PINT_prox"]:
         for w in WINDOWS:
             g = hits[(hits.antigen == ag) & (hits.region == rg) & (hits.window == w)]
             frows.append(dict(antigen=ag, region=rg, window=w,

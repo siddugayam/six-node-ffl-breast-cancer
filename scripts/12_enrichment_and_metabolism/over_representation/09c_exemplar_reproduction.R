@@ -1,3 +1,6 @@
+# GO enrichment (cellular component and biological process) of the five protein-coding members of the six-node
+# exemplar circuit against the tested universe, as reported in the original submission; counts the terms
+# supported by fewer than three genes.
 suppressPackageStartupMessages({library(clusterProfiler);library(org.Hs.eg.db);library(data.table);library(AnnotationDbi)})
 REV<-"/path/to/revision"
 de<-fread(file.path(REV,"results/BRCA_DEX_genes.csv")); nodes<-fread(file.path(REV,"data/canonical_nodes.tsv"))

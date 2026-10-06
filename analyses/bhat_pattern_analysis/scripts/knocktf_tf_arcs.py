@@ -106,7 +106,7 @@ def main(root, netdir, sifdir, p3b, kcache, out):
     PT = pd.DataFrame()
     if len(pin):
         pin.to_csv(os.path.join(out, 'A4_pool_in.tsv'), sep='\t', index=False)
-        subprocess.run(['Rscript', os.path.join(HERE, 'rma_pool.R'), os.path.join(out, 'A4_pool_in.tsv'), os.path.join(out, 'A4_pooled.tsv')], check=True)
+        subprocess.run(['Rscript', os.path.join(HERE, '..', '..', 'perturbation_tests', '_rma.R'), os.path.join(out, 'A4_pool_in.tsv'), os.path.join(out, 'A4_pooled.tsv')], check=True)
         PT = pd.read_csv(os.path.join(out, 'A4_pooled.tsv'), sep='\t')
     dec = []
     for s, es in SETS.items():

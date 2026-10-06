@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""28c -- Benjamini-Hochberg correction of the focus-motif calibration (25 motifs x 10 promoters
-= 250 tests), plus a note of which called sites are the same genomic site detected by several
+"""28c -- Benjamini-Hochberg correction of the focus-motif calibration (25 motifs x 8 promoters
+= 200 tests), plus a note of which called sites are the same genomic site detected by several
 matrices (they are not independent tests)."""
 import pandas as pd, numpy as np
 from scipy.stats import false_discovery_control

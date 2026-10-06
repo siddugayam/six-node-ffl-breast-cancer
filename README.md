@@ -37,7 +37,9 @@ Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 
 ## Start here
 
-1. **Install:** `pip install -r requirements.txt` and `Rscript install_r_packages.R` (details in [`docs/software/`](docs/software)).
+1. **Install and set up:** `pip install -r requirements.txt` and `Rscript install_r_packages.R` (details in
+   [`docs/software/`](docs/software)), then `python3 set_root.py`, which points every script at this folder and links
+   the network files where the scripts read them (`python3 set_root.py --undo` reverses it).
 2. **Explore:** [`ANALYSIS_GUIDE.ipynb`](ANALYSIS_GUIDE.ipynb) follows the paper section by section. For each analysis it
    names the scripts and loads the file behind each reported number. It reads only files in this repository and needs
    only pandas.
@@ -105,12 +107,19 @@ the versions used (CRAN, Bioconductor, CRAN archive and GitHub; the full list is
 Command-line tools used by some scripts: gcc and g++, bedtools, bigBedToBed (UCSC) and curl. The Enformer and Borzoi
 steps need an NVIDIA GPU; they ran on an RTX A4000 (16 GB).
 
-Scripts use absolute paths under the original analysis root, shown as the placeholder `/path/to/revision`. Set it to
-the root of this repository: `scripts/`, `results/` and `analyses/` then resolve as they are here. The network files
-that the scripts read from `data/` are in `data/network/`, and a few scripts read raw inputs from sibling folders of
-the project, shown as `/path/to/home/Desktop/DD/R_GPR/`. Random seeds are fixed in the scripts, and randomisation and
-bootstrap procedures use 1,000 iterations unless stated otherwise. The NCBI E-utilities scripts need your own e-mail
-address in place of `your.email@example.org`.
+Scripts address the analysis root as `/path/to/revision`. `python3 set_root.py` replaces it with the path of this
+repository, so that `scripts/`, `results/` and `analyses/` resolve as they are here, and links the network files of
+`data/network/` into `data/`, where the scripts read them. Three other placeholders mark locations outside the
+repository that you set yourself: `/path/to/home/Desktop/DD/R_GPR/` (raw inputs of the first analysis round),
+`/path/to/scratch` (a working folder for downloads and intermediate files) and `/path/to/home/bin/bigBedToBed` (the UCSC
+bigBedToBed program). Four deconvolution scripts load packages from a separate R library, `~/Rlib_deconv2`, which keeps
+their versions apart from the main library. Random seeds are fixed in the scripts, and randomisation and bootstrap
+procedures use 1,000 iterations unless stated otherwise. The NCBI E-utilities scripts need your own e-mail address in
+place of `your.email@example.org`.
+
+Each folder README lists every script of the folder with one line on what it does. Within a folder, scripts run in
+the order of their numbers unless the README says otherwise. [`docs/PAPER_MAP.md`](docs/PAPER_MAP.md) gives, for each
+figure, table and Results section, the scripts behind it and the files they wrote.
 
 </details>
 
@@ -124,8 +133,7 @@ The C programs are given as source. Build each with gcc:
 | Program | Command |
 |---|---|
 | `scripts/03_ffl_census/ffl_enum.c`, `ffl_enum2.c` | `gcc -O3 -march=native -fopenmp` (the build line in each file) |
-| `scripts/03_ffl_census/R5_census.c`, `v2_census.c`, `v2_census2.c`, `v2_census3.c` | `gcc -O2 -o <name> <name>.c -lm` |
-| `scripts/04_motif_significance/v2_null.c` | `gcc -O2` (the same program as `analyses/census_and_motif_nulls/nulls/v2_null.c`) |
+| `scripts/03_ffl_census/reconcile_05_census_greedy_vs_maxflow.c`, `census_09_esu_classmask.c` | `gcc -O2 -o <name> <name>.c -lm` |
 | `analyses/census_and_motif_nulls/census/ffl_census_composition.c` and `nulls/v2_null.c` | in `analyses/census_and_motif_nulls/run_all.sh` (`gcc -O3 -march=native` and `gcc -O2`) |
 | `analyses/six_node_pattern/S7/v2_null.c` | `gcc -O2` |
 | `analyses/six_node_pattern/S7/ffl_census_composition.c` | `gcc -O3 -march=native` |
@@ -149,7 +157,15 @@ derived results are deposited. To re-run the scripts, download:
 - NCI Patient-Derived Models Repository: https://pdmr.cancer.gov. 10x Genomics public Visium breast sections.
 - GWAS Catalog (v1.0.2, GRCh38): https://www.ebi.ac.uk/gwas.
 - Interaction and gene-disease resources: DisGeNET v7.0, GeneCards, miRTarBase v9.0, miRWalk v3, TarBase, miRecords (via multiMiR), TRRUST v2, TransmiR v2.0, hTFtarget, TcoF-DB v2, dbCoRC, STRING v12, HMDD v4.0, miR2Disease, PhenomiR 2.0, miRBase v22.
+- TCGA-derived resources: MC3 mutation calls, ABSOLUTE purity, the immune estimates of Thorsson et al., TCGA-BRCA ATAC-seq (Genomic Data Commons); MET500 and the pan-cancer matrices (UCSC Xena); the CIBERSORT LM22 signature matrix.
+- Regulatory annotation: ENCODE ATAC-seq and DNase-seq, ReMap 2022, ChIP-Atlas, JASPAR 2024, HOCOMOCO v11, FANTOM5, GENCODE, GTEx v8 eQTLs, KnockTF 2.0 and LINCS signatures.
+- Gene sets and drug–gene interactions: MSigDB (through msigdbr), Enrichr libraries, DGIdb.
+- Single-cell, cohort and miRNA atlases: the Human Breast Cell Atlas, SCAN-B (GSE96058) and the microRNAome.
+- Cell-line screens: GDSC2, PRISM, Project Score and BioGRID ORCS.
 - OncoKB and COSMIC gene lists (licensed; not included).
+
+The scripts keep these downloads under `data/` (`depmap/`, `depmap24q4/`, `hpa/`, `gwas/`, `deconv/`, `ccle/`, `atac/`,
+`brca_clinicalMatrix.tsv`, `CCLE_rnaseq_tpm.txt.gz`) and `cache/`.
 
 Not deposited from the analysis root:
 
@@ -157,7 +173,8 @@ Not deposited from the analysis root:
   `scripts/07_expression_validation/tcga_differential_expression/01_tcga_brca_prep_de.R` and `scripts/10_survival_and_clinical/cox_models/10_survival_cox_hubs.R`.
 - `data/ffl_module_sets.rds`: built by `scripts/03_ffl_census/11_ffl_module_membership.R`.
 - `data/db/`: the TRRUST v2 and TransmiR v2.0 downloads.
-- `cache/`: public downloads. These are the STRING v12 protein aliases and information files for human (9606); the
+- `cache/`: public downloads, and intermediate files that the scripts write and read back (they are recreated when the
+  scripts of a folder run in order). The downloads are the STRING v12 protein aliases and information files for human (9606); the
   TargetScan 8.0 miRNA family file (`miR_Family_Info.txt`); and, for the sequence-model tests, 600-kb hg38 windows around
   *COL1A1* and *COL3A1*, the Enformer and Borzoi target tables, UCSC RefSeq Select and the Borzoi weights (Hugging Face
   `johahi/borzoi-replicate-0` to `-3`). The exception is `string_symbol_map_exact.tsv`, which is in `data/network/`.

@@ -4,9 +4,9 @@
 Census format (for ffl_census_composition.c), built with the census scripts' own build_graph():
   table3             scripts/03_ffl_census/03_ffl_census.py                       (legacy miRNA-miRNA arcs kept, STRING kept)
   nolegacy           scripts/03_ffl_census/03_ffl_census_nolegacymirna.py      (legacy dropped, STRING kept)
-  table3_nostring    table3 minus STRING arcs (definition of scripts/03_ffl_census/R9_no_string_census.py)
+  table3_nostring    table3 minus STRING arcs (definition of scripts/03_ffl_census/reconcile_09_no_string_census.py)
   nolegacy_nostring  nolegacy minus STRING arcs
-Null format (for scripts/04_motif_significance/v2_null.c), made by deleting lines from the v2 input files so that the
+Null format (for analyses/census_and_motif_nulls/nulls/v2_null.c), made by deleting lines from the v2 input files so that the
 order of the remaining arcs, and hence the random stream, is unchanged:
   dep, pub                     = results/v2/orig_dep.txt, orig_pub.txt (copied unchanged)
   dep_nolegacy                 = orig_dep minus the 30 canonical miRNA_miRNA edges

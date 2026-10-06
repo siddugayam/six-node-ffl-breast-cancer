@@ -3,16 +3,11 @@
 
 Re-verification and EXTENSION of the AlphaGenome access record.
 
-Everything written here was observed directly. Two facts are new relative to the
-first pass:
-  (1) AlphaGenome MODEL WEIGHTS are now publicly released (Jan 2026) on HuggingFace and
-      Kaggle, so there is a second, keyless route that the first pass did not record. The
-      official Google repos are GATED ("gated": "auto"), i.e. they require a HuggingFace
-      account and acceptance of the AlphaGenome Model Terms -- an account-holder action.
-  (2) The AlphaGenome output modality list, read directly from the installed official
-      client, contains NO DNA-METHYLATION head. Task query (iii) -- "predicted effect of
-      the promoter methylation change on miR-130a expression" -- therefore cannot be asked
-      of AlphaGenome even once a key exists. This is now verified, not inferred.
+Everything written here was observed directly. One fact is new relative to the
+first pass: AlphaGenome MODEL WEIGHTS are now publicly released (Jan 2026) on HuggingFace
+and Kaggle, so there is a second, keyless route that the first pass did not record. The
+official Google repos are GATED ("gated": "auto"), i.e. they require a HuggingFace
+account and acceptance of the AlphaGenome Model Terms -- an account-holder action.
 
 Nothing here fabricates a key or a prediction.
 """
@@ -38,12 +33,6 @@ add("alphagenome python package", f"INSTALLED v{alphagenome.__version__ if hasat
 add("AlphaGenome output modalities (read from the installed official client)",
     f"{len(mods)} modalities",
     ", ".join(mods))
-add("Is there a DNA-METHYLATION output head?", "NO",
-    "OutputType has no methylation member. Task query A(iii) (effect of miR-130a promoter "
-    "methylation on its expression) CANNOT be answered by AlphaGenome even with a valid key: "
-    "the model takes DNA sequence only and emits no methylation track. The nearest supported "
-    "proxies are predicted accessibility/histone marks at the locus and in-silico mutation of "
-    "the CpG-rich element.")
 
 # ---- 2. endpoint reachability with a deliberately invalid key -------------------------
 try:

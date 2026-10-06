@@ -34,9 +34,7 @@ msg("module scores with any FDR<0.05 drug association:", if(length(sig_sets)) pa
 setmem <- list(
   COLLAGEN = c("COL1A1","COL1A2","COL3A1","COL5A1","COL5A2","COL6A1","COL6A2","COL6A3","COL11A1"),
   MIR29_TARGET = fread(file.path(OUT,"screens_mir29_anticorrelated_genes.csv"))$gene,
-  MIR130A_TARGET = fread(file.path(OUT,"mir130a_anticorrelated_validated_genes.csv"))$gene,
-  MIR29_STRONG = fread(file.path(OUT,"screens_mir29_target_set.csv"))[tier=="STRONG_lowthroughput", gene],
-  MIR130A_STRONG = fread(file.path(OUT,"mir130a_target_set.csv"))[tier=="STRONG_lowthroughput", gene])
+  MIR29_STRONG = fread(file.path(OUT,"screens_mir29_target_set.csv"))[tier=="STRONG_lowthroughput", gene])
 N[, in_drug_associated_set := node %in% unlist(setmem[sig_sets])]
 for (nm in names(setmem)) N[[paste0("in_", nm)]] <- N$node %in% setmem[[nm]]
 

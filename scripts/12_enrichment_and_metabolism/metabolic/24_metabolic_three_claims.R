@@ -71,8 +71,6 @@ c3all <- rbind(C3[,.(gs_name,gene_symbol)], C3L[,.(gs_name,gene_symbol)])
 hk2_l7 <- c3all[gs_name %in% l7sets & gene_symbol=="HK2"]
 cat("let-7 target sets in C3:MIR:", length(l7sets), "; those containing HK2:", nrow(hk2_l7), "\n")
 if (nrow(hk2_l7)) print(hk2_l7$gs_name)
-mir130_sets <- grep("MIR130A", c3all$gs_name, value=TRUE)
-cat("HK2 in MIR130A_3P set:", nrow(c3all[gs_name=="MIR130A_3P" & gene_symbol=="HK2"]), "\n")
 fwrite(data.table(let7_set=l7sets, contains_HK2 = l7sets %in% hk2_l7$gs_name),
        file.path(RES,"metabolic_claim_i_let7_targetset_membership.csv"))
 
@@ -104,7 +102,7 @@ cat("\nlet-7b-5p specifically: rho with HK2 =", round(res_i[miRNA=="hsa-let-7b-5
     " p =", signif(res_i[miRNA=="hsa-let-7b-5p", p_HALLMARK_GLYCOLYSIS],3), "\n")
 ## let-7b's own DE
 DEM <- fread(file.path(ROOT,"results/BRCA_DEX_mirnas.csv"))
-print(DEM[grepl("let-7b|let-7a-5p|miR-130a-3p", DEM[[1]])])
+print(DEM[grepl("let-7b|let-7a-5p", DEM[[1]])])
 fwrite(res_i, file.path(RES,"metabolic_claim_i_let7_correlations.csv"))
 fwrite(tvn[set_id %in% gly_ids], file.path(RES,"metabolic_claim_i_glycolysis_tvn.csv"))
 
@@ -161,10 +159,9 @@ res_iii <- rbindlist(lapply(c(ctx, mod_ids, "HALLMARK|HALLMARK_GLYCOLYSIS",
   ov <- length(intersect(sets[[age_id]], sets[[f]]))
   data.table(partner=f, rho=r["rho"], p=r["p"], n_shared_genes=ov)
 }))
-r130 <- sp(ss[age_id,smp], MI["hsa-miR-130a-3p",smp])
 r29  <- sp(ss[age_id,smp], MI["hsa-miR-29a-3p",smp])
-res_iii <- rbind(res_iii, data.table(partner=c("hsa-miR-130a-3p","hsa-miR-29a-3p"),
-                 rho=c(r130["rho"],r29["rho"]), p=c(r130["p"],r29["p"]), n_shared_genes=NA_integer_))
+res_iii <- rbind(res_iii, data.table(partner="hsa-miR-29a-3p",
+                 rho=r29["rho"], p=r29["p"], n_shared_genes=NA_integer_))
 res_iii[, FDR := p.adjust(p,"BH")]
 cat("\n-- AGE-RAGE score vs context / module / miRNA --\n")
 print(res_iii[order(-abs(rho)), .(partner=substr(partner,1,55), rho=round(rho,3),
@@ -182,24 +179,15 @@ cafs <- ss["CONTROL|CONTROL_CAF_FULL", ]
 tab <- rbindlist(lapply(rownames(ss2), function(v) {
   a <- sp(ss2[v,tum], cafs[tum]); b <- sp(ss2[v,tum], ss["CONTROL|CONTROL_EPITHELIAL",tum])
   cc<- sp(ss2[v,tum], ss["CONTROL|CONTROL_PROLIFERATION",tum])
-  d <- sp(ss2[v,smp], MI["hsa-miR-130a-3p",smp])
   tv<- wilcox.test(ss2[v,grp=="Tumor"], ss2[v,grp=="Normal"])
   dd <- (mean(ss2[v,grp=="Tumor"])-mean(ss2[v,grp=="Normal"]))/sd(ss2[v,])
   data.table(variant=v, n_genes=length(sub_sets[[v]]),
     d_tumour_vs_normal=dd, p_tvn=tv$p.value,
-    rho_CAF=a["rho"], p_CAF=a["p"], rho_EPI=b["rho"], rho_PROLIF=cc["rho"],
-    rho_mir130a=d["rho"], p_mir130a=d["p"])
+    rho_CAF=a["rho"], p_CAF=a["p"], rho_EPI=b["rho"], rho_PROLIF=cc["rho"])
 }))
 cat("\n-- AGE-RAGE with and without its collagen genes --\n")
 print(tab[, .(variant, n_genes, d_TvN=round(d_tumour_vs_normal,3), p_TvN=signif(p_tvn,3),
-              rho_CAF=round(rho_CAF,3), rho_EPI=round(rho_EPI,3), rho_PROLIF=round(rho_PROLIF,3),
-              rho_mir130a=round(rho_mir130a,3), p_mir130a=signif(p_mir130a,3))])
-## partial correlation of AGE-RAGE with miR-130a given CAF score
-pres <- function(y, x, z){ resid(lm(rank(y) ~ rank(z))) -> ry; resid(lm(rank(x) ~ rank(z))) -> rx
-                           ct <- cor.test(ry,rx); c(r=unname(ct$estimate), p=ct$p.value) }
-pc <- pres(ss2["AGE_RAGE_FULL",smp], MI["hsa-miR-130a-3p",smp], cafs[smp])
-cat("\npartial (rank) corr AGE-RAGE ~ miR-130a given CAF score: r =", round(pc["r"],4),
-    " p =", signif(pc["p"],3), "\n")
+              rho_CAF=round(rho_CAF,3), rho_EPI=round(rho_EPI,3), rho_PROLIF=round(rho_PROLIF,3))])
 fwrite(res_iii, file.path(RES,"metabolic_claim_iii_agerage_partners.csv"))
 fwrite(tab, file.path(RES,"metabolic_claim_iii_agerage_collagen_decomposition.csv"))
 fwrite(GDE[gene %in% sets[[age_id]]], file.path(RES,"metabolic_claim_iii_agerage_genes_tvn.csv"))

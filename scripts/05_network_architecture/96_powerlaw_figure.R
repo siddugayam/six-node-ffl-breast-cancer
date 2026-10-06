@@ -1,3 +1,5 @@
+# Total-degree distribution with discrete power-law fits (xmin 33 and 24) and a log-normal fit (Supplementary
+# Note S4); writes Fig_v3_A2_powerlaw_xmin_sensitivity.pdf and .png.
 suppressPackageStartupMessages(library(poweRlaw)); set.seed(20260908)
 RES <- "/path/to/revision/results/v3"
 FIG <- "/path/to/revision/figures/v3"

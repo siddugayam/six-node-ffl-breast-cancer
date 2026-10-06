@@ -4,7 +4,7 @@
 ## lines, then averaged over the gene set. Three scores:
 ##   COLLAGEN        : the fibrillar-collagen programme
 ##   MIR29_TARGET    : miR-29 targets anti-correlated with miR-29 in TCGA
-##   MIR130A_TARGET  : miR-130a validated targets anti-correlated in TCGA
+##   MIR29_STRONG    : miR-29 targets in the STRONG_lowthroughput evidence tier
 suppressPackageStartupMessages({library(data.table)})
 REV <- "/path/to/revision"; OUT <- file.path(REV,"results/v3")
 msg <- function(...) cat(format(Sys.time(),"%H:%M:%S"),"|",...,"\n")
@@ -29,9 +29,7 @@ Z[!is.finite(Z)] <- NA
 sets <- list(
   COLLAGEN       = c("COL1A1","COL1A2","COL3A1","COL5A1","COL5A2","COL6A1","COL6A2","COL6A3","COL11A1"),
   MIR29_TARGET   = fread(file.path(OUT,"screens_mir29_anticorrelated_genes.csv"))$gene,
-  MIR130A_TARGET = fread(file.path(OUT,"mir130a_anticorrelated_validated_genes.csv"))$gene,
-  MIR29_STRONG   = fread(file.path(OUT,"screens_mir29_target_set.csv"))[tier=="STRONG_lowthroughput", gene],
-  MIR130A_STRONG = fread(file.path(OUT,"mir130a_target_set.csv"))[tier=="STRONG_lowthroughput", gene]
+  MIR29_STRONG   = fread(file.path(OUT,"screens_mir29_target_set.csv"))[tier=="STRONG_lowthroughput", gene]
 )
 S <- data.table(ModelID=rownames(X))
 for (nm in names(sets)) {
@@ -44,7 +42,7 @@ setorder(S, -COLLAGEN)
 fwrite(S, file.path(OUT,"screens_celline_module_scores.csv"))
 msg("wrote screens_celline_module_scores.csv:", nrow(S), "breast lines")
 msg("score correlations across breast lines (Spearman):")
-print(round(cor(S[, .(COLLAGEN, MIR29_TARGET, MIR130A_TARGET, MIR29_STRONG, MIR130A_STRONG)], method="spearman"),3))
-msg("top 5 COLLAGEN-high lines:"); print(head(S[, .(StrippedCellLineName, OncotreeSubtype, COLLAGEN, MIR29_TARGET, MIR130A_TARGET)],5))
-msg("bottom 5:"); print(tail(S[, .(StrippedCellLineName, OncotreeSubtype, COLLAGEN, MIR29_TARGET, MIR130A_TARGET)],5))
+print(round(cor(S[, .(COLLAGEN, MIR29_TARGET, MIR29_STRONG)], method="spearman"),3))
+msg("top 5 COLLAGEN-high lines:"); print(head(S[, .(StrippedCellLineName, OncotreeSubtype, COLLAGEN, MIR29_TARGET)],5))
+msg("bottom 5:"); print(tail(S[, .(StrippedCellLineName, OncotreeSubtype, COLLAGEN, MIR29_TARGET)],5))
 msg("DONE 22a")

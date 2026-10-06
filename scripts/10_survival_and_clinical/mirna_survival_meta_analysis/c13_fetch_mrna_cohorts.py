@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Downloads the GEO series matrices of the mRNA cohorts into cache/v6/cohorts/matrix/, skipping files already
+# present.
 import os,sys,time,urllib.request,urllib.error
 D="/path/to/revision/cache/v6/cohorts/matrix"
 os.makedirs(D,exist_ok=True)

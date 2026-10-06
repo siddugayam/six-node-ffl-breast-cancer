@@ -1,7 +1,6 @@
 ## ==========================================================================
 ## M7_analysis_E_extras.R
-##  E) subtype-stratified miR-130a target-activity score (basal/TNBC vs LumA)
-##  + pooled tumour-vs-normal effect size for miR-130a
+##  E) subtype-stratified module scores (basal/TNBC vs LumA)
 ##  + head-to-head 3-node vs higher-order-only FFL modules in one Cox model
 ##  + module scores in tumour vs non-tumour breast (GTEx / TCGA normals)
 ## ==========================================================================
@@ -10,7 +9,6 @@ setwd("/path/to/revision")
 CA <- "cache/v4/multicohort"; OUT <- "results/v4"
 S  <- readRDS(file.path(CA,"genesets.rds"))
 CO <- readRDS(file.path(CA,"mrna_cohorts.rds"))
-MI <- readRDS(file.path(CA,"mirna_cohorts.rds"))
 SC <- readRDS(file.path(CA,"module_scores.rds"))
 dl <- function(y,v){ ok<-is.finite(y)&is.finite(v)&v>0; y<-y[ok]; v<-v[ok]; k<-length(y)
   if(k<2) return(NULL); w<-1/v; yF<-sum(w*y)/sum(w); Q<-sum(w*(y-yF)^2)
@@ -18,43 +16,6 @@ dl <- function(y,v){ ok<-is.finite(y)&is.finite(v)&v>0; y<-y[ok]; v<-v[ok]; k<-l
   ws<-1/(v+tau2); yR<-sum(ws*y)/sum(ws); se<-sqrt(1/sum(ws))
   list(k=k,est=yR,se=se,lo=yR-1.96*se,hi=yR+1.96*se,z=yR/se,p=2*pnorm(-abs(yR/se)),
        Q=Q,df=k-1,pQ=pchisq(Q,k-1,lower.tail=FALSE),I2=I2,tau2=tau2,w=100*ws/sum(ws)) }
-
-################################################################################
-## B4 -- pooled tumour-vs-normal effect for miR-130a (Hedges g)
-################################################################################
-cat("\n=========== B4  pooled miR-130a tumour-vs-normal ===========\n")
-rows <- list()
-for(nm in names(MI)){
-  o <- MI[[nm]]; if(is.null(o$normals) || ncol(o$normals)==0) next
-  r <- rownames(o$M)[tolower(rownames(o$M)) %in% c("hsa-mir-130a","hsa-mir-130a-3p")]
-  r <- r[!grepl("\\*|-5p$", r)][1]; if(is.na(r)) next
-  x <- as.numeric(o$M[r,]); y <- as.numeric(o$normals[r,])
-  n1 <- sum(is.finite(x)); n2 <- sum(is.finite(y))
-  s1 <- var(x, na.rm=TRUE); s2 <- var(y, na.rm=TRUE)
-  sp <- sqrt(((n1-1)*s1 + (n2-1)*s2)/(n1+n2-2))
-  d  <- (mean(x,na.rm=TRUE) - mean(y,na.rm=TRUE))/sp
-  J  <- 1 - 3/(4*(n1+n2)-9); g <- J*d
-  vg <- J^2*((n1+n2)/(n1*n2) + d^2/(2*(n1+n2-2)))
-  rows[[nm]] <- data.table(cohort=nm, accession=o$accession, platform=o$platform,
-    n_tumour=n1, n_normal=n2, hedges_g=g, se_g=sqrt(vg),
-    lo=g-1.96*sqrt(vg), hi=g+1.96*sqrt(vg),
-    p=2*pnorm(-abs(g/sqrt(vg))), wilcox_p=wilcox.test(x,y)$p.value)
-}
-TN <- rbindlist(rows)
-m <- dl(TN$hedges_g, TN$se_g^2)
-mf <- rma(yi=TN$hedges_g, vi=TN$se_g^2, method="DL")
-TN[, weight_pct := m$w]
-POOL <- data.table(cohort="POOLED (DerSimonian-Laird)", accession="", platform="",
-  n_tumour=sum(TN$n_tumour), n_normal=sum(TN$n_normal), hedges_g=m$est, se_g=m$se,
-  lo=m$lo, hi=m$hi, p=m$p, wilcox_p=NA_real_, weight_pct=100)
-TNall <- rbind(TN, POOL, fill=TRUE)
-TNall[cohort=="POOLED (DerSimonian-Laird)", `:=`(k=m$k, I2=m$I2, tau2=m$tau2, Q=m$Q, p_Q=m$pQ,
-  metafor_max_abs_diff=max(abs(c(mf$b[1]-m$est, mf$se-m$se, mf$I2-m$I2))))]
-print(TNall[, .(cohort,n_tumour,n_normal,hedges_g=round(hedges_g,3),lo=round(lo,3),
-                hi=round(hi,3),p=signif(p,3),I2=round(I2,1))])
-fwrite(TNall, file.path(OUT,"multicohort_B_mir130a_tumour_vs_normal_meta.csv"))
-cat(sprintf("pooled Hedges g = %+.3f [%+.3f,%+.3f] p=%.3g  I2=%.1f%%  Q=%.2f (p=%.3g)  k=%d\n",
-    m$est, m$lo, m$hi, m$p, m$I2, m$Q, m$pQ, m$k))
 
 ################################################################################
 ## D2 -- 3-node vs higher-order-only in the SAME Cox model
@@ -96,7 +57,7 @@ fwrite(rbind(H, MR, fill=TRUE), file.path(OUT,"multicohort_D_3node_vs_higherorde
 ## E -- subtype-stratified module survival
 ################################################################################
 cat("\n=========== E  subtype-stratified ===========\n")
-## map every cohort's subtype/ER field onto the two in-vitro models
+## map every cohort's subtype/ER field onto the two strata (basal/TNBC, luminal A/ER+)
 strat_of <- function(nm, ph){
   st <- as.character(ph$subtype); er <- as.character(ph$ER)
   basal <- rep(FALSE, nrow(ph)); luma <- rep(FALSE, nrow(ph))
@@ -109,8 +70,7 @@ strat_of <- function(nm, ph){
   list(basal=basal & !is.na(basal), luma=luma & !is.na(luma),
        src=if(!all(is.na(st))) "PAM50/subtype call" else "ER IHC proxy")
 }
-MODS <- c("MIR130A_ACTIVITY","MIR130A_STRONG","MIR130A_TS_ANCHOR",
-          "FFL_3NODE_UNION","FFL_HIGHER_ONLY","MIR29_ECM","PROLIF")
+MODS <- c("FFL_3NODE_UNION","FFL_HIGHER_ONLY","MIR29_ECM","PROLIF")
 erows <- list()
 for(nm in names(PRIMARY)){
   ph <- CO[[nm]]$pheno; M <- SC[[nm]]; ep <- PRIMARY[nm]
@@ -172,23 +132,7 @@ for(nm in names(CO)){
   }
 }
 LV <- rbindlist(lev)
-print(LV[module %in% c("MIR130A_ACTIVITY","MIR130A_STRONG","MIR130A_TS_ANCHOR"),
-         .(cohort,module,n_basal,n_lumA,diff_SD=round(diff_SD,3),wilcox_p=signif(wilcox_p,3))])
 fwrite(LV, file.path(OUT,"multicohort_E_score_by_subtype.csv"))
-
-## E3 -- measured miR-130a by subtype (TCGA + GSE19783), the direct analogue of
-## the MDA-MB-231 vs MCF7 comparison
-cat("\n=========== E3  measured miR-130a by subtype ===========\n")
-ph <- MI$TCGA_BRCA$pheno; x <- as.numeric(MI$TCGA_BRCA$M["hsa-miR-130a-3p",])
-tb <- data.table(subtype=ph$pam50, v=x)[!is.na(subtype) & subtype!=""]
-agg <- tb[, .(n=.N, mean=mean(v), sd=sd(v), median=median(v)), by=subtype][order(-mean)]
-print(agg)
-bl <- tb[subtype %in% c("Basal","LumA")]
-w <- wilcox.test(v ~ subtype, data=bl); t <- t.test(v ~ subtype, data=bl)
-cat(sprintf("TCGA Basal vs LumA miR-130a-3p: diff=%+.3f log2 RPM, wilcox p=%.3g, t p=%.3g\n",
-    mean(bl$v[bl$subtype=="Basal"])-mean(bl$v[bl$subtype=="LumA"]), w$p.value, t$p.value))
-agg[, cohort := "TCGA_BRCA"]
-fwrite(agg, file.path(OUT,"multicohort_E_mir130a_by_subtype.csv"))
 
 ################################################################################
 ## F -- module scores: tumour vs non-tumour breast
@@ -197,14 +141,13 @@ cat("\n=========== F  module score, tumour vs normal ===========\n")
 frows <- list()
 sc1 <- function(X, genes){ g<-intersect(genes,rownames(X)); if(length(g)<3) return(NULL)
   Z<-t(scale(t(X[g,,drop=FALSE]))); Z<-Z[is.finite(rowSums(Z)),,drop=FALSE]; colMeans(Z) }
-for(k in c("MIR130A_ACTIVITY","MIR130A_STRONG","MIR130A_TS_ANCHOR","FFL_3NODE_UNION",
+for(k in c("FFL_3NODE_UNION",
            "FFL_HIGHER_ONLY","MIR29_ECM","ALL_NETWORK_PROTEIN")){
-  gs <- if(k=="MIR130A_ACTIVITY") S$MIR130A_ANTICORR else S[[k]]
-  sgn <- if(k=="MIR130A_ACTIVITY") -1 else 1
+  gs <- S[[k]]
   ## TCGA tumour vs its own matched normals (same platform)
   X <- cbind(CO$TCGA_BRCA$X, CO$TCGA_BRCA$normals)
   grp <- c(rep("tumour", ncol(CO$TCGA_BRCA$X)), rep("normal", ncol(CO$TCGA_BRCA$normals)))
-  v <- sgn*sc1(X, gs)
+  v <- sc1(X, gs)
   w <- wilcox.test(v[grp=="tumour"], v[grp=="normal"])
   frows[[length(frows)+1]] <- data.table(comparison="TCGA tumour vs TCGA normal",
     module=k, n_tumour=sum(grp=="tumour"), n_normal=sum(grp=="normal"),

@@ -16,8 +16,8 @@ TARGETS = {"COL1A1":1277,"COL3A1":1281,"FN1":2335,"PDGFRB":5159,"CXCL12":6387,"P
  "DCN":1634,"LUM":4060,"VIM":7431,"MKI67":4288,"COL1A2":1278,"THY1":7070,"FAP":2191,"PDGFRA":5156,
  "ERBB2":2064,"KRT19":3880}
 
-ref = json.load(open('/tmp/ref_panel_entrez.json'))
-br  = json.load(open('/tmp/pdmr_breast_meta.json'))
+ref = json.load(open('/path/to/scratch/ref_panel_entrez.json'))
+br  = json.load(open('/path/to/scratch/pdmr_breast_meta.json'))
 samples = sorted(br.keys())
 
 genes = dict(ref); genes.update(TARGETS)

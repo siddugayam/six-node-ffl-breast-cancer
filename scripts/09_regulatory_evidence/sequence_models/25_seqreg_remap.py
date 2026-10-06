@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """25_seqreg_remap.py -- ReMap 2022 (Hammal et al., NAR 2022) experimentally mapped TF peaks
-at the COL1A1 / COL3A1 / miR-29 / miR-130a loci (hg38), with cell-type (biotype) resolution
+at the COL1A1 / COL3A1 / miR-29 loci (hg38), with cell-type (biotype) resolution
 and a random-promoter background so that "TF X binds here" is calibrated.
 
 Peaks pulled by range query from the UCSC-hosted ReMap 2022 bigBed

@@ -70,7 +70,7 @@ def model6(by):
     return full, dfn
 
 
-# ---------------- D1-D4 (port of acyclic() + check_module() of v2_census2.c) ----------------
+# ---------------- D1-D4 (port of acyclic() + check_module() of census_09_esu_classmask.c) ----------------
 def is_module(Sset, CO):
     V = list(Sset); n = len(V)
     adj = [[(i != j) and (V[j] in CO[V[i]]) for j in range(n)] for i in range(n)]

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Builds the remaining miRNA survival cohorts in the same way as c08_make_cohorts.py and adds them to the
+# probe report.
 import sys, os, json, collections, numpy as np
 sys.path.insert(0,"/path/to/revision/scripts/10_survival_and_clinical/mirna_survival_meta_analysis")
 from c07_build_mirna_cohorts import build, write_cohort

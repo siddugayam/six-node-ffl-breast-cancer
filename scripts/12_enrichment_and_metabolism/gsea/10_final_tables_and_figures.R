@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 # v4/10 -- (D) one consolidated tidy results table across every analysis in v4,
-#              plus the two figures that carry the negative/positive controls.
+#              plus the figure that sets the FFL classes against both backgrounds.
 suppressPackageStartupMessages({
-  library(data.table); library(fgsea); library(ggplot2); library(patchwork)
+  library(data.table); library(ggplot2)
 })
 ROOT  <- "/path/to/revision"
 RES   <- file.path(ROOT, "results", "v4")
@@ -11,37 +11,14 @@ CACHE <- file.path(ROOT, "cache", "v4")
 msg <- function(...) cat(format(Sys.time(), "[%H:%M:%S] "), ..., "\n", sep = "")
 theme_set(theme_bw(base_size = 9))
 
-sets <- readRDS(file.path(CACHE, "genesets.rds"))
-
 ## ============================ consolidated tidy table =======================
-mt  <- fread(file.path(RES, "gsea_master_table.csv"))       # 5 primary lists x 14 collections + FFL derived
-dg  <- fread(file.path(RES, "gsea_mir130a_control_diagnostic_all.csv"))
+mt  <- fread(file.path(RES, "gsea_master_table.csv"))       # 3 primary lists x 14 collections + FFL derived
 prov<- fread(file.path(RES, "ranklist_provenance.csv"))
 
-DIAG_DETAIL <- c(
-  mir130a_corr_adj_epi = "1066 paired primary tumours; partial Spearman | epithelial score",
-  mir130a_corr_adj_all = "1066 paired primary tumours; partial Spearman | epithelial + CAF + immune scores",
-  mir29a_corr_adj_all  = "1066 paired primary tumours; partial Spearman | epithelial + CAF + immune scores",
-  mir130a_corr_luma    = "414 PAM50 LumA tumours; Spearman rho vs hsa-miR-130a-3p",
-  mir130a_corr_lumb    = "182 PAM50 LumB tumours; Spearman rho vs hsa-miR-130a-3p",
-  mir130a_corr_basal   = "132 PAM50 Basal tumours; Spearman rho vs hsa-miR-130a-3p")
-dg2 <- dg[!ranked_list %in% c("mir130a_corr", "mir29a_corr")]
-dg2[, `:=`(analysis = "control diagnostic (sensitivity rankings)",
-           collection_label = c(C3_MIR_LEGACY = "miRNA targets (legacy seed)",
-                                C3_MIR_MIRDB = "miRNA targets (miRDB)",
-                                H = "Hallmark")[collection],
-           ranking_statistic = "Spearman / partial-Spearman rho vs the miRNA",
-           ranking_detail = DIAG_DETAIL[ranked_list],
-           padj_global = NA_real_, n_features_ranked = NA_integer_, n_samples = NA_integer_,
-           minSize_used = 10L, maxSize_used = 500L, nPermSimple = 10000L,
-           method = "fgseaMultilevel(eps=0)",
-           significant_FDR05 = padj < 0.05,
-           direction = ifelse(NES > 0, "enriched at the positive/high end",
-                              "enriched at the negative/low end"))]
 mt[, analysis := ifelse(collection == "FFL_DERIVED", "FFL derived node sets",
                  ifelse(collection == "FFL_CLASS", "FFL motif-class node sets (analysis C)",
-                        "primary GSEA (analyses 1-5)"))]
-ALL <- rbind(mt, dg2[, names(mt), with = FALSE], use.names = TRUE)
+                        "primary GSEA (analyses 1-3)"))]
+ALL <- copy(mt)
 setcolorder(ALL, c("analysis", "ranked_list", "ranking_statistic", "ranking_detail",
                    "n_features_ranked", "n_samples", "collection", "collection_label",
                    "pathway", "size", "ES", "NES", "pval", "padj", "padj_global",
@@ -62,7 +39,7 @@ setorder(top, ranked_list, collection, -NES)
 fwrite(top, file.path(RES, "gsea_MASTER_TABLE_TOP15.csv"))
 msg("gsea_MASTER_TABLE_TOP15.csv: ", nrow(top), " rows")
 
-## per ranked-list x collection counts, including the diagnostics
+## per ranked-list x collection counts
 cnt <- ALL[, .(n_tested = .N, n_sig_FDR05 = sum(significant_FDR05),
                n_sig_pos = sum(significant_FDR05 & NES > 0),
                n_sig_neg = sum(significant_FDR05 & NES < 0),
@@ -71,50 +48,7 @@ cnt <- ALL[, .(n_tested = .N, n_sig_FDR05 = sum(significant_FDR05),
            by = .(analysis, ranked_list, collection, collection_label)]
 setorder(cnt, analysis, ranked_list, collection)
 fwrite(cnt, file.path(RES, "gsea_MASTER_COUNTS.csv"))
-print(cnt[analysis == "primary GSEA (analyses 1-5)"], nrows = 80)
-
-## ============================ figure: the two controls side by side =========
-read_rank <- function(tag) {
-  d <- fread(file.path(RES, paste0("rank_", tag, ".csv")))
-  d <- d[!is.na(stat)][!duplicated(feature)]
-  sort(setNames(d$stat, d$feature), decreasing = TRUE)
-}
-panel <- function(cl, pw, rl, title, src) {
-  st  <- read_rank(rl)
-  row <- src[ranked_list == rl & collection == cl & pathway == pw]
-  plotEnrichment(sets[[cl]][[pw]], st) +
-    labs(title = title,
-         subtitle = if (nrow(row)) sprintf("NES %+.2f | p = %.3g | FDR = %.3g | n = %d",
-                                           row$NES[1], row$pval[1], row$padj[1], row$size[1])
-                    else "not tested",
-         x = "rank in ordered list", y = "enrichment score") +
-    theme(plot.title = element_text(size = 7.6, face = "bold"),
-          plot.subtitle = element_text(size = 6.6))
-}
-A  <- fread(file.path(RES, "gsea_all_results.csv"))
-D  <- fread(file.path(RES, "gsea_mir130a_control_diagnostic_all.csv"))
-pl <- list(
-  panel("C3_MIR_MIRDB", "MIR130A_3P", "mir130a_corr",
-        "FAILS  •  miR-130a-3p targets (miRDB)\nvs gene ~ miR-130a-3p rho", A),
-  panel("C3_MIR_LEGACY", "TTGCACT_MIR130A_MIR301_MIR130B", "mir130a_corr",
-        "FAILS  •  miR-130a seed family (legacy)\nvs gene ~ miR-130a-3p rho", A),
-  panel("C3_MIR_MIRDB", "MIR130A_3P", "mir130a_high_vs_low",
-        "FAILS  •  miR-130a-3p targets (miRDB)\nvs miR-130a high-vs-low tertile t", A),
-  panel("C3_MIR_MIRDB", "MIR29A_3P", "mir29a_corr",
-        "PASSES  •  miR-29a-3p targets (miRDB)\nvs gene ~ miR-29a-3p rho", A),
-  panel("C3_MIR_LEGACY", "TGGTGCT_MIR29A_MIR29B_MIR29C", "mir29a_corr",
-        "PASSES  •  miR-29a seed family (legacy)\nvs gene ~ miR-29a-3p rho", A),
-  panel("C3_MIR_MIRDB", "MIR130A_3P", "mir130a_corr_adj_all",
-        "STILL FAILS  •  miR-130a-3p targets (miRDB)\nvs composition-adjusted miR-130a rho", D))
-pp <- wrap_plots(pl, ncol = 3) +
-  plot_annotation(
-    title = "Internal positive control: do a miRNA's own predicted targets sit at the low end of its expression axis?",
-    subtitle = "A working axis gives a NEGATIVE NES. miR-29a-3p passes on the identical construction; miR-130a-3p does not, and does not recover after adjusting for epithelial/CAF/immune composition.",
-    theme = theme(plot.title = element_text(face = "bold", size = 10.5),
-                  plot.subtitle = element_text(size = 7.6)))
-ggsave(file.path(FIG, "fig_gsea_mir_control_130a_vs_29a.png"), pp, width = 11.5, height = 6.4, dpi = 300)
-ggsave(file.path(FIG, "fig_gsea_mir_control_130a_vs_29a.pdf"), pp, width = 11.5, height = 6.4)
-msg("control comparison figure written")
+print(cnt[analysis == "primary GSEA (analyses 1-3)"], nrows = 80)
 
 ## ============================ figure: FFL class vs both backgrounds =========
 nb <- fread(file.path(RES, "gsea_ffl_class_network_background_test.csv"))

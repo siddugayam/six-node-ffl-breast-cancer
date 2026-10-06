@@ -101,26 +101,21 @@ msg("FOCUS GENES in Project Score (breast models):"); print(FOC, digits=4)
 fwrite(FOC, file.path(OUT,"screens_projectscore_focus_genes.csv"))
 
 ## set-level test, same decile-matched null construction as the CRISPR and RNAi analyses
-A130 <- fread(file.path(OUT,"mir130a_target_set.csv")); R130 <- fread(file.path(OUT,"mir130a_tcga_target_correlations.csv"))
 A29  <- fread(file.path(OUT,"screens_mir29_target_set.csv"))
-edges <- fread(file.path(REV,"data/canonical_edges.tsv"))
-universe <- R130$gene; gs <- rownames(X)
+R29  <- fread(file.path(OUT,"screens_mir29_tcga_correlations.csv"))
+universe <- R29$gene; gs <- rownames(X)
 sets <- list(
-  mir130a_STRONG = A130[tier=="STRONG_lowthroughput", gene],
-  mir130a_VALIDATED_anticorr = R130[!is.na(fdr_VALIDATED_any) & fdr_VALIDATED_any<0.05 & rho_3p<0, gene],
-  mir130a_TARGETSCAN = A130[in_targetscan==TRUE, gene],
-  mir130a_AUTHOR_NETWORK = edges[source=="hsa-miR-130a" & edge_type=="miRNA_target", target],
   mir29_STRONG = A29[tier=="STRONG_lowthroughput", gene],
   mir29_anticorrelated = fread(file.path(OUT,"screens_mir29_anticorrelated_genes.csv"))$gene,
   FFL_hubs = hubs, network_TFs = nodes[type=="TF", name], network_genes = nodes[type=="Gene", name])
 sets <- lapply(sets, function(g) intersect(intersect(unique(g), gs), universe))
-mexp <- setNames(R130$mean_expr, R130$gene); pu <- intersect(gs, universe)
+mexp <- setNames(R29$mean_expr, R29$gene); pu <- intersect(gs, universe)
 brk <- unique(quantile(mexp[pu], probs=seq(0,1,0.1)))
 dec <- setNames(as.integer(cut(mexp[pu], breaks=brk, include.lowest=TRUE)), pu)
 B <- 2000L
 res <- rbindlist(lapply(names(sets), function(nm){
   g <- sets[[nm]]; if (length(g) < 5) return(NULL)
-  excl <- if (grepl("^mir130a", nm)) A130$gene else if (grepl("^mir29", nm)) A29$gene else g
+  excl <- if (grepl("^mir29", nm)) A29$gene else g
   pool <- setdiff(pu, excl); pbd <- split(pool, dec[pool])
   obs <- mean(sc_b[g], na.rm=TRUE); obsf <- mean(frac_sig[g] > 0.5, na.rm=TRUE)
   nmx <- matrix(unlist(lapply(dec[g], function(d) sample(pbd[[as.character(d)]], B, replace=TRUE))), nrow=length(g), byrow=TRUE)

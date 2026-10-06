@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """23_seqreg_borzoi.py -- Borzoi (Linder et al., Nat Genet 2025) sequence-to-function
-predictions at the COL1A1/COL3A1/miR-29/miR-130a loci.
+predictions at the COL1A1/COL3A1/miR-29 loci.
 
 Borzoi is used in addition to Enformer because its human head contains RELA and RELB ChIP
 tracks (Enformer's does not contain any NF-kB-family track at all) and 1,543 RNA-seq tracks

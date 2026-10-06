@@ -6,7 +6,7 @@ Routes:
   cel    Affymetrix: per-GSM CEL files -> oligo RMA (_cel.R) over the arrays of the contrast -> _de.R log_matrix.
   matrix processed series-matrix values -> _de.R (log2 if max > 50); flagged 'processed'.
 Output: <part>/de/<gse>__<tf>__<cell>__<tag>.tsv (one row per gene) and .meta.json (route, arm sizes); the
-sample-level matrices and the R spec stay in the cache (data_cache_2026-09-27d/<part>/work/)."""
+sample-level matrices and the R spec stay in the cache (data_cache/<part>/work/)."""
 import os, sys, re, json, gzip, io, argparse, subprocess
 import pandas as pd, numpy as np
 INB = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); sys.path.insert(0, INB)

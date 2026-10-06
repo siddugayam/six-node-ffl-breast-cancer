@@ -52,8 +52,8 @@ The code calls these programs:
 | gcc | C programs: census enumerators, null models (`-O2` or `-O3 -march=native`, `-lm`) | `scripts/03_ffl_census/`, `scripts/04_motif_significance/`, `analyses/census_and_motif_nulls/`, `analyses/six_node_pattern/` |
 | g++ | Rcpp compiles the jActiveModules engine `jam_engine.cpp` | `scripts/14_module_detection/jam_*.R` |
 | bedtools | interval intersections of ENCODE and ATAC regions | `scripts/09_regulatory_evidence/encode_accessibility/atac_06*.py` |
-| bigBedToBed (UCSC utilities) | extracting ReMap 2022 peaks from the bigBed file | `scripts/09_regulatory_evidence/chip_remap_targetscan/v2d_remap_*.py`, `scripts/09_regulatory_evidence/sequence_models/25*_seqreg_remap*.py` |
-| curl | batch downloads | `v2_chip_download.sh` and `v2_dl_chunked.sh` in `scripts/09_regulatory_evidence/chip_remap_targetscan/` |
+| bigBedToBed (UCSC utilities) | extracting ReMap 2022 peaks from the bigBed file | `scripts/09_regulatory_evidence/chip_remap_targetscan/11_remap_fetch.py` and `13_remap_background_fetch.py`, `scripts/09_regulatory_evidence/sequence_models/25*_seqreg_remap*.py` |
+| curl | batch downloads | `01_chipatlas_download.sh` and `06_targetscan_download.sh` in `scripts/09_regulatory_evidence/chip_remap_targetscan/` |
 | zcat, cat | reading compressed and plain files through pipes | R scripts (`scripts/07_expression_validation/external_cohorts/N0_geo_utils.R`, `scripts/10_survival_and_clinical/multi_cohort/M12_cohort_inventory.R`), shell scripts, `scripts/09_regulatory_evidence/encode_accessibility/atac_06*.py` |
 | awk, sed, cut, split, sort, seq, wc, xargs | text handling in shell scripts | shell scripts |
 | nvidia-smi, df, du, ps | resource logging only | `analyses/perturbation_tests/P0/` and `P4/` |

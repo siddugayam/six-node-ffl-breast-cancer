@@ -96,7 +96,7 @@ if len(sites):
     sites=sites[sites.tf_name.isin(FOCUS_TFS)].copy()
     print("focus sites for occlusion:", len(sites), sites.groupby("region").size().to_dict(), flush=True)
 
-for regname in ["COL1A1","COL3A1","MIR130AHG","MIR130A"]:
+for regname in ["COL1A1","COL3A1"]:
     ref, strand, chrom, anchor = genomic_window(regname)
     base=predict_batch([ref]); b=score(base)
     print(f"{regname} reference: fib_cage={b['fib_cage'][0]:.3f} fib_dnase={b['fib_dnase'][0]:.3f}", flush=True)

@@ -20,7 +20,7 @@ for lab, t in TESTS:
         y = x[x.gse != g]
         pin += [dict(group=f'{lab}|{g}', yi=v, sei=s) for v, s in zip(y['diff'], y['se'])]
 pd.DataFrame(pin).to_csv(f'{HERE}/c3_pool_in.tsv', sep='\t', index=False)
-subprocess.run(['Rscript', f'{INB}/_rma.R', f'{HERE}/c3_pool_in.tsv', f'{HERE}/c3_pooled.tsv'], check=True)
+subprocess.run(['Rscript', f'{INB}/../perturbation_tests/_rma.R', f'{HERE}/c3_pool_in.tsv', f'{HERE}/c3_pooled.tsv'], check=True)
 PT = pd.read_csv(f'{HERE}/c3_pooled.tsv', sep='\t')
 PT['test'] = PT.group.str.split('|').str[0]; PT['left_out'] = PT.group.str.split('|').str[1]
 rows, L = [], []; P = L.append

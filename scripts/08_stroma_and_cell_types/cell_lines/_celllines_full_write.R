@@ -1,3 +1,5 @@
+# Written and run by celllines_11_purity_axis.py, which holds this code; running that script regenerates this
+# file.
 
 x <- readRDS("/path/to/revision/results/v2/_tcga_full_paired.rds")
 write.table(x$g, gzfile("/path/to/revision/results/v2/_tcga_g.tsv.gz"), sep="\t", quote=FALSE)

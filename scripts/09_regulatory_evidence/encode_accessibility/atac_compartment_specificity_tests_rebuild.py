@@ -13,7 +13,7 @@ Writes atac_encode_compartment_specificity_tests_rebuilt.csv here and reports th
 import os
 import numpy as np, pandas as pd
 from scipy.stats import fisher_exact
-HERE = os.path.dirname(os.path.abspath(__file__)); REV = os.path.dirname(os.path.dirname(HERE))
+HERE = os.path.dirname(os.path.abspath(__file__)); REV = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 A = pd.read_csv(f'{REV}/results/v6/atac_encode_region_accessible.csv', index_col=0)
 EPI = ('MCF-7', 'MCF 10A', 'breast epithelium'); FIB = ('fibroblast of mammary gland', 'fibroblast of dermis', 'fibroblast of lung', 'IMR-90')
 epi = [c for c in A.columns if c.split(' (')[0] in EPI]; fib = [c for c in A.columns if c.split(' (')[0] in FIB]

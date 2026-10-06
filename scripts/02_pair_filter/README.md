@@ -6,3 +6,9 @@ workbook (1,566 pairs, 1,547 of which share no target) and writes `results/pair_
 Standard library only: `python3 scripts/02_pair_filter/hypergeometric_pair_filter.py`.
 `data/pair_filter/README.md` describes the inputs; `analyses/six_node_followups/Q123`, `Q5` and `Q9` compare the
 filter with the network.
+
+## Scripts in this folder
+
+| Script | What it does |
+|---|---|
+| `hypergeometric_pair_filter.py` | The miRNA-TF pair filter (Methods 2.1), recomputed from its input block. |

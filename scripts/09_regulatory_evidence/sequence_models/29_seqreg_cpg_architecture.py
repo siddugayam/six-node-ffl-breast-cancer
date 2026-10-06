@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """29_seqreg_cpg_architecture.py -- promoter sequence architecture at the COL1A1/COL3A1 and
-miR-29 / miR-130a loci: GC content, CpG observed/expected, CpG-island overlap (UCSC cpgIslandExt),
-ENCODE cCRE class, and the position of the Illumina 450k probes used in the project's
-methylation analysis. Answers the "is the miR-130a promoter CpG-dense and silenceable?" part
-of the task from sequence, independently of any deep-learning model.
+miR-29 loci: GC content, CpG observed/expected, CpG-island overlap (UCSC cpgIslandExt) and
+ENCODE cCRE class, from sequence, independently of any deep-learning model.
 Uses only cached hg38 sequence (UCSC REST) - no model, no key.
 """
 import os

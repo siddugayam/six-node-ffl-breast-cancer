@@ -103,7 +103,7 @@ print(pd.DataFrame(rng_rows).to_string())
 edges = pd.read_csv(os.path.join(DATA, "canonical_edges.tsv"), sep="\t")
 mt = edges[edges.edge_type == "miRNA_target"]
 focus = ["hsa-miR-29a", "hsa-miR-29b", "hsa-miR-29c", "hsa-miR-200c", "hsa-miR-21",
-         "hsa-let-7b", "hsa-miR-101", "hsa-miR-130a", "hsa-miR-34a", "hsa-miR-124"]
+         "hsa-let-7b", "hsa-miR-101", "hsa-miR-34a", "hsa-miR-124"]
 avail_mirs = [m for m in M.columns]
 net_rows = []
 N_PERM = 2000

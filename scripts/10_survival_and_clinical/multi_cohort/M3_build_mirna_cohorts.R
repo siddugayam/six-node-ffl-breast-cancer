@@ -12,8 +12,8 @@ num <- function(v){ v[v %in% c(".","NA","na","not available","Unknown","unknown"
                     suppressWarnings(as.numeric(v)) }
 
 ## ---- canonical mature-miRNA name resolution ------------------------------
-## Old arrays annotate the dominant (3p) arm as "hsa-miR-130a"; the passenger
-## arm is "hsa-miR-130a*". Never accept a "*", "-5p" or "-pre" row as the 3p arm.
+## Old arrays annotate the dominant (3p) arm as "hsa-miR-29a"; the passenger
+## arm is "hsa-miR-29a*". Never accept a "*", "-5p" or "-pre" row as the 3p arm.
 resolve <- function(rn, base){
   cand <- c(base, paste0(base,"-3p"), tolower(base))
   hit <- rn[rn %in% cand]
@@ -161,8 +161,8 @@ for(pl in names(PL)){
     t_rec=num(pull_char(mm,"time.to.recurrence \\(years\\)")),
     t_dth=num(pull_char(mm,"time.to.death \\(years\\)")),
     stringsAsFactors=FALSE)
-  cat(sprintf("GSE37405 %s: probes %d -> miRNAs %d ; samples %d ; miR-130a present %s\n",
-      pl, nrow(pp$X), nrow(x), ncol(x), length(resolve(rownames(x),"hsa-miR-130a"))>0))
+  cat(sprintf("GSE37405 %s: probes %d -> miRNAs %d ; samples %d\n",
+      pl, nrow(pp$X), nrow(x), ncol(x)))
   Xs[[pl]] <- x; ds[[pl]] <- dd
 }
 common <- Reduce(intersect, lapply(Xs, rownames))
@@ -241,15 +241,14 @@ addc(list(name="GSE45666", accession="GSE45666", platform="Agilent-021827 human 
 
 ## ---- inventory ------------------------------------------------------------
 inv <- rbindlist(lapply(CO, function(o){
-  r130 <- resolve(rownames(o$M),"hsa-miR-130a")
   r29  <- resolve(rownames(o$M),"hsa-miR-29a")
   data.table(cohort=o$name, accession=o$accession, platform=o$platform,
     n_tumour=ncol(o$M), n_normal=if(is.null(o$normals)) 0L else ncol(o$normals),
     n_miRNA=nrow(o$M), endpoints=paste(o$endpoints, collapse=";"),
-    mir130a_row=paste(r130, collapse=";"), mir29a_row=paste(r29, collapse=";"),
+    mir29a_row=paste(r29, collapse=";"),
     notes=o$notes)
 }))
-print(inv[, .(cohort,n_tumour,n_normal,n_miRNA,endpoints,mir130a_row)])
+print(inv[, .(cohort,n_tumour,n_normal,n_miRNA,endpoints)])
 fwrite(inv, file.path(OUT,"multicohort_mirna_inventory.csv"))
 saveRDS(CO, file.path(CA,"mirna_cohorts.rds"))
 cat("\nSaved", length(CO), "miRNA cohorts\n")

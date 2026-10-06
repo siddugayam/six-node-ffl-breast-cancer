@@ -4,7 +4,7 @@ Cap (fixed in the analysis plan): new downloads may use at most the smaller of 1
 import os, shutil, subprocess, datetime
 INB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REV = os.path.dirname(os.path.dirname(INB))
-CACHE = os.path.join(REV, 'data_cache_2026-09-27d')
+CACHE = os.path.join(REV, 'data_cache')
 sh = lambda c: subprocess.run(c, shell=True, capture_output=True, text=True).stdout.strip()
 L = []
 P = L.append

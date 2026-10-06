@@ -1,3 +1,6 @@
+# Summary of the interaction layers: edges by sign or source for each layer (TRRUST, TransmiR, miRNA clusters
+# at 3, 10 and 50 kb, gene-gene sources and the miRNA-target evidence tiers), entered from the outputs of the
+# layer scripts of this folder; writes results/layer_summary_counts.tsv.
 suppressMessages(library(data.table))
 B <- "/path/to/revision"
 s <- data.table(
