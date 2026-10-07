@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""34_seqreg_network_tf_edges.py -- put every TF->collagen edge that the manuscript's own
-network asserts to a sequence-level test.
+"""34_seqreg_network_tf_edges.py -- put every TF->collagen edge of the
+network to a sequence-level test.
 
 data/canonical_edges.tsv contains 8 TF_target edges into COL1A1 (ETS1, MKL1, MYB, NFKB1,
 RELA, SP1, STAT6, TFAP2A) and NONE into COL3A1. For each TF this script reports:

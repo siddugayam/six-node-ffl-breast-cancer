@@ -6,10 +6,10 @@
 #
 # Design notes (for Methods):
 #  * Features are z-scored, so HR = hazard ratio per +1 SD of log2 expression.
-#  * ALL 576 expression-matched network nodes are tested (not a cherry-picked hub
-#    list) so that the FDR denominator is honest. Hub status is a *label* column.
-#  * Hubs are defined on the RECONSTRUCTED directed network (evidence-based layers),
-#    which is the network the revision defends, not the authors' deposited one.
+#  * ALL 576 expression-matched network nodes are tested (not only the hubs), so
+#    that the FDR denominator covers every feature. Hub status is a *label* column.
+#  * Hubs are defined on the reconstructed directed network (evidence-based layers),
+#    the network analysed in the paper.
 
 suppressPackageStartupMessages({
   library(data.table); library(survival); library(igraph)
@@ -152,7 +152,7 @@ for (nn in names(feat_rows)) {
 cox <- rbindlist(res)
 logf("Cox models fitted: ", nrow(cox), " over ", uniqueN(cox$feature), " features")
 
-# BH-FDR *within endpoint* across all features tested (the honest denominator)
+# BH-FDR *within endpoint* across all features tested
 cox[, q_value := p.adjust(p_value, method = "BH"), by = endpoint]
 # also a single global FDR across every test performed
 cox[, q_value_global := p.adjust(p_value, method = "BH")]

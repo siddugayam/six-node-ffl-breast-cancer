@@ -105,7 +105,7 @@ draw_module <- function(members, title) {
     theme(plot.title=element_text(size=9, face="bold"), legend.position="right")
 }
 
-# the authors' own published exemplars, redrawn correctly and directed
+# the exemplar circuits of the original submission, redrawn as directed graphs
 ex <- list(
   `4-node exemplar (published Fig. 5)` = c("ETS1","NFKB1","RELA","SP1","COL1A1","COL3A1",
       "hsa-let-7b","hsa-let-7e","hsa-miR-29a","hsa-miR-29b","hsa-miR-29c"),

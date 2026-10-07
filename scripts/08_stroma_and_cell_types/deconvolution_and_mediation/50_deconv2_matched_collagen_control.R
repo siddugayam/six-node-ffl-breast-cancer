@@ -1,12 +1,12 @@
 #!/usr/bin/env Rscript
 ## 50_deconv2_matched_collagen_control.R
-## The first pass built its collagen-free Wu signature by re-running the whole
+## The initial collagen-free Wu signature was built by re-running the whole
 ## marker-selection sweep with COL* excluded; that matrix has 841 genes and was chosen
 ## at G = 100, whereas the collagen-containing matrix has 641 genes and was chosen at
 ## G = 75 (results/v3/deconv_wu_signature_condition_numbers.csv). The two therefore
-## differ in size as well as in collagen content, so the comparison is not a clean
-## control for circularity.
-## Here I build STRICTLY MATCHED controls: the identical 641-gene signature with
+## differ in size as well as in collagen content.
+## This script builds strictly matched controls instead:
+## the identical 641-gene signature with
 ##   (a) its 8 COL* genes deleted        -> 633 genes
 ##   (b) only COL1A1 deleted             -> 640 genes  (COL3A1 is not in this matrix)
 ## and re-run the same estimators. Any difference can then only come from the collagens.

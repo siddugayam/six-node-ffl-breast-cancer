@@ -2,7 +2,7 @@
 """
 celllines_03_controls.py
 
-Everything needed to interpret celllines_02_corr.py honestly:
+Controls for interpreting celllines_02_corr.py:
 
  1. Assay-quality positive controls for the CCLE nanoString miRNA panel in the same
     50 breast lines (miR-200/141/205 -> ZEB1/ZEB2, let-7 -> HMGA2, miR-21 -> PDCD4).

@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # D) Gene-gene layer: two clearly separated evidence tiers.
 #    Tier 1 (TRRUST)  : directed, literature-curated transcriptional regulation onto a network
-#                       Gene node, including sources the manuscript never classified as TFs.
+#                       Gene node, including sources not classified as TFs in the original network.
 #    Tier 2 (STRING)  : UNDIRECTED STRING v12 high-confidence (combined_score >= 900)
 #                       interactions; physical-subnetwork and full functional network both run.
 #    Identifiers are resolved EXACTLY via the STRING v12 flat files (see 06a_string_map_and_fetch.R) because the

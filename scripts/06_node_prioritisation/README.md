@@ -14,7 +14,7 @@ version of that table.
 | `01_prioritisation.R` | Pre-specified composite prioritisation of network nodes. |
 | `02_dgidb_query.py` | Query DGIdb v5 GraphQL for the 20 protein-coding prioritised nodes. |
 | `08_exir_prep_run.R` | ExIR (Experimental-data-based Integrative Ranking) on TCGA-BRCA Package: influential 2.3.2 (Salavaty, Ramialison & Currie) classification. |
-| `09_ffl_hubs.R` | Define "high-centrality hubs in the FFLs" on the REPAIRED canonical network |
+| `09_ffl_hubs.R` | Define "high-centrality hubs in the FFLs" on the canonical network |
 | `09_hub_bootstrap.py` | Bootstrap stability of the hub list. |
 | `10_exir_classify_overlap.R` | B) build results/exir_classification.csv C) ExIR-driver vs FFL-hub overlap (hypergeometric, BOTH directions) D) mediator \|logFC\| distribution vs drivers vs biomarkers |
 | `11_exir_mediator_enrichment.R` | Enrichment of the ExIR mediators, with every gene tested for differential expression as the background universe. |

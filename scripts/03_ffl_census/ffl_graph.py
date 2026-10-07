@@ -3,7 +3,7 @@ ffl_graph.py -- construction of the canonical DIRECTED, SIGNED, TYPED regulatory
 graph G used for the n-node feed-forward-loop (FFL) census.
 
 Sources (all under revision/data/):
-  canonical_edges.tsv     repaired author network (miRNA_target arcs are taken from here)
+  canonical_edges.tsv     canonical network (miRNA_target arcs are taken from here)
   layer_TF_target.tsv     TRRUST directed TF/regulator -> target, signed
   layer_TF_miRNA.tsv      TransmiR directed TF -> miRNA, signed
   layer_gene_gene.tsv     TRRUST directed tier + STRING undirected tier

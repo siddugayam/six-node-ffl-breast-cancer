@@ -12,8 +12,8 @@ nodes were chosen:
     miRNA -> target: multiMiR *validated* interactions (miRTarBase / TarBase / miRecords),
                      retrieved BY TARGET GENE so that each gene's miRNA in-degree is complete
                      and genome-wide, hence directly comparable across gene sets.
-The authors' miRNA-miRNA and gene-gene layers are excluded from BOTH sides: the audit showed
-28 of their 30 miRNA-miRNA edges have no co-transcription support and their single gene-gene
+The miRNA-miRNA and gene-gene layers of the original network are excluded from BOTH sides:
+28 of its 30 miRNA-miRNA edges are not co-transcribed pairs and its single gene-gene
 edge (COL1A1-COL3A1) is an undirected STRING association, so including them would advantage
 the BRCA network by construction.
 

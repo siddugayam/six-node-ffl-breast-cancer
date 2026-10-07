@@ -5,11 +5,11 @@
 ##   * five new algorithm families run on the same Wu breast single-cell signature
 ##     (qprog, RLS, OLS, DWLS, dtangle) and their collagen-free counterparts,
 ##   * two NON-TRANSCRIPTOMIC mediators (ABSOLUTE DNA purity, pathologist slide score),
-## on top of the 23 estimates used in the first pass.
+## on top of the 23 initial estimates.
 ## Model: normal-score transform of exposure / mediator / outcome; m ~ x ; y ~ x + m.
 ## ACME = a*b, ADE = c' (exact for the linear-linear model), percentile bootstrap CIs
 ## from 2,000 nonparametric resamples, plus the analytic Sobel test.
-## Verified in script 41 to reproduce mediation::mediate to 5.6e-16 on the first pass.
+## Verified in script 41 to reproduce mediation::mediate to 5.6e-16 on the initial estimates.
 suppressPackageStartupMessages({library(data.table); library(parallel)})
 BASE <- "/path/to/revision"
 LOG  <- file.path(BASE, "logs/v3/46_deconv2_mediation.log"); cat("", file = LOG)

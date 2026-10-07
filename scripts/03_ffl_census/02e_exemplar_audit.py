@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""02e_exemplar_audit.py -- audits the authors' deposited exemplar circuits
+"""02e_exemplar_audit.py -- tests the exemplar circuits of the original submission
 (SIF_files/4-TF.sif, 5-TF.sif, 6-TF.sif) against the formal definition:
 edge support, whole-structure size, exhaustive test of every induced n-subset,
-and the subsets matching the exact composition the manuscript specifies."""
+and the subsets matching the composition given in the Methods."""
 import sys, itertools, csv
 sys.path.insert(0,"/path/to/revision/scripts")
 import ffl_graph as fg, ffl_def
@@ -55,7 +55,7 @@ for n,fn in ((4,"4-TF.sif"),(5,"5-TF.sif"),(6,"6-TF.sif")):
     for k,v in comp.most_common(): print("     valid composition",dict(k),"->",v)
     for S,res in ok[:6]:
         print("     e.g.",",".join(S),"| source=%s sink=%s ndisj=%d"%(res['source'],res['sink'],res['ndisj']))
-    # the SPECIFIC architecture the manuscript describes
+    # the architecture given in the Methods
     if n==4: want=[("TF",1),("miRNA",1),("Gene",2)]
     elif n==5: want=[("TF",1),("miRNA",2),("Gene",2)]
     else: want=[("TF",2),("miRNA",2),("Gene",2)]

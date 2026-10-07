@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T); relabelled 2026-09-26 from an earlier non-standard numbering.
-"""Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the CORRECTLY counted core set.
+# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T).
+"""Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the unique cores (01a convention).
 
 Numbering, keyed on (sign X->Y, sign Y->Z, sign X->Z):
   C1 (+,+,+)  C2 (-,+,-)  C3 (+,-,-)  C4 (-,-,+)

@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 # =============================================================================
 # go_04_named_terms.R
-# The manuscript's claim is specific, so test the specific terms, in every
-# module, and report the ACTUAL p and BH-adjusted p whether or not they pass.
+# Test the named GO terms in every module and report the p and BH-adjusted p
+# of each, whether or not they pass.
 # Because go_02_ora.R ran with pvalueCutoff = 1, a term missing from a
 # module's table was genuinely not tested (0 module genes in it, or the term
 # fell outside minGSSize/maxGSSize) rather than filtered out for being weak.

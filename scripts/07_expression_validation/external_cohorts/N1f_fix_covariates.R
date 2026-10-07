@@ -1,11 +1,11 @@
 ## ==========================================================================
-## N1f_fix_covariates.R -- repair three clinical-covariate defects found by
-## auditing the Cox convergence warnings emitted by N2.
-##   (1) TCGA-BRCA stage: the original regex tested "Stage II" BEFORE
-##       "Stage III", so every Stage IIIA/IIIB/IIIC patient was silently
-##       relabelled "II". 274 patients affected.
-##   (2) GSE21653: the literal string "NA" survived into node / ER / size and
-##       became its own factor level (a `nodeNA` term with an NA coefficient).
+## N1f_fix_covariates.R -- recodes three clinical covariates of the cohorts used
+## by N2 (identified from the Cox convergence warnings of N2).
+##   (1) TCGA-BRCA stage: "Stage III" is matched before "Stage II", so that
+##       Stage IIIA/IIIB/IIIC patients are coded III
+##       (274 patients).
+##   (2) GSE21653: the literal string "NA" in node / ER / size is read as
+##       missing rather than as its own factor level (`nodeNA`).
 ##   (3) GSE20685: stage level "1c" has n=2 and no events, giving an infinite
 ##       Cox coefficient; sub-stage letters are collapsed to the main stage.
 ## Every count printed below is computed in this run.

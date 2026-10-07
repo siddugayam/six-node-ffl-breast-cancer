@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Enumerate 3-node FFL cores WITHIN each deposited network separately, after applying
-only the identifier-harmonisation repair. This is the fairest reproduction of the
-authors' own per-network analysis and yields the census the manuscript never reported."""
+"""Enumerate 3-node FFL cores WITHIN each of the six networks of the original submission
+separately, after applying only the identifier harmonisation. This mirrors the per-network
+analysis of the original submission and gives the per-network census."""
 import csv, collections, json
 REV='/path/to/revision'
 REPO='/path/to/revision/analyses/original_submission_code'

@@ -1,6 +1,6 @@
 ## ---------------------------------------------------------------------------
-## v7 -- MCODE (Bader & Hogue 2003) as an independent convergent-validity test
-## of the manuscript's higher-order "reactive-stroma" module.
+## MCODE (Bader & Hogue 2003) as an independent convergent-validity test
+## of the higher-order reactive-stroma module.
 ## Implementation: scripts/14_module_detection/mcode.R, a faithful port of the Cytoscape MCODE
 ## app's Java source (validated against that app's own unit tests).
 ## Outputs: results/v7/mcode_*
@@ -49,7 +49,7 @@ stromal_union <- intersect(unique(unlist(sigs[c("FARMER_STROMAL","WEST_DTF_FIBRO
    "NABA_CORE_MATRISOME","ESTIMATE_STROMAL")])), nm)
 mir29 <- c("hsa-miR-29a","hsa-miR-29b","hsa-miR-29c")
 collagen <- c("COL1A1","COL3A1")
-## collagen axis as the manuscript states it: the two collagens, their TFs, miR-29
+## collagen axis: the two collagens, their TFs, miR-29
 collagen_axis <- intersect(c(collagen, "ETS1","NFKB1","RELA","SP1", mir29,
                              "hsa-miR-101","EZH2"), nm)
 refsets <- list(MS_exemplar_module = ms_exemplar, collagen_axis = collagen_axis,

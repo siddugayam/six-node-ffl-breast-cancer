@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the CORRECTLY counted core set.
+"""Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the unique cores (01a convention).
 
 Numbering, keyed on (sign X->Y, sign Y->Z, sign X->Z):
   C1 (+,+,+)  C2 (-,-,+)  C3 (-,+,-)  C4 (+,-,-)

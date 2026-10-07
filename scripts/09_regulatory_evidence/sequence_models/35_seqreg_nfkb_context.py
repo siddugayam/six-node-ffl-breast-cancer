@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """35_seqreg_nfkb_context.py -- every NF-kB-family ReMap 2022 peak within +/-100 kb of COL1A1
 and COL3A1, annotated by cell type and by the treatment string encoded in the ReMap dataset
-name (TNF, LPS, IL1, etc.). The manuscript's NF-kB -> collagen claim is about resting tumour
-tissue; this asks in what cellular context NF-kB has actually been observed at these loci.
+name (TNF, LPS, IL1, etc.). The NF-kB -> collagen edges of the network concern resting tumour
+tissue; this asks in what cellular context NF-kB has been observed at these loci.
 """
 import re, numpy as np, pandas as pd
 ROOT="/path/to/revision"; RES=f"{ROOT}/results/v3"; CACHE=f"{ROOT}/cache/seqreg"

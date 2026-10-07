@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-## Part D: integrated multi-omic summary for the manuscript's featured hubs
+## Part D: integrated multi-omic summary for the featured hubs
 suppressPackageStartupMessages({library(data.table)})
 RV<-"/path/to/revision"; OUT<-file.path(RV,"results/multiomics")
 

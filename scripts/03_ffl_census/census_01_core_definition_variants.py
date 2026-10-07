@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""FFL-core counting under several explicit definitional variants, so the
-published numbers can be matched to a definition rather than assumed."""
+"""FFL-core counting under several explicit definitional variants, to match the
+counts of the original submission to a definition."""
 import csv, os, re, collections, itertools, json
 import sys
 

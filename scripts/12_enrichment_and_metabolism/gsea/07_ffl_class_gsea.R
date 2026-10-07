@@ -15,7 +15,7 @@ ffl   <- sets$FFL_CLASS
 A     <- fread(file.path(RES, "gsea_all_results.csv"))
 CLS   <- c("3-miR", "3-TF", "3-Comp", "4-node", "5-node", "6-node")
 
-## ---------------- overlap between class node sets (honesty check) -----------
+## ---------------- overlap between class node sets -------------------------
 J <- CJ(a = CLS, b = CLS, sorted = FALSE)
 J[, n_a := lengths(ffl)[a]]; J[, n_b := lengths(ffl)[b]]
 J[, n_shared := mapply(function(x, y) length(intersect(ffl[[x]], ffl[[y]])), a, b)]

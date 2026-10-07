@@ -1,4 +1,4 @@
-## Consolidated claim-by-claim verification table -> results/v2/verify_expression.csv
+## Consolidated table of the expression tests of the named axes -> results/v2/verify_expression.csv
 suppressPackageStartupMessages({library(matrixStats)})
 setwd("/path/to/revision")
 gexp <- readRDS("data/brca_gene_expr.rds"); mexp <- readRDS("data/brca_mirna_expr_canonical.rds")

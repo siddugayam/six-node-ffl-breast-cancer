@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # 17_external_cohort_validation.R
 # Consolidates every external-cohort comparison into one table and computes the
-# replication rates requested: of the features significant in TCGA-BRCA, how many
+# replication rates: of the features significant in TCGA-BRCA, how many
 # replicate in the same direction in an independent cohort.
 # Output: results/external_cohort_validation.csv
 #         results/external_cohort_replication_summary.csv

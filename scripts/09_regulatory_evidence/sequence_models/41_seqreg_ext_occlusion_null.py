@@ -8,9 +8,9 @@ NF-kB / SP / ETS focus sites, so a statement like "shuffling the NFKB1 site chan
 predicted fibroblast CAGE by -0.75%" has no scale attached: we do not know what a
 load-bearing site at that promoter looks like, nor what an irrelevant one looks like.
 
-This script supplies the missing calibration, in two experiments.
+This script calibrates those effects, in two experiments.
 
-EXPERIMENT 1 -- ALL-SITE PROMOTER OCCLUSION (the null the first pass lacked).
+EXPERIMENT 1 -- ALL-SITE PROMOTER OCCLUSION (a null distribution for the focus sites).
   Every JASPAR2024/HOCOMOCOv11 site called at p<1e-4 in the COL1A1 and COL3A1 promoters
   (618 and 1,008 sites) is occluded in place by N_SHUF dinucleotide-preserving shuffles.
   Each focus-TF site can then be reported as a PERCENTILE of the promoter's own

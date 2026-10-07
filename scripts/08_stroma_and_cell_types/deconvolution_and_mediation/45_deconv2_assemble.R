@@ -4,7 +4,7 @@
 ##     that every new fibroblast estimate also exists in a form whose signature cannot
 ##     contain COL1A1 or COL3A1;
 ## (2) assemble EVERY fibroblast/stromal estimate available for the 1,097 TCGA-BRCA
-##     primary tumours -- the 26 from the first pass, the new algorithmic families, and
+##     primary tumours -- the 26 initial estimates, the new algorithmic families, and
 ##     the two NON-TRANSCRIPTOMIC estimates (ABSOLUTE DNA purity, pathologist slide
 ##     scoring) -- into one matrix;
 ## (3) write the full pairwise correlation matrices (Spearman and Pearson) -- part (B).

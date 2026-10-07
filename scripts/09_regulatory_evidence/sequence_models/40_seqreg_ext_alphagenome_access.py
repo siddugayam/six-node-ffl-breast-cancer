@@ -3,9 +3,9 @@
 
 Re-verification and EXTENSION of the AlphaGenome access record.
 
-Everything written here was observed directly. One fact is new relative to the
-first pass: AlphaGenome MODEL WEIGHTS are now publicly released (Jan 2026) on HuggingFace
-and Kaggle, so there is a second, keyless route that the first pass did not record. The
+Everything written here was observed directly. AlphaGenome model weights are
+publicly released (January 2026) on HuggingFace and Kaggle, which gives a second,
+keyless route besides the API key. The
 official Google repos are GATED ("gated": "auto"), i.e. they require a HuggingFace
 account and acceptance of the AlphaGenome Model Terms -- an account-holder action.
 
@@ -59,7 +59,7 @@ for url in ["https://deepmind.google.com/science/alphagenome",
     except Exception as e:
         add(f"GET {url}", "ERROR", str(e)[:200])
 
-# ---- 4. public weights (the route the first pass missed) ------------------------------
+# ---- 4. public weights (the keyless route) ---------------------------------------------
 for repo in ["google/alphagenome-all-folds", "gtca/alphagenome_pytorch"]:
     try:
         j = requests.get(f"https://huggingface.co/api/models/{repo}", timeout=45).json()

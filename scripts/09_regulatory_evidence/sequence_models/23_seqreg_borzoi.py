@@ -4,7 +4,7 @@ predictions at the COL1A1/COL3A1/miR-29 loci.
 
 Borzoi is used in addition to Enformer because its human head contains RELA and RELB ChIP
 tracks (Enformer's does not contain any NF-kB-family track at all) and 1,543 RNA-seq tracks
-including GTEx fibroblast and breast, so the manuscript's NFKB/RELA -> collagen claim can be
+including GTEx fibroblast and breast, so the NFKB1/RELA -> collagen edges of the network can be
 put to a sequence-based test.
 Input 524,288 bp, output 6,144 bins x 32 bp (196,608 bp) x 7,611 human tracks.
 Weights: johahi/borzoi-replicate-{0..3} on HuggingFace (Calico weights ported to PyTorch).

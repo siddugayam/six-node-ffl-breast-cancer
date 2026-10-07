@@ -15,24 +15,24 @@ The census of the paper was re-run in `analyses/census_and_motif_nulls/`.
 
 | Script | What it does |
 |---|---|
-| `01a_counting_convention.py` | Resolve the composite-FFL counting ambiguity definitively. |
-| `01b_coherence_corrected.py` | Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the CORRECTLY counted core set. |
-| `02_ffl_census.py` | Formal definition, exact census and Alon coherence typing of n-node feed-forward loops in the repaired breast-cancer miRNA-TF-gene network. |
+| `01a_counting_convention.py` | Composite-FFL counting convention: one motif instance or two. |
+| `01b_coherence_corrected.py` | Coherent / incoherent typing (Mangan & Alon, PNAS 2003) on the unique cores (01a convention). |
+| `02_ffl_census.py` | Formal definition, exact census and Alon coherence typing of n-node feed-forward loops in the canonical breast-cancer miRNA-TF-gene network. |
 | `02b_ffl_class_coverage.py` | Smallest module size that admits one edge of every regulatory type (TF–TF, TF–miRNA, miRNA–miRNA, miRNA–gene, TF–gene, gene–gene), and the edge classes of larger modules. |
 | `02c_candidate_space.py` | Computes, exactly, the number of candidate vertex sets the exhaustive enumeration must examine for each module size n (the figures in section 8 of results/ffl_definition_check.md). |
-| `02e_exemplar_audit.py` | Audits the authors' deposited exemplar circuits (SIF_files/4-TF.sif, 5-TF.sif, 6-TF.sif) against the formal definition: edge support, whole-structure size, exhaustive test of every induced n-subset, and the subsets matching the … |
+| `02e_exemplar_audit.py` | Tests the exemplar circuits of the original submission (SIF_files/4-TF.sif, 5-TF.sif, 6-TF.sif) against the formal definition: edge support, whole-structure size, exhaustive test of every induced n-subset, and the subsets … |
 | `02g_nineclass_search.py` | Exact targeted search for modules realising ALL NINE interaction classes present in G. |
-| `02h_exemplar_permissive.py` | Re-tests the authors' deposited exemplars on the PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as orientable edges (so COL1A1--COL3A1, which has no directed evidence anywhere, does become … |
+| `02h_exemplar_permissive.py` | Re-tests the exemplar circuits of the original submission on the PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as orientable edges (so COL1A1--COL3A1, which has no directed evidence anywhere, does … |
 | `02x_ffl_core_crosscheck.py` | Independent cross-check of the 3-node FFL census and coherence typing. |
-| `02y_ffl_per_network.py` | Enumerate 3-node FFL cores WITHIN each deposited network separately, after applying only the identifier-harmonisation repair. |
+| `02y_ffl_per_network.py` | Enumerate 3-node FFL cores WITHIN each of the six networks of the original submission separately, after applying only the identifier harmonisation. |
 | `03_ffl_census.py` | n-node feed-forward loop census by connected-induced-subgraph enumeration. |
 | `03_ffl_census_nolegacymirna.py` | n-node feed-forward loop census by connected-induced-subgraph enumeration. |
 | `03_ffl_enumerate.py` | Formal enumeration of n-node feed-forward loops. |
 | `11_ffl_module_membership.R` | Enumerate the node sets of the three- to six-node FFL modules (composite core; plus a gene–gene edge at four nodes, a miRNA–miRNA edge at five and a TF–TF edge at six) and write data/ffl_module_sets.rds. |
 | `60_census_nostring.py` | Sensitivity re-run of the RAND-ESU n-node FFL census (scripts/03_ffl_census/03_ffl_census.py) with STRING co-functional associations EXCLUDED from the gene-gene layer. |
 | `60_census_sensitivity.py` | Sensitivity of the n-node feed-forward-loop census to three construction choices of the census graph. |
-| `census_01_core_definition_variants.py` | FFL-core counting under several explicit definitional variants, so the published numbers can be matched to a definition rather than assumed. |
-| `census_02_definition_grid.py` | Brute-force grid over plausible 3-node FFL definitions, searching for which (if any) reproduces the published 6,037 'exhaustive' figure. |
+| `census_01_core_definition_variants.py` | FFL-core counting under several explicit definitional variants, to match the counts of the original submission to a definition. |
+| `census_02_definition_grid.py` | Brute-force grid over plausible 3-node FFL definitions, compared with the 6,037 three-node FFLs of the original submission. |
 | `census_03_build_graph.py` | Independent builder of the census graph, used to cross-check the motif counts. |
 | `census_04_n3_graph_variants.py` | Exhaustive n=3 FFL census under the formal definition (D1-D4), plus the two alternative 'core' counting conventions, for several graph-augmentation variants. |
 | `census_05_n3_per_network.py` | Three-node FFL count (conditions D1-D4) for each of the six networks of the original submission, selected by the in_networks column of data/canonical_edges.tsv; prints the counts. |

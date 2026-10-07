@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""P3a sensitivity analysis, descriptive, added on request after the primary result had been seen (2026-09-28 01:55):
+"""P3a sensitivity analysis, descriptive, specified after the primary result had been seen (2026-09-28 01:55):
 25 of the 40 contrasts come from one series (GSE115646), so the contrasts are first averaged within each series and the
 series are then pooled by REML, per tier.  Series value = unweighted mean of its contrasts' shifts; its SE = the mean of
 their SEs (treats a series' contrasts as fully correlated, which is conservative for contrasts that share controls).

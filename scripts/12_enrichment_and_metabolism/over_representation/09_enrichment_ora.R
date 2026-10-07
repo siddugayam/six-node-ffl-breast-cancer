@@ -4,27 +4,27 @@
 # Over-representation analysis (ORA) for every FFL motif class, with an EXPLICIT
 # background universe, full statistics, and a low-support flag.
 #
-# Answers:
-#                         "'Proteoglycans in cancer' does not appear in the bar plot"
+# Reports every tested term, including terms such as 'Proteoglycans in cancer'
+# that do not reach significance.
 #
 # PARAMETERS
 #   pAdjustMethod = "BH"
 #   pvalueCutoff  = 1, qvalueCutoff = 1  at the enrich* call, so that the FULL tested
 #                   term table is returned; significance is then applied downstream and
 #                   recorded per row.  This is required to be able to report the actual
-#                   p / p.adjust of terms the manuscript claims but which are NOT enriched.
+#                   p / p.adjust of named terms that are NOT enriched.
 #   minGSSize = 10, maxGSSize = 500   (term size limits; clusterProfiler defaults)
 #   readable  = TRUE                  (Entrez -> HGNC symbols in geneID)
 #
 # BACKGROUND UNIVERSES
 #   universe_A "TCGA_tested_plus_network" - the 20,250 genes tested for differential
 #      expression in TCGA-BRCA (results/BRCA_DEX_genes.csv) UNION the protein-coding
-#      nodes of the canonical network.  This is the universe the task specifies.
-#      The 1,057-gene breast-cancer universe quoted in the manuscript is NOT recoverable:
-#      it is not deposited in the authors' GitHub repository (only the 6 node-attribute
-#      and 6 SIF files are), and the manuscript itself gives two contradictory
-#      compositions for it (line 140: "1,057 genes including 233 TFs"; line 286:
-#      "1,057 genes ... among which 665 were identified as transcription factors").
+#      nodes of the canonical network.  This is the primary universe.
+#      The 1,057-gene breast-cancer gene list of the original submission is not part
+#      of its deposited files (6 node-attribute and 6 SIF files), so the tested-gene
+#      universe is used instead.
+#
+#
 #   universe_B "network_protein_coding" - the 364 protein-coding nodes of the canonical
 #      network only.  This is the curation-matched control: every gene in it was already
 #      hand-picked as breast-cancer related, so enrichment for cancer terms against it is
@@ -151,7 +151,7 @@ ALL[, low_support_lt3_genes := Count < LOW_SUPPORT]
 fwrite(ALL, file.path(REV, "results/enrichment_all_motifs_FULL.csv"))
 lg("wrote enrichment_all_motifs_FULL.csv rows=", nrow(ALL))
 
-# ---------------------------------------------------------- manuscript-claimed terms
+# ---------------------------------------------------------- named terms
 CLAIMED <- c(
   "fibrillar collagen trimer", "banded collagen fibril",
   "Proteoglycans in cancer", "Antifolate resistance", "Relaxin signaling pathway",
@@ -161,7 +161,7 @@ CLAIMED <- c(
   "Diabetic cardiomyopathy", "Fluid shear stress and atherosclerosis",
   "collagen-containing extracellular matrix", "extracellular structure organization",
   "supramolecular fiber organization", "collagen fibril organization",
-  # NOTE: "gene silencing" (GO:0016458), the term printed in the manuscript's Figure 7B,
+  # NOTE: "gene silencing" (GO:0016458), the term of Figure 7B of the original submission,
   # is OBSOLETE in the current GO release and cannot be tested. Its surviving relatives
   # are included instead.
   "gene silencing", "regulatory ncRNA-mediated gene silencing",
@@ -172,8 +172,8 @@ CLAIMED <- c(
   "Nuclear events mediated by NFE2L2")
 ALL[, manuscript_claimed_term := Description %in% CLAIMED]
 
-# main deliverable: significant terms + every manuscript-claimed term (so that terms the
-# manuscript names but which are NOT enriched are still reported, with their real p)
+# main table: significant terms + every named term (so that named terms that are
+# NOT enriched are still reported, with their p values)
 MAIN <- ALL[significant_BH_0.05 == TRUE | manuscript_claimed_term == TRUE]
 setorder(MAIN, motif_set, universe, ontology, pvalue)
 fwrite(MAIN, file.path(REV, "results/enrichment_all_motifs.csv"))

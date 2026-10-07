@@ -3,8 +3,8 @@
 # EXTERNAL COHORT 3 (+4): GEO breast tumour-vs-normal series on Affymetrix GPL570.
 #   GSE42568 - 17 normal breast + 104 breast tumours
 #   GSE45827 - breast tumour subtypes incl. normal breast, if normals are present
-# Replicates the DIRECTION of the TCGA tumour-vs-normal differential expression for
-# independent tissue-based cohort for the DE claims.
+# Replicates the DIRECTION of the TCGA tumour-vs-normal differential expression in an
+# independent tissue-based cohort.
 # Output: results/external_GEO_DE.csv
 
 suppressPackageStartupMessages({

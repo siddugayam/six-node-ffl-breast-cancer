@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*-
 """
 10b_dynamics_extra_figures.py
-Figures for the analyses added after the first pass.
+Figures for the later dynamics analyses (07c_consolidate_additions.py).
 
 Fig_dyn9   the one qualitative gain of function from higher order: a certified
            limit cycle in the 6-node composite module whose own 3-node core is
            dead flat at the same parameters
 Fig_dyn10  intrinsic-noise buffering measured with chemical Langevin equations
-           (the Osella et al. 2011 claim, tested rather than asserted)
+           (the Osella et al. 2011 prediction, tested)
 Fig_dyn11  paired effect sizes versus the matched cascade control, and the
-           corrected fold-change-detection test
+           peak-amplitude fold-change-detection test (02g)
 Every panel is skipped, with a message, if its input file is missing.
 """
 import os, sys, numpy as np, pandas as pd

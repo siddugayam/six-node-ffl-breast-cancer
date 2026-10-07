@@ -5,9 +5,9 @@
 #   *** THIS IS INFERENCE FROM TRANSCRIPT ABUNDANCE, NOT METABOLOMICS. ***
 #   It says nothing about metabolite flux or concentration.
 #
-# Direct test of manuscript claim (i): let-7b -> HK2 -> glycolysis.
-# Test of claim (ii): antifolate / one-carbon score in tumour, vs module scores.
-# Inputs for claim (iii) AGE-RAGE handled here; NRF2/KEAP1 in E3.
+# Test of association (i): let-7b -> HK2 -> glycolysis.
+# Test of association (ii): antifolate / one-carbon score in tumour, vs module scores.
+# Inputs for association (iii) AGE-RAGE handled here; NRF2/KEAP1 in E3.
 # Output: results/multiomics/metabolic_pathway_scores.csv
 # =============================================================================
 suppressPackageStartupMessages({

@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
-# v7 / 07 : the direct test of the paper's claim.
+# Test of the reactive-stroma module.
 #   Q1  Do the ECM / reactive-stroma genes concentrate in ONE module?
-#   Q2  Does that module also hold miR-29a (the surviving axis) and the TF arm
-#       (ETS1, NFKB1, RELA, SP1) that the paper argues is compartment composition?
+#   Q2  Does that module also hold miR-29a and the TF arm (ETS1, NFKB1, RELA,
+#       SP1), whose collagen association tracks compartment composition?
 suppressMessages({library(igraph); library(data.table)})
 setwd("/path/to/revision")
 set.seed(20260912)

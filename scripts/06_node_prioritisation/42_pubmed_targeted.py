@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Targeted PubMed lookups for specific claims; prints PMID/year/journal/title for selection."""
+"""Targeted PubMed lookups for specific statements; prints PMID/year/journal/title for selection."""
 import json, time, urllib.parse, urllib.request, sys
 EUT="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 TOOL="&tool=ffl_revision&email=your.email@example.org"

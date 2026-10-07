@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 07c_consolidate_additions.py
-Appends the results produced after the first pass to dynamics_key_results.csv, each
-with the file it came from, so that every number quoted in the manuscript can be
+Appends the results of the later dynamics analyses to dynamics_key_results.csv, each
+with the file it came from, so that every number quoted in the paper can be
 traced to one line of one CSV.  Run AFTER 07_consolidate.py.
 """
 import os, numpy as np, pandas as pd

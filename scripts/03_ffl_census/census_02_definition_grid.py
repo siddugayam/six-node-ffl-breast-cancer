@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Brute-force grid over plausible 3-node FFL definitions, searching for which
-(if any) reproduces the published 6,037 'exhaustive' figure."""
+"""Brute-force grid over plausible 3-node FFL definitions, compared with the 6,037
+three-node FFLs of the original submission."""
 import csv,os,re,collections,itertools
 SIF="/path/to/revision/analyses/original_submission_code/SIF_files"
 ATT="/path/to/revision/analyses/original_submission_code/node_attributes"

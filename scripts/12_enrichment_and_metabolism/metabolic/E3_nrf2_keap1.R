@@ -1,16 +1,16 @@
 #!/usr/bin/env Rscript
 # =============================================================================
 # E3_nrf2_keap1.R
-# PART C: the manuscript claims KEAP1-NFE2L2 enrichment in the 5- and 6-node
-# networks implies therapy resistance. Tested four ways:
+# PART C: KEAP1-NFE2L2 enrichment in the 5- and 6-node networks and its link
+# to therapy resistance. Tested four ways:
 #   1. Are NFE2L2 / KEAP1 (or any canonical NRF2 target) actually IN the network?
 #      What genes carry the reported Reactome KEAP1-NFE2L2 enrichment?
 #   2. NFE2L2 target-signature GSVA score: tumour vs normal, and vs module scores,
-#      benchmarked against 1,000 random same-size signatures (the control that the
-#      NF-kB activity score needed in the earlier phase).
+#      benchmarked against 1,000 random same-size signatures (the same control as
+#      for the NF-kB activity score).
 #   3. NFE2L2 / KEAP1 expression and mutation in TCGA-BRCA (MC3).
-#   4. BRCA vs LUAD / LUSC mutation frequency - the honest comparison, since the
-#      resistance literature the claim leans on is lung-derived.
+#   4. BRCA vs LUAD / LUSC mutation frequency, since the KEAP1-NFE2L2
+#      resistance literature is lung-derived.
 # Output: results/multiomics/nrf2_keap1_brca.csv
 # =============================================================================
 suppressPackageStartupMessages({library(data.table)})

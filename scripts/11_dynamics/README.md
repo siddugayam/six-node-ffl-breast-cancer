@@ -17,7 +17,7 @@ Controls and variants: `analyses/dynamics_controls/`, `analyses/six_node_pattern
 | `02d_adaptive_solver_crosscheck.py` | INDEPENDENT NUMERICAL VERIFICATION of the dynamical battery. |
 | `02e_paired_tests_and_textbook_validation.py` | Paired tests of each three-node topology against the regulated cascade at the same Sobol parameter sets, and validation of the model against textbook FFL behaviour. |
 | `02f_pulse_longwindow.py` | FIX FOR A REPORTING ARTEFACT IN THE PULSE STATISTICS. |
-| `02g_fcd_recomputed.py` | CORRECTED FOLD-CHANGE-DETECTION TEST. |
+| `02g_fcd_recomputed.py` | FOLD-CHANGE-DETECTION TEST WITH THE AMPLITUDE MEASURED AT THE PEAK. |
 | `02h_stochastic_noise_buffering.py` | DOES THE miRNA-MEDIATED INCOHERENT FFL BUFFER NOISE? |
 | `02i_paper_table1.py` | A compact, print-ready version of the 3-node comparison table: the columns a journal table would actually carry, formatted as text, with the full 46-column version left in dynamics_3node_comparison_table.csv for the supplement. |
 | `02j_noise_at_matched_mean.py` | NOISE COMPARED AT MATCHED MEAN OUTPUT. |

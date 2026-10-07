@@ -4,8 +4,8 @@
 #  (i)  per-stratum counts of edges whose correlation is SIGNIFICANT and in the predicted
 #       direction vs significant and in the OPPOSITE direction, real edges vs matched nulls
 #       -> results/directional_evidence_counts.csv  and the expression-supported sub-network
-#  (ii) a sharper, two-group control for the published ANOVA: random mRNAs vs random miRNAs
-#       (no hub selection at all) tested exactly as the authors tested their hubs.
+#  (ii) a two-group control for the TF-versus-miRNA logFC ANOVA: random mRNAs vs random
+#       miRNAs (no hub selection) tested in the same way as the hubs.
 
 REV <- "/path/to/revision"
 con <- file(file.path(REV, "logs", "expr_validation_part3.log"), open = "wt")
@@ -106,7 +106,7 @@ say("  |logFC| t-test  p<0.05 in ", signif(mean(p_abs < 0.05), 4), " of draws (m
 say("  logFC  t-test   p<0.05 in ", signif(mean(p_raw < 0.05), 4), " of draws (median p ", signif(median(p_raw), 4), ")")
 say("  variance F-test p<0.05 in ", signif(mean(p_var < 0.05), 4), " of draws (median p ", signif(median(p_var), 4), ")")
 
-## same, using ALL network nodes rather than 20 (higher power, the honest comparison)
+## same, using ALL network nodes rather than 20 (higher power)
 nodes <- read.delim(file.path(REV, "data", "canonical_nodes.tsv"), stringsAsFactors = FALSE)
 nt <- setNames(nodes$type, nodes$name)
 dg$class <- unname(nt[dg$feature]); dm$class <- unname(nt[dm$feature])

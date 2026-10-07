@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-02b_ffl_class_coverage.py -- tests the manuscript's rationale for stopping at six
-nodes: "six is the smallest module size that admits one edge of every regulatory
-type (TF-TF, TF-miRNA, miRNA-miRNA, miRNA-gene, TF-gene, gene-gene), and beyond
-six the modules add no new interaction class."
+02b_ffl_class_coverage.py -- tests whether six is the smallest module size that
+admits one edge of every regulatory type (TF-TF, TF-miRNA, miRNA-miRNA,
+miRNA-gene, TF-gene, gene-gene), and whether larger modules add any new
+interaction class.
 
 Writes results/ffl_class_coverage.tsv
 """

@@ -3,9 +3,9 @@
 
 EXTENSION of 24_seqreg_chipatlas.py.
 
-The first pass answered "is TF X bound at COL1A1?" from ChIP-Atlas's PRE-COMPUTED
-target-gene tables, and 203 of 3,702 of those requests failed (HTTP 404), including
-MKL1/MRTFA. This script instead downloads the ACTUAL PEAK FILES of every
+24_seqreg_chipatlas.py answered "is TF X bound at COL1A1?" from ChIP-Atlas's pre-computed
+target-gene tables, of which 203 of 3,702 requests returned HTTP 404 (MKL1/MRTFA among
+them). This script instead downloads the peak files of every
 fibroblast/mesenchymal TF ChIP-seq experiment in ChIP-Atlas hg38 and intersects them with
 the loci directly, so the fibroblast result is a direct peak-level observation rather than
 an inherited annotation.

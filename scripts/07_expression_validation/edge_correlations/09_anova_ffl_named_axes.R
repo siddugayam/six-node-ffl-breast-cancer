@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 # 09_anova_ffl_named_axes.R
-# D) quantitative demonstration that the published TF-vs-miRNA logFC ANOVA is invalid
+# D) the TF-versus-miRNA logFC ANOVA of the original submission, set against the logFC of all tested features
 # E) FFL-level (3-node core) sign-coherence validation
-# F) the manuscript's named regulatory axes, measured
+# F) the named regulatory axes, measured
 # + sensitivity analysis: partial Spearman correlation adjusting for the top 5 PCs
 #   (global tumour-composition / purity confounding)
 
@@ -24,7 +24,7 @@ node_type <- setNames(nodes$type, nodes$name)
 say("workspace: ", nrow(E), " edges, ", nrow(NL), " null pairs, n=", N_PAIRED, " paired tumours")
 
 ##############################################################################
-## D) WHY THE PUBLISHED ANOVA WAS WRONG
+## D) TF-VERSUS-miRNA logFC ANOVA
 ##############################################################################
 say("=== D) ANOVA CHECK ===")
 dg <- read.csv(file.path(REV, "results", "BRCA_DEX_genes.csv"), stringsAsFactors = FALSE)
@@ -67,7 +67,7 @@ for (i in seq_len(nrow(ANOVATAB))) say(sprintf("%-26s n=%5d  logFC mean=%+.3f sd
   ANOVATAB$set[i], ANOVATAB$n[i], ANOVATAB$mean_logFC[i], ANOVATAB$sd_logFC[i],
   ANOVATAB$range_logFC[i], ANOVATAB$mean_AveExpr[i], ANOVATAB$sd_AveExpr[i], ANOVATAB$range_AveExpr[i]))
 
-## the authors' test, reproduced on the top-20 hubs of each class
+## the test of the original submission, reproduced on the top-20 hubs of each class
 top <- DE[DE$is_top20hub, ]
 top$class <- factor(top$class, levels = c("TF", "Gene", "miRNA"))
 aovfit <- aov(logFC ~ class, data = top); asum <- summary(aovfit)[[1]]

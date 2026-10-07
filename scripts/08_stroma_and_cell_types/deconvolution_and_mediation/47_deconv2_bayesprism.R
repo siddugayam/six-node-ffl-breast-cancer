@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 ## 47_deconv2_bayesprism.R
-## Run the REAL BayesPrism (Danko-Lab, v2.2.3) against the Wu et al. 2021 breast
-## single-cell atlas, and check it against the InstaPrism run from the first pass.
+## Run BayesPrism (Danko-Lab, v2.2.3) against the Wu et al. 2021 breast
+## single-cell atlas, and compare it with the InstaPrism estimates.
 ## BayesPrism's Gibbs sampler on 1,097 bulk samples x ~16k genes is expensive, so it is
 ## run on a random subset of tumours (default 200, seed fixed) and used as a validation
 ## of InstaPrism, which is an analytic reimplementation of the same model and was run on

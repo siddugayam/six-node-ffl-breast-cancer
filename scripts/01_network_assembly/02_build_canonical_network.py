@@ -4,14 +4,14 @@
 Rebuild a single, canonical, DIRECTED, SIGNED, type-annotated regulatory network
 from the six Cytoscape exports in miRNA_Github_GPR/.
 
-Repairs applied (each logged):
-  R1  miRBase case collapse:  hsa-mir-X (precursor) and hsa-miR-X (mature) were
-      deposited as two disconnected nodes, which severs the TF->miRNA and
-      miRNA->target arms of every FFL. Collapsed to one canonical mature node.
+Processing steps (each logged):
+  R1  miRBase case collapse:  the hsa-mir-X (precursor) and hsa-miR-X (mature) names
+      of one miRNA are merged into one canonical mature node, so that the
+      TF->miRNA and miRNA->target arms of each FFL connect.
   R2  Duplicate edges removed (SIF files contain repeated rows).
-  R3  Node-type conflicts resolved (10 bona fide TFs were labelled 'Gene' in
-      some exports): TF assignment is the union across all six files.
-  R4  Edges made DIRECTED (the published pipeline built an undirected igraph).
+  R3  Node types harmonised (10 TFs were labelled 'Gene' in some exports):
+      TF assignment is the union across all six files.
+  R4  Edges made DIRECTED (the original pipeline used an undirected igraph).
   R5  Edge signs assigned by regulator class, later refined with TRRUST mode.
 """
 import csv, re, json, collections, os, sys

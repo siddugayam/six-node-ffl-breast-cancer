@@ -1,4 +1,4 @@
-# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T); relabelled 2026-09-26 from an earlier non-standard numbering.
+# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T).
 """
 ffl_cores.py -- exact enumeration and Mangan & Alon (2003) coherence typing of
 every 3-node FFL core (R->M, R->T, M->T) in the canonical directed signed graph.

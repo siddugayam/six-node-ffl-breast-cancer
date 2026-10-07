@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-02h_exemplar_permissive.py -- re-tests the authors' deposited exemplars on the
-PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as
+02h_exemplar_permissive.py -- re-tests the exemplar circuits of the original submission
+on the PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as
 orientable edges (so COL1A1--COL3A1, which has no directed evidence anywhere, does
-become available).  Also tests, directly, the higher-order wiring the manuscript
-states in Methods (MS.md lines 217-226).
+become available).  Also tests, directly, the higher-order wiring given in the
+Methods.
 
 Result recorded in results/ffl_definition_check.md sections 4 and 5.
 """
@@ -42,7 +42,7 @@ for n, fn, tgt in ((4, "4-TF.sif", {'TF': 1, 'miRNA': 1, 'Gene': 2}),
     for S, r in shown[:8]:
         print("      ", ",".join(S), "-> order:", " -> ".join(r['order']), "ndisj=%d" % r['ndisj'])
 
-print("\nDIRECT TEST of the wiring stated in Methods (MS.md lines 217-226):")
+print("\nDIRECT TEST of the wiring given in the Methods:")
 def mk(edges, und=()):
     A = set(edges); U = set()
     for a, b in und:

@@ -1,5 +1,5 @@
 ## 24_metabolic_three_claims.R --------------------------------------------
-## Part D: test the manuscript's three metabolic claims to a verdict.
+## Part D: tests of three metabolic associations (outputs metabolic_claim_*).
 ##  (i)   glycolysis / let-7b -> HK2
 ##  (ii)  antifolate resistance
 ##  (iii) AGE-RAGE as a metabolic-stress sensor (vs stromal confounding)

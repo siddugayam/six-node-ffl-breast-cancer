@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # E) Evidence tier for every miRNA_target edge in the canonical network.
-#    The manuscript pooled miRWalk (PREDICTED) with miRTarBase (VALIDATED) and treated the
-#    union as one homogeneous edge set. Here every miRNA-target pair is checked against
+#    The original network pools miRWalk (PREDICTED) and miRTarBase (VALIDATED) edges.
+#    Here every miRNA-target pair is checked against
 #    multiMiR's *validated* tables (miRTarBase / TarBase / miRecords) and tiered.
 #
 #  IMPORTANT SEMANTICS (verified against the retrieved records, not assumed):

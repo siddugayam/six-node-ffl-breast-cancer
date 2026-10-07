@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""R1 (analyses/perturbation_sensitivity): rebuild of results/v6/atac_encode_compartment_specificity_tests.csv, for which no saved script
-exists (it was written on 2026-09-10 at 10:25, one minute after scripts/09_regulatory_evidence/encode_accessibility/atac_06_encode_compartment.py last changed, by a
-step that was not kept).  The rule is read off the stored file and checked against it:
+"""Rebuilds results/v6/atac_encode_compartment_specificity_tests.csv, the compartment-specificity tests of
+scripts/09_regulatory_evidence/encode_accessibility/atac_06_encode_compartment.py, and checks the result against the
+stored file:
   input   results/v6/atac_encode_region_accessible.csv (atac_06's 0/1 matrix: query region x ENCODE sample)
   samples epithelial = MCF-7, MCF 10A, breast epithelium (5); fibroblast = IMR-90 and fibroblasts of mammary gland,
           dermis and lung (5); the compartments of atac_06 (EPI / FIB lists)

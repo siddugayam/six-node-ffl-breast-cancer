@@ -9,7 +9,7 @@ identifiable from cross-sectional data.  This script therefore states the SAME
 prediction in a form that depends on no model at all -- the local logarithmic
 slope of the measured relationship -- for every miRNA / target / layer / cohort
 combination, with bootstrap confidence intervals, so the prediction can be
-quoted with an honest interval and checked against an experiment directly.
+quoted with an interval and checked against an experiment directly.
 
   fold-change of miR-29 needed to halve the target = 2^(1 / |slope|)
   where slope = d log2(target) / d log2(miR-29)

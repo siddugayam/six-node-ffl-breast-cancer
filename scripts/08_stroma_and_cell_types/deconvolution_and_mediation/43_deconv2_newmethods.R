@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
-## 43_deconv2_newmethods.R -- ADD independent deconvolution methods that were not in the
-## first pass, so that the mediation re-test spans several algorithm FAMILIES and not
-## only several signature sets.
+## 43_deconv2_newmethods.R -- further independent deconvolution methods, so that the
+## mediation analysis spans several algorithm FAMILIES and not only several
+## signature sets.
 ##
 ## Families now represented:
 ##   marker/enrichment  : MCP-counter, xCell, ssGSEA, ConsensusTME, ESTIMATE   (already run)
@@ -14,7 +14,7 @@
 ##   NEW: RLS   (robust iteratively-reweighted least squares, MASS::rlm)
 ##   NEW: TIMER and ABIS via the immunedeconv wrapper
 ##   NEW: immunedeconv-wrapper reruns of EPIC / MCP-counter / quanTIseq as a
-##        cross-implementation control on the first pass
+##        cross-implementation control on the initial estimates
 ## Every method that can see fibroblasts is run against the SAME Wu et al. 2021 breast
 ## single-cell signature matrix, so the algorithm is the only thing that differs.
 suppressPackageStartupMessages({library(data.table); library(parallel); library(MASS)})

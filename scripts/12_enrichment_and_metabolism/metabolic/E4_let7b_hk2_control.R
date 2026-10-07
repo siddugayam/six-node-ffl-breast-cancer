@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # =============================================================================
 # E4_let7b_hk2_control.R
-# The specificity control for manuscript claim (i).
+# Specificity control for association (i), let-7b and glycolysis.
 # let-7b IS weakly negatively correlated with the glycolysis score (rho -0.09).
 # Taken alone that looks supportive. The question is whether it is REMARKABLE.
 # Benchmark: rank let-7b among ALL 495 measured miRNAs for

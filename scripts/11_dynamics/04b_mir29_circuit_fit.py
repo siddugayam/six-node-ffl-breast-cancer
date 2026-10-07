@@ -3,7 +3,7 @@
 """
 04b_mir29_circuit_fit.py  --  Part D: parameterise one concrete circuit from the data.
 
-CIRCUIT (all four edges are in the manuscript's own network, data/canonical_edges.tsv):
+CIRCUIT (all four edges are in the network, data/canonical_edges.tsv):
     NFKB1  -| hsa-miR-29a/b/c     TransmiR, Repression, PMID 18977326 / 20564213
     miR-29 -| COL1A1              miRNA_target, sign -1
     miR-29 -| NFKB1               miRNA_target, sign -1   <- reciprocal arm => COMPOSITE

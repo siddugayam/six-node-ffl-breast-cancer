@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T); relabelled 2026-09-26 from an earlier non-standard numbering.
+# Sub-type numbering of Mangan and Alon (2003), signs (R->M, M->T, R->T).
 """
 02_ffl_census.py -- formal definition, exact census and Alon coherence typing of
-n-node feed-forward loops in the repaired breast-cancer miRNA-TF-gene network.
+n-node feed-forward loops in the canonical breast-cancer miRNA-TF-gene network.
 
-FORMAL DEFINITION (the methodological contribution of the revision)
+FORMAL DEFINITION
 -------------------------------------------------------------------
 Let G be the canonical DIRECTED, SIGNED, TYPED graph built by scripts/03_ffl_census/ffl_graph.py
 (canonical_edges.tsv augmented with layer_TF_target / layer_TF_miRNA /
@@ -50,7 +50,7 @@ OUTPUTS (results/)
                           instances per architecture class for n=5 and n=6 (the
                           exact totals are in ffl_census.csv; a complete listing
                           is impossible at n=6).
-  ffl_definition_check.md how the authors' deposited exemplars score
+  ffl_definition_check.md how the exemplar circuits of the original submission score
 """
 import csv, os, sys, subprocess, itertools, json
 from collections import Counter, defaultdict

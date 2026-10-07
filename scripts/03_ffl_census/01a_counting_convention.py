@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Resolve the composite-FFL counting ambiguity definitively.
+"""Composite-FFL counting convention: one motif instance or two.
 
 A composite FFL is (TF, miRNA, gene) where TF->miRNA AND miRNA->TF both exist, and both act on
 the gene. The question is whether that is ONE motif instance or TWO. It is one: the reciprocal
-pair is a single mutual regulatory relationship comprising two directed arcs, exactly the point
-This script reports both numbers and the exact factor, so the manuscript can state one."""
+pair is a single mutual regulatory relationship comprising two directed arcs.
+This script reports both numbers and the exact factor between them."""
 import csv, collections, itertools
 REV='/path/to/revision'
 

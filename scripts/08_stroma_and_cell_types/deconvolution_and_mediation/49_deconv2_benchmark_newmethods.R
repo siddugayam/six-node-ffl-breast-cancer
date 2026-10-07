@@ -4,7 +4,7 @@
 ## Pseudo-bulk mixtures of known composition are built from the Wu et al. 2021 atlas
 ## with a PATIENT-level hold-out: the signature matrix and the InstaPrism reference are
 ## built from one half of the patients, the mixtures are simulated from the other half.
-## Caveat (same as the first pass): simulated mixtures carry no bulk technical noise,
+## Caveat (as for the initial benchmark): simulated mixtures carry no bulk technical noise,
 ## no ambient RNA and no cell-type mRNA-content differences, so absolute accuracy is an
 ## upper bound and only the ranking between methods should be used.
 suppressPackageStartupMessages({library(data.table); library(nnls); library(MASS);
@@ -100,7 +100,7 @@ EST$DWLS <- t(apply(Y, 2, function(b) {
   M <- dd$estimates[seq_len(nrow(Yd)), , drop = FALSE]; colnames(M) <- colnames(REF)
   EST$DTANGLE <- M
 }
-## MCP-counter and EPIC and InstaPrism, for continuity with the first-pass benchmark
+## MCP-counter and EPIC and InstaPrism, for continuity with the initial benchmark
 EST$MCPcounter <- tryCatch({ library(MCPcounter)
   t(MCPcounter::MCPcounter.estimate(LMIX, featuresType = "HUGO_symbols")) }, error = function(e) NULL)
 EST$EPIC <- tryCatch({ library(EPIC); EPIC::EPIC(bulk = MIX, reference = "TRef",

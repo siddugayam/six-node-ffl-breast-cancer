@@ -1,4 +1,4 @@
-## Community-detection claims of Supplementary Note S6 / Table S9, with and without the 30 legacy
+## Community-detection results of Supplementary Note S6 / Table S9, with and without the 30 legacy
 ## GeneMANIA miRNA-miRNA edges.  Partitions come from scripts/14_module_detection/04_igraph_battery.R run unchanged in
 ## sandbox_<mode>/ (setup_sandbox.sh); this script repeats the logic of 05_analysis.R (run summary),
 ## 06_consensus_and_stability.R (degeneracy rule), 08_stroma_module_test.R (COL1A1-module membership),

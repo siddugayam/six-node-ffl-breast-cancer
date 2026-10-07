@@ -13,7 +13,7 @@
 | `N1c_build_geo2.R` | N1c: add GSE20685 (GPL570) and GSE22219 (GPL6098) to the cohort list |
 | `N1d_build_scanb.py` | Stream the 592 MB SCAN-B (GSE96058) expression CSV and keep only the rows needed for the replication analysis (hubs + CAF signatures + collagens/TFs). |
 | `N1e_build_scanb.R` | Add SCAN-B / GSE96058 (3,273 tumours, RNA-seq) to the cohort list, from the streamed gene subset + the two series matrices. |
-| `N1f_fix_covariates.R` | Repair three clinical-covariate defects found by auditing the Cox convergence warnings emitted by N2. |
+| `N1f_fix_covariates.R` | Recodes three clinical covariates of the cohorts used by N2 (identified from the Cox convergence warnings of N2). |
 | `N2_cohort_analysis.R` | Replication of the TCGA-BRCA findings in independent transcriptomic cohorts. |
 | `N3_meta.R` | Random-effects (DerSimonian-Laird) meta-analysis across the independent cohorts of the ETS1->COL1A1 / NFKB1->COL1A1 correlations (unadjusted and CAF-adjusted) and of COL1A1~COL3A1. |
 | `N4_normal_vs_tumour.R` | Contrast the GTEx normal-breast correlations with the random-effects pooled tumour estimate for the same edge, and append the rows to newcohorts_summary.csv. |

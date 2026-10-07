@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # 11_ffl_module_membership.R
-# Enumerate FFL node-sets EXACTLY as the manuscript defines them (MS.md lines 217-226):
+# Enumerate FFL node sets as defined in the Methods:
 #   3-node : TF -> miRNA, TF -> Gene, miRNA -> Gene            (composite FFL)
 #   4-node : 3-node + Gene2 joined to Gene1 by a gene-gene edge
 #   5-node : 4-node + miRNA2 joined to miRNA1 by a miRNA-miRNA edge
@@ -91,7 +91,7 @@ logf("N3=", length(N3), " N4=", length(N4), " N5=", length(N5), " N6=", length(N
 logf("HIGHER_ONLY by type: ", paste(sprintf("%s=%d", names(table(ntype[HIGHER_ONLY])),
                                             table(ntype[HIGHER_ONLY])), collapse = " "))
 
-## ---------------------------------------------- the manuscript's exemplar --
+## ------------------------------------------------------ the exemplar module --
 MS_MODULE <- c("COL1A1", "COL3A1", "NFKB1", "RELA", "SP1",
                "hsa-miR-29a", "hsa-miR-29b", "hsa-miR-29c", "hsa-let-7b", "hsa-let-7e")
 

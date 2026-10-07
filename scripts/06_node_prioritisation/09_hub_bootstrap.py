@@ -2,8 +2,8 @@
 """
 09 -- Bootstrap stability of the hub list.
 
-The manuscript states (Methods) "Bootstrap resampling (n=1000) was performed to assess network
-stability" but reports no stability metric anywhere.
+Bootstrap resampling (n = 1,000) of the network edges, to assess the stability of the
+hub list.
 
 PROCEDURE (non-parametric edge bootstrap).
   For b = 1..1000:
@@ -16,8 +16,8 @@ PROCEDURE (non-parametric edge bootstrap).
   Stability = % of the 1000 bootstrap replicates in which the node is in the top 20.
 
 METRICS
-  degree            total degree (in + out) -- the "number of interactions" the manuscript
-                    ranks its hubs by (Results: VEGFA 111, TP53 111, MYC 104, ...)
+  degree            total degree (in + out) -- the "number of interactions" by which the
+                    hubs are ranked (VEGFA 111, TP53 111, MYC 104, ...)
   betweenness       directed betweenness centrality
   ffl_participation number of 3-node FFL cores (miRNA-FFL + TF-FFL + Composite-FFL + TF-TF-FFL)
                     the node takes part in, in ANY role (regulator R, mediator M or target T)

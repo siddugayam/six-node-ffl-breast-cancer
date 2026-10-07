@@ -3,16 +3,16 @@
 """
 02g_fcd_recomputed.py
 =====================
-CORRECTED FOLD-CHANGE-DETECTION TEST.
+FOLD-CHANGE-DETECTION TEST WITH THE AMPLITUDE MEASURED AT THE PEAK.
 
-In dyn_metrics.characterise, a circuit was scored as fold-change detecting when
-its normalised trajectory was invariant across three absolute input levels AND
-the response amplitude exceeded 10% of baseline -- but the amplitude was measured
-at the LAST time point of the observation window.  That is exactly the wrong
-place to measure it: fold-change detection in the incoherent type-1 FFL comes
-with (near-)perfect adaptation, so a genuinely fold-change-detecting circuit
-returns to its baseline by the end of the window and was being rejected by the
-very filter meant to exclude unresponsive circuits (Goentoro, Shoval, Kirschner
+In dyn_metrics.characterise, a circuit is scored as fold-change detecting when
+its normalised trajectory is invariant across three absolute input levels AND
+the response amplitude exceeds 10% of baseline, with the amplitude measured
+at the LAST time point of the observation window.  Fold-change detection in
+the incoherent type-1 FFL comes with (near-)perfect adaptation, so a
+fold-change-detecting circuit returns to its baseline by the end of the
+window, where its amplitude is small; this script measures it at the peak
+instead (Goentoro, Shoval, Kirschner
 & Alon 2009 Mol Cell, doi:10.1016/j.molcel.2009.11.018).
 
 Here responsiveness is measured as the PEAK excursion of the normalised

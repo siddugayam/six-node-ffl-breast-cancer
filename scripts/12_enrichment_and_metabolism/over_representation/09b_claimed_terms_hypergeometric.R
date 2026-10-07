@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 # =============================================================================
 # 09b_claimed_terms_hypergeometric.R
-# A targeted, filter-free test of EVERY functional term the manuscript names in its
-# Results/Discussion, for EVERY motif set and BOTH background universes.
+# A targeted, filter-free test of every named functional term (from the Results and
+# Discussion), for every motif set and both background universes.
 #
 # Why this exists in addition to 09_enrichment_ora.R: clusterProfiler's standard
 # minGSSize = 10 / maxGSSize = 500 filters silently REMOVE terms from the tested set.

@@ -3,11 +3,11 @@
 
 EXTENSION of 27_seqreg_gtex.py.
 
-The first pass tested GTEx v8 INDEPENDENT cis-eQTLs, which are the conditionally-independent
-LEAD signals only. A gene can have many significant eQTLs and no independent signal reported,
-so "no independent eQTL in breast" is weaker evidence than it looks. This script uses the
+27_seqreg_gtex.py tested GTEx v8 independent cis-eQTLs, which are the conditionally
+independent lead signals only; a gene can have many significant eQTLs and no independent
+signal. This script therefore uses the
 full significant single-tissue cis-eQTL set (association/singleTissueEqtl) across all 54
-GTEx v8 tissues, which is the correct set for the question "is there an eQTL for COL1A1 in
+GTEx v8 tissues, which answers the question "is there an eQTL for COL1A1 in
 breast or fibroblast?".
 
 The design is self-controlling: the same query is run in all 54 tissues, so tissues WITH a

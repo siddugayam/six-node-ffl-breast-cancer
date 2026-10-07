@@ -1,10 +1,10 @@
 ## ---------------------------------------------------------------------------
-## v7 -- controls for the MCODE result.
-## The manuscript's canonical network contains a 30-edge miRNA-miRNA layer that
-## exists ONLY among the nine miRNAs of the manuscript's own exemplar module,
-## and which the project's own audit (results/00_DATA_AUDIT.md, item E3) shows
-## is GeneMANIA co-expression for 28 of the 30 pairs, with no co-transcriptional
-## basis.  Half the edges of MCODE's top-scoring cluster are those edges.  These
+## Controls for the MCODE result.
+## The canonical network contains a 30-edge miRNA-miRNA layer that lies among
+## the nine miRNAs of the exemplar module; 28 of the 30 pairs are GeneMANIA
+## co-expression links rather than co-transcribed pairs (the 30 legacy edges of
+## analyses/analysed_network_reruns).
+## Half the edges of MCODE's top-scoring cluster are those edges.  These
 ## controls ask whether MCODE still finds the module without them.
 ## ---------------------------------------------------------------------------
 source("scripts/14_module_detection/mcode.R")

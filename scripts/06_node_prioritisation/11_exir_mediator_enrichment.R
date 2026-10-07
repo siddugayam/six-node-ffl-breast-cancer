@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 ## ============================================================================
 ## 11_exir_mediator_enrichment.R
-## EXPLICIT BACKGROUND UNIVERSE = every gene actually tested in the DE analysis
-## (NOT the default whole-genome background, which is what the manuscript used).
+## EXPLICIT BACKGROUND UNIVERSE = every gene tested in the DE analysis
+## (not the default whole-genome background).
 ## ============================================================================
 suppressPackageStartupMessages({
   library(data.table); library(clusterProfiler); library(org.Hs.eg.db)

@@ -1,25 +1,25 @@
 #!/usr/bin/env Rscript
 # =============================================================================
 # 11_gsea_signed_influence.R
-# The manuscript (Methods 5-6, MS.md lines 230-256) states that a Signed Random Walk
-# with Restart was run from the top 60 hubs (composite centrality) to give every node a
-# "Signed Influence Score", and that GSEA was then run on the COMPLETE ranked list of
-# network nodes sorted by that score.  This script re-implements that and reports
+# A Signed Random Walk with Restart from the top 60 hubs (composite centrality) gives
+# every node a "Signed Influence Score", and GSEA is run on the complete ranked list of
+# network nodes sorted by that score, as in the Methods of the original submission.
+# This script implements that and reports
 # NES, p.adjust and leading-edge genes.
 #
-# TWO SIGN SCHEMES ARE RUN, because the sign assignment is the single largest
-# methodological error in the deposited pipeline:
+# TWO SIGN SCHEMES ARE RUN, because the sign assignment determines the ranking:
+#
 #   as_published : miRNA-sourced edge = -1, every other edge = +1
-#                  (exactly MS.md lines 234-236 and Scripts/03.1 line 508)
+#                  (the scheme of the original submission, Scripts/03.1 line 508)
 #   curated      : sign taken from TRRUST / TransmiR curation
 #                  (Activation +1, Repression -1); miRNA_target = -1;
 #                  edges with no curated sign, and the non-regulatory
 #                  gene_gene (STRING association) and miRNA_miRNA (genomic
 #                  co-transcription) layers, are DROPPED rather than assumed +1.
 #
-# TWO FIXES to the deposited implementation, both disclosed:
-#   (i)  the deposited code propagates with A %*% v, i.e. from targets back to sources.
-#        Influence must flow source -> target, so we use t(W_norm) %*% v.
+# PROPAGATION:
+#   (i)  influence flows source -> target, so the update is t(W_norm) %*% v
+#        (A %*% v would propagate from targets back to sources).
 #   (ii) column normalisation is by out-strength of the SOURCE, not of the target.
 #
 # Output: results/gsea_results.csv  and  results/signed_influence_scores.csv

@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-## Length-matched control for the "network genes are more mutated" claim
+## Gene-length-matched control for the mutation frequency of network genes
 suppressPackageStartupMessages({library(data.table)})
 RV<-"/path/to/revision"; CA<-file.path(RV,"cache/multiomics")
 OUT<-file.path(RV,"results/multiomics")

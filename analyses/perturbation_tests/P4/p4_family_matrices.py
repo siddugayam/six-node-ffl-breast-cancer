@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Requested P4 checks (a) and (b), made traceable: (a) the matrices of each family row of
+"""P4 checks (a) and (b): (a) the matrices of each family row of
 results/v3/seqreg_ext_occlusion_calibrated.csv (families of scripts/09_regulatory_evidence/sequence_models/44_seqreg_ext_synthesis.py lines 14-16) at each
 promoter; (b) the COL1A1 calls ranked 9-18 by the Enformer effect (d_fib_cage, most negative = rank 1) with their position
 and span relative to the exon-1 donor (+222/+223).  Writes p4_family_matrices.txt (numbered lines)."""

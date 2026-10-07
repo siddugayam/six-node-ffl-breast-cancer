@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 ## ============================================================================
 ## 09_ffl_hubs.R
-## Define "high-centrality hubs in the FFLs" on the REPAIRED canonical network
+## Define "high-centrality hubs in the FFLs" on the canonical network
 ##
 ## Two independent hub definitions are produced:
 ##   (A) CENTRALITY hubs   -- top decile of total degree AND/OR betweenness

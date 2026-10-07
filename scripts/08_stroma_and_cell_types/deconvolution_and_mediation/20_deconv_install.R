@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 ## 20_deconv_install.R -- install every deconvolution package we intend to use.
 ## Each install is wrapped so one failure does not abort the rest; the final block
-## prints an honest availability table that downstream scripts key off.
+## prints an availability table that downstream scripts key off.
 options(repos = c(CRAN = "https://cloud.r-project.org"), Ncpus = 8, timeout = 3600)
 BASE <- "/path/to/revision"
 try_inst <- function(label, expr) {

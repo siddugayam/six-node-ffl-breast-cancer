@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """45_seqreg_ext_splicedonor_control.py
 
-A CONTROL THE FIRST PASS DID NOT RUN, and it overturns one of its headline numbers.
+Splice-donor control for the focus-TF occlusion effects at the collagen promoters.
 
 The deposited occlusion table reports, as the largest focus-TF effect anywhere:
     "COL3A1: shuffling the ETS1 site changes predicted fibroblast CAGE by
