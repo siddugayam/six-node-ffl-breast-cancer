@@ -3,7 +3,12 @@
 `01_mirna_canon.R` (miRNA name helper) → `02_build_canonical_network.py` → the layers `03_layer_TF_target.R` (TRRUST v2),
 `04_layer_TF_miRNA.R` (TransmiR v2.0), `05_layer_miRNA_miRNA.R` (co-transcribed miRNA pairs), `06a_string_map_and_fetch.R`
 and `06_layer_gene_gene.R` (STRING v12) → `07_edge_evidence_tier.R` (multiMiR evidence tiers) → `08_layer_summary.R`.
-Outputs: `data/network/`. `06a_string_map_and_fetch.R` runs before `06_layer_gene_gene.R`, which reads its output.
+Outputs: `data/network/`. `02_build_canonical_network.py` reads the six networks of the original submission and their
+node tables (`analyses/original_submission_code/SIF_files/` and `node_attributes/`). `06a_string_map_and_fetch.R` runs
+before `06_layer_gene_gene.R` and maps the network genes to STRING v12.0 proteins. `06_layer_gene_gene.R` then reads the
+STRING v12.0 links with a score of at least 900 among those proteins (`cache/string_physical_900_ensp.tsv`, 446 pairs;
+`cache/string_functional_900_ensp.tsv`, 941 pairs). `analyses/six_node_pattern/S7/s7b_restricted_gene_gene.py` derives
+the same two pair sets from the STRING v12.0 download files.
 
 ## Scripts in this folder
 

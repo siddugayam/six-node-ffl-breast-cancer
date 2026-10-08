@@ -135,6 +135,6 @@ with open(f'{OUT}/canonical_nodes.tsv', 'w', newline='') as fh:
         w.writerow([c, node_type[c], ';'.join(sorted(merged[c]))])
 
 json.dump({'merge_map': merge_map, 'node_type': node_type},
-          open(f'{OUT}/name_map.json', 'w'), indent=1)
+          open(f'{OUT}/name_map.json', 'w'), indent=1, sort_keys=True)
 open(f'{OUT}/01_build_log.txt', 'w').write('\n'.join(log) + '\n')
 print("\nWritten to", OUT)
