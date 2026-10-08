@@ -74,7 +74,7 @@ tot=C.sum(axis=1)
 dec=pd.qcut(tot.rank(method='first'), 10, labels=False)
 rows=[]; B=2000
 for name, gl in sets.items():
-    g=[x for x in set(gl) if x in C.index]
+    g=[x for x in dict.fromkeys(gl) if x in C.index]
     msg(f"set {name}: {len(gl)} genes -> {len(g)} detected in atlas")
     obs=share.loc[g].mean(axis=0)
     # matched null

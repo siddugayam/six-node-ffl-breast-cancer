@@ -6,12 +6,12 @@ part,item,value,source_file
 1A RNAi (DEMETER2),COL1A1: mean D2 in 82 breast lines,+0.0253 (non-essential); CRISPR Chronos -0.0631 (non-essential),screens_demeter2_focus_genes.csv
 1A RNAi (DEMETER2),COL3A1: mean D2 in 82 breast lines,-0.0043 (non-essential); CRISPR Chronos +0.0711 (non-essential),screens_demeter2_focus_genes.csv
 1A RNAi (DEMETER2),MYC: mean D2 in 82 breast lines,-0.4191 (weakly depleting); CRISPR Chronos -1.9720 (essential),screens_demeter2_focus_genes.csv
-1A RNAi set-level,mir29_STRONG,"n=192, mean D2 -0.0784 vs decile-matched null -0.1108, empirical p(more essential)=0.976",screens_demeter2_setlevel.csv
-1A RNAi set-level,mir29_anticorrelated,"n=709, mean D2 -0.0633 vs decile-matched null -0.0810, empirical p(more essential)=0.989",screens_demeter2_setlevel.csv
-1A RNAi set-level,mir29_TARGETSCAN,"n=1052, mean D2 -0.0454 vs decile-matched null -0.0852, empirical p(more essential)=1.000",screens_demeter2_setlevel.csv
-1A RNAi set-level,FFL_hubs,"n=35, mean D2 -0.0659 vs decile-matched null -0.1181, empirical p(more essential)=0.898",screens_demeter2_setlevel.csv
-1A RNAi set-level,network_TFs,"n=155, mean D2 -0.0772 vs decile-matched null -0.0928, empirical p(more essential)=0.806",screens_demeter2_setlevel.csv
-1A RNAi set-level,network_genes,"n=196, mean D2 -0.0395 vs decile-matched null -0.0909, empirical p(more essential)=1.000",screens_demeter2_setlevel.csv
+1A RNAi set-level,mir29_STRONG,"n=192, mean D2 -0.0784 vs decile-matched null -0.1113, empirical p(more essential)=0.973",screens_demeter2_setlevel.csv
+1A RNAi set-level,mir29_anticorrelated,"n=709, mean D2 -0.0633 vs decile-matched null -0.0812, empirical p(more essential)=0.993",screens_demeter2_setlevel.csv
+1A RNAi set-level,mir29_TARGETSCAN,"n=1052, mean D2 -0.0454 vs decile-matched null -0.0853, empirical p(more essential)=1.000",screens_demeter2_setlevel.csv
+1A RNAi set-level,FFL_hubs,"n=35, mean D2 -0.0659 vs decile-matched null -0.1165, empirical p(more essential)=0.886",screens_demeter2_setlevel.csv
+1A RNAi set-level,network_TFs,"n=155, mean D2 -0.0772 vs decile-matched null -0.0918, empirical p(more essential)=0.779",screens_demeter2_setlevel.csv
+1A RNAi set-level,network_genes,"n=196, mean D2 -0.0395 vs decile-matched null -0.0908, empirical p(more essential)=1.000",screens_demeter2_setlevel.csv
 1C drug sensitivity,"PRISM secondary AUC, COLLAGEN",1440 compounds x 22 breast lines; FDR<0.05: 0; min FDR 0.110,screens_prism_associations.csv
 1C drug sensitivity,"PRISM secondary AUC, MIR29_STRONG",1440 compounds x 22 breast lines; FDR<0.05: 0; min FDR 0.057,screens_prism_associations.csv
 1C drug sensitivity,"PRISM secondary AUC, MIR29_TARGET",1440 compounds x 22 breast lines; FDR<0.05: 0; min FDR 0.629,screens_prism_associations.csv
@@ -26,12 +26,12 @@ part,item,value,source_file
 2G CAF subtypes,HBCA: COL1A1 CPM by CAF subtype,CAFs (LAMP5) 26373; CAFs (COL11A1+) 21248; CAFs (PI16+) 10878; CAFs (CA12+) 6803; CAFs (DPT+) 3629; Myofibroblast 1129,sc_caf_subtype_assignment.csv
 2G CAF subtypes,Wu et al.: myCAF-like vs MSC iCAF-like,COL1A1 16093 vs 3303 CPM (4.87x); NFKB1 32.5 vs 30.4 (1.07x),sc_wu_caf_focus_genes_cpm.csv
 2H compartment segregation,mir29_anticorrelated,n=758; fibroblast share 0.2723 vs null 0.1813 (z=17.6); malignant share 0.0396 vs 0.0457 (z=-2.3),sc_target_set_compartment_summary.csv
-2H compartment segregation,mir29_strong,n=204; fibroblast share 0.2463 vs null 0.1839 (z=6.4); malignant share 0.0483 vs 0.0406 (z=1.7),sc_target_set_compartment_summary.csv
-2H compartment segregation,mir29_targetscan_conserved,n=1191; fibroblast share 0.2237 vs null 0.1827 (z=10.0); malignant share 0.0424 vs 0.0472 (z=-2.2),sc_target_set_compartment_summary.csv
-2H compartment segregation,mir29_anticorr_noCOL,n=732; fibroblast share 0.2614 vs null 0.1821 (z=15.0); malignant share 0.0399 vs 0.0456 (z=-2.2),sc_target_set_compartment_summary.csv
-2H compartment segregation,network_TFs,n=156; fibroblast share 0.1945 vs null 0.1843 (z=0.9); malignant share 0.0501 vs 0.0423 (z=1.5),sc_target_set_compartment_summary.csv
-2H compartment segregation,network_genes,n=205; fibroblast share 0.2952 vs null 0.1825 (z=11.6); malignant share 0.0418 vs 0.0421 (z=-0.1),sc_target_set_compartment_summary.csv
-2H compartment segregation,FFL_hubs,n=35; fibroblast share 0.2695 vs null 0.1858 (z=3.8); malignant share 0.0385 vs 0.0350 (z=0.4),sc_target_set_compartment_summary.csv
+2H compartment segregation,mir29_strong,n=204; fibroblast share 0.2463 vs null 0.1840 (z=6.4); malignant share 0.0483 vs 0.0406 (z=1.7),sc_target_set_compartment_summary.csv
+2H compartment segregation,mir29_targetscan_conserved,n=1191; fibroblast share 0.2237 vs null 0.1830 (z=10.0); malignant share 0.0424 vs 0.0472 (z=-2.2),sc_target_set_compartment_summary.csv
+2H compartment segregation,mir29_anticorr_noCOL,n=732; fibroblast share 0.2614 vs null 0.1823 (z=15.2); malignant share 0.0399 vs 0.0457 (z=-2.2),sc_target_set_compartment_summary.csv
+2H compartment segregation,network_TFs,n=156; fibroblast share 0.1945 vs null 0.1845 (z=0.9); malignant share 0.0501 vs 0.0423 (z=1.5),sc_target_set_compartment_summary.csv
+2H compartment segregation,network_genes,n=205; fibroblast share 0.2952 vs null 0.1823 (z=11.6); malignant share 0.0418 vs 0.0420 (z=-0.0),sc_target_set_compartment_summary.csv
+2H compartment segregation,FFL_hubs,n=35; fibroblast share 0.2695 vs null 0.1859 (z=3.7); malignant share 0.0385 vs 0.0352 (z=0.4),sc_target_set_compartment_summary.csv
 2J TF->COL1A1 within CAFs,RUNX1,"raw rho +0.303 (p=0.0017); study-adjusted +0.483 (p=2.1e-07); +myCAF-fraction-adjusted +0.296 (p=0.0023, FDR=0.030)",sc_tf_collagen_within_caf_composition_adjusted.csv
 2J TF->COL1A1 within CAFs,SRF,"raw rho +0.396 (p=3.2e-05); study-adjusted +0.414 (p=1.3e-05); +myCAF-fraction-adjusted +0.293 (p=0.0025, FDR=0.030)",sc_tf_collagen_within_caf_composition_adjusted.csv
 2J TF->COL1A1 within CAFs,RUNX2,"raw rho +0.622 (p=1.8e-12); study-adjusted +0.549 (p=1.6e-09); +myCAF-fraction-adjusted +0.267 (p=0.0062, FDR=0.050)",sc_tf_collagen_within_caf_composition_adjusted.csv
@@ -68,11 +68,11 @@ part,item,value,source_file
 1B Project SCORE (Sanger),SP1: scaled Bayes factor in 43 breast models,-2.483 (positive = fitness gene); significant fitness gene in 25.6% of models,screens_projectscore_focus_genes.csv
 1B Project SCORE (Sanger),STAT3: scaled Bayes factor in 43 breast models,-4.222 (positive = fitness gene); significant fitness gene in 0.0% of models,screens_projectscore_focus_genes.csv
 1B Project SCORE (Sanger),TP53: scaled Bayes factor in 43 breast models,-3.303 (positive = fitness gene); significant fitness gene in 11.6% of models,screens_projectscore_focus_genes.csv
-1B Project SCORE set-level,mir29_STRONG,"n=193; mean scaled BF -1.99 vs decile-matched null -1.25; empirical p(more essential)=0.997, p(less essential)=0.0040",screens_projectscore_setlevel.csv
+1B Project SCORE set-level,mir29_STRONG,"n=193; mean scaled BF -1.99 vs decile-matched null -1.25; empirical p(more essential)=0.996, p(less essential)=0.0050",screens_projectscore_setlevel.csv
 1B Project SCORE set-level,mir29_anticorrelated,"n=754; mean scaled BF -2.34 vs decile-matched null -1.79; empirical p(more essential)=1.000, p(less essential)=0.0005",screens_projectscore_setlevel.csv
-1B Project SCORE set-level,FFL_hubs,"n=35; mean scaled BF -2.53 vs decile-matched null -1.15; empirical p(more essential)=0.983, p(less essential)=0.0180",screens_projectscore_setlevel.csv
-1B Project SCORE set-level,network_TFs,"n=154; mean scaled BF -2.05 vs decile-matched null -1.61; empirical p(more essential)=0.924, p(less essential)=0.0765",screens_projectscore_setlevel.csv
-1B Project SCORE set-level,network_genes,"n=200; mean scaled BF -2.98 vs decile-matched null -1.67; empirical p(more essential)=1.000, p(less essential)=0.0005",screens_projectscore_setlevel.csv
+1B Project SCORE set-level,FFL_hubs,"n=35; mean scaled BF -2.53 vs decile-matched null -1.13; empirical p(more essential)=0.988, p(less essential)=0.0125",screens_projectscore_setlevel.csv
+1B Project SCORE set-level,network_TFs,"n=154; mean scaled BF -2.05 vs decile-matched null -1.60; empirical p(more essential)=0.944, p(less essential)=0.0565",screens_projectscore_setlevel.csv
+1B Project SCORE set-level,network_genes,"n=200; mean scaled BF -2.98 vs decile-matched null -1.66; empirical p(more essential)=1.000, p(less essential)=0.0005",screens_projectscore_setlevel.csv
 1B Project SCORE priority,Sanger's own breast-carcinoma target-priority list,"45 genes; 6 are network nodes (ESR1, GATA3, HDAC1, ITGB1, TBX3, TFAP2A); 1 is an FFL hub (ESR1); none of NFKB1, RELA, SP1, ETS1, COL1A1, COL3A1, MYC, HIF1A, MKL1 or VEGFA appears in any of the 27 cancer-type lists",screens_projectscore_priority_targets.csv
 1E integrated matrix,consensus over 587 nodes,1 essential in every modality tested (YY1); 26 essential in some; 337 non-essential in every modality; 223 miRNAs not screenable,screens_integrated_essentiality_matrix.csv
 1E integrated matrix,FFL hubs,35 of 60 are protein-coding and screened; 34 are non-essential in every modality; MYC is the only one essential in any,screens_integrated_essentiality_matrix.csv
@@ -83,7 +83,7 @@ part,item,value,source_file
 1C drug sensitivity (replication),MIR29_STRONG,per-drug rho agreement between PRISM and GDSC2 over 94 shared drugs: Spearman 0.365 (p=0.0003),screens_drug_crossresource_replication.csv
 1C drug sensitivity (replication),MIR29_TARGET,per-drug rho agreement between PRISM and GDSC2 over 94 shared drugs: Spearman 0.516 (p=1e-07),screens_drug_crossresource_replication.csv
 2H compartment segregation (Wu replication),mir29_anticorrelated,n=776; CAF share 0.1468 vs null 0.0782 (z=19.5); cancer-epithelial share 0.1584 vs 0.1872 (z=-5.3),sc_wu_target_set_compartment_summary.csv
-2H compartment segregation (Wu replication),mir29_strong,n=204; CAF share 0.1329 vs null 0.0774 (z=8.5); cancer-epithelial share 0.1631 vs 0.1812 (z=-1.8),sc_wu_target_set_compartment_summary.csv
+2H compartment segregation (Wu replication),mir29_strong,n=204; CAF share 0.1329 vs null 0.0774 (z=8.6); cancer-epithelial share 0.1631 vs 0.1808 (z=-1.8),sc_wu_target_set_compartment_summary.csv
 2F second atlas (verified),"Pal et al. 2021 alone, re-derived by a second route","COL1A1 CAF 13,907.6 CPM (detected in 91.8% of CAFs) vs malignant 38.1 CPM (8.5%) = 365.4x; COL3A1 8,528.6 vs 21.2 CPM = 403.0x; EPCAM control 8.0 vs 248.8 CPM confirms the labels",verified against sc_hbca_collagen_caf_enrichment_by_study.csv
 2G CAF subtypes (verified),Wu myCAF-like vs iCAF-like COL1A1 re-derived directly from the raw matrix,"myCAF-like 443,026/27,529,058 UMI = 16,093.0 CPM; MSC iCAF-like 49,177/14,887,257 = 3,303.3 CPM (4.87x)",logs/v3/verify_wu_col1a1.log
 2I cell-cell communication,"CellChat v2 (CellChatDB.human, 51,811 cells, 11 groups, 100 permutations): CAF -> cancer-cell pathway totals",COLLAGEN 1.13e-02; MK 2.05e-03; FN1 1.95e-03; THBS 1.29e-03; LAMININ 6.06e-04; PTN 2.85e-04; TENASCIN 1.42e-04; APP 1.09e-04,sc_cellchat_CAF_to_cancer_pathways.csv
