@@ -244,7 +244,7 @@ current text may word it differently.
 - **Ranks.** Among the 583 rankable nodes (priority not NA), overall and within class, with ties given the lowest
   rank ('min'), as `scripts/06_node_prioritisation/40_node_compendium_assemble.py` re-ranks.
   - Rank change = the paper's rank − the version's rank, so a positive value means the node moved up.
-- **Outputs for each version (the authors' request of 28 Sep).**
+- **Outputs for each version.**
   1. A table of all 583 ranked nodes with these columns:
      - node, class, in_this_network, the FFL count used, and the T_topology score;
      - score and rank, overall and within class, for the paper and for this version;
