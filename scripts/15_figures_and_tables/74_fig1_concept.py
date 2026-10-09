@@ -124,7 +124,8 @@ add('<g transform="translate(0,-14)">')
 # ---------------------------------------------------------------- c: definition
 text(1, 172, "c", size=5, weight="bold")
 text(9, 172, "Topological definition of the n-node FFL", size=3.4, weight="bold")
-# accepted example
+# example that satisfies the definition (centred)
+add('<g transform="translate(43,0)">')
 rect(2, 176, 84, 40, stroke="#047857", fill="#F0FDF4", sw=0.4)
 text(44, 181.5, "Accepted (example, n = 5)", size=3.1, weight="bold", anchor="middle", color="#047857")
 S = (12, 197); A = (36, 188); B = (36, 206); C = (58, 206); T = (78, 197)
@@ -134,17 +135,7 @@ for k, p in pts.items(): node("plain", *p)
 text(S[0], S[1] + 0.9, "S", size=2.85, anchor="middle", weight="bold"); text(T[0], T[1] + 0.9, "T", size=2.85, anchor="middle", weight="bold")
 text(S[0], S[1] - 4.2, "source", size=2.85, anchor="middle", color=COL["grey"]); text(T[0], T[1] - 4.2, "sink", size=2.85, anchor="middle", color=COL["grey"])
 text(63, 189.2, "path 1", size=2.85, anchor="middle", color=COL["grey"]); text(46, 212.2, "path 2", size=2.85, anchor="middle", color=COL["grey"])
-# excluded examples
-rect(90, 176, 82, 40, stroke="#B91C1C", fill="#FEF2F2", sw=0.4)
-text(131, 181.5, "Excluded", size=3.1, weight="bold", anchor="middle", color="#B91C1C")
-S2 = (100, 197); A2 = (116, 197); T2 = (132, 197); D2 = (116, 209)
-for a, b in [(S2, A2), (A2, T2), (A2, D2)]: edge(a, b, "plain", "plain", "#374151", "arrow", sw=0.5)
-for p in (S2, A2, T2, D2): node("plain", *p)
-text(116, 192.2, "cascade with a side branch:", size=2.85, anchor="middle", color=COL["grey"]); text(116, 215.0, "second sink; no disjoint paths", size=2.85, anchor="middle", color=COL["grey"])
-P1 = (146, 190); P2 = (160, 190); P3 = (160, 206); P4 = (146, 206)
-for a, b in [(P1, P2), (P2, P3), (P3, P4), (P4, P1)]: edge(a, b, "plain", "plain", "#374151", "arrow", sw=0.5)
-for p in (P1, P2, P3, P4): node("plain", *p)
-text(153, 215.0, "feedback loop (cyclic)", size=2.85, anchor="middle", color=COL["grey"])
+add('</g>')
 # conditions
 conds = ["D1  induced subgraph on n vertices, connected when edge directions are ignored", "D2  acyclic", "D3  exactly one source and one sink; every vertex on a source–sink path", "D4  at least two internally vertex-disjoint source–sink paths"]
 for i, c in enumerate(conds): text(3, 222.6 + i * 3.7, c, size=2.85)

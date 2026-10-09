@@ -17,7 +17,7 @@ read_sif <- function(pfx) {
   d <- data.table(source=unlist(mm[x$V1]), target=unlist(mm[x$V3]))
   d <- unique(d[!is.na(source) & !is.na(target) & source!=target])
   d[, src_type := ntype[source]][, tgt_type := ntype[target]]
-  d[, edge_type := fifelse(src_type=="miRNA" & tgt_type=="miRNA", "miRNA-miRNA co-cluster",
+  d[, edge_type := fifelse(src_type=="miRNA" & tgt_type=="miRNA", "miRNA–miRNA (exemplar)",
                     fifelse(src_type=="miRNA", "miRNA ⊣ target",
                      fifelse(tgt_type=="miRNA", "TF → miRNA",
                       fifelse(src_type=="Gene",  "gene → gene", "TF → target"))))]
@@ -25,7 +25,7 @@ read_sif <- function(pfx) {
   d[]
 }
 ECOL <- c(`TF → target`=EPAL[["TF_target"]], `TF → miRNA`=EPAL[["TF_miRNA"]], `miRNA ⊣ target`=EPAL[["miRNA_target"]],
-          `miRNA-miRNA co-cluster`=EPAL[["miRNA_miRNA"]], `gene → gene`=EPAL[["gene_gene"]])
+          `miRNA–miRNA (exemplar)`=EPAL[["miRNA_miRNA"]], `gene → gene`=EPAL[["gene_gene"]])
 
 panel <- function(pfx, title, sub) {
   d  <- read_sif(pfx)

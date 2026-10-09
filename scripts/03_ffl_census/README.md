@@ -23,6 +23,7 @@ The census of the paper was re-run in `analyses/census_and_motif_nulls/`.
 | `02e_exemplar_audit.py` | Tests the exemplar circuits of the original submission (SIF_files/4-TF.sif, 5-TF.sif, 6-TF.sif) against the formal definition: edge support, whole-structure size, exhaustive test of every induced n-subset, and the subsets … |
 | `02g_nineclass_search.py` | Exact targeted search for modules realising ALL NINE interaction classes present in G. |
 | `02h_exemplar_permissive.py` | Re-tests the exemplar circuits of the original submission on the PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as orientable edges (so COL1A1--COL3A1, which has no directed evidence anywhere, does … |
+| `02i_exemplar_whole_circuit_check.py` | Test the whole six-node exemplar circuit (its 10 molecules) against conditions D1-D4 (Methods 2.2) in two graphs, from the deposited files of the public repository only: (1) the analysed network (Table S2 rows with … |
 | `02x_ffl_core_crosscheck.py` | Independent cross-check of the 3-node FFL census and coherence typing. |
 | `02y_ffl_per_network.py` | Enumerate 3-node FFL cores WITHIN each of the six networks of the original submission separately, after applying only the identifier harmonisation. |
 | `03_ffl_census.py` | n-node feed-forward loop census by connected-induced-subgraph enumeration. |
