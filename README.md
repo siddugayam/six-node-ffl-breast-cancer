@@ -4,7 +4,7 @@
 
 **Code, regulatory network and result tables for**
 
-*Deciphering the Transcriptional Regulation of Breast Cancer Genes through a Novel Six-Node Feed-Forward Loop Analysis*
+*Deciphering the Transcriptional Regulation of Breast Cancer Genes through a Six-Node Feed-Forward Loop Analysis*
 
 Gayam Prasanna Kumar Reddy · Jesil Mathew A · Fayaz Shaik Mahammad
 
@@ -186,7 +186,7 @@ Not deposited from the analysis root:
 If you use this code or these data, please cite:
 
 > Gayam Prasanna Kumar Reddy, Jesil Mathew A, Fayaz Shaik Mahammad. Deciphering the Transcriptional Regulation of Breast
-> Cancer Genes through a Novel Six-Node Feed-Forward Loop Analysis. *Functional & Integrative Genomics* (under revision).
+> Cancer Genes through a Six-Node Feed-Forward Loop Analysis. *Functional & Integrative Genomics* (under revision).
 
 ## Licence
 
