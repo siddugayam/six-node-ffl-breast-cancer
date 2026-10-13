@@ -1,0 +1,24 @@
+  I1_miRNA_FFL/n3 done (148s)
+  I1_miRNA_FFL/n4d done (156s)
+  COMP_C2_toggle/n3 done (235s)
+  I1_miRNA_FFL/n5 done (463s)
+  I1_miRNA_FFL/n4 done (490s)
+  I1_miRNA_FFL/n6 done (591s)
+  COMP_C2_toggle/n4 done (473s)
+  COMP_C2_toggle/n4d done (160s)
+  COMP_C2_toggle/n5 done (386s)
+  COMP_C2_toggle/n6 done (445s)
+
+        family module  n_subsample  pct_sets_with_any_uncertified_input_level  median_n_input_levels_uncertified  n_eff_median_20tau  n_eff_median_certified  pct_ultrasensitive_20tau  pct_ultrasensitive_certified  pct_ultrasensitivity_call_changed  dyn_range_floored_median_20tau  dyn_range_floored_median_certified  median_abs_log2_ratio_dyn_range
+COMP_C2_toggle     n3         2048                                      0.098                                0.0               3.283                   3.312                    61.035                        60.889                              1.636                           1.631                               1.631                            0.000
+COMP_C2_toggle     n4         2048                                      2.686                                0.0               2.584                   3.446                    50.391                        61.719                             17.519                           1.826                               1.794                            0.000
+COMP_C2_toggle    n4d         2048                                      0.146                                0.0               3.400                   3.420                    61.768                        61.523                              1.772                           1.624                               1.623                            0.000
+COMP_C2_toggle     n5         2048                                      2.148                                0.0               2.642                   3.415                    42.090                        50.684                             16.953                           1.022                               1.020                            0.000
+COMP_C2_toggle     n6         2048                                      8.203                                0.0               2.675                   3.622                    65.234                        80.420                             17.849                         307.316                             318.080                            0.000
+  I1_miRNA_FFL     n3         2048                                      0.049                                0.0               3.747                   3.801                    88.525                        88.428                              0.252                         117.824                             116.932                            0.000
+  I1_miRNA_FFL     n4         2048                                      5.322                                0.0               2.904                   3.840                    72.021                        89.600                             18.876                         609.764                             672.957                            0.005
+  I1_miRNA_FFL    n4d         2048                                      0.146                                0.0               3.717                   3.783                    89.014                        89.209                              1.054                         193.682                             193.959                            0.000
+  I1_miRNA_FFL     n5         2048                                      5.225                                0.0               3.349                   3.944                    75.732                        88.428                             14.395                         221.769                             244.077                            0.006
+  I1_miRNA_FFL     n6         2048                                      4.492                                0.0               3.406                   3.976                    78.027                        91.016                             13.948                         315.162                             343.082                            0.002
+
+DONE in 15.1 min

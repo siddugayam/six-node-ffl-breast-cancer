@@ -1,0 +1,8 @@
+"network","n_clusters","top_size","top_score","top_seed","axis_found","axis_rank","axis_size","axis_score","best_exemplar_overlap","best_exemplar_p"
+"as_published",13,10,6.667,"COL1A1",TRUE,1,10,6.667,5,1.07e-07
+"drop_all_miRNA_miRNA",15,33,3.75,"MMP2",FALSE,NA,NA,NA,1,0.442
+"keep_only_coclustered_miRNA_miRNA",12,7,3.333,"PDGFRB",FALSE,NA,NA,NA,2,0.0546
+"consistent_genomic_miRNA_layer",19,29,28.929,"HNF4A",FALSE,NA,NA,NA,2,0.0276
+"drop_miRNA_miRNA_and_gene_gene",14,33,3.75,"MMP2",FALSE,NA,NA,NA,1,0.442
+"strong_miRNA_target_only",7,8,4.571,"RELA",FALSE,NA,NA,NA,4,2.9e-06
+"strong_and_no_miRNA_miRNA",5,10,5.333,"BACE1",FALSE,NA,NA,NA,4,8.57e-06

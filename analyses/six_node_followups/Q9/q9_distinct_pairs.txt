@@ -1,0 +1,6 @@
+Q9 rows 2676; distinct tested pairs 2253; pairs whose repeated rows carry different (Nmir, Ntf, i): 0
+Q9 distinct retained pairs 1566 (from 1865 retained rows); distinct pairs with rows of both flags 0; distinct retained pairs matched to value.txt / the left block 1566
+Q9 distinct retained pairs: share no target (i = 0) 1547; share >= 1 19; share more than expected (Nmir*Ntf/N) 0
+Q9 distinct tested pairs with upper-tail P < 0.05 at N = 256: 0 of 2111 with a defined P (142 pairs have Ntf > 256)
+Q9 Ntf > 256 ("#NUM!"): rows 181; distinct pairs 142; distinct TF entries 20: {303: 78, 301: 64} (Ntf value: pairs)
+Q9 the TF entries with Ntf > 256 (Ntf used; Ntf.txt value or "absent"): AP-1 [301] (absent); ASCL2 [303] (absent); EIF2C2 [301] (absent); HES5 [303] (absent); NFKB1 [303] (303); NFKB3 [303] (absent); NR3B3 [303] (absent); PDLIM7 [303] (absent); PELP1 [303] (absent); PLZF [303] (absent); RBBP5 [303] (absent); RELA [301] (301); SHP [303] (absent); SIP1 [301, 303] (absent); TGFB1 [301] (absent); TLR2 [301, 303] (absent); TLR4 [303] (absent); TLR7 [303] (absent); TLR8 [303] (absent); TRIM32 [301] (absent)

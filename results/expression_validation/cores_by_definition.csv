@@ -1,0 +1,7 @@
+network,edges,cores_any_type,cores_gene_or_TF_target,cores_classic_miRNA_TF_gene,cores_TF_TF_gene,cores_miRNA_miRNA_gene
+3-miR,5480,1636,1636,1593,43,0
+3-TF,5359,1509,1413,1370,43,0
+3-Comp,6514,2962,2866,2823,43,0
+4-TF,18,0,0,0,0,0
+5-TF,41,20,20,0,0,20
+6-TF,30,36,14,0,4,10

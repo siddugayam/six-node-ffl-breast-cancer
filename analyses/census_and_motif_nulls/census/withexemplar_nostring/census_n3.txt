@@ -1,0 +1,24 @@
+K=3  files=1  prod_q=1.0  found=3,636  estimate=3,636.0  visited=136,992
+composition (TF, miRNA, Gene): found
+  TF=1 miRNA=1 Gene=1: 1,351  (37.1562 %)
+  TF=2 miRNA=1 Gene=0: 1,206  (33.1683 %)
+  TF=2 miRNA=0 Gene=1: 517  (14.2189 %)
+  TF=3 miRNA=0 Gene=0: 302  (8.3058 %)
+  TF=0 miRNA=2 Gene=1: 135  (3.7129 %)
+  TF=0 miRNA=1 Gene=2: 45  (1.2376 %)
+  TF=0 miRNA=3 Gene=0: 37  (1.0176 %)
+  TF=1 miRNA=2 Gene=0: 32  (0.8801 %)
+  TF=1 miRNA=0 Gene=2: 11  (0.3025 %)
+flags: found, estimate, %
+  a_2TF_2miR_2Gene: 0  est 0.0  (0.0000 %)
+  b_nodetype_TFTF_GeneGene_TFmiRGene: 0  est 0.0  (0.0000 %)
+  b_paperclass_TFTF_GeneGene_TFmiRGene: 0  est 0.0  (0.0000 %)
+  c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM: 0  est 0.0  (0.0000 %)
+  c_full_compositecore_plus_TF2: 0  est 0.0  (0.0000 %)
+distinct paper edge classes per module: 1: 346, 2: 1,789, 3: 1,501
+class sets with >= 6 classes:
+examples a_2TF_2miR_2Gene:
+examples b_nodetype_TFTF_GeneGene_TFmiRGene:
+examples b_paperclass_TFTF_GeneGene_TFmiRGene:
+examples c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM:
+examples c_full_compositecore_plus_TF2:

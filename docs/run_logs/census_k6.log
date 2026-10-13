@@ -1,0 +1,15 @@
+graph: 587 connected nodes, 8031 directed edges, 1223 reciprocal pairs contracted
+
+k=6  probs=[1.0, 1.0, 0.2, 0.03, 0.01, 0.01]  sampled connected subgraphs=19016  FFLs among them=12
+estimated total connected induced 6-subgraphs: 31,693,333,333
+estimated total 6-node FFLs:                   20,000,000
+
+composition (TF, miRNA, Gene) -> estimated count:
+   TF=2 miRNA=3 Gene=1  ->  6,666,667   (sampled 4)
+   TF=4 miRNA=2 Gene=0  ->  5,000,000   (sampled 3)
+   TF=3 miRNA=2 Gene=1  ->  3,333,333   (sampled 2)
+   TF=3 miRNA=1 Gene=2  ->  1,666,667   (sampled 1)
+   TF=5 miRNA=1 Gene=0  ->  1,666,667   (sampled 1)
+   TF=2 miRNA=2 Gene=2  ->  1,666,667   (sampled 1)
+
+wrote results/ffl_census_k6.json and ffl_examples_k6.csv

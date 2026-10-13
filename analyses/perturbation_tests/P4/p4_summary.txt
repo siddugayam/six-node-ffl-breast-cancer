@@ -1,0 +1,27 @@
+Enformer (deposited, fibroblast CAGE) criterion 1 (COL1A1): top call NFYC_HUMAN.H11MO.0.A (NFYC) at TSS-107, effect -43.6 (-16.78 %), family none of NF-kB/SP/ETS; NF-kB: NFKB1_HUMAN.H11MO.1.B at TSS+6, rank 133/618, effect -1.628 (-0.63 %), ratio to top 0.037; SP: SP1_HUMAN.H11MO.0.A at TSS-126, rank 33/618, effect -8.54 (-3.29 %), ratio to top 0.196; ETS: ETS2_HUMAN.H11MO.0.B at TSS-169, rank 201/618, effect -0.6091 (-0.23 %), ratio to top 0.014 -> PASS
+Enformer (deposited, fibroblast CAGE) criterion 2 (COL3A1): top call VDR_HUMAN.H11MO.0.A (VDR) at TSS+193..+208, effect -87.98 (-76.86 %); donor window +184..+210 -> PASS
+Enformer (deposited, fibroblast CAGE) criterion 3 (COL3A1): donor GT->AA effect -31.22; GGAA->CCTT effect -9.37 -> PASS
+Enformer (deposited, fibroblast CAGE) decision: REPLICATED (criteria 111)
+Borzoi replicates complete: [0, 1, 2, 3]
+Borzoi (4 replicates, fibroblast RNA-seq exon sum) criterion 1 (COL1A1): top call NFYC_HUMAN.H11MO.0.A (NFYC) at TSS-107, effect -4308 (-7.01 %), family none of NF-kB/SP/ETS; NF-kB: NFKB1_HUMAN.H11MO.1.B at TSS+6, rank 74/618, effect -351.3 (-0.57 %), ratio to top 0.082; SP: SP3_HUMAN.H11MO.0.B at TSS+69, rank 61/618, effect -411.6 (-0.67 %), ratio to top 0.096; ETS: MA0062.4|GABPA at TSS-318, rank 220/618, effect -49.56 (-0.08 %), ratio to top 0.012 -> PASS
+Borzoi (4 replicates, fibroblast RNA-seq exon sum) criterion 2 (COL3A1): top call VDR_HUMAN.H11MO.0.A (VDR) at TSS+193..+208, effect -8721 (-15.39 %); donor window +184..+210 -> PASS
+Borzoi (4 replicates, fibroblast RNA-seq exon sum) criterion 3 (COL3A1): donor GT->AA effect -1422; GGAA->CCTT effect -793.5 -> PASS
+Borzoi (4 replicates, fibroblast RNA-seq exon sum) decision: REPLICATED (criteria 111)
+Borzoi (4 replicates, fibroblast CAGE at the TSS; secondary) criterion 1 (COL1A1): top call PRGR_HUMAN.H11MO.0.A (PRGR) at TSS+214, effect -67.31 (-27.86 %), family none of NF-kB/SP/ETS; NF-kB: NFKB2_HUMAN.H11MO.0.B at TSS+6, rank 97/618, effect -1.585 (-0.66 %), ratio to top 0.024; SP: SP1_HUMAN.H11MO.0.A at TSS-126, rank 34/618, effect -4.339 (-1.80 %), ratio to top 0.064; ETS: MA0062.4|GABPA at TSS-318, rank 180/618, effect -0.5773 (-0.24 %), ratio to top 0.009 -> PASS
+Borzoi (4 replicates, fibroblast CAGE at the TSS; secondary) criterion 2 (COL3A1): top call VDR_HUMAN.H11MO.0.A (VDR) at TSS+193..+208, effect -150.5 (-57.75 %); donor window +184..+210 -> PASS
+Borzoi (4 replicates, fibroblast CAGE at the TSS; secondary) criterion 3 (COL3A1): donor GT->AA effect -36.03; GGAA->CCTT effect -12.94 -> PASS
+Borzoi (4 replicates, fibroblast CAGE at the TSS; secondary) decision: REPLICATED (criteria 111)
+COL1A1: Spearman rho, Enformer fibroblast CAGE vs Borzoi RNA exon sum over 618 calls = 0.627 (p 8.4e-69); vs Borzoi CAGE = 0.660 (p 1.7e-78)
+COL1A1: top 3 calls by Borzoi RNA: NFYC_HUMAN.H11MO.0.A at TSS-107 (-7.01 %); NFYB_HUMAN.H11MO.0.A at TSS-107 (-6.48 %); NFYA_HUMAN.H11MO.0.A at TSS-107 (-6.25 %)
+COL1A1: top 3 calls by Borzoi CAGE: PRGR_HUMAN.H11MO.0.A at TSS+214 (-27.86 %); MA1936.2|ERF::FOXO1 at TSS+214 (-27.12 %); MA1946.2|ETV5::FOXI1 at TSS+214 (-26.40 %)
+COL3A1: Spearman rho, Enformer fibroblast CAGE vs Borzoi RNA exon sum over 1008 calls = 0.582 (p 1.7e-92); vs Borzoi CAGE = 0.546 (p 1.7e-79)
+COL3A1: top 3 calls by Borzoi RNA: VDR_HUMAN.H11MO.0.A at TSS+193 (-15.39 %); ZN708_HUMAN.H11MO.0.C at TSS+191 (-10.65 %); EHF_HUMAN.H11MO.0.B at TSS+185 (-8.55 %)
+COL3A1: top 3 calls by Borzoi CAGE: VDR_HUMAN.H11MO.0.A at TSS+193 (-57.75 %); ZN708_HUMAN.H11MO.0.C at TSS+191 (-46.37 %); ETV5_HUMAN.H11MO.0.C at TSS+186 (-37.29 %)
+control COL1A1 donor_kill_GT_to_AA (TSS+222..+223 GT->AA): RNA -4.27 %, CAGE -27.31 % (4 replicates)
+control COL1A1 donor_kill_GT_to_CC (TSS+222..+223 GT->CC): RNA -4.07 %, CAGE -24.52 % (4 replicates)
+control COL1A1 exonic_control_4bp (TSS+196..+199 CCAA->neutral): RNA -0.27 %, CAGE +0.46 % (4 replicates)
+control COL3A1 donor_kill_GT_to_AA (TSS+196..+197 GT->AA): RNA -2.60 %, CAGE -13.90 % (4 replicates)
+control COL3A1 donor_kill_GT_to_CC (TSS+196..+197 GT->CC): RNA -2.63 %, CAGE -11.51 % (4 replicates)
+control COL3A1 ets_core_kill_GGAA_to_CCTT (TSS+191..+194 GGAA->CCTT): RNA -1.41 %, CAGE -4.93 % (4 replicates)
+control COL3A1 ets_core_kill_GGAA_to_TTTT (TSS+191..+194 GGAA->TTTT): RNA -0.93 %, CAGE -2.74 % (4 replicates)
+control COL3A1 exonic_control_4bp (TSS+170..+173 CACT->neutral): RNA -0.53 %, CAGE -0.52 % (4 replicates)

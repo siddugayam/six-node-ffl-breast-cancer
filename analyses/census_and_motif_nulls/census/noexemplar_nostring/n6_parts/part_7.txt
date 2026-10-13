@@ -1,0 +1,70 @@
+K 6
+nparts 64
+part 7
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 76451
+visited 21615082
+rng_final 42
+comp 1 2 3 8
+comp 1 3 2 256
+comp 1 4 1 496
+comp 2 2 2 1355
+comp 2 3 1 44169
+comp 2 4 0 4
+comp 3 1 2 129
+comp 3 2 1 18578
+comp 3 3 0 3766
+comp 4 1 1 2060
+comp 4 2 0 4225
+comp 5 0 1 140
+comp 5 1 0 1158
+comp 6 0 0 107
+mask 2 107
+mask 3 140
+mask 6 569
+mask 7 3
+mask 12 120
+mask 13 102
+mask 14 20344
+mask 15 5920
+mask 18 38
+mask 19 60
+mask 20 1728
+mask 21 233
+mask 22 6818
+mask 23 793
+mask 27 347
+mask 28 21584
+mask 29 2838
+mask 30 8828
+mask 31 5872
+mask 46 5
+mask 61 1
+mask 62 1
+flags 0 65620
+flags 1 800
+flags 2 8
+flags 3 340
+flags 7 6
+flags 8 9370
+flags 9 2
+flags 10 6
+flags 11 207
+flags 24 92
+exflag 0 MAX MYC CCND2 hsa-let-7a hsa-miR-106a IRF9
+exflag 0 MAX MYC CCND2 hsa-let-7a hsa-miR-106b IRF9
+exflag 0 MAX MYC CCND2 hsa-let-7a hsa-miR-17 IRF9
+exflag 1 MAX MYC CCND2 GATA4 hsa-miR-106a IRF9
+exflag 1 MAX MYC CCND2 GATA4 hsa-miR-106b IRF9
+exflag 1 MAX MYC CCND2 GATA4 hsa-miR-17 IRF9
+exflag 2 MAX MYC hsa-let-7b COL1A1 COL3A1 hsa-miR-193a
+exflag 2 MAX MYC hsa-let-7e COL1A1 COL3A1 hsa-miR-193a
+exflag 2 MAX MYC hsa-miR-193a COL1A1 COL3A1 hsa-miR-29a
+exflag 3 MAX MYC ASS1 hsa-miR-106a TWIST1 hsa-miR-129 | TF1=MAX TF2=MYC miRNA=hsa-miR-106a target=ASS1
+exflag 3 MAX MYC ASS1 hsa-miR-106b TWIST1 hsa-miR-129 | TF1=MAX TF2=MYC miRNA=hsa-miR-106b target=ASS1
+exflag 3 MAX MYC ASS1 hsa-miR-17 TWIST1 hsa-miR-129 | TF1=MAX TF2=MYC miRNA=hsa-miR-17 target=ASS1
+exflag 4 MAX MYC BMI1 TERT TP73 hsa-miR-16 | TF1=MAX TF2=MYC miRNA=hsa-miR-16 target=TERT
+exflag 4 MAX MYC BMI1 TERT hsa-miR-16 PAX5 | TF1=MAX TF2=MYC miRNA=hsa-miR-16 target=TERT
+exflag 4 MAX MYC BMI1 TERT hsa-miR-16 hsa-miR-195 | TF1=MAX TF2=MYC miRNA=hsa-miR-16 target=TERT

@@ -1,0 +1,4 @@
+time	analysis	what	source	size	kept_as
+2026-09-28 18:24:35 +0530	E3 ORA	KEGG pathway-gene links for hsa (clusterProfiler download.KEGG.Path)	https://rest.kegg.jp/link/hsa/pathway	39577 rows	in memory only
+2026-09-28 18:24:35 +0530	E3 ORA	KEGG pathway names for hsa (same call)	https://rest.kegg.jp/list/pathway/hsa	372 rows	in memory only
+2026-09-28 18:24:35 +0530	E3 ORA	KEGG pathway release information	https://rest.kegg.jp/info/pathway	20 lines	enrichment/E3_kegg_release.txt

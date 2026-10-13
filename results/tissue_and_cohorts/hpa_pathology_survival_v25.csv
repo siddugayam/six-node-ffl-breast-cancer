@@ -1,0 +1,792 @@
+gene,ensembl,hpa_version,cancer,is_prognostic,prognostic,prognostic_type,p_value,data_source
+BRCA1,ENSG00000012048,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,2.23e-1,TCGA
+BRCA1,ENSG00000012048,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,3.89e-3,TCGA
+BRCA1,ENSG00000012048,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.03e-1,TCGA
+BRCA1,ENSG00000012048,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,3.41e-2,TCGA
+BRCA1,ENSG00000012048,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.07e-1,TCGA
+BRCA1,ENSG00000012048,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.19e-2,TCGA
+BRCA1,ENSG00000012048,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.43e-1,TCGA
+BRCA1,ENSG00000012048,25,Glioblastoma Multiforme (validation),false,unprognostic,,4.62e-2,TCGA
+BRCA1,ENSG00000012048,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.87e-2,TCGA
+BRCA1,ENSG00000012048,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.62e-3,TCGA
+BRCA1,ENSG00000012048,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,8.62e-2,TCGA
+BRCA1,ENSG00000012048,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,5.91e-2,TCGA
+BRCA1,ENSG00000012048,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.51e-2,TCGA
+BRCA1,ENSG00000012048,25,Liver Hepatocellular Carcinoma (TCGA),true,validated prognostic,unfavorable,7.06e-4,TCGA
+BRCA1,ENSG00000012048,25,Liver Hepatocellular Carcinoma (validation),true,validated prognostic,unfavorable,3.09e-5,TCGA
+BRCA1,ENSG00000012048,25,Lung Adenocarcinoma (TCGA),true,validated prognostic,unfavorable,4.90e-4,TCGA
+BRCA1,ENSG00000012048,25,Lung Adenocarcinoma (validation),true,validated prognostic,unfavorable,1.42e-4,TCGA
+BRCA1,ENSG00000012048,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.11e-1,TCGA
+BRCA1,ENSG00000012048,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.33e-2,TCGA
+BRCA1,ENSG00000012048,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,6.23e-2,TCGA
+BRCA1,ENSG00000012048,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,3.21e-1,TCGA
+BRCA1,ENSG00000012048,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,4.69e-2,TCGA
+BRCA1,ENSG00000012048,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.19e-2,TCGA
+BRCA1,ENSG00000012048,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,9.07e-2,TCGA
+BRCA1,ENSG00000012048,25,Rectum Adenocarcinoma (TCGA),true,potential prognostic,favorable,7.38e-5,TCGA
+BRCA1,ENSG00000012048,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.02e-3,TCGA
+BRCA1,ENSG00000012048,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.81e-3,TCGA
+BRCA1,ENSG00000012048,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.93e-2,TCGA
+BRCA1,ENSG00000012048,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.10e-1,TCGA
+BRCA1,ENSG00000012048,25,Thyroid Carcinoma (TCGA),false,unprognostic,,3.62e-1,TCGA
+BRCA1,ENSG00000012048,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,3.18e-2,TCGA
+CCND2,ENSG00000118971,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.15e-1,TCGA
+CCND2,ENSG00000118971,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.77e-2,TCGA
+CCND2,ENSG00000118971,25,Breast Invasive Carcinoma (validation),true,potential prognostic,favorable,7.56e-4,TCGA
+CCND2,ENSG00000118971,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,4.55e-2,TCGA
+CCND2,ENSG00000118971,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,4.39e-2,TCGA
+CCND2,ENSG00000118971,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.20e-1,TCGA
+CCND2,ENSG00000118971,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,8.68e-2,TCGA
+CCND2,ENSG00000118971,25,Glioblastoma Multiforme (validation),false,unprognostic,,6.00e-2,TCGA
+CCND2,ENSG00000118971,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.01e-2,TCGA
+CCND2,ENSG00000118971,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.03e-2,TCGA
+CCND2,ENSG00000118971,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,8.88e-3,TCGA
+CCND2,ENSG00000118971,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,4.42e-2,TCGA
+CCND2,ENSG00000118971,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.21e-2,TCGA
+CCND2,ENSG00000118971,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.42e-2,TCGA
+CCND2,ENSG00000118971,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.12e-2,TCGA
+CCND2,ENSG00000118971,25,Lung Adenocarcinoma (validation),false,unprognostic,,3.29e-1,TCGA
+CCND2,ENSG00000118971,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,3.15e-3,TCGA
+CCND2,ENSG00000118971,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.48e-2,TCGA
+CCND2,ENSG00000118971,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.33e-1,TCGA
+CCND2,ENSG00000118971,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,3.27e-1,TCGA
+CCND2,ENSG00000118971,25,Pancreatic Adenocarcinoma (TCGA),true,potential prognostic,favorable,9.80e-4,TCGA
+CCND2,ENSG00000118971,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,2.10e-1,TCGA
+CCND2,ENSG00000118971,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.15e-1,TCGA
+CCND2,ENSG00000118971,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,9.57e-3,TCGA
+CCND2,ENSG00000118971,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.88e-2,TCGA
+CCND2,ENSG00000118971,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.18e-1,TCGA
+CCND2,ENSG00000118971,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.29e-1,TCGA
+CCND2,ENSG00000118971,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,2.85e-1,TCGA
+CCND2,ENSG00000118971,25,Thyroid Carcinoma (TCGA),false,unprognostic,,6.51e-2,TCGA
+CCND2,ENSG00000118971,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,2.44e-1,TCGA
+COL1A1,ENSG00000108821,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.71e-2,TCGA
+COL1A1,ENSG00000108821,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,3.02e-1,TCGA
+COL1A1,ENSG00000108821,25,Breast Invasive Carcinoma (validation),false,unprognostic,,9.50e-2,TCGA
+COL1A1,ENSG00000108821,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,5.85e-3,TCGA
+COL1A1,ENSG00000108821,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.11e-2,TCGA
+COL1A1,ENSG00000108821,25,Colon Adenocarcinoma (validation),false,unprognostic,,2.74e-1,TCGA
+COL1A1,ENSG00000108821,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,6.08e-2,TCGA
+COL1A1,ENSG00000108821,25,Glioblastoma Multiforme (validation),false,unprognostic,,9.19e-3,TCGA
+COL1A1,ENSG00000108821,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.40e-1,TCGA
+COL1A1,ENSG00000108821,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.38e-2,TCGA
+COL1A1,ENSG00000108821,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.98e-3,TCGA
+COL1A1,ENSG00000108821,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.00e-1,TCGA
+COL1A1,ENSG00000108821,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,8.35e-7,TCGA
+COL1A1,ENSG00000108821,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,4.68e-2,TCGA
+COL1A1,ENSG00000108821,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.75e-1,TCGA
+COL1A1,ENSG00000108821,25,Lung Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,9.95e-4,TCGA
+COL1A1,ENSG00000108821,25,Lung Adenocarcinoma (validation),false,unprognostic,,3.45e-2,TCGA
+COL1A1,ENSG00000108821,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,6.12e-2,TCGA
+COL1A1,ENSG00000108821,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,3.04e-1,TCGA
+COL1A1,ENSG00000108821,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,4.06e-3,TCGA
+COL1A1,ENSG00000108821,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,3.29e-2,TCGA
+COL1A1,ENSG00000108821,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,4.66e-2,TCGA
+COL1A1,ENSG00000108821,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,9.19e-2,TCGA
+COL1A1,ENSG00000108821,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,9.67e-2,TCGA
+COL1A1,ENSG00000108821,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,4.08e-2,TCGA
+COL1A1,ENSG00000108821,25,Rectum Adenocarcinoma (validation),false,unprognostic,,7.63e-3,TCGA
+COL1A1,ENSG00000108821,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.39e-2,TCGA
+COL1A1,ENSG00000108821,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,9.07e-3,TCGA
+COL1A1,ENSG00000108821,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,6.56e-2,TCGA
+COL1A1,ENSG00000108821,25,Thyroid Carcinoma (TCGA),false,unprognostic,,5.02e-2,TCGA
+COL1A1,ENSG00000108821,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,2.00e-1,TCGA
+COL3A1,ENSG00000168542,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,5.65e-3,TCGA
+COL3A1,ENSG00000168542,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.00e-1,TCGA
+COL3A1,ENSG00000168542,25,Breast Invasive Carcinoma (validation),false,unprognostic,,9.08e-2,TCGA
+COL3A1,ENSG00000168542,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,1.18e-2,TCGA
+COL3A1,ENSG00000168542,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,9.14e-2,TCGA
+COL3A1,ENSG00000168542,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.92e-1,TCGA
+COL3A1,ENSG00000168542,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.77e-1,TCGA
+COL3A1,ENSG00000168542,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.32e-3,TCGA
+COL3A1,ENSG00000168542,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.37e-1,TCGA
+COL3A1,ENSG00000168542,25,Kidney Chromophobe (TCGA),false,unprognostic,,3.85e-3,TCGA
+COL3A1,ENSG00000168542,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,2.37e-1,TCGA
+COL3A1,ENSG00000168542,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,4.75e-3,TCGA
+COL3A1,ENSG00000168542,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,1.93e-8,TCGA
+COL3A1,ENSG00000168542,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,5.86e-2,TCGA
+COL3A1,ENSG00000168542,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,2.07e-1,TCGA
+COL3A1,ENSG00000168542,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.82e-2,TCGA
+COL3A1,ENSG00000168542,25,Lung Adenocarcinoma (validation),false,unprognostic,,8.53e-3,TCGA
+COL3A1,ENSG00000168542,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,4.80e-2,TCGA
+COL3A1,ENSG00000168542,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.62e-1,TCGA
+COL3A1,ENSG00000168542,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,3.43e-3,TCGA
+COL3A1,ENSG00000168542,25,Ovary Serous Cystadenocarcinoma (validation),true,potential prognostic,unfavorable,8.45e-4,TCGA
+COL3A1,ENSG00000168542,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,3.54e-2,TCGA
+COL3A1,ENSG00000168542,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,4.40e-1,TCGA
+COL3A1,ENSG00000168542,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,2.24e-1,TCGA
+COL3A1,ENSG00000168542,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,8.48e-2,TCGA
+COL3A1,ENSG00000168542,25,Rectum Adenocarcinoma (validation),false,unprognostic,,4.48e-3,TCGA
+COL3A1,ENSG00000168542,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.44e-3,TCGA
+COL3A1,ENSG00000168542,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.33e-3,TCGA
+COL3A1,ENSG00000168542,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,4.31e-2,TCGA
+COL3A1,ENSG00000168542,25,Thyroid Carcinoma (TCGA),false,unprognostic,,7.46e-2,TCGA
+COL3A1,ENSG00000168542,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,4.51e-2,TCGA
+CXCL12,ENSG00000107562,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.41e-1,TCGA
+CXCL12,ENSG00000107562,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,8.79e-2,TCGA
+CXCL12,ENSG00000107562,25,Breast Invasive Carcinoma (validation),false,unprognostic,,4.07e-3,TCGA
+CXCL12,ENSG00000107562,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,4.71e-3,TCGA
+CXCL12,ENSG00000107562,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.47e-1,TCGA
+CXCL12,ENSG00000107562,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.49e-1,TCGA
+CXCL12,ENSG00000107562,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.49e-2,TCGA
+CXCL12,ENSG00000107562,25,Glioblastoma Multiforme (validation),false,unprognostic,,2.13e-1,TCGA
+CXCL12,ENSG00000107562,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,9.38e-2,TCGA
+CXCL12,ENSG00000107562,25,Kidney Chromophobe (TCGA),false,unprognostic,,3.25e-1,TCGA
+CXCL12,ENSG00000107562,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,potential prognostic,favorable,4.45e-4,TCGA
+CXCL12,ENSG00000107562,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,2.41e-2,TCGA
+CXCL12,ENSG00000107562,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.47e-1,TCGA
+CXCL12,ENSG00000107562,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,5.31e-2,TCGA
+CXCL12,ENSG00000107562,25,Liver Hepatocellular Carcinoma (validation),true,potential prognostic,favorable,3.07e-5,TCGA
+CXCL12,ENSG00000107562,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,4.90e-3,TCGA
+CXCL12,ENSG00000107562,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.03e-1,TCGA
+CXCL12,ENSG00000107562,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.84e-2,TCGA
+CXCL12,ENSG00000107562,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.99e-1,TCGA
+CXCL12,ENSG00000107562,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,4.44e-3,TCGA
+CXCL12,ENSG00000107562,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.11e-2,TCGA
+CXCL12,ENSG00000107562,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.87e-1,TCGA
+CXCL12,ENSG00000107562,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.85e-1,TCGA
+CXCL12,ENSG00000107562,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,6.18e-2,TCGA
+CXCL12,ENSG00000107562,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,4.98e-1,TCGA
+CXCL12,ENSG00000107562,25,Rectum Adenocarcinoma (validation),false,unprognostic,,8.70e-2,TCGA
+CXCL12,ENSG00000107562,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.73e-2,TCGA
+CXCL12,ENSG00000107562,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,6.69e-2,TCGA
+CXCL12,ENSG00000107562,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.05e-1,TCGA
+CXCL12,ENSG00000107562,25,Thyroid Carcinoma (TCGA),false,unprognostic,,9.31e-2,TCGA
+CXCL12,ENSG00000107562,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,7.51e-2,TCGA
+DNMT1,ENSG00000130816,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.94e-3,TCGA
+DNMT1,ENSG00000130816,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.04e-1,TCGA
+DNMT1,ENSG00000130816,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.06e-1,TCGA
+DNMT1,ENSG00000130816,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,2.78e-1,TCGA
+DNMT1,ENSG00000130816,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.87e-1,TCGA
+DNMT1,ENSG00000130816,25,Colon Adenocarcinoma (validation),false,unprognostic,,9.37e-2,TCGA
+DNMT1,ENSG00000130816,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.28e-1,TCGA
+DNMT1,ENSG00000130816,25,Glioblastoma Multiforme (validation),false,unprognostic,,5.79e-2,TCGA
+DNMT1,ENSG00000130816,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,4.99e-3,TCGA
+DNMT1,ENSG00000130816,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.53e-1,TCGA
+DNMT1,ENSG00000130816,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,potential prognostic,favorable,9.36e-4,TCGA
+DNMT1,ENSG00000130816,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.05e-1,TCGA
+DNMT1,ENSG00000130816,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,8.29e-2,TCGA
+DNMT1,ENSG00000130816,25,Liver Hepatocellular Carcinoma (TCGA),true,potential prognostic,unfavorable,5.33e-4,TCGA
+DNMT1,ENSG00000130816,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,4.58e-3,TCGA
+DNMT1,ENSG00000130816,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.90e-3,TCGA
+DNMT1,ENSG00000130816,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.78e-3,TCGA
+DNMT1,ENSG00000130816,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,8.93e-2,TCGA
+DNMT1,ENSG00000130816,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.78e-2,TCGA
+DNMT1,ENSG00000130816,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.30e-1,TCGA
+DNMT1,ENSG00000130816,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.65e-1,TCGA
+DNMT1,ENSG00000130816,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,2.76e-3,TCGA
+DNMT1,ENSG00000130816,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,9.00e-3,TCGA
+DNMT1,ENSG00000130816,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,6.39e-3,TCGA
+DNMT1,ENSG00000130816,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,2.54e-2,TCGA
+DNMT1,ENSG00000130816,25,Rectum Adenocarcinoma (validation),false,unprognostic,,2.99e-2,TCGA
+DNMT1,ENSG00000130816,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,5.50e-2,TCGA
+DNMT1,ENSG00000130816,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.26e-2,TCGA
+DNMT1,ENSG00000130816,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,2.32e-1,TCGA
+DNMT1,ENSG00000130816,25,Thyroid Carcinoma (TCGA),false,unprognostic,,8.67e-2,TCGA
+DNMT1,ENSG00000130816,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.24e-1,TCGA
+E2F1,ENSG00000101412,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.32e-1,TCGA
+E2F1,ENSG00000101412,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,7.30e-2,TCGA
+E2F1,ENSG00000101412,25,Breast Invasive Carcinoma (validation),false,unprognostic,,9.45e-2,TCGA
+E2F1,ENSG00000101412,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,2.83e-2,TCGA
+E2F1,ENSG00000101412,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.96e-1,TCGA
+E2F1,ENSG00000101412,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.11e-1,TCGA
+E2F1,ENSG00000101412,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,3.08e-2,TCGA
+E2F1,ENSG00000101412,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.09e-2,TCGA
+E2F1,ENSG00000101412,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.48e-2,TCGA
+E2F1,ENSG00000101412,25,Kidney Chromophobe (TCGA),true,potential prognostic,unfavorable,1.15e-6,TCGA
+E2F1,ENSG00000101412,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.10e-3,TCGA
+E2F1,ENSG00000101412,25,Kidney Renal Clear Cell Carcinoma (validation),true,potential prognostic,unfavorable,6.62e-5,TCGA
+E2F1,ENSG00000101412,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,3.71e-4,TCGA
+E2F1,ENSG00000101412,25,Liver Hepatocellular Carcinoma (TCGA),true,validated prognostic,unfavorable,1.27e-4,TCGA
+E2F1,ENSG00000101412,25,Liver Hepatocellular Carcinoma (validation),true,validated prognostic,unfavorable,4.86e-7,TCGA
+E2F1,ENSG00000101412,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.30e-3,TCGA
+E2F1,ENSG00000101412,25,Lung Adenocarcinoma (validation),false,unprognostic,,5.91e-3,TCGA
+E2F1,ENSG00000101412,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.63e-1,TCGA
+E2F1,ENSG00000101412,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.84e-2,TCGA
+E2F1,ENSG00000101412,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,5.05e-2,TCGA
+E2F1,ENSG00000101412,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.14e-2,TCGA
+E2F1,ENSG00000101412,25,Pancreatic Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,1.29e-4,TCGA
+E2F1,ENSG00000101412,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.86e-3,TCGA
+E2F1,ENSG00000101412,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.25e-2,TCGA
+E2F1,ENSG00000101412,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,5.68e-2,TCGA
+E2F1,ENSG00000101412,25,Rectum Adenocarcinoma (validation),false,unprognostic,,4.45e-3,TCGA
+E2F1,ENSG00000101412,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,4.72e-2,TCGA
+E2F1,ENSG00000101412,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.09e-2,TCGA
+E2F1,ENSG00000101412,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.60e-1,TCGA
+E2F1,ENSG00000101412,25,Thyroid Carcinoma (TCGA),true,potential prognostic,favorable,8.78e-4,TCGA
+E2F1,ENSG00000101412,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.72e-2,TCGA
+E2F3,ENSG00000112242,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.10e-2,TCGA
+E2F3,ENSG00000112242,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,1.43e-1,TCGA
+E2F3,ENSG00000112242,25,Breast Invasive Carcinoma (validation),false,unprognostic,,2.95e-1,TCGA
+E2F3,ENSG00000112242,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,1.16e-2,TCGA
+E2F3,ENSG00000112242,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,4.23e-2,TCGA
+E2F3,ENSG00000112242,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.71e-2,TCGA
+E2F3,ENSG00000112242,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.71e-1,TCGA
+E2F3,ENSG00000112242,25,Glioblastoma Multiforme (validation),false,unprognostic,,5.93e-2,TCGA
+E2F3,ENSG00000112242,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.66e-1,TCGA
+E2F3,ENSG00000112242,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.79e-1,TCGA
+E2F3,ENSG00000112242,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.07e-1,TCGA
+E2F3,ENSG00000112242,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,4.56e-2,TCGA
+E2F3,ENSG00000112242,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.36e-2,TCGA
+E2F3,ENSG00000112242,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,3.68e-3,TCGA
+E2F3,ENSG00000112242,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.03e-2,TCGA
+E2F3,ENSG00000112242,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.49e-2,TCGA
+E2F3,ENSG00000112242,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.68e-2,TCGA
+E2F3,ENSG00000112242,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,4.52e-1,TCGA
+E2F3,ENSG00000112242,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,7.09e-2,TCGA
+E2F3,ENSG00000112242,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.07e-2,TCGA
+E2F3,ENSG00000112242,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.02e-1,TCGA
+E2F3,ENSG00000112242,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.61e-2,TCGA
+E2F3,ENSG00000112242,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,6.21e-2,TCGA
+E2F3,ENSG00000112242,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,8.24e-2,TCGA
+E2F3,ENSG00000112242,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,8.41e-2,TCGA
+E2F3,ENSG00000112242,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.15e-1,TCGA
+E2F3,ENSG00000112242,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.84e-2,TCGA
+E2F3,ENSG00000112242,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.94e-1,TCGA
+E2F3,ENSG00000112242,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,4.14e-1,TCGA
+E2F3,ENSG00000112242,25,Thyroid Carcinoma (TCGA),false,unprognostic,,8.62e-2,TCGA
+E2F3,ENSG00000112242,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.31e-1,TCGA
+EGR2,ENSG00000122877,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.32e-1,TCGA
+EGR2,ENSG00000122877,25,Breast Invasive Carcinoma (TCGA),true,potential prognostic,favorable,7.46e-4,TCGA
+EGR2,ENSG00000122877,25,Breast Invasive Carcinoma (validation),false,unprognostic,,4.50e-2,TCGA
+EGR2,ENSG00000122877,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,6.62e-2,TCGA
+EGR2,ENSG00000122877,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,5.51e-2,TCGA
+EGR2,ENSG00000122877,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.30e-2,TCGA
+EGR2,ENSG00000122877,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.84e-1,TCGA
+EGR2,ENSG00000122877,25,Glioblastoma Multiforme (validation),false,unprognostic,,8.89e-3,TCGA
+EGR2,ENSG00000122877,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.39e-1,TCGA
+EGR2,ENSG00000122877,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.81e-1,TCGA
+EGR2,ENSG00000122877,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.24e-1,TCGA
+EGR2,ENSG00000122877,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,9.22e-2,TCGA
+EGR2,ENSG00000122877,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,7.14e-2,TCGA
+EGR2,ENSG00000122877,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,2.23e-1,TCGA
+EGR2,ENSG00000122877,25,Liver Hepatocellular Carcinoma (validation),true,potential prognostic,favorable,6.35e-4,TCGA
+EGR2,ENSG00000122877,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.70e-2,TCGA
+EGR2,ENSG00000122877,25,Lung Adenocarcinoma (validation),false,unprognostic,,6.16e-2,TCGA
+EGR2,ENSG00000122877,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.85e-2,TCGA
+EGR2,ENSG00000122877,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,4.33e-1,TCGA
+EGR2,ENSG00000122877,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.41e-2,TCGA
+EGR2,ENSG00000122877,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,2.31e-1,TCGA
+EGR2,ENSG00000122877,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,7.25e-2,TCGA
+EGR2,ENSG00000122877,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,2.10e-1,TCGA
+EGR2,ENSG00000122877,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.86e-1,TCGA
+EGR2,ENSG00000122877,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.03e-1,TCGA
+EGR2,ENSG00000122877,25,Rectum Adenocarcinoma (validation),false,unprognostic,,3.63e-3,TCGA
+EGR2,ENSG00000122877,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.47e-1,TCGA
+EGR2,ENSG00000122877,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.81e-1,TCGA
+EGR2,ENSG00000122877,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.37e-2,TCGA
+EGR2,ENSG00000122877,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.04e-1,TCGA
+EGR2,ENSG00000122877,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,2.55e-2,TCGA
+ESR1,ENSG00000091831,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.02e-1,TCGA
+ESR1,ENSG00000091831,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.06e-2,TCGA
+ESR1,ENSG00000091831,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.67e-1,TCGA
+ESR1,ENSG00000091831,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,8.50e-2,TCGA
+ESR1,ENSG00000091831,25,Colon Adenocarcinoma (validation),false,unprognostic,,6.55e-2,TCGA
+ESR1,ENSG00000091831,25,Head and Neck Squamous Cell Carcinoma (TCGA),true,potential prognostic,favorable,1.23e-4,TCGA
+ESR1,ENSG00000091831,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,3.05e-2,TCGA
+ESR1,ENSG00000091831,25,Kidney Renal Clear Cell Carcinoma (validation),true,potential prognostic,favorable,3.01e-4,TCGA
+ESR1,ENSG00000091831,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,6.60e-2,TCGA
+ESR1,ENSG00000091831,25,Liver Hepatocellular Carcinoma (TCGA),true,validated prognostic,favorable,3.29e-5,TCGA
+ESR1,ENSG00000091831,25,Liver Hepatocellular Carcinoma (validation),true,validated prognostic,favorable,1.09e-9,TCGA
+ESR1,ENSG00000091831,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.04e-1,TCGA
+ESR1,ENSG00000091831,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.71e-1,TCGA
+ESR1,ENSG00000091831,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.69e-2,TCGA
+ESR1,ENSG00000091831,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.14e-2,TCGA
+ESR1,ENSG00000091831,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,8.06e-2,TCGA
+ESR1,ENSG00000091831,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,3.43e-1,TCGA
+ESR1,ENSG00000091831,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.22e-1,TCGA
+ESR1,ENSG00000091831,25,Rectum Adenocarcinoma (validation),false,unprognostic,,9.78e-2,TCGA
+ESR1,ENSG00000091831,25,Thyroid Carcinoma (TCGA),false,unprognostic,,7.71e-2,TCGA
+ESR1,ENSG00000091831,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,2.47e-2,TCGA
+ETS1,ENSG00000134954,25,Bladder Urothelial Carcinoma (TCGA),true,potential prognostic,favorable,3.91e-4,TCGA
+ETS1,ENSG00000134954,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,4.10e-2,TCGA
+ETS1,ENSG00000134954,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.61e-2,TCGA
+ETS1,ENSG00000134954,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,1.24e-1,TCGA
+ETS1,ENSG00000134954,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,3.45e-2,TCGA
+ETS1,ENSG00000134954,25,Colon Adenocarcinoma (validation),false,unprognostic,,3.91e-2,TCGA
+ETS1,ENSG00000134954,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.57e-1,TCGA
+ETS1,ENSG00000134954,25,Glioblastoma Multiforme (validation),false,unprognostic,,1.89e-1,TCGA
+ETS1,ENSG00000134954,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,3.66e-1,TCGA
+ETS1,ENSG00000134954,25,Kidney Chromophobe (TCGA),false,unprognostic,,3.09e-1,TCGA
+ETS1,ENSG00000134954,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,validated prognostic,favorable,2.39e-6,TCGA
+ETS1,ENSG00000134954,25,Kidney Renal Clear Cell Carcinoma (validation),true,validated prognostic,favorable,2.44e-4,TCGA
+ETS1,ENSG00000134954,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,2.84e-2,TCGA
+ETS1,ENSG00000134954,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,2.87e-2,TCGA
+ETS1,ENSG00000134954,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,4.38e-2,TCGA
+ETS1,ENSG00000134954,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,8.56e-2,TCGA
+ETS1,ENSG00000134954,25,Lung Adenocarcinoma (validation),false,unprognostic,,9.10e-3,TCGA
+ETS1,ENSG00000134954,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,9.72e-2,TCGA
+ETS1,ENSG00000134954,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.15e-2,TCGA
+ETS1,ENSG00000134954,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.01e-1,TCGA
+ETS1,ENSG00000134954,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,3.26e-2,TCGA
+ETS1,ENSG00000134954,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,5.71e-2,TCGA
+ETS1,ENSG00000134954,25,Pancreatic Adenocarcinoma (validation),true,potential prognostic,unfavorable,8.96e-4,TCGA
+ETS1,ENSG00000134954,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.71e-1,TCGA
+ETS1,ENSG00000134954,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,2.57e-1,TCGA
+ETS1,ENSG00000134954,25,Rectum Adenocarcinoma (validation),false,unprognostic,,8.31e-2,TCGA
+ETS1,ENSG00000134954,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,4.23e-3,TCGA
+ETS1,ENSG00000134954,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,9.36e-2,TCGA
+ETS1,ENSG00000134954,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.37e-2,TCGA
+ETS1,ENSG00000134954,25,Thyroid Carcinoma (TCGA),false,unprognostic,,6.00e-2,TCGA
+ETS1,ENSG00000134954,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,6.66e-2,TCGA
+EZH2,ENSG00000106462,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,2.39e-1,TCGA
+EZH2,ENSG00000106462,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,1.04e-1,TCGA
+EZH2,ENSG00000106462,25,Breast Invasive Carcinoma (validation),false,unprognostic,,3.10e-2,TCGA
+EZH2,ENSG00000106462,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,3.75e-3,TCGA
+EZH2,ENSG00000106462,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.57e-2,TCGA
+EZH2,ENSG00000106462,25,Colon Adenocarcinoma (validation),false,unprognostic,,6.06e-2,TCGA
+EZH2,ENSG00000106462,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.57e-1,TCGA
+EZH2,ENSG00000106462,25,Glioblastoma Multiforme (validation),false,unprognostic,,4.43e-2,TCGA
+EZH2,ENSG00000106462,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.72e-3,TCGA
+EZH2,ENSG00000106462,25,Kidney Chromophobe (TCGA),true,potential prognostic,unfavorable,1.07e-4,TCGA
+EZH2,ENSG00000106462,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.21e-3,TCGA
+EZH2,ENSG00000106462,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.42e-2,TCGA
+EZH2,ENSG00000106462,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,5.10e-5,TCGA
+EZH2,ENSG00000106462,25,Liver Hepatocellular Carcinoma (TCGA),true,validated prognostic,unfavorable,1.91e-7,TCGA
+EZH2,ENSG00000106462,25,Liver Hepatocellular Carcinoma (validation),true,validated prognostic,unfavorable,2.43e-5,TCGA
+EZH2,ENSG00000106462,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,4.25e-3,TCGA
+EZH2,ENSG00000106462,25,Lung Adenocarcinoma (validation),false,unprognostic,,2.68e-3,TCGA
+EZH2,ENSG00000106462,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.50e-2,TCGA
+EZH2,ENSG00000106462,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,8.93e-2,TCGA
+EZH2,ENSG00000106462,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.52e-3,TCGA
+EZH2,ENSG00000106462,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,8.84e-3,TCGA
+EZH2,ENSG00000106462,25,Pancreatic Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,3.12e-4,TCGA
+EZH2,ENSG00000106462,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,4.68e-2,TCGA
+EZH2,ENSG00000106462,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.01e-3,TCGA
+EZH2,ENSG00000106462,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,2.65e-1,TCGA
+EZH2,ENSG00000106462,25,Rectum Adenocarcinoma (validation),false,unprognostic,,3.64e-1,TCGA
+EZH2,ENSG00000106462,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,9.03e-3,TCGA
+EZH2,ENSG00000106462,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.06e-3,TCGA
+EZH2,ENSG00000106462,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.92e-1,TCGA
+EZH2,ENSG00000106462,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.39e-1,TCGA
+EZH2,ENSG00000106462,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.27e-2,TCGA
+FN1,ENSG00000115414,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,2.38e-1,TCGA
+FN1,ENSG00000115414,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.13e-1,TCGA
+FN1,ENSG00000115414,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.37e-1,TCGA
+FN1,ENSG00000115414,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,8.26e-4,TCGA
+FN1,ENSG00000115414,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.89e-2,TCGA
+FN1,ENSG00000115414,25,Colon Adenocarcinoma (validation),false,unprognostic,,2.20e-1,TCGA
+FN1,ENSG00000115414,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,9.78e-3,TCGA
+FN1,ENSG00000115414,25,Glioblastoma Multiforme (validation),false,unprognostic,,1.79e-1,TCGA
+FN1,ENSG00000115414,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.47e-2,TCGA
+FN1,ENSG00000115414,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.55e-2,TCGA
+FN1,ENSG00000115414,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,2.80e-2,TCGA
+FN1,ENSG00000115414,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.21e-2,TCGA
+FN1,ENSG00000115414,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,4.98e-7,TCGA
+FN1,ENSG00000115414,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,9.55e-2,TCGA
+FN1,ENSG00000115414,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.63e-1,TCGA
+FN1,ENSG00000115414,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.30e-2,TCGA
+FN1,ENSG00000115414,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.32e-3,TCGA
+FN1,ENSG00000115414,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,7.42e-3,TCGA
+FN1,ENSG00000115414,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,9.45e-3,TCGA
+FN1,ENSG00000115414,25,Ovary Serous Cystadenocarcinoma (TCGA),true,potential prognostic,unfavorable,3.40e-4,TCGA
+FN1,ENSG00000115414,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,7.71e-3,TCGA
+FN1,ENSG00000115414,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.43e-2,TCGA
+FN1,ENSG00000115414,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.17e-1,TCGA
+FN1,ENSG00000115414,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,4.05e-1,TCGA
+FN1,ENSG00000115414,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,3.47e-1,TCGA
+FN1,ENSG00000115414,25,Rectum Adenocarcinoma (validation),false,unprognostic,,9.78e-3,TCGA
+FN1,ENSG00000115414,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.01e-1,TCGA
+FN1,ENSG00000115414,25,Stomach Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,3.60e-4,TCGA
+FN1,ENSG00000115414,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,8.07e-2,TCGA
+FN1,ENSG00000115414,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.85e-1,TCGA
+FN1,ENSG00000115414,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,3.75e-2,TCGA
+GATA3,ENSG00000107485,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.11e-3,TCGA
+GATA3,ENSG00000107485,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,4.06e-1,TCGA
+GATA3,ENSG00000107485,25,Breast Invasive Carcinoma (validation),false,unprognostic,,2.94e-1,TCGA
+GATA3,ENSG00000107485,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,8.58e-2,TCGA
+GATA3,ENSG00000107485,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.31e-2,TCGA
+GATA3,ENSG00000107485,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.23e-2,TCGA
+GATA3,ENSG00000107485,25,Kidney Chromophobe (TCGA),false,unprognostic,,5.60e-2,TCGA
+GATA3,ENSG00000107485,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,3.94e-2,TCGA
+GATA3,ENSG00000107485,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,6.49e-3,TCGA
+GATA3,ENSG00000107485,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,7.40e-5,TCGA
+GATA3,ENSG00000107485,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,5.01e-3,TCGA
+GATA3,ENSG00000107485,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.83e-1,TCGA
+GATA3,ENSG00000107485,25,Lung Adenocarcinoma (validation),false,unprognostic,,5.79e-2,TCGA
+GATA3,ENSG00000107485,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.15e-1,TCGA
+GATA3,ENSG00000107485,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,8.79e-2,TCGA
+GATA3,ENSG00000107485,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,9.01e-2,TCGA
+GATA3,ENSG00000107485,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.13e-1,TCGA
+GATA3,ENSG00000107485,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,3.48e-1,TCGA
+GATA3,ENSG00000107485,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,9.04e-3,TCGA
+GATA3,ENSG00000107485,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,6.77e-2,TCGA
+GATA3,ENSG00000107485,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,3.30e-3,TCGA
+GATA3,ENSG00000107485,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.21e-2,TCGA
+GATA3,ENSG00000107485,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,3.66e-1,TCGA
+GATA3,ENSG00000107485,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.67e-1,TCGA
+GATA3,ENSG00000107485,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.64e-2,TCGA
+GATA3,ENSG00000107485,25,Thyroid Carcinoma (TCGA),false,unprognostic,,2.01e-1,TCGA
+GATA3,ENSG00000107485,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,3.46e-1,TCGA
+JUN,ENSG00000177606,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.36e-2,TCGA
+JUN,ENSG00000177606,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,9.79e-2,TCGA
+JUN,ENSG00000177606,25,Breast Invasive Carcinoma (validation),false,unprognostic,,8.33e-2,TCGA
+JUN,ENSG00000177606,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,4.53e-2,TCGA
+JUN,ENSG00000177606,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,3.67e-2,TCGA
+JUN,ENSG00000177606,25,Colon Adenocarcinoma (validation),false,unprognostic,,2.01e-2,TCGA
+JUN,ENSG00000177606,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.54e-1,TCGA
+JUN,ENSG00000177606,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.08e-1,TCGA
+JUN,ENSG00000177606,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.91e-2,TCGA
+JUN,ENSG00000177606,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.27e-1,TCGA
+JUN,ENSG00000177606,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,potential prognostic,favorable,3.22e-4,TCGA
+JUN,ENSG00000177606,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,2.36e-1,TCGA
+JUN,ENSG00000177606,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,2.68e-2,TCGA
+JUN,ENSG00000177606,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,1.81e-3,TCGA
+JUN,ENSG00000177606,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,2.71e-2,TCGA
+JUN,ENSG00000177606,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,2.26e-1,TCGA
+JUN,ENSG00000177606,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.31e-1,TCGA
+JUN,ENSG00000177606,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.39e-2,TCGA
+JUN,ENSG00000177606,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,3.61e-1,TCGA
+JUN,ENSG00000177606,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.59e-2,TCGA
+JUN,ENSG00000177606,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.44e-1,TCGA
+JUN,ENSG00000177606,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.39e-1,TCGA
+JUN,ENSG00000177606,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,3.81e-1,TCGA
+JUN,ENSG00000177606,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,3.14e-1,TCGA
+JUN,ENSG00000177606,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.36e-1,TCGA
+JUN,ENSG00000177606,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.31e-2,TCGA
+JUN,ENSG00000177606,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,2.01e-1,TCGA
+JUN,ENSG00000177606,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.48e-2,TCGA
+JUN,ENSG00000177606,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,4.66e-1,TCGA
+JUN,ENSG00000177606,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.15e-1,TCGA
+JUN,ENSG00000177606,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.39e-1,TCGA
+MET,ENSG00000105976,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.50e-1,TCGA
+MET,ENSG00000105976,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,3.09e-2,TCGA
+MET,ENSG00000105976,25,Breast Invasive Carcinoma (validation),false,unprognostic,,2.80e-1,TCGA
+MET,ENSG00000105976,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,1.67e-2,TCGA
+MET,ENSG00000105976,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,5.15e-2,TCGA
+MET,ENSG00000105976,25,Colon Adenocarcinoma (validation),false,unprognostic,,2.01e-1,TCGA
+MET,ENSG00000105976,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,6.21e-3,TCGA
+MET,ENSG00000105976,25,Glioblastoma Multiforme (validation),false,unprognostic,,8.75e-2,TCGA
+MET,ENSG00000105976,25,Head and Neck Squamous Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,2.97e-4,TCGA
+MET,ENSG00000105976,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.45e-2,TCGA
+MET,ENSG00000105976,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,7.22e-3,TCGA
+MET,ENSG00000105976,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.55e-2,TCGA
+MET,ENSG00000105976,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.84e-1,TCGA
+MET,ENSG00000105976,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,2.86e-1,TCGA
+MET,ENSG00000105976,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,2.01e-2,TCGA
+MET,ENSG00000105976,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,3.73e-2,TCGA
+MET,ENSG00000105976,25,Lung Adenocarcinoma (validation),false,unprognostic,,7.01e-3,TCGA
+MET,ENSG00000105976,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.15e-1,TCGA
+MET,ENSG00000105976,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.16e-1,TCGA
+MET,ENSG00000105976,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.13e-2,TCGA
+MET,ENSG00000105976,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.05e-2,TCGA
+MET,ENSG00000105976,25,Pancreatic Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,6.80e-6,TCGA
+MET,ENSG00000105976,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,3.17e-3,TCGA
+MET,ENSG00000105976,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.41e-1,TCGA
+MET,ENSG00000105976,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.96e-2,TCGA
+MET,ENSG00000105976,25,Rectum Adenocarcinoma (validation),false,unprognostic,,5.90e-3,TCGA
+MET,ENSG00000105976,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,9.20e-2,TCGA
+MET,ENSG00000105976,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,8.35e-2,TCGA
+MET,ENSG00000105976,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,5.32e-2,TCGA
+MET,ENSG00000105976,25,Thyroid Carcinoma (TCGA),false,unprognostic,,3.05e-2,TCGA
+MET,ENSG00000105976,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,9.39e-2,TCGA
+MMP14,ENSG00000157227,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.28e-1,TCGA
+MMP14,ENSG00000157227,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.05e-1,TCGA
+MMP14,ENSG00000157227,25,Breast Invasive Carcinoma (validation),false,unprognostic,,9.42e-2,TCGA
+MMP14,ENSG00000157227,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,9.64e-2,TCGA
+MMP14,ENSG00000157227,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,5.38e-2,TCGA
+MMP14,ENSG00000157227,25,Colon Adenocarcinoma (validation),false,unprognostic,,4.84e-2,TCGA
+MMP14,ENSG00000157227,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,5.94e-2,TCGA
+MMP14,ENSG00000157227,25,Glioblastoma Multiforme (validation),false,unprognostic,,1.91e-2,TCGA
+MMP14,ENSG00000157227,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.15e-2,TCGA
+MMP14,ENSG00000157227,25,Kidney Chromophobe (TCGA),false,unprognostic,,5.32e-2,TCGA
+MMP14,ENSG00000157227,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,6.79e-2,TCGA
+MMP14,ENSG00000157227,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.89e-3,TCGA
+MMP14,ENSG00000157227,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.76e-1,TCGA
+MMP14,ENSG00000157227,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,2.56e-3,TCGA
+MMP14,ENSG00000157227,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,7.45e-2,TCGA
+MMP14,ENSG00000157227,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,3.87e-3,TCGA
+MMP14,ENSG00000157227,25,Lung Adenocarcinoma (validation),true,potential prognostic,unfavorable,2.56e-5,TCGA
+MMP14,ENSG00000157227,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.75e-1,TCGA
+MMP14,ENSG00000157227,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.28e-1,TCGA
+MMP14,ENSG00000157227,25,Ovary Serous Cystadenocarcinoma (TCGA),true,potential prognostic,unfavorable,7.12e-4,TCGA
+MMP14,ENSG00000157227,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,2.09e-3,TCGA
+MMP14,ENSG00000157227,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.08e-2,TCGA
+MMP14,ENSG00000157227,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,4.61e-2,TCGA
+MMP14,ENSG00000157227,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,4.33e-2,TCGA
+MMP14,ENSG00000157227,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,7.78e-2,TCGA
+MMP14,ENSG00000157227,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.57e-3,TCGA
+MMP14,ENSG00000157227,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,9.46e-2,TCGA
+MMP14,ENSG00000157227,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,4.49e-2,TCGA
+MMP14,ENSG00000157227,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.06e-2,TCGA
+MMP14,ENSG00000157227,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.74e-1,TCGA
+MMP14,ENSG00000157227,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,8.64e-2,TCGA
+MYBL2,ENSG00000101057,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.53e-1,TCGA
+MYBL2,ENSG00000101057,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,1.73e-2,TCGA
+MYBL2,ENSG00000101057,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.35e-1,TCGA
+MYBL2,ENSG00000101057,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,7.28e-2,TCGA
+MYBL2,ENSG00000101057,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.76e-1,TCGA
+MYBL2,ENSG00000101057,25,Colon Adenocarcinoma (validation),false,unprognostic,,3.24e-2,TCGA
+MYBL2,ENSG00000101057,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.70e-1,TCGA
+MYBL2,ENSG00000101057,25,Glioblastoma Multiforme (validation),false,unprognostic,,8.10e-2,TCGA
+MYBL2,ENSG00000101057,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.31e-1,TCGA
+MYBL2,ENSG00000101057,25,Kidney Chromophobe (TCGA),true,potential prognostic,unfavorable,3.85e-6,TCGA
+MYBL2,ENSG00000101057,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,validated prognostic,unfavorable,2.06e-9,TCGA
+MYBL2,ENSG00000101057,25,Kidney Renal Clear Cell Carcinoma (validation),true,validated prognostic,unfavorable,2.73e-6,TCGA
+MYBL2,ENSG00000101057,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,9.83e-9,TCGA
+MYBL2,ENSG00000101057,25,Liver Hepatocellular Carcinoma (TCGA),true,validated prognostic,unfavorable,3.54e-9,TCGA
+MYBL2,ENSG00000101057,25,Liver Hepatocellular Carcinoma (validation),true,validated prognostic,unfavorable,9.59e-9,TCGA
+MYBL2,ENSG00000101057,25,Lung Adenocarcinoma (TCGA),true,validated prognostic,unfavorable,1.64e-5,TCGA
+MYBL2,ENSG00000101057,25,Lung Adenocarcinoma (validation),true,validated prognostic,unfavorable,7.37e-4,TCGA
+MYBL2,ENSG00000101057,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,8.91e-2,TCGA
+MYBL2,ENSG00000101057,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,7.00e-2,TCGA
+MYBL2,ENSG00000101057,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.26e-1,TCGA
+MYBL2,ENSG00000101057,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.07e-1,TCGA
+MYBL2,ENSG00000101057,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.65e-3,TCGA
+MYBL2,ENSG00000101057,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,5.02e-3,TCGA
+MYBL2,ENSG00000101057,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.66e-2,TCGA
+MYBL2,ENSG00000101057,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.08e-1,TCGA
+MYBL2,ENSG00000101057,25,Rectum Adenocarcinoma (validation),false,unprognostic,,4.45e-2,TCGA
+MYBL2,ENSG00000101057,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,7.46e-3,TCGA
+MYBL2,ENSG00000101057,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,9.33e-2,TCGA
+MYBL2,ENSG00000101057,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.16e-1,TCGA
+MYBL2,ENSG00000101057,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.50e-1,TCGA
+MYBL2,ENSG00000101057,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,1.31e-1,TCGA
+NFKB1,ENSG00000109320,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,4.37e-2,TCGA
+NFKB1,ENSG00000109320,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.31e-1,TCGA
+NFKB1,ENSG00000109320,25,Breast Invasive Carcinoma (validation),false,unprognostic,,7.65e-2,TCGA
+NFKB1,ENSG00000109320,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,2.82e-3,TCGA
+NFKB1,ENSG00000109320,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,5.42e-2,TCGA
+NFKB1,ENSG00000109320,25,Colon Adenocarcinoma (validation),false,unprognostic,,3.43e-1,TCGA
+NFKB1,ENSG00000109320,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.03e-1,TCGA
+NFKB1,ENSG00000109320,25,Glioblastoma Multiforme (validation),false,unprognostic,,2.74e-1,TCGA
+NFKB1,ENSG00000109320,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,5.06e-2,TCGA
+NFKB1,ENSG00000109320,25,Kidney Chromophobe (TCGA),false,unprognostic,,3.08e-3,TCGA
+NFKB1,ENSG00000109320,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,validated prognostic,favorable,4.25e-8,TCGA
+NFKB1,ENSG00000109320,25,Kidney Renal Clear Cell Carcinoma (validation),true,validated prognostic,favorable,2.69e-5,TCGA
+NFKB1,ENSG00000109320,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,3.00e-2,TCGA
+NFKB1,ENSG00000109320,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,2.33e-1,TCGA
+NFKB1,ENSG00000109320,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,2.50e-1,TCGA
+NFKB1,ENSG00000109320,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,2.70e-1,TCGA
+NFKB1,ENSG00000109320,25,Lung Adenocarcinoma (validation),true,potential prognostic,unfavorable,5.09e-4,TCGA
+NFKB1,ENSG00000109320,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,4.18e-3,TCGA
+NFKB1,ENSG00000109320,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,3.47e-2,TCGA
+NFKB1,ENSG00000109320,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.31e-2,TCGA
+NFKB1,ENSG00000109320,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.50e-1,TCGA
+NFKB1,ENSG00000109320,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,7.62e-2,TCGA
+NFKB1,ENSG00000109320,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,2.20e-2,TCGA
+NFKB1,ENSG00000109320,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.36e-1,TCGA
+NFKB1,ENSG00000109320,25,Rectum Adenocarcinoma (TCGA),true,potential prognostic,favorable,3.66e-4,TCGA
+NFKB1,ENSG00000109320,25,Rectum Adenocarcinoma (validation),false,unprognostic,,9.03e-2,TCGA
+NFKB1,ENSG00000109320,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,4.05e-1,TCGA
+NFKB1,ENSG00000109320,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.80e-1,TCGA
+NFKB1,ENSG00000109320,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,5.26e-3,TCGA
+NFKB1,ENSG00000109320,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.07e-2,TCGA
+NFKB1,ENSG00000109320,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,4.41e-1,TCGA
+PDGFRB,ENSG00000113721,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,2.32e-2,TCGA
+PDGFRB,ENSG00000113721,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,5.35e-2,TCGA
+PDGFRB,ENSG00000113721,25,Breast Invasive Carcinoma (validation),false,unprognostic,,7.84e-2,TCGA
+PDGFRB,ENSG00000113721,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,2.84e-1,TCGA
+PDGFRB,ENSG00000113721,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.30e-2,TCGA
+PDGFRB,ENSG00000113721,25,Colon Adenocarcinoma (validation),false,unprognostic,,2.92e-2,TCGA
+PDGFRB,ENSG00000113721,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.58e-1,TCGA
+PDGFRB,ENSG00000113721,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.22e-2,TCGA
+PDGFRB,ENSG00000113721,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,9.09e-2,TCGA
+PDGFRB,ENSG00000113721,25,Kidney Chromophobe (TCGA),false,unprognostic,,4.05e-2,TCGA
+PDGFRB,ENSG00000113721,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,1.19e-2,TCGA
+PDGFRB,ENSG00000113721,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.21e-3,TCGA
+PDGFRB,ENSG00000113721,25,Kidney Renal Papillary Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,5.35e-5,TCGA
+PDGFRB,ENSG00000113721,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,1.18e-1,TCGA
+PDGFRB,ENSG00000113721,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,3.11e-1,TCGA
+PDGFRB,ENSG00000113721,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.88e-1,TCGA
+PDGFRB,ENSG00000113721,25,Lung Adenocarcinoma (validation),false,unprognostic,,5.43e-3,TCGA
+PDGFRB,ENSG00000113721,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.67e-2,TCGA
+PDGFRB,ENSG00000113721,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.83e-1,TCGA
+PDGFRB,ENSG00000113721,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,3.85e-3,TCGA
+PDGFRB,ENSG00000113721,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.34e-3,TCGA
+PDGFRB,ENSG00000113721,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,5.78e-2,TCGA
+PDGFRB,ENSG00000113721,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.18e-1,TCGA
+PDGFRB,ENSG00000113721,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,2.50e-1,TCGA
+PDGFRB,ENSG00000113721,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,2.58e-1,TCGA
+PDGFRB,ENSG00000113721,25,Rectum Adenocarcinoma (validation),false,unprognostic,,2.00e-2,TCGA
+PDGFRB,ENSG00000113721,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,6.30e-3,TCGA
+PDGFRB,ENSG00000113721,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,7.20e-3,TCGA
+PDGFRB,ENSG00000113721,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,2.45e-2,TCGA
+PDGFRB,ENSG00000113721,25,Thyroid Carcinoma (TCGA),false,unprognostic,,9.92e-2,TCGA
+PDGFRB,ENSG00000113721,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,6.78e-2,TCGA
+PLAU,ENSG00000122861,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,4.73e-2,TCGA
+PLAU,ENSG00000122861,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,4.20e-2,TCGA
+PLAU,ENSG00000122861,25,Breast Invasive Carcinoma (validation),false,unprognostic,,7.35e-2,TCGA
+PLAU,ENSG00000122861,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,9.86e-3,TCGA
+PLAU,ENSG00000122861,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.67e-1,TCGA
+PLAU,ENSG00000122861,25,Colon Adenocarcinoma (validation),false,unprognostic,,4.28e-2,TCGA
+PLAU,ENSG00000122861,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.54e-2,TCGA
+PLAU,ENSG00000122861,25,Glioblastoma Multiforme (validation),false,unprognostic,,8.44e-3,TCGA
+PLAU,ENSG00000122861,25,Head and Neck Squamous Cell Carcinoma (TCGA),true,potential prognostic,unfavorable,2.39e-4,TCGA
+PLAU,ENSG00000122861,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.87e-2,TCGA
+PLAU,ENSG00000122861,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,3.89e-3,TCGA
+PLAU,ENSG00000122861,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,2.90e-2,TCGA
+PLAU,ENSG00000122861,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,2.69e-2,TCGA
+PLAU,ENSG00000122861,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,4.94e-3,TCGA
+PLAU,ENSG00000122861,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.68e-1,TCGA
+PLAU,ENSG00000122861,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,1.43e-2,TCGA
+PLAU,ENSG00000122861,25,Lung Adenocarcinoma (validation),true,potential prognostic,unfavorable,4.46e-4,TCGA
+PLAU,ENSG00000122861,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.52e-3,TCGA
+PLAU,ENSG00000122861,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,3.07e-2,TCGA
+PLAU,ENSG00000122861,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,8.68e-3,TCGA
+PLAU,ENSG00000122861,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,1.11e-2,TCGA
+PLAU,ENSG00000122861,25,Pancreatic Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,8.64e-5,TCGA
+PLAU,ENSG00000122861,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.67e-2,TCGA
+PLAU,ENSG00000122861,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,3.18e-1,TCGA
+PLAU,ENSG00000122861,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.97e-1,TCGA
+PLAU,ENSG00000122861,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.48e-2,TCGA
+PLAU,ENSG00000122861,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.04e-1,TCGA
+PLAU,ENSG00000122861,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,7.18e-2,TCGA
+PLAU,ENSG00000122861,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.81e-1,TCGA
+PLAU,ENSG00000122861,25,Thyroid Carcinoma (TCGA),false,unprognostic,,3.23e-2,TCGA
+PLAU,ENSG00000122861,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,5.85e-3,TCGA
+POSTN,ENSG00000133110,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,5.18e-3,TCGA
+POSTN,ENSG00000133110,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.78e-2,TCGA
+POSTN,ENSG00000133110,25,Breast Invasive Carcinoma (validation),false,unprognostic,,3.30e-2,TCGA
+POSTN,ENSG00000133110,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,8.97e-4,TCGA
+POSTN,ENSG00000133110,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.50e-2,TCGA
+POSTN,ENSG00000133110,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.79e-1,TCGA
+POSTN,ENSG00000133110,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,4.09e-2,TCGA
+POSTN,ENSG00000133110,25,Glioblastoma Multiforme (validation),true,potential prognostic,unfavorable,1.17e-4,TCGA
+POSTN,ENSG00000133110,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.75e-2,TCGA
+POSTN,ENSG00000133110,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.56e-2,TCGA
+POSTN,ENSG00000133110,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,2.11e-2,TCGA
+POSTN,ENSG00000133110,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,5.45e-2,TCGA
+POSTN,ENSG00000133110,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.02e-2,TCGA
+POSTN,ENSG00000133110,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,6.34e-3,TCGA
+POSTN,ENSG00000133110,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,3.00e-1,TCGA
+POSTN,ENSG00000133110,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,3.38e-3,TCGA
+POSTN,ENSG00000133110,25,Lung Adenocarcinoma (validation),true,potential prognostic,unfavorable,8.86e-4,TCGA
+POSTN,ENSG00000133110,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.51e-2,TCGA
+POSTN,ENSG00000133110,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,3.42e-2,TCGA
+POSTN,ENSG00000133110,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,8.78e-3,TCGA
+POSTN,ENSG00000133110,25,Ovary Serous Cystadenocarcinoma (validation),true,potential prognostic,unfavorable,4.05e-6,TCGA
+POSTN,ENSG00000133110,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,3.77e-2,TCGA
+POSTN,ENSG00000133110,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.10e-1,TCGA
+POSTN,ENSG00000133110,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,2.01e-1,TCGA
+POSTN,ENSG00000133110,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,6.35e-2,TCGA
+POSTN,ENSG00000133110,25,Rectum Adenocarcinoma (validation),false,unprognostic,,2.05e-2,TCGA
+POSTN,ENSG00000133110,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,9.99e-3,TCGA
+POSTN,ENSG00000133110,25,Stomach Adenocarcinoma (TCGA),true,potential prognostic,unfavorable,2.56e-4,TCGA
+POSTN,ENSG00000133110,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,9.94e-2,TCGA
+POSTN,ENSG00000133110,25,Thyroid Carcinoma (TCGA),false,unprognostic,,4.02e-2,TCGA
+POSTN,ENSG00000133110,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,7.80e-2,TCGA
+RELA,ENSG00000173039,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.83e-1,TCGA
+RELA,ENSG00000173039,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,3.70e-1,TCGA
+RELA,ENSG00000173039,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.42e-1,TCGA
+RELA,ENSG00000173039,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,2.16e-2,TCGA
+RELA,ENSG00000173039,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.00e-1,TCGA
+RELA,ENSG00000173039,25,Colon Adenocarcinoma (validation),false,unprognostic,,3.25e-2,TCGA
+RELA,ENSG00000173039,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.28e-1,TCGA
+RELA,ENSG00000173039,25,Glioblastoma Multiforme (validation),false,unprognostic,,1.19e-1,TCGA
+RELA,ENSG00000173039,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,2.83e-1,TCGA
+RELA,ENSG00000173039,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.52e-2,TCGA
+RELA,ENSG00000173039,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,6.99e-3,TCGA
+RELA,ENSG00000173039,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,2.25e-1,TCGA
+RELA,ENSG00000173039,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,2.74e-1,TCGA
+RELA,ENSG00000173039,25,Liver Hepatocellular Carcinoma (TCGA),true,potential prognostic,unfavorable,9.99e-4,TCGA
+RELA,ENSG00000173039,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.07e-1,TCGA
+RELA,ENSG00000173039,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,3.28e-3,TCGA
+RELA,ENSG00000173039,25,Lung Adenocarcinoma (validation),true,potential prognostic,unfavorable,5.27e-6,TCGA
+RELA,ENSG00000173039,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.68e-2,TCGA
+RELA,ENSG00000173039,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,9.47e-2,TCGA
+RELA,ENSG00000173039,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.14e-2,TCGA
+RELA,ENSG00000173039,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,8.82e-2,TCGA
+RELA,ENSG00000173039,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,2.37e-2,TCGA
+RELA,ENSG00000173039,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,3.44e-3,TCGA
+RELA,ENSG00000173039,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,8.77e-2,TCGA
+RELA,ENSG00000173039,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.67e-1,TCGA
+RELA,ENSG00000173039,25,Rectum Adenocarcinoma (validation),false,unprognostic,,2.88e-1,TCGA
+RELA,ENSG00000173039,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.68e-1,TCGA
+RELA,ENSG00000173039,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,3.64e-1,TCGA
+RELA,ENSG00000173039,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.71e-1,TCGA
+RELA,ENSG00000173039,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.38e-1,TCGA
+RELA,ENSG00000173039,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,9.10e-3,TCGA
+SP1,ENSG00000185591,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.67e-2,TCGA
+SP1,ENSG00000185591,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,1.02e-1,TCGA
+SP1,ENSG00000185591,25,Breast Invasive Carcinoma (validation),false,unprognostic,,3.56e-1,TCGA
+SP1,ENSG00000185591,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,1.76e-1,TCGA
+SP1,ENSG00000185591,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.14e-1,TCGA
+SP1,ENSG00000185591,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.81e-2,TCGA
+SP1,ENSG00000185591,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,3.77e-1,TCGA
+SP1,ENSG00000185591,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.34e-2,TCGA
+SP1,ENSG00000185591,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,6.17e-2,TCGA
+SP1,ENSG00000185591,25,Kidney Chromophobe (TCGA),false,unprognostic,,3.34e-3,TCGA
+SP1,ENSG00000185591,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,potential prognostic,favorable,3.54e-5,TCGA
+SP1,ENSG00000185591,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,5.24e-2,TCGA
+SP1,ENSG00000185591,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.99e-1,TCGA
+SP1,ENSG00000185591,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,4.73e-3,TCGA
+SP1,ENSG00000185591,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,9.10e-2,TCGA
+SP1,ENSG00000185591,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.92e-2,TCGA
+SP1,ENSG00000185591,25,Lung Adenocarcinoma (validation),false,unprognostic,,7.56e-3,TCGA
+SP1,ENSG00000185591,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,3.83e-2,TCGA
+SP1,ENSG00000185591,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.05e-1,TCGA
+SP1,ENSG00000185591,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,1.91e-2,TCGA
+SP1,ENSG00000185591,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,2.53e-1,TCGA
+SP1,ENSG00000185591,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.17e-3,TCGA
+SP1,ENSG00000185591,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,1.24e-1,TCGA
+SP1,ENSG00000185591,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,5.79e-2,TCGA
+SP1,ENSG00000185591,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.42e-1,TCGA
+SP1,ENSG00000185591,25,Rectum Adenocarcinoma (validation),false,unprognostic,,9.69e-2,TCGA
+SP1,ENSG00000185591,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,1.46e-1,TCGA
+SP1,ENSG00000185591,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.32e-1,TCGA
+SP1,ENSG00000185591,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,1.91e-1,TCGA
+SP1,ENSG00000185591,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.53e-2,TCGA
+SP1,ENSG00000185591,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,6.98e-2,TCGA
+SREBF1,ENSG00000072310,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,1.03e-1,TCGA
+SREBF1,ENSG00000072310,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,2.83e-1,TCGA
+SREBF1,ENSG00000072310,25,Breast Invasive Carcinoma (validation),false,unprognostic,,2.54e-1,TCGA
+SREBF1,ENSG00000072310,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,9.12e-3,TCGA
+SREBF1,ENSG00000072310,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,2.18e-1,TCGA
+SREBF1,ENSG00000072310,25,Colon Adenocarcinoma (validation),false,unprognostic,,3.05e-1,TCGA
+SREBF1,ENSG00000072310,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,2.39e-1,TCGA
+SREBF1,ENSG00000072310,25,Glioblastoma Multiforme (validation),false,unprognostic,,4.14e-2,TCGA
+SREBF1,ENSG00000072310,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.92e-2,TCGA
+SREBF1,ENSG00000072310,25,Kidney Chromophobe (TCGA),false,unprognostic,,1.42e-2,TCGA
+SREBF1,ENSG00000072310,25,Kidney Renal Clear Cell Carcinoma (TCGA),true,potential prognostic,favorable,4.86e-5,TCGA
+SREBF1,ENSG00000072310,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.51e-2,TCGA
+SREBF1,ENSG00000072310,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,1.42e-1,TCGA
+SREBF1,ENSG00000072310,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,1.58e-2,TCGA
+SREBF1,ENSG00000072310,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.70e-1,TCGA
+SREBF1,ENSG00000072310,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,5.97e-2,TCGA
+SREBF1,ENSG00000072310,25,Lung Adenocarcinoma (validation),false,unprognostic,,3.25e-1,TCGA
+SREBF1,ENSG00000072310,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,8.75e-2,TCGA
+SREBF1,ENSG00000072310,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,1.57e-1,TCGA
+SREBF1,ENSG00000072310,25,Ovary Serous Cystadenocarcinoma (TCGA),false,unprognostic,,2.15e-2,TCGA
+SREBF1,ENSG00000072310,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,2.59e-2,TCGA
+SREBF1,ENSG00000072310,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,1.03e-2,TCGA
+SREBF1,ENSG00000072310,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,2.92e-2,TCGA
+SREBF1,ENSG00000072310,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,1.69e-1,TCGA
+SREBF1,ENSG00000072310,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,2.16e-1,TCGA
+SREBF1,ENSG00000072310,25,Rectum Adenocarcinoma (validation),false,unprognostic,,1.24e-1,TCGA
+SREBF1,ENSG00000072310,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,4.35e-1,TCGA
+SREBF1,ENSG00000072310,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,1.46e-1,TCGA
+SREBF1,ENSG00000072310,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,9.25e-2,TCGA
+SREBF1,ENSG00000072310,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.37e-1,TCGA
+SREBF1,ENSG00000072310,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,2.26e-1,TCGA
+STAT5A,ENSG00000126561,25,Bladder Urothelial Carcinoma (TCGA),false,unprognostic,,3.35e-2,TCGA
+STAT5A,ENSG00000126561,25,Breast Invasive Carcinoma (TCGA),false,unprognostic,,5.67e-3,TCGA
+STAT5A,ENSG00000126561,25,Breast Invasive Carcinoma (validation),false,unprognostic,,1.08e-2,TCGA
+STAT5A,ENSG00000126561,25,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),false,unprognostic,,5.84e-2,TCGA
+STAT5A,ENSG00000126561,25,Colon Adenocarcinoma (TCGA),false,unprognostic,,1.88e-1,TCGA
+STAT5A,ENSG00000126561,25,Colon Adenocarcinoma (validation),false,unprognostic,,1.73e-1,TCGA
+STAT5A,ENSG00000126561,25,Glioblastoma Multiforme (TCGA),false,unprognostic,,1.09e-1,TCGA
+STAT5A,ENSG00000126561,25,Glioblastoma Multiforme (validation),false,unprognostic,,3.08e-2,TCGA
+STAT5A,ENSG00000126561,25,Head and Neck Squamous Cell Carcinoma (TCGA),false,unprognostic,,5.24e-3,TCGA
+STAT5A,ENSG00000126561,25,Kidney Chromophobe (TCGA),false,unprognostic,,2.14e-2,TCGA
+STAT5A,ENSG00000126561,25,Kidney Renal Clear Cell Carcinoma (TCGA),false,unprognostic,,5.86e-2,TCGA
+STAT5A,ENSG00000126561,25,Kidney Renal Clear Cell Carcinoma (validation),false,unprognostic,,1.46e-1,TCGA
+STAT5A,ENSG00000126561,25,Kidney Renal Papillary Cell Carcinoma (TCGA),false,unprognostic,,2.54e-3,TCGA
+STAT5A,ENSG00000126561,25,Liver Hepatocellular Carcinoma (TCGA),false,unprognostic,,3.72e-1,TCGA
+STAT5A,ENSG00000126561,25,Liver Hepatocellular Carcinoma (validation),false,unprognostic,,1.58e-1,TCGA
+STAT5A,ENSG00000126561,25,Lung Adenocarcinoma (TCGA),false,unprognostic,,4.80e-2,TCGA
+STAT5A,ENSG00000126561,25,Lung Adenocarcinoma (validation),false,unprognostic,,1.09e-1,TCGA
+STAT5A,ENSG00000126561,25,Lung Squamous Cell Carcinoma (TCGA),false,unprognostic,,1.03e-1,TCGA
+STAT5A,ENSG00000126561,25,Lung Squamous Cell Carcinoma (validation),false,unprognostic,,2.00e-1,TCGA
+STAT5A,ENSG00000126561,25,Ovary Serous Cystadenocarcinoma (TCGA),true,potential prognostic,unfavorable,1.69e-4,TCGA
+STAT5A,ENSG00000126561,25,Ovary Serous Cystadenocarcinoma (validation),false,unprognostic,,2.08e-1,TCGA
+STAT5A,ENSG00000126561,25,Pancreatic Adenocarcinoma (TCGA),false,unprognostic,,2.90e-1,TCGA
+STAT5A,ENSG00000126561,25,Pancreatic Adenocarcinoma (validation),false,unprognostic,,5.90e-2,TCGA
+STAT5A,ENSG00000126561,25,Prostate Adenocarcinoma (TCGA),false,unprognostic,,5.15e-1,TCGA
+STAT5A,ENSG00000126561,25,Rectum Adenocarcinoma (TCGA),false,unprognostic,,1.19e-1,TCGA
+STAT5A,ENSG00000126561,25,Rectum Adenocarcinoma (validation),false,unprognostic,,4.58e-3,TCGA
+STAT5A,ENSG00000126561,25,Skin Cutaneous Melanoma (TCGA),false,unprognostic,,2.70e-1,TCGA
+STAT5A,ENSG00000126561,25,Stomach Adenocarcinoma (TCGA),false,unprognostic,,2.93e-2,TCGA
+STAT5A,ENSG00000126561,25,Testicular Germ Cell Tumor (TCGA),false,unprognostic,,3.25e-2,TCGA
+STAT5A,ENSG00000126561,25,Thyroid Carcinoma (TCGA),false,unprognostic,,1.50e-1,TCGA
+STAT5A,ENSG00000126561,25,Uterine Corpus Endometrial Carcinoma (TCGA),false,unprognostic,,7.41e-2,TCGA

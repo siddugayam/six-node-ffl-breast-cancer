@@ -1,0 +1,119 @@
+{
+  "published": {
+    "n_edges": 6859,
+    "max_iterations": 34,
+    "alpha": 0.85,
+    "tol": 1e-12,
+    "best_single": {
+      "node": "POU5F1",
+      "type": "TF",
+      "direction": 1,
+      "spearman": 0.17677430312965997,
+      "spearman_p": 2.0143486822107993e-05,
+      "pearson": 0.09555212653433501,
+      "pearson_p": 0.021933426645342927,
+      "signed_hit_rate": 0.6170212765957447,
+      "n_reached_sig": 329,
+      "own_logFC": -0.549567880503447
+    },
+    "top10": [
+      "POU5F1",
+      "hsa-miR-296",
+      "hsa-miR-18a",
+      "hsa-miR-7",
+      "hsa-miR-19b",
+      "hsa-miR-19a",
+      "hsa-miR-16",
+      "hsa-miR-30c",
+      "hsa-miR-17",
+      "hsa-miR-20a"
+    ],
+    "fwer_p_best_single": 0.004997501249375313,
+    "permutation_null_max_mean": 0.12003551531534927,
+    "permutation_null_max_sd": 0.017620643747511395,
+    "n_permutations": 2000,
+    "lasso_cv_n_nonzero": 137,
+    "lasso_cv_R2": 0.5201570146955713,
+    "lasso_first10": [
+      "FOXM1",
+      "LPL",
+      "SOX10",
+      "S100B",
+      "MYBL2",
+      "FHL1",
+      "OXTR",
+      "FOSB",
+      "MME",
+      "MYH11"
+    ],
+    "R2_at_5": 0.11034897379578001,
+    "R2_at_10": 0.20087610085237517
+  },
+  "curated": {
+    "n_edges": 6393,
+    "max_iterations": 34,
+    "alpha": 0.85,
+    "tol": 1e-12,
+    "best_single": {
+      "node": "hsa-miR-18a",
+      "type": "miRNA",
+      "direction": -1,
+      "spearman": 0.186193933635986,
+      "spearman_p": 6.976036670446993e-06,
+      "pearson": 0.09375236131340733,
+      "pearson_p": 0.024565729162033284,
+      "signed_hit_rate": 0.6307692307692307,
+      "n_reached_sig": 325,
+      "own_logFC": 0.691317415730337
+    },
+    "top10": [
+      "hsa-miR-18a",
+      "hsa-miR-19a",
+      "SPI1",
+      "hsa-miR-19b",
+      "hsa-miR-377",
+      "hsa-miR-20a",
+      "hsa-miR-17",
+      "hsa-miR-7",
+      "hsa-miR-487a",
+      "HNF4A"
+    ],
+    "fwer_p_best_single": 0.0024987506246876563,
+    "permutation_null_max_mean": 0.12246208443222063,
+    "permutation_null_max_sd": 0.018047713148095116,
+    "n_permutations": 2000,
+    "lasso_cv_n_nonzero": 2,
+    "lasso_cv_R2": 0.0035013732698556677,
+    "lasso_first10": [
+      "LPL",
+      "S100B",
+      "ZBTB16",
+      "MYBL2",
+      "FHL1",
+      "SOX10",
+      "OXTR",
+      "FOSB",
+      "MME",
+      "MYH11"
+    ],
+    "R2_at_5": 0.09931389407800562,
+    "R2_at_10": 0.18947700649053312
+  },
+  "boolean": {
+    "seed_nodes": 336,
+    "steps": 12,
+    "period": 4,
+    "unperturbed_sign_agreement": 0.7113095238095238,
+    "n_evaluated": 336,
+    "best_clamp": {
+      "node": "hsa-miR-103",
+      "type": "miRNA",
+      "clamp": 1,
+      "steps": 2,
+      "period": 1,
+      "n_nodes_reached": 12,
+      "sign_accuracy": 0.6666666666666666
+    },
+    "best_clamp_binom_p": 0.3876953125
+  }
+}

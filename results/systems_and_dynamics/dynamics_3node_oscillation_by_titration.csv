@@ -1,0 +1,51 @@
+topology,census_class,n_sign_resolved_cores_in_BRCA_network,has_reciprocal_miRNA_to_TF_arm,miRNA_arm_post_transcriptional,titration,n_param_sets,pct_any_complex_eigenvalue,pct_complex_leading_pair,pct_hopf_unstable_focus,pct_sustained_oscillation,median_period_tau,median_period_hours,median_rel_peak_to_peak,pct_settle_unresolved
+C1_TXN_AND,transcriptional reference (Alon),0,False,False,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C1_TXN_AND,transcriptional reference (Alon),0,False,False,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C1_TXN_OR,transcriptional reference (Alon),0,False,False,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C1_TXN_OR,transcriptional reference (Alon),0,False,False,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C2_MIR_AND,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C2_MIR_AND,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C2_MIR_OR,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C2_MIR_OR,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C3_MIR_AND,miRNA-FFL,101,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C3_MIR_AND,miRNA-FFL,101,True,True,theta sampled 0-10 (stoichiometric titration),1024,7.6171875,0.0,0.0,0.0,,,0.0,0.0
+C3_MIR_OR,miRNA-FFL,101,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C3_MIR_OR,miRNA-FFL,101,True,True,theta sampled 0-10 (stoichiometric titration),1024,8.3984375,0.0,0.0,0.0,,,0.0,0.0
+C4_MIR_AND,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C4_MIR_AND,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C4_MIR_OR,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+C4_MIR_OR,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+CASCADE,control,0,False,False,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+CASCADE,control,0,False,False,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+COMP_C2_AND,Composite-FFL,179,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.09765625
+COMP_C2_AND,Composite-FFL,179,True,True,theta sampled 0-10 (stoichiometric titration),1024,1.3671875,0.0,0.0,0.0,,,0.0,0.0
+COMP_C2_OR,Composite-FFL,179,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.09765625
+COMP_C2_OR,Composite-FFL,179,True,True,theta sampled 0-10 (stoichiometric titration),1024,1.26953125,0.0,0.0,0.0,,,0.0,0.0
+COMP_C4_AND,Composite-FFL,111,True,True,theta = 0 (catalytic RISC),1024,45.8984375,5.56640625,0.0,0.0,8.354948733964859,108.48278794835363,0.0,0.0
+COMP_C4_AND,Composite-FFL,111,True,True,theta sampled 0-10 (stoichiometric titration),1024,75.68359375,10.3515625,0.0,0.0,7.0422112428024235,91.43786913195206,0.0,0.0
+COMP_C4_OR,Composite-FFL,111,True,True,theta = 0 (catalytic RISC),1024,45.8984375,5.56640625,0.0,0.0,8.354948733964859,108.48278794835363,0.0,0.0
+COMP_C4_OR,Composite-FFL,111,True,True,theta sampled 0-10 (stoichiometric titration),1024,74.21875,8.984375,0.0,0.0,7.309002501668894,94.90195496702468,0.0,0.0
+COMP_I1_AND,Composite-FFL,362,True,True,theta = 0 (catalytic RISC),1024,45.8984375,5.56640625,0.0,0.0,8.354948733964859,108.48278794835363,0.0,0.0
+COMP_I1_AND,Composite-FFL,362,True,True,theta sampled 0-10 (stoichiometric titration),1024,53.125,2.734375,0.0,0.0,7.485172347695146,97.18938923597088,0.0,0.0
+COMP_I1_OR,Composite-FFL,362,True,True,theta = 0 (catalytic RISC),1024,45.8984375,5.56640625,0.0,0.0,8.354948733964859,108.48278794835363,0.0,0.0
+COMP_I1_OR,Composite-FFL,362,True,True,theta sampled 0-10 (stoichiometric titration),1024,54.78515625,2.734375,0.0,0.0,7.3349726581183745,95.23915811031166,0.0,0.0
+COMP_I3_AND,Composite-FFL,113,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.09765625
+COMP_I3_AND,Composite-FFL,113,True,True,theta sampled 0-10 (stoichiometric titration),1024,17.08984375,4.39453125,0.0,0.0,7.365684857541464,95.63793315053401,0.0,0.1953125
+COMP_I3_OR,Composite-FFL,113,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.09765625
+COMP_I3_OR,Composite-FFL,113,True,True,theta sampled 0-10 (stoichiometric titration),1024,13.8671875,3.125,0.0,0.0,7.656270972419346,99.41097747250362,0.0,0.0
+I1_MIR_AND,TF-FFL,2,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_MIR_AND,TF-FFL,2,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_MIR_OR,TF-FFL,2,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_MIR_OR,TF-FFL,2,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_TXN_AND,transcriptional reference (Alon),0,False,False,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_TXN_AND,transcriptional reference (Alon),0,False,False,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_TXN_OR,transcriptional reference (Alon),0,False,False,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I1_TXN_OR,transcriptional reference (Alon),0,False,False,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIRLED_AND,miRNA-FFL,27,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIRLED_AND,miRNA-FFL,27,True,True,theta sampled 0-10 (stoichiometric titration),1024,41.50390625,9.375,0.0,0.0,7.312300979869477,94.94478325030681,0.0,0.0
+I3_MIRLED_OR,miRNA-FFL,27,True,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIRLED_OR,miRNA-FFL,27,True,True,theta sampled 0-10 (stoichiometric titration),1024,37.890625,8.59375,0.0,0.0,8.183229153474343,106.25313706357883,0.0,0.0
+I3_MIR_AND,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIR_AND,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIR_OR,TF-FFL,1,False,True,theta = 0 (catalytic RISC),1024,0.0,0.0,0.0,0.0,,,0.0,0.0
+I3_MIR_OR,TF-FFL,1,False,True,theta sampled 0-10 (stoichiometric titration),1024,0.0,0.0,0.0,0.0,,,0.0,0.0

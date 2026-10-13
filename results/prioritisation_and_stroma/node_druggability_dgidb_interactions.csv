@@ -1,0 +1,838 @@
+gene,long_name,drug,concept_id,approved,anti_neoplastic,immunotherapy,interaction_score,interaction_types,directionality,n_sources,sources
+E2F1,E2F transcription factor 1,BORTEZOMIB,rxcui:358258,True,True,False,0.0439634464229923,,,1,NCI
+E2F1,E2F transcription factor 1,THERAPEUTIC HORMONE,ncit:C548,False,False,False,0.08592855437221222,,,1,NCI
+E2F1,E2F transcription factor 1,URSODIOL,rxcui:11065,True,False,False,0.2224033171986669,,,1,NCI
+E2F1,E2F transcription factor 1,TETRADECANOYLPHORBOL ACETATE,ncit:C866,False,False,False,0.0590758811308959,,,1,NCI
+E2F1,E2F transcription factor 1,RECOMBINANT NERVE GROWTH FACTOR,ncit:C684,False,False,False,0.3150713660314448,,,1,NCI
+E2F1,E2F transcription factor 1,QUERCETIN,ncit:C792,False,False,False,0.2520570928251558,,,1,NCI
+E2F1,E2F transcription factor 1,EDIFOLIGIDE,chembl:CHEMBL2108316,False,False,False,0.2363035245235836,inhibitor,INHIBITORY,1,ChEMBL
+E2F1,E2F transcription factor 1,ANTISENSE OLIGONUCLEOTIDES,ncit:C1291,False,False,False,0.1145714058296163,,,1,NCI
+E2F1,E2F transcription factor 1,METHOTREXATE,rxcui:6851,True,True,False,0.0331654069506784,,,1,NCI
+E2F1,E2F transcription factor 1,RAS INHIBITOR,ncit:C1902,False,False,False,0.9452140980943344,,,1,NCI
+E2F1,E2F transcription factor 1,LARGAZOLE,chembl:CHEMBL1173445,False,False,False,0.06518717917891963,,,1,DTC
+E2F1,E2F transcription factor 1,NICOTINE POLACRILEX,rxcui:31765,True,False,False,0.0879268928459846,,,1,NCI
+E2F1,E2F transcription factor 1,DIETHYLSTILBESTROL,rxcui:3390,True,False,False,0.1260285464125779,,,1,NCI
+E2F1,E2F transcription factor 1,IRINOTECAN HYDROCHLORIDE,rxcui:153329,True,True,False,0.05560082929966672,,,1,NCI
+E2F1,E2F transcription factor 1,CARMUSTINE,rxcui:2105,True,True,False,0.3780856392377337,,,1,NCI
+E2F1,E2F transcription factor 1,RECOMBINANT HEPATOCYTE GROWTH FACTOR,ncit:C1122,False,False,False,0.5671284588566006,,,1,NCI
+E2F1,E2F transcription factor 1,ETOPOSIDE,rxcui:4179,True,True,False,0.09778076876837942,,,1,NCI
+E2F1,E2F transcription factor 1,PIBENZIMOL,ncit:C546,False,False,False,3.780856392377337,,,1,NCI
+E2F1,E2F transcription factor 1,EDIFOLIGIDE,ncit:C166786,False,False,False,0.2363035245235836,inhibitor,INHIBITORY,1,ChEMBL
+E2F1,E2F transcription factor 1,CISPLATIN,rxcui:2555,True,True,False,0.02263985863699004,,,1,NCI
+E2F1,E2F transcription factor 1,ACETYLCYSTEINE,rxcui:197,True,False,False,0.2520570928251558,,,1,NCI
+E2F1,E2F transcription factor 1,DOXORUBICIN HYDROCHLORIDE,rxcui:142433,True,True,False,0.02277624332757432,,,1,NCI
+E2F1,E2F transcription factor 1,ESTRADIOL VALERATE,rxcui:24395,True,False,False,0.08401903094171861,,,1,NCI
+E2F1,E2F transcription factor 1,PRIMAQUINE,rxcui:8687,True,False,False,0.3780856392377337,,,1,NCI
+E2F1,E2F transcription factor 1,FLUOROURACIL,rxcui:4492,True,True,False,0.02977052277462471,,,1,NCI
+E2F1,E2F transcription factor 1,ASCORBIC ACID,rxcui:1151,True,False,False,0.2268513835426402,,,1,NCI
+E2F1,E2F transcription factor 1,ARGIPRESSIN,rxcui:1098,True,False,False,0.1718571087444244,,,1,NCI
+E2F1,E2F transcription factor 1,PACLITAXEL PROTEIN-BOUND,rxcui:486610,True,True,False,0.03231501190066101,,,1,NCI
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,GSK126,iuphar.ligand:7012,False,True,False,4.410999124440227,inhibitor,INHIBITORY,4,CIViC|ChEMBL|GuideToPharmacology|TTD
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,EPZ011989,iuphar.ligand:9273,False,True,False,8.821998248880455,inhibitor,INHIBITORY,2,CIViC|GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,EI1,iuphar.ligand:7013,False,False,False,2.940666082960151,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,TAZEMETOSTAT HYDROBROMIDE,chembl:CHEMBL4594260,True,False,False,2.940666082960151,inhibitor,INHIBITORY,1,ChEMBL
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,UNC1999,iuphar.ligand:8237,False,False,False,2.940666082960151,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,TAZEMETOSTAT,rxcui:2274378,True,True,False,4.410999124440227,inhibitor,INHIBITORY,5,CGI|CIViC|GuideToPharmacology|OncoKB|TTD
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,EBI-2511,iuphar.ligand:9881,False,False,False,2.940666082960151,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,VALEMETOSTAT,ncit:C127114,False,False,False,2.940666082960151,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,COMPOUND 15A [PMID: 36642961],iuphar.ligand:12352,False,False,False,0.9802220276533838,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,EPZ005687,iuphar.ligand:8387,False,True,False,11.7626643318406,inhibitor,INHIBITORY,2,CGI|GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,MEVROMETOSTAT,iuphar.ligand:10516,False,False,False,2.940666082960151,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,JQEZ5,iuphar.ligand:9332,False,True,False,4.410999124440227,inhibitor,INHIBITORY,2,CIViC|GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,ZEPRUMETOSTAT,iuphar.ligand:13512,False,False,False,1.470333041480075,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,SKLB-03220,iuphar.ligand:12353,False,False,False,2.940666082960151,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,CPI-1205,iuphar.ligand:9115,False,False,False,5.881332165920303,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,GSK343,iuphar.ligand:8240,False,False,False,1.470333041480075,inhibitor,INHIBITORY,1,GuideToPharmacology
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,CHEMBL:CHEMBL4545488,chembl:CHEMBL4545488,False,False,False,2.940666082960151,,,1,TTD
+EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,TULMIMETOSTAT,ncit:C167347,False,False,False,1.470333041480075,inhibitor,INHIBITORY,1,GuideToPharmacology
+GATA3,GATA binding protein 3,PEGASPARGASE,rxcui:34132,True,False,False,0.4151528587708448,,,1,PharmGKB
+GATA3,GATA binding protein 3,ASPARAGINASE,rxcui:1156,True,True,False,0.2714460999655524,,,1,PharmGKB
+GATA3,GATA binding protein 3,CYTARABINE,rxcui:3041,True,True,False,0.07929886066409397,,,1,PharmGKB
+GATA3,GATA binding protein 3,DAUNORUBICIN LIPOSOMAL,rxcui:214468,True,True,False,0.0801999840807314,,,1,PharmGKB
+GATA3,GATA binding protein 3,PREDNISOLONE,rxcui:8638,True,True,False,0.2520570928251558,,,1,PharmGKB
+GATA3,GATA binding protein 3,LEUCOVORIN CALCIUM,rxcui:225852,True,True,False,0.1907459080839017,,,1,PharmGKB
+GATA3,GATA binding protein 3,METHOTREXATE,rxcui:6851,True,True,False,0.06190875964126634,,,1,PharmGKB
+GATA3,GATA binding protein 3,DOXORUBICIN HYDROCHLORIDE,rxcui:142433,True,True,False,0.04251565421147207,,,1,PharmGKB
+GATA3,GATA binding protein 3,GLUCARPIDASE,rxcui:1242127,True,False,False,1.008228371300623,,,1,PharmGKB
+GATA3,GATA binding protein 3,PREDNISONE,rxcui:8640,True,True,False,0.1534260565022687,,,1,PharmGKB
+GATA3,GATA binding protein 3,VINCRISTINE,rxcui:11202,True,True,False,0.06987721385251845,,,1,PharmGKB
+GATA3,GATA binding protein 3,THIOGUANINE,rxcui:10485,True,True,False,0.2205499562220113,,,1,PharmGKB
+GATA3,GATA binding protein 3,DEXAMETHASONE,rxcui:3264,True,True,False,0.08503130842294414,,,1,PharmGKB
+GATA3,GATA binding protein 3,CYCLOPHOSPHAMIDE ANHYDROUS,rxcui:1545988,True,True,False,0.08303057175416897,,,1,PharmGKB
+GATA3,GATA binding protein 3,MERCAPTOPURINE,rxcui:103,True,True,False,0.1306962703537845,,,1,PharmGKB
+BRCA1,BRCA1 DNA repair associated,7-HYDROXY ISOFLAVONE,chembl:CHEMBL491981,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,OLAPARIB,rxcui:1597582,True,True,False,0.2484456028587875,,,5,CGI|CIViC|ClearityFoundationBiomarkers|OncoKB|PharmGKB
+BRCA1,BRCA1 DNA repair associated,PLATINUM COMPOUND,ncit:C1450,False,True,False,0.2157553919563154,,,1,CIViC
+BRCA1,BRCA1 DNA repair associated,DAIDZIN,chembl:CHEMBL486422,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL581929,chembl:CHEMBL581929,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,PIDNARULEX,ncit:C126798,False,True,False,0.575347711883508,,,1,CIViC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1481721,chembl:CHEMBL1481721,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL484663,chembl:CHEMBL484663,False,False,False,0.0719184639854385,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1214407,chembl:CHEMBL1214407,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,2-PHENYLQUINOLINE,chembl:CHEMBL89786,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,HARMALOL,chembl:CHEMBL129177,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1574420,chembl:CHEMBL1574420,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,DOXORUBICIN HYDROCHLORIDE,rxcui:142433,True,True,False,0.01039785021476219,,,2,DTC|NCI
+BRCA1,BRCA1 DNA repair associated,MITOMYCIN,rxcui:632,True,True,False,0.0547950201793817,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,PACLITAXEL PROTEIN-BOUND,rxcui:486610,True,True,False,0.009835003621940307,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,RESVERATROL,rxcui:1000492,True,False,False,0.01797961599635962,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL12658,chembl:CHEMBL12658,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,ONONIN,chembl:CHEMBL465980,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CEDIRANIB,ncit:C80867,False,True,False,0.02348358007687787,,,1,CIViC
+BRCA1,BRCA1 DNA repair associated,PIPERINE,rxcui:1311146,True,False,False,0.05230433744395527,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL446567,chembl:CHEMBL446567,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL546649,chembl:CHEMBL546649,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,DEPHOSTATIN,chembl:CHEMBL269733,False,False,False,0.02301390847534032,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,SEMUSTINE,ncit:C827,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CISPLATIN,rxcui:2555,True,True,False,0.03100676291587767,,,4,CGI|CIViC|ClearityFoundationBiomarkers|NCI
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1404865,chembl:CHEMBL1404865,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,QUARFLOXIN,ncit:C71726,False,True,False,0.383565141255672,,,1,CIViC
+BRCA1,BRCA1 DNA repair associated,PARP/TANKYRASE INHIBITOR 2X-121,ncit:C102746,False,True,False,0.095891285313918,,,1,ClearityFoundationBiomarkers
+BRCA1,BRCA1 DNA repair associated,WISTIN,chembl:CHEMBL464707,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHRYSIN DIMETHYL ETHER,chembl:CHEMBL275391,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,GEMCITABINE,rxcui:12574,True,True,False,0.02841223268560533,,,2,CIViC|NCI
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL600315,chembl:CHEMBL600315,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,AURINTRICARBOXYLIC ACID,chembl:CHEMBL275938,False,False,False,0.01855960360914541,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,MITOXANTRONE HYDROCHLORIDE,rxcui:203129,True,False,False,0.1643850605381451,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,SACITUZUMAB GOVITECAN,rxcui:2360232,True,True,False,0.0719184639854385,,,1,PharmGKB
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL588683,chembl:CHEMBL588683,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL593254,chembl:CHEMBL593254,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL588525,chembl:CHEMBL588525,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,PURPURIN,chembl:CHEMBL294264,False,False,False,0.02739751008969085,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL316796,chembl:CHEMBL316796,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1709259,chembl:CHEMBL1709259,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL452954,chembl:CHEMBL452954,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1078244,chembl:CHEMBL1078244,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,RIBOFLAVIN,rxcui:9346,True,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,GAMMA-FAGARINE,chembl:CHEMBL252925,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,THERAPEUTIC HORMONE,ncit:C548,False,False,False,0.02615216872197763,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,TIAPROFENIC ACID,rxcui:38253,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CARBOPLATIN,rxcui:40048,True,True,False,0.01961412654148322,,,2,CIViC|ClearityFoundationBiomarkers
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1320798,chembl:CHEMBL1320798,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,PHYTOESTROGEN,ncit:C1194,False,False,False,0.287673855941754,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1308677,chembl:CHEMBL1308677,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL581910,chembl:CHEMBL581910,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,PHENAMIL METHANESULFONATE,chembl:CHEMBL1256775,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,TAMOXIFEN CITRATE,rxcui:40137,True,False,False,0.042618349028408,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,DIPYRIDAMOLE,rxcui:3521,True,False,False,0.01128132768399035,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,OXALIPLATIN,rxcui:32592,True,True,False,0.04209861306464693,,,2,CIViC|ClearityFoundationBiomarkers
+BRCA1,BRCA1 DNA repair associated,EUFLAVINE,chembl:CHEMBL354349,False,False,False,0.03595923199271925,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,GLABRIDIN,chembl:CHEMBL480477,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,DAUNORUBICIN HYDROCHLORIDE,chembl:CHEMBL1563,True,False,False,0.01743477914798509,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1420181,chembl:CHEMBL1420181,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL589207,chembl:CHEMBL589207,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,QUINALIZARIN,chembl:CHEMBL29898,False,False,False,0.0383565141255672,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL114544,chembl:CHEMBL114544,False,False,False,0.0719184639854385,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL546865,chembl:CHEMBL546865,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,7-HYDROXYFLAVONE,chembl:CHEMBL276915,False,False,False,0.575347711883508,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,IROFULVEN,ncit:C1717,False,False,False,0.383565141255672,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,VINORELBINE,rxcui:39541,True,True,False,0.04602781695068064,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL587620,chembl:CHEMBL587620,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,THUNBERGINOL E,chembl:CHEMBL421486,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,ANTHRACYCLINE ANTINEOPLASTIC ANTIBIOTIC,ncit:C1594,False,True,False,0.095891285313918,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,VELIPARIB,ncit:C60768,False,True,False,0.191782570627836,,,3,CGI|CIViC|ClearityFoundationBiomarkers
+BRCA1,BRCA1 DNA repair associated,DIMETHYL YELLOW,chembl:CHEMBL263116,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,ILEPCIMIDE,chembl:CHEMBL118478,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1998001,chembl:CHEMBL1998001,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,VU0001171,iuphar.ligand:6228,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,RUCAPARIB,rxcui:1862579,True,True,False,0.1678097492993565,,,5,CGI|CIViC|ClearityFoundationBiomarkers|OncoKB|PharmGKB
+BRCA1,BRCA1 DNA repair associated,SB 204741,iuphar.ligand:221,False,False,False,0.047945642656959,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL1405979,chembl:CHEMBL1405979,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL153505,chembl:CHEMBL153505,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,THIABENDAZOLE,rxcui:10450,True,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,EMODIN,ncit:C466,False,False,False,0.287673855941754,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL66279,chembl:CHEMBL66279,False,False,False,0.287673855941754,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,CALYCOSIN,chembl:CHEMBL241608,False,False,False,0.191782570627836,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,TALAZOPARIB,rxcui:2099704,True,True,False,0.09279801804572708,,,4,CIViC|ClearityFoundationBiomarkers|OncoKB|PharmGKB
+BRCA1,BRCA1 DNA repair associated,NILE RED,chembl:CHEMBL144472,False,False,False,0.1150695423767015,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,PIFEXOLE,chembl:CHEMBL1402420,False,False,False,0.08219253026907256,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,APIGENIN,rxcui:1368130,True,False,False,0.01855960360914541,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,6-HYDROXYFLAVONE,chembl:CHEMBL138649,False,False,False,0.143836927970877,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,BLEOMYCIN,rxcui:1622,True,True,False,0.0719184639854385,,,1,NCI
+BRCA1,BRCA1 DNA repair associated,SODIUM TANSHINONE IIA SULFONATE,chembl:CHEMBL1473252,False,False,False,0.095891285313918,,,1,DTC
+BRCA1,BRCA1 DNA repair associated,NIRAPARIB,rxcui:1918231,True,True,False,0.1078776959781577,,,3,ClearityFoundationBiomarkers|OncoKB|PharmGKB
+BRCA1,BRCA1 DNA repair associated,CHEMBL:CHEMBL273891,chembl:CHEMBL273891,False,False,False,0.575347711883508,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",2-MERCAPTOPYRIMIDINE,chembl:CHEMBL1688952,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",SERGEOLIDE,chembl:CHEMBL521373,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",GEMFIBROZIL,rxcui:4719,True,False,False,0.2047659168018674,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",TROPISETRON,rxcui:27392,True,False,False,0.0866317340315593,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",QUINAPRIL HYDROCHLORIDE,chembl:CHEMBL1201011,True,False,False,0.3754041808034236,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",ROTENONE,chembl:CHEMBL429023,False,False,False,0.1608875060586101,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",BRUCEANTIN,chembl:CHEMBL509895,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",BENZENETHIOL,chembl:CHEMBL119405,False,False,False,0.5631062712051355,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",(-)-CAMPHOR,chembl:CHEMBL2252949,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",SERTRALINE HYDROCHLORIDE,rxcui:155137,True,True,False,0.1185486886747653,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",PATULIN,chembl:CHEMBL294018,False,False,False,0.2502694538689491,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CHEMBL:CHEMBL275260,chembl:CHEMBL275260,False,False,False,0.2815531356025677,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",VINORELBINE TARTRATE,chembl:CHEMBL538943,True,False,False,0.06624779661236888,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CIPROFIBRATE,rxcui:21149,True,False,False,0.7508083616068473,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CHEMBL:CHEMBL477052,chembl:CHEMBL477052,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",NAFRONYL OXALATE,chembl:CHEMBL1439099,False,False,False,0.2252425084820541,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CRIDANIMOD,chembl:CHEMBL1569545,False,False,False,0.2815531356025677,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",COPPER CHLORIDE,rxcui:150596,True,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",METHIMAZOLE,rxcui:6835,True,False,False,0.05362916868620337,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",TRIFLUPROMAZINE HYDROCHLORIDE,chembl:CHEMBL1201102,True,False,False,0.1877020904017118,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",VINBLASTINE SULFATE,chembl:CHEMBL378544,True,False,False,0.05631062712051354,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",AZELASTINE HYDROCHLORIDE,chembl:CHEMBL1200809,True,False,False,0.2815531356025677,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",MECHLORETHAMINE HYDROCHLORIDE,chembl:CHEMBL1201001,True,False,False,0.1877020904017118,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CARBOXYMETHYL-TRIMETHYL-ARSONIUM,chembl:CHEMBL2448348,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",DIPHENHYDRAMINE HYDROCHLORIDE,chembl:CHEMBL1620,True,False,False,0.2815531356025677,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CLOTRIMAZOLE,rxcui:2623,True,False,False,0.06256736346723728,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",SODIUM SELENITE,chembl:CHEMBL112302,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",BENZO[B]FLUORANTHENE,chembl:CHEMBL1337502,False,False,False,0.1608875060586101,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",FENOFIBRATE MICRONIZED,rxcui:221100,True,False,False,0.09385104520085591,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",AMINEPTIN,rxcui:17698,True,False,False,0.3754041808034236,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",ARSENIC TRIOXIDE,rxcui:18330,True,True,False,0.04331586701577965,,,1,TdgClinicalTrial
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CINNARIZINE,rxcui:2549,True,False,False,0.2047659168018674,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",ATOMOXETINE HYDROCHLORIDE,chembl:CHEMBL1702,True,False,False,0.5631062712051355,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",9-ANTHROIC ACID,iuphar.ligand:4113,False,False,False,0.2252425084820541,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",ISOLIQUIRITIGENIN,chembl:CHEMBL129795,False,False,False,0.1877020904017118,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",BUPROPION HYDROCHLORIDE,chembl:CHEMBL1698,True,False,False,0.3754041808034236,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",BUTINOLINE,chembl:CHEMBL1442660,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",IRISOLIDONE,chembl:CHEMBL265945,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",HOLACANTHONE,chembl:CHEMBL519243,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",NEOCHAMAEJASMIN A,chembl:CHEMBL452374,False,False,False,2.252425084820542,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",COLCHICINE,rxcui:2683,True,False,False,0.02208259887078962,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",CLOFIBRATE,rxcui:2594,True,False,False,0.1608875060586101,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",EFLORNITHINE,rxcui:569,True,False,False,0.1501616723213694,,,1,NCI
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",T-5224,drugbank:DB05998,False,False,False,1.126212542410271,,,1,TdgClinicalTrial
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",THIOCTIC ACID,rxcui:6417,True,False,False,0.07038828390064193,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",SANGIVAMYCIN,chembl:CHEMBL101892,False,False,False,1.126212542410271,,,1,DTC
+JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",RETINYLRETINOATE,chembl:CHEMBL451039,False,False,False,1.126212542410271,,,1,DTC
+EGR2,early growth response 2,TRETINOIN,rxcui:10753,True,True,False,1.216827344673166,,,1,NCI
+ESR1,estrogen receptor 1,ESTRONE,rxcui:4103,True,False,False,0.1280612649031033,agonist,ACTIVATING,6,ChEMBL|DTC|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,EVEROLIMUS,rxcui:141704,True,True,True,0.01829446641472905,,,3,CGI|FDA|PharmGKB
+ESR1,estrogen receptor 1,ANASTROZOLE,rxcui:84857,True,True,False,0.04268708830103445,,,3,CGI|ClearityFoundationBiomarkers|FDA
+ESR1,estrogen receptor 1,SIVIFENE,ncit:C61305,False,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,ARZOXIFENE,chembl:CHEMBL226267,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ENDOXIFEN,iuphar.ligand:10203,False,True,False,0.3201531622577584,inhibitor,INHIBITORY,2,ClearityFoundationClinicalTrial|DTC
+ESR1,estrogen receptor 1,OSPEMIFENE,rxcui:1370971,True,False,False,0.2134354415051722,inhibitor|modulator,INHIBITORY,4,ChEMBL|GuideToPharmacology|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,RALOXIFEN,chembl:CHEMBL1079109,True,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,FULVESTRANT,rxcui:282357,True,True,False,0.1888082751776524,cleavage|inhibitor,INHIBITORY,12,CGI|CIViC|ChEMBL|DTC|FDA|GuideToPharmacology|OncoKB|PharmGKB|TALC|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,INAVOLISIB,rxcui:2695422,True,True,False,0.03557257358419538,,,1,PharmGKB
+ESR1,estrogen receptor 1,TESTOSTERONE PROPIONATE,rxcui:10382,True,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,PHENYLMERCURIC ACETATE,chembl:CHEMBL1333953,False,False,False,0.01067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,ESTRADIOL CYPIONATE,rxcui:1000146,True,False,False,0.2134354415051722,agonist,ACTIVATING,2,ChEMBL|TTD
+ESR1,estrogen receptor 1,ESTROGEN,chembl:CHEMBL592868,True,False,False,0.2134354415051722,,,2,TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,METHOXSALEN,rxcui:6854,True,False,False,0.02371504905613025,,,1,DTC
+ESR1,estrogen receptor 1,BORIC ACID,chembl:CHEMBL42403,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,IMLUNESTRANT,rxcui:2725912,True,False,False,0.1422902943367815,inhibitor,INHIBITORY,2,GuideToPharmacology|PharmGKB
+ESR1,estrogen receptor 1,PROTOAPIGENONE,chembl:CHEMBL414890,False,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,CLOMIPHENE CITRATE,rxcui:142431,True,False,False,0.04268708830103445,,,1,TTD
+ESR1,estrogen receptor 1,DAUNORUBICIN HYDROCHLORIDE,chembl:CHEMBL1563,True,False,False,0.006467740651671887,,,1,DTC
+ESR1,estrogen receptor 1,NERATINIB,rxcui:1940643,True,True,False,0.03283622177002651,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,ALACHLOR,chembl:CHEMBL1414154,False,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,METHAMPHETAMINE,rxcui:6816,True,False,False,0.01641811088501325,,,1,PharmGKB
+ESR1,estrogen receptor 1,OCHRATOXIN A,iuphar.ligand:4672,False,False,False,0.02371504905613025,,,1,DTC
+ESR1,estrogen receptor 1,CETRIMONIUM BROMIDE,chembl:CHEMBL307346,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,EXEMESTANE,rxcui:258494,True,True,False,0.07114514716839075,,,3,CGI|FDA|PharmGKB
+ESR1,estrogen receptor 1,GW7647,iuphar.ligand:2674,False,False,False,0.007359842810523182,,,1,DTC
+ESR1,estrogen receptor 1,NORGESTREL,rxcui:7518,True,False,False,0.07114514716839077,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,AMCENESTRANT,iuphar.ligand:10566,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,LETROZOLE,rxcui:72965,True,True,False,0.06277512985446243,,,4,CGI|CIViC|ClearityFoundationBiomarkers|FDA
+ESR1,estrogen receptor 1,PROGESTERONE,rxcui:8727,True,False,False,0.006997883328038435,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,DIETHYLSTILBESTROL,rxcui:3390,True,False,False,0.04980160301787353,agonist,ACTIVATING,6,ChEMBL|DTC|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,ESTRIOL,rxcui:4094,True,False,False,0.3557257358419538,agonist|modulator,ACTIVATING,5,ChEMBL|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,16&ALPHA;-HYDROXYESTRONE,iuphar.ligand:12965,False,False,False,0.2134354415051722,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,BRILANESTRANT,ncit:C106235,False,True,False,0.4268708830103445,,,2,CGI|TTD
+ESR1,estrogen receptor 1,LEVONORGESTREL,rxcui:6373,True,False,False,0.0853741766020689,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,ACOLBIFENE,ncit:C64183,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,PROPYLPYRAZOLETRIOL,iuphar.ligand:2819,False,False,False,0.03880644391003132,agonist,ACTIVATING,2,DTC|GuideToPharmacology
+ESR1,estrogen receptor 1,AMCENESTRANT,chembl:CHEMBL4475463,False,False,False,0.2134354415051722,cleavage,INHIBITORY,1,ChEMBL
+ESR1,estrogen receptor 1,ESTRADIOL VALERATE,rxcui:24395,True,False,False,0.06165912754593865,agonist,ACTIVATING,6,ChEMBL|DTC|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,MEGESTROL,rxcui:6703,True,True,False,0.2134354415051722,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,ELACESTRANT,rxcui:2628469,True,True,False,0.6403063245155168,cleavage,INHIBITORY,5,CIViC|ChEMBL|PharmGKB|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,DOMIPHEN BROMIDE,chembl:CHEMBL486696,False,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,PROPYLPARABEN,chembl:CHEMBL194014,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,CLOMIPHENE,rxcui:2596,True,False,False,0.8537417660206891,inhibitor,INHIBITORY,4,GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,DIENESTROL,rxcui:3368,True,False,False,0.1524538867894087,agonist,ACTIVATING,5,ChEMBL|DTC|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,GOSSYPOL,iuphar.ligand:4204,False,False,False,0.005081796226313625,,,1,DTC
+ESR1,estrogen receptor 1,ETHYNODIOL DIACETATE,rxcui:4170,True,False,False,0.1067177207525861,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,ETHYLENEDIAMINE,chembl:CHEMBL816,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,DANAZOL,rxcui:3102,True,True,False,0.0569161177347126,,,4,DTC|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,OXYMETHOLONE,rxcui:7813,True,False,False,0.02371504905613025,,,1,DTC
+ESR1,estrogen receptor 1,ESTROPIPATE,chembl:CHEMBL1200980,True,False,False,0.07114514716839077,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,DESOGESTREL,rxcui:22656,True,False,False,0.1067177207525861,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,AC-186,iuphar.ligand:8897,False,False,False,0.1067177207525861,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,DIARYLPROPIONITRILE,iuphar.ligand:2825,False,False,False,0.1067177207525861,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,WAY200070,iuphar.ligand:4052,False,False,False,0.1067177207525861,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,METHYL-PIPERIDINO-PYRAZOLE,iuphar.ligand:3459,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,LEFLUNOMIDE,rxcui:27169,True,False,False,0.03049077735788175,,,1,PharmGKB
+ESR1,estrogen receptor 1,H3B-6545,chembl:CHEMBL6068514,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,PUERARIN,drugbank:DB12290,False,False,False,0.1422902943367815,,,1,DTC
+ESR1,estrogen receptor 1,FENRETINIDE,ncit:C1098,True,True,False,0.007905016352043418,,,1,DTC
+ESR1,estrogen receptor 1,"SYNTHETIC CONJUGATED ESTROGENS, A",rxcui:253166,False,False,False,0.05335886037629307,,,1,TTD
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL1222035,chembl:CHEMBL1222035,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,METHYLISOTHIOCYANATE,chembl:CHEMBL396000,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,CHLOROTRIANISENE,rxcui:2397,True,False,False,0.1707483532041378,,,4,DTC|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,POLYESTRADIOL PHOSPHATE,chembl:CHEMBL1201477,True,False,False,0.2134354415051722,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,"TRIS(2,3-DIBROMOPROPYL)PHOSPHATE",chembl:CHEMBL1904600,False,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,GOSERELIN,rxcui:50610,True,True,False,0.05335886037629307,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,ZERANOL,chembl:CHEMBL450613,False,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,"SYNTHETIC CONJUGATED ESTROGENS, B",chembl:CHEMBL1201467,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,QUINESTROL,rxcui:9066,True,False,False,0.1707483532041378,agonist,ACTIVATING,4,ChEMBL|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,GENISTEIN,rxcui:25696,True,False,False,0.007359842810523182,,,1,DTC
+ESR1,estrogen receptor 1,AROMATASE INHIBITOR,ncit:C1740,False,True,False,0.1422902943367815,,,1,CIViC
+ESR1,estrogen receptor 1,"ESTROGENS, CONJUGATED SYNTHETIC A",chembl:CHEMBL1201466,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,4-HYDROXYTAMOXIFEN,iuphar.ligand:2817,False,False,False,0.07622694339470439,agonist|inhibitor|modulator,ACTIVATING|INHIBITORY,3,ChEMBL|DTC|GuideToPharmacology
+ESR1,estrogen receptor 1,CUMENE HYDROPEROXIDE,chembl:CHEMBL1518369,False,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,RESVERATROL,rxcui:1000492,True,False,False,0.006669857547036633,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL2313444,chembl:CHEMBL2313444,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,DICHLOROPHEN,chembl:CHEMBL33845,False,False,False,0.01185752452806512,,,1,DTC
+ESR1,estrogen receptor 1,ALPELISIB,rxcui:2169285,True,True,False,0.01293548130334377,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,PROMESTRIENE,rxcui:34625,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL354663,chembl:CHEMBL354663,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,LY2245461,chembl:CHEMBL3545389,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ALOE-EMODIN,chembl:CHEMBL40275,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,CATECHOL,chembl:CHEMBL280998,False,False,False,0.009701610977507831,,,1,DTC
+ESR1,estrogen receptor 1,ERIBULIN,rxcui:1045453,True,True,False,0.05335886037629307,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,CHF 4227,drugbank:DB05882,False,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL85826,chembl:CHEMBL85826,False,False,False,0.02371504905613025,,,1,DTC
+ESR1,estrogen receptor 1,RIBOCICLIB,rxcui:1873916,True,True,False,0.02134354415051722,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,GLYBURIDE,rxcui:4815,True,False,False,0.01581003270408683,,,1,PharmGKB
+ESR1,estrogen receptor 1,CYCLOFENIL,rxcui:2983,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,BISPHENOL A,drugbank:DB06973,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,METHIOCARB,chembl:CHEMBL1076495,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,PYRITHIONE ZINC,ncit:C47698,True,False,False,0.01185752452806512,,,1,DTC
+ESR1,estrogen receptor 1,LASOFOXIFENE,ncit:C80679,True,True,False,0.6403063245155168,agonist|modulator,ACTIVATING,5,CIViC|ChEMBL|GuideToPharmacology|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,GIREDESTRANT,iuphar.ligand:12715,False,False,False,0.4268708830103445,cleavage|inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+ESR1,estrogen receptor 1,NORELGESTROMIN,rxcui:326374,True,False,False,0.07114514716839077,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,CHOLECALCIFEROL,rxcui:2418,True,False,False,0.02134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,GTX-758,chembl:CHEMBL3545017,False,False,False,0.2134354415051722,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL1091535,chembl:CHEMBL1091535,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,17-ALPHA-HYDROXYPROGESTERONE,rxcui:5542,False,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,ERD-308,iuphar.ligand:10565,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,ESTROPIPATE,rxcui:33747,True,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,MERCURIC CHLORIDE,chembl:CHEMBL1374360,False,False,False,0.01067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,SACITUZUMAB GOVITECAN,rxcui:2360232,True,True,False,0.02667943018814653,,,1,PharmGKB
+ESR1,estrogen receptor 1,LAPATINIB,rxcui:480167,True,True,False,0.01471968562104636,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,TOREMIFENE CITRATE,chembl:CHEMBL1200675,True,False,False,0.03049077735788175,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,CLOMIPHENE CITRATE,chembl:CHEMBL3185958,True,False,False,0.2134354415051722,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ACRYLAMIDE,iuphar.ligand:4553,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,MK-6913,chembl:CHEMBL3545274,False,False,False,0.2134354415051722,agonist,ACTIVATING,2,ChEMBL|TdgClinicalTrial
+ESR1,estrogen receptor 1,DIETHYLSTILBESTROL DIPROPIONATE,chembl:CHEMBL1525298,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,TRIAMTERENE,rxcui:10763,True,False,False,0.01185752452806512,,,1,DTC
+ESR1,estrogen receptor 1,PYROGALLOL,iuphar.ligand:13596,False,False,False,0.01333971509407326,,,1,DTC
+ESR1,estrogen receptor 1,BRILANESTRANT,chembl:CHEMBL3581693,False,False,False,0.2134354415051722,cleavage,INHIBITORY,1,ChEMBL
+ESR1,estrogen receptor 1,TAMOXIFEN CITRATE,chembl:CHEMBL786,True,False,False,0.02246688857949181,modulator,,2,ChEMBL|DTC
+ESR1,estrogen receptor 1,DACTINOMYCIN,rxcui:3100,True,False,False,0.006098155471576351,,,1,DTC
+ESR1,estrogen receptor 1,GUTHION,chembl:CHEMBL530115,False,False,False,0.01778628679209769,,,1,DTC
+ESR1,estrogen receptor 1,SELECTIVE ESTROGEN RECEPTOR COVALENT ANTAGONIST H3B-6545,ncit:C142980,False,True,False,0.6403063245155168,,,1,CIViC
+ESR1,estrogen receptor 1,"ESTROGENS, CONJUGATED",chembl:CHEMBL1201649,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,GTX-758,drugbank:DB14969,False,False,False,0.1067177207525861,,,1,TTD
+ESR1,estrogen receptor 1,BAZEDOXIFENE,rxcui:1441386,True,True,False,0.1600765811288792,inhibitor,INHIBITORY,3,GuideToPharmacology|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,BITHIONOL,ncit:C77030,True,False,False,0.008893143396048846,,,1,DTC
+ESR1,estrogen receptor 1,ZIRAM,chembl:CHEMBL1519327,False,False,False,0.01641811088501325,,,1,DTC
+ESR1,estrogen receptor 1,IODINE,rxcui:5933,True,False,False,0.2134354415051722,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,NORGESTIMATE,rxcui:31994,True,False,False,0.0853741766020689,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,PENTABROMOPHENOL,chembl:CHEMBL1235157,False,False,False,0.01641811088501325,,,1,DTC
+ESR1,estrogen receptor 1,FOSFESTROL,rxcui:25284,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,TRIADIMEFON,chembl:CHEMBL520897,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,DOXORUBICIN HYDROCHLORIDE,rxcui:142433,True,True,False,0.001285755671717905,,,1,DTC
+ESR1,estrogen receptor 1,ACETOCHLOR,chembl:CHEMBL1517425,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,ALFADEX,chembl:CHEMBL1230813,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL184450,chembl:CHEMBL184450,False,False,False,0.01524538867894087,,,1,DTC
+ESR1,estrogen receptor 1,BAZEDOXIFENE ACETATE,rxcui:1442171,True,False,False,0.07114514716839077,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,COMPOUND 5 [PMID: 40393772],iuphar.ligand:13917,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,KEPONE,chembl:CHEMBL462576,False,False,False,0.01778628679209769,,,1,DTC
+ESR1,estrogen receptor 1,4-TRIETHYLGERMYLPHENOL,chembl:CHEMBL2313446,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,GENTIAN VIOLET CATION,rxcui:1546369,True,False,False,0.01255502597089248,,,1,DTC
+ESR1,estrogen receptor 1,MITOTANE,rxcui:7004,True,False,False,0.02371504905613025,,,1,TTD
+ESR1,estrogen receptor 1,ACOLBIFENE,chembl:CHEMBL68055,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ENDOSULFAN,chembl:CHEMBL194399,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,DAIDZEIN,iuphar.ligand:2828,False,False,False,0.02246688857949181,,,1,DTC
+ESR1,estrogen receptor 1,CISPLATIN,rxcui:2555,True,True,False,0.002556113071918231,,,1,PharmGKB
+ESR1,estrogen receptor 1,CAPTAN,chembl:CHEMBL388676,False,False,False,0.01641811088501325,,,1,DTC
+ESR1,estrogen receptor 1,CYCLOFENIL,chembl:CHEMBL141305,True,False,False,0.05335886037629307,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,DIENOGEST,rxcui:22968,True,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,LSZ102,iuphar.ligand:12145,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,METHYLTESTOSTERONE,rxcui:6904,True,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL1432305,chembl:CHEMBL1432305,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,SULFENTRAZONE,chembl:CHEMBL1884669,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,HYDRAMETHYLNON,chembl:CHEMBL464812,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,GLYCITEIN,chembl:CHEMBL513024,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL259327,chembl:CHEMBL259327,False,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,"ESTROGENS, ESTERIFIED",chembl:CHEMBL1201468,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL329673,chembl:CHEMBL329673,False,False,False,0.01940322195501566,,,1,DTC
+ESR1,estrogen receptor 1,PALMITATE,rxcui:1370621,True,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,LASOFOXIFENE TARTRATE,chembl:CHEMBL6067998,True,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ESTETROL,rxcui:2539031,True,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,ENDOXIFEN,ncit:C221983,False,False,False,0.03049077735788175,,,1,TTD
+ESR1,estrogen receptor 1,HORMONE THERAPY AGENT,ncit:C147908,False,True,False,0.4268708830103445,,,1,CIViC
+ESR1,estrogen receptor 1,GUGGULSTERONE,chembl:CHEMBL410683,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,CHF4227,chembl:CHEMBL3545355,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,TIBOLONE,rxcui:38260,False,False,False,0.2134354415051722,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,HEXACHLOROPHENE,rxcui:5293,True,False,False,0.005205742475735909,,,1,DTC
+ESR1,estrogen receptor 1,ALL-TRANS-RETINAL,iuphar.ligand:2350,False,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,GESTRINONE,rxcui:4792,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,"R,R-THC",iuphar.ligand:2822,False,False,False,0.1067177207525861,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL1523215,chembl:CHEMBL1523215,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,MASOPROCOL,rxcui:227239,True,False,False,0.004541179606493027,,,1,DTC
+ESR1,estrogen receptor 1,APIGENIN,rxcui:1368130,True,False,False,0.006885014242102331,,,1,DTC
+ESR1,estrogen receptor 1,KAEMPHEROL,drugbank:DB01852,False,False,False,0.01067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,RALOXIFENE HYDROCHLORIDE,rxcui:166551,True,False,False,0.05174192521337509,agonist|inhibitor|modulator,ACTIVATING|INHIBITORY,7,ChEMBL|DTC|FDA|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,HEXESTROL,iuphar.ligand:2823,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,ARSANILIC ACID,chembl:CHEMBL351769,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,DIETHYLSTILBESTROL DIPHOSPHATE,chembl:CHEMBL1200598,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,ETHINYLESTRADIOL/DROSPIRENONE/PRASTERONE,wikidata:Q85759692,False,False,False,0.07114514716839077,,,1,TTD
+ESR1,estrogen receptor 1,AMI-1,iuphar.ligand:7028,False,False,False,0.1422902943367815,,,1,DTC
+ESR1,estrogen receptor 1,13-CIS-RETINAL,iuphar.ligand:6671,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,TESTOSTERONE,rxcui:10379,True,False,False,0.0109454072566755,,,1,DTC
+ESR1,estrogen receptor 1,STANOZOLOL,rxcui:10032,True,False,False,0.07114514716839077,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,DOCETAXEL ANHYDROUS,rxcui:1299922,True,True,False,0.004743009811226051,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,NORENDOXIFEN,iuphar.ligand:10204,False,False,False,0.07114514716839077,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL503990,chembl:CHEMBL503990,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,ELACESTRANT HYDROCHLORIDE,chembl:CHEMBL4594273,True,False,False,0.2134354415051722,cleavage,INHIBITORY,1,ChEMBL
+ESR1,estrogen receptor 1,IXABEPILONE,rxcui:337523,True,False,False,0.0203271849052545,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,SELECTIVE ESTROGEN RECEPTOR MODULATOR CC-8490,ncit:C38711,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,CAPIVASERTIB,rxcui:2669967,True,True,False,0.01940322195501566,,,1,PharmGKB
+ESR1,estrogen receptor 1,DOXYCYCLINE ANHYDROUS,rxcui:1545992,True,True,False,0.03283622177002651,,,1,PharmGKB
+ESR1,estrogen receptor 1,TTC-352,chembl:CHEMBL3763743,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,ESTETROL,chembl:CHEMBL6068423,True,False,False,0.1067177207525861,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,AFIMOXIFENE,ncit:C975,False,True,False,0.07114514716839077,,,1,TTD
+ESR1,estrogen receptor 1,PHENYLALANINE,rxcui:8156,True,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,PROPACHLOR,chembl:CHEMBL1394829,False,False,False,0.03049077735788175,,,1,DTC
+ESR1,estrogen receptor 1,CHLORANIL,chembl:CHEMBL192627,False,False,False,0.01422902943367815,,,1,DTC
+ESR1,estrogen receptor 1,VINTAFOLIDE,ncit:C62525,False,True,False,0.1067177207525861,inhibitor,INHIBITORY,1,ClearityFoundationClinicalTrial
+ESR1,estrogen receptor 1,DROLOXIFENE,chembl:CHEMBL487,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,TOREMIFENE,rxcui:38409,True,True,False,0.1333971509407326,,,5,FDA|PharmGKB|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,VITAMIN A,rxcui:11246,True,False,False,0.02134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,ENCLOMIPHENE,ncit:C28211,False,False,False,0.04268708830103445,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,ETONOGESTREL,rxcui:14584,True,False,False,0.0853741766020689,,,2,TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,TRIPHENYLSTANNANOL,chembl:CHEMBL506538,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,4-METHYLBENZOIC ACID METHYL ESTER,chembl:CHEMBL1480173,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,CAMPHOR OIL,rxcui:1297880,True,False,False,0.07114514716839077,,,1,DTC
+ESR1,estrogen receptor 1,ZEARALENONE,chembl:CHEMBL454173,False,False,False,0.01641811088501325,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL384441,chembl:CHEMBL384441,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,IDOXIFENE,chembl:CHEMBL6318,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,FISPEMIFENE,chembl:CHEMBL2107341,False,False,False,0.1067177207525861,modulator,,1,ChEMBL
+ESR1,estrogen receptor 1,NOMEGESTROL ACETATE,rxcui:53744,True,False,False,0.1067177207525861,,,1,TTD
+ESR1,estrogen receptor 1,N-PROPYL BROMIDE,chembl:CHEMBL1230095,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL2313445,chembl:CHEMBL2313445,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,PHENAZOPYRIDINE HYDROCHLORIDE,chembl:CHEMBL1201022,True,False,False,0.01333971509407326,,,1,DTC
+ESR1,estrogen receptor 1,PHENOLPHTHALEIN,rxcui:155122,True,False,False,0.02667943018814653,,,1,DTC
+ESR1,estrogen receptor 1,TAS-108,drugbank:DB05966,False,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,FAM-TRASTUZUMAB DERUXTECAN-NXKI,rxcui:2267574,True,True,False,0.07114514716839077,,,1,PharmGKB
+ESR1,estrogen receptor 1,STANOLONE,drugbank:DB02901,False,False,False,0.03557257358419538,,,1,DTC
+ESR1,estrogen receptor 1,COMPOUND 17B [PMID: 35286086],iuphar.ligand:11941,False,False,False,0.1067177207525861,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,MEDROXYPROGESTERONE,rxcui:6691,True,False,False,0.1067177207525861,,,1,PharmGKB
+ESR1,estrogen receptor 1,ESTRADIOL ACETATE,chembl:CHEMBL1200430,True,False,False,0.2134354415051722,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,CADMIUM DICHLORIDE,chembl:CHEMBL1458880,False,False,False,0.01940322195501566,,,1,DTC
+ESR1,estrogen receptor 1,PERTUZUMAB,rxcui:1298944,True,True,True,0.0609815547157635,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,CHEMBL:CHEMBL2071180,chembl:CHEMBL2071180,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,ETHINYL ESTRADIOL,rxcui:4124,True,False,False,0.06277512985446243,agonist,ACTIVATING,5,ChEMBL|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,SELECTIVE ESTROGEN RECEPTOR MODULATOR TAS-108,ncit:C61494,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,ARZOXIFENE,ncit:C1805,False,False,False,0.2134354415051722,,,2,TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,FISPEMIFENE,ncit:C65687,False,False,False,0.1067177207525861,,,1,TdgClinicalTrial
+ESR1,estrogen receptor 1,"ESTROGENS, CONJUGATED (USP)",rxcui:4099,True,False,False,0.09486019622452102,,,3,PharmGKB|TEND|TdgClinicalTrial
+ESR1,estrogen receptor 1,COUMESTROL,iuphar.ligand:12437,False,False,False,0.02134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,OXYTETRACYCLINE HYDROCHLORIDE,chembl:CHEMBL1607480,True,False,False,0.02371504905613025,,,1,DTC
+ESR1,estrogen receptor 1,MESTRANOL,rxcui:6782,True,False,False,0.09486019622452102,agonist,ACTIVATING,4,ChEMBL|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,4-NONYLPHENOL,chembl:CHEMBL153062,False,False,False,0.04268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,BENZETHONIUM CHLORIDE,chembl:CHEMBL221753,False,False,False,0.01333971509407326,,,1,DTC
+ESR1,estrogen receptor 1,ETHANOLAMINE,iuphar.ligand:14272,False,False,False,0.2134354415051722,,,1,DTC
+ESR1,estrogen receptor 1,PRINABEREL,ncit:C76959,False,False,False,0.1067177207525861,agonist,ACTIVATING,1,GuideToPharmacology
+ESR1,estrogen receptor 1,OLAPARIB,rxcui:1597582,True,True,False,0.009701610977507831,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,BENZODODECINIUM CHLORIDE,chembl:CHEMBL1885899,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,TAS-108,chembl:CHEMBL3545210,False,False,False,0.2134354415051722,inhibitor,INHIBITORY,1,ChEMBL
+ESR1,estrogen receptor 1,ORTHOTOLIDINE,chembl:CHEMBL85109,False,False,False,0.05335886037629307,,,1,DTC
+ESR1,estrogen receptor 1,ICARITIN,drugbank:DB12672,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,GSK5182,iuphar.ligand:8908,False,False,False,0.1067177207525861,inhibitor,INHIBITORY,1,GuideToPharmacology
+ESR1,estrogen receptor 1,ABEMACICLIB,rxcui:1946825,True,True,False,0.03370033286923773,,,3,CGI|FDA|PharmGKB
+ESR1,estrogen receptor 1,17&ALPHA;-ESTRADIOL,iuphar.ligand:12600,False,False,False,0.1067177207525861,,,1,DTC
+ESR1,estrogen receptor 1,1-HYDROXY-6-(4-HYDROXY-PHENYL)-1-PHENYL-HEXAN-3-ONE (ENANTIOMERIC MIX),chembl:CHEMBL1095870,False,False,False,0.4268708830103445,,,1,DTC
+ESR1,estrogen receptor 1,ALLYLESTRENOL,rxcui:525,False,False,False,0.07114514716839077,agonist,ACTIVATING,1,ChEMBL
+ESR1,estrogen receptor 1,ESTERIFIED ESTROGENS,ncit:C154677,False,False,False,0.2134354415051722,,,1,TTD
+ESR1,estrogen receptor 1,PALBOCICLIB,rxcui:1601374,True,True,False,0.01940322195501566,,,4,CGI|CIViC|FDA|PharmGKB
+ESR1,estrogen receptor 1,TRASTUZUMAB,rxcui:224905,True,True,True,0.01524538867894087,,,2,FDA|PharmGKB
+ESR1,estrogen receptor 1,TAMOXIFEN,rxcui:10324,True,True,False,0.07423841443658166,agonist|inhibitor,ACTIVATING|INHIBITORY,10,CGI|CIViC|ClearityFoundationBiomarkers|ClearityFoundationClinicalTrial|DTC|FDA|GuideToPharmacology|TEND|TTD|TdgClinicalTrial
+ESR1,estrogen receptor 1,CAMIZESTRANT,ncit:C160603,False,False,False,0.4268708830103445,cleavage|inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+ESR1,estrogen receptor 1,SELECTIVE ESTROGEN RECEPTOR DEGRADER AZD9496,ncit:C122834,False,True,False,0.4268708830103445,,,2,OncoKB|TTD
+SREBF1,sterol regulatory element binding transcription factor 1,"INSULIN, REGULAR, HUMAN",rxcui:253182,True,False,False,2.035845749741643,,,1,NCI
+SREBF1,sterol regulatory element binding transcription factor 1,RECOMBINANT NEUROTROPHIC FACTOR,ncit:C2259,False,False,False,10.58639789865654,,,1,NCI
+DNMT1,DNA methyltransferase 1,MAHANINE,chembl:CHEMBL590522,False,False,False,2.785894183856986,,,1,DTC
+DNMT1,DNA methyltransferase 1,PALIFOSFAMIDE,ncit:C66990,False,False,False,1.392947091928493,,,1,TTD
+DNMT1,DNA methyltransferase 1,HYDROXYUREA,rxcui:5552,True,True,False,0.1211258340807385,,,1,NCI
+DNMT1,DNA methyltransferase 1,ANTROQUINONOL,drugbank:DB12326,False,False,False,1.392947091928493,,,1,TTD
+DNMT1,DNA methyltransferase 1,CHEMBL:CHEMBL1490332,chembl:CHEMBL1490332,False,False,False,0.1989924417040704,,,1,DTC
+DNMT1,DNA methyltransferase 1,IFOSFAMIDE,rxcui:5657,True,True,False,0.2142995526043835,,,2,TEND|TdgClinicalTrial
+DNMT1,DNA methyltransferase 1,FARNESYL TRANSFERASE INHIBITOR,ncit:C2020,False,False,False,1.392947091928493,,,1,NCI
+DNMT1,DNA methyltransferase 1,GUADECITABINE,ncit:C95209,False,False,False,1.392947091928493,,,1,TTD
+DNMT1,DNA methyltransferase 1,ORAL AZACITIDINE,ncit:C118288,False,False,False,0.6964735459642465,,,1,TTD
+DNMT1,DNA methyltransferase 1,DEMETHOXYCURCUMIN,chembl:CHEMBL179512,False,False,False,0.4643156973094977,,,1,DTC
+DNMT1,DNA methyltransferase 1,SELENIUM,rxcui:9641,True,False,False,0.2458141926932634,,,1,NCI
+DNMT1,DNA methyltransferase 1,TCDD,iuphar.ligand:9642,False,False,False,0.1160789243273744,,,1,NCI
+DNMT1,DNA methyltransferase 1,CURCUMIN,rxcui:2955,True,False,False,0.07738594955158294,,,2,DTC|TTD
+DNMT1,DNA methyltransferase 1,DAPHNORIN,chembl:CHEMBL1209491,False,False,False,0.1989924417040704,,,1,DTC
+DNMT1,DNA methyltransferase 1,DECITABINE,rxcui:15657,True,True,False,0.290197310818436,inhibitor,INHIBITORY,4,CIViC|ChEMBL|TEND|TdgClinicalTrial
+DNMT1,DNA methyltransferase 1,CM-272,iuphar.ligand:13289,False,False,False,0.6964735459642465,inhibitor,INHIBITORY,1,GuideToPharmacology
+DNMT1,DNA methyltransferase 1,MITOXANTRONE HYDROCHLORIDE,rxcui:203129,True,False,False,0.3979848834081408,,,1,NCI
+DNMT1,DNA methyltransferase 1,AZACITIDINE,rxcui:1251,True,True,False,0.2089420637892739,inhibitor,INHIBITORY,5,ChEMBL|NCI|TEND|TTD|TdgClinicalTrial
+DNMT1,DNA methyltransferase 1,GSK3685032,iuphar.ligand:11750,False,False,False,1.392947091928493,inhibitor,INHIBITORY,1,GuideToPharmacology
+DNMT1,DNA methyltransferase 1,SGI-1027,iuphar.ligand:8891,False,False,False,1.392947091928493,inhibitor,INHIBITORY,1,GuideToPharmacology
+DNMT1,DNA methyltransferase 1,RODUCITABINE,ncit:C113444,False,False,False,1.392947091928493,,,1,TTD
+DNMT1,DNA methyltransferase 1,CISPLATIN,rxcui:2555,True,True,False,0.01668200110094003,,,1,CIViC
+DNMT1,DNA methyltransferase 1,TETRAHYDROCURCUMIN,chembl:CHEMBL318743,False,False,False,2.785894183856986,,,1,DTC
+DNMT1,DNA methyltransferase 1,CEPHALOTHIN,rxcui:2236,False,False,False,0.1392947091928492,,,1,DTC
+DNMT1,DNA methyltransferase 1,DECITABINE AND CEDAZURIDINE,ncit:C115102,False,False,False,1.392947091928493,,,1,TTD
+DNMT1,DNA methyltransferase 1,BROMO-DEAZA-SAH,iuphar.ligand:7018,False,False,False,0.6964735459642465,inhibitor,INHIBITORY,1,GuideToPharmacology
+DNMT1,DNA methyltransferase 1,MG98,drugbank:DB06544,False,False,False,1.392947091928493,,,1,TdgClinicalTrial
+DNMT1,DNA methyltransferase 1,DIETHYLSTILBESTROL,rxcui:3390,True,False,False,0.09286313946189952,,,1,NCI
+DNMT1,DNA methyltransferase 1,ARSENIC TRIOXIDE,rxcui:18330,True,True,False,0.1071497763021917,,,1,NCI
+DNMT1,DNA methyltransferase 1,DOXORUBICIN HYDROCHLORIDE,rxcui:142433,True,True,False,0.01678249508347581,,,1,NCI
+DNMT1,DNA methyltransferase 1,ZEBULARINE,ncit:C37455,False,False,False,2.785894183856986,,,1,NCI
+DNMT1,DNA methyltransferase 1,FLOXURIDINE,rxcui:4488,True,True,False,0.1989924417040704,,,1,NCI
+DNMT1,DNA methyltransferase 1,CHEMBL:CHEMBL2063052,chembl:CHEMBL2063052,False,False,False,2.785894183856986,,,1,DTC
+DNMT1,DNA methyltransferase 1,BENZANTHRONE,chembl:CHEMBL1607517,False,False,False,0.6964735459642465,,,1,DTC
+DNMT1,DNA methyltransferase 1,HEXAHYDROCURCUMIN,chembl:CHEMBL479650,False,False,False,2.785894183856986,,,1,DTC
+DNMT1,DNA methyltransferase 1,CHEMBL:CHEMBL599013,chembl:CHEMBL599013,False,False,False,0.0994962208520352,,,1,DTC
+DNMT1,DNA methyltransferase 1,BISDEMETHOXYCURCUMIN,chembl:CHEMBL105350,False,False,False,0.9286313946189954,,,1,DTC
+DNMT1,DNA methyltransferase 1,CHEMBL:CHEMBL580076,chembl:CHEMBL580076,False,False,False,0.2321578486547488,,,1,DTC
+E2F3,E2F transcription factor 3,EDIFOLIGIDE,ncit:C166786,False,False,False,3.30824934333017,inhibitor,INHIBITORY,1,ChEMBL
+E2F3,E2F transcription factor 3,EDIFOLIGIDE,chembl:CHEMBL2108316,False,False,False,3.30824934333017,inhibitor,INHIBITORY,1,ChEMBL
+CCND2,cyclin D2,PALBOCICLIB,rxcui:1601374,True,True,False,0.3849599235875107,,,2,CGI|ClearityFoundationBiomarkers
+CCND2,cyclin D2,DECITABINE,rxcui:15657,True,True,False,0.8821998248880455,,,1,NCI
+CCND2,cyclin D2,ABEMACICLIB,rxcui:1946825,True,True,False,0.5571788367713971,,,1,ClearityFoundationBiomarkers
+CCND2,cyclin D2,RONICICLIB,ncit:C92579,False,True,False,1.058639789865654,,,1,ClearityFoundationBiomarkers
+CCND2,cyclin D2,RIBOCICLIB,rxcui:1873916,True,True,False,0.5293198949328273,,,1,ClearityFoundationBiomarkers
+COL1A1,collagen type I alpha 1 chain,SOMATROPIN (RECOMBINANT DNA ORIGIN),rxcui:314845,True,False,False,1.080244683536382,,,1,PharmGKB
+COL1A1,collagen type I alpha 1 chain,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,rxcui:898492,True,False,False,0.8101835126522867,cleavage,INHIBITORY,3,ChEMBL|TEND|TdgClinicalTrial
+COL1A1,collagen type I alpha 1 chain,ETIDRONIC ACID,rxcui:1356715,False,True,False,1.008228371300623,,,1,PharmGKB
+COL1A1,collagen type I alpha 1 chain,VALPROIC ACID,rxcui:11118,True,True,False,0.2563292469408365,,,1,PharmGKB
+COL1A1,collagen type I alpha 1 chain,ZOLEDRONIC ACID ANHYDROUS,rxcui:1546014,True,True,False,1.008228371300623,,,1,PharmGKB
+COL1A1,collagen type I alpha 1 chain,OCRIPLASMIN,rxcui:29998,True,False,False,0.1989924417040704,cleavage,INHIBITORY,1,ChEMBL
+COL1A1,collagen type I alpha 1 chain,PAMIDRONATE,rxcui:11473,True,False,False,2.160489367072764,,,1,PharmGKB
+STAT5A,signal transducer and activator of transcription 5A,COMPOUND (&PLUSMN;)-2 [PMID: 41108282],iuphar.ligand:14270,False,False,False,13.23299737332068,inhibitor,INHIBITORY,1,GuideToPharmacology
+STAT5A,signal transducer and activator of transcription 5A,TOFACITINIB,rxcui:1357536,True,True,False,3.608999283632913,,,1,DTC
+STAT5A,signal transducer and activator of transcription 5A,AK-2292,iuphar.ligand:12409,False,False,False,6.616498686660341,,,1,GuideToPharmacology
+STAT5A,signal transducer and activator of transcription 5A,AZD1480,iuphar.ligand:5933,False,True,False,3.30824934333017,,,1,DTC
+FN1,fibronectin 1,OCRIPLASMIN,rxcui:29998,True,False,False,0.2532631076233623,cleavage,INHIBITORY,2,ChEMBL|TTD
+FN1,fibronectin 1,DAROMUN,ncit:C154627,False,True,False,9.623998089687769,,,1,CIViC
+FN1,fibronectin 1,L19SIP 131I,chembl:CHEMBL2109412,False,False,False,4.811999044843884,other/unknown,,1,ChEMBL
+FN1,fibronectin 1,L19TNFA,chembl:CHEMBL2109589,False,False,False,4.811999044843884,binder,,1,ChEMBL
+FN1,fibronectin 1,L19IL2,chembl:CHEMBL2109608,False,True,False,19.24799617937553,binder,,2,CIViC|ChEMBL
+FN1,fibronectin 1,AS-1409,chembl:CHEMBL2109413,False,False,False,4.811999044843884,binder,,1,ChEMBL
+FN1,fibronectin 1,AS1409,drugbank:DB05182,False,False,False,1.603999681614628,,,1,TdgClinicalTrial
+FN1,fibronectin 1,MU-BC-1,chembl:CHEMBL2109529,False,False,False,4.811999044843884,binder,,1,ChEMBL
+FN1,fibronectin 1,RADRETUMAB,chembl:CHEMBL1743060,False,False,False,4.811999044843884,binder,,1,ChEMBL
+FN1,fibronectin 1,DACARBAZINE,rxcui:3098,True,True,False,0.6415998726458512,,,1,CIViC
+FN1,fibronectin 1,ONFEKAFUSP ALFA,ncit:C166939,False,False,False,4.811999044843884,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,TELATINIB,ncit:C80869,False,True,False,0.3738134851220531,inhibitor,INHIBITORY,5,ChEMBL|MyCancerGenome|TALC|TTD|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,RIPRETINIB,rxcui:2369389,True,True,False,0.1121440455366159,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,DOVITINIB,ncit:C76199,False,True,False,0.02957645157009651,inhibitor,INHIBITORY,6,ChEMBL|ClearityFoundationClinicalTrial|DTC|GuideToPharmacology|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,DASATINIB ANHYDROUS,rxcui:1546019,True,True,False,0.03686927524491483,inhibitor,INHIBITORY,6,ChEMBL|DTC|MyCancerGenomeClinicalTrial|TALC|TEND|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,LINIFANIB,ncit:C71759,False,True,False,0.03844938704112546,inhibitor,INHIBITORY,6,ChEMBL|DTC|GuideToPharmacology|MyCancerGenome|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,ROMIPLOSTIM,rxcui:805452,True,False,False,0.05607202276830797,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,IMATINIB,rxcui:282388,True,True,False,0.06759367128234385,inhibitor,INHIBITORY,8,DTC|FDA|OncoKB|PharmGKB|TALC|TEND|TTD|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SORAFENIB,rxcui:495881,True,True,False,0.04934338003611101,inhibitor,INHIBITORY,10,ClearityFoundationClinicalTrial|DTC|GuideToPharmacology|MyCancerGenome|MyCancerGenomeClinicalTrial|PharmGKB|TALC|TEND|TTD|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,AMUVATINIB,ncit:C71750,False,True,False,0.1281646234704182,inhibitor,INHIBITORY,2,TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SUNITINIB,rxcui:357977,True,True,False,0.1121440455366159,inhibitor,INHIBITORY,8,CIViC|ChEMBL|GuideToPharmacology|MyCancerGenome|PharmGKB|TALC|TEND|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SNS-314,chembl:CHEMBL482767,False,False,False,0.01068038528920151,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,PP2,iuphar.ligand:9404,False,False,False,0.01602057793380227,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,TAK-593,chembl:CHEMBL2180604,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,AXITINIB,rxcui:1242999,True,True,False,0.06728642732196956,inhibitor,INHIBITORY,3,MyCancerGenome|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SERALUTINIB,chembl:CHEMBL4650333,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,RG-1530,iuphar.ligand:10361,False,False,False,0.01043200423596427,inhibitor,INHIBITORY,2,ChEMBL|DTC
+PDGFRB,platelet derived growth factor receptor beta,GTP-14564,iuphar.ligand:5982,False,True,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CENISERTIB,chembl:CHEMBL1967878,False,False,False,0.003900662453447511,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,BECAPLERMIN,rxcui:115238,True,False,False,0.598101576195285,agonist,ACTIVATING,4,ChEMBL|TEND|TTD|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,XL-820,chembl:CHEMBL3545402,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,2,ChEMBL|TTD
+PDGFRB,platelet derived growth factor receptor beta,VELZATINIB,iuphar.ligand:11510,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,TANDUTINIB,chembl:CHEMBL124660,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,2,ChEMBL|DTC
+PDGFRB,platelet derived growth factor receptor beta,HESPERADIN,iuphar.ligand:8354,False,False,False,0.01121440455366159,inhibitor,INHIBITORY,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,FAMITINIB,iuphar.ligand:7886,False,False,False,0.1281646234704182,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,REGORAFENIB,rxcui:1312397,True,True,False,0.05437287056320773,inhibitor,INHIBITORY,4,ChEMBL|MyCancerGenome|MyCancerGenomeClinicalTrial|TALC
+PDGFRB,platelet derived growth factor receptor beta,IMATINIB MESYLATE,chembl:CHEMBL1642,True,False,False,0.07476269702441063,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,TANDUTINIB,ncit:C48404,False,True,False,0.1794304728585855,inhibitor,INHIBITORY,2,GuideToPharmacology|MyCancerGenome
+PDGFRB,platelet derived growth factor receptor beta,X-82,chembl:CHEMBL3545401,False,True,False,0.2691457092878782,inhibitor,INHIBITORY,3,ChEMBL|MyCancerGenome|TTD
+PDGFRB,platelet derived growth factor receptor beta,TAK-632,iuphar.ligand:10387,False,True,False,0.05607202276830797,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,FLUMBATINIB,iuphar.ligand:9913,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,MOTESANIB,ncit:C71896,False,True,False,0.2242880910732319,inhibitor,INHIBITORY,4,ChEMBL|MyCancerGenome|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SERALUTINIB,ncit:C175203,False,False,False,0.2242880910732319,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,TAMATINIB,iuphar.ligand:5706,False,False,False,0.00553797755736375,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,LEUCOVORIN CALCIUM,rxcui:225852,True,True,False,0.02424736119710615,,,1,PharmGKB
+PDGFRB,platelet derived growth factor receptor beta,TG100-801,chembl:CHEMBL403989,False,False,False,0.02803601138415398,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,TOCERANIB PHOSPHATE,chembl:CHEMBL2103833,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,ORANTINIB,ncit:C1884,False,True,False,0.1794304728585855,inhibitor,INHIBITORY,4,ChEMBL|GuideToPharmacology|MyCancerGenome|TALC
+PDGFRB,platelet derived growth factor receptor beta,VATALANIB,ncit:C1868,False,True,False,0.1602057793380227,inhibitor,INHIBITORY,5,ChEMBL|DTC|GuideToPharmacology|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,CEDIRANIB,ncit:C80867,False,True,False,0.03661846384869092,inhibitor,INHIBITORY,4,ChEMBL|DTC|GuideToPharmacology|TALC
+PDGFRB,platelet derived growth factor receptor beta,TAK-593,drugbank:DB13093,False,False,False,0.2242880910732319,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,ENMD-981693,chembl:CHEMBL52885,False,False,False,0.02360927274455072,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,IACS-9439,iuphar.ligand:11192,False,False,False,0.2242880910732319,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,RINUCUMAB,chembl:CHEMBL3545316,False,False,False,0.4485761821464638,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,PF-562271,iuphar.ligand:9381,False,True,False,0.004313232520639074,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,LUCITANIB,ncit:C95726,False,True,False,0.03738134851220531,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,3-[(3-(2-CARBOXYETHYL)-4-METHYLPYRROL-2-YL)METHYLENE]-2-INDOLINONE,drugbank:DB08577,False,True,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,ILORASERTIB,ncit:C116729,False,True,False,0.01281646234704182,inhibitor,INHIBITORY,3,ChEMBL|DTC|GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CDP-860,chembl:CHEMBL2109544,False,False,False,0.4485761821464638,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,IRINOTECAN HYDROCHLORIDE,rxcui:153329,True,True,False,0.01319341712195481,,,1,PharmGKB
+PDGFRB,platelet derived growth factor receptor beta,QUIZARTINIB,rxcui:2643048,True,True,False,0.06901172033022519,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,NILOTINIB,rxcui:662281,True,True,False,0.03204115586760455,inhibitor,INHIBITORY,1,MyCancerGenomeClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,BPR1R024,iuphar.ligand:11747,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,MIDOSTAURIN,rxcui:1919083,True,True,False,0.01319341712195481,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,PD166285,iuphar.ligand:8183,False,True,False,0.01661393267209125,inhibitor,INHIBITORY,2,DTC|GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,COMPOUND 8I [PMID: 22765894],iuphar.ligand:9905,False,False,False,0.03738134851220531,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CHEMBL:CHEMBL546797,chembl:CHEMBL546797,False,False,False,0.01401800569207699,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,TIVOZANIB HYDROCHLORIDE,chembl:CHEMBL2105756,True,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,BEVACIZUMAB,rxcui:253337,True,True,True,0.0199367192065095,,,1,PharmGKB
+PDGFRB,platelet derived growth factor receptor beta,NVP-TAE684,iuphar.ligand:5714,False,False,False,0.004355108564528774,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,JI-101,chembl:CHEMBL3545155,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,PONATINIB,rxcui:1364347,True,True,False,0.03738134851220531,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,SU-014813,chembl:CHEMBL1721885,False,False,False,0.0640823117352091,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,CEP-2563 DIHYDROCHLORIDE,chembl:CHEMBL6067987,False,False,False,0.02638683424390963,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,SU-14813,iuphar.ligand:5712,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CHMFL-KIT-64,iuphar.ligand:10420,False,False,False,0.07476269702441063,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,VANDETANIB,rxcui:1098413,True,True,False,0.008010288966901138,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,CP-673451,iuphar.ligand:8069,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,KBP-7018,iuphar.ligand:9691,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,MK-2461,iuphar.ligand:7962,False,True,False,0.0640823117352091,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+PDGFRB,platelet derived growth factor receptor beta,PDGF RECEPTOR TYROSINE KINASE INHIBITOR IV,iuphar.ligand:6020,False,False,False,0.4485761821464638,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,NINTEDANIB ESYLATE,chembl:CHEMBL3039504,True,False,False,0.04984179801627375,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,DOVITINIB LACTATE,ncit:C62435,False,False,False,0.2242880910732319,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,NAPORAFENIB,ncit:C125003,False,True,False,0.0640823117352091,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,DORAMAPIMOD,ncit:C76770,False,False,False,0.02136077057840303,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,FLT-3 INHIBITOR II,iuphar.ligand:5971,False,False,False,0.2242880910732319,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,KI-20227,iuphar.ligand:5690,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,SUNITINIB MALATE,chembl:CHEMBL1567,True,False,False,0.04984179801627375,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,BARASERTIB,ncit:C62502,False,True,False,0.0407796529224058,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,COMPOUND 8H [PMID: 22765894],iuphar.ligand:8175,False,False,False,0.0407796529224058,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,PETROSIOL A,chembl:CHEMBL2349065,False,False,False,0.8971523642929276,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,FLUOROURACIL,rxcui:4492,True,True,False,0.007064191844826201,,,1,PharmGKB
+PDGFRB,platelet derived growth factor receptor beta,PD-0166285 HYDROCHLORIDE,chembl:CHEMBL3545196,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,PDGF RECEPTOR TYROSINE KINASE INHIBITOR III,iuphar.ligand:6019,False,False,False,0.4485761821464638,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,XL-999,chembl:CHEMBL5314391,False,False,False,0.0407796529224058,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,CM-082,chembl:CHEMBL3545427,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,SEMAXANIB,ncit:C1831,False,True,False,0.02990507880976425,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,TAFETINIB,iuphar.ligand:9921,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,RABEPRAZOLE,rxcui:114979,True,True,False,0.02242880910732318,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,LENVATINIB,rxcui:1603296,True,True,False,0.02803601138415398,,,1,TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,ZOLIGRATINIB,iuphar.ligand:9787,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,AGL 2043,iuphar.ligand:5918,False,True,False,0.2242880910732319,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,XL820,drugbank:DB05146,False,True,False,0.2242880910732319,inhibitor,INHIBITORY,3,MyCancerGenome|TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,HENATINIB,iuphar.ligand:9930,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,SALVIANOLIC ACID B,iuphar.ligand:13515,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,FAMITINIB,ncit:C97512,False,False,False,0.07476269702441063,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,XL999,drugbank:DB05014,False,True,False,0.08971523642929274,inhibitor,INHIBITORY,2,TALC|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,SOTRASTAURIN,ncit:C80630,False,False,False,0.00815593058448116,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,PAZOPANIB,rxcui:714438,True,True,False,0.05492769577303638,inhibitor,INHIBITORY,6,ClearityFoundationClinicalTrial|DTC|GuideToPharmacology|MyCancerGenome|MyCancerGenomeClinicalTrial|TALC
+PDGFRB,platelet derived growth factor receptor beta,FORETINIB,ncit:C80058,False,True,False,0.02990507880976425,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,MASITINIB,ncit:C79910,False,True,False,0.1281646234704182,inhibitor,INHIBITORY,4,ChEMBL|GuideToPharmacology|MyCancerGenomeClinicalTrial|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,BARASERTIB-HQPA,iuphar.ligand:5663,False,False,False,0.0203898264612029,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,AST-487,iuphar.ligand:5661,False,True,False,0.01212368059855307,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,IBCASERTIB,iuphar.ligand:10475,False,False,False,0.05607202276830797,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CRENOLANIB,ncit:C64639,False,True,False,0.0815593058448116,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,TOZASERTIB,ncit:C98053,False,True,False,0.006408231173520911,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,SORAFENIB TOSYLATE,chembl:CHEMBL1200485,True,False,False,0.02803601138415398,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,PAZOPANIB HYDROCHLORIDE,chembl:CHEMBL1201733,True,False,False,0.0815593058448116,inhibitor,INHIBITORY,2,ChEMBL|TTD
+PDGFRB,platelet derived growth factor receptor beta,PEGPLERANIB SODIUM,ncit:C170304,False,False,False,0.07476269702441063,,,1,TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,PUQUITINIB MESYLATE DIHYDRATE,chembl:CHEMBL4545915,False,False,False,0.0407796529224058,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,TRAPIDIL,rxcui:10735,False,False,False,0.1495253940488212,,,1,TTD
+PDGFRB,platelet derived growth factor receptor beta,SOTULETINIB,iuphar.ligand:8250,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,COMPOUND 5E [PMID: 28580438],iuphar.ligand:9712,False,False,False,0.1495253940488212,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,CATEQUENTINIB,chembl:CHEMBL4303201,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,ChEMBL
+PDGFRB,platelet derived growth factor receptor beta,CP-547632,iuphar.ligand:7881,False,False,False,0.01043200423596427,,,1,DTC
+PDGFRB,platelet derived growth factor receptor beta,NINTEDANIB ESYLATE,rxcui:1592736,True,True,False,0.1583210054634578,inhibitor,INHIBITORY,6,ClearityFoundationClinicalTrial|GuideToPharmacology|MyCancerGenome|TALC|TTD|TdgClinicalTrial
+PDGFRB,platelet derived growth factor receptor beta,PDGF RTK INHIBITOR,iuphar.ligand:6021,False,False,False,0.4485761821464638,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,SU-11652,drugbank:DB08009,False,False,False,0.1121440455366159,inhibitor,INHIBITORY,1,GuideToPharmacology
+PDGFRB,platelet derived growth factor receptor beta,AC710,iuphar.ligand:8095,False,False,False,0.08971523642929274,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",CABOZANTINIB S-MALATE,rxcui:1363267,True,True,False,0.2984886625561056,inhibitor,INHIBITORY,11,CGI|CIViC|CancerCommons|ClearityFoundationBiomarkers|ClearityFoundationClinicalTrial|GuideToPharmacology|MyCancerGenome|OncoKB|TALC|TTD|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",GLESATINIB,ncit:C77876,False,True,False,0.2984886625561056,inhibitor,INHIBITORY,6,CancerCommons|ChEMBL|GuideToPharmacology|MyCancerGenome|TALC|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",RIPK3 INHIBITOR 18,iuphar.ligand:10389,False,False,False,0.03979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",CENISERTIB,chembl:CHEMBL1967878,False,False,False,0.003460738116592529,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",C-MET INHIBITOR AMG 337,ncit:C95203,False,False,False,0.3979848834081408,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",JNJ-38877605,chembl:CHEMBL2133806,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",TEREVALEFIM,ncit:C175863,False,False,False,0.7959697668162816,activator|agonist,ACTIVATING,2,ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",CRIZOTINIB,rxcui:1148495,True,True,False,0.7482115808073048,inhibitor,INHIBITORY,13,CGI|CIViC|COSMIC|ChEMBL|ClearityFoundationBiomarkers|DoCM|GuideToPharmacology|MyCancerGenome|OncoKB|PharmGKB|TALC|TTD|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",ERLOTINIB,rxcui:337525,True,True,False,0.0279287637479397,,,3,DTC|OncoKB|PharmGKB
+MET,"MET proto-oncogene, receptor tyrosine kinase",PF-562271,iuphar.ligand:9381,False,True,False,0.003826777725078277,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ARRY-300,chembl:CHEMBL3545359,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",BMS-698769,chembl:CHEMBL3545299,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",MK-8033,chembl:CHEMBL2323775,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,2,ChEMBL|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",DALMELITINIB,iuphar.ligand:12088,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",SAVOLITINIB,ncit:C104732,False,True,False,3.581863950673267,inhibitor,INHIBITORY,6,CGI|CIViC|COSMIC|ChEMBL|GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",MK-2461,iuphar.ligand:7962,False,True,False,0.1137099666880402,inhibitor,INHIBITORY,4,ChEMBL|GuideToPharmacology|MyCancerGenome|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",TELISOTUZUMAB VEDOTIN,chembl:CHEMBL3990032,False,False,False,0.0248740552130088,binder,,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",MERESTINIB,ncit:C95729,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,3,ChEMBL|GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",ONARTUZUMAB,ncit:C82348,False,True,True,2.387909300448845,antibody|inhibitor,INHIBITORY,5,CIViC|CancerCommons|MyCancerGenome|TALC|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND R-16 [PMID: 21967808],iuphar.ligand:8213,False,False,False,0.07959697668162816,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",EMIBETUZUMAB,ncit:C95732,False,True,True,1.193954650224422,antibody|inhibitor,INHIBITORY,3,MyCancerGenome|TALC|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",APRATOXIN F,chembl:CHEMBL2022560,False,False,False,0.3979848834081408,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",YUANHUADINE,chembl:CHEMBL1911631,False,False,False,0.1591939533632563,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",CAPMATINIB,rxcui:2362165,True,True,False,2.122586044843418,inhibitor,INHIBITORY,10,CIViC|COSMIC|CancerCommons|ChEMBL|GuideToPharmacology|MyCancerGenome|OncoKB|PharmGKB|TALC|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",CAPMATINIB HYDROCHLORIDE,chembl:CHEMBL3989937,True,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",TIVANTINIB,ncit:C62437,False,True,False,1.591939533632563,inhibitor,INHIBITORY,4,MyCancerGenome|TALC|TTD|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",SGX-523,iuphar.ligand:5709,False,False,False,0.7959697668162816,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",ALTIRATINIB,ncit:C118290,False,True,False,0.1705649500320603,inhibitor,INHIBITORY,3,ChEMBL|GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",PAMUFETINIB,iuphar.ligand:10460,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",ONARTUZUMAB,iuphar.ligand:8966,False,False,False,0.3979848834081408,antibody,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",BMS-777607,drugbank:DB12064,False,True,False,0.7959697668162816,inhibitor,INHIBITORY,2,MyCancerGenome|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",AMG-208,chembl:CHEMBL496102,False,True,False,0.7959697668162816,inhibitor,INHIBITORY,2,ChEMBL|MyCancerGenome
+MET,"MET proto-oncogene, receptor tyrosine kinase",CP-547632,iuphar.ligand:7881,False,False,False,0.009255462404840485,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ENSARTINIB,iuphar.ligand:8959,False,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",TELISOTUZUMAB VEDOTIN,rxcui:2721996,True,False,False,0.3979848834081408,,,2,PharmGKB|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",SITRAVATINIB,ncit:C117734,False,True,False,0.05685498334402011,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",OSIMERTINIB,rxcui:1721560,True,True,False,0.03979848834081408,,,2,CGI|OncoKB
+MET,"MET proto-oncogene, receptor tyrosine kinase",AMG-337,iuphar.ligand:8913,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",GALLOCATECHIN GALLATE,chembl:CHEMBL264938,False,False,False,0.7959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",MITOGEN-ACTIVATED PROTEIN KINASE KINASE INHIBITOR,ncit:C69145,False,True,False,0.1326616278027136,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",HEPATOCYTE GROWTH FACTOR,iuphar.ligand:4949,False,False,False,0.3979848834081408,,,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",TIVANTINIB,iuphar.ligand:7948,False,True,False,0.5969773251122112,inhibitor,INHIBITORY,3,CancerCommons|ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",C-MET INHIBITOR MK2461,ncit:C90591,False,True,False,0.3979848834081408,inhibitor,INHIBITORY,1,TALC
+MET,"MET proto-oncogene, receptor tyrosine kinase",AM7,iuphar.ligand:8292,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",TRAMETINIB DIMETHYL SULFOXIDE,rxcui:1425098,True,True,False,0.01730369058296264,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",PHA-665752,iuphar.ligand:5700,False,True,False,0.2984886625561056,inhibitor,INHIBITORY,2,DTC|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",SU11274,iuphar.ligand:5057,False,True,False,0.5306465112108545,inhibitor,INHIBITORY,2,DTC|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",BMS-777607,iuphar.ligand:7953,False,True,False,0.1989924417040704,inhibitor,INHIBITORY,3,ChEMBL|GuideToPharmacology|TALC
+MET,"MET proto-oncogene, receptor tyrosine kinase",BEPERMINOGENE PERPLASMID,ncit:C221869,False,False,False,0.3979848834081408,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",CHEMBL:CHEMBL546797,chembl:CHEMBL546797,False,False,False,0.0124370276065044,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",C-MET INHIBITOR AMG 208,ncit:C82677,False,True,False,0.7959697668162816,inhibitor,INHIBITORY,2,TALC|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",BMS-817378,chembl:CHEMBL3545050,False,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",MACROCARPAL A,chembl:CHEMBL396609,False,False,False,0.7959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",NVP-TAE684,iuphar.ligand:5714,False,False,False,0.003863930906875153,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ONARTUZUMAB,chembl:CHEMBL1743051,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",DACTOLISIB,ncit:C74072,False,True,False,0.009045110986548656,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ZM447439,iuphar.ligand:8353,False,False,False,0.02341087549459651,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",PAZOPANIB,rxcui:714438,True,True,False,0.00812214047771716,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",EMIBETUZUMAB,iuphar.ligand:7748,False,False,False,0.7959697668162816,antibody,INHIBITORY,2,GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",SP-600125,chembl:CHEMBL1725279,False,False,False,0.004471740263012818,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND 16 [PMID: 18945615],iuphar.ligand:8178,False,False,False,0.0994962208520352,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",SAR-125844,drugbank:DB15382,False,False,False,0.3979848834081408,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",TELISOTUZUMAB,chembl:CHEMBL3545419,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",EMIBETUZUMAB,chembl:CHEMBL3301578,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND 19A [PMID: 30503936],iuphar.ligand:10181,False,False,False,0.0497481104260176,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",EMD-1204831,chembl:CHEMBL3960488,False,False,False,0.7959697668162816,inhibitor,INHIBITORY,2,ChEMBL|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",KIN-8741,iuphar.ligand:13940,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",ENTRECTINIB,rxcui:2197862,True,True,False,0.006982190936984926,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",TYROSOL SINAPATE,chembl:CHEMBL2348314,False,False,False,0.7959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",PANITUMUMAB,rxcui:263034,True,True,True,0.02094657281095478,,,1,CGI
+MET,"MET proto-oncogene, receptor tyrosine kinase",OMO-1,iuphar.ligand:10507,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",AMIVANTAMAB,chembl:CHEMBL4297774,True,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND 27 [PMID: 21123062],iuphar.ligand:8210,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",SNS-314,chembl:CHEMBL482767,False,False,False,0.009475830557336687,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",VABAMETKIB,iuphar.ligand:12391,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",ANTI-C-MET MONOCLONAL ANTIBODY SAIT301,ncit:C119619,False,True,False,0.7959697668162816,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",SAR-125844,chembl:CHEMBL4461070,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",CMX-2043,drugbank:DB12795,False,False,False,0.1989924417040704,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",PEMBROLIZUMAB,rxcui:1547545,True,True,True,0.01941389675161662,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",METATINIB,iuphar.ligand:12614,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",GE-137,iuphar.ligand:8585,False,False,False,0.3979848834081408,,,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",VEMURAFENIB,rxcui:1147220,True,True,False,0.04682175098919303,,,2,CGI|CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",MACROCARPAL B,chembl:CHEMBL396848,False,False,False,0.7959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",D6808,iuphar.ligand:12248,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",TELISOTUZUMAB VEDOTIN,iuphar.ligand:13908,False,False,False,0.3979848834081408,antibody,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",LAPATINIB,rxcui:480167,True,True,False,0.01372361666924623,,,1,CGI
+MET,"MET proto-oncogene, receptor tyrosine kinase",TRASTUZUMAB,rxcui:224905,True,True,True,0.04264123750801509,,,1,CGI
+MET,"MET proto-oncogene, receptor tyrosine kinase",PALBOCICLIB,rxcui:1601374,True,True,False,0.007236088789238924,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ANTI-MET/EGFR MONOCLONAL ANTIBODY LY3164530,ncit:C118281,False,False,False,0.1989924417040704,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",ALECTINIB,rxcui:1727455,True,True,False,0.03979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",BAFISONTAMAB,chembl:CHEMBL4594472,False,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",BMS-754807,iuphar.ligand:7952,False,False,False,0.0994962208520352,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",EPIGALLOCATECHIN GALLATE,rxcui:24246,True,False,False,0.03618044394619462,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ILORASERTIB,ncit:C116729,False,True,False,0.003790332222934674,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",NINGETINIB,iuphar.ligand:11624,False,False,False,0.1591939533632563,inhibitor,INHIBITORY,2,ChEMBL|GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND 1O [PMID: 24210504],iuphar.ligand:8143,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",ANTI-MET MONOCLONAL ANTIBODY MIXTURE SYM015,ncit:C127906,False,False,False,0.1989924417040704,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",EUCALYPTIN A,chembl:CHEMBL2171206,False,False,False,0.7959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",CABOZANTINIB S-MALATE,chembl:CHEMBL2103868,True,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",CHEMBL:CHEMBL1997335,chembl:CHEMBL1997335,False,False,False,0.009475830557336687,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",EPICATECHIN GALLATE,iuphar.ligand:12462,False,False,False,0.1591939533632563,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",CEP-11981,iuphar.ligand:8189,False,False,False,0.04422054260090453,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",C-MET INHIBITOR,ncit:C143099,False,True,False,0.7959697668162816,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",TAMATINIB,iuphar.ligand:5706,False,False,False,0.004913393622322727,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",FORETINIB,ncit:C80058,False,True,False,0.2387909300448844,inhibitor,INHIBITORY,8,CIViC|CancerCommons|ChEMBL|GuideToPharmacology|MyCancerGenome|TALC|TTD|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",ELZOVANTINIB,ncit:C162676,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",GOLVATINIB,ncit:C82363,False,False,False,0.5969773251122112,inhibitor,INHIBITORY,3,ChEMBL|GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",VILZEMETKIB,iuphar.ligand:13220,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",AMIVANTAMAB,iuphar.ligand:10505,False,False,False,0.1989924417040704,antibody,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",TEPOTINIB,rxcui:2477103,True,True,False,1.492443312780528,inhibitor,INHIBITORY,7,CIViC|ChEMBL|DTC|GuideToPharmacology|MyCancerGenome|PharmGKB|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",TEPOTINIB HYDROCHLORIDE,chembl:CHEMBL4594292,True,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",BEPERMINOGENE PERPLASMID,chembl:CHEMBL2108332,True,False,False,0.3979848834081408,agonist,ACTIVATING,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",BPI-9016,chembl:CHEMBL3545236,False,False,False,0.1989924417040704,inhibitor,INHIBITORY,1,ChEMBL
+MET,"MET proto-oncogene, receptor tyrosine kinase",SELUMETINIB,rxcui:2289380,True,True,False,0.02412029596412974,,,1,CIViC
+MET,"MET proto-oncogene, receptor tyrosine kinase",AMUVATINIB,ncit:C71750,False,True,False,0.2274199333760804,inhibitor,INHIBITORY,4,ChEMBL|MyCancerGenome|TALC|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",TELISOTUZUMAB,rxcui:2714237,True,False,False,0.3979848834081408,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",ZANZALINTINIB,iuphar.ligand:12093,False,False,False,0.1326616278027136,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",PF-04217903,drugbank:DB12848,False,True,False,0.2653232556054272,inhibitor,INHIBITORY,2,COSMIC|MyCancerGenome
+MET,"MET proto-oncogene, receptor tyrosine kinase",MET TYROSINE KINASE INHIBITOR SGX523,ncit:C74062,False,True,False,1.193954650224422,inhibitor,INHIBITORY,3,TALC|TTD|TdgClinicalTrial
+MET,"MET proto-oncogene, receptor tyrosine kinase",COMPOUND 8I [PMID: 22765894],iuphar.ligand:9905,False,False,False,0.0331654069506784,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",VEBRELTINIB,ncit:C129717,False,False,False,0.7959697668162816,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",CHEMBL:CHEMBL399530,chembl:CHEMBL399530,False,False,False,0.07959697668162816,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",JNJ-7706621,iuphar.ligand:5932,False,False,False,0.007653555450156555,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",JNJ-38877605,drugbank:DB13113,False,False,False,0.3979848834081408,,,1,TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",BAY 61-3606,iuphar.ligand:9693,False,True,False,0.00994962208520352,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",CYC-116,chembl:CHEMBL482967,False,False,False,0.004102936942351967,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",PF-04217903,chembl:CHEMBL2001019,False,True,False,1.591939533632563,inhibitor,INHIBITORY,4,ChEMBL|DTC|TALC|TTD
+MET,"MET proto-oncogene, receptor tyrosine kinase",GEFITINIB,rxcui:328134,True,True,False,0.02883948430493774,,,3,CIViC|DTC|OncoKB
+MET,"MET proto-oncogene, receptor tyrosine kinase",GUMARONTINIB,iuphar.ligand:11623,False,False,False,0.3979848834081408,inhibitor,INHIBITORY,1,GuideToPharmacology
+MET,"MET proto-oncogene, receptor tyrosine kinase",PD166285,iuphar.ligand:8183,False,True,False,0.00737009043348409,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",OLEOCANTHAL,iuphar.ligand:6308,False,False,False,0.3979848834081408,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",LINIFANIB,ncit:C71759,False,True,False,0.005685498334402012,,,1,DTC
+MET,"MET proto-oncogene, receptor tyrosine kinase",ROCILETINIB,ncit:C99905,False,True,False,0.1326616278027136,,,1,CGI
+CXCL12,C-X-C motif chemokine ligand 12,CYCLOPHOSPHAMIDE ANHYDROUS,rxcui:1545988,True,True,False,0.1383842862569483,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,RITUXIMAB,rxcui:121191,True,True,True,0.4705065732736242,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,CHLORAMBUCIL,rxcui:2346,True,True,False,1.17626643318406,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,OLAPTESED PEGOL,ncit:C99379,False,False,False,5.881332165920303,,,1,TTD
+CXCL12,C-X-C motif chemokine ligand 12,OLAPTESED PEGOL,chembl:CHEMBL4594485,False,False,False,5.881332165920303,inhibitor,INHIBITORY,1,ChEMBL
+CXCL12,C-X-C motif chemokine ligand 12,PREDNISONE,rxcui:8640,True,True,False,0.2557100941704479,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,VINCRISTINE,rxcui:11202,True,True,False,0.1164620230875307,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,FLUDARABINE,rxcui:24698,True,True,False,0.3675832603700189,,,1,PharmGKB
+CXCL12,C-X-C motif chemokine ligand 12,ALEMTUZUMAB,rxcui:117055,True,True,True,3.920888110613535,,,1,PharmGKB
+MMP14,matrix metallopeptidase 14,BT-1718,chembl:CHEMBL6068546,False,False,False,4.410999124440227,,,1,TTD
+MMP14,matrix metallopeptidase 14,CTS-1027,chembl:CHEMBL440498,False,False,False,0.6301427320628896,inhibitor,INHIBITORY,1,ChEMBL
+MMP14,matrix metallopeptidase 14,COMPOUND 29E [PMID: 23631440],iuphar.ligand:8578,False,False,False,2.205499562220113,inhibitor,INHIBITORY,1,GuideToPharmacology
+MMP14,matrix metallopeptidase 14,REBIMASTAT,chembl:CHEMBL76222,False,False,False,0.735166520740038,inhibitor,INHIBITORY,1,ChEMBL
+MMP14,matrix metallopeptidase 14,ILOMASTAT,ncit:C96286,False,False,False,0.490111013826692,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+MMP14,matrix metallopeptidase 14,TP0556351,iuphar.ligand:12057,False,False,False,0.735166520740038,inhibitor,INHIBITORY,1,GuideToPharmacology
+MMP14,matrix metallopeptidase 14,(R)-ND-336,iuphar.ligand:10887,False,False,False,1.470333041480076,inhibitor,INHIBITORY,1,GuideToPharmacology
+MMP14,matrix metallopeptidase 14,PRINOMASTAT,ncit:C1811,False,True,False,0.735166520740038,vaccine,ACTIVATING,1,TALC
+MMP14,matrix metallopeptidase 14,PYROGALLOL RED,chembl:CHEMBL210208,False,False,False,0.1764399649776091,,,1,DTC
+MMP14,matrix metallopeptidase 14,EPIGALLOCATECHIN GALLATE,rxcui:24246,True,False,False,0.2004999602018285,,,1,TTD
+MMP14,matrix metallopeptidase 14,CARMINIC ACID,chembl:CHEMBL263094,False,False,False,0.5513748905550284,,,1,DTC
+MMP14,matrix metallopeptidase 14,CGS-27023A,iuphar.ligand:8846,False,False,False,0.6301427320628896,inhibitor,INHIBITORY,1,GuideToPharmacology
+PLAU,"plasminogen activator, urokinase",MASOPROCOL,rxcui:227239,True,False,False,0.04792393797490514,,,1,NCI
+PLAU,"plasminogen activator, urokinase",CARMUSTINE,rxcui:2105,True,True,False,0.2252425084820541,,,1,NCI
+PLAU,"plasminogen activator, urokinase",UPAMOSTAT,iuphar.ligand:6497,False,False,False,1.126212542410271,inhibitor,INHIBITORY,1,GuideToPharmacology
+PLAU,"plasminogen activator, urokinase",PAPAVERINE,rxcui:7895,True,False,False,0.112621254241027,,,1,NCI
+PLAU,"plasminogen activator, urokinase",CALCITRIOL,rxcui:1894,True,False,False,0.2047659168018674,,,1,NCI
+PLAU,"plasminogen activator, urokinase",CISPLATIN,rxcui:2555,True,True,False,0.01348757535820683,,,1,NCI
+PLAU,"plasminogen activator, urokinase",DACARBAZINE,rxcui:3098,True,True,False,0.1501616723213694,,,1,NCI
+PLAU,"plasminogen activator, urokinase",UROKINASE,rxcui:11055,True,False,False,0.4223297034038515,,,3,ChEMBL|TTD|TdgClinicalTrial
+PLAU,"plasminogen activator, urokinase",BB2-50F,iuphar.ligand:13072,False,False,False,1.126212542410271,inhibitor,INHIBITORY,1,GuideToPharmacology
+PLAU,"plasminogen activator, urokinase",TRICHOSTATIN A,ncit:C1261,False,True,False,0.112621254241027,,,1,NCI
+PLAU,"plasminogen activator, urokinase",VERAPAMIL,rxcui:11170,True,True,False,0.05005389077378982,,,1,NCI
+PLAU,"plasminogen activator, urokinase",IONOMYCIN,ncit:C596,False,False,False,0.2502694538689491,,,1,NCI
+PLAU,"plasminogen activator, urokinase",GELDANAMYCIN,ncit:C1112,False,True,False,0.2047659168018674,,,1,NCI
+PLAU,"plasminogen activator, urokinase",UK-356202,iuphar.ligand:6543,False,False,False,2.252425084820542,inhibitor,INHIBITORY,2,GuideToPharmacology|TTD
+PLAU,"plasminogen activator, urokinase",ESTRADIOL VALERATE,rxcui:24395,True,False,False,0.07508083616068473,,,1,NCI
+PLAU,"plasminogen activator, urokinase",UPAMOSTAT,ncit:C73985,False,False,False,2.252425084820542,,,2,TTD|TdgClinicalTrial
+PLAU,"plasminogen activator, urokinase",ZOLEDRONIC ACID ANHYDROUS,rxcui:1546014,True,True,False,0.1501616723213694,,,1,NCI
+PLAU,"plasminogen activator, urokinase",ANTIBIOTIC,ncit:C258,False,False,False,0.1251347269344745,,,1,NCI
+PLAU,"plasminogen activator, urokinase",CELECOXIB,rxcui:140587,True,True,False,0.03465269361262372,,,1,NCI
+PLAU,"plasminogen activator, urokinase",WX-UK1,iuphar.ligand:6498,False,False,False,0.3754041808034236,inhibitor,INHIBITORY,1,GuideToPharmacology
+PLAU,"plasminogen activator, urokinase",PROTEIN KINASE INHIBITOR,ncit:C1404,False,False,False,0.4504850169641083,,,1,NCI
+PLAU,"plasminogen activator, urokinase",VITAMIN A COMPOUND,ncit:C938,False,False,False,0.1324955932247377,,,1,NCI
+PLAU,"plasminogen activator, urokinase",PREGNANT MARE SERUM GONADOTROPIN,ncit:C29773,False,False,False,0.2815531356025677,,,1,NCI
+PLAU,"plasminogen activator, urokinase",RECOMBINANT RANTES,ncit:C1211,False,False,False,0.3754041808034236,,,1,NCI
+PLAU,"plasminogen activator, urokinase",PHOSPHODIESTERASE INHIBITOR,ncit:C744,False,False,False,0.5631062712051355,,,1,NCI
+PLAU,"plasminogen activator, urokinase",LENOGRASTIM,rxcui:70167,True,False,False,0.2252425084820541,,,1,NCI
+PLAU,"plasminogen activator, urokinase",BLEOMYCIN,rxcui:1622,True,True,False,0.1407765678012838,,,1,NCI
+PLAU,"plasminogen activator, urokinase",PROTEIN KINASE C INHIBITOR,ncit:C2089,False,False,False,0.2502694538689491,,,1,NCI
+PLAU,"plasminogen activator, urokinase",RAZOXANE,ncit:C801,False,False,False,2.252425084820542,,,1,NCI
+PLAU,"plasminogen activator, urokinase",EMFILERMIN,ncit:C1384,False,False,False,0.2502694538689491,,,1,NCI
+PLAU,"plasminogen activator, urokinase",ANTIOXIDANT,ncit:C275,False,False,False,0.1072583373724067,,,1,NCI
+PLAU,"plasminogen activator, urokinase",COMPOUND 4 [PMID: 18163548],iuphar.ligand:6545,False,False,False,1.126212542410271,inhibitor,INHIBITORY,1,GuideToPharmacology
+PLAU,"plasminogen activator, urokinase",HYDROCORTISONE BUTYRATE,rxcui:103468,True,False,False,0.05631062712051354,,,1,NCI
+PLAU,"plasminogen activator, urokinase",DEXTRAN SULFATE SODIUM,ncit:C1284,False,False,False,0.1608875060586101,,,1,NCI
+PLAU,"plasminogen activator, urokinase",SARUPLASE,ncit:C152306,False,False,False,1.126212542410271,,,1,TTD
+PLAU,"plasminogen activator, urokinase",SIROLIMUS,rxcui:35302,True,True,True,0.03951622955825511,,,1,NCI
+PLAU,"plasminogen activator, urokinase",BIPHOSPHONATE,ncit:C443,False,False,False,0.3217750121172202,,,1,NCI
+PLAU,"plasminogen activator, urokinase",DIFFERENTIATION INDUCER,ncit:C1934,False,False,False,0.2047659168018674,,,1,NCI
+PLAU,"plasminogen activator, urokinase",CLODRONATE DISODIUM,ncit:C1418,False,False,False,0.5631062712051355,,,1,NCI
+PLAU,"plasminogen activator, urokinase",HERBIMYCIN,ncit:C1124,False,False,False,0.2815531356025677,,,1,NCI
+PLAU,"plasminogen activator, urokinase",ALENDRONATE SODIUM,rxcui:203152,True,True,False,0.1877020904017118,,,1,NCI
+PLAU,"plasminogen activator, urokinase",WX-UK1,drugbank:DB05476,False,False,False,1.126212542410271,,,1,TdgClinicalTrial
+PLAU,"plasminogen activator, urokinase",AZACITIDINE,rxcui:1251,True,True,False,0.05631062712051354,,,1,NCI
+PLAU,"plasminogen activator, urokinase",AMEDIPLASE,ncit:C169777,False,False,False,0.5631062712051355,,,1,TTD
+PLAU,"plasminogen activator, urokinase",GEFITINIB,rxcui:328134,True,True,False,0.03264384180899336,,,1,NCI
+PLAU,"plasminogen activator, urokinase",TYROSINE KINASE INHIBITOR,ncit:C1967,False,True,False,0.0866317340315593,,,1,NCI
+PLAU,"plasminogen activator, urokinase",MIFEPRISTONE,rxcui:6964,True,False,False,0.09385104520085591,,,1,NCI

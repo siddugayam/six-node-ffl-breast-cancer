@@ -1,0 +1,12 @@
+{
+  "n_nodes": 587,
+  "n_sinks": 206,
+  "n_zero_rw_throughput": 211,
+  "top30_degree_hubs_that_are_sinks": [
+    "CCND2",
+    "VEGFA",
+    "TGFBR2",
+    "ADAMTS5",
+    "ABCA1"
+  ]
+}

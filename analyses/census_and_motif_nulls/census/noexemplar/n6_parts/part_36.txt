@@ -1,0 +1,119 @@
+K 6
+nparts 64
+part 36
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 22212
+visited 18367974
+rng_final 42
+comp 0 0 6 77
+comp 0 1 5 13
+comp 1 0 5 51
+comp 1 1 4 556
+comp 1 2 3 1192
+comp 1 3 2 1517
+comp 1 4 1 177
+comp 2 0 4 70
+comp 2 1 3 826
+comp 2 2 2 4334
+comp 2 3 1 4696
+comp 2 4 0 41
+comp 3 0 3 93
+comp 3 1 2 1105
+comp 3 2 1 4486
+comp 3 3 0 297
+comp 4 0 2 126
+comp 4 1 1 1411
+comp 4 2 0 304
+comp 5 0 1 181
+comp 5 1 0 566
+comp 6 0 0 93
+mask 2 1
+mask 3 7
+mask 6 24
+mask 7 8
+mask 11 24
+mask 14 2338
+mask 15 966
+mask 18 1
+mask 19 1
+mask 20 125
+mask 21 18
+mask 22 252
+mask 23 23
+mask 26 13
+mask 27 75
+mask 28 2472
+mask 29 579
+mask 30 2169
+mask 31 585
+mask 32 91
+mask 33 83
+mask 34 143
+mask 35 366
+mask 36 7
+mask 37 7
+mask 38 495
+mask 39 27
+mask 40 18
+mask 41 110
+mask 42 40
+mask 43 329
+mask 44 1557
+mask 45 858
+mask 46 1999
+mask 47 1320
+mask 50 28
+mask 51 8
+mask 52 46
+mask 53 130
+mask 54 318
+mask 55 81
+mask 56 8
+mask 57 53
+mask 58 120
+mask 59 343
+mask 60 1077
+mask 61 1168
+mask 62 1305
+mask 63 396
+flags 0 14520
+flags 1 1994
+flags 2 289
+flags 3 368
+flags 4 2106
+flags 5 1377
+flags 6 508
+flags 7 520
+flags 8 328
+flags 9 17
+flags 10 13
+flags 11 8
+flags 12 63
+flags 13 25
+flags 14 22
+flags 15 3
+flags 24 2
+flags 25 22
+flags 26 3
+flags 28 22
+flags 30 2
+exflag 0 CD44 COL1A1 NANOG hsa-miR-17 EPAS1 hsa-miR-29c
+exflag 0 CD44 COL1A1 NANOG hsa-miR-17 IRF1 hsa-miR-29b
+exflag 0 CD44 COL1A1 NANOG hsa-miR-20a EPAS1 hsa-miR-29c
+exflag 1 CD44 COL1A1 COL3A1 NANOG KLF2 hsa-miR-143
+exflag 1 CD44 COL1A1 COL3A1 NANOG SOX2 hsa-miR-29b
+exflag 1 CD44 COL1A1 FBN1 NANOG GATA4 hsa-miR-144
+exflag 2 CD44 COL1A1 COL3A1 NANOG KLF2 hsa-miR-143
+exflag 2 CD44 COL1A1 FBN1 NANOG GATA4 hsa-miR-144
+exflag 2 CD44 COL1A1 FBN1 NANOG KLF2 hsa-miR-23b
+exflag 3 CD44 COL1A1 FN1 RUNX2 AR hsa-miR-27a | TF1=RUNX2 TF2=AR miRNA=hsa-miR-27a target=FN1
+exflag 3 CD44 CXCL12 NANOG KLF2 NFKB1 hsa-miR-23b | TF1=KLF2 TF2=NFKB1 miRNA=hsa-miR-23b target=CXCL12
+exflag 3 CD44 CXCL12 NANOG KLF2 RELA hsa-miR-23b | TF1=KLF2 TF2=RELA miRNA=hsa-miR-23b target=CXCL12
+exflag 4 CD44 FN1 MMP14 STAT3 EPAS1 hsa-miR-24 | TF1=STAT3 TF2=EPAS1 miRNA=hsa-miR-24 target=MMP14
+exflag 4 CD44 MET MMP14 STAT3 EPAS1 hsa-miR-24 | TF1=STAT3 TF2=EPAS1 miRNA=hsa-miR-24 target=MMP14
+exflag 4 NF1 FOS FAS JUN MYC hsa-miR-23a | TF1=FOS TF2=JUN miRNA=hsa-miR-23a target=FAS
+exmask 63 CD44 FN1 NANOG GATA4 hsa-miR-144 CEBPA
+exmask 63 NF1 FOS FAS TP53 hsa-miR-23a CEBPA
+exmask 63 NF1 FOS MYC SMAD7 SOX2 hsa-miR-21

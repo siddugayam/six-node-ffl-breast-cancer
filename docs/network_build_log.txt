@@ -1,0 +1,6 @@
+[R3] node-type conflicts resolved as TF: 10 -> ['ATF3', 'CEBPA', 'CEBPB', 'EPAS1', 'FOS', 'HOXA10', 'HOXB7', 'IRF1', 'SNAI2', 'SOX10']
+[R1] miRBase case/precursor collapse: 803 raw node labels -> 587 canonical nodes (214 labels merged from >1 alias)
+[nodes] Counter({'miRNA': 223, 'Gene': 207, 'TF': 157})
+[R2] SIF rows read: 18592  ->  unique directed canonical edges: 6859
+[edges] {'miRNA_target': 4819, 'TF_target': 770, 'TF_miRNA': 1239, 'gene_gene': 1, 'miRNA_miRNA': 30}
+[edges] reciprocal TF<->miRNA pairs (composite arm): 1223

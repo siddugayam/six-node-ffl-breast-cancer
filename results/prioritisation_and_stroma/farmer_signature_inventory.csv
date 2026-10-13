@@ -1,0 +1,36 @@
+signature,class,n_published,n_symbol_remapped,n_unmapped_dropped,n_current_symbols,n_in_TCGA,frac_in_TCGA,source,pmid,doi,note
+FARMER_STROMAL,primary,50,3,0,50,50,1,"Farmer et al., Nat Med 2009",19122658,10.1038/nm.1908,Supplementary Table 4 col 1: 50-gene DCN-anchored stroma-related metagene
+WEST_DTF_FIBROMATOSIS,stromal,35,4,2,33,31,0.939,"West et al. PLoS Biol 2005 / Beck et al. Lab Invest 2008, via Farmer 2009 Suppl Table 5",15869330;18414401,10.1371/journal.pbio.0030187;10.1038/labinvest.2008.31,desmoid-type fibromatosis (fibromatosis) stromal-response signature
+WEST_SFT,stromal,124,23,4,120,110,0.917,"West et al. PLoS Biol 2005, via Farmer 2009 Suppl Table 5",15869330,10.1371/journal.pbio.0030187,solitary fibrous tumour stromal signature
+FINAK_REF_STROMA_I,stromal,9,1,0,9,8,0.889,"Finak et al. Breast Cancer Res 2006, via Farmer 2009 Suppl Table 5",17054791,10.1186/bcr1608,reference stromal gene list
+FINAK_REF_EPITHELIUM_E,epithelial,10,1,1,9,8,0.889,"Finak et al. Breast Cancer Res 2006, via Farmer 2009 Suppl Table 5",17054791,10.1186/bcr1608,reference epithelial gene list (negative control)
+WINSLOW_STROMAL_SIG1,stromal,14,0,0,14,14,1,Winslow et al. Breast Cancer Res 2015,25848820,10.1186/s13058-015-0530-2,"Table 2 gene signature 1, collagen/CAF set (HR 1.79 for new tumour event)"
+TRIULZI_ECM,ECM,738,51,16,719,693,0.964,Triulzi et al. PLoS One 2013,23441215,10.1371/journal.pone.0056761,Table S1 a priori ECM gene list used to define the ECM3 subtype
+FARMER_EMT,EMT,62,3,0,62,60,0.968,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,EMT gene set as used in the original Farmer analysis
+FARMER_TGFBETA_TARGETS,TGFbeta,77,1,0,77,77,1,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,TGF-beta target gene set as used in the original Farmer analysis
+FARMER_WNT,WNT,60,2,0,60,58,0.967,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,WNT gene set as used in the original Farmer analysis
+CHANG_WOUND_UP_VANTVEER,wound,130,32,23,106,100,0.943,"Chang et al. PLoS Biol 2004, Dataset S2 sheet 11 (SAM, van't Veer cohort)",14737219,10.1371/journal.pbio.0020007,genes UP in wound-activated versus quiescent breast tumours
+CHANG_WOUND_DN_VANTVEER,wound,61,14,15,46,42,0.913,"Chang et al. PLoS Biol 2004, Dataset S2 sheet 11 (SAM, van't Veer cohort)",14737219,10.1371/journal.pbio.0020007,genes DOWN in wound-activated versus quiescent breast tumours
+CHANG_WOUND_UP_SORLIE,wound,91,19,11,80,77,0.963,"Chang et al. PLoS Biol 2004, Dataset S2 sheet 10 (SAM, Sorlie cohort)",14737219,10.1371/journal.pbio.0020007,genes UP in wound-activated versus quiescent breast tumours
+MAMMOSPHERE,other,33,6,4,29,28,0.966,Farmer et al. Nat Med 2009 Suppl Table 5,19122658,10.1038/nm.1908,mammosphere signature (specificity control)
+CHANG_CSR_LATE_UP,wound,166,0,0,166,154,0.928,"Chang et al. PLoS Biol 2004, via MSigDB C6 CSR_LATE_UP.V1_UP",14737219,10.1371/journal.pbio.0020007,"fibroblast core serum response (wound response), late up-regulated"
+CHANG_CSR_EARLY_UP,wound,153,0,0,153,136,0.889,"Chang et al. PLoS Biol 2004, via MSigDB C6 CSR_EARLY_UP.V1_UP",14737219,10.1371/journal.pbio.0020007,"fibroblast core serum response (wound response), early up-regulated"
+FINAK_SDPP,stromal,26,0,0,26,22,0.846,"Finak et al. Nat Med 2008, via MSigDB",18438415,10.1038/nm1764,stroma-derived prognostic predictor
+FARMER2005_STROMAL_CLUSTER4,stromal,19,0,0,19,19,1,"Farmer et al. Oncogene 2005, via MSigDB",15897907,10.1038/sj.onc.1208561,cluster 4: stromal genes co-clustering across breast tumours
+HALLMARK_EMT,EMT,200,0,0,200,194,0.97,Liberzon et al. Cell Syst 2015 (MSigDB Hallmark),26771021,10.1016/j.cels.2015.12.004,hallmark EMT
+HALLMARK_TGF_BETA,TGFbeta,54,0,0,54,54,1,Liberzon et al. Cell Syst 2015 (MSigDB Hallmark),26771021,10.1016/j.cels.2015.12.004,hallmark TGF-beta signalling
+HALLMARK_ANGIOGENESIS,other,36,0,0,36,36,1,Liberzon et al. Cell Syst 2015 (MSigDB Hallmark),26771021,10.1016/j.cels.2015.12.004,hallmark angiogenesis
+NABA_CORE_MATRISOME,ECM,275,0,0,275,257,0.935,Naba et al. Mol Cell Proteomics 2012 (MSigDB),22159717,10.1074/mcp.M111.014647,core matrisome
+NABA_COLLAGENS,ECM,44,0,0,44,42,0.955,Naba et al. Mol Cell Proteomics 2012 (MSigDB),22159717,10.1074/mcp.M111.014647,collagen genes
+ESTIMATE_STROMAL,ours,141,5,0,141,136,0.965,Yoshihara et al. Nat Commun 2013 (estimate package),24113773,10.1038/ncomms3612,ESTIMATE stromal signature
+ESTIMATE_STROMAL_noCOL,ours,133,5,0,133,128,0.962,"Yoshihara et al. Nat Commun 2013, collagen genes removed here",24113773,10.1038/ncomms3612,ESTIMATE stromal signature with all COL* genes removed
+ESTIMATE_IMMUNE,ours,141,1,0,141,140,0.993,Yoshihara et al. Nat Commun 2013 (estimate package),24113773,10.1038/ncomms3612,ESTIMATE immune signature
+CAF_scRNA_50,ours,50,2,1,49,46,0.939,this study: derived from GSE176078 breast scRNA-seq pseudobulk,34493872,10.1038/s41588-021-00911-1,"top-50 CAF-specific genes, collagen-free and network-node-free by construction"
+CAF_MARKER_PANEL,ours,12,0,0,12,12,1,this study: canonical CAF markers,,,marker panel used in ct_03_stromal_scores.R
+FFL_3node,FFL,207,3,0,207,203,0.981,this study,,,protein-coding members of 3-node FFL cores
+FFL_higher_order_only,FFL,104,0,0,104,104,1,this study,,,protein-coding members entering only at n>=4 (higher-order-only module)
+FFL_6node_all,FFL,311,3,0,311,307,0.987,this study,,,protein-coding members of all FFL cores up to n=6
+FFL_4node,FFL,242,3,0,242,238,0.983,this study,,,protein-coding members up to n=4
+FFL_5node,FFL,242,3,0,242,238,0.983,this study,,,protein-coding members up to n=5
+MS_exemplar_module,FFL,5,0,0,5,5,1,this study,,,the manuscript's exemplar six-node module (protein members)
+COLLAGEN_PAIR,FFL,2,0,0,2,2,1,this study,,,the two collagens of the exemplar module

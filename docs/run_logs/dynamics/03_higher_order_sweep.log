@@ -1,0 +1,23 @@
+    I1_miRNA_FFL/n3 finished in 3214s
+    COMP_C2_toggle/n3 finished in 3860s
+    I1_miRNA_FFL/n4d finished in 3944s
+    COMP_C2_toggle/n4d finished in 4299s
+    I1_miRNA_FFL/n5 finished in 5972s
+    I1_miRNA_FFL/n4 finished in 6040s
+    COMP_C2_toggle/n4 finished in 6230s
+    COMP_C2_toggle/n5 finished in 6246s
+    I1_miRNA_FFL/n6 finished in 6980s
+    COMP_C2_toggle/n6 finished in 7703s
+
+DONE in 128.5 min
+        family module  pct_is_bistable  pct_bistability_unresolved  pct_is_sustained_osc  pct_is_ultrasensitive  pct_is_memory  pct_is_noise_rejecting
+COMP_C2_toggle     n3        25.207520                    0.048828               0.00000              60.913086      24.786377               85.217285
+COMP_C2_toggle     n4        22.833252                    3.887939               0.00000              51.635742      59.106445               80.456543
+COMP_C2_toggle    n4d        27.661133                    0.067139               0.00000              61.578369      26.037598               85.192871
+COMP_C2_toggle     n5        26.074219                    3.131104               0.00000              42.608643      48.547363               72.650146
+COMP_C2_toggle     n6        12.487793                    8.660889               0.65918              66.149902      58.551025               80.224609
+  I1_miRNA_FFL     n3         0.476074                    0.000000               0.00000              86.889648      36.437988               79.394531
+  I1_miRNA_FFL     n4         2.392578                    6.018066               0.00000              71.960449      68.475342               81.365967
+  I1_miRNA_FFL    n4d         3.924561                    0.146484               0.00000              87.701416      36.920166               83.117676
+  I1_miRNA_FFL     n5         2.398682                    5.529785               0.00000              75.579834      62.316895               76.721191
+  I1_miRNA_FFL     n6         2.252197                    5.438232               0.00000              77.362061      59.338379               82.617188

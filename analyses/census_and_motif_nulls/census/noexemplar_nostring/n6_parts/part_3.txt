@@ -1,0 +1,79 @@
+K 6
+nparts 64
+part 3
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 72738
+visited 26753964
+rng_final 42
+comp 1 2 3 26
+comp 1 3 2 725
+comp 1 4 1 4029
+comp 2 1 3 20
+comp 2 2 2 1939
+comp 2 3 1 28136
+comp 2 4 0 112
+comp 3 1 2 322
+comp 3 2 1 22754
+comp 3 3 0 3688
+comp 4 0 2 18
+comp 4 1 1 3174
+comp 4 2 0 5962
+comp 5 0 1 198
+comp 5 1 0 1549
+comp 6 0 0 86
+mask 2 86
+mask 3 216
+mask 6 713
+mask 7 56
+mask 10 9
+mask 11 65
+mask 12 2
+mask 13 1
+mask 14 16604
+mask 15 4959
+mask 18 226
+mask 19 363
+mask 20 1517
+mask 21 204
+mask 22 8855
+mask 23 1151
+mask 26 84
+mask 27 194
+mask 28 18025
+mask 29 1452
+mask 30 10850
+mask 31 7088
+mask 46 1
+mask 47 17
+flags 0 67753
+flags 1 1671
+flags 2 56
+flags 3 233
+flags 6 9
+flags 7 2
+flags 8 2716
+flags 9 7
+flags 10 6
+flags 11 19
+flags 14 5
+flags 15 2
+flags 24 253
+flags 25 5
+flags 26 1
+exflag 0 TAL1 ERG hsa-miR-144 MET hsa-miR-200c SMAD7
+exflag 0 TAL1 ERG hsa-miR-144 SKIL SMAD7 hsa-miR-200c
+exflag 0 TAL1 ERG hsa-miR-181a SERPINE1 hsa-miR-200c KLF10
+exflag 1 TAL1 ERG NFKB1 SERPINE1 hsa-miR-200c KLF10
+exflag 1 TAL1 ERG hsa-miR-144 MET hsa-miR-200c SMAD7
+exflag 1 TAL1 ERG hsa-miR-144 SKIL SMAD7 hsa-miR-200c
+exflag 2 TAL1 MYB COL1A1 COL3A1 MYC hsa-miR-29c
+exflag 2 TAL1 MYB COL1A1 COL3A1 MYCN hsa-miR-335
+exflag 2 TAL1 MYB COL1A1 COL3A1 NFKB1 hsa-let-7b
+exflag 3 TAL1 ERG MYB GATA3 LOX hsa-miR-200c | TF1=MYB TF2=GATA3 miRNA=hsa-miR-200c target=ERG
+exflag 3 TAL1 ERG MYB GATA3 MYC hsa-miR-200c | TF1=MYB TF2=GATA3 miRNA=hsa-miR-200c target=ERG
+exflag 3 TAL1 ERG MYB MYC BMI1 hsa-miR-200c | TF1=MYB TF2=MYC miRNA=hsa-miR-200c target=BMI1
+exflag 4 TAL1 MYB MYC CCND2 NFKB1 hsa-let-7b | TF1=NFKB1 TF2=MYC miRNA=hsa-let-7b target=CCND2
+exflag 4 TAL1 MYB MYC CCND2 NFKB1 hsa-miR-150 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-150 target=CCND2
+exflag 4 TAL1 MYB MYC CCND2 NFKB1 hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2

@@ -1,0 +1,88 @@
+K 6
+nparts 64
+part 48
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 42938
+visited 20921083
+rng_final 42
+comp 1 2 3 16
+comp 1 3 2 312
+comp 1 4 1 9
+comp 2 1 3 16
+comp 2 2 2 1364
+comp 2 3 1 7285
+comp 3 0 3 1
+comp 3 1 2 808
+comp 3 2 1 22530
+comp 3 3 0 464
+comp 4 0 2 88
+comp 4 1 1 4980
+comp 4 2 0 2430
+comp 5 0 1 530
+comp 5 1 0 1875
+comp 6 0 0 230
+mask 2 230
+mask 3 619
+mask 6 1393
+mask 7 169
+mask 11 28
+mask 13 1
+mask 14 20651
+mask 15 12339
+mask 20 24
+mask 21 2
+mask 22 3329
+mask 23 542
+mask 27 3
+mask 28 319
+mask 29 53
+mask 30 1153
+mask 31 1478
+mask 46 1
+mask 47 3
+mask 70 22
+mask 71 3
+mask 75 2
+mask 78 213
+mask 79 201
+mask 86 1
+mask 91 12
+mask 92 10
+mask 93 8
+mask 94 107
+mask 95 20
+mask 110 1
+mask 123 1
+flags 0 38251
+flags 1 681
+flags 2 411
+flags 3 624
+flags 4 2
+flags 6 3
+flags 8 2603
+flags 9 1
+flags 10 38
+flags 11 58
+flags 24 265
+flags 26 1
+exflag 0 FOS BCL2L1 MYC SMAD7 hsa-let-7a hsa-let-7c
+exflag 0 FOS BCL2L1 MYC SMAD7 hsa-let-7a hsa-let-7e
+exflag 0 FOS BCL2L1 MYC SMAD7 hsa-let-7a hsa-let-7g
+exflag 1 FOS BCL2L1 MYC BMI1 hsa-miR-141 STAT5A
+exflag 1 FOS BCL2L1 MYC GATA1 hsa-miR-23a STAT5A
+exflag 1 FOS BCL2L1 MYC NFKB1 hsa-miR-130a STAT5A
+exflag 2 FOS MYC NFKB1 COL1A1 COL3A1 hsa-let-7b
+exflag 2 FOS MYC NFKB1 COL1A1 COL3A1 hsa-let-7e
+exflag 2 FOS NFKB1 COL1A1 COL3A1 SMAD4 hsa-miR-143
+exflag 3 FOS BCL2L1 MYC GATA1 hsa-miR-23a STAT5A | TF1=FOS TF2=MYC miRNA=hsa-miR-23a target=GATA1
+exflag 3 FOS BCL2L1 SPI1 BCL6 hsa-miR-23a STAT5A | TF1=FOS TF2=SPI1 miRNA=hsa-miR-23a target=BCL6
+exflag 3 FOS DDIT3 CEBPA NFKB1 ATF3 hsa-miR-34a | TF1=FOS TF2=NFKB1 miRNA=hsa-miR-34a target=ATF3
+exflag 4 FOS FAS SMAD4 JUN TP53 hsa-miR-23b | TF1=JUN TF2=TP53 miRNA=hsa-miR-23b target=FAS
+exflag 4 FOS MYC BMI1 NFKB1 TERT hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=TERT
+exflag 4 FOS MYC CCND2 GATA4 NFKB1 hsa-let-7b | TF1=NFKB1 TF2=MYC miRNA=hsa-let-7b target=CCND2
+exmask 95 hsa-let-7e BCL2L1 HIC1 STAT3 FOS hsa-miR-29a
+exmask 95 hsa-let-7e BCL2L1 hsa-miR-29a FOS SPI1 hsa-miR-342
+exmask 95 hsa-let-7e CCND2 HIC1 STAT3 hsa-miR-29a ETV4
+exmask 123 hsa-let-7e COL1A1 COL3A1 hsa-miR-29a ETV4 ETS1

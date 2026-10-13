@@ -1,0 +1,80 @@
+K 6
+nparts 64
+part 34
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 148464
+visited 57854301
+rng_final 42
+comp 1 2 3 39
+comp 1 3 2 793
+comp 1 4 1 4414
+comp 2 1 3 18
+comp 2 2 2 3327
+comp 2 3 1 40513
+comp 2 4 0 507
+comp 3 1 2 1058
+comp 3 2 1 64655
+comp 3 3 0 2836
+comp 4 0 2 60
+comp 4 1 1 13047
+comp 4 2 0 10328
+comp 5 0 1 1079
+comp 5 1 0 5267
+comp 6 0 0 523
+mask 2 523
+mask 3 1139
+mask 6 3313
+mask 7 93
+mask 11 36
+mask 13 1
+mask 14 37366
+mask 15 32627
+mask 17 1
+mask 18 412
+mask 19 741
+mask 20 1228
+mask 21 197
+mask 22 13985
+mask 23 2004
+mask 25 5
+mask 26 63
+mask 27 1166
+mask 28 15696
+mask 29 3848
+mask 30 18944
+mask 31 14996
+mask 46 4
+mask 59 12
+mask 60 15
+mask 61 14
+mask 62 34
+mask 63 1
+flags 0 140717
+flags 1 2260
+flags 2 589
+flags 3 994
+flags 4 4
+flags 7 35
+flags 8 3175
+flags 9 4
+flags 10 23
+flags 11 34
+flags 24 629
+exflag 0 NANOG DKK1 hsa-miR-17 EPAS1 MSC hsa-miR-302a
+exflag 0 NANOG DKK1 hsa-miR-17 EPAS1 MSC hsa-miR-302b
+exflag 0 NANOG DKK1 hsa-miR-17 EPAS1 MSC hsa-miR-302c
+exflag 1 NANOG CDX2 DKK1 SP1 hsa-miR-142 ASCL1
+exflag 1 NANOG CDX2 DKK1 SP1 hsa-miR-22 ASCL1
+exflag 1 NANOG CDX2 SP1 CCND2 hsa-miR-17 IRF9
+exflag 2 hsa-miR-29b COL1A1 COL3A1 FOS SMAD4 hsa-miR-143
+exflag 2 hsa-miR-29b COL1A1 COL3A1 FOS SPI1 hsa-miR-338
+exflag 2 hsa-miR-29b COL1A1 COL3A1 FOS TP53 hsa-miR-143
+exflag 3 NANOG CDX2 DKK1 SP1 MYC hsa-miR-373 | TF1=SP1 TF2=MYC miRNA=hsa-miR-373 target=DKK1
+exflag 3 NANOG CDX2 SP1 ABCA1 NFKB1 hsa-miR-17 | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-17 target=ABCA1
+exflag 3 NANOG CDX2 SP1 ABCA1 RELA hsa-miR-17 | TF1=SP1 TF2=RELA miRNA=hsa-miR-17 target=ABCA1
+exflag 4 NANOG CDX2 SP1 ABCA1 NFKB1 hsa-miR-17 | TF1=SP1 TF2=NFKB1 miRNA=hsa-miR-17 target=ABCA1
+exflag 4 NANOG CDX2 SP1 ABCA1 RELA hsa-miR-17 | TF1=SP1 TF2=RELA miRNA=hsa-miR-17 target=ABCA1
+exflag 4 NANOG CDX2 SP1 ABCA1 RELA hsa-miR-19a | TF1=SP1 TF2=RELA miRNA=hsa-miR-19a target=ABCA1
+exmask 63 hsa-miR-29b COL1A1 COL3A1 JUND MYB hsa-miR-143

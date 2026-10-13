@@ -1,0 +1,23 @@
+source,target,sign_COMP_C2_toggle_n6,sign_COMP_I1_negfeedback_n6,sign_I1_miRNA_FFL_n6,mechanism_in_dyn_models,layer,network_arc_class,required_MODEL6_FULL,required_MODEL6_DEF
+TF1,miR1,-,+,+,TF1 promoter input u_m (Hill); gated with TF2 (AND = product),core,TF_miRNA,1,1
+miR1,G1,-,-,-,"RISC: accelerated G1 mRNA decay (lam_y), titration (theta), translational block of G1 protein (AND gate)",core,miRNA_target,1,1
+TF1,G1,+,+,+,TF1 transcription of G1 (u_TY); gated with TF2,core,TF_target,1,1
+miR1,TF1,-,-,absent,RISC on the TF1 transcript: translational block + accelerated decay (lam_x) [composite only],core,miRNA_target (reciprocal),1,1
+G1,G2,+,+,+,"mutual protein stabilisation, saturable kappa*f+(p2) (and G2 -> G1)",gene-gene,gene_gene (STRING/deposit),1,1
+G2,G1,+,+,+,mutual protein stabilisation (reciprocal of the above),gene-gene,gene_gene (same link),1,1
+TF1,G2,+,+,+,G2 is co-regulated: transcription rho_g2*u_TY (same TF input),gene-gene,TF_target,1,0
+miR1,G2,-,-,-,"RISC on G2 mRNA (decay, titration) and G2 translation",gene-gene,miRNA_target,1,0
+miR1,miR2,coupled,coupled,coupled,co-transcription from the shared cluster promoter (miR2 production = rho*u_m) and shared saturable RISC pool Meff; no direct term,miRNA-miRNA,miRNA_miRNA (10 kb),1,1
+TF1,miR2,-,+,+,shared promoter: miR2 production = rho*u_m,miRNA-miRNA,TF_miRNA,1,0
+miR2,G1,-,-,-,shared RISC pool: Meff = f(m1 + phi*m2) acts on G1,miRNA-miRNA,miRNA_target,1,0
+miR2,G2,-,-,-,shared RISC pool acts on G2,miRNA-miRNA,miRNA_target,1,0
+miR2,TF1,-,-,absent,shared RISC pool acts on the TF1 transcript [composite only],miRNA-miRNA,miRNA_target,1,0
+TF1,TF2,+,+,+,"TF1 transcription of TF2 (s_T12, Hill)",TF-TF,TF_target (TF->TF),1,1
+TF2,G1,+,+,+,"TF2 input to G1 transcription, AND-gated with TF1 (s_T2Y)",TF-TF,TF_target,1,1
+TF2,miR1,+,+,+,"TF2 input to the miRNA promoter, AND-gated with TF1 (s_T2M)",TF-TF,TF_miRNA,1,1
+TF2,G2,+,+,+,G2 transcription uses the same gated TF input as G1,TF-TF,TF_target,1,0
+TF2,miR2,+,+,+,miR2 production uses the same gated promoter input as miR1,TF-TF,TF_miRNA,1,0
+G1,miR1,-,-,-,titration: G1 mRNA sequesters miRNA (theta); reverse action of the miR1 -> G1 arc,core,(same arc as miR1 -> G1),0,0
+G1,miR2,-,-,-,titration by G1 mRNA,miRNA-miRNA,(same arc as miR2 -> G1),0,0
+G2,miR1,-,-,-,titration by G2 mRNA (weight w2),gene-gene,(same arc as miR1 -> G2),0,0
+G2,miR2,-,-,-,titration by G2 mRNA,gene-gene,(same arc as miR2 -> G2),0,0

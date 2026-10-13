@@ -1,0 +1,6 @@
+stratum,top_N,n_in_BRCA,pct_in_BRCA,universe,BRCA_set_size,BRCA_median_degree,nonBRCA_median_degree
+TF by TRRUST out-degree,157,106,67.5,794,157,20.0,2.0
+TF by TransmiR out-degree,157,95,60.5,369,157,4.0,2.0
+miRNA by validated-target count,223,156,70.0,1762,223,539.0,29.0
+miRNA by TransmiR in-degree,223,176,78.9,348,223,5.0,1.0
+protein-coding by validated-miRNA in-degree,364,84,23.1,2917,364,116.0,54.0

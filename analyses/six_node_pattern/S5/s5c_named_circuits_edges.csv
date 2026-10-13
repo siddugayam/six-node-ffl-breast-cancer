@@ -1,0 +1,273 @@
+rank,circuit,weakest_miRNA_tier,min_TRRUST_pmids,model_edge,source,target,layer,sign,sign_provenance,evidence
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF1->miR1,NFKB1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR1->TF1,hsa-miR-29b,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR1->G1,hsa-miR-29b,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF1->G1,NFKB1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,G1-G2,HIF1A,MYC,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.993 (functional+physical)
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF1->G2,NFKB1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 10 PMID(s) (census layer)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR1->G2,hsa-miR-29b,MYC,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR1-miR2,hsa-miR-29b,hsa-miR-29c,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 504 bp"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF1->miR2,NFKB1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR2->G1,hsa-miR-29c,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR2->G2,hsa-miR-29c,MYC,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,miR2->TF1,hsa-miR-29c,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF1->TF2,NFKB1,YY1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF2->G1,YY1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF2->G2,YY1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 5 PMID(s) (census layer)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF2->miR1,YY1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+1,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=HIF1A|G2=MYC,weak,1,TF2->miR2,YY1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF1->miR1,NFKB1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR1->TF1,hsa-miR-29b,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR1->G1,hsa-miR-29b,MYC,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF1->G1,NFKB1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 10 PMID(s) (census layer)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,G1-G2,HIF1A,MYC,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.993 (functional+physical)
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF1->G2,NFKB1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR1->G2,hsa-miR-29b,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR1-miR2,hsa-miR-29b,hsa-miR-29c,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 504 bp"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF1->miR2,NFKB1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR2->G1,hsa-miR-29c,MYC,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR2->G2,hsa-miR-29c,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,miR2->TF1,hsa-miR-29c,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF1->TF2,NFKB1,YY1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF2->G1,YY1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 5 PMID(s) (census layer)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF2->G2,YY1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF2->miR1,YY1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+2,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29b|miR2=hsa-miR-29c|G1=MYC|G2=HIF1A,weak,1,TF2->miR2,YY1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF1->miR1,NFKB1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR1->TF1,hsa-miR-29c,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR1->G1,hsa-miR-29c,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF1->G1,NFKB1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,G1-G2,HIF1A,MYC,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.993 (functional+physical)
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF1->G2,NFKB1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 10 PMID(s) (census layer)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR1->G2,hsa-miR-29c,MYC,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR1-miR2,hsa-miR-29c,hsa-miR-29b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 504 bp"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF1->miR2,NFKB1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR2->G1,hsa-miR-29b,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR2->G2,hsa-miR-29b,MYC,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,miR2->TF1,hsa-miR-29b,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF1->TF2,NFKB1,YY1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF2->G1,YY1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF2->G2,YY1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 5 PMID(s) (census layer)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF2->miR1,YY1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+3,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=HIF1A|G2=MYC,weak,1,TF2->miR2,YY1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF1->miR1,NFKB1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR1->TF1,hsa-miR-29c,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR1->G1,hsa-miR-29c,MYC,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF1->G1,NFKB1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 10 PMID(s) (census layer)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,G1-G2,HIF1A,MYC,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.993 (functional+physical)
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF1->G2,NFKB1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR1->G2,hsa-miR-29c,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR1-miR2,hsa-miR-29c,hsa-miR-29b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 504 bp"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF1->miR2,NFKB1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR2->G1,hsa-miR-29b,MYC,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR2->G2,hsa-miR-29b,HIF1A,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,miR2->TF1,hsa-miR-29b,NFKB1,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF1->TF2,NFKB1,YY1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF2->G1,YY1,MYC,TF_target (TRRUST census layer),unsigned,TRRUST mode Ambiguous,"TRRUST, 5 PMID(s) (census layer)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF2->G2,YY1,HIF1A,TF_target (TRRUST census layer),unsigned,TRRUST mode Unknown,"TRRUST, 1 PMID(s) (census layer)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF2->miR1,YY1,hsa-miR-29c,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+4,TF1=NFKB1|TF2=YY1|miR1=hsa-miR-29c|miR2=hsa-miR-29b|G1=MYC|G2=HIF1A,weak,1,TF2->miR2,YY1,hsa-miR-29b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-200a,hsa-miR-200b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 665 bp"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+5,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-200a,hsa-miR-200b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 665 bp"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+6,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-200a,hsa-miR-429,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1053 bp"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+7,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-200a,hsa-miR-429,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1053 bp"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+8,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200a|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-200b,hsa-miR-200a,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 665 bp"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+9,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-200b,hsa-miR-200a,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 665 bp"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+10,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-200b,hsa-miR-429,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1807 bp"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+11,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-200b,hsa-miR-429,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1807 bp"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+12,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-200b|miR2=hsa-miR-429|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-429,hsa-miR-200a,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1053 bp"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+13,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-429,hsa-miR-200a,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1053 bp"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-200a,TP53,miRNA_target,-,mechanistic (miRNA repression),mirtarbase; tier strong
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-200a,SNAI2,miRNA_target,-,mechanistic (miRNA repression),tarbase; tier weak
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-200a,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+14,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200a|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200a,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR1,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G1,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G1,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->G2,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1->G2,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR1-miR2,hsa-miR-429,hsa-miR-200b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1807 bp"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G1,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->G2,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,miR2->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G1,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->G2,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+15,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=SNAI2|G2=TP53,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR1,EZH2,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 3 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->TF1,hsa-miR-429,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G1,hsa-miR-429,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G1,EZH2,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 2 PMID(s) (census layer)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,G1-G2,SNAI2,TP53,gene_gene (STRING),unsigned,unsigned (STRING),STRING 0.915 (functional)
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->G2,EZH2,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1->G2,hsa-miR-429,SNAI2,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR1-miR2,hsa-miR-429,hsa-miR-200b,miRNA_miRNA (10 kb),unsigned,unsigned (co-transcription),"10 kb cluster pair, 1807 bp"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->miR2,EZH2,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 5 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G1,hsa-miR-200b,TP53,miRNA_target,-,mechanistic (miRNA repression),no validated record; tier predicted_only
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->G2,hsa-miR-200b,SNAI2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,miR2->TF1,hsa-miR-200b,EZH2,miRNA_target,-,mechanistic (miRNA repression),mirtarbase;tarbase; tier strong
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF1->TF2,EZH2,HDAC1,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G1,HDAC1,TP53,TF_target (TRRUST census layer),-,TRRUST mode Repression,"TRRUST, 1 PMID(s) (census layer)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->G2,HDAC1,SNAI2,TF_target,-,TRRUST mode Repression,"TRRUST, 1 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR1,HDAC1,hsa-miR-429,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 1 PMID(s)"
+16,TF1=EZH2|TF2=HDAC1|miR1=hsa-miR-429|miR2=hsa-miR-200b|G1=TP53|G2=SNAI2,predicted_only,1,TF2->miR2,HDAC1,hsa-miR-200b,TF_miRNA,-,TransmiR mode Repression,"TransmiR literature, 2 PMID(s)"

@@ -1,0 +1,71 @@
+family,module,role,smaller,source
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,core,stored: I1_miRNA_FFL core
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,GG,stored: I1_miRNA_FFL GG
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,GG+MM,stored: I1_miRNA_FFL GG+MM
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,MM,S2 stored: I1_miRNA_FFL__MM.csv.gz
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,TT,A1b run: TT_T120_T21+_T2Y-
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,GG+TT,A1b run: GG+TT_T120_T21+_T2Y-
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,verdict,MM+TT,A1b run: MM+TT_T120_T21+_T2Y-
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,core,A1 run: core
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,GG,A1 run: GG
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,GG+MM,A1 run: GG+MM
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,MM,A1b run: MM
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,TT,A1b run: TT_T120_T21-_T2Y+
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,GG+TT,A1b run: GG+TT_T120_T21-_T2Y+
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,verdict,MM+TT,A1b run: MM+TT_T120_T21-_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,core,stored: COMP_I1_negfeedback core
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG,stored: COMP_I1_negfeedback GG
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG+MM,stored: COMP_I1_negfeedback GG+MM
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,MM,S2 stored: COMP_I1_negfeedback__MM.csv.gz
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,TT,A1b run: TT_T12+_T21-_T2Y-
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG+TT,A1b run: GG+TT_T12+_T21-_T2Y-
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,MM+TT,A1b run: MM+TT_T12+_T21-_T2Y-
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,core,stored: COMP_I1_negfeedback core
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG,stored: COMP_I1_negfeedback GG
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG+MM,stored: COMP_I1_negfeedback GG+MM
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,MM,S2 stored: COMP_I1_negfeedback__MM.csv.gz
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,TT,A1b run: TT_T12-_T21+_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG+TT,A1b run: GG+TT_T12-_T21+_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,MM+TT,A1b run: MM+TT_T12-_T21+_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,core,stored: COMP_I1_negfeedback core
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG,stored: COMP_I1_negfeedback GG
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG+MM,stored: COMP_I1_negfeedback GG+MM
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,MM,S2 stored: COMP_I1_negfeedback__MM.csv.gz
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,TT,A1b run: TT_T12-_T21-_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG+TT,A1b run: GG+TT_T12-_T21-_T2Y+
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,MM+TT,A1b run: MM+TT_T12-_T21-_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,core,stored: COMP_C2_toggle core
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG,stored: COMP_C2_toggle GG
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG+MM,stored: COMP_C2_toggle GG+MM
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,MM,S2 stored: COMP_C2_toggle__MM.csv.gz
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,TT,A1b run: TT_T12+_T21-_T2Y-
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,GG+TT,A1b run: GG+TT_T12+_T21-_T2Y-
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,verdict,MM+TT,A1b run: MM+TT_T12+_T21-_T2Y-
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,core,stored: COMP_C2_toggle core
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG,stored: COMP_C2_toggle GG
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG+MM,stored: COMP_C2_toggle GG+MM
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,MM,S2 stored: COMP_C2_toggle__MM.csv.gz
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,TT,A1b run: TT_T12-_T21+_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,GG+TT,A1b run: GG+TT_T12-_T21+_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,verdict,MM+TT,A1b run: MM+TT_T12-_T21+_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,core,stored: COMP_C2_toggle core
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG,stored: COMP_C2_toggle GG
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG+MM,stored: COMP_C2_toggle GG+MM
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,MM,S2 stored: COMP_C2_toggle__MM.csv.gz
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,TT,A1b run: TT_T12-_T21-_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,GG+TT,A1b run: GG+TT_T12-_T21-_T2Y+
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,verdict,MM+TT,A1b run: MM+TT_T12-_T21-_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,core,A1 run: core
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,GG,A1 run: GG
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,GG+MM,A1 run: GG+MM
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,MM,A1b run: MM
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,TT,A1b run: TT_T12-_T210_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,GG+TT,A1b run: GG+TT_T12-_T210_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,verdict,MM+TT,A1b run: MM+TT_T12-_T210_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,core,A1 run: core
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,GG,A1 run: GG
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,GG+MM,A1 run: GG+MM
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,MM,A1b run: MM
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,TT,A1b run: TT_T12+_T210_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,GG+TT,A1b run: GG+TT_T12+_T210_T2Y+
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,option (b): memory AND oscillation only,MM+TT,A1b run: MM+TT_T12+_T210_T2Y+

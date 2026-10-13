@@ -1,0 +1,3 @@
+field,convention
+ref_base/alt_base,"plus-strand alleles at genome_pos (hg38); verified identical to the reference genome for all 1,000 positions"
+rel_to_TSS,offset from the TSS in TRANSCRIPTION orientation (negative = upstream); for COL1A1 (minus strand) rel_to_TSS = TSS_coordinate - genome_pos

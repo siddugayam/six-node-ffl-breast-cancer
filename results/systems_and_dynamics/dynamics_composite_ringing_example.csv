@@ -1,0 +1,5 @@
+topology,param_set,has_reciprocal_miRNA_to_TF_arm,n_turning_points_in_ON_response,peak_over_steady_state,trough_after_peak_over_steady_state,undershoots_below_steady_state,steady_state
+COMP_I1_AND,954,True,10,1.1146031636065468,0.9787885686716192,True,0.04881969257211885
+I1_MIR_AND,954,False,1,1.0011539675233974,1.0,False,0.061670383676098076
+I1_TXN_AND,954,False,1,1.012782389965809,1.0,False,0.0001143704280461002
+CASCADE,954,False,0,1.0,1.0,False,0.9771330186440015

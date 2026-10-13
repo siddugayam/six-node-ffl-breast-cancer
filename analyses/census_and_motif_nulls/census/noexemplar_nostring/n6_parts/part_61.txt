@@ -1,0 +1,79 @@
+K 6
+nparts 64
+part 61
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 176183
+visited 64510303
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 93
+comp 1 3 2 1139
+comp 1 4 1 2972
+comp 2 1 3 54
+comp 2 2 2 5864
+comp 2 3 1 79763
+comp 2 4 0 27
+comp 3 1 2 1368
+comp 3 2 1 51246
+comp 3 3 0 9510
+comp 4 0 2 25
+comp 4 1 1 6874
+comp 4 2 0 14796
+comp 5 0 1 65
+comp 5 1 0 2370
+comp 6 0 0 16
+mask 2 16
+mask 3 90
+mask 6 83
+mask 7 64
+mask 11 18
+mask 14 1650
+mask 15 904
+mask 17 8
+mask 18 2253
+mask 19 4804
+mask 20 3968
+mask 21 750
+mask 22 20399
+mask 23 1903
+mask 25 13
+mask 26 307
+mask 27 2749
+mask 28 40019
+mask 29 15376
+mask 30 42336
+mask 31 38452
+mask 61 15
+mask 63 6
+flags 0 165151
+flags 1 4571
+flags 2 3
+flags 3 1169
+flags 7 5
+flags 8 3241
+flags 9 18
+flags 11 57
+flags 24 1924
+flags 25 9
+flags 27 34
+flags 31 1
+exflag 0 STAT4 IRF1 hsa-miR-203 VEGFA hsa-miR-506 HIC1
+exflag 0 STAT4 IRF1 hsa-miR-29b VEGFA hsa-miR-506 HIC1
+exflag 0 STAT4 MYC CCND2 hsa-miR-106a IRF9 hsa-miR-506
+exflag 1 STAT4 IRF1 TP53 EPHA2 hsa-miR-506 HIC1
+exflag 1 STAT4 IRF1 TP53 VEGFA hsa-miR-506 HIC1
+exflag 1 STAT4 IRF1 hsa-miR-203 VEGFA hsa-miR-506 HIC1
+exflag 2 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-let-7e
+exflag 2 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-miR-29b
+exflag 2 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-miR-29c
+exflag 3 STAT4 IRF1 E2F1 AR MYC hsa-let-7a | TF1=E2F1 TF2=AR miRNA=hsa-let-7a target=MYC
+exflag 3 STAT4 IRF1 E2F1 AR MYC hsa-miR-18a | TF1=E2F1 TF2=AR miRNA=hsa-miR-18a target=MYC
+exflag 3 STAT4 IRF1 E2F1 AR MYC hsa-miR-19a | TF1=E2F1 TF2=AR miRNA=hsa-miR-19a target=MYC
+exflag 4 STAT4 IRF1 E2F1 MYC TERT hsa-miR-15a | TF1=E2F1 TF2=MYC miRNA=hsa-miR-15a target=TERT
+exflag 4 STAT4 IRF1 E2F1 MYC TERT hsa-miR-16 | TF1=E2F1 TF2=MYC miRNA=hsa-miR-16 target=TERT
+exflag 4 STAT4 IRF1 E2F1 MYC TERT hsa-miR-195 | TF1=E2F1 TF2=MYC miRNA=hsa-miR-195 target=TERT
+exmask 63 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-let-7e
+exmask 63 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-miR-29b
+exmask 63 hsa-miR-19b RELA COL1A1 COL3A1 SP1 hsa-miR-29c

@@ -1,0 +1,95 @@
+K 6
+nparts 64
+part 6
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 112178
+visited 47657251
+rng_final 42
+comp 1 2 3 50
+comp 1 3 2 2008
+comp 1 4 1 3681
+comp 2 1 3 17
+comp 2 2 2 3992
+comp 2 3 1 35781
+comp 2 4 0 9
+comp 3 1 2 826
+comp 3 2 1 42884
+comp 3 3 0 2944
+comp 4 0 2 62
+comp 4 1 1 7864
+comp 4 2 0 7210
+comp 5 0 1 948
+comp 5 1 0 3562
+comp 6 0 0 340
+mask 2 340
+mask 3 1010
+mask 6 2390
+mask 7 109
+mask 10 9
+mask 11 77
+mask 12 7
+mask 13 3
+mask 14 39439
+mask 15 15675
+mask 18 46
+mask 19 70
+mask 20 703
+mask 21 112
+mask 22 10099
+mask 23 1946
+mask 26 95
+mask 27 276
+mask 28 13357
+mask 29 2232
+mask 30 12622
+mask 31 7949
+mask 46 8
+mask 47 2
+mask 61 1
+mask 70 273
+mask 71 3
+mask 76 43
+mask 77 7
+mask 78 1619
+mask 79 595
+mask 86 214
+mask 87 15
+mask 92 381
+mask 93 186
+mask 94 183
+mask 95 76
+mask 110 4
+mask 124 2
+flags 0 100582
+flags 1 2867
+flags 2 300
+flags 3 1069
+flags 6 2
+flags 7 12
+flags 8 6882
+flags 9 10
+flags 10 27
+flags 11 24
+flags 24 393
+flags 25 5
+flags 27 5
+exflag 0 GLI1 CYR61 hsa-miR-29a FOSL1 EZH2 hsa-miR-181b
+exflag 0 GLI1 EGR2 hsa-miR-142 IRF9 CCND2 hsa-miR-29a
+exflag 0 GLI1 FAS hsa-miR-29a FOSL1 EZH2 hsa-let-7c
+exflag 1 GLI1 EGR2 hsa-miR-142 IRF9 CCND2 hsa-miR-29a
+exflag 1 GLI1 JUN BRCA1 IRF9 CCND2 hsa-miR-29a
+exflag 1 GLI1 JUN ETS1 COL1A1 COL3A1 hsa-miR-29a
+exflag 2 GLI1 JUN ETS1 COL1A1 COL3A1 hsa-miR-29a
+exflag 2 GLI1 JUN MYB COL1A1 COL3A1 hsa-miR-29a
+exflag 2 PPARG KLF4 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29b
+exflag 3 DDIT3 CEBPA ID1 SIRT1 PPARG hsa-miR-29b | TF1=PPARG TF2=CEBPA miRNA=hsa-miR-29b target=ID1
+exflag 3 DDIT3 CEBPA SIRT1 CTNNB1 TP53 hsa-miR-34a | TF1=SIRT1 TF2=TP53 miRNA=hsa-miR-34a target=CTNNB1
+exflag 3 DDIT3 CEBPA SIRT1 EZH2 HDAC1 hsa-miR-34a | TF1=SIRT1 TF2=EZH2 miRNA=hsa-miR-34a target=HDAC1
+exflag 4 GLI1 FAS JUN ETS1 TP53 hsa-miR-23b | TF1=JUN TF2=TP53 miRNA=hsa-miR-23b target=FAS
+exflag 4 GLI1 FAS JUN ETS2 TP53 hsa-miR-23b | TF1=JUN TF2=TP53 miRNA=hsa-miR-23b target=FAS
+exflag 4 GLI1 FAS JUN TP53 KLF2 hsa-miR-23b | TF1=JUN TF2=TP53 miRNA=hsa-miR-23b target=FAS
+exmask 95 PPARG BCL2L1 CEBPA STAT3 hsa-miR-29b hsa-let-7b
+exmask 95 PPARG BCL2L1 CEBPA STAT3 hsa-miR-29b hsa-let-7e
+exmask 95 PPARG BCL2L1 CEBPA hsa-miR-125b hsa-miR-29b hsa-let-7b

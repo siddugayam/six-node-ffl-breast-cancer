@@ -1,0 +1,13 @@
+series,gene_set,tcga_criterion,genes_measured_in_both,tcga_significant_and_measured,same_direction,pct_same_direction
+GSE42568,all genes,q<0.05 and |log2FC|>1,15712,3512,2898,82.5
+GSE42568,all genes,q<0.05,15712,12357,8942,72.4
+GSE42568,network nodes,q<0.05 and |log2FC|>1,360,146,124,84.9
+GSE42568,network nodes,q<0.05,360,313,242,77.3
+GSE45827,all genes,q<0.05 and |log2FC|>1,11941,2561,2260,88.2
+GSE45827,all genes,q<0.05,11941,9782,7002,71.6
+GSE45827,network nodes,q<0.05 and |log2FC|>1,328,133,114,85.7
+GSE45827,network nodes,q<0.05,328,288,210,72.9
+GSE10780,all genes,q<0.05 and |log2FC|>1,15712,3512,3133,89.2
+GSE10780,all genes,q<0.05,15712,12357,10068,81.5
+GSE10780,network nodes,q<0.05 and |log2FC|>1,360,146,138,94.5
+GSE10780,network nodes,q<0.05,360,313,268,85.6

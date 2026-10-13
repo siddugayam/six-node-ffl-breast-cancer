@@ -1,0 +1,26 @@
+{
+  "N": 587,
+  "matching_size": 381,
+  "N_D": 206,
+  "n_D_over_N": 0.35093696763202725,
+  "n_drivers_listed": 206,
+  "roles": {
+    "redundant": 97,
+    "intermittent": 485,
+    "critical": 5
+  },
+  "deletion_classes": {
+    "dispensable": 201,
+    "neutral": 381,
+    "indispensable": 5
+  },
+  "spearman_driverfreq_vs_fflparticipation": [
+    -0.43330094805028774,
+    2.9008885046411354e-28
+  ],
+  "spearman_driverfreq_vs_degree": [
+    -0.5358772778053497,
+    6.118956149825025e-45
+  ],
+  "n_matchings_sampled": 2000
+}

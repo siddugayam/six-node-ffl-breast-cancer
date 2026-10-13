@@ -1,0 +1,170 @@
+[
+ {
+  "variant": "V0_deposited_only",
+  "n_edges": 6859,
+  "n_edges_reduced": 5636,
+  "recip": 1223,
+  "ffl3": 2067,
+  "ordered_cores_full": 3731,
+  "ordered_cores_reduced": 2067,
+  "classes": {
+   "Composite-FFL": 1334,
+   "other(TF->TF)": 261,
+   "TF-FFL": 9,
+   "miRNA-FFL": 208,
+   "other(miRNA->Gene)": 6,
+   "other(miRNA->miRNA)": 249
+  }
+ },
+ {
+  "variant": "V1_TT+GGdir",
+  "n_edges": 7463,
+  "n_edges_reduced": 6240,
+  "recip": 1223,
+  "ffl3": 3725,
+  "ordered_cores_full": 9530,
+  "ordered_cores_reduced": 4903,
+  "classes": {
+   "other(TF->TF)": 1785,
+   "Composite-FFL": 1344,
+   "other(TF->Gene)": 23,
+   "TF-FFL": 9,
+   "miRNA-FFL": 257,
+   "other(miRNA->Gene)": 50,
+   "other(miRNA->miRNA)": 249,
+   "other(Gene->TF)": 8
+  }
+ },
+ {
+  "variant": "V2_TT+GGdir+mm_asis",
+  "n_edges": 7943,
+  "n_edges_reduced": 6720,
+  "recip": 1223,
+  "ffl3": 9279,
+  "ordered_cores_full": 17372,
+  "ordered_cores_reduced": 10634,
+  "classes": {
+   "other(TF->TF)": 1785,
+   "Composite-FFL": 2298,
+   "other(TF->Gene)": 23,
+   "TF-FFL": 30,
+   "miRNA-FFL": 319,
+   "other(miRNA->Gene)": 50,
+   "other(miRNA->miRNA)": 4766,
+   "other(Gene->TF)": 8
+  }
+ },
+ {
+  "variant": "V3_TT+GGdir+mm_both",
+  "n_edges": 8421,
+  "n_edges_reduced": 7198,
+  "recip": 1223,
+  "ffl3": 3636,
+  "ordered_cores_full": 38503,
+  "ordered_cores_reduced": 29666,
+  "classes": {
+   "other(TF->TF)": 1785,
+   "Composite-FFL": 1334,
+   "other(TF->Gene)": 23,
+   "TF-FFL": 9,
+   "miRNA-FFL": 253,
+   "other(miRNA->Gene)": 50,
+   "other(miRNA->miRNA)": 174,
+   "other(Gene->TF)": 8
+  }
+ },
+ {
+  "variant": "V4_all+STRINGasis",
+  "n_edges": 8776,
+  "n_edges_reduced": 7553,
+  "recip": 1223,
+  "ffl3": 11680,
+  "ordered_cores_full": 25627,
+  "ordered_cores_reduced": 16452,
+  "classes": {
+   "other(TF->TF)": 3603,
+   "Composite-FFL": 2367,
+   "other(TF->Gene)": 158,
+   "other(Gene->Gene)": 65,
+   "TF-FFL": 30,
+   "miRNA-FFL": 357,
+   "other(miRNA->Gene)": 294,
+   "other(miRNA->miRNA)": 4766,
+   "other(Gene->TF)": 40
+  }
+ },
+ {
+  "variant": "V5_all+STRINGboth",
+  "n_edges": 9582,
+  "n_edges_reduced": 8359,
+  "recip": 1223,
+  "ffl3": 8189,
+  "ordered_cores_full": 39198,
+  "ordered_cores_reduced": 27620,
+  "classes": {
+   "Composite-FFL": 2217,
+   "other(TF->TF)": 826,
+   "TF-FFL": 30,
+   "other(TF->Gene)": 13,
+   "miRNA-FFL": 287,
+   "other(miRNA->miRNA)": 4766,
+   "other(miRNA->Gene)": 44,
+   "other(Gene->TF)": 6
+  }
+ },
+ {
+  "variant": "V6_all_both",
+  "n_edges": 10060,
+  "n_edges_reduced": 8837,
+  "recip": 1223,
+  "ffl3": 2546,
+  "ordered_cores_full": 60329,
+  "ordered_cores_reduced": 46652,
+  "classes": {
+   "Composite-FFL": 1253,
+   "other(TF->TF)": 826,
+   "TF-FFL": 9,
+   "other(TF->Gene)": 13,
+   "miRNA-FFL": 221,
+   "other(miRNA->miRNA)": 174,
+   "other(miRNA->Gene)": 44,
+   "other(Gene->TF)": 6
+  }
+ },
+ {
+  "variant": "V7_TTonly",
+  "n_edges": 7463,
+  "n_edges_reduced": 6240,
+  "recip": 1223,
+  "ffl3": 3725,
+  "ordered_cores_full": 9530,
+  "ordered_cores_reduced": 4903,
+  "classes": {
+   "other(TF->TF)": 1785,
+   "Composite-FFL": 1344,
+   "other(TF->Gene)": 23,
+   "TF-FFL": 9,
+   "miRNA-FFL": 257,
+   "other(miRNA->Gene)": 50,
+   "other(miRNA->miRNA)": 249,
+   "other(Gene->TF)": 8
+  }
+ },
+ {
+  "variant": "V8_mm_asis_only",
+  "n_edges": 7339,
+  "n_edges_reduced": 6116,
+  "recip": 1223,
+  "ffl3": 7621,
+  "ordered_cores_full": 11573,
+  "ordered_cores_reduced": 7798,
+  "classes": {
+   "Composite-FFL": 2288,
+   "other(TF->TF)": 261,
+   "TF-FFL": 30,
+   "miRNA-FFL": 270,
+   "other(miRNA->Gene)": 6,
+   "other(miRNA->miRNA)": 4766
+  }
+ }
+]

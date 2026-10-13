@@ -1,0 +1,150 @@
+analysis,item,value,detail,evidence_class
+network_membership,NFE2L2_in_network,0,"",TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+network_membership,KEAP1_in_network,0,"",TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+network_membership,reactome_KEAP1_NFE2L2_size,113,"",TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+network_membership,network_genes_in_reactome_set,14,ATF4|BCL2L1|BRCA1|CCL2|CREBBP|EP300|ME1|MYC|NFKB1|NOTCH1|RELA|SP1|SQSTM1|UBB,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+network_membership,canonical_NRF2_targets_in_network,2,ME1|SQSTM1,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+network_membership,MS_module_genes_in_reactome_set,3,NFKB1|RELA|SP1,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,0.0918508858805106,p=0.000566 FDR=0.000754,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,REACTOME_KEAP1_NFE2L2_PATHWAY,0.245136902153905,p=3.73e-22 FDR=1.49e-21,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,0.263261945967124,p=2.57e-21 FDR=6.84e-21,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.0168779138951132,p=0.607 FDR=0.607,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,WP_NRF2_PATHWAY,-0.114615897040311,p=2.16e-13 FDR=4.32e-13,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,SINGH_NFE2L2_TARGETS,0.233630125919588,p=1.57e-12 FDR=2.51e-12,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,WP_OXIDATIVE_STRESS_RESPONSE,-0.351495671976112,p=7.96e-39 FDR=6.37e-38,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_tumour_vs_normal,NFE2L2_CORE_TARGETS_curated_here,-0.0762087871139932,p=0.0172 FDR=0.0197,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.158561410926306,n=1065 FDR=7.19e-07,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.0242404163303113,n=1065 FDR=0.477,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.0722152506229239,n=1065 FDR=0.0263,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.128406570557938,n=1065 FDR=6.02e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::WP_NRF2_PATHWAY,-0.0999020289407026,n=1065 FDR=0.00199,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::SINGH_NFE2L2_TARGETS,-0.0607256852063303,n=1065 FDR=0.0604,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::WP_OXIDATIVE_STRESS_RESPONSE,0.124599597188145,n=1065 FDR=9.34e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_module::NFE2L2_CORE_TARGETS_curated_here,-0.0646016615144605,n=1065 FDR=0.0467,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.233945829613804,n=1065 FDR=6.99e-14,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.0830882401151254,n=1065 FDR=0.0101,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.14026439668921,n=1065 FDR=1.14e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.120936172977432,n=1065 FDR=0.000152,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::WP_NRF2_PATHWAY,-0.140165432210127,n=1065 FDR=1.14e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::SINGH_NFE2L2_TARGETS,-0.114148701828826,n=1065 FDR=0.00036,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::WP_OXIDATIVE_STRESS_RESPONSE,0.148120231212495,n=1065 FDR=3.71e-06,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_TFs::NFE2L2_CORE_TARGETS_curated_here,-0.131172797623104,n=1065 FDR=4.12e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.0952814421654208,n=1065 FDR=0.00302,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.178692466308974,n=1065 FDR=1.91e-08,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.191212561018639,n=1065 FDR=1.49e-09,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,-0.087424072613425,n=1065 FDR=0.00662,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::WP_NRF2_PATHWAY,0.158178838960961,n=1065 FDR=7.37e-07,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::SINGH_NFE2L2_TARGETS,-0.127252085815279,n=1065 FDR=6.92e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::WP_OXIDATIVE_STRESS_RESPONSE,0.0982765730920671,n=1065 FDR=0.00225,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_collagens::NFE2L2_CORE_TARGETS_curated_here,-0.0146053176620034,n=1065 FDR=0.685,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.0117777366281226,n=1065 FDR=0.748,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::REACTOME_KEAP1_NFE2L2_PATHWAY,0.117899338362554,n=1065 FDR=0.000224,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,0.0966854946207312,n=1065 FDR=0.00264,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.1451196862224,n=1065 FDR=5.66e-06,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::WP_NRF2_PATHWAY,-0.140839656284701,n=1065 FDR=1.09e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::SINGH_NFE2L2_TARGETS,0.0554517288385194,n=1065 FDR=0.0867,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::WP_OXIDATIVE_STRESS_RESPONSE,0.0287327698788763,n=1065 FDR=0.399,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,MS_exemplar_miRNAs::NFE2L2_CORE_TARGETS_curated_here,0.0029262669926938,n=1065 FDR=0.924,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,0.147737923542042,n=1065 FDR=3.8e-06,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::REACTOME_KEAP1_NFE2L2_PATHWAY,0.0988278242576819,n=1065 FDR=0.00221,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,0.0949910880310996,n=1065 FDR=0.00306,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.213563537838068,n=1065 FDR=1.16e-11,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::WP_NRF2_PATHWAY,0.301553003217289,n=1065 FDR=1.27e-22,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::SINGH_NFE2L2_TARGETS,0.125906480653448,n=1065 FDR=8.18e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::WP_OXIDATIVE_STRESS_RESPONSE,0.268274046371644,n=1065 FDR=5.17e-18,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_3node::NFE2L2_CORE_TARGETS_curated_here,0.125086541764659,n=1065 FDR=8.95e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.0525318396008519,n=1065 FDR=0.105,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.205207844281051,n=1065 FDR=7.83e-11,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.195063011623608,n=1065 FDR=7.12e-10,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,-0.0407129356567965,n=1065 FDR=0.217,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::WP_NRF2_PATHWAY,0.267061418575639,n=1065 FDR=6.7e-18,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::SINGH_NFE2L2_TARGETS,-0.163501995482324,n=1065 FDR=3.23e-07,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::WP_OXIDATIVE_STRESS_RESPONSE,0.244431276113281,n=1065 FDR=4.32e-15,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_higher_order_only::NFE2L2_CORE_TARGETS_curated_here,0.00689438298597748,n=1065 FDR=0.843,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,0.0937728772158973,n=1065 FDR=0.00343,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::REACTOME_KEAP1_NFE2L2_PATHWAY,0.00900390990159382,n=1065 FDR=0.81,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,0.00799366158439727,n=1065 FDR=0.825,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.153592285419836,n=1065 FDR=1.58e-06,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::WP_NRF2_PATHWAY,0.321793871752287,n=1065 FDR=8.83e-26,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::SINGH_NFE2L2_TARGETS,0.0452153823503875,n=1065 FDR=0.168,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::WP_OXIDATIVE_STRESS_RESPONSE,0.285708931181639,n=1065 FDR=2.14e-20,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_all::NFE2L2_CORE_TARGETS_curated_here,0.0985328481206186,n=1065 FDR=0.00223,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,0.109173317777704,n=1065 FDR=0.000666,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.0801409523597594,n=1065 FDR=0.0132,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.0614768198407389,n=1065 FDR=0.0579,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,0.00404775845752902,n=1065 FDR=0.906,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::WP_NRF2_PATHWAY,0.405196469624501,n=1065 FDR=1.92e-41,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::SINGH_NFE2L2_TARGETS,-0.0567761560972431,n=1065 FDR=0.08,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::WP_OXIDATIVE_STRESS_RESPONSE,0.296363278913135,n=1065 FDR=6.57e-22,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_4node_added::NFE2L2_CORE_TARGETS_curated_here,0.137904269698372,n=1065 FDR=1.57e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.0249759046030901,n=1065 FDR=0.468,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.0672034974734354,n=1065 FDR=0.039,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.0628362452785241,n=1065 FDR=0.0529,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,-0.0231833481385995,n=1065 FDR=0.493,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::WP_NRF2_PATHWAY,0.167737838107941,n=1065 FDR=1.54e-07,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::SINGH_NFE2L2_TARGETS,-0.0757347779776317,n=1065 FDR=0.0195,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::WP_OXIDATIVE_STRESS_RESPONSE,0.135288853690922,n=1065 FDR=2.28e-05,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_5node_added::NFE2L2_CORE_TARGETS_curated_here,0.03396971142546,n=1065 FDR=0.311,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,-0.194860989775922,n=1065 FDR=7.12e-10,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::REACTOME_KEAP1_NFE2L2_PATHWAY,-0.346920120505794,n=1065 FDR=7.03e-30,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2,-0.344963272277091,n=1065 FDR=1.07e-29,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::REACTOME_NFE2L2_REGULATING_ANTI_OXIDANT_DETOXIFICATION_ENZYMES,-0.0696713111690783,n=1065 FDR=0.0323,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::WP_NRF2_PATHWAY,0.0664804666847734,n=1065 FDR=0.0407,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::SINGH_NFE2L2_TARGETS,-0.251092414067698,n=1065 FDR=7.14e-16,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::WP_OXIDATIVE_STRESS_RESPONSE,0.148351558943868,n=1065 FDR=3.71e-06,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_score,FFL_6node_added::NFE2L2_CORE_TARGETS_curated_here,-0.162210976931004,n=1065 FDR=3.89e-07,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_RANDOM_SIGNATURE_NULL,MS_exemplar_module,-0.09081431414596,null_mean=-0.092 null_sd=0.128 emp_p=0.577,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_RANDOM_SIGNATURE_NULL,FFL_higher_order_only,0.161887529382874,null_mean=0.191 null_sd=0.146 emp_p=0.601,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+NRF2_score_vs_module_RANDOM_SIGNATURE_NULL,FFL_3node,0.192814207253991,null_mean=0.086 null_sd=0.144 emp_p=0.278,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+KEAP1_NFE2L2_mutation_BRCA_vs_lung,KEAP1_BRCA_vs_LUAD,0.00573230770663797,BRCA 1/791 vs LUAD 93/513 Fisher p=5.12e-39,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+KEAP1_NFE2L2_mutation_BRCA_vs_lung,KEAP1_BRCA_vs_LUSC,0.010452026119946,BRCA 1/791 vs LUSC 52/480 Fisher p=5.81e-22,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+KEAP1_NFE2L2_mutation_BRCA_vs_lung,NFE2L2_BRCA_vs_LUAD,0.195722985877613,BRCA 4/791 vs LUAD 13/513 Fisher p=0.00218,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+KEAP1_NFE2L2_mutation_BRCA_vs_lung,NFE2L2_BRCA_vs_LUSC,0.0293433685498173,BRCA 4/791 vs LUSC 71/480 Fisher p=6.98e-27,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::BRCA,0.00126422250316056,1/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::BRCA,0.00505689001264223,4/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::BRCA,0.00632111251580278,5/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::BRCA,0.333754740834387,264/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::BRCA,0.345132743362832,273/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::LUAD,0.181286549707602,93/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::LUAD,0.0253411306042885,13/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::LUAD,0.0214424951267057,11/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::LUAD,0.504873294346979,259/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::LUAD,0.0526315789473684,27/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::LUSC,0.108333333333333,52/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::LUSC,0.147916666666667,71/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::LUSC,0.0520833333333333,25/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::LUSC,0.835416666666667,401/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::LUSC,0.116666666666667,56/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::HNSC,0.0414201183431953,21/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::HNSC,0.0552268244575937,28/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::HNSC,0.0315581854043393,16/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::HNSC,0.70414201183432,357/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::HNSC,0.181459566074951,92/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::ESCA,0.0271739130434783,5/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::ESCA,0.0978260869565217,18/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::ESCA,0.0108695652173913,2/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::ESCA,0.858695652173913,158/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::ESCA,0.0923913043478261,17/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::UCEC,0.0447427293064877,20/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::UCEC,0.0671140939597315,30/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::UCEC,0.0850111856823266,38/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::UCEC,0.398210290827741,178/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::UCEC,0.492170022371365,220/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::OV,0,0/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::OV,0,0/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::OV,0,0/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::OV,0.876923076923077,57/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::OV,0,0/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,KEAP1::LIHC,0.0495867768595041,18/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,NFE2L2::LIHC,0.0275482093663912,10/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,CUL3::LIHC,0,0/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,TP53::LIHC,0.300275482093664,109/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+mutation_frequency_MC3,PIK3CA::LIHC,0.0330578512396694,12/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,BRCA,0.0126422250316056,10/791,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,LUAD,0.222222222222222,114/513,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,LUSC,0.291666666666667,140/480,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,HNSC,0.118343195266272,60/507,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,ESCA,0.130434782608696,24/184,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,UCEC,0.156599552572707,70/447,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,OV,0,0/65,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation
+any_KEAP1_NFE2L2_CUL3_mutation,LIHC,0.0771349862258953,28/363,TCGA-BRCA expression (GSVA inference) + MC3 somatic mutation

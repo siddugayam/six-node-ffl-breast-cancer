@@ -1,0 +1,2 @@
+method,ok,n_features,n_samples,note
+IDECONV_QUANTISEQ,TRUE,11,1097,"immunedeconv wrapper, quanTIseq (cross-implementation control)"

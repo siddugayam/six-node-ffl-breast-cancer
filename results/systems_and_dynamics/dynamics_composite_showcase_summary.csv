@@ -1,0 +1,8 @@
+panel,topology,param_set,has_reciprocal_arm,max_relative_gap_between_branches,note
+A_hysteresis,COMP_C2_AND,1863,True,0.0009246363827810318,same parameter vector in every row
+A_hysteresis,C2_MIR_AND,1863,False,0.0009756414280444574,same parameter vector in every row
+A_hysteresis,C1_TXN_AND,1863,False,1.048278955973398e-06,same parameter vector in every row
+B_ringing,COMP_I1_AND,2482,True,,|Im|/|Re| of the leading complex pair in COMP_I1_AND = 3.07; period = 2.2 tau
+B_ringing,I1_MIR_AND,2482,False,,|Im|/|Re| of the leading complex pair in COMP_I1_AND = 3.07; period = 2.2 tau
+B_ringing,I1_TXN_AND,2482,False,,|Im|/|Re| of the leading complex pair in COMP_I1_AND = 3.07; period = 2.2 tau
+B_ringing,CASCADE,2482,False,,|Im|/|Re| of the leading complex pair in COMP_I1_AND = 3.07; period = 2.2 tau

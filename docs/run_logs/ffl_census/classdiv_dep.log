@@ -1,0 +1,6 @@
+### DEPOSITED-ONLY graph, fine taxonomy (7 classes: ['Gene->Gene', 'TF->Gene', 'TF->TF', 'TF->miRNA', 'miRNA->Gene', 'miRNA->TF', 'miRNA->miRNA'])
+  n=3 [exhaustive              ] runs=1 est=2067  max_classes=3 modules_at_max=1493/2067 hist={1: 54, 2: 520, 3: 1493}
+  n=4 [exhaustive              ] runs=1 est=6.843e+04  max_classes=5 modules_at_max=61/68428 hist={1: 47, 2: 47154, 3: 17922, 4: 3244, 5: 61}
+  n=5 [exhaustive              ] runs=1 est=3.183e+05  max_classes=6 modules_at_max=46/318314 hist={1: 21, 2: 109013, 3: 119884, 4: 82811, 5: 6539, 6: 46}
+  n=6 [exhaustive/sampled mix  ] runs=1 est=3.34e+06  max_classes=6 modules_at_max=3719/3339861 hist={1: 4, 2: 444360, 3: 2064311, 4: 670828, 5: 156639, 6: 3719}
+  n=7 [RAND-ESU (lower bound)  ] runs=3 est=2.387e+07  max_classes=7 modules_at_max=11/580138 hist={2: 38779, 3: 317647, 4: 179408, 5: 42406, 6: 1887, 7: 11}

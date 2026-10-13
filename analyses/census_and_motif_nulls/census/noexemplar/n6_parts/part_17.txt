@@ -1,0 +1,119 @@
+K 6
+nparts 64
+part 17
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 71334
+visited 33761082
+rng_final 42
+comp 0 1 5 12
+comp 1 0 5 5
+comp 1 1 4 181
+comp 1 2 3 1239
+comp 1 3 2 2692
+comp 1 4 1 254
+comp 2 0 4 30
+comp 2 1 3 709
+comp 2 2 2 7554
+comp 2 3 1 5883
+comp 2 4 0 41
+comp 3 0 3 269
+comp 3 1 2 3907
+comp 3 2 1 16711
+comp 3 3 0 340
+comp 4 0 2 1478
+comp 4 1 1 12535
+comp 4 2 0 1810
+comp 5 0 1 4199
+comp 5 1 0 8324
+comp 6 0 0 3161
+mask 3 8
+mask 6 18
+mask 7 10
+mask 11 13
+mask 14 1418
+mask 15 1481
+mask 18 1
+mask 19 1
+mask 20 130
+mask 21 36
+mask 22 220
+mask 23 39
+mask 26 24
+mask 27 113
+mask 28 3069
+mask 29 634
+mask 30 3426
+mask 31 1078
+mask 32 959
+mask 33 1773
+mask 34 3703
+mask 35 2699
+mask 36 2620
+mask 37 165
+mask 38 4789
+mask 39 103
+mask 40 87
+mask 41 258
+mask 42 84
+mask 43 293
+mask 44 10572
+mask 45 7924
+mask 46 5823
+mask 47 6805
+mask 50 28
+mask 51 8
+mask 52 1740
+mask 53 218
+mask 54 2517
+mask 55 193
+mask 56 17
+mask 57 78
+mask 58 227
+mask 59 425
+mask 60 1416
+mask 61 1829
+mask 62 1560
+mask 63 702
+flags 0 47168
+flags 1 4115
+flags 2 1362
+flags 3 1029
+flags 4 9992
+flags 5 1520
+flags 6 718
+flags 7 753
+flags 8 2883
+flags 9 15
+flags 10 87
+flags 11 48
+flags 12 1113
+flags 13 20
+flags 14 39
+flags 15 5
+flags 24 267
+flags 25 11
+flags 26 11
+flags 27 10
+flags 28 130
+flags 30 10
+flags 31 28
+exflag 0 ATF3 CEBPB BCL2L1 HRK hsa-miR-143 hsa-miR-590
+exflag 0 ATF3 CEBPB BCL2L1 HRK hsa-miR-18a hsa-miR-590
+exflag 0 ATF3 CEBPB BCL2L1 HRK hsa-miR-19a hsa-miR-590
+exflag 1 ATF3 CEBPB BCL2L1 CTSV FOS hsa-miR-223
+exflag 1 ATF3 CEBPB BCL2L1 CTSV SMAD3 hsa-miR-140
+exflag 1 ATF3 CEBPB BCL2L1 FOS HRK hsa-miR-143
+exflag 2 ATF3 CEBPB ADM FOS SMAD4 hsa-miR-367
+exflag 2 ATF3 CEBPB ADM FOS SPI1 hsa-miR-92a
+exflag 2 ATF3 CEBPB ADM HDAC1 POU5F1 hsa-miR-367
+exflag 3 ATF3 CEBPB ADM RELA SMAD3 hsa-miR-92a | TF1=CEBPB TF2=RELA miRNA=hsa-miR-92a target=SMAD3
+exflag 3 ATF3 CEBPB ADM SMAD3 SP1 hsa-miR-92a | TF1=CEBPB TF2=SMAD3 miRNA=hsa-miR-92a target=SP1
+exflag 3 ATF3 CEBPB ADM SMAD3 STAT3 hsa-miR-92a | TF1=CEBPB TF2=SMAD3 miRNA=hsa-miR-92a target=STAT3
+exflag 4 ATF3 CEBPB CREB1 FOS FOSB hsa-miR-23a | TF1=CREB1 TF2=FOS miRNA=hsa-miR-23a target=FOSB
+exflag 4 ATF3 CEBPB FOS FAS RELA hsa-miR-23a | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=FAS
+exflag 4 ATF3 CEBPB FOS OXTR RELA hsa-miR-23a | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=OXTR
+exmask 63 ATF3 CEBPB CREB1 FOS PLAU hsa-miR-181c
+exmask 63 ATF3 CEBPB CREB1 FOS SMAD7 hsa-miR-181c
+exmask 63 ATF3 CEBPB FOS HDAC1 PLAU hsa-miR-181c

@@ -1,0 +1,80 @@
+K 6
+nparts 64
+part 56
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 85983
+visited 25917135
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 50
+comp 1 3 2 531
+comp 1 4 1 197
+comp 2 1 3 20
+comp 2 2 2 2557
+comp 2 3 1 34829
+comp 2 4 0 6
+comp 3 1 2 523
+comp 3 2 1 29713
+comp 3 3 0 2753
+comp 4 0 2 51
+comp 4 1 1 5886
+comp 4 2 0 4997
+comp 5 0 1 690
+comp 5 1 0 2824
+comp 6 0 0 355
+mask 2 355
+mask 3 741
+mask 6 2027
+mask 7 145
+mask 10 2
+mask 11 58
+mask 12 15
+mask 13 29
+mask 14 33426
+mask 15 14914
+mask 18 4
+mask 19 5
+mask 20 947
+mask 21 171
+mask 22 7602
+mask 23 1376
+mask 26 29
+mask 27 138
+mask 28 10649
+mask 29 1873
+mask 30 5759
+mask 31 5705
+mask 46 3
+mask 59 2
+mask 61 1
+mask 62 5
+mask 63 2
+flags 0 77438
+flags 1 1614
+flags 2 130
+flags 3 771
+flags 7 10
+flags 8 5704
+flags 9 41
+flags 10 17
+flags 11 121
+flags 24 137
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-124 HIC1
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-182 SMAD7
+exflag 0 CTNNB1 FST MYC hsa-miR-101 hsa-miR-30e MYBL2
+exflag 1 CTNNB1 JUN ATF3 MMP2 hsa-miR-124 NR4A1
+exflag 1 CTNNB1 JUN BCL2L1 MYC hsa-miR-130a STAT5A
+exflag 1 CTNNB1 JUN BCL2L1 MYC hsa-miR-141 STAT5A
+exflag 2 SREBF1 AR hsa-let-7a COL1A1 COL3A1 hsa-miR-29b
+exflag 2 SREBF1 AR hsa-let-7c COL1A1 COL3A1 hsa-miR-29b
+exflag 2 SREBF1 AR hsa-miR-133b COL1A1 COL3A1 hsa-miR-29b
+exflag 3 CTNNB1 JUN ATF3 EZH2 MYC hsa-miR-27a | TF1=EZH2 TF2=MYC miRNA=hsa-miR-27a target=ATF3
+exflag 3 CTNNB1 JUN ATF3 MMP2 MYC hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=ATF3
+exflag 3 CTNNB1 JUN ATF3 MMP2 MYC hsa-miR-93 | TF1=JUN TF2=MYC miRNA=hsa-miR-93 target=ATF3
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-200c | TF1=JUN TF2=MYC miRNA=hsa-miR-200c target=VEGFA
+exflag 4 CTNNB1 JUN BRCA1 MYC VEGFA hsa-miR-93 | TF1=JUN TF2=MYC miRNA=hsa-miR-93 target=VEGFA
+exmask 63 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-miR-143
+exmask 63 hsa-miR-335 COL3A1 IRF1 MYB COL1A1 hsa-miR-29b

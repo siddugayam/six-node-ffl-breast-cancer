@@ -1,0 +1,4 @@
+"distribution","n","n_tail","alpha","xmin","KS","bootstrap_p","nboot","scale_free_supported"
+"degree_total",587,147,3.45987146821696,33,0.0596533466336023,0.065,1000,FALSE
+"degree_out",381,77,4.55955218849311,32,0.0466968145130595,0.742,1000,TRUE
+"degree_in",582,37,4.73151688518094,37,0.0512738245320951,0.907,1000,TRUE

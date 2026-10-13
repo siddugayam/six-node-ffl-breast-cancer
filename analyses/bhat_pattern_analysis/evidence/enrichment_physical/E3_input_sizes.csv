@@ -1,0 +1,13 @@
+set,n_input_symbols,n_mapped_entrez
+3node_miRNA_FFL,211,208
+3node_TF_FFL,200,197
+3node_composite_FFL,200,197
+4node_miRNA_FFL,122,121
+4node_TF_FFL,117,116
+4node_composite_FFL,117,116
+5node_miRNA_FFL,96,96
+5node_TF_FFL,92,92
+5node_composite_FFL,92,92
+6node_miRNA_FFL,166,165
+6node_TF_FFL,161,160
+6node_composite_FFL,83,83

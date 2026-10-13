@@ -1,0 +1,48 @@
+K 6
+nparts 64
+part 1
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 1822
+visited 1401738
+rng_final 42
+comp 2 2 2 1
+comp 2 3 1 24
+comp 3 1 2 24
+comp 3 2 1 1187
+comp 4 0 2 2
+comp 4 1 1 473
+comp 4 2 0 73
+comp 5 0 1 20
+comp 5 1 0 18
+mask 3 22
+mask 6 3
+mask 14 568
+mask 15 899
+mask 21 1
+mask 22 88
+mask 23 28
+mask 27 7
+mask 28 5
+mask 29 16
+mask 30 15
+mask 31 141
+mask 79 21
+mask 93 2
+mask 94 6
+flags 0 1770
+flags 1 1
+flags 2 24
+flags 8 9
+flags 24 18
+exflag 0 GATA4 CCND2 hsa-miR-144 FOS hsa-miR-23a STAT5A
+exflag 1 GATA4 CCND2 HDAC9 ESR1 hsa-miR-106a IRF9
+exflag 1 GATA4 CCND2 HDAC9 ESR1 hsa-miR-17 IRF9
+exflag 1 GATA4 CCND2 HDAC9 ESR1 hsa-miR-20a IRF9
+exflag 3 GATA4 CCND2 HDAC9 NFKB1 FOXO3 hsa-let-7b | TF1=NFKB1 TF2=FOXO3 miRNA=hsa-let-7b target=CCND2
+exflag 3 GATA4 CCND2 HDAC9 NFKB1 RELA hsa-miR-150 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-150 target=CCND2
+exflag 3 GATA4 CCND2 HDAC9 NFKB1 RELA hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-17 target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 FOXO3 hsa-let-7b | TF1=NFKB1 TF2=FOXO3 miRNA=hsa-let-7b target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 RELA hsa-miR-150 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-150 target=CCND2
+exflag 4 GATA4 CCND2 HDAC9 NFKB1 RELA hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-17 target=CCND2

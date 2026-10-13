@@ -1,0 +1,96 @@
+resource,evidence_type,tf,perturbation,readout_gene,l1000_feature_space,n_units,effect,effect_units,percentile,p_value,q_value,direction,supports_TF_activates_collagen,detail
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,CRISPR Knockout,COL1A1,landmark,44,-0.002443,median CD coefficient across signatures,0.352,0.283,0.425,down (negative CD),TRUE,"44 signatures, 19 cell lines; frac up = 0.409"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,Overexpression,COL1A1,landmark,12,0.0001202,median CD coefficient across signatures,0.502,0.85,0.85,up (positive CD),TRUE,"12 signatures, 4 cell lines; frac up = 0.5"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,shRNA,COL1A1,landmark,41,0.0009254,median CD coefficient across signatures,0.552,0.382,0.466,up (positive CD),FALSE,"41 signatures, 11 cell lines; frac up = 0.61"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,CRISPR Knockout,COL1A1,landmark,20,0.001825,median CD coefficient across signatures,0.59,0.522,0.587,up (positive CD),FALSE,"20 signatures, 10 cell lines; frac up = 0.55"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,Overexpression,COL1A1,landmark,25,-0.0007737,median CD coefficient across signatures,0.45,0.21,0.344,down (negative CD),FALSE,"25 signatures, 13 cell lines; frac up = 0.48"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,shRNA,COL1A1,landmark,75,0.00169,median CD coefficient across signatures,0.611,0.00649,0.0584,up (positive CD),FALSE,"75 signatures, 12 cell lines; frac up = 0.667"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,CRISPR Knockout,COL1A1,landmark,66,0.001843,median CD coefficient across signatures,0.616,0.079,0.284,up (positive CD),FALSE,"66 signatures, 19 cell lines; frac up = 0.591"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,Overexpression,COL1A1,landmark,22,0.001264,median CD coefficient across signatures,0.591,0.113,0.325,up (positive CD),TRUE,"22 signatures, 9 cell lines; frac up = 0.636"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,shRNA,COL1A1,landmark,38,0.00312,median CD coefficient across signatures,0.685,0.00194,0.0348,up (positive CD),FALSE,"38 signatures, 10 cell lines; frac up = 0.789"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,CRISPR Knockout,COL3A1,best inferred,44,0.002053,median CD coefficient across signatures,0.641,0.144,0.325,up (positive CD),FALSE,"44 signatures, 19 cell lines; frac up = 0.523"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,Overexpression,COL3A1,best inferred,12,0.004897,median CD coefficient across signatures,0.768,0.204,0.344,up (positive CD),TRUE,"12 signatures, 4 cell lines; frac up = 0.75"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),ETS1,shRNA,COL3A1,best inferred,41,-0.003224,median CD coefficient across signatures,0.306,0.0109,0.0652,down (negative CD),TRUE,"41 signatures, 11 cell lines; frac up = 0.341"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,CRISPR Knockout,COL3A1,best inferred,20,-0.0004056,median CD coefficient across signatures,0.481,0.784,0.83,down (negative CD),TRUE,"20 signatures, 10 cell lines; frac up = 0.5"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,Overexpression,COL3A1,best inferred,25,-0.004672,median CD coefficient across signatures,0.247,0.339,0.466,down (negative CD),FALSE,"25 signatures, 13 cell lines; frac up = 0.36"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),NFKB1,shRNA,COL3A1,best inferred,75,0.001363,median CD coefficient across signatures,0.583,0.144,0.325,up (positive CD),FALSE,"75 signatures, 12 cell lines; frac up = 0.627"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,CRISPR Knockout,COL3A1,best inferred,66,0.005029,median CD coefficient across signatures,0.765,0.0345,0.155,up (positive CD),FALSE,"66 signatures, 19 cell lines; frac up = 0.591"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,Overexpression,COL3A1,best inferred,22,0.005564,median CD coefficient across signatures,0.79,0.187,0.344,up (positive CD),TRUE,"22 signatures, 9 cell lines; frac up = 0.682"
+"LINCS L1000 (SigCom LINCS, 2021 CD-coefficient signatures)",perturbation transcriptomics (L1000 CD coefficients),RELA,shRNA,COL3A1,best inferred,38,0.0004645,median CD coefficient across signatures,0.532,0.388,0.466,up (positive CD),FALSE,"38 signatures, 10 cell lines; frac up = 0.553"
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),NFKB1,CRISPR Knockout,COL1A1,landmark,1,0.001895,consensus signature value,0.801,,,up (positive),FALSE,LINCS_L1000_CRISPRKO_NFKB1_mean_sig
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),NFKB1,CRISPR Knockout,COL3A1,best inferred,1,0.001047,consensus signature value,0.676,,,up (positive),FALSE,LINCS_L1000_CRISPRKO_NFKB1_mean_sig
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),RELA,CRISPR Knockout,COL1A1,landmark,1,0.002249,consensus signature value,0.933,,,up (positive),FALSE,LINCS_L1000_CRISPRKO_RELA_mean_sig
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),RELA,CRISPR Knockout,COL3A1,best inferred,1,0.004179,consensus signature value,0.986,,,up (positive),FALSE,LINCS_L1000_CRISPRKO_RELA_mean_sig
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),ETS1,CRISPR Knockout,COL1A1,landmark,1,-0.001269,consensus signature value,0.173,,,down (negative),TRUE,LINCS_L1000_CRISPRKO_ETS1_mean_sig
+LINCS L1000 CRISPR-KO consensus (SigCom LINCS mean signature),perturbation transcriptomics (consensus signature),ETS1,CRISPR Knockout,COL3A1,best inferred,1,0.003936,consensus signature value,0.983,,,up (positive),FALSE,LINCS_L1000_CRISPRKO_ETS1_mean_sig
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),ETS1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),NFKB1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),RELA,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),SP1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ChEA_2022,TF ChIP-seq target set,ETS1,"",COL1A1,landmark,3,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ChEA_2022,TF ChIP-seq target set,NFKB1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ChEA_2022,TF ChIP-seq target set,RELA,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,ETS1,"",COL1A1,landmark,5,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,RELA,"",COL1A1,landmark,10,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,SP1,"",COL1A1,landmark,5,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,ETS1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,RELA,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,SP1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,ETS1,"",COL1A1,landmark,1,1,number of gene sets containing the readout gene,,,,"",,ETS1
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,NFKB1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,RELA,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,SP1,"",COL1A1,landmark,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,ETS1,"",COL1A1,landmark,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,NFKB1,"",COL1A1,landmark,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,RELA,"",COL1A1,landmark,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,ETS1,"",COL1A1,landmark,4,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,NFKB1,"",COL1A1,landmark,16,1,number of gene sets containing the readout gene,,,,"",,NFKB1 ACTIVATION HUMAN GSE20736 CREEDSID GENE 2522 UP
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,RELA,"",COL1A1,landmark,6,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,SP1,"",COL1A1,landmark,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TRRUST_Transcription_Factors_2019,curated literature TF-target,ETS1,"",COL1A1,landmark,2,1,number of gene sets containing the readout gene,,,,"",,ETS1 human
+TRRUST_Transcription_Factors_2019,curated literature TF-target,NFKB1,"",COL1A1,landmark,2,2,number of gene sets containing the readout gene,,,,"",,NFKB1 human ; NFKB1 mouse
+TRRUST_Transcription_Factors_2019,curated literature TF-target,RELA,"",COL1A1,landmark,2,2,number of gene sets containing the readout gene,,,,"",,RELA human ; RELA mouse
+TRRUST_Transcription_Factors_2019,curated literature TF-target,SP1,"",COL1A1,landmark,2,2,number of gene sets containing the readout gene,,,,"",,SP1 human ; SP1 mouse
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),ETS1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),NFKB1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),RELA,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ARCHS4_TFs_Coexp,bulk RNA-seq co-expression (ARCHS4),SP1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ChEA_2022,TF ChIP-seq target set,ETS1,"",COL3A1,best inferred,3,1,number of gene sets containing the readout gene,,,,"",,ETS1 22383799 ChIP-Seq G1ME Mouse
+ChEA_2022,TF ChIP-seq target set,NFKB1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ChEA_2022,TF ChIP-seq target set,RELA,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,ETS1,"",COL3A1,best inferred,5,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,RELA,"",COL3A1,best inferred,10,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_TF_ChIP-seq_2015,TF ChIP-seq target set,SP1,"",COL3A1,best inferred,5,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,ETS1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,RELA,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,TF ChIP-seq target set,SP1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,ETS1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,NFKB1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,RELA,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+Enrichr_Submissions_TF-Gene_Coocurrence,text co-occurrence,SP1,"",COL3A1,best inferred,1,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,ETS1,"",COL3A1,best inferred,2,1,number of gene sets containing the readout gene,,,,"",,ETS1 Up
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,NFKB1,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,LINCS CRISPR-KO consensus up/down set,RELA,"",COL3A1,best inferred,2,1,number of gene sets containing the readout gene,,,,"",,RELA Up
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,ETS1,"",COL3A1,best inferred,4,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,NFKB1,"",COL3A1,best inferred,16,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,RELA,"",COL3A1,best inferred,6,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TF_Perturbations_Followed_by_Expression,GEO TF perturbation signature,SP1,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TRRUST_Transcription_Factors_2019,curated literature TF-target,ETS1,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TRRUST_Transcription_Factors_2019,curated literature TF-target,NFKB1,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TRRUST_Transcription_Factors_2019,curated literature TF-target,RELA,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+TRRUST_Transcription_Factors_2019,curated literature TF-target,SP1,"",COL3A1,best inferred,2,0,number of gene sets containing the readout gene,,,,"",,gene absent from all sets
+"TRRUST v2 (raw, human)",curated literature TF-target,ETS1,"",COL1A1,landmark,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 16564026
+"TRRUST v2 (raw, human)",curated literature TF-target,NFKB1,"",COL1A1,landmark,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 11277268
+"TRRUST v2 (raw, human)",curated literature TF-target,NFKB1,"",COL1A2,,1,,mode of regulation: Repression,,,,Repression,FALSE,PMIDs: 10201951
+"TRRUST v2 (raw, human)",curated literature TF-target,NFKB1,"",COL2A1,,1,,mode of regulation: Repression,,,,Repression,FALSE,PMIDs: 19022820
+"TRRUST v2 (raw, human)",curated literature TF-target,NFKB1,"",COL7A1,,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 10086338
+"TRRUST v2 (raw, human)",curated literature TF-target,RELA,"",COL1A1,landmark,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 11277268
+"TRRUST v2 (raw, human)",curated literature TF-target,RELA,"",COL1A2,,1,,mode of regulation: Repression,,,,Repression,FALSE,PMIDs: 10201951
+"TRRUST v2 (raw, human)",curated literature TF-target,RELA,"",COL2A1,,1,,mode of regulation: Repression,,,,Repression,FALSE,PMIDs: 19022820
+"TRRUST v2 (raw, human)",curated literature TF-target,RELA,"",COL7A1,,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 10086338
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL11A2,,1,,mode of regulation: Activation,,,,Activation,TRUE,PMIDs: 16734381
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL18A1,,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 11093745
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL1A1,landmark,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 10082137;10091149;10775443;12138160;16564026;7504695;7590335
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL2A1,,1,,mode of regulation: Activation,,,,Activation,TRUE,PMIDs: 12888570;18065760
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL2A1,,1,,mode of regulation: Repression,,,,Repression,FALSE,PMIDs: 12888570
+"TRRUST v2 (raw, human)",curated literature TF-target,SP1,"",COL7A1,,1,,mode of regulation: Unknown,,,,Unknown,FALSE,PMIDs: 10980546;9092567

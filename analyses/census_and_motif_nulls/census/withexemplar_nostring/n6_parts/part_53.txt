@@ -1,0 +1,71 @@
+K 6
+nparts 64
+part 53
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 32243
+visited 16737551
+rng_final 42
+comp 1 2 3 1
+comp 1 3 2 11
+comp 1 4 1 15
+comp 2 1 3 21
+comp 2 2 2 647
+comp 2 3 1 1963
+comp 3 0 3 6
+comp 3 1 2 910
+comp 3 2 1 12178
+comp 3 3 0 170
+comp 4 0 2 292
+comp 4 1 1 6123
+comp 4 2 0 3103
+comp 5 0 1 1148
+comp 5 1 0 5024
+comp 6 0 0 631
+mask 2 631
+mask 3 1446
+mask 6 3245
+mask 7 437
+mask 14 10501
+mask 15 7289
+mask 19 2
+mask 20 8
+mask 21 5
+mask 22 4875
+mask 23 733
+mask 27 33
+mask 28 440
+mask 29 168
+mask 30 1129
+mask 31 889
+mask 70 110
+mask 71 6
+mask 78 92
+mask 79 110
+mask 86 59
+mask 87 7
+mask 92 13
+mask 93 13
+mask 94 1
+mask 95 1
+flags 0 30286
+flags 1 364
+flags 2 243
+flags 3 283
+flags 8 1016
+flags 10 1
+flags 24 50
+exflag 0 CREBBP BRCA1 hsa-miR-152 MET hsa-miR-21 SMAD7
+exflag 0 CREBBP CREB1 hsa-miR-148a MET hsa-miR-21 SMAD7
+exflag 0 CREBBP CREB1 hsa-miR-15b SKIL SMAD7 hsa-miR-21
+exflag 1 CREBBP BRCA1 CREB1 IRF9 CCND2 hsa-miR-15b
+exflag 1 CREBBP BRCA1 CREB1 IRF9 CCND2 hsa-miR-302a
+exflag 1 CREBBP BRCA1 CREB1 IRF9 CCND2 hsa-miR-320a
+exflag 3 CREBBP BRCA1 CREB1 AR EGR1 hsa-miR-21 | TF1=CREBBP TF2=CREB1 miRNA=hsa-miR-21 target=AR
+exflag 3 CREBBP BRCA1 CREB1 AR FOS hsa-miR-21 | TF1=CREBBP TF2=CREB1 miRNA=hsa-miR-21 target=AR
+exflag 3 CREBBP BRCA1 CREB1 AR HIF1A hsa-miR-21 | TF1=CREBBP TF2=CREB1 miRNA=hsa-miR-21 target=AR
+exflag 4 CREBBP BRCA1 CREB1 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 CREBBP BRCA1 EZH2 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 CREBBP BRCA1 FOS IRF1 STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exmask 95 CREBBP CREB1 IRF1 MMP2 hsa-miR-29b hsa-miR-335

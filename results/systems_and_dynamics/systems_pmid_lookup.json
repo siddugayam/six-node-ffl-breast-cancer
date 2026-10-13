@@ -1,0 +1,101 @@
+{
+ "Maayan2005": [
+  "16099987",
+  "Ma'ayan A",
+  "Science",
+  "2005",
+  "309",
+  "1078-83",
+  "Formation of regulatory patterns during signal propagation in a Mammalian cellular network."
+ ],
+ "Bhalla1999": [
+  "9888852",
+  "Bhalla US",
+  "Science",
+  "1999",
+  "283",
+  "381-7",
+  "Emergent properties of networks of biological signaling pathways."
+ ],
+ "Berger2009": [
+  "19648136",
+  "Berger SI",
+  "Bioinformatics",
+  "2009",
+  "25",
+  "2466-72",
+  "Network analyses in systems pharmacology."
+ ],
+ "Azeloglu2015": [
+  "25833842",
+  "Azeloglu EU",
+  "Cold Spring Harb Perspect Biol",
+  "2015",
+  "7",
+  "a005934",
+  "Signaling networks: information flow, computation, and decision making."
+ ],
+ "Liu2011": [
+  "21562557",
+  "Liu YY",
+  "Nature",
+  "2011",
+  "473",
+  "167-73",
+  "Controllability of complex networks."
+ ],
+ "Vinayagam2016": [
+  "27091990",
+  "Vinayagam A",
+  "Proc Natl Acad Sci U S A",
+  "2016",
+  "113",
+  "4976-81",
+  "Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets."
+ ],
+ "Jia2013": [
+  "23774965",
+  "Jia T",
+  "Nat Commun",
+  "2013",
+  "4",
+  "2002",
+  "Emergence of bimodality in controlling complex networks."
+ ],
+ "Broido2019": [
+  "30833554",
+  "Broido AD",
+  "Nat Commun",
+  "2019",
+  "10",
+  "1017",
+  "Scale-free networks are rare."
+ ],
+ "MacKay2020": [
+  "33047061",
+  "MacKay RS",
+  "R Soc Open Sci",
+  "2020",
+  "7",
+  "201138",
+  "How directed is a directed network?"
+ ],
+ "Mangan2003": [
+  "14530388",
+  "Mangan S",
+  "Proc Natl Acad Sci U S A",
+  "2003",
+  "100",
+  "11980-5",
+  "Structure and function of the feed-forward loop network motif."
+ ],
+ "Freshour2021": [
+  "33237278",
+  "Freshour SL",
+  "Nucleic Acids Res",
+  "2021",
+  "49",
+  "D1144-D1151",
+  "Integration of the Drug-Gene Interaction Database (DGIdb 4.0) with open crowdsource efforts."
+ ]
+}

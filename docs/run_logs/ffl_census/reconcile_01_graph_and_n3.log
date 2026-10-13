@@ -1,0 +1,11 @@
+=== AUGMENTED (extra_layers=True) — the graph 03_ffl_census.py actually uses ===
+[augmented] nodes=587 edges_after_contraction=8031 reciprocal_contracted=1223
+[augmented] edge_type counts: {'TF_target': 1374, 'TF_miRNA': 1239, 'gene_gene': 834, 'miRNA_target': 3596, 'miRNA_miRNA': 988}
+[augmented] (source_type,target_type) counts: {('TF', 'TF'): 1194, ('TF', 'Gene'): 730, ('TF', 'miRNA'): 1239, ('Gene', 'Gene'): 173, ('miRNA', 'Gene'): 3266, ('miRNA', 'TF'): 330, ('miRNA', 'miRNA'): 988, ('Gene', 'TF'): 111}
+[augmented] connected 3-subgraphs enumerated=266581  n=3 FFLs=6037  distinct=6037
+
+=== DEPOSITED ONLY (extra_layers=False) ===
+[deposited] nodes=587 edges_after_contraction=5636 reciprocal_contracted=1223
+[deposited] edge_type counts: {'TF_target': 770, 'TF_miRNA': 1239, 'gene_gene': 1, 'miRNA_target': 3596, 'miRNA_miRNA': 30}
+[deposited] (source_type,target_type) counts: {('TF', 'TF'): 89, ('TF', 'Gene'): 681, ('TF', 'miRNA'): 1239, ('Gene', 'Gene'): 1, ('miRNA', 'Gene'): 3266, ('miRNA', 'TF'): 330, ('miRNA', 'miRNA'): 30}
+[deposited] connected 3-subgraphs enumerated=173828  n=3 FFLs=2067  distinct=2067

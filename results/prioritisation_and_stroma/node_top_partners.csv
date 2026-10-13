@@ -1,0 +1,237 @@
+node,partner,role,edge_type,tier,rho,p
+hsa-miR-21,TGFBI,regulates,miRNA_target,strong,0.382,1.87e-38
+hsa-miR-21,S100A10,regulates,miRNA_target,weak,0.302,5.75e-24
+hsa-miR-21,RUNX2,regulated by,TF_miRNA,,0.235,8.61e-15
+hsa-miR-21,RUNX2,regulates,miRNA_target,weak,0.235,8.61e-15
+hsa-miR-21,SPI1,regulated by,TF_miRNA,,0.217,7.3e-13
+hsa-miR-21,SPI1,regulates,miRNA_target,predicted_only,0.217,7.3e-13
+hsa-miR-21,ESR1,regulated by,TF_miRNA,,-0.172,1.7e-08
+hsa-miR-21,ESR1,regulates,miRNA_target,weak,-0.172,1.7e-08
+hsa-miR-195,EGR3,regulated by,TF_miRNA,,0.3,1.32e-23
+hsa-miR-195,EGR3,regulates,miRNA_target,weak,0.3,1.32e-23
+hsa-miR-195,ADRB2,regulates,miRNA_target,weak,0.27,2.88e-19
+hsa-miR-195,FGF7,regulates,miRNA_target,predicted_only,0.266,1.11e-18
+hsa-miR-195,E2F1,regulated by,TF_miRNA,,-0.225,1.11e-13
+hsa-miR-195,E2F1,regulates,miRNA_target,weak,-0.225,1.11e-13
+hsa-miR-195,BDNF,regulates,miRNA_target,predicted_only,0.185,1.06e-09
+hsa-miR-195,ADAMTS5,regulates,miRNA_target,predicted_only,0.166,5.06e-08
+hsa-miR-204,TGFBR2,regulates,miRNA_target,strong,0.373,1.74e-36
+hsa-miR-204,CCND2,regulates,miRNA_target,weak,0.281,9.16e-21
+hsa-miR-204,ADAMTS5,regulates,miRNA_target,predicted_only,0.27,2.69e-19
+hsa-miR-204,HSD17B2,regulates,miRNA_target,predicted_only,0.23,3.02e-14
+hsa-miR-204,DNAJB4,regulates,miRNA_target,weak,0.229,3.47e-14
+hsa-miR-204,BDNF,regulates,miRNA_target,strong,0.197,8.34e-11
+hsa-miR-204,NRP1,regulates,miRNA_target,predicted_only,0.189,4.73e-10
+hsa-miR-204,SMAD6,regulates,miRNA_target,weak,0.186,9.27e-10
+hsa-miR-383,TGFBR2,regulates,miRNA_target,predicted_only,0.239,2.55e-15
+hsa-miR-383,CCND2,regulates,miRNA_target,weak,0.208,7.26e-12
+hsa-miR-383,FOS,regulates,miRNA_target,predicted_only,0.206,1.22e-11
+hsa-miR-383,EPAS1,regulates,miRNA_target,predicted_only,0.177,5.6e-09
+hsa-miR-383,FGF7,regulates,miRNA_target,predicted_only,0.169,2.61e-08
+hsa-miR-383,LDHA,regulates,miRNA_target,strong,-0.16,1.54e-07
+hsa-miR-383,ANPEP,regulates,miRNA_target,predicted_only,0.153,5.04e-07
+hsa-miR-383,VEGFA,regulates,miRNA_target,strong,-0.151,6.99e-07
+hsa-miR-124,BACE1,regulates,miRNA_target,strong,0.116,0.000145
+hsa-miR-124,CELSR3,regulates,miRNA_target,predicted_only,0.105,0.000625
+hsa-miR-124,RNF144A,regulates,miRNA_target,weak,0.082,0.00759
+hsa-miR-124,CD151,regulates,miRNA_target,strong,-0.078,0.0105
+hsa-miR-124,CYLD,regulates,miRNA_target,weak,0.078,0.0108
+hsa-miR-124,MAP3K1,regulates,miRNA_target,predicted_only,-0.075,0.0138
+hsa-miR-124,PTPRZ1,regulates,miRNA_target,weak,0.059,0.0546
+hsa-miR-124,FURIN,regulates,miRNA_target,weak,0.058,0.0572
+hsa-miR-155,STAT1,regulated by,TF_miRNA,,0.583,2.92e-98
+hsa-miR-155,STAT1,regulates,miRNA_target,strong,0.583,2.92e-98
+hsa-miR-155,IRF1,regulated by,TF_miRNA,,0.526,9.04e-77
+hsa-miR-155,IRF1,regulates,miRNA_target,predicted_only,0.526,9.04e-77
+hsa-miR-155,SPI1,regulated by,TF_miRNA,,0.49,2.45e-65
+hsa-miR-155,SPI1,regulates,miRNA_target,strong,0.49,2.45e-65
+hsa-miR-155,ETS1,regulated by,TF_miRNA,,0.368,1.72e-35
+hsa-miR-155,ETS1,regulates,miRNA_target,strong,0.368,1.72e-35
+hsa-miR-429,ZEB2,regulated by,TF_miRNA,,-0.301,8.17e-24
+hsa-miR-429,ZEB2,regulates,miRNA_target,strong,-0.301,8.17e-24
+hsa-miR-429,CDH11,regulates,miRNA_target,predicted_only,-0.289,5.78e-22
+hsa-miR-429,HDAC1,regulated by,TF_miRNA,,0.288,9.03e-22
+hsa-miR-429,HDAC1,regulates,miRNA_target,weak,0.288,9.03e-22
+hsa-miR-429,SNAI2,regulated by,TF_miRNA,,-0.285,2.38e-21
+hsa-miR-429,SNAI2,regulates,miRNA_target,predicted_only,-0.285,2.38e-21
+hsa-miR-429,TP63,regulated by,TF_miRNA,,-0.27,2.53e-19
+hsa-miR-141,ZEB2,regulated by,TF_miRNA,,-0.395,4.55e-41
+hsa-miR-141,ZEB2,regulates,miRNA_target,strong,-0.395,4.55e-41
+hsa-miR-141,CCND2,regulates,miRNA_target,weak,-0.38,5.15e-38
+hsa-miR-141,NRP1,regulates,miRNA_target,strong,-0.379,1.06e-37
+hsa-miR-141,SNAI2,regulated by,TF_miRNA,,-0.371,3.46e-36
+hsa-miR-141,SNAI2,regulates,miRNA_target,weak,-0.371,3.46e-36
+hsa-miR-141,FOXM1,regulated by,TF_miRNA,,0.368,1.47e-35
+hsa-miR-141,FOXM1,regulates,miRNA_target,weak,0.368,1.47e-35
+hsa-miR-34a,TP63,regulated by,TF_miRNA,,-0.195,1.35e-10
+hsa-miR-34a,TP63,regulates,miRNA_target,weak,-0.195,1.35e-10
+hsa-miR-34a,FOSB,regulates,miRNA_target,weak,-0.172,1.52e-08
+hsa-miR-34a,MYC,regulated by,TF_miRNA,,-0.163,8.42e-08
+hsa-miR-34a,MYC,regulates,miRNA_target,strong,-0.163,8.42e-08
+hsa-miR-34a,SIRT1,regulated by,TF_miRNA,,-0.16,1.43e-07
+hsa-miR-34a,SIRT1,regulates,miRNA_target,strong,-0.16,1.43e-07
+hsa-miR-34a,HDAC4,regulated by,TF_miRNA,,-0.142,3.16e-06
+hsa-miR-101,FN1,regulates,miRNA_target,strong,-0.296,5.5e-23
+hsa-miR-101,HIF1A,regulated by,TF_miRNA,,-0.236,5.61e-15
+hsa-miR-101,HIF1A,regulates,miRNA_target,strong,-0.236,5.61e-15
+hsa-miR-101,THBS2,regulates,miRNA_target,weak,-0.219,4.74e-13
+hsa-miR-101,SEMA6A,regulates,miRNA_target,weak,0.2,4.84e-11
+hsa-miR-101,EZH2,regulated by,TF_miRNA,,-0.19,4.46e-10
+hsa-miR-101,EZH2,regulates,miRNA_target,strong,-0.19,4.46e-10
+hsa-miR-101,FOS,regulates,miRNA_target,strong,0.172,1.66e-08
+E2F1,MYBL2,regulates,TF_target,,0.799,1.1e-237
+E2F1,TYMS,regulates,TF_target,,0.709,1.6e-163
+E2F1,hsa-miR-106b,regulates,TF_miRNA,,0.555,2.87e-87
+E2F1,hsa-miR-106b,regulated by,miRNA_target,strong,0.555,2.87e-87
+E2F1,hsa-miR-18a,regulates,TF_miRNA,,0.523,6.92e-76
+E2F1,hsa-miR-18a,regulated by,miRNA_target,weak,0.523,6.92e-76
+E2F1,hsa-miR-15b,regulates,TF_miRNA,,0.514,5.69e-73
+E2F1,hsa-miR-15b,regulated by,miRNA_target,weak,0.514,5.69e-73
+EZH2,hsa-miR-9,regulated by,miRNA_target,weak,0.379,7.55e-38
+EZH2,hsa-miR-155,regulates,TF_miRNA,,0.352,1.72e-32
+EZH2,hsa-miR-155,regulated by,miRNA_target,predicted_only,0.352,1.72e-32
+EZH2,hsa-miR-181b,regulates,TF_miRNA,,0.328,3.43e-28
+EZH2,hsa-miR-181b,regulated by,miRNA_target,weak,0.328,3.43e-28
+EZH2,hsa-miR-30a,regulates,TF_miRNA,,-0.321,4.97e-27
+EZH2,hsa-miR-30a,regulated by,miRNA_target,weak,-0.321,4.97e-27
+EZH2,hsa-miR-200c,regulates,TF_miRNA,,0.311,2.47e-25
+GATA3,CDH3,regulates,TF_target,,-0.532,8.98e-79
+GATA3,hsa-miR-138,regulates,TF_miRNA,,-0.342,1.49e-30
+GATA3,hsa-miR-138,regulated by,miRNA_target,predicted_only,-0.342,1.49e-30
+GATA3,LOX,regulates,TF_target,,-0.279,1.41e-20
+GATA3,FOXC2,regulates,TF_target,,-0.206,1.08e-11
+GATA3,hsa-miR-29b,regulates,TF_miRNA,,0.136,8.87e-06
+GATA3,hsa-miR-29b,regulated by,miRNA_target,strong,0.136,8.87e-06
+GATA3,hsa-miR-125a,regulates,TF_miRNA,,0.033,0.275
+BRCA1,FST,regulates,TF_target,,-0.297,4.45e-23
+BRCA1,hsa-miR-99b,regulates,TF_miRNA,,0.265,1.33e-18
+BRCA1,hsa-miR-99b,regulated by,miRNA_target,weak,0.265,1.33e-18
+BRCA1,FOXC2,regulates,TF_target,,-0.257,1.5e-17
+BRCA1,FOS,regulates,TF_target,,-0.233,1.4e-14
+BRCA1,S100A2,regulates,TF_target,,-0.19,4.29e-10
+BRCA1,CDH3,regulates,TF_target,,-0.121,7.54e-05
+BRCA1,hsa-miR-155,regulates,TF_miRNA,,0.086,0.00504
+JUN,ATF3,regulates,TF_target,,0.592,6.91e-102
+JUN,CTGF,regulates,TF_target,,0.479,2.5e-62
+JUN,IL6,regulates,TF_target,,0.476,2.61e-61
+JUN,EDN1,regulates,TF_target,,0.451,1.32e-54
+JUN,NGF,regulates,TF_target,,0.388,1.31e-39
+JUN,MMP2,regulates,TF_target,,0.362,2.75e-34
+JUN,PTN,regulates,TF_target,,0.358,1.4e-33
+JUN,F3,regulates,TF_target,,0.336,1.46e-29
+EGR2,IL6,regulates,TF_target,,0.651,1.72e-129
+EGR2,LIF,regulates,TF_target,,0.502,4.1e-69
+EGR2,hsa-miR-142,regulates,TF_miRNA,,0.137,7.44e-06
+EGR2,hsa-miR-142,regulated by,miRNA_target,strong,0.137,7.44e-06
+EGR2,GJB1,regulates,TF_target,,0.017,0.588
+ESR1,CEBPB,regulates,TF_target,,-0.531,1.24e-78
+ESR1,hsa-miR-18a,regulates,TF_miRNA,,-0.474,8.9e-61
+ESR1,hsa-miR-18a,regulated by,miRNA_target,strong,-0.474,8.9e-61
+ESR1,hsa-miR-17,regulates,TF_miRNA,,-0.416,5.9e-46
+ESR1,hsa-miR-17,regulated by,miRNA_target,weak,-0.416,5.9e-46
+ESR1,hsa-miR-140,regulates,TF_miRNA,,-0.339,4.73e-30
+ESR1,hsa-miR-140,regulated by,miRNA_target,predicted_only,-0.339,4.73e-30
+ESR1,hsa-miR-125b,regulates,TF_miRNA,,-0.3,1.13e-23
+SREBF1,BCL2L1,regulates,TF_target,,0.313,1.16e-25
+SREBF1,FAS,regulates,TF_target,,-0.249,1.57e-16
+SREBF1,FDFT1,regulates,TF_target,,0.18,3.55e-09
+SREBF1,CAV1,regulates,TF_target,,-0.175,9.69e-09
+SREBF1,hsa-miR-185,regulates,TF_miRNA,,-0.109,0.000372
+SREBF1,hsa-miR-185,regulated by,miRNA_target,strong,-0.109,0.000372
+SREBF1,hsa-miR-107,regulates,TF_miRNA,,-0.095,0.0019
+SREBF1,hsa-miR-107,regulated by,miRNA_target,weak,-0.095,0.0019
+DNMT1,TERT,regulates,TF_target,,0.315,5.68e-26
+DNMT1,hsa-miR-142,regulates,TF_miRNA,,0.247,2.77e-16
+DNMT1,hsa-miR-142,regulated by,miRNA_target,weak,0.247,2.77e-16
+DNMT1,hsa-miR-150,regulates,TF_miRNA,,0.198,6.74e-11
+DNMT1,hsa-miR-150,regulated by,miRNA_target,predicted_only,0.198,6.74e-11
+DNMT1,GAD1,regulates,TF_target,,-0.175,8.97e-09
+DNMT1,hsa-miR-152,regulates,TF_miRNA,,-0.168,3.29e-08
+DNMT1,hsa-miR-152,regulated by,miRNA_target,strong,-0.168,3.29e-08
+E2F3,hsa-miR-18a,regulates,TF_miRNA,,0.504,1.17e-69
+E2F3,hsa-miR-18a,regulated by,miRNA_target,weak,0.504,1.17e-69
+E2F3,hsa-miR-106b,regulates,TF_miRNA,,0.492,6.14e-66
+E2F3,hsa-miR-106b,regulated by,miRNA_target,strong,0.492,6.14e-66
+E2F3,hsa-miR-17,regulates,TF_miRNA,,0.427,1.47e-48
+E2F3,hsa-miR-17,regulated by,miRNA_target,strong,0.427,1.47e-48
+E2F3,hsa-miR-20a,regulates,TF_miRNA,,0.416,8.58e-46
+E2F3,hsa-miR-20a,regulated by,miRNA_target,strong,0.416,8.58e-46
+CCND2,MAFB,regulated by,TF_target,,0.557,5.45e-88
+CCND2,hsa-miR-370,regulated by,miRNA_target,weak,0.415,1.08e-45
+CCND2,hsa-let-7c,regulated by,miRNA_target,weak,0.412,5.1e-45
+CCND2,hsa-miR-381,regulated by,miRNA_target,weak,0.401,2.06e-42
+CCND2,hsa-miR-150,regulated by,miRNA_target,weak,0.392,1.47e-40
+CCND2,hsa-miR-141,regulated by,miRNA_target,weak,-0.38,5.15e-38
+CCND2,hsa-miR-409,regulated by,miRNA_target,predicted_only,0.38,7.11e-38
+CCND2,hsa-miR-154,regulated by,miRNA_target,strong,0.376,3.12e-37
+COL1A1,COL3A1,regulates,gene_gene,,0.945,0
+COL1A1,hsa-miR-382,regulated by,miRNA_target,predicted_only,0.543,5.81e-83
+COL1A1,hsa-let-7c,regulated by,miRNA_target,weak,0.297,3.62e-23
+COL1A1,hsa-let-7g,regulated by,miRNA_target,weak,-0.295,7.39e-23
+COL1A1,hsa-miR-29b,regulated by,miRNA_target,strong,-0.292,2.33e-22
+COL1A1,ETS1,regulated by,TF_target,,0.281,7.95e-21
+COL1A1,hsa-miR-29a,regulated by,miRNA_target,weak,-0.246,3.37e-16
+COL1A1,hsa-miR-29c,regulated by,miRNA_target,strong,-0.244,6.5e-16
+STAT5A,hsa-miR-141,regulated by,miRNA_target,strong,-0.268,6.1e-19
+STAT5A,PPARA,regulated by,TF_target,,0.221,2.96e-13
+STAT5A,hsa-miR-452,regulated by,miRNA_target,predicted_only,0.196,9.83e-11
+STAT5A,hsa-miR-200a,regulated by,miRNA_target,predicted_only,-0.176,7.69e-09
+STAT5A,hsa-miR-23b,regulated by,miRNA_target,predicted_only,-0.121,7.26e-05
+STAT5A,hsa-miR-130a,regulated by,miRNA_target,predicted_only,0.084,0.00636
+STAT5A,hsa-miR-23a,regulated by,miRNA_target,weak,-0.044,0.15
+MYBL2,E2F1,regulated by,TF_target,,0.799,1.1e-237
+MYBL2,hsa-miR-30a,regulated by,miRNA_target,weak,-0.443,1.91e-52
+MYBL2,hsa-miR-29c,regulated by,miRNA_target,weak,-0.329,2.87e-28
+MYBL2,SP1,regulated by,TF_target,,-0.303,4.99e-24
+MYBL2,hsa-miR-30c,regulated by,miRNA_target,weak,-0.269,4.54e-19
+MYBL2,MYCN,regulated by,TF_target,,0.184,1.4e-09
+MYBL2,hsa-miR-143,regulated by,miRNA_target,predicted_only,0.117,0.000131
+MYBL2,hsa-miR-30e,regulated by,miRNA_target,strong,0.1,0.00105
+FN1,hsa-miR-199a,regulated by,miRNA_target,weak,0.505,5.51e-70
+FN1,TWIST1,regulated by,TF_target,,0.33,2e-28
+FN1,hsa-miR-101,regulated by,miRNA_target,strong,-0.296,5.5e-23
+FN1,AR,regulated by,TF_target,,0.283,4.77e-21
+FN1,hsa-miR-200c,regulated by,miRNA_target,strong,-0.282,5.91e-21
+FN1,hsa-miR-27b,regulated by,miRNA_target,weak,0.272,1.62e-19
+FN1,hsa-miR-200b,regulated by,miRNA_target,strong,-0.257,1.37e-17
+FN1,SNAI1,regulated by,TF_target,,0.231,2.54e-14
+PDGFRB,hsa-miR-30b,regulated by,miRNA_target,strong,-0.296,4.99e-23
+PDGFRB,hsa-miR-30d,regulated by,miRNA_target,predicted_only,-0.284,3.03e-21
+PDGFRB,hsa-miR-30e,regulated by,miRNA_target,weak,-0.269,4.6e-19
+PDGFRB,hsa-miR-29b,regulated by,miRNA_target,strong,-0.265,1.25e-18
+PDGFRB,hsa-miR-29a,regulated by,miRNA_target,strong,-0.251,9.26e-17
+PDGFRB,hsa-miR-30c,regulated by,miRNA_target,weak,-0.173,1.39e-08
+PDGFRB,hsa-miR-29c,regulated by,miRNA_target,strong,-0.168,3.31e-08
+PDGFRB,hsa-miR-9,regulated by,miRNA_target,strong,-0.158,2.04e-07
+MET,hsa-miR-140,regulated by,miRNA_target,predicted_only,0.364,1.2e-34
+MET,HIF1A,regulated by,TF_target,,0.352,1.94e-32
+MET,YBX1,regulated by,TF_target,,0.342,1.38e-30
+MET,PAX5,regulated by,TF_target,,0.322,3.45e-27
+MET,hsa-miR-27a,regulated by,miRNA_target,strong,0.238,3.32e-15
+MET,hsa-miR-212,regulated by,miRNA_target,predicted_only,0.222,2.42e-13
+MET,hsa-miR-449a,regulated by,miRNA_target,strong,-0.209,5.14e-12
+MET,hsa-miR-1,regulated by,miRNA_target,strong,0.199,5.23e-11
+CXCL12,SNAI2,regulated by,TF_target,,0.561,1.36e-89
+CXCL12,FOXF2,regulated by,TF_target,,0.505,3.84e-70
+CXCL12,NFKB1,regulated by,TF_target,,0.284,3.28e-21
+CXCL12,HIF1A,regulated by,TF_target,,0.13,1.97e-05
+CXCL12,hsa-miR-130a,regulated by,miRNA_target,predicted_only,0.126,3.54e-05
+CXCL12,hsa-miR-23b,regulated by,miRNA_target,weak,0.123,5.38e-05
+CXCL12,hsa-miR-135b,regulated by,miRNA_target,predicted_only,-0.083,0.00668
+CXCL12,hsa-miR-23a,regulated by,miRNA_target,strong,-0.061,0.0455
+MMP14,hsa-miR-485,regulated by,miRNA_target,predicted_only,0.383,1.55e-38
+MMP14,hsa-miR-369,regulated by,miRNA_target,predicted_only,0.345,4.36e-31
+MMP14,hsa-miR-410,regulated by,miRNA_target,predicted_only,0.339,5.03e-30
+MMP14,hsa-miR-495,regulated by,miRNA_target,predicted_only,0.295,7.36e-23
+MMP14,SRF,regulated by,TF_target,,0.261,3.99e-18
+MMP14,CTNNB1,regulated by,TF_target,,0.255,2.62e-17
+MMP14,hsa-miR-181a,regulated by,miRNA_target,weak,0.243,9.02e-16
+MMP14,EGR1,regulated by,TF_target,,0.241,1.5e-15
+PLAU,RUNX2,regulated by,TF_target,,0.571,1.87e-93
+PLAU,HIF1A,regulated by,TF_target,,0.289,6.37e-22
+PLAU,ETS1,regulated by,TF_target,,0.228,4.79e-14
+PLAU,hsa-miR-181a,regulated by,miRNA_target,strong,0.184,1.57e-09
+PLAU,ILF3,regulated by,TF_target,,-0.174,1.1e-08
+PLAU,hsa-miR-193b,regulated by,miRNA_target,strong,0.17,2.14e-08
+PLAU,hsa-miR-181b,regulated by,miRNA_target,weak,0.145,1.99e-06
+PLAU,SRF,regulated by,TF_target,,0.119,0.000103

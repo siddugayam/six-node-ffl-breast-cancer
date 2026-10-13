@@ -1,0 +1,50 @@
+K 4
+nparts 1
+part 0
+seed 42
+q 1 1 1
+prod_q 1
+found 56098
+visited 2987631
+rng_final 42
+comp 0 1 3 1
+comp 1 1 2 444
+comp 1 2 1 27231
+comp 2 0 2 153
+comp 2 1 1 11190
+comp 2 2 0 3996
+comp 3 0 1 3152
+comp 3 1 0 8225
+comp 4 0 0 1706
+mask 2 1724
+mask 3 3287
+mask 6 6575
+mask 7 114
+mask 9 1
+mask 11 78
+mask 12 19815
+mask 13 2677
+mask 14 83
+mask 15 9374
+mask 17 95
+mask 18 229
+mask 19 147
+mask 20 3279
+mask 21 618
+mask 22 2170
+mask 23 166
+mask 25 70
+mask 26 14
+mask 27 392
+mask 28 4607
+mask 29 524
+mask 31 59
+flags 0 54616
+flags 8 1124
+flags 24 358
+exflag 3 AHR MYC CCND2 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 3 AHR MYC CDCA7 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CDCA7
+exflag 3 AHR MYC VEGFA hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 4 AR MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 AR MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exflag 4 ARNT JUN VEGFA hsa-miR-106b | TF1=ARNT TF2=JUN miRNA=hsa-miR-106b target=VEGFA

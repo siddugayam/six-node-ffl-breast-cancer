@@ -1,0 +1,109 @@
+K 6
+nparts 64
+part 55
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 134925
+visited 34901522
+rng_final 42
+comp 0 1 5 6
+comp 1 1 4 179
+comp 1 2 3 1534
+comp 1 3 2 1500
+comp 1 4 1 255
+comp 2 0 4 6
+comp 2 1 3 1075
+comp 2 2 2 13748
+comp 2 3 1 41527
+comp 3 0 3 42
+comp 3 1 2 4012
+comp 3 2 1 52455
+comp 3 3 0 1694
+comp 4 0 2 157
+comp 4 1 1 6304
+comp 4 2 0 6203
+comp 5 0 1 543
+comp 5 1 0 3337
+comp 6 0 0 348
+mask 2 15
+mask 3 38
+mask 6 222
+mask 11 2
+mask 12 246
+mask 13 122
+mask 14 20402
+mask 15 3129
+mask 20 178
+mask 21 39
+mask 22 1263
+mask 23 210
+mask 28 2668
+mask 29 285
+mask 30 871
+mask 31 1038
+mask 33 38
+mask 34 343
+mask 35 662
+mask 36 31
+mask 37 5
+mask 38 1986
+mask 39 91
+mask 40 8
+mask 41 28
+mask 42 10
+mask 43 93
+mask 44 38286
+mask 45 13601
+mask 46 20796
+mask 47 9490
+mask 52 1749
+mask 53 361
+mask 54 5855
+mask 55 728
+mask 56 4
+mask 57 25
+mask 58 2
+mask 59 62
+mask 60 3958
+mask 61 2426
+mask 62 2232
+mask 63 1327
+flags 0 81970
+flags 1 2652
+flags 2 937
+flags 3 5684
+flags 4 23957
+flags 5 1324
+flags 6 1802
+flags 7 3567
+flags 8 8570
+flags 10 77
+flags 11 172
+flags 12 2304
+flags 13 11
+flags 14 279
+flags 15 300
+flags 24 1000
+flags 27 36
+flags 28 279
+flags 29 2
+flags 30 2
+exflag 0 FOXF2 CXCL12 MET hsa-miR-200b SOX2 hsa-miR-182
+exflag 0 FOXF2 CXCL12 MET hsa-miR-200b SOX2 hsa-miR-301a
+exflag 0 FOXF2 CXCL12 MET hsa-miR-429 SOX2 hsa-miR-182
+exflag 1 KLF4 ATF3 CEBPB BCL2L1 CTSB hsa-miR-183
+exflag 1 KLF4 ATF3 CEBPB BCL2L1 CTSB hsa-miR-96
+exflag 1 KLF4 ATF3 CEBPB BCL2L1 HRK hsa-miR-143
+exflag 2 FOXF2 CXCL12 MET hsa-miR-200a POU3F2 MITF
+exflag 2 FOXF2 CXCL12 hsa-miR-200a STAT5A ESR1 HIF1A
+exflag 2 FOXF2 CXCL12 hsa-miR-200a STAT5A ESR1 RELA
+exflag 3 KLF4 ATF3 CEBPB FOXO1 KLF2 hsa-miR-145 | TF1=CEBPB TF2=FOXO1 miRNA=hsa-miR-145 target=KLF2
+exflag 3 KLF4 ATF3 CEBPB FOXO1 SMAD3 hsa-miR-145 | TF1=CEBPB TF2=FOXO1 miRNA=hsa-miR-145 target=SMAD3
+exflag 3 KLF4 ATF3 CEBPB MMP2 RELA hsa-miR-17 | TF1=CEBPB TF2=RELA miRNA=hsa-miR-17 target=MMP2
+exflag 4 KLF4 ATF3 FOS SMAD3 SMAD7 hsa-miR-21 | TF1=FOS TF2=SMAD3 miRNA=hsa-miR-21 target=SMAD7
+exflag 4 KLF4 ATF3 SMAD3 CCND2 SP1 hsa-miR-200a | TF1=SMAD3 TF2=SP1 miRNA=hsa-miR-200a target=CCND2
+exflag 4 KLF4 ATF3 SMAD3 PTHLH SP1 hsa-miR-200b | TF1=SMAD3 TF2=SP1 miRNA=hsa-miR-200b target=PTHLH
+exmask 63 KLF4 ATF3 CEBPB MMP2 hsa-miR-17 TWIST1
+exmask 63 KLF4 ATF3 CEBPB MMP2 hsa-miR-20a TWIST1
+exmask 63 KLF4 ATF3 CEBPB VEGFA hsa-miR-17 EPAS1

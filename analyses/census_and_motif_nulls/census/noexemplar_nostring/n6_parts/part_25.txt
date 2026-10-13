@@ -1,0 +1,79 @@
+K 6
+nparts 64
+part 25
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 231044
+visited 41411600
+rng_final 42
+comp 1 2 3 38
+comp 1 3 2 671
+comp 1 4 1 777
+comp 2 1 3 12
+comp 2 2 2 4611
+comp 2 3 1 84222
+comp 2 4 0 5
+comp 3 1 2 1485
+comp 3 2 1 95251
+comp 3 3 0 5849
+comp 4 0 2 109
+comp 4 1 1 14720
+comp 4 2 0 14760
+comp 5 0 1 1367
+comp 5 1 0 6537
+comp 6 0 0 630
+mask 2 630
+mask 3 1476
+mask 6 4349
+mask 7 445
+mask 11 30
+mask 12 755
+mask 13 287
+mask 14 102466
+mask 15 34627
+mask 18 44
+mask 19 64
+mask 20 1956
+mask 21 370
+mask 22 20802
+mask 23 3786
+mask 26 65
+mask 27 164
+mask 28 23064
+mask 29 2720
+mask 30 17745
+mask 31 15165
+mask 45 1
+mask 46 26
+mask 47 6
+mask 61 1
+flags 0 196280
+flags 1 2573
+flags 2 498
+flags 3 1681
+flags 6 5
+flags 7 26
+flags 8 25952
+flags 9 42
+flags 10 88
+flags 11 262
+flags 14 1
+flags 24 3609
+flags 25 12
+flags 27 15
+exflag 0 ESR1 AHR SERPINE1 hsa-miR-106a KLF10 hsa-miR-106b
+exflag 0 ESR1 AHR SERPINE1 hsa-miR-106b KLF10 hsa-miR-143
+exflag 0 ESR1 AHR SERPINE1 hsa-miR-106b KLF10 hsa-miR-145
+exflag 1 ESR1 AHR E2F1 SERPINE1 hsa-miR-106b KLF10
+exflag 1 ESR1 AHR FOS SERPINE1 hsa-miR-23a KLF10
+exflag 1 ESR1 AHR FOS SMAD7 MET hsa-miR-140
+exflag 2 ESR1 AR hsa-let-7a COL1A1 COL3A1 hsa-miR-143
+exflag 2 ESR1 AR hsa-let-7c COL1A1 COL3A1 hsa-miR-143
+exflag 2 ESR1 AR hsa-miR-133b COL1A1 COL3A1 hsa-miR-143
+exflag 3 ESR1 AHR AR CDH11 MYC hsa-miR-19a | TF1=ESR1 TF2=AR miRNA=hsa-miR-19a target=CDH11
+exflag 3 ESR1 AHR AR CEBPB MYC hsa-miR-17 | TF1=ESR1 TF2=AR miRNA=hsa-miR-17 target=MYC
+exflag 3 ESR1 AHR AR CEBPB MYC hsa-miR-18a | TF1=ESR1 TF2=AR miRNA=hsa-miR-18a target=MYC
+exflag 4 ESR1 AHR AR E2F1 MYC hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=MYC
+exflag 4 ESR1 AHR AR MYC TERT hsa-miR-497 | TF1=ESR1 TF2=MYC miRNA=hsa-miR-497 target=TERT
+exflag 4 ESR1 AHR AR MYC VEGFA hsa-miR-106a | TF1=ESR1 TF2=MYC miRNA=hsa-miR-106a target=VEGFA

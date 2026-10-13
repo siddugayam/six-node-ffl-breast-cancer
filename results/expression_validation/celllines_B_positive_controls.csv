@@ -1,0 +1,14 @@
+block,regulator,target,expected_sign,n,rho,p,note
+1_positive_control,hsa-miR-200c,ZEB1,-1,50,-0.4321728091916605,0.0017236826061979601,sign_as_expected
+1_positive_control,hsa-miR-200c,ZEB2,-1,50,-0.5052761037474246,0.00018218948232358415,sign_as_expected
+1_positive_control,hsa-miR-200b,ZEB1,-1,50,-0.2476150259069656,0.08296599310775035,sign_as_expected
+1_positive_control,hsa-miR-200b,ZEB2,-1,50,-0.41437351482283324,0.002774198586362738,sign_as_expected
+1_positive_control,hsa-miR-200a,ZEB1,-1,50,-0.21195307924101675,0.13949496877591025,sign_as_expected
+1_positive_control,hsa-miR-141,ZEB2,-1,50,-0.5784404296825003,1.0839700613646394e-05,sign_as_expected
+1_positive_control,hsa-miR-205,ZEB1,-1,50,-0.2814093141936931,0.04773228896796776,sign_as_expected
+1_positive_control,hsa-miR-203,ZEB2,-1,50,-0.5732968141272748,1.3517160106653456e-05,sign_as_expected
+1_positive_control,hsa-let-7a,HMGA2,-1,50,0.08954435930129874,0.5363092541930468,sign_WRONG
+1_positive_control,hsa-let-7g,HMGA2,-1,50,0.20522183633859878,0.15280248198296562,sign_WRONG
+1_positive_control,hsa-miR-21,PDCD4,-1,50,-0.146218487394958,0.31095094992238165,sign_as_expected
+1_positive_control,hsa-miR-200c,CDH1,1,50,0.3770169040075135,0.006957488992770563,sign_as_expected
+1_positive_control,hsa-miR-200c,VIM,-1,50,-0.4969507803121248,0.0002415244931141307,sign_as_expected

@@ -1,0 +1,182 @@
+celltype,antigen,n_experiments
+Adipose-Derived Mesenchymal Stem Cells,CREBBP,2
+Adipose-Derived Mesenchymal Stem Cells,GPS2,4
+Adipose-Derived Mesenchymal Stem Cells,KLF11,4
+Adipose-Derived Mesenchymal Stem Cells,MED1,4
+Adipose-Derived Mesenchymal Stem Cells,PPARG,4
+BJ,BMI1,2
+BJ,BRD7,2
+BJ,CTCF,4
+BJ,ERH,2
+BJ,Epitope tags,39
+BJ,FOSL1,1
+BJ,FOXA2,22
+BJ,GATA4,4
+BJ,HDAC1,2
+BJ,HDAC2,2
+BJ,KDM6B,2
+BJ,KLF4,7
+BJ,MYBBP1A,2
+BJ,MYC,2
+BJ,POU5F1,3
+BJ,RAD21,2
+BJ,SMAD3,1
+BJ,SMARCB1,5
+BJ,SMC3,2
+BJ,SOX2,1
+BJ,SS18,4
+BJ,SUZ12,2
+BJ,TEAD4,4
+BJ,TP53,4
+Cardiac fibroblasts,IRX2,2
+Dermal fibroblast,AR,1
+Dermal fibroblast,ASCL1,1
+Dermal fibroblast,ATF3,2
+Dermal fibroblast,BATF3,3
+Dermal fibroblast,BRD4,4
+Dermal fibroblast,ELK1,2
+Dermal fibroblast,EN1,6
+Dermal fibroblast,ETV2,2
+Dermal fibroblast,EZH2,16
+Dermal fibroblast,Epitope tags,6
+Dermal fibroblast,GLI1,9
+Dermal fibroblast,IRF8,3
+Dermal fibroblast,LMNA,22
+Dermal fibroblast,LMNB1,2
+Dermal fibroblast,MYC,2
+Dermal fibroblast,NIPBL,2
+Dermal fibroblast,POU5F1,5
+Dermal fibroblast,RBPJ,2
+Dermal fibroblast,SMC1A,3
+Dermal fibroblast,SP1,6
+Dermal fibroblast,SPI1,3
+Dermal fibroblast,TP53,2
+Dermal fibroblast,YAP1,4
+Fetal prostate fibroblasts,AR,1
+Fibroblasts,AFF4,3
+Fibroblasts,BRD4,2
+Fibroblasts,CEBPD,6
+Fibroblasts,EGR1,9
+Fibroblasts,EP300,2
+Fibroblasts,ERCC6,3
+Fibroblasts,Epitope tags,12
+Fibroblasts,JUN,2
+Fibroblasts,KAT6A,3
+Fibroblasts,LMNA,4
+Fibroblasts,MAU2,2
+Fibroblasts,NIPBL,4
+Fibroblasts,PCGF2,2
+Fibroblasts,PRKDC,2
+Fibroblasts,RAD21,5
+Fibroblasts,RNF2,1
+Fibroblasts,SS18,1
+Fibroblasts,STAG1,2
+Fibroblasts,STAG2,4
+Fibroblasts,SUZ12,2
+Fibroblasts,TP53,13
+HFF,CTCF,1
+HFF-Myc,CTCF,2
+HFFc6,CTCF,4
+IMR-90,BCL10,6
+IMR-90,BDP1,7
+IMR-90,BHLHE40,2
+IMR-90,BRCA1,2
+IMR-90,BRD4,6
+IMR-90,BRF1,1
+IMR-90,BRF2,1
+IMR-90,CEBPB,8
+IMR-90,CHD1,1
+IMR-90,CREBBP,4
+IMR-90,CTCF,21
+IMR-90,E2F7,5
+IMR-90,ELK1,2
+IMR-90,EP300,7
+IMR-90,Epitope tags,1
+IMR-90,FOS,2
+IMR-90,GTF2B,1
+IMR-90,GTF3C2,4
+IMR-90,HIRA,4
+IMR-90,HMGA1,6
+IMR-90,HMGB1,4
+IMR-90,HMGB2,2
+IMR-90,LMNB1,4
+IMR-90,MAFK,1
+IMR-90,MAP1LC3B,2
+IMR-90,MAZ,1
+IMR-90,MBD3,1
+IMR-90,MECP2,3
+IMR-90,MXI1,1
+IMR-90,NFE2L2,2
+IMR-90,NUP98,2
+IMR-90,RAD21,14
+IMR-90,RB1,14
+IMR-90,RBL1,1
+IMR-90,RBL2,5
+IMR-90,RCOR1,1
+IMR-90,RFX5,1
+IMR-90,SMC3,14
+IMR-90,SNAPC1,1
+IMR-90,SNAPC2,3
+IMR-90,SNAPC4,1
+IMR-90,SNAPC5,1
+IMR-90,TP53,7
+IMR-90,USF2,2
+IMR-90,WHSC1,1
+IMR-90,YAP1,2
+IMR-90,ZHX3,2
+IMR-90,ZNF416,2
+Lung fibroblasts,CTCF,1
+Lung fibroblasts,EP300,2
+Lung fibroblasts,HMGB1,1
+Lung fibroblasts,HMGB2,2
+Lung fibroblasts,RELA,2
+MRC-5,CDK9,4
+MRC-5,Epitope tags,15
+MRC-5,GFP,3
+MRC-5,JUN,10
+MRC-5,KLF4,8
+MRC-5,MYC,6
+MRC-5,POU5F1,8
+MRC-5,SMARCA2,1
+MRC-5,SOX2,8
+Mesenchymal Stromal Cells,CTCF,6
+Mesenchymal stem cells,ATF1,3
+Mesenchymal stem cells,ATF4,4
+Mesenchymal stem cells,BANF1,4
+Mesenchymal stem cells,CBX4,2
+Mesenchymal stem cells,CEBPB,10
+Mesenchymal stem cells,CHD1,3
+Mesenchymal stem cells,EP300,3
+Mesenchymal stem cells,Epitope tags,20
+Mesenchymal stem cells,FLI1,2
+Mesenchymal stem cells,LMNA,2
+Mesenchymal stem cells,MED1,32
+Mesenchymal stem cells,NFATC1,6
+Mesenchymal stem cells,NR3C1,1
+Mesenchymal stem cells,PRMT3,2
+Mesenchymal stem cells,RNF2,2
+Mesenchymal stem cells,SUZ12,2
+Mesenchymal stem cells,TBP,2
+Mesenchymal stem cells,ZBTB16,2
+Myofibroblasts,AR,1
+NHDF,CTCF,1
+NHDF,CTCFL,1
+NHDF,EZH2,1
+NHDF,PML,1
+NHDF-neo,CTCF,2
+NHLF,CTCF,4
+NHLF,EZH2,1
+Prostate cancer-associated fibroblasts,AR,1
+Prostate cancer-derived fibroblasts,AR,8
+Skin fibroblasts,HNF1A,2
+WI-38,CTCF,4
+WI-38,HMBOX1,1
+WI-38,NFKB2,2
+WI-38,NR2C2,1
+WI-38,NR2F2,1
+WI-38,PIAS4,2
+WI-38,SMC3,2
+WI-38,SUMO1,4
+WI-38,SUMO2,2
+WI-38,TRF2,1
+WI-38,UBE2I,2

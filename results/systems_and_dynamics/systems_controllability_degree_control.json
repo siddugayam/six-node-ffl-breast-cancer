@@ -1,0 +1,71 @@
+{
+  "logistic_driver": {
+    "const": {
+      "coef": 5.024977127059756,
+      "se": 0.6617893022051521,
+      "z": 7.593016554235615,
+      "p": 3.125425982170795e-14
+    },
+    "log(degree+1)": {
+      "coef": -1.3029119163871774,
+      "se": 0.1987298200553639,
+      "z": -6.556197333768031,
+      "p": 5.5197179952536785e-11
+    },
+    "is_TF": {
+      "coef": -2.5752061574149403,
+      "se": 0.31565611218526124,
+      "z": -8.15826482683006,
+      "p": 3.3987168712916796e-16
+    },
+    "is_Gene": {
+      "coef": -5.322278901348256,
+      "se": 0.4923861157327012,
+      "z": -10.809157145766335,
+      "p": 3.115190707067642e-27
+    },
+    "is_FFL_hub": {
+      "coef": -0.5586356979477408,
+      "se": 0.4839180083834248,
+      "z": -1.1544015479273395,
+      "p": 0.2483355808522396
+    }
+  },
+  "logistic_driver_continuous_ffl": {
+    "coef": 0.0547899122381976,
+    "se": 0.1534530975886018,
+    "z": 0.3570466357419903,
+    "p": 0.7210568933000973
+  },
+  "degree_matched": {
+    "observed": 0.13333333333333333,
+    "null_mean": 0.24038166666666666,
+    "null_sd": 0.04635200179335807,
+    "p_one_sided": 0.0110988901109889,
+    "n_resamples": 10000,
+    "n_hubs": 60
+  },
+  "structural_constraints": {
+    "n_out_degree_zero": 206,
+    "out_degree_zero_by_type": {
+      "Gene": 206
+    },
+    "n_in_degree_zero": 5,
+    "in_degree_zero_by_type": {
+      "miRNA": 5
+    },
+    "genes_with_any_out_edge": [
+      "COL1A1"
+    ],
+    "edge_class_counts": {
+      "TF->TF": 89,
+      "TF->Gene": 681,
+      "TF->miRNA": 1239,
+      "Gene->Gene": 1,
+      "miRNA->Gene": 3266,
+      "miRNA->TF": 1553,
+      "miRNA->miRNA": 30
+    },
+    "note": "206 of the 207 genes have out-degree 0 because the assembled network contains essentially no gene->anything edges (one STRING edge, COL1A1->COL3A1). The bow-tie OUT layer being made of genes, and genes never appearing in the strongly connected core, are therefore consequences of how the network was built, not discoveries about breast cancer regulation. Likewise the 5 \"critical\" driver nodes are exactly the 5 miRNAs with in-degree 0, which must be drivers in every control configuration."
+  }
+}

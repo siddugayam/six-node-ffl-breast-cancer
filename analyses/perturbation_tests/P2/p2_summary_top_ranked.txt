@@ -1,0 +1,60 @@
+human primary datasets: 2: GSE80492 A673 Ewing sarcoma (batch 1) [miR-17~92; loss; members hsa-miR-17;hsa-miR-18a;hsa-miR-19a;hsa-miR-19b;hsa-miR-20a;hsa-miR-92a]; GSE81791 D551-derived iPSC [miR-29a/b-1; loss; members hsa-miR-29a;hsa-miR-29b;hsa-miR-29c]
+human secondary datasets: 2: GSE150099 MDA-MB-231 (miR-200b~200a~429) [miR-200b~200a~429; gain; members hsa-miR-200b;hsa-miR-200a;hsa-miR-429]; GSE150099 MDA-MB-231 (miR-200c~141) [miR-200c~141; gain; members hsa-miR-200c;hsa-miR-141]
+mouse datasets: 7: GSE140838 mouse ESC (Mirg deletion) [DLK1-DIO3 (miR-379/410); loss; members hsa-miR-1193;hsa-miR-1197;hsa-miR-134;hsa-miR-154;hsa-miR-299;hsa-miR-300;hsa-miR-329;hsa-miR-369;hsa-miR-376a;hsa-miR-376b;hsa-miR-376c;hsa-miR-377;hsa-miR-379;hsa-miR-381;hsa-miR-382;hsa-miR-409;hsa-miR-410;hsa-miR-411;hsa-miR-485;hsa-miR-487a;hsa-miR-494;hsa-miR-495;hsa-miR-496;hsa-miR-539;hsa-miR-543;hsa-miR-655;hsa-miR-668;hsa-miR-758]; GSE151844 mouse pancreatic islets (miR-29a/b-1 transgene) [miR-29a/b-1; gain; members hsa-miR-29a;hsa-miR-29b]; GSE247439 mouse hippocampus (miR-379/410 cKO) [DLK1-DIO3 (miR-379/410); loss; members hsa-miR-1193;hsa-miR-1197;hsa-miR-134;hsa-miR-154;hsa-miR-299;hsa-miR-300;hsa-miR-329;hsa-miR-369;hsa-miR-376a;hsa-miR-376b;hsa-miR-376c;hsa-miR-377;hsa-miR-379;hsa-miR-381;hsa-miR-382;hsa-miR-409;hsa-miR-410;hsa-miR-411;hsa-miR-485;hsa-miR-487a;hsa-miR-494;hsa-miR-495;hsa-miR-496;hsa-miR-539;hsa-miR-543;hsa-miR-655;hsa-miR-668;hsa-miR-758]; GSE253734 mouse small-intestinal crypts (miR-29a/b-1 KO) [miR-29a/b-1; loss; members hsa-miR-29a;hsa-miR-29b]; GSE77010 mouse Eu-Myc lymphoma cells (miR-17~92 deletion) [miR-17~92; loss; members hsa-miR-17;hsa-miR-18a;hsa-miR-19a;hsa-miR-19b;hsa-miR-20a;hsa-miR-92a]; GSE78505 mouse Th17 cells (miR-183C KO) [miR-183~96~182; loss; members hsa-miR-183;hsa-miR-96;hsa-miR-182]; GSE83636 mouse hippocampus (miR-17~92 KO) [miR-17~92; loss; members hsa-miR-17;hsa-miR-18a;hsa-miR-19a;hsa-miR-19b;hsa-miR-20a;hsa-miR-92a]
+human primary | >=2 vs 1 members (network edges): k = 2; pooled -0.0488 (95 % CI -0.2645 to +0.1668), p 0.657; tau2 0.00152
+human primary | >=2 vs 1 members (TargetScan): k = 1; pooled +0.0163 (95 % CI -0.0142 to +0.0468), p 0.294; tau2 0
+human primary | six-node class vs 1-member (network edges): k = 2; pooled +0.0832 (95 % CI -0.1712 to +0.3377), p 0.522; tau2 0
+human primary | site-adjusted: >=2 members coefficient (TargetScan): k = 1; pooled +0.0092 (95 % CI -0.0283 to +0.0468), p 0.63; tau2 0
+human secondary | >=2 vs 1 members (network edges): k = 2; pooled +0.0391 (95 % CI -0.3581 to +0.4363), p 0.847; tau2 0.0239
+human secondary | >=2 vs 1 members (TargetScan): k = 2; pooled +0.0381 (95 % CI -0.0076 to +0.0838), p 0.102; tau2 0
+human secondary | six-node class vs 1-member (network edges): k = 1; pooled +0.7806 (95 % CI -2.1508 to +3.7120), p 0.602; tau2 0
+human secondary | site-adjusted: >=2 members coefficient (TargetScan): k = 2; pooled +0.0612 (95 % CI -0.0465 to +0.1690), p 0.266; tau2 0.00168
+mouse | >=2 vs 1 members (network edges): k = 7; pooled +0.0045 (95 % CI -0.0307 to +0.0398), p 0.801; tau2 0
+mouse | >=2 vs 1 members (TargetScan): k = 5; pooled -0.0114 (95 % CI -0.0227 to -0.0001), p 0.0481; tau2 7.62e-05
+mouse | six-node class vs 1-member (network edges): k = 7; pooled +0.0164 (95 % CI -0.0549 to +0.0876), p 0.652; tau2 0
+mouse | site-adjusted: >=2 members coefficient (TargetScan): k = 5; pooled -0.0049 (95 % CI -0.0129 to +0.0031), p 0.229; tau2 2.44e-05
+decision (human primary clusters, >=2 vs 1 members under network edges and TargetScan): NOT SUPPORTED
+same rule applied to the human secondary datasets (secondary, not the decision): NOT SUPPORTED
+same rule applied to the mouse datasets (secondary, not the decision): OPPOSITE
+site-adjusted effect persists: no (pooled coefficient +0.0092, 95 % CI -0.0283 to +0.0468)
+dataset GSE140838 mouse ESC (Mirg deletion) [mouse; DLK1-DIO3 (miR-379/410); loss] >=2 vs 1 members (network edges): diff -0.0138 (SE 0.0693), p 0.677; n 29 vs 20
+dataset GSE140838 mouse ESC (Mirg deletion) [mouse; DLK1-DIO3 (miR-379/410); loss] >=2 vs 1 members (TargetScan): diff -0.0135 (SE 0.0058), p 0.000228; n 1232 vs 991
+dataset GSE140838 mouse ESC (Mirg deletion) [mouse; DLK1-DIO3 (miR-379/410); loss] six-node class vs 1-member (network edges): diff +0.2636 (SE 0.1760), p 0.241; n 4 vs 20
+dataset GSE140838 mouse ESC (Mirg deletion) [mouse; DLK1-DIO3 (miR-379/410); loss] site-adjusted: >=2 members coefficient (TargetScan): diff -0.0007 (SE 0.0057), p 0.896; n 1232 vs 991
+dataset GSE150099 MDA-MB-231 (miR-200b~200a~429) [human secondary; miR-200b~200a~429; gain] >=2 vs 1 members (network edges): diff +0.2121 (SE 0.2171), p 0.423; n 39 vs 17
+dataset GSE150099 MDA-MB-231 (miR-200b~200a~429) [human secondary; miR-200b~200a~429; gain] >=2 vs 1 members (TargetScan): diff +0.0384 (SE 0.0244), p 0.158; n 827 vs 472
+dataset GSE150099 MDA-MB-231 (miR-200b~200a~429) [human secondary; miR-200b~200a~429; gain] six-node class vs 1-member (network edges): diff +0.7806 (SE 1.4956), p 0.392; n 6 vs 17
+dataset GSE150099 MDA-MB-231 (miR-200b~200a~429) [human secondary; miR-200b~200a~429; gain] site-adjusted: >=2 members coefficient (TargetScan): diff +0.0328 (SE 0.0464), p 0.479; n 827 vs 472
+dataset GSE150099 MDA-MB-231 (miR-200c~141) [human secondary; miR-200c~141; gain] >=2 vs 1 members (network edges): diff -0.1983 (SE 0.2712), p 0.692; n 16 vs 35
+dataset GSE150099 MDA-MB-231 (miR-200c~141) [human secondary; miR-200c~141; gain] >=2 vs 1 members (TargetScan): diff +0.0357 (SE 0.0788), p 0.39; n 139 vs 1176
+dataset GSE150099 MDA-MB-231 (miR-200c~141) [human secondary; miR-200c~141; gain] six-node class vs 1-member (network edges): diff +nan (SE nan), p nan; n 0 vs 35
+dataset GSE150099 MDA-MB-231 (miR-200c~141) [human secondary; miR-200c~141; gain] site-adjusted: >=2 members coefficient (TargetScan): diff +0.1677 (SE 0.1126), p 0.137; n 139 vs 1176
+dataset GSE151844 mouse pancreatic islets (miR-29a/b-1 transgene) [mouse; miR-29a/b-1; gain] >=2 vs 1 members (network edges): diff +0.1064 (SE 0.0693), p 0.416; n 17 vs 14
+dataset GSE151844 mouse pancreatic islets (miR-29a/b-1 transgene) [mouse; miR-29a/b-1; gain] >=2 vs 1 members (TargetScan): diff +nan (SE nan), p nan; n 603 vs 0
+dataset GSE151844 mouse pancreatic islets (miR-29a/b-1 transgene) [mouse; miR-29a/b-1; gain] six-node class vs 1-member (network edges): diff +0.0192 (SE 0.1112), p 1; n 4 vs 14
+dataset GSE247439 mouse hippocampus (miR-379/410 cKO) [mouse; DLK1-DIO3 (miR-379/410); loss] >=2 vs 1 members (network edges): diff +0.0015 (SE 0.0241), p 0.875; n 46 vs 18
+dataset GSE247439 mouse hippocampus (miR-379/410 cKO) [mouse; DLK1-DIO3 (miR-379/410); loss] >=2 vs 1 members (TargetScan): diff -0.0179 (SE 0.0026), p 3.53e-16; n 1571 vs 1275
+dataset GSE247439 mouse hippocampus (miR-379/410 cKO) [mouse; DLK1-DIO3 (miR-379/410); loss] six-node class vs 1-member (network edges): diff +0.0229 (SE 0.0491), p 0.701; n 7 vs 18
+dataset GSE247439 mouse hippocampus (miR-379/410 cKO) [mouse; DLK1-DIO3 (miR-379/410); loss] site-adjusted: >=2 members coefficient (TargetScan): diff -0.0100 (SE 0.0030), p 0.000903; n 1571 vs 1275
+dataset GSE253734 mouse small-intestinal crypts (miR-29a/b-1 KO) [mouse; miR-29a/b-1; loss] >=2 vs 1 members (network edges): diff +0.0298 (SE 0.0577), p 0.181; n 31 vs 17
+dataset GSE253734 mouse small-intestinal crypts (miR-29a/b-1 KO) [mouse; miR-29a/b-1; loss] >=2 vs 1 members (TargetScan): diff +nan (SE nan), p nan; n 824 vs 0
+dataset GSE253734 mouse small-intestinal crypts (miR-29a/b-1 KO) [mouse; miR-29a/b-1; loss] six-node class vs 1-member (network edges): diff +0.0906 (SE 0.1639), p 0.188; n 11 vs 17
+dataset GSE77010 mouse Eu-Myc lymphoma cells (miR-17~92 deletion) [mouse; miR-17~92; loss] >=2 vs 1 members (network edges): diff +0.1357 (SE 1.4465), p 0.805; n 41 vs 11
+dataset GSE77010 mouse Eu-Myc lymphoma cells (miR-17~92 deletion) [mouse; miR-17~92; loss] >=2 vs 1 members (TargetScan): diff -0.0183 (SE 0.1146), p 0.693; n 1310 vs 361
+dataset GSE77010 mouse Eu-Myc lymphoma cells (miR-17~92 deletion) [mouse; miR-17~92; loss] six-node class vs 1-member (network edges): diff +0.3473 (SE 1.5079), p 0.717; n 8 vs 11
+dataset GSE77010 mouse Eu-Myc lymphoma cells (miR-17~92 deletion) [mouse; miR-17~92; loss] site-adjusted: >=2 members coefficient (TargetScan): diff -0.0562 (SE 0.0931), p 0.546; n 1310 vs 361
+dataset GSE78505 mouse Th17 cells (miR-183C KO) [mouse; miR-183~96~182; loss] >=2 vs 1 members (network edges): diff -0.1038 (SE 0.2137), p 0.621; n 25 vs 16
+dataset GSE78505 mouse Th17 cells (miR-183C KO) [mouse; miR-183~96~182; loss] >=2 vs 1 members (TargetScan): diff -0.0961 (SE 0.0681), p 0.258; n 54 vs 846
+dataset GSE78505 mouse Th17 cells (miR-183C KO) [mouse; miR-183~96~182; loss] six-node class vs 1-member (network edges): diff -0.0208 (SE 0.3417), p 0.641; n 6 vs 16
+dataset GSE78505 mouse Th17 cells (miR-183C KO) [mouse; miR-183~96~182; loss] site-adjusted: >=2 members coefficient (TargetScan): diff -0.0757 (SE 0.1105), p 0.493; n 54 vs 846
+dataset GSE80492 A673 Ewing sarcoma (batch 1) [human primary; miR-17~92; loss] >=2 vs 1 members (network edges): diff +0.0493 (SE 0.1422), p 0.468; n 56 vs 20
+dataset GSE80492 A673 Ewing sarcoma (batch 1) [human primary; miR-17~92; loss] >=2 vs 1 members (TargetScan): diff +0.0163 (SE 0.0155), p 0.161; n 1709 vs 470
+dataset GSE80492 A673 Ewing sarcoma (batch 1) [human primary; miR-17~92; loss] six-node class vs 1-member (network edges): diff +0.1752 (SE 0.1593), p 0.255; n 14 vs 20
+dataset GSE80492 A673 Ewing sarcoma (batch 1) [human primary; miR-17~92; loss] site-adjusted: >=2 members coefficient (TargetScan): diff +0.0092 (SE 0.0191), p 0.63; n 1709 vs 470
+dataset GSE81791 D551-derived iPSC [human primary; miR-29a/b-1; loss] >=2 vs 1 members (network edges): diff -0.1722 (SE 0.1607), p 0.161; n 41 vs 17
+dataset GSE81791 D551-derived iPSC [human primary; miR-29a/b-1; loss] >=2 vs 1 members (TargetScan): diff +nan (SE nan), p nan; n 1013 vs 0
+dataset GSE81791 D551-derived iPSC [human primary; miR-29a/b-1; loss] six-node class vs 1-member (network edges): diff -0.0988 (SE 0.2241), p 0.592; n 14 vs 17
+dataset GSE83636 mouse hippocampus (miR-17~92 KO) [mouse; miR-17~92; loss] >=2 vs 1 members (network edges): diff -0.0230 (SE 0.0398), p 0.938; n 63 vs 23
+dataset GSE83636 mouse hippocampus (miR-17~92 KO) [mouse; miR-17~92; loss] >=2 vs 1 members (TargetScan): diff +0.0019 (SE 0.0063), p 0.53; n 1861 vs 510
+dataset GSE83636 mouse hippocampus (miR-17~92 KO) [mouse; miR-17~92; loss] six-node class vs 1-member (network edges): diff -0.0579 (SE 0.0741), p 0.969; n 18 vs 23
+dataset GSE83636 mouse hippocampus (miR-17~92 KO) [mouse; miR-17~92; loss] site-adjusted: >=2 members coefficient (TargetScan): diff +0.0023 (SE 0.0073), p 0.754; n 1861 vs 510

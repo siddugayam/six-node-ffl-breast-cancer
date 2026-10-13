@@ -1,0 +1,5 @@
+querySymbol,gencodeId,status
+MIR29A,ENSG00000284032.1,no independent cis-eQTL in any GTEx v8 tissue
+MIR29B1,ENSG00000283797.1,no independent cis-eQTL in any GTEx v8 tissue
+MIR29C,ENSG00000284214.1,no independent cis-eQTL in any GTEx v8 tissue
+MIR29B2CHG,,gene not present in the GTEx v8 reference (gencode v26); no eQTL can be queried

@@ -1,0 +1,112 @@
+K 6
+nparts 64
+part 53
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 907453
+visited 140529636
+rng_final 42
+comp 0 1 5 6
+comp 1 1 4 52
+comp 1 2 3 515
+comp 1 3 2 627
+comp 2 0 4 2
+comp 2 1 3 614
+comp 2 2 2 4645
+comp 2 3 1 4706
+comp 3 0 3 2472
+comp 3 1 2 41778
+comp 3 2 1 293540
+comp 3 3 0 1856
+comp 4 0 2 16831
+comp 4 1 1 220901
+comp 4 2 0 52125
+comp 5 0 1 51733
+comp 5 1 0 171626
+comp 6 0 0 43424
+mask 2 66
+mask 3 280
+mask 6 532
+mask 7 96
+mask 14 6350
+mask 15 3279
+mask 19 1
+mask 20 8
+mask 21 3
+mask 22 1236
+mask 23 341
+mask 27 13
+mask 28 379
+mask 29 128
+mask 30 536
+mask 31 571
+mask 32 3502
+mask 33 14305
+mask 34 46174
+mask 35 50135
+mask 36 17963
+mask 37 1456
+mask 38 106013
+mask 39 3110
+mask 40 8
+mask 41 61
+mask 42 22
+mask 43 153
+mask 44 149319
+mask 45 109633
+mask 46 108369
+mask 47 140063
+mask 49 2
+mask 50 34
+mask 51 4
+mask 52 24598
+mask 53 4818
+mask 54 81743
+mask 55 6620
+mask 56 7
+mask 57 116
+mask 58 55
+mask 59 174
+mask 60 7303
+mask 61 7685
+mask 62 4522
+mask 63 5667
+flags 0 585551
+flags 1 812
+flags 2 18839
+flags 3 2423
+flags 4 227753
+flags 5 519
+flags 6 11175
+flags 7 686
+flags 8 35859
+flags 9 1
+flags 10 1271
+flags 11 197
+flags 12 13796
+flags 13 1
+flags 14 727
+flags 24 3840
+flags 26 132
+flags 28 3781
+flags 29 6
+flags 30 84
+exflag 0 CREBBP CTNNB1 MET SMAD7 hsa-miR-182 hsa-miR-21
+exflag 0 CREBBP CTNNB1 MET SMAD7 hsa-miR-21 hsa-miR-34a
+exflag 0 CREBBP CTNNB1 MET SMAD7 hsa-miR-21 hsa-miR-96
+exflag 1 CREBBP CTNNB1 CD44 COL1A1 EPAS1 hsa-miR-29c
+exflag 1 CREBBP CTNNB1 CD44 COL1A1 EZH2 hsa-let-7c
+exflag 1 CREBBP CTNNB1 CD44 COL1A1 EZH2 hsa-miR-129
+exflag 2 CREBBP CTNNB1 CD44 COL1A1 EZH2 hsa-let-7c
+exflag 2 CREBBP CTNNB1 CD44 COL1A1 EZH2 hsa-miR-129
+exflag 2 CREBBP CTNNB1 CD44 COL1A1 EZH2 hsa-miR-143
+exflag 3 CREBBP CTNNB1 CD44 COL1A1 RELA hsa-miR-199a | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-199a target=COL1A1
+exflag 3 CREBBP CTNNB1 CD44 CXCL12 RELA hsa-miR-199a | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-199a target=CXCL12
+exflag 3 CREBBP CTNNB1 CD44 FN1 RELA hsa-miR-182 | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-182 target=FN1
+exflag 4 CREBBP CTNNB1 CD44 HIF1A MET hsa-miR-182 | TF1=CTNNB1 TF2=HIF1A miRNA=hsa-miR-182 target=MET
+exflag 4 CREBBP CTNNB1 CD44 MMP14 NFKB1 hsa-miR-150 | TF1=CTNNB1 TF2=NFKB1 miRNA=hsa-miR-150 target=MMP14
+exflag 4 CREBBP CTNNB1 CD44 MMP14 RELA hsa-miR-150 | TF1=CTNNB1 TF2=RELA miRNA=hsa-miR-150 target=MMP14
+exmask 63 CREBBP CTNNB1 CD44 TCF4 hsa-miR-199a EGR1
+exmask 63 CREBBP CTNNB1 EPAS1 EZH2 MMP14 hsa-miR-26a
+exmask 63 CREBBP CTNNB1 EPAS1 JUN VEGFA hsa-miR-106b

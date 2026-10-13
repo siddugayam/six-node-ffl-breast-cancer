@@ -1,0 +1,119 @@
+K 6
+nparts 64
+part 9
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 74365
+visited 25859987
+rng_final 42
+comp 0 1 5 7
+comp 1 0 5 8
+comp 1 1 4 223
+comp 1 2 3 1013
+comp 1 3 2 690
+comp 1 4 1 20
+comp 2 0 4 29
+comp 2 1 3 1352
+comp 2 2 2 9792
+comp 2 3 1 15293
+comp 3 0 3 55
+comp 3 1 2 4072
+comp 3 2 1 28218
+comp 3 3 0 863
+comp 4 0 2 168
+comp 4 1 1 6697
+comp 4 2 0 3199
+comp 5 0 1 472
+comp 5 1 0 1932
+comp 6 0 0 262
+mask 2 18
+mask 3 72
+mask 6 126
+mask 7 11
+mask 11 15
+mask 14 4918
+mask 15 1816
+mask 18 3
+mask 19 3
+mask 20 104
+mask 21 119
+mask 22 634
+mask 23 319
+mask 26 2
+mask 27 17
+mask 28 1441
+mask 29 1086
+mask 30 3221
+mask 31 1602
+mask 33 67
+mask 34 285
+mask 35 552
+mask 37 17
+mask 38 721
+mask 39 86
+mask 40 61
+mask 41 318
+mask 42 98
+mask 43 537
+mask 44 7226
+mask 45 3710
+mask 46 5284
+mask 47 3567
+mask 48 124
+mask 49 134
+mask 50 628
+mask 51 206
+mask 52 1444
+mask 53 607
+mask 54 2264
+mask 55 593
+mask 56 487
+mask 57 1521
+mask 58 969
+mask 59 2054
+mask 60 11638
+mask 61 5432
+mask 62 6889
+mask 63 1319
+flags 0 47147
+flags 1 4163
+flags 2 460
+flags 3 2368
+flags 4 9400
+flags 5 1971
+flags 6 658
+flags 7 827
+flags 8 3033
+flags 9 16
+flags 10 108
+flags 11 339
+flags 12 3230
+flags 13 17
+flags 14 55
+flags 15 30
+flags 24 260
+flags 25 2
+flags 26 12
+flags 27 58
+flags 28 208
+flags 29 1
+flags 30 2
+exflag 0 AHR BRCA1 hsa-miR-106b F3 SERPINE1 hsa-miR-152
+exflag 0 AHR BRCA1 hsa-miR-106b KLF10 SERPINE1 hsa-miR-152
+exflag 0 AHR BRCA1 hsa-miR-106b MMP2 THBS1 hsa-miR-205
+exflag 1 AHR BRCA1 DDIT3 IL6 LIF hsa-miR-106b
+exflag 1 AHR BRCA1 DDIT3 IL6 TLR4 hsa-miR-106b
+exflag 1 AHR BRCA1 EGR1 CCND2 IRF9 hsa-miR-106b
+exflag 2 AHR BRCA1 CDH3 CTNNB1 SMAD7 hsa-miR-106b
+exflag 2 AHR BRCA1 CDH3 MYC MYCN hsa-miR-330
+exflag 2 AHR BRCA1 DDIT3 IL6 LIF hsa-miR-106b
+exflag 3 AHR BRCA1 EGR1 CCND2 MYC hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 3 AHR BRCA1 EGR1 EGR2 FOS hsa-miR-142 | TF1=EGR1 TF2=EGR2 miRNA=hsa-miR-142 target=FOS
+exflag 3 AHR BRCA1 EGR1 F3 hsa-miR-106b hsa-miR-152 | TF1=BRCA1 TF2=EGR1 miRNA=hsa-miR-152 target=F3
+exflag 4 AHR BRCA1 EGR1 EGR2 FOS hsa-miR-142 | TF1=EGR1 TF2=EGR2 miRNA=hsa-miR-142 target=FOS
+exflag 4 AHR BRCA1 EGR1 FAS FOS hsa-miR-23a | TF1=EGR1 TF2=FOS miRNA=hsa-miR-23a target=FAS
+exflag 4 AHR BRCA1 EGR1 FOS FOSB hsa-miR-23a | TF1=EGR1 TF2=FOS miRNA=hsa-miR-23a target=FOSB
+exmask 63 AHR BRCA1 EGR1 FOS BCL2L1 hsa-miR-142
+exmask 63 AHR BRCA1 EGR1 FOS PLAU hsa-miR-181c
+exmask 63 AHR BRCA1 EGR1 FOS PLAU hsa-miR-181d

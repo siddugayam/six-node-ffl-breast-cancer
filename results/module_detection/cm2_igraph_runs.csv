@@ -1,0 +1,39 @@
+run,algorithm,params,k,modularity,largest,singletons,note
+MCL_I1.8,MCL,inflation=1.8;prune=1e-6,63,-0.0544780247733192,159,17,iter=22;converged=1
+MCL_I2.0,MCL,inflation=2.0;prune=1e-6,122,-0.0198268689671639,113,43,iter=20;converged=1
+MCL_I2.2,MCL,inflation=2.2;prune=1e-6,204,0.0203073739939082,53,99,iter=14;converged=1
+MCL_I2.5,MCL,inflation=2.5;prune=1e-6,281,0.0212594589884254,26,163,iter=11;converged=1
+MCL_I3.0,MCL,inflation=3.0;prune=1e-6,381,0.0144247369767807,11,263,iter=10;converged=1
+MCL_I3.5,MCL,inflation=3.5;prune=1e-6,421,0.0132095595031636,7,311,iter=9;converged=1
+MCL_I4.0,MCL,inflation=4.0;prune=1e-6,456,0.013120655212033,6,365,iter=8;converged=1
+MCL_I2.5_p0.0001,MCL,inflation=2.5;prune=0.0001,356,0.0204182052817713,15,236,iter=11
+MCL_I2.5_p1e-08,MCL,inflation=2.5;prune=1e-08,283,0.0204538268134335,26,163,iter=12
+MCL_I2.5_p1e-15,MCL,inflation=2.5;prune=1e-15,282,0.0201630776701132,31,163,iter=12
+Louvain_r0.50,Louvain,resolution=0.50,1,0,587,0,""
+Louvain_r0.75,Louvain,resolution=0.75,4,0.250207133776025,220,0,""
+Louvain_r1.00,Louvain,resolution=1.00,8,0.26681525184596,118,0,""
+Louvain_r1.25,Louvain,resolution=1.25,12,0.26104010905761,68,0,""
+Louvain_r1.50,Louvain,resolution=1.50,18,0.250605345666432,57,0,""
+Louvain_r2.00,Louvain,resolution=2.00,27,0.240512095642884,43,0,""
+Walktrap_s2,Walktrap,steps=2,39,0.0129973729159751,514,27,""
+Walktrap_s3,Walktrap,steps=3,190,0.00548834459706206,66,122,""
+Walktrap_s4,Walktrap,steps=4,489,0.00342415318033064,29,458,""
+Walktrap_s5,Walktrap,steps=5,466,0.0129410521734707,27,423,""
+Walktrap_s6,Walktrap,steps=6,463,0.0133070897772154,23,420,""
+Walktrap_s8,Walktrap,steps=8,428,0.0165148378239655,44,389,""
+Infomap_t1,Infomap,nb.trials=1,2,0.000354468082855728,585,0,""
+Infomap_t10,Infomap,nb.trials=10,3,0.00106098015847625,582,0,""
+Infomap_t100,Infomap,nb.trials=100,3,0.00106098015847625,582,0,""
+LabelProp_best,LabelProp,"100 restarts, best modularity",1,0,587,0,k_range=1-1
+LabelProp_median,LabelProp,"100 restarts, median-modularity run",1,0,587,0,""
+FastGreedy,FastGreedy,modularity-optimal cut,7,0.234369356907158,151,0,""
+FastGreedy_k3,FastGreedy,cut_at k=3,3,0.203840586672617,308,0,""
+FastGreedy_k5,FastGreedy,cut_at k=5,5,0.234117802467258,151,0,""
+FastGreedy_k8,FastGreedy,cut_at k=8,8,0.234342093764057,151,0,""
+FastGreedy_k10,FastGreedy,cut_at k=10,10,0.234235654171878,151,2,""
+FastGreedy_k20,FastGreedy,cut_at k=20,20,0.23332402314836,149,7,""
+LeadingEigen,LeadingEigen,default,5,0.203281393162983,224,0,""
+Leiden_mod_r0.5,Leiden,objective=modularity;resolution=0.5,1,0,587,0,""
+Leiden_mod_r1.0,Leiden,objective=modularity;resolution=1.0,6,0.271874737127893,172,0,""
+Leiden_mod_r2.0,Leiden,objective=modularity;resolution=2.0,25,0.246591005253161,43,0,""
+EdgeBetweenness,GirvanNewman,modularity-optimal cut,467,0.0417289007198477,114,460,""

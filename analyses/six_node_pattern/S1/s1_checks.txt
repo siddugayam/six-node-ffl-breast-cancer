@@ -1,0 +1,2 @@
+CHECK NULL-B: 1000 replicates compared with the stored run; three-node columns identical in every replicate: True; stored observed total 5833, this observed total 5833; stored-run mean 6778.1 -> observed/mean - 1 = -13.9 %
+CHECK NULL-C: 1000 replicates compared with the stored run; three-node columns identical in every replicate: True; stored observed total 5833, this observed total 5833; stored-run mean 6506.0 -> observed/mean - 1 = -10.3 %

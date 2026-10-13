@@ -1,0 +1,8 @@
+nodes: 587 Counter({'miRNA': 223, 'Gene': 207, 'TF': 157})
+raw labels in merge_map: 803
+deposited rows: 6859 unique directed: 6859
+  classes: {'TF_target': 770, 'TF_miRNA': 1239, 'gene_gene': 1, 'miRNA_target': 4819, 'miRNA_miRNA': 30}
+  reciprocal TF<->miRNA pairs: 1223
+layer_TF_target rows mapped into node universe: 1374 unique: 1374
+layer_gene_gene directed: 696 undirected: 941
+layer_miRNA_miRNA 10kb pairs in universe: 480 unique: 480

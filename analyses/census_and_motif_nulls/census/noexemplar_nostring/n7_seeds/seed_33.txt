@@ -1,0 +1,95 @@
+K 7
+nparts 1
+part 0
+seed 33
+q 1 1 0.2 0.2 0.2 0.2
+prod_q 0.0016000000000000005
+found 140392
+visited 187640484
+rng_final 2448799582249824710
+comp 1 2 4 3
+comp 1 3 3 28
+comp 1 4 2 370
+comp 1 5 1 1110
+comp 2 1 4 2
+comp 2 2 3 98
+comp 2 3 2 4640
+comp 2 4 1 19282
+comp 2 5 0 44
+comp 3 1 3 44
+comp 3 2 2 3735
+comp 3 3 1 51916
+comp 3 4 0 1085
+comp 4 0 3 2
+comp 4 1 2 1148
+comp 4 2 1 35275
+comp 4 3 0 5114
+comp 5 0 2 124
+comp 5 1 1 6856
+comp 5 2 0 6025
+comp 6 0 1 640
+comp 6 1 0 2604
+comp 7 0 0 247
+mask 2 248
+mask 3 765
+mask 6 1680
+mask 7 267
+mask 11 11
+mask 12 613
+mask 13 329
+mask 14 37836
+mask 15 25924
+mask 18 95
+mask 19 161
+mask 20 533
+mask 21 70
+mask 22 12596
+mask 23 2322
+mask 26 10
+mask 27 120
+mask 28 7809
+mask 29 3036
+mask 30 28070
+mask 31 17852
+mask 46 8
+mask 47 19
+mask 60 3
+mask 61 1
+mask 62 2
+mask 63 12
+flags 0 114913
+flags 1 5801
+flags 2 337
+flags 3 1979
+flags 4 2
+flags 5 3
+flags 6 3
+flags 7 31
+flags 8 12980
+flags 9 210
+flags 10 50
+flags 11 268
+flags 15 1
+flags 24 3627
+flags 25 56
+flags 26 6
+flags 27 124
+flags 30 1
+exflag 0 APEX1 RELA TBX21 YY1 hsa-miR-133b ADAMTS5 hsa-miR-137
+exflag 0 APEX1 RELA TBX21 YY1 hsa-miR-133b ADAMTS5 hsa-miR-9
+exflag 0 AR EP300 DNMT1 hsa-miR-148a SERPINE1 hsa-miR-19a KLF10
+exflag 1 AR EP300 DNMT1 hsa-miR-148a SERPINE1 hsa-miR-19a KLF10
+exflag 1 AR KLF5 MYC CCND2 hsa-miR-141 STAT5A hsa-miR-15a
+exflag 1 AR KLF5 MYC CCND2 hsa-miR-141 STAT5A hsa-miR-20a
+exflag 2 AR MYC hsa-let-7c COL1A1 COL3A1 hsa-let-7f hsa-miR-29b
+exflag 2 E2F1 ETV4 ETS1 COL1A1 COL3A1 MYB hsa-miR-143
+exflag 2 E2F1 MYB COL1A1 COL3A1 hsa-let-7a MITF hsa-miR-29a
+exflag 3 AHR BRCA1 HIF1A MYC VEGFA hsa-miR-106b hsa-miR-20b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 3 AHR BRCA1 HIF1A MYC VEGFA hsa-miR-106b hsa-miR-29b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 3 AHR BRCA1 HIF1A MYC VEGFA hsa-miR-106b hsa-miR-29c | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA
+exflag 4 AHR BRCA1 HIF1A MYC VEGFA hsa-miR-200c hsa-miR-205 | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-205 target=VEGFA
+exflag 4 AHR BRCA1 MYC STAT3 DNMT1 TERT hsa-miR-15a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-15a target=TERT
+exflag 4 ARNT BRCA1 EGR1 AR FN1 hsa-miR-101 hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=FN1
+exmask 63 E2F1 MYB COL1A1 COL3A1 hsa-let-7a MITF hsa-miR-29a
+exmask 63 ESR1 hsa-miR-143 COL1A1 COL3A1 hsa-miR-17 IRF1 MYB
+exmask 63 HIF1A TWIST1 MYB COL1A1 COL3A1 hsa-miR-1271 hsa-miR-143

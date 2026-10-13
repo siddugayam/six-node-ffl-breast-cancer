@@ -1,0 +1,77 @@
+K 6
+nparts 64
+part 23
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 110445
+visited 33508548
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 93
+comp 1 3 2 790
+comp 1 4 1 162
+comp 2 1 3 22
+comp 2 2 2 2139
+comp 2 3 1 20340
+comp 2 4 0 17
+comp 3 0 3 1
+comp 3 1 2 1114
+comp 3 2 1 53639
+comp 3 3 0 1860
+comp 4 0 2 129
+comp 4 1 1 11678
+comp 4 2 0 9089
+comp 5 0 1 1376
+comp 5 1 0 7131
+comp 6 0 0 864
+mask 2 864
+mask 3 1506
+mask 6 5056
+mask 7 318
+mask 11 23
+mask 12 137
+mask 13 156
+mask 14 45135
+mask 15 18890
+mask 18 1
+mask 19 8
+mask 20 1182
+mask 21 125
+mask 22 11858
+mask 23 1848
+mask 26 14
+mask 27 42
+mask 28 12072
+mask 29 1825
+mask 30 3856
+mask 31 5507
+mask 46 9
+mask 47 13
+flags 0 101840
+flags 1 1275
+flags 2 665
+flags 3 834
+flags 4 9
+flags 6 1
+flags 7 12
+flags 8 5222
+flags 9 3
+flags 10 31
+flags 11 15
+flags 24 538
+exflag 0 HOXA10 IL11 hsa-let-7a HIC1 STAT3 hsa-let-7c
+exflag 0 HOXA10 MYCN MYBL2 COL1A1 hsa-let-7a hsa-let-7c
+exflag 0 HOXA10 MYCN hsa-let-7a CCND2 hsa-miR-106a IRF9
+exflag 1 HOXA10 MYCN MYBL2 COL1A1 MYC hsa-let-7a
+exflag 1 HOXA10 MYCN MYBL2 COL1A1 MYC hsa-let-7c
+exflag 1 HOXA10 MYCN MYBL2 COL1A1 TP53 hsa-miR-143
+exflag 2 HOXA10 MYCN hsa-let-7a COL1A1 COL3A1 hsa-miR-335
+exflag 2 HOXA10 MYCN hsa-let-7c COL1A1 COL3A1 hsa-miR-335
+exflag 2 HOXA10 TP53 hsa-let-7a COL1A1 COL3A1 hsa-miR-143
+exflag 3 HOXA10 IL11 MYCN TP53 CTNNB1 hsa-miR-124 | TF1=MYCN TF2=TP53 miRNA=hsa-miR-124 target=CTNNB1
+exflag 3 HOXA10 IL11 MYCN TP53 HNF4A hsa-miR-124 | TF1=MYCN TF2=TP53 miRNA=hsa-miR-124 target=HNF4A
+exflag 3 HOXA10 MYCN DKK3 TP53 E2F3 hsa-miR-19a | TF1=MYCN TF2=TP53 miRNA=hsa-miR-19a target=E2F3
+exflag 4 HOXA10 MYCN TP53 E2F3 VEGFA hsa-miR-17 | TF1=TP53 TF2=E2F3 miRNA=hsa-miR-17 target=VEGFA
+exflag 4 HOXA10 MYCN TP53 E2F3 VEGFA hsa-miR-20a | TF1=TP53 TF2=E2F3 miRNA=hsa-miR-20a target=VEGFA
+exflag 4 HOXA10 MYCN TP53 SMAD3 VEGFA hsa-miR-17 | TF1=TP53 TF2=SMAD3 miRNA=hsa-miR-17 target=VEGFA

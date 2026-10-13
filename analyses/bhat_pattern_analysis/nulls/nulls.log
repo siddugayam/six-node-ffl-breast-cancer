@@ -1,0 +1,57 @@
+CHECK 1 input graph = census graph of make_ffl_networks.py (9,226 arcs, types and layers): True
+CHECK 2 3node_miRNA_FFL      observed instances   1355 sets   1355; instance list equal to the builder's: True
+CHECK 2 3node_TF_FFL         observed instances   1182 sets   1182; instance list equal to the builder's: True
+CHECK 2 3node_composite_FFL  observed instances   1173 sets   1173; instance list equal to the builder's: True
+CHECK 2 4node_miRNA_FFL      observed instances   2580 sets   2554; instance list equal to the builder's: True
+CHECK 2 4node_TF_FFL         observed instances   2090 sets   2065; instance list equal to the builder's: True
+CHECK 2 4node_composite_FFL  observed instances   2054 sets   2029; instance list equal to the builder's: True
+CHECK 2 5node_miRNA_FFL      observed instances   2272 sets   1456; instance list equal to the builder's: True
+CHECK 2 5node_TF_FFL         observed instances   1719 sets   1168; instance list equal to the builder's: True
+CHECK 2 5node_composite_FFL  observed instances   1719 sets   1168; instance list equal to the builder's: True
+CHECK 2 6node_miRNA_FFL      observed instances  14003 sets   8606; instance list equal to the builder's: True
+CHECK 2 6node_TF_FFL         observed instances  15701 sets   9950; instance list equal to the builder's: True
+CHECK 2 6node_composite_FFL  observed instances   3898 sets   2498; instance list equal to the builder's: True
+CHECK 3 NULL-B: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-B: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+CHECK 3 NULL-C: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-C: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+CHECK 3 NULL-L: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-L: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+CHECK 3 NULL-L TRRUST layer only: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-L TRRUST layer only: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+CHECK 3 NULL-L STRING layer only: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-L STRING layer only: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+CHECK 3 NULL-L 10 kb layer only: 1000 replicates; S1 columns equal to the stored S1 run in every replicate: True
+CHECK 4 NULL-L 10 kb layer only: new three-node composite count equal to S1 bhat3_comp in every replicate: True
+
+            network     count  observed  NULL_B_ratio  NULL_B_p_upper  NULL_C_ratio  NULL_C_p_upper  NULL_C_p_lower  NULL_L_ratio  NULL_L_p_upper  NULL_L_p_lower  NULL_L_null_sd                          decision
+    3node_miRNA_FFL instances    1355.0      1.050616        0.096903      1.465381        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+    3node_miRNA_FFL node sets    1355.0      1.050616        0.096903      1.465381        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+       3node_TF_FFL instances    1182.0      1.066591        0.048951      1.450876        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+       3node_TF_FFL node sets    1182.0      1.066591        0.048951      1.450876        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+3node_composite_FFL instances    1173.0      1.074763        0.033966      1.458892        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+3node_composite_FFL node sets    1173.0      1.074763        0.033966      1.458892        0.000999        1.000000      1.000000        1.000000        1.000000        0.000000 explained by the three-node cores
+    4node_miRNA_FFL instances    2580.0      0.950838        0.739261      1.324728        0.000999        1.000000      1.002532        0.468531        0.533467      139.273288 explained by the three-node cores
+    4node_miRNA_FFL node sets    2554.0      0.949307        0.747253      1.319053        0.000999        1.000000      0.999220        0.494505        0.510490      137.705526 explained by the three-node cores
+       4node_TF_FFL instances    2090.0      0.897315        0.915085      1.218405        0.010989        0.990010      1.008246        0.436563        0.568432      115.843597 explained by the three-node cores
+       4node_TF_FFL node sets    2065.0      0.894701        0.923077      1.211300        0.014985        0.987013      1.004117        0.462537        0.540460      114.221151 explained by the three-node cores
+4node_composite_FFL instances    2054.0      0.895818        0.920080      1.213209        0.013986        0.987013      1.004979        0.458541        0.550450      114.173230 explained by the three-node cores
+4node_composite_FFL node sets    2029.0      0.893003        0.924076      1.205865        0.018981        0.983017      1.000673        0.480519        0.521479      112.559528 explained by the three-node cores
+    5node_miRNA_FFL instances    2272.0      2.141976        0.000999      2.976526        0.000999        1.000000      4.244476        0.000999        1.000000       91.107409                  over-represented
+    5node_miRNA_FFL node sets    1456.0      1.454506        0.013986      2.032972        0.000999        1.000000      2.897420        0.000999        1.000000       82.237137                  over-represented
+       5node_TF_FFL instances    1719.0      1.995760        0.000999      2.641718        0.000999        1.000000      4.815679        0.000999        1.000000       65.563862                  over-represented
+       5node_TF_FFL node sets    1168.0      1.426365        0.018981      1.902832        0.000999        1.000000      3.421457        0.000999        1.000000       59.888304                  over-represented
+5node_composite_FFL instances    1719.0      2.004478        0.000999      2.652291        0.000999        1.000000      4.828652        0.000999        1.000000       65.502325                  over-represented
+5node_composite_FFL node sets    1168.0      1.432003        0.017982      1.909239        0.000999        1.000000      3.429947        0.000999        1.000000       59.834516                  over-represented
+    6node_miRNA_FFL instances   14003.0      1.866733        0.000999      2.057160        0.000999        1.000000      3.774374        0.000999        1.000000      714.622276                  over-represented
+    6node_miRNA_FFL node sets    8606.0      1.241819        0.084915      1.358863        0.033966        0.967033      2.544668        0.000999        1.000000      621.019739                  over-represented
+       6node_TF_FFL instances   15701.0      2.041171        0.000999      2.179209        0.000999        1.000000      4.147360        0.000999        1.000000      685.385791                  over-represented
+       6node_TF_FFL node sets    9950.0      1.401516        0.020979      1.494331        0.005994        0.995005      2.903293        0.000999        1.000000      586.793906                  over-represented
+6node_composite_FFL instances    3898.0      2.430952        0.000999      2.347344        0.001998        0.999001      3.688396        0.000999        1.000000      279.937156                  over-represented
+6node_composite_FFL node sets    2498.0      1.750126        0.014985      1.663427        0.014985        0.986014      2.660433        0.000999        1.000000      232.468453                  over-represented
+
+NULL-LT observed / mean: 3node_miRNA_FFL 1.000 (p_upper 1.0000), 3node_TF_FFL 1.000 (p_upper 1.0000), 3node_composite_FFL 1.000 (p_upper 1.0000), 4node_miRNA_FFL 1.000 (p_upper 1.0000), 4node_TF_FFL 1.000 (p_upper 1.0000), 4node_composite_FFL 1.000 (p_upper 1.0000), 5node_miRNA_FFL 1.000 (p_upper 1.0000), 5node_TF_FFL 1.000 (p_upper 1.0000), 5node_composite_FFL 1.000 (p_upper 1.0000), 6node_miRNA_FFL 0.922 (p_upper 0.9740), 6node_TF_FFL 1.047 (p_upper 0.1379), 6node_composite_FFL 0.985 (p_upper 0.5514)
+
+NULL-LG observed / mean: 3node_miRNA_FFL 1.000 (p_upper 1.0000), 3node_TF_FFL 1.000 (p_upper 1.0000), 3node_composite_FFL 1.000 (p_upper 1.0000), 4node_miRNA_FFL 0.998 (p_upper 0.5055), 4node_TF_FFL 1.003 (p_upper 0.4735), 4node_composite_FFL 1.000 (p_upper 0.5015), 5node_miRNA_FFL 1.106 (p_upper 0.0989), 5node_TF_FFL 1.100 (p_upper 0.1069), 5node_composite_FFL 1.101 (p_upper 0.1059), 6node_miRNA_FFL 1.117 (p_upper 0.1189), 6node_TF_FFL 1.079 (p_upper 0.1738), 6node_composite_FFL 1.075 (p_upper 0.2458)
+
+NULL-LM observed / mean: 3node_miRNA_FFL 1.000 (p_upper 1.0000), 3node_TF_FFL 1.000 (p_upper 1.0000), 3node_composite_FFL 1.000 (p_upper 1.0000), 4node_miRNA_FFL 1.000 (p_upper 1.0000), 4node_TF_FFL 1.000 (p_upper 1.0000), 4node_composite_FFL 1.000 (p_upper 1.0000), 5node_miRNA_FFL 4.055 (p_upper 0.0010), 5node_TF_FFL 4.668 (p_upper 0.0010), 5node_composite_FFL 4.685 (p_upper 0.0010), 6node_miRNA_FFL 4.307 (p_upper 0.0010), 6node_TF_FFL 3.990 (p_upper 0.0010), 6node_composite_FFL 3.642 (p_upper 0.0010)

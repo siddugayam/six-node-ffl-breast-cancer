@@ -1,0 +1,78 @@
+{
+ "K": 4,
+ "n_partition_files": 1,
+ "prod_q": 1.0,
+ "found": 82317,
+ "estimated_modules": 82317.0,
+ "visited": 3717682,
+ "composition": {
+  "TF0_miR1_G3": 7,
+  "TF0_miR2_G2": 46,
+  "TF0_miR3_G1": 482,
+  "TF0_miR4_G0": 21,
+  "TF1_miR1_G2": 624,
+  "TF1_miR2_G1": 46064,
+  "TF1_miR3_G0": 77,
+  "TF2_miR0_G2": 153,
+  "TF2_miR1_G1": 14270,
+  "TF2_miR2_G0": 6688,
+  "TF3_miR0_G1": 3152,
+  "TF3_miR1_G0": 9027,
+  "TF4_miR0_G0": 1706
+ },
+ "flags_found": {
+  "a_2TF_2miR_2Gene": 0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 2151,
+  "c_full_compositecore_plus_TF2": 471
+ },
+ "flags_estimated": {
+  "a_2TF_2miR_2Gene": 0.0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0.0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0.0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 2151.0,
+  "c_full_compositecore_plus_TF2": 471.0
+ },
+ "flags_pct": {
+  "a_2TF_2miR_2Gene": 0.0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0.0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0.0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 2.613068989394657,
+  "c_full_compositecore_plus_TF2": 0.572178286380699
+ },
+ "flag_pattern_counts": {
+  "none": 80166,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 1680,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM+c_full_compositecore_plus_TF2": 471
+ },
+ "n_classes_hist": {
+  "1": 1745,
+  "2": 47788,
+  "3": 18965,
+  "4": 13725,
+  "5": 94
+ },
+ "max_classes": 5,
+ "class_sets_at_max": {
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF": 92,
+  "TF->Gene+TF->miRNA+miRNA->Gene+miRNA->TF+miRNA-miRNA": 2
+ },
+ "class_sets_with_6_or_more": {},
+ "examples_by_flag": {
+  "a_2TF_2miR_2Gene": [],
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": [],
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": [],
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": [
+   "AHR MYC CCND2 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2",
+   "AHR MYC CDCA7 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CDCA7",
+   "AHR MYC VEGFA hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=VEGFA"
+  ],
+  "c_full_compositecore_plus_TF2": [
+   "AR MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA",
+   "AR MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA",
+   "ARNT JUN VEGFA hsa-miR-106b | TF1=ARNT TF2=JUN miRNA=hsa-miR-106b target=VEGFA"
+  ]
+ },
+ "examples_by_class_set": {}
+}

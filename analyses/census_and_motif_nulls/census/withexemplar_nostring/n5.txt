@@ -1,0 +1,111 @@
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 813072
+visited 114109429
+rng_final 42
+comp 0 2 3 21
+comp 0 3 2 100
+comp 0 4 1 466
+comp 0 5 0 4
+comp 1 1 3 138
+comp 1 2 2 19958
+comp 1 3 1 112550
+comp 1 4 0 68
+comp 2 0 3 4
+comp 2 1 2 8606
+comp 2 2 1 396908
+comp 2 3 0 10306
+comp 3 0 2 1342
+comp 3 1 1 111928
+comp 3 2 0 67738
+comp 4 0 1 16771
+comp 4 1 0 58311
+comp 5 0 0 7853
+mask 2 7931
+mask 3 18039
+mask 6 39899
+mask 7 1625
+mask 10 19
+mask 11 541
+mask 12 66117
+mask 13 14647
+mask 14 234288
+mask 15 156864
+mask 17 97
+mask 18 2291
+mask 19 2923
+mask 20 7975
+mask 21 1377
+mask 22 82229
+mask 23 12907
+mask 25 71
+mask 26 374
+mask 27 3647
+mask 28 30145
+mask 29 39637
+mask 30 45692
+mask 31 17547
+mask 44 63
+mask 45 8
+mask 47 100
+mask 59 5
+mask 60 27
+mask 61 3
+mask 64 4
+mask 68 46
+mask 70 2243
+mask 71 38
+mask 72 466
+mask 73 63
+mask 75 25
+mask 76 10354
+mask 77 1910
+mask 78 1299
+mask 79 3251
+mask 80 18
+mask 82 3
+mask 84 1440
+mask 85 111
+mask 86 660
+mask 87 16
+mask 89 212
+mask 90 16
+mask 91 170
+mask 92 2943
+mask 93 483
+mask 94 22
+mask 95 82
+mask 104 37
+mask 105 21
+mask 108 23
+mask 109 26
+mask 124 2
+flags 0 775202
+flags 2 3590
+flags 4 2
+flags 6 92
+flags 8 23562
+flags 10 300
+flags 14 2
+flags 24 10248
+flags 26 70
+flags 30 4
+exflag 1 AHR BRCA1 IRF9 CCND2 hsa-miR-106b
+exflag 1 AHR MYC CCND2 hsa-miR-106b IRF9
+exflag 1 AR EP300 VEGFA hsa-let-7a HIC1
+exflag 2 E2F1 MYB COL1A1 COL3A1 hsa-miR-29a
+exflag 2 EGR1 MYB COL1A1 COL3A1 hsa-let-7e
+exflag 2 EGR1 MYB COL1A1 COL3A1 hsa-miR-335
+exflag 3 AHR BRCA1 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 3 AHR BRCA1 MYC CCND2 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 3 AHR BRCA1 MYC CDCA7 hsa-miR-106b | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CDCA7
+exflag 4 AHR BRCA1 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 APEX1 NFKB1 ABCA1 RELA hsa-miR-130a | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exflag 4 APEX1 NFKB1 ABCA1 RELA hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-17 target=ABCA1
+exmask 95 CEBPA STAT3 BCL2L1 hsa-miR-29b hsa-let-7b
+exmask 95 CEBPA STAT3 BCL2L1 hsa-miR-29b hsa-let-7e
+exmask 95 CEBPA STAT3 CCND2 hsa-miR-29b hsa-let-7b

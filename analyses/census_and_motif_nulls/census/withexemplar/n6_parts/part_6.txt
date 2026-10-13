@@ -1,0 +1,172 @@
+K 6
+nparts 64
+part 6
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 288926
+visited 91239229
+rng_final 42
+comp 0 1 5 57
+comp 1 0 5 1
+comp 1 1 4 380
+comp 1 2 3 3843
+comp 1 3 2 5925
+comp 1 4 1 3680
+comp 2 0 4 109
+comp 2 1 3 3967
+comp 2 2 2 34716
+comp 2 3 1 54207
+comp 2 4 0 14
+comp 3 0 3 522
+comp 3 1 2 14668
+comp 3 2 1 99061
+comp 3 3 0 3002
+comp 4 0 2 1522
+comp 4 1 1 30380
+comp 4 2 0 13866
+comp 5 0 1 3406
+comp 5 1 0 13600
+comp 6 0 0 2000
+mask 2 89
+mask 3 222
+mask 6 835
+mask 7 62
+mask 10 3
+mask 11 31
+mask 12 7
+mask 13 3
+mask 14 30392
+mask 15 10570
+mask 18 12
+mask 19 20
+mask 20 570
+mask 21 80
+mask 22 3780
+mask 23 551
+mask 26 38
+mask 27 101
+mask 28 12079
+mask 29 1938
+mask 30 10450
+mask 31 4761
+mask 32 1
+mask 33 353
+mask 34 2018
+mask 35 4877
+mask 36 73
+mask 37 232
+mask 38 8149
+mask 39 1194
+mask 40 413
+mask 41 1411
+mask 42 447
+mask 43 1479
+mask 44 21291
+mask 45 11669
+mask 46 37810
+mask 47 37252
+mask 48 13
+mask 49 110
+mask 50 511
+mask 51 198
+mask 52 1866
+mask 53 858
+mask 54 13544
+mask 55 2375
+mask 56 580
+mask 57 1549
+mask 58 1419
+mask 59 1816
+mask 60 23747
+mask 61 11624
+mask 62 10973
+mask 63 4962
+mask 70 134
+mask 71 3
+mask 76 43
+mask 77 7
+mask 78 1495
+mask 79 457
+mask 86 142
+mask 87 12
+mask 92 381
+mask 93 181
+mask 94 170
+mask 95 42
+mask 100 90
+mask 101 16
+mask 102 650
+mask 103 20
+mask 108 1160
+mask 109 769
+mask 110 339
+mask 111 739
+mask 116 95
+mask 117 6
+mask 118 124
+mask 119 4
+mask 124 273
+mask 125 145
+mask 126 10
+mask 127 11
+flags 0 155335
+flags 1 17357
+flags 2 1677
+flags 3 5391
+flags 4 60185
+flags 5 5861
+flags 6 6438
+flags 7 4850
+flags 8 16090
+flags 9 153
+flags 10 538
+flags 11 758
+flags 12 9886
+flags 13 61
+flags 14 630
+flags 15 172
+flags 24 1477
+flags 25 17
+flags 26 28
+flags 27 86
+flags 28 1890
+flags 29 5
+flags 30 36
+flags 31 5
+exflag 0 GLI1 CYR61 hsa-miR-29a FOSL1 EZH2 hsa-miR-181b
+exflag 0 GLI1 CYR61 hsa-miR-29a ID1 MYOD1 hsa-miR-22
+exflag 0 GLI1 CYR61 hsa-miR-29a LPL PPARG hsa-miR-145
+exflag 1 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-106a
+exflag 1 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-106b
+exflag 1 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-17
+exflag 2 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-106a
+exflag 2 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-106b
+exflag 2 DDIT3 IL6 LIF SIRT1 MYC hsa-miR-17
+exflag 3 GLI1 CYR61 JUN ETS1 TP53 hsa-miR-222 | TF1=JUN TF2=ETS1 miRNA=hsa-miR-222 target=TP53
+exflag 3 GLI1 CYR61 JUN EZH2 STAT3 hsa-miR-181b | TF1=EZH2 TF2=STAT3 miRNA=hsa-miR-181b target=CYR61
+exflag 3 GLI1 CYR61 JUN MYC MYCN hsa-miR-221 | TF1=JUN TF2=MYC miRNA=hsa-miR-221 target=MYCN
+exflag 4 GLI1 EGR2 EP300 JUN VEGFA hsa-miR-200c | TF1=EP300 TF2=JUN miRNA=hsa-miR-200c target=VEGFA
+exflag 4 GLI1 EGR2 FAS FOS JUN hsa-miR-23a | TF1=FOS TF2=JUN miRNA=hsa-miR-23a target=FAS
+exflag 4 GLI1 EGR2 FAS FOS RELA hsa-miR-23a | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=FAS
+exmask 63 GLI1 CYR61 JUN hsa-miR-203 hsa-miR-29a FOS
+exmask 63 GLI1 EGR2 EGR3 FOS OXTR hsa-miR-29a
+exmask 63 GLI1 EGR2 EP300 FOS OXTR hsa-miR-29a
+exmask 95 PPARG BCL2L1 MYC hsa-let-7b hsa-let-7e hsa-miR-125b
+exmask 95 PPARG BCL2L1 MYC hsa-let-7b hsa-miR-125b hsa-miR-29b
+exmask 95 PPARG BCL2L1 MYC hsa-let-7b hsa-miR-125b hsa-miR-29c
+exmask 111 GLI1 EGR2 FAS SOX10 hsa-miR-335 hsa-let-7b
+exmask 111 GLI1 EGR2 FAS SOX10 hsa-miR-335 hsa-let-7e
+exmask 111 GLI1 EGR2 LIF SOX10 hsa-miR-29a hsa-miR-335
+exmask 119 PPARG CAV1 ESR1 FOS hsa-miR-143 hsa-miR-29b
+exmask 119 PPARG TP53 FAS YBX1 hsa-miR-143 hsa-miR-29b
+exmask 119 PPARG TP53 MET YBX1 hsa-miR-143 hsa-miR-29b
+exmask 125 PPARG BCL2L1 HRK hsa-miR-29b FOS hsa-let-7b
+exmask 125 PPARG BCL2L1 HRK hsa-miR-29b FOS hsa-let-7e
+exmask 125 PPARG BCL2L1 HRK hsa-miR-29b HIF1A hsa-let-7e
+exmask 126 PPARG RELA STAT3 hsa-let-7e HIC1 hsa-miR-29b
+exmask 126 PPARG RELA STAT3 hsa-miR-29b hsa-let-7b HIC1
+exmask 126 PPARG SMAD3 STAT3 hsa-miR-29b hsa-let-7b HIC1
+exmask 127 PPARG RELA CCND2 STAT3 hsa-let-7e hsa-miR-29b
+exmask 127 PPARG RELA CCND2 STAT3 hsa-miR-29b hsa-let-7b
+exmask 127 PPARG RELA FAS STAT3 hsa-let-7e hsa-miR-29b

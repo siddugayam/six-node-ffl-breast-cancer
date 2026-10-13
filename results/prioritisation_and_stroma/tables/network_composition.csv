@@ -1,0 +1,8 @@
+edge_type,source_type,target_type,edges
+miRNA_target,miRNA,Gene,3266
+miRNA_target,miRNA,TF,1553
+TF_miRNA,TF,miRNA,1239
+TF_target,TF,Gene,681
+TF_target,TF,TF,89
+gene_gene,Gene,Gene,1
+TOTAL,,,6829

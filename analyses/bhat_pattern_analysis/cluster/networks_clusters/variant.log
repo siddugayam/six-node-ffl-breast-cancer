@@ -1,0 +1,12 @@
+clusters 3node_miRNA_FFL: instances 1355 -> kept 929; nodes 395; edges not written
+clusters 3node_TF_FFL: instances 1182 -> kept 844; nodes 379; edges not written
+clusters 3node_composite_FFL: instances 1173 -> kept 835; nodes 377; edges not written
+clusters 4node_miRNA_FFL: instances 2580 -> kept 1866; nodes 392; edges not written
+clusters 4node_TF_FFL: instances 2090 -> kept 1563; nodes 385; edges not written
+clusters 4node_composite_FFL: instances 2054 -> kept 1527; nodes 381; edges not written
+clusters 5node_miRNA_FFL: instances 2272 -> kept 688; nodes 255; edges not written
+clusters 5node_TF_FFL: instances 1719 -> kept 602; nodes 250; edges not written
+clusters 5node_composite_FFL: instances 1719 -> kept 602; nodes 250; edges not written
+clusters 6node_miRNA_FFL: instances 14003 -> kept 4041; nodes 337; edges not written
+clusters 6node_TF_FFL: instances 15701 -> kept 4810; nodes 332; edges not written
+clusters 6node_composite_FFL: instances 3898 -> kept 1151; nodes 222; edges not written

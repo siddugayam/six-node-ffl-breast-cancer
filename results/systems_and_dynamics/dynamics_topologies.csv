@@ -1,0 +1,26 @@
+topology,label,n_nodes,gate,miRNA_arm_post_transcriptional,sign_TF_to_intermediate,sign_intermediate_to_target,sign_TF_to_target,reciprocal_miRNA_represses_TF,signal_enters_at,n_sign_resolved_cores_in_BRCA_network,census_class,note
+CASCADE,Regulated cascade S->TF->gene (control),3,AND,False,0,0,1,False,TF1,0,control,no shortcut; the reference against which delay/acceleration is measured
+C1_TXN_AND,"Coherent type-1 FFL, transcriptional (AND)",3,AND,False,1,1,1,False,TF1,0,transcriptional reference (Alon),Alon's C1; UNREALISABLE with a miRNA intermediate (see C-2); 0 cores
+I1_TXN_AND,"Incoherent type-1 FFL, transcriptional (AND)",3,AND,False,1,-1,1,False,TF1,0,transcriptional reference (Alon),Alon's I1 with a protein repressor intermediate; 0 cores
+C1_TXN_OR,"Coherent type-1 FFL, transcriptional (OR)",3,OR,False,1,1,1,False,TF1,0,transcriptional reference (Alon),Alon's C1; UNREALISABLE with a miRNA intermediate (see C-2); 0 cores
+I1_TXN_OR,"Incoherent type-1 FFL, transcriptional (OR)",3,OR,False,1,-1,1,False,TF1,0,transcriptional reference (Alon),Alon's I1 with a protein repressor intermediate; 0 cores
+I1_MIR_AND,"I1 miRNA-FFL: TF->miR-|G, TF->G (AND)",3,AND,True,1,-1,1,False,TF1,2,TF-FFL,textbook miRNA I1 (Tsang 2007); only 2 cores lack the reciprocal arm
+C2_MIR_AND,"C2 miRNA-FFL: TF-|miR-|G, TF->G (AND)",3,AND,True,-1,-1,1,False,TF1,1,TF-FFL,the realisable coherent miRNA FFL
+C3_MIR_AND,"C3 miRNA-led FFL: miR-|TF->G, miR-|G (AND)",3,AND,True,0,-1,1,True,MIR1,101,miRNA-FFL,miRNA is the top regulator; 101 of the 128 resolved miRNA-FFL cores
+I3_MIRLED_AND,"I3 miRNA-led FFL: miR-|TF-|G, miR-|G (AND)",3,AND,True,0,-1,-1,True,MIR1,27,miRNA-FFL,the other 27 resolved miRNA-FFL cores
+I3_MIR_AND,"I3 miRNA-FFL: TF-|miR-|G, TF-|G (AND)",3,AND,True,-1,-1,-1,False,TF1,1,TF-FFL,
+C4_MIR_AND,"C4 miRNA-FFL: TF->miR-|G, TF-|G (AND)",3,AND,True,1,-1,-1,False,TF1,1,TF-FFL,
+COMP_I1_AND,Composite I1 (+ miR-|TF: negative feedback) (AND),3,AND,True,1,-1,1,True,TF1,362,Composite-FFL,TF->miR-|TF = delayed negative feedback inside the FFL; commonest core
+COMP_C2_AND,Composite C2 (+ miR-|TF: mutual repression) (AND),3,AND,True,-1,-1,1,True,TF1,179,Composite-FFL,TF-|miR-|TF = toggle switch inside the FFL; no Alon counterpart
+COMP_I3_AND,Composite I3 (+ miR-|TF: mutual repression) (AND),3,AND,True,-1,-1,-1,True,TF1,113,Composite-FFL,TF-|miR-|TF toggle; TF also represses the target
+COMP_C4_AND,Composite C4 (+ miR-|TF: negative feedback) (AND),3,AND,True,1,-1,-1,True,TF1,111,Composite-FFL,TF->miR-|TF negative feedback; TF also represses the target
+I1_MIR_OR,"I1 miRNA-FFL: TF->miR-|G, TF->G (OR)",3,OR,True,1,-1,1,False,TF1,2,TF-FFL,textbook miRNA I1 (Tsang 2007); only 2 cores lack the reciprocal arm
+C2_MIR_OR,"C2 miRNA-FFL: TF-|miR-|G, TF->G (OR)",3,OR,True,-1,-1,1,False,TF1,1,TF-FFL,the realisable coherent miRNA FFL
+C3_MIR_OR,"C3 miRNA-led FFL: miR-|TF->G, miR-|G (OR)",3,OR,True,0,-1,1,True,MIR1,101,miRNA-FFL,miRNA is the top regulator; 101 of the 128 resolved miRNA-FFL cores
+I3_MIRLED_OR,"I3 miRNA-led FFL: miR-|TF-|G, miR-|G (OR)",3,OR,True,0,-1,-1,True,MIR1,27,miRNA-FFL,the other 27 resolved miRNA-FFL cores
+I3_MIR_OR,"I3 miRNA-FFL: TF-|miR-|G, TF-|G (OR)",3,OR,True,-1,-1,-1,False,TF1,1,TF-FFL,
+C4_MIR_OR,"C4 miRNA-FFL: TF->miR-|G, TF-|G (OR)",3,OR,True,1,-1,-1,False,TF1,1,TF-FFL,
+COMP_I1_OR,Composite I1 (+ miR-|TF: negative feedback) (OR),3,OR,True,1,-1,1,True,TF1,362,Composite-FFL,TF->miR-|TF = delayed negative feedback inside the FFL; commonest core
+COMP_C2_OR,Composite C2 (+ miR-|TF: mutual repression) (OR),3,OR,True,-1,-1,1,True,TF1,179,Composite-FFL,TF-|miR-|TF = toggle switch inside the FFL; no Alon counterpart
+COMP_I3_OR,Composite I3 (+ miR-|TF: mutual repression) (OR),3,OR,True,-1,-1,-1,True,TF1,113,Composite-FFL,TF-|miR-|TF toggle; TF also represses the target
+COMP_C4_OR,Composite C4 (+ miR-|TF: negative feedback) (OR),3,OR,True,1,-1,-1,True,TF1,111,Composite-FFL,TF->miR-|TF negative feedback; TF also represses the target

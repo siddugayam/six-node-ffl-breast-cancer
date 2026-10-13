@@ -1,0 +1,20 @@
+pathway	KEGG pathway maps
+path	587 entries
+	Last update 2026/09/25
+	Kanehisa Laboratories
+
+linked db	module
+	ko
+	<org>
+	genome
+	compound
+	glycan
+	reaction
+	rclass
+	rmodule
+	enzyme
+	network
+	ntmap
+	disease
+	drug
+	pubmed

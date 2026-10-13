@@ -1,0 +1,100 @@
+                   run k_clusters modularity COL1A1_module_size COL3A1_in
+                <char>      <int>      <num>              <int>    <lgcl>
+ 1:    Leiden_mod_r1.0          6     0.2719                172      TRUE
+ 2:      Louvain_r1.00          8     0.2668                 92      TRUE
+ 3:      Louvain_r1.25         12     0.2610                 68      TRUE
+ 4:      Louvain_r1.50         18     0.2506                 57      TRUE
+ 5:      Louvain_r0.75          4     0.2502                108      TRUE
+ 6:    cm2_louvain_cm2          8     0.2480                 98      TRUE
+ 7:    Leiden_mod_r2.0         25     0.2466                 41      TRUE
+ 8:      Louvain_r2.00         27     0.2405                 43      TRUE
+ 9:         FastGreedy          7     0.2344                128      TRUE
+10:      FastGreedy_k8          8     0.2343                128      TRUE
+11:     FastGreedy_k10         10     0.2342                128      TRUE
+12:      FastGreedy_k5          5     0.2341                128      TRUE
+13:     FastGreedy_k20         20     0.2333                123      TRUE
+14:       cm2_glay_cm2          8     0.2239                141      TRUE
+15: cm2_fastgreedy_cm2          5     0.2235                147      TRUE
+16:      FastGreedy_k3          3     0.2038                128      TRUE
+17:       LeadingEigen          5     0.2033                156      TRUE
+18:    cm2_leadeig_cm2          5     0.2033                156      TRUE
+    miR29a_in trio_together TFarm_all_in
+       <lgcl>        <lgcl>       <lgcl>
+ 1:      TRUE          TRUE        FALSE
+ 2:      TRUE          TRUE        FALSE
+ 3:      TRUE          TRUE        FALSE
+ 4:      TRUE          TRUE        FALSE
+ 5:      TRUE          TRUE        FALSE
+ 6:      TRUE          TRUE        FALSE
+ 7:      TRUE          TRUE        FALSE
+ 8:      TRUE          TRUE        FALSE
+ 9:      TRUE          TRUE        FALSE
+10:      TRUE          TRUE        FALSE
+11:      TRUE          TRUE        FALSE
+12:      TRUE          TRUE        FALSE
+13:      TRUE          TRUE        FALSE
+14:      TRUE          TRUE        FALSE
+15:      TRUE          TRUE        FALSE
+16:      TRUE          TRUE        FALSE
+17:      TRUE          TRUE        FALSE
+18:      TRUE          TRUE        FALSE
+                   run best_size prior30_in_best  hyper_p best_has_COL1A1
+                <char>     <int>           <int>    <num>          <lgcl>
+ 1:      Louvain_r0.75       220              17 0.022400           FALSE
+ 2:      Louvain_r1.00        74               9 0.007800           FALSE
+ 3:      Louvain_r1.25        64               7 0.035000           FALSE
+ 4:      Louvain_r1.50        35               8 0.000161           FALSE
+ 5:      Louvain_r2.00        29               5 0.012300           FALSE
+ 6:         FastGreedy       151              15 0.002920           FALSE
+ 7:      FastGreedy_k3       151              15 0.002920           FALSE
+ 8:      FastGreedy_k5       151              15 0.002920           FALSE
+ 9:      FastGreedy_k8       151              15 0.002920           FALSE
+10:     FastGreedy_k10       151              15 0.002920           FALSE
+11:     FastGreedy_k20       149              15 0.002520           FALSE
+12:       LeadingEigen        49               7 0.008400           FALSE
+13:    Leiden_mod_r1.0       172              12 0.133000            TRUE
+14:    Leiden_mod_r2.0        30               6 0.002660           FALSE
+15: cm2_fastgreedy_cm2       162              12 0.091300           FALSE
+16:       cm2_glay_cm2       165              12 0.103000           FALSE
+17:    cm2_leadeig_cm2        49               7 0.008400           FALSE
+18:    cm2_louvain_cm2        98              11 0.005510           FALSE
+    best_has_VEGFA best_has_miR200
+            <lgcl>          <lgcl>
+ 1:           TRUE            TRUE
+ 2:          FALSE            TRUE
+ 3:          FALSE            TRUE
+ 4:          FALSE            TRUE
+ 5:          FALSE            TRUE
+ 6:           TRUE            TRUE
+ 7:           TRUE            TRUE
+ 8:           TRUE            TRUE
+ 9:           TRUE            TRUE
+10:           TRUE            TRUE
+11:           TRUE            TRUE
+12:          FALSE            TRUE
+13:          FALSE           FALSE
+14:          FALSE            TRUE
+15:           TRUE            TRUE
+16:           TRUE            TRUE
+17:          FALSE            TRUE
+18:           TRUE            TRUE
+List of 11
+ $ mode                                 : chr "full"
+ $ nodes                                : int 587
+ $ undirected_edges                     : num 5636
+ $ igraph_partitions_identical_to_stored: chr "38 of 38"
+ $ usable_runs                          : int 18
+ $ usable_runs_igraph                   : int 14
+ $ trio_together_all_runs               : chr "18 of 18"
+ $ trio_together_igraph_runs            : chr "14 of 14"
+ $ miR29a_in_COL1A1_module_igraph       : chr "14 of 14"
+ $ TFarm_all_with_COL1A1_igraph         : chr "0 of 14"
+ $ rewiring_null                        :List of 2
+  ..$ louvain   :List of 3
+  .. ..$ observed : int 1
+  .. ..$ null_mean: num 0.018
+  .. ..$ p        : num 0.02
+  ..$ fastgreedy:List of 3
+  .. ..$ observed : int 1
+  .. ..$ null_mean: num 0.082
+  .. ..$ p        : num 0.0838

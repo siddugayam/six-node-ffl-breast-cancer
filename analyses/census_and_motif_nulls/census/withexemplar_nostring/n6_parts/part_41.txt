@@ -1,0 +1,77 @@
+K 6
+nparts 64
+part 41
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 73556
+visited 30477229
+rng_final 42
+comp 1 2 3 13
+comp 1 3 2 913
+comp 1 4 1 1081
+comp 2 1 3 7
+comp 2 2 2 1954
+comp 2 3 1 32812
+comp 2 4 0 58
+comp 3 1 2 191
+comp 3 2 1 22170
+comp 3 3 0 3110
+comp 4 0 2 1
+comp 4 1 1 2367
+comp 4 2 0 6523
+comp 5 0 1 110
+comp 5 1 0 2077
+comp 6 0 0 169
+mask 2 169
+mask 3 111
+mask 6 533
+mask 7 7
+mask 11 6
+mask 14 1926
+mask 15 458
+mask 18 714
+mask 19 867
+mask 20 1379
+mask 21 106
+mask 22 8917
+mask 23 597
+mask 26 39
+mask 27 955
+mask 28 14607
+mask 29 2642
+mask 30 28501
+mask 31 9640
+mask 70 12
+mask 78 40
+mask 84 43
+mask 86 170
+mask 92 525
+mask 93 193
+mask 94 355
+mask 95 44
+flags 0 70438
+flags 1 1480
+flags 2 9
+flags 3 453
+flags 8 1006
+flags 9 9
+flags 10 2
+flags 11 7
+flags 24 147
+flags 25 5
+exflag 0 SMAD7 MET MYC GATA1 hsa-miR-101 hsa-miR-144
+exflag 0 SMAD7 MET MYC GATA1 hsa-miR-101 hsa-miR-148a
+exflag 0 SMAD7 MET MYC GATA1 hsa-miR-101 hsa-miR-23a
+exflag 1 CDX2 SP1 NR4A1 SERPINE1 VDR hsa-miR-145
+exflag 1 SMAD7 MET MYC CREBBP CREB1 hsa-miR-148a
+exflag 1 SMAD7 MET MYC CREBBP CREB1 hsa-miR-212
+exflag 3 CDX2 SP1 AR CDH11 hsa-miR-125b hsa-miR-19a | TF1=SP1 TF2=AR miRNA=hsa-miR-19a target=CDH11
+exflag 3 CDX2 SP1 AR CDH11 hsa-miR-125b hsa-miR-27a | TF1=SP1 TF2=AR miRNA=hsa-miR-27a target=CDH11
+exflag 3 CDX2 SP1 AR E2F1 hsa-miR-125b hsa-miR-17 | TF1=SP1 TF2=E2F1 miRNA=hsa-miR-17 target=AR
+exflag 4 CDX2 SP1 AR VEGFA hsa-miR-125b hsa-miR-17 | TF1=SP1 TF2=AR miRNA=hsa-miR-17 target=VEGFA
+exflag 4 CDX2 SP1 AR VEGFA hsa-miR-125b hsa-miR-20a | TF1=SP1 TF2=AR miRNA=hsa-miR-20a target=VEGFA
+exflag 4 CDX2 SP1 CCND2 MYC hsa-miR-106a hsa-miR-125b | TF1=SP1 TF2=MYC miRNA=hsa-miR-106a target=CCND2
+exmask 95 hsa-miR-181b ESR1 FOS BCL2L1 hsa-miR-143 hsa-let-7b
+exmask 95 hsa-miR-181b ESR1 FOS BCL2L1 hsa-miR-143 hsa-let-7e
+exmask 95 hsa-miR-181b ESR1 FOS FAS hsa-miR-143 hsa-let-7b

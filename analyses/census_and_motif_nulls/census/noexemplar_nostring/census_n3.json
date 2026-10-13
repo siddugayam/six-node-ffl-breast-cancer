@@ -1,0 +1,61 @@
+{
+ "K": 3,
+ "n_partition_files": 1,
+ "prod_q": 1.0,
+ "found": 3432,
+ "estimated_modules": 3432.0,
+ "visited": 135709,
+ "composition": {
+  "TF0_miR1_G2": 45,
+  "TF1_miR0_G2": 11,
+  "TF1_miR1_G1": 1351,
+  "TF2_miR0_G1": 517,
+  "TF2_miR1_G0": 1206,
+  "TF3_miR0_G0": 302
+ },
+ "flags_found": {
+  "a_2TF_2miR_2Gene": 0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 0,
+  "c_full_compositecore_plus_TF2": 0
+ },
+ "flags_estimated": {
+  "a_2TF_2miR_2Gene": 0.0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0.0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0.0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 0.0,
+  "c_full_compositecore_plus_TF2": 0.0
+ },
+ "flags_pct": {
+  "a_2TF_2miR_2Gene": 0.0,
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": 0.0,
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": 0.0,
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": 0.0,
+  "c_full_compositecore_plus_TF2": 0.0
+ },
+ "flag_pattern_counts": {
+  "none": 3432
+ },
+ "n_classes_hist": {
+  "1": 309,
+  "2": 1624,
+  "3": 1499
+ },
+ "max_classes": 3,
+ "class_sets_at_max": {
+  "TF->Gene+TF->miRNA+miRNA->Gene": 1167,
+  "TF->Gene+miRNA->Gene+miRNA->TF": 179,
+  "TF->TF+TF->miRNA+miRNA->TF": 148,
+  "TF->TF+miRNA->Gene+miRNA->TF": 5
+ },
+ "class_sets_with_6_or_more": {},
+ "examples_by_flag": {
+  "a_2TF_2miR_2Gene": [],
+  "b_nodetype_TFTF_GeneGene_TFmiRGene": [],
+  "b_paperclass_TFTF_GeneGene_TFmiRGene": [],
+  "c_literal_TF1toTF2_TF2toT_TF2toM_TF1recipM": [],
+  "c_full_compositecore_plus_TF2": []
+ },
+ "examples_by_class_set": {}
+}

@@ -1,0 +1,9 @@
+cluster,size,q,nG,nTF,nmiR,ECM,EMT,p30,hubs,hasCOL
+5,118,0.0389,35,50,33,1,7,6,"RELA, TP53, NFKB1, STAT3, hsa-miR-124, EGR1",FALSE
+2,92,0.0465,40,20,32,9,11,4,"SP1, ADAMTS5, hsa-miR-29b, hsa-miR-29a, hsa-miR-29c, FOS",TRUE
+1,89,0.056,26,22,41,1,5,5,"CCND2, VEGFA, TGFBR2, MYC, ABCA1, MAP3K1",FALSE
+7,79,0.0431,34,9,36,0,4,2,"hsa-miR-130a, hsa-miR-27a, SNAP25, CD2AP, MYBL1, hsa-miR-27b",FALSE
+6,74,0.0272,18,32,24,3,6,9,"hsa-miR-200b, hsa-miR-200c, hsa-miR-203, hsa-miR-429, hsa-miR-145, THBS1",FALSE
+3,70,0.0328,32,7,31,4,6,0,"TWIST1, hsa-miR-92a, SMAD7, HNF4A, TGFB2, hsa-miR-25",FALSE
+8,42,0.0173,15,6,21,5,8,3,"HIF1A, SERPINE1, hsa-miR-30d, BDNF, hsa-miR-30b, hsa-miR-30a",FALSE
+4,23,0.005,7,11,5,1,0,1,"hsa-miR-21, hsa-miR-330, ID4, CTGF, CREB1, hsa-miR-132",FALSE

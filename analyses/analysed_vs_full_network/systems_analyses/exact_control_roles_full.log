@@ -1,0 +1,60 @@
+{
+ "mode": "full",
+ "N": 587,
+ "arcs": 6859,
+ "matching_size": 381,
+ "N_D": 206,
+ "n_D_over_N": 0.35093696763202725,
+ "roles_exact": {
+  "intermittent": 572,
+  "redundant": 10,
+  "critical": 5
+ },
+ "deletion_classes": {
+  "dispensable": 201,
+  "neutral": 381,
+  "indispensable": 5
+ },
+ "FFL_hubs": 60,
+ "can_be_driver_hubs": 0.9666666666666667,
+ "can_be_driver_nonhubs": 0.9848197343453511,
+ "logistic_is_FFL_hub": {
+  "coef": 0.544163392536986,
+  "se": 0.9665755018531351,
+  "p": 0.5734479981124655
+ },
+ "degree_matched": {
+  "null_mean": 0.783425,
+  "null_sd": 0.015410631661332537,
+  "p_hubs_lower": 1.0,
+  "p_hubs_higher": 9.999000099990002e-05,
+  "n_resamples": 10000
+ },
+ "mir29_collagen_module": {
+  "hsa-miR-29a": {
+   "role": "intermittent",
+   "deletion_class": "neutral",
+   "N_D_after_deletion": 206
+  },
+  "hsa-miR-29b": {
+   "role": "intermittent",
+   "deletion_class": "neutral",
+   "N_D_after_deletion": 206
+  },
+  "hsa-miR-29c": {
+   "role": "intermittent",
+   "deletion_class": "neutral",
+   "N_D_after_deletion": 206
+  },
+  "COL1A1": {
+   "role": "intermittent",
+   "deletion_class": "neutral",
+   "N_D_after_deletion": 206
+  },
+  "COL3A1": {
+   "role": "redundant",
+   "deletion_class": "neutral",
+   "N_D_after_deletion": 206
+  }
+ }
+}

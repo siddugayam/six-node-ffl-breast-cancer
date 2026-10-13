@@ -1,0 +1,4 @@
+restriction,gene_gene_arcs_kept,deposit_link_kept,STRING_arcs_kept,gene_gene_arcs_dropped,bhat6_comp_inst,bhat6_comp_sets,bhat6_mirFFL_inst,bhat6_mirFFL_sets,bhat6_TFFFL_inst,bhat6_TFFFL_sets,model6_full_inst,model6_full_sets,model6_def_inst,model6_def_sets
+all_gene_gene_links,834,1,833,0,3898,2498,14003,8606,15701,9950,336,71,45666,24888
+physical_ge_0.900,391,1,390,443,906,604,3633,2264,4153,2688,8,2,13925,8037
+coexpression_ge_0.900,2,1,1,832,7,7,35,27,73,54,0,0,5,4

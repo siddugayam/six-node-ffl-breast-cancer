@@ -1,0 +1,4 @@
+topology,param_set,has_reciprocal_miRNA_to_TF_arm,max_relative_gap_two_initial_conditions,max_relative_gap_continuation_sweep,n_input_levels_with_both_branches_certified,n_input_levels
+COMP_C2_AND,5089,True,0.9999999999942388,5.126280788642511e-07,31,31
+C2_MIR_AND,5089,False,3.759946263977999e-05,7.194756962714773e-05,31,31
+C1_TXN_AND,5089,False,0.0003749169957901164,0.00020784912643257298,31,31

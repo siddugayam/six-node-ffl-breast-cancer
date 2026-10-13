@@ -1,0 +1,109 @@
+K 6
+nparts 64
+part 24
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 301094
+visited 117186234
+rng_final 42
+comp 1 1 4 1
+comp 1 2 3 251
+comp 1 3 2 1583
+comp 1 4 1 3773
+comp 2 1 3 23
+comp 2 2 2 6121
+comp 2 3 1 141498
+comp 2 4 0 607
+comp 3 1 2 1324
+comp 3 2 1 86582
+comp 3 3 0 13385
+comp 4 0 2 34
+comp 4 1 1 13518
+comp 4 2 0 24907
+comp 5 0 1 435
+comp 5 1 0 6826
+comp 6 0 0 226
+mask 2 226
+mask 3 469
+mask 6 1502
+mask 7 88
+mask 10 1
+mask 11 44
+mask 12 6
+mask 13 16
+mask 14 24551
+mask 15 16445
+mask 17 10
+mask 18 4622
+mask 19 8455
+mask 20 3750
+mask 21 580
+mask 22 34336
+mask 23 3798
+mask 25 9
+mask 26 239
+mask 27 1521
+mask 28 45261
+mask 29 11921
+mask 30 70296
+mask 31 64403
+mask 45 1
+mask 46 2
+mask 47 59
+mask 61 9
+mask 63 39
+mask 70 153
+mask 76 290
+mask 77 52
+mask 78 2154
+mask 79 970
+mask 84 175
+mask 86 1187
+mask 87 4
+mask 92 937
+mask 93 619
+mask 94 895
+mask 95 961
+mask 108 5
+mask 109 13
+mask 111 20
+flags 0 278164
+flags 1 3976
+flags 2 112
+flags 3 1734
+flags 6 16
+flags 7 100
+flags 8 11502
+flags 9 71
+flags 10 6
+flags 11 112
+flags 24 5172
+flags 25 55
+flags 26 1
+flags 27 69
+flags 31 4
+exflag 0 BCL6 CCND2 MYC hsa-let-7a hsa-miR-106a IRF9
+exflag 0 BCL6 CCND2 MYC hsa-let-7a hsa-miR-106b IRF9
+exflag 0 BCL6 CCND2 MYC hsa-let-7a hsa-miR-17 IRF9
+exflag 1 BCL6 CCND2 MYC GATA4 hsa-miR-106a IRF9
+exflag 1 BCL6 CCND2 MYC GATA4 hsa-miR-106b IRF9
+exflag 1 BCL6 CCND2 MYC GATA4 hsa-miR-17 IRF9
+exflag 2 BCL6 MYC NFKB1 COL1A1 COL3A1 hsa-let-7b
+exflag 2 BCL6 MYC NFKB1 COL1A1 COL3A1 hsa-let-7e
+exflag 2 BCL6 MYC NFKB1 COL1A1 COL3A1 hsa-miR-29a
+exflag 3 BCL6 BCL2L1 NFKB1 HIF1A hsa-miR-155 CEBPB | TF1=BCL6 TF2=NFKB1 miRNA=hsa-miR-155 target=BCL2L1
+exflag 3 BCL6 BCL2L1 NFKB1 IRF1 hsa-miR-155 CEBPB | TF1=BCL6 TF2=NFKB1 miRNA=hsa-miR-155 target=BCL2L1
+exflag 3 BCL6 BCL2L1 NFKB1 YY1 hsa-miR-155 CEBPB | TF1=BCL6 TF2=NFKB1 miRNA=hsa-miR-155 target=BCL2L1
+exflag 4 BCL6 CCND2 MYC GATA4 NFKB1 hsa-let-7b | TF1=NFKB1 TF2=MYC miRNA=hsa-let-7b target=CCND2
+exflag 4 BCL6 CCND2 MYC GATA4 NFKB1 hsa-miR-150 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-150 target=CCND2
+exflag 4 BCL6 CCND2 MYC GATA4 NFKB1 hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2
+exmask 63 hsa-miR-24 E2F1 NFKB1 COL1A1 COL3A1 hsa-miR-29a
+exmask 63 hsa-miR-24 E2F1 RELA COL1A1 COL3A1 hsa-miR-29a
+exmask 63 hsa-miR-24 E2F1 SP1 COL1A1 COL3A1 hsa-miR-29a
+exmask 95 BCL6 BCL2L1 MYC hsa-let-7e hsa-miR-29b HIF1A
+exmask 95 BCL6 BCL2L1 NFKB1 HIF1A hsa-let-7e hsa-miR-29b
+exmask 95 BCL6 CCND2 MYC hsa-let-7b hsa-miR-29a ETV4
+exmask 111 MYB CEBPA COL1A1 COL3A1 hsa-miR-143 hsa-miR-29a
+exmask 111 MYB CEBPA COL1A1 COL3A1 hsa-miR-143 hsa-miR-29b
+exmask 111 MYB CEBPA COL1A1 COL3A1 hsa-miR-29b hsa-let-7b

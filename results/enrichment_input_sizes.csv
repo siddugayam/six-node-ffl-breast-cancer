@@ -1,0 +1,10 @@
+motif_set,n_input_symbols,n_mapped_entrez
+3-miR,265,262
+3-TF,259,256
+3-Comp,259,256
+4-node,352,349
+5-node,340,337
+6-node,314,311
+exemplar_4node,6,6
+exemplar_5node,5,5
+exemplar_6node,5,5

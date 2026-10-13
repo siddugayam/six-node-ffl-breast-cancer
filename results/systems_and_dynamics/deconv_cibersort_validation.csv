@@ -1,0 +1,8 @@
+"test","value"
+"pure_profiles_self_fraction_median",0.999708699000763
+"noisefree_pearson_r_all_cells",0.999999962170681
+"noisefree_rmse",1.9272640707839e-05
+"noisy30pct_pearson_r_all_cells",0.981055049550321
+"noisy30pct_rmse",0.0128832216564102
+"noisefree_spearman_percell_median",0.999937482199788
+"noisy30pct_spearman_percell_median",0.887093364674519

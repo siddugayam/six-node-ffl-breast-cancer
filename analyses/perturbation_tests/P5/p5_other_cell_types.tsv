@@ -1,0 +1,1397 @@
+atlas	mirna	cell_type	n	mean_cpm
+FANTOM5	hsa-miR-29a-3p	Adipocyte - breast	2	6570.83
+FANTOM5	hsa-miR-29a-3p	Adipocyte - omental	3	5612.133333333334
+FANTOM5	hsa-miR-29a-3p	Adipocyte - perirenal	1	8415.31
+FANTOM5	hsa-miR-29a-3p	Adipocyte - subcutaneous	3	9642.660000000002
+FANTOM5	hsa-miR-29a-3p	Alveolar Epithelial Cells	3	7527.256666666665
+FANTOM5	hsa-miR-29a-3p	Amniotic Epithelial Cells	3	5817.706666666666
+FANTOM5	hsa-miR-29a-3p	Anulus Pulposus Cell	2	5890.504999999999
+FANTOM5	hsa-miR-29a-3p	Astrocyte - cerebellum	2	5051.25
+FANTOM5	hsa-miR-29a-3p	Astrocyte - cerebral cortex	3	6521.88
+FANTOM5	hsa-miR-29a-3p	Bronchial Epithelial Cell	3	6868.099999999999
+FANTOM5	hsa-miR-29a-3p	CD14+ Monocytes	3	6767.110000000001
+FANTOM5	hsa-miR-29a-3p	CD14+ monocyte derived endothelial progenitor cells	3	7484.31
+FANTOM5	hsa-miR-29a-3p	CD14+ monocytes - treated with BCG	1	820.271
+FANTOM5	hsa-miR-29a-3p	CD19+ B Cells	3	14697.4
+FANTOM5	hsa-miR-29a-3p	CD4+ T Cells	3	22783.833333333332
+FANTOM5	hsa-miR-29a-3p	CD8+ T Cells	3	28677.63333333333
+FANTOM5	hsa-miR-29a-3p	COBL-a rinderpest infection, 00hr	3	6688.02
+FANTOM5	hsa-miR-29a-3p	COBL-a rinderpest infection, 24hr	3	7006.69
+FANTOM5	hsa-miR-29a-3p	COBL-a rinderpest(-C) infection, 24hr	3	7624.193333333334
+FANTOM5	hsa-miR-29a-3p	Chondrocyte - de diff	3	9088.653333333334
+FANTOM5	hsa-miR-29a-3p	Chondrocyte - re diff	3	9400.956666666667
+FANTOM5	hsa-miR-29a-3p	Ciliary Epithelial Cells	3	9743.906666666668
+FANTOM5	hsa-miR-29a-3p	Corneal Epithelial Cells	3	11756.300000000001
+FANTOM5	hsa-miR-29a-3p	Dendritic Cells - monocyte immature derived	3	5223.276666666667
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Aortic	4	6969.85
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Artery	3	5265.126666666666
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Lymphatic	3	3413.4566666666665
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Microvascular	2	5164.13
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Thoracic	2	4845.775
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Umbilical vein	3	4751.296666666666
+FANTOM5	hsa-miR-29a-3p	Endothelial Cells - Vein	3	4952.823333333333
+FANTOM5	hsa-miR-29a-3p	Esophageal Epithelial Cells	2	7235.055
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Aortic Adventitial	3	15507.5
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Cardiac	3	5681.080000000001
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Choroid Plexus	1	5143.75
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Conjunctival	1	10984.1
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Dermal	3	25581.0
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Gingival	3	14306.933333333334
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Lung	3	14472.533333333335
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Lymphatic	3	6749.016666666667
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Mammary	3	6164.943333333334
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Periodontal Ligament	3	11499.699999999999
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Pulmonary Artery	1	2994.39
+FANTOM5	hsa-miR-29a-3p	Fibroblast - Villous Mesenchymal	1	10733.6
+FANTOM5	hsa-miR-29a-3p	Gingival epithelial cells	2	15326.349999999999
+FANTOM5	hsa-miR-29a-3p	H9 Embryonic Stem cells	1	538.988
+FANTOM5	hsa-miR-29a-3p	Hair Follicle Dermal Papilla Cells	3	13220.07
+FANTOM5	hsa-miR-29a-3p	Hepatic Sinusoidal Endothelial Cells	2	5701.46
+FANTOM5	hsa-miR-29a-3p	Hepatic Stellate Cells (lipocyte)	2	3776.4449999999997
+FANTOM5	hsa-miR-29a-3p	Hepatocyte	3	1368.0433333333333
+FANTOM5	hsa-miR-29a-3p	Intestinal epithelial cells (polarized)	1	1400.9
+FANTOM5	hsa-miR-29a-3p	Keratinocyte - epidermal	3	12023.113333333335
+FANTOM5	hsa-miR-29a-3p	Keratinocyte - oral	1	6388.92
+FANTOM5	hsa-miR-29a-3p	Keratocytes	2	15112.95
+FANTOM5	hsa-miR-29a-3p	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	1730.3799999999999
+FANTOM5	hsa-miR-29a-3p	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	1630.0600000000002
+FANTOM5	hsa-miR-29a-3p	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	1747.37
+FANTOM5	hsa-miR-29a-3p	Lymphatic Endothelial cells response to VEGFC, 04hr00min	3	1311.3096666666668
+FANTOM5	hsa-miR-29a-3p	Lymphatic Endothelial cells response to VEGFC, 08hr00min	3	953.6346666666667
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	319.388
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 00hr15min	3	319.055
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 00hr30min	3	341.60999999999996
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 00hr45min	3	323.872
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 01hr00min	3	350.74333333333334
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 01hr20min	3	328.1886666666667
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 01hr40min	3	311.581
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 04hr	3	287.23133333333334
+FANTOM5	hsa-miR-29a-3p	MCF7 breast cancer cell line response to HRG, 08hr	2	334.46500000000003
+FANTOM5	hsa-miR-29a-3p	Macrophage - monocyte derived	3	6213.683333333333
+FANTOM5	hsa-miR-29a-3p	Mammary Epithelial Cell	3	12545.419999999998
+FANTOM5	hsa-miR-29a-3p	Mast cell	3	4570.0233333333335
+FANTOM5	hsa-miR-29a-3p	Mast cell - stimulated	1	1802.74
+FANTOM5	hsa-miR-29a-3p	Melanocyte - light	3	18799.8
+FANTOM5	hsa-miR-29a-3p	Meningeal Cells	2	6454.11
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - Vertebral	1	2987.72
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - Wharton's Jelly	1	8389.49
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - adipose	3	8061.833333333333
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - amniotic membrane	2	9565.345
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - bone marrow	3	12779.866666666667
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - hepatic	2	4267.175
+FANTOM5	hsa-miR-29a-3p	Mesenchymal Stem Cells - umbilical	4	8850.7075
+FANTOM5	hsa-miR-29a-3p	Mesothelial Cells	2	5504.615
+FANTOM5	hsa-miR-29a-3p	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	2055.05
+FANTOM5	hsa-miR-29a-3p	Myoblast	3	13413.733333333332
+FANTOM5	hsa-miR-29a-3p	Natural Killer Cells	3	24541.766666666666
+FANTOM5	hsa-miR-29a-3p	Neural stem cells	2	1473.405
+FANTOM5	hsa-miR-29a-3p	Neutrophils	3	5847.22
+FANTOM5	hsa-miR-29a-3p	Nucleus Pulposus Cell	2	6399.125
+FANTOM5	hsa-miR-29a-3p	Osteoblast	3	7360.043333333332
+FANTOM5	hsa-miR-29a-3p	Osteoblast - differentiated	3	5486.253333333334
+FANTOM5	hsa-miR-29a-3p	Pancreatic stromal cells	1	26733.5
+FANTOM5	hsa-miR-29a-3p	Pericytes	2	6063.85
+FANTOM5	hsa-miR-29a-3p	Peripheral Blood Mononuclear Cells	3	17244.666666666668
+FANTOM5	hsa-miR-29a-3p	Placental Epithelial Cells	3	1124.1663333333333
+FANTOM5	hsa-miR-29a-3p	Preadipocyte - breast	1	5455.05
+FANTOM5	hsa-miR-29a-3p	Preadipocyte - omental	3	5103.4400000000005
+FANTOM5	hsa-miR-29a-3p	Preadipocyte - perirenal	1	8488.62
+FANTOM5	hsa-miR-29a-3p	Preadipocyte - subcutaneous	3	11822.406666666668
+FANTOM5	hsa-miR-29a-3p	Preadipocyte - visceral	3	15108.199999999999
+FANTOM5	hsa-miR-29a-3p	Prostate Epithelial Cells	2	20709.05
+FANTOM5	hsa-miR-29a-3p	Prostate Epithelial Cells (polarized)	1	1503.52
+FANTOM5	hsa-miR-29a-3p	Prostate Stromal Cells	3	15575.666666666666
+FANTOM5	hsa-miR-29a-3p	Renal Cortical Epithelial Cells	1	6694.94
+FANTOM5	hsa-miR-29a-3p	Renal Epithelial Cells	2	8679.445
+FANTOM5	hsa-miR-29a-3p	Renal Glomerular Endothelial Cells	2	6337.15
+FANTOM5	hsa-miR-29a-3p	Renal Mesangial Cells	2	8838.92
+FANTOM5	hsa-miR-29a-3p	Renal Proximal Tubular Epithelial Cell	3	9916.506666666666
+FANTOM5	hsa-miR-29a-3p	Retinal Pigment Epithelial Cells	3	12143.836666666668
+FANTOM5	hsa-miR-29a-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	943.239
+FANTOM5	hsa-miR-29a-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	853.0876666666667
+FANTOM5	hsa-miR-29a-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	781.3283333333333
+FANTOM5	hsa-miR-29a-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	884.6683333333334
+FANTOM5	hsa-miR-29a-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	1052.8256666666666
+FANTOM5	hsa-miR-29a-3p	Schwann Cells	1	8649.44
+FANTOM5	hsa-miR-29a-3p	Sebocyte	3	4921.703333333333
+FANTOM5	hsa-miR-29a-3p	Sertoli Cells	2	9589.575
+FANTOM5	hsa-miR-29a-3p	Skeletal Muscle Cells	3	18044.233333333334
+FANTOM5	hsa-miR-29a-3p	Skeletal Muscle Satellite Cells	3	11230.403333333334
+FANTOM5	hsa-miR-29a-3p	Skeletal muscle cells differentiated into Myotubes - multinucleated	2	5734.799999999999
+FANTOM5	hsa-miR-29a-3p	Small Airway Epithelial Cells	3	7973.256666666667
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Aortic	3	11754.366666666667
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Brachiocephalic	3	7333.216666666667
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Brain Vascular	3	7552.983333333333
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Bronchial	1	12839.6
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Carotid	2	15626.44
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Colonic	3	12782.179999999998
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Coronary Artery	3	17217.100000000002
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Esophageal	1	9628.63
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Internal Thoracic Artery	3	10201.303333333333
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Prostate	3	15691.833333333334
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Pulmonary Artery	3	14147.73666666667
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Subclavian Artery	3	15225.79
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Tracheal	1	19328.5
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Umbilical Artery	4	15845.925
+FANTOM5	hsa-miR-29a-3p	Smooth Muscle Cells - Uterine	2	18989.85
+FANTOM5	hsa-miR-29a-3p	Synoviocyte	3	7989.573333333334
+FANTOM5	hsa-miR-29a-3p	Trabecular Meshwork Cells	2	9725.905
+FANTOM5	hsa-miR-29a-3p	Tracheal Epithelial Cells	2	8139.615
+FANTOM5	hsa-miR-29a-3p	Urothelial Cells	3	9766.626666666667
+FANTOM5	hsa-miR-29a-3p	amniotic membrane cells	1	2572.39
+FANTOM5	hsa-miR-29a-3p	chorionic membrane cells	1	9837.67
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	2337.9533333333334
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	3032.8133333333335
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	3607.556666666667
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	3098.436666666667
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	3020.213333333333
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	2128.32
+FANTOM5	hsa-miR-29a-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	1723.8966666666665
+FANTOM5	hsa-miR-29a-3p	pineal gland, adult	1	2877.66
+FANTOM5	hsa-miR-29a-3p	pituitary gland, adult	1	4852.83
+FANTOM5	hsa-miR-29a-3p	spinal cord, adult	1	2659.43
+FANTOM5	hsa-miR-29b-3p	Adipocyte - breast	2	252.7155
+FANTOM5	hsa-miR-29b-3p	Adipocyte - omental	3	203.3401666666667
+FANTOM5	hsa-miR-29b-3p	Adipocyte - perirenal	1	412.001
+FANTOM5	hsa-miR-29b-3p	Adipocyte - subcutaneous	3	134.2446666666667
+FANTOM5	hsa-miR-29b-3p	Alveolar Epithelial Cells	3	426.0903333333333
+FANTOM5	hsa-miR-29b-3p	Amniotic Epithelial Cells	3	325.0953333333334
+FANTOM5	hsa-miR-29b-3p	Anulus Pulposus Cell	2	6.769005
+FANTOM5	hsa-miR-29b-3p	Astrocyte - cerebellum	2	129.5494
+FANTOM5	hsa-miR-29b-3p	Astrocyte - cerebral cortex	3	168.38813333333334
+FANTOM5	hsa-miR-29b-3p	Bronchial Epithelial Cell	3	404.164
+FANTOM5	hsa-miR-29b-3p	CD14+ Monocytes	3	372.54733333333337
+FANTOM5	hsa-miR-29b-3p	CD14+ monocyte derived endothelial progenitor cells	3	197.597
+FANTOM5	hsa-miR-29b-3p	CD14+ monocytes - treated with BCG	1	36.5988
+FANTOM5	hsa-miR-29b-3p	CD19+ B Cells	3	950.1723333333333
+FANTOM5	hsa-miR-29b-3p	CD4+ T Cells	3	1006.1019999999999
+FANTOM5	hsa-miR-29b-3p	CD8+ T Cells	3	1791.9633333333334
+FANTOM5	hsa-miR-29b-3p	COBL-a rinderpest infection, 00hr	3	452.55300000000005
+FANTOM5	hsa-miR-29b-3p	COBL-a rinderpest infection, 24hr	3	365.98033333333325
+FANTOM5	hsa-miR-29b-3p	COBL-a rinderpest(-C) infection, 24hr	3	436.7836666666667
+FANTOM5	hsa-miR-29b-3p	Chondrocyte - de diff	3	418.691
+FANTOM5	hsa-miR-29b-3p	Chondrocyte - re diff	3	179.6078
+FANTOM5	hsa-miR-29b-3p	Ciliary Epithelial Cells	3	588.3523333333334
+FANTOM5	hsa-miR-29b-3p	Corneal Epithelial Cells	3	1266.4399999999998
+FANTOM5	hsa-miR-29b-3p	Dendritic Cells - monocyte immature derived	3	242.93933333333334
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Aortic	4	442.83624999999995
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Artery	3	254.178
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Lymphatic	3	90.02453333333335
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Microvascular	2	340.9915
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Thoracic	2	273.371
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Umbilical vein	3	162.14200000000002
+FANTOM5	hsa-miR-29b-3p	Endothelial Cells - Vein	3	214.34
+FANTOM5	hsa-miR-29b-3p	Esophageal Epithelial Cells	2	647.473
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Aortic Adventitial	3	1044.5513333333333
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Cardiac	3	273.4262
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Choroid Plexus	1	309.112
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Conjunctival	1	1006.27
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Dermal	3	1961.6333333333332
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Gingival	3	506.6003333333333
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Lung	3	934.4233333333333
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Lymphatic	3	307.233
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Mammary	3	187.51020000000003
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Periodontal Ligament	3	374.762
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Pulmonary Artery	1	0.0
+FANTOM5	hsa-miR-29b-3p	Fibroblast - Villous Mesenchymal	1	624.8
+FANTOM5	hsa-miR-29b-3p	Gingival epithelial cells	2	1836.495
+FANTOM5	hsa-miR-29b-3p	H9 Embryonic Stem cells	1	14.5507
+FANTOM5	hsa-miR-29b-3p	Hair Follicle Dermal Papilla Cells	3	601.1563333333334
+FANTOM5	hsa-miR-29b-3p	Hepatic Sinusoidal Endothelial Cells	2	325.823
+FANTOM5	hsa-miR-29b-3p	Hepatic Stellate Cells (lipocyte)	2	126.3886
+FANTOM5	hsa-miR-29b-3p	Hepatocyte	3	62.002766666666666
+FANTOM5	hsa-miR-29b-3p	Intestinal epithelial cells (polarized)	1	120.475
+FANTOM5	hsa-miR-29b-3p	Keratinocyte - epidermal	3	1034.8073333333334
+FANTOM5	hsa-miR-29b-3p	Keratinocyte - oral	1	3.87104
+FANTOM5	hsa-miR-29b-3p	Keratocytes	2	940.4625
+FANTOM5	hsa-miR-29b-3p	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	38.5554
+FANTOM5	hsa-miR-29b-3p	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	39.61796666666666
+FANTOM5	hsa-miR-29b-3p	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	40.100366666666666
+FANTOM5	hsa-miR-29b-3p	Lymphatic Endothelial cells response to VEGFC, 04hr00min	3	43.959833333333336
+FANTOM5	hsa-miR-29b-3p	Lymphatic Endothelial cells response to VEGFC, 08hr00min	3	10.205006666666668
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	34.9133
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 00hr15min	3	34.77976666666667
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 00hr30min	3	37.219166666666666
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 00hr45min	3	41.66666666666667
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 01hr00min	3	35.638299999999994
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 01hr20min	3	35.12863333333333
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 01hr40min	3	35.2106
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 04hr	3	30.5686
+FANTOM5	hsa-miR-29b-3p	MCF7 breast cancer cell line response to HRG, 08hr	2	36.782349999999994
+FANTOM5	hsa-miR-29b-3p	Macrophage - monocyte derived	3	202.691
+FANTOM5	hsa-miR-29b-3p	Mammary Epithelial Cell	3	1053.5966666666666
+FANTOM5	hsa-miR-29b-3p	Mast cell	3	295.7236666666667
+FANTOM5	hsa-miR-29b-3p	Mast cell - stimulated	1	177.984
+FANTOM5	hsa-miR-29b-3p	Melanocyte - light	3	1298.9766666666665
+FANTOM5	hsa-miR-29b-3p	Meningeal Cells	2	398.6005
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - Vertebral	1	8.46457
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - Wharton's Jelly	1	294.424
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - adipose	3	404.0657666666666
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - amniotic membrane	2	411.9715
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - bone marrow	3	484.0815333333333
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - hepatic	2	109.4431
+FANTOM5	hsa-miR-29b-3p	Mesenchymal Stem Cells - umbilical	4	309.190675
+FANTOM5	hsa-miR-29b-3p	Mesothelial Cells	2	233.6015
+FANTOM5	hsa-miR-29b-3p	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	20.10315
+FANTOM5	hsa-miR-29b-3p	Myoblast	3	341.62533333333334
+FANTOM5	hsa-miR-29b-3p	Natural Killer Cells	3	1644.274666666667
+FANTOM5	hsa-miR-29b-3p	Neural stem cells	2	40.1138
+FANTOM5	hsa-miR-29b-3p	Neutrophils	3	214.53999999999996
+FANTOM5	hsa-miR-29b-3p	Nucleus Pulposus Cell	2	4.66296
+FANTOM5	hsa-miR-29b-3p	Osteoblast	3	142.60003333333333
+FANTOM5	hsa-miR-29b-3p	Osteoblast - differentiated	3	314.03833333333336
+FANTOM5	hsa-miR-29b-3p	Pancreatic stromal cells	1	1242.11
+FANTOM5	hsa-miR-29b-3p	Pericytes	2	225.47750000000002
+FANTOM5	hsa-miR-29b-3p	Peripheral Blood Mononuclear Cells	3	832.4879999999999
+FANTOM5	hsa-miR-29b-3p	Placental Epithelial Cells	3	88.54346666666667
+FANTOM5	hsa-miR-29b-3p	Preadipocyte - breast	1	70.4388
+FANTOM5	hsa-miR-29b-3p	Preadipocyte - omental	3	88.3784
+FANTOM5	hsa-miR-29b-3p	Preadipocyte - perirenal	1	329.656
+FANTOM5	hsa-miR-29b-3p	Preadipocyte - subcutaneous	3	616.2249999999999
+FANTOM5	hsa-miR-29b-3p	Preadipocyte - visceral	3	1102.1573333333333
+FANTOM5	hsa-miR-29b-3p	Prostate Epithelial Cells	2	2103.4900000000002
+FANTOM5	hsa-miR-29b-3p	Prostate Epithelial Cells (polarized)	1	191.115
+FANTOM5	hsa-miR-29b-3p	Prostate Stromal Cells	3	1090.9846666666665
+FANTOM5	hsa-miR-29b-3p	Renal Cortical Epithelial Cells	1	434.629
+FANTOM5	hsa-miR-29b-3p	Renal Epithelial Cells	2	656.9915
+FANTOM5	hsa-miR-29b-3p	Renal Glomerular Endothelial Cells	2	401.3665
+FANTOM5	hsa-miR-29b-3p	Renal Mesangial Cells	2	499.63250000000005
+FANTOM5	hsa-miR-29b-3p	Renal Proximal Tubular Epithelial Cell	3	897.4896666666667
+FANTOM5	hsa-miR-29b-3p	Retinal Pigment Epithelial Cells	3	591.1163
+FANTOM5	hsa-miR-29b-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	33.68163333333334
+FANTOM5	hsa-miR-29b-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	45.78333333333333
+FANTOM5	hsa-miR-29b-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	41.14893333333334
+FANTOM5	hsa-miR-29b-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	34.74933333333333
+FANTOM5	hsa-miR-29b-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	56.91356666666667
+FANTOM5	hsa-miR-29b-3p	Schwann Cells	1	364.801
+FANTOM5	hsa-miR-29b-3p	Sebocyte	3	241.705
+FANTOM5	hsa-miR-29b-3p	Sertoli Cells	2	352.96
+FANTOM5	hsa-miR-29b-3p	Skeletal Muscle Cells	3	951.35
+FANTOM5	hsa-miR-29b-3p	Skeletal Muscle Satellite Cells	3	430.66900000000004
+FANTOM5	hsa-miR-29b-3p	Skeletal muscle cells differentiated into Myotubes - multinucleated	2	117.41014999999999
+FANTOM5	hsa-miR-29b-3p	Small Airway Epithelial Cells	3	761.4096666666668
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Aortic	3	445.597
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Brachiocephalic	3	628.9833333333332
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Brain Vascular	3	262.6773333333333
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Bronchial	1	440.158
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Carotid	2	659.009
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Colonic	3	597.8856666666667
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Coronary Artery	3	838.1813333333334
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Esophageal	1	449.723
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Internal Thoracic Artery	3	825.0770000000001
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Prostate	3	945.4050000000001
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Pulmonary Artery	3	723.5625
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Subclavian Artery	3	705.54
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Tracheal	1	731.698
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Umbilical Artery	4	739.8822499999999
+FANTOM5	hsa-miR-29b-3p	Smooth Muscle Cells - Uterine	2	709.1585
+FANTOM5	hsa-miR-29b-3p	Synoviocyte	3	281.00530000000003
+FANTOM5	hsa-miR-29b-3p	Trabecular Meshwork Cells	2	487.88699999999994
+FANTOM5	hsa-miR-29b-3p	Tracheal Epithelial Cells	2	499.9575
+FANTOM5	hsa-miR-29b-3p	Urothelial Cells	3	768.486
+FANTOM5	hsa-miR-29b-3p	amniotic membrane cells	1	230.491
+FANTOM5	hsa-miR-29b-3p	chorionic membrane cells	1	1459.77
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	22.452133333333332
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	24.529833333333332
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	33.41276666666667
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	38.08593333333334
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	29.718666666666667
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	27.209266666666668
+FANTOM5	hsa-miR-29b-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	24.535800000000005
+FANTOM5	hsa-miR-29b-3p	pineal gland, adult	1	189.323
+FANTOM5	hsa-miR-29b-3p	pituitary gland, adult	1	266.52
+FANTOM5	hsa-miR-29b-3p	spinal cord, adult	1	77.8712
+FANTOM5	hsa-miR-29c-3p	Adipocyte - breast	2	350.304
+FANTOM5	hsa-miR-29c-3p	Adipocyte - omental	3	405.93800000000005
+FANTOM5	hsa-miR-29c-3p	Adipocyte - perirenal	1	485.355
+FANTOM5	hsa-miR-29c-3p	Adipocyte - subcutaneous	3	176.93293333333335
+FANTOM5	hsa-miR-29c-3p	Alveolar Epithelial Cells	3	90.8779
+FANTOM5	hsa-miR-29c-3p	Amniotic Epithelial Cells	3	224.53533333333334
+FANTOM5	hsa-miR-29c-3p	Anulus Pulposus Cell	2	2.7571965
+FANTOM5	hsa-miR-29c-3p	Astrocyte - cerebellum	2	70.68605
+FANTOM5	hsa-miR-29c-3p	Astrocyte - cerebral cortex	3	103.69463333333333
+FANTOM5	hsa-miR-29c-3p	Bronchial Epithelial Cell	3	423.767
+FANTOM5	hsa-miR-29c-3p	CD14+ Monocytes	3	2487.156666666667
+FANTOM5	hsa-miR-29c-3p	CD14+ monocyte derived endothelial progenitor cells	3	1677.3233333333335
+FANTOM5	hsa-miR-29c-3p	CD14+ monocytes - treated with BCG	1	140.477
+FANTOM5	hsa-miR-29c-3p	CD19+ B Cells	3	5237.06
+FANTOM5	hsa-miR-29c-3p	CD4+ T Cells	3	6229.37
+FANTOM5	hsa-miR-29c-3p	CD8+ T Cells	3	7608.610000000001
+FANTOM5	hsa-miR-29c-3p	COBL-a rinderpest infection, 00hr	3	271.002
+FANTOM5	hsa-miR-29c-3p	COBL-a rinderpest infection, 24hr	3	294.37533333333334
+FANTOM5	hsa-miR-29c-3p	COBL-a rinderpest(-C) infection, 24hr	3	296.305
+FANTOM5	hsa-miR-29c-3p	Chondrocyte - de diff	3	346.83933333333334
+FANTOM5	hsa-miR-29c-3p	Chondrocyte - re diff	3	619.8373333333333
+FANTOM5	hsa-miR-29c-3p	Ciliary Epithelial Cells	3	96.0919
+FANTOM5	hsa-miR-29c-3p	Corneal Epithelial Cells	3	625.0736666666667
+FANTOM5	hsa-miR-29c-3p	Dendritic Cells - monocyte immature derived	3	586.3303333333333
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Aortic	4	422.76725000000005
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Artery	3	352.15866666666665
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Lymphatic	3	302.355
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Microvascular	2	731.869
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Thoracic	2	338.771
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Umbilical vein	3	301.03833333333336
+FANTOM5	hsa-miR-29c-3p	Endothelial Cells - Vein	3	240.696
+FANTOM5	hsa-miR-29c-3p	Esophageal Epithelial Cells	2	313.0665
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Aortic Adventitial	3	239.32533333333336
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Cardiac	3	85.18606666666666
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Choroid Plexus	1	93.0874
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Conjunctival	1	59.1405
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Dermal	3	121.19016666666666
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Gingival	3	415.5337333333334
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Lung	3	30.855
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Lymphatic	3	149.53366666666668
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Mammary	3	82.43826666666666
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Periodontal Ligament	3	125.5222
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Pulmonary Artery	1	0.372736
+FANTOM5	hsa-miR-29c-3p	Fibroblast - Villous Mesenchymal	1	199.731
+FANTOM5	hsa-miR-29c-3p	Gingival epithelial cells	2	388.308
+FANTOM5	hsa-miR-29c-3p	H9 Embryonic Stem cells	1	28.4878
+FANTOM5	hsa-miR-29c-3p	Hair Follicle Dermal Papilla Cells	3	198.81163333333333
+FANTOM5	hsa-miR-29c-3p	Hepatic Sinusoidal Endothelial Cells	2	376.9895
+FANTOM5	hsa-miR-29c-3p	Hepatic Stellate Cells (lipocyte)	2	80.61534999999999
+FANTOM5	hsa-miR-29c-3p	Hepatocyte	3	407.3353333333334
+FANTOM5	hsa-miR-29c-3p	Intestinal epithelial cells (polarized)	1	373.16
+FANTOM5	hsa-miR-29c-3p	Keratinocyte - epidermal	3	522.5373333333333
+FANTOM5	hsa-miR-29c-3p	Keratinocyte - oral	1	9.92059
+FANTOM5	hsa-miR-29c-3p	Keratocytes	2	154.2447
+FANTOM5	hsa-miR-29c-3p	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	85.79953333333333
+FANTOM5	hsa-miR-29c-3p	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	78.61563333333334
+FANTOM5	hsa-miR-29c-3p	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	77.74856666666666
+FANTOM5	hsa-miR-29c-3p	Lymphatic Endothelial cells response to VEGFC, 04hr00min	3	69.56976666666667
+FANTOM5	hsa-miR-29c-3p	Lymphatic Endothelial cells response to VEGFC, 08hr00min	3	28.758233333333333
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	89.33316666666667
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 00hr15min	3	89.71756666666666
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 00hr30min	3	97.69723333333333
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 00hr45min	3	116.46303333333333
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 01hr00min	3	101.7066
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 01hr20min	3	101.28066666666666
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 01hr40min	3	88.49883333333334
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 04hr	3	81.76413333333333
+FANTOM5	hsa-miR-29c-3p	MCF7 breast cancer cell line response to HRG, 08hr	2	96.47505000000001
+FANTOM5	hsa-miR-29c-3p	Macrophage - monocyte derived	3	918.9546666666666
+FANTOM5	hsa-miR-29c-3p	Mammary Epithelial Cell	3	500.6223333333333
+FANTOM5	hsa-miR-29c-3p	Mast cell	3	3587.6366666666668
+FANTOM5	hsa-miR-29c-3p	Mast cell - stimulated	1	1135.01
+FANTOM5	hsa-miR-29c-3p	Melanocyte - light	3	113.33133333333332
+FANTOM5	hsa-miR-29c-3p	Meningeal Cells	2	97.8458
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - Vertebral	1	0.27318
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - Wharton's Jelly	1	77.2373
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - adipose	3	132.9295
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - amniotic membrane	2	143.797
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - bone marrow	3	62.054965333333335
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - hepatic	2	428.00570000000005
+FANTOM5	hsa-miR-29c-3p	Mesenchymal Stem Cells - umbilical	4	244.669075
+FANTOM5	hsa-miR-29c-3p	Mesothelial Cells	2	225.45100000000002
+FANTOM5	hsa-miR-29c-3p	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	61.586600000000004
+FANTOM5	hsa-miR-29c-3p	Myoblast	3	205.15366666666668
+FANTOM5	hsa-miR-29c-3p	Natural Killer Cells	3	5951.19
+FANTOM5	hsa-miR-29c-3p	Neural stem cells	2	103.73305
+FANTOM5	hsa-miR-29c-3p	Neutrophils	3	1304.2866666666669
+FANTOM5	hsa-miR-29c-3p	Nucleus Pulposus Cell	2	13.75175
+FANTOM5	hsa-miR-29c-3p	Osteoblast	3	15.711433333333332
+FANTOM5	hsa-miR-29c-3p	Osteoblast - differentiated	3	57.5531
+FANTOM5	hsa-miR-29c-3p	Pancreatic stromal cells	1	234.453
+FANTOM5	hsa-miR-29c-3p	Pericytes	2	162.156
+FANTOM5	hsa-miR-29c-3p	Peripheral Blood Mononuclear Cells	3	5518.163333333333
+FANTOM5	hsa-miR-29c-3p	Placental Epithelial Cells	3	190.55999999999997
+FANTOM5	hsa-miR-29c-3p	Preadipocyte - breast	1	30.9245
+FANTOM5	hsa-miR-29c-3p	Preadipocyte - omental	3	56.0447
+FANTOM5	hsa-miR-29c-3p	Preadipocyte - perirenal	1	131.449
+FANTOM5	hsa-miR-29c-3p	Preadipocyte - subcutaneous	3	53.4793
+FANTOM5	hsa-miR-29c-3p	Preadipocyte - visceral	3	56.5624
+FANTOM5	hsa-miR-29c-3p	Prostate Epithelial Cells	2	768.5135
+FANTOM5	hsa-miR-29c-3p	Prostate Epithelial Cells (polarized)	1	445.759
+FANTOM5	hsa-miR-29c-3p	Prostate Stromal Cells	3	550.8416666666667
+FANTOM5	hsa-miR-29c-3p	Renal Cortical Epithelial Cells	1	83.8829
+FANTOM5	hsa-miR-29c-3p	Renal Epithelial Cells	2	134.97199999999998
+FANTOM5	hsa-miR-29c-3p	Renal Glomerular Endothelial Cells	2	473.9285
+FANTOM5	hsa-miR-29c-3p	Renal Mesangial Cells	2	139.3345
+FANTOM5	hsa-miR-29c-3p	Renal Proximal Tubular Epithelial Cell	3	212.10683333333336
+FANTOM5	hsa-miR-29c-3p	Retinal Pigment Epithelial Cells	3	73.0455
+FANTOM5	hsa-miR-29c-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	6.766076666666666
+FANTOM5	hsa-miR-29c-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	13.838560000000001
+FANTOM5	hsa-miR-29c-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	8.185176666666665
+FANTOM5	hsa-miR-29c-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	10.791743333333335
+FANTOM5	hsa-miR-29c-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	12.8688
+FANTOM5	hsa-miR-29c-3p	Schwann Cells	1	56.6568
+FANTOM5	hsa-miR-29c-3p	Sebocyte	3	153.37800000000001
+FANTOM5	hsa-miR-29c-3p	Sertoli Cells	2	246.25150000000002
+FANTOM5	hsa-miR-29c-3p	Skeletal Muscle Cells	3	35.05913333333333
+FANTOM5	hsa-miR-29c-3p	Skeletal Muscle Satellite Cells	3	55.390800000000006
+FANTOM5	hsa-miR-29c-3p	Skeletal muscle cells differentiated into Myotubes - multinucleated	2	28.75475
+FANTOM5	hsa-miR-29c-3p	Small Airway Epithelial Cells	3	555.7886666666667
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Aortic	3	253.28966666666668
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Brachiocephalic	3	159.16216666666668
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Brain Vascular	3	141.284
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Bronchial	1	104.917
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Carotid	2	144.2525
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Colonic	3	49.87166666666667
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Coronary Artery	3	233.71613333333335
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Esophageal	1	118.84
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Internal Thoracic Artery	3	203.7423
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Prostate	3	370.038
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Pulmonary Artery	3	299.7572333333333
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Subclavian Artery	3	225.26396666666665
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Tracheal	1	52.7635
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Umbilical Artery	4	94.01527499999999
+FANTOM5	hsa-miR-29c-3p	Smooth Muscle Cells - Uterine	2	200.21800000000002
+FANTOM5	hsa-miR-29c-3p	Synoviocyte	3	442.5159999999999
+FANTOM5	hsa-miR-29c-3p	Trabecular Meshwork Cells	2	166.2233
+FANTOM5	hsa-miR-29c-3p	Tracheal Epithelial Cells	2	485.849
+FANTOM5	hsa-miR-29c-3p	Urothelial Cells	3	308.02893
+FANTOM5	hsa-miR-29c-3p	amniotic membrane cells	1	1335.46
+FANTOM5	hsa-miR-29c-3p	chorionic membrane cells	1	1318.62
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	2.92923
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	3.1209333333333333
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	6.8700833333333335
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	23.84166666666667
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	46.74866666666667
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	79.76183333333334
+FANTOM5	hsa-miR-29c-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	91.84186666666666
+FANTOM5	hsa-miR-29c-3p	pineal gland, adult	1	1397.67
+FANTOM5	hsa-miR-29c-3p	pituitary gland, adult	1	1227.2
+FANTOM5	hsa-miR-29c-3p	spinal cord, adult	1	423.688
+FANTOM5	hsa-miR-101-3p	Adipocyte - breast	2	3998.83
+FANTOM5	hsa-miR-101-3p	Adipocyte - omental	3	4109.056666666666
+FANTOM5	hsa-miR-101-3p	Adipocyte - perirenal	1	3702.58
+FANTOM5	hsa-miR-101-3p	Adipocyte - subcutaneous	3	2104.2466666666664
+FANTOM5	hsa-miR-101-3p	Alveolar Epithelial Cells	3	1472.7366666666667
+FANTOM5	hsa-miR-101-3p	Amniotic Epithelial Cells	3	1343.296
+FANTOM5	hsa-miR-101-3p	Anulus Pulposus Cell	2	38.81805
+FANTOM5	hsa-miR-101-3p	Astrocyte - cerebellum	2	1472.505
+FANTOM5	hsa-miR-101-3p	Astrocyte - cerebral cortex	3	823.0073333333333
+FANTOM5	hsa-miR-101-3p	Bronchial Epithelial Cell	3	1750.1533333333334
+FANTOM5	hsa-miR-101-3p	CD14+ Monocytes	3	9882.193333333333
+FANTOM5	hsa-miR-101-3p	CD14+ monocyte derived endothelial progenitor cells	3	5647.856666666667
+FANTOM5	hsa-miR-101-3p	CD14+ monocytes - treated with BCG	1	1701.0
+FANTOM5	hsa-miR-101-3p	CD19+ B Cells	3	18217.733333333334
+FANTOM5	hsa-miR-101-3p	CD4+ T Cells	3	14570.75
+FANTOM5	hsa-miR-101-3p	CD8+ T Cells	3	27569.8
+FANTOM5	hsa-miR-101-3p	COBL-a rinderpest infection, 00hr	3	2915.1433333333334
+FANTOM5	hsa-miR-101-3p	COBL-a rinderpest infection, 24hr	3	2513.0
+FANTOM5	hsa-miR-101-3p	COBL-a rinderpest(-C) infection, 24hr	3	2856.373333333333
+FANTOM5	hsa-miR-101-3p	Chondrocyte - de diff	3	2748.19
+FANTOM5	hsa-miR-101-3p	Chondrocyte - re diff	3	5884.473333333332
+FANTOM5	hsa-miR-101-3p	Ciliary Epithelial Cells	3	2595.77
+FANTOM5	hsa-miR-101-3p	Corneal Epithelial Cells	3	1957.0566666666666
+FANTOM5	hsa-miR-101-3p	Dendritic Cells - monocyte immature derived	3	2703.6133333333332
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Aortic	4	2725.235
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Artery	3	2014.583333333333
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Lymphatic	3	2012.6066666666666
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Microvascular	2	1916.25
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Thoracic	2	1786.9050000000002
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Umbilical vein	3	1186.9973333333335
+FANTOM5	hsa-miR-101-3p	Endothelial Cells - Vein	3	1700.3166666666666
+FANTOM5	hsa-miR-101-3p	Esophageal Epithelial Cells	2	2446.805
+FANTOM5	hsa-miR-101-3p	Fibroblast - Aortic Adventitial	3	1459.2033333333331
+FANTOM5	hsa-miR-101-3p	Fibroblast - Cardiac	3	1517.0106666666668
+FANTOM5	hsa-miR-101-3p	Fibroblast - Choroid Plexus	1	2173.77
+FANTOM5	hsa-miR-101-3p	Fibroblast - Conjunctival	1	1365.13
+FANTOM5	hsa-miR-101-3p	Fibroblast - Dermal	3	2958.2000000000003
+FANTOM5	hsa-miR-101-3p	Fibroblast - Gingival	3	1083.664
+FANTOM5	hsa-miR-101-3p	Fibroblast - Lung	3	1539.0466666666664
+FANTOM5	hsa-miR-101-3p	Fibroblast - Lymphatic	3	918.005
+FANTOM5	hsa-miR-101-3p	Fibroblast - Mammary	3	593.2363333333334
+FANTOM5	hsa-miR-101-3p	Fibroblast - Periodontal Ligament	3	761.8846666666667
+FANTOM5	hsa-miR-101-3p	Fibroblast - Pulmonary Artery	1	91.9443
+FANTOM5	hsa-miR-101-3p	Fibroblast - Villous Mesenchymal	1	671.611
+FANTOM5	hsa-miR-101-3p	Gingival epithelial cells	2	1626.2150000000001
+FANTOM5	hsa-miR-101-3p	H9 Embryonic Stem cells	1	436.52
+FANTOM5	hsa-miR-101-3p	Hair Follicle Dermal Papilla Cells	3	1127.479
+FANTOM5	hsa-miR-101-3p	Hepatic Sinusoidal Endothelial Cells	2	3038.955
+FANTOM5	hsa-miR-101-3p	Hepatic Stellate Cells (lipocyte)	2	1495.31
+FANTOM5	hsa-miR-101-3p	Hepatocyte	3	6874.903333333333
+FANTOM5	hsa-miR-101-3p	Intestinal epithelial cells (polarized)	1	1184.09
+FANTOM5	hsa-miR-101-3p	Keratinocyte - epidermal	3	1393.4366666666665
+FANTOM5	hsa-miR-101-3p	Keratinocyte - oral	1	58.0656
+FANTOM5	hsa-miR-101-3p	Keratocytes	2	1757.0549999999998
+FANTOM5	hsa-miR-101-3p	Lymphatic Endothelial cells response to VEGFC, 00hr00min	3	579.529
+FANTOM5	hsa-miR-101-3p	Lymphatic Endothelial cells response to VEGFC, 01hr00min	3	557.3753333333334
+FANTOM5	hsa-miR-101-3p	Lymphatic Endothelial cells response to VEGFC, 02hr00min	3	488.2559999999999
+FANTOM5	hsa-miR-101-3p	Lymphatic Endothelial cells response to VEGFC, 04hr00min	3	726.956
+FANTOM5	hsa-miR-101-3p	Lymphatic Endothelial cells response to VEGFC, 08hr00min	3	316.57033333333334
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to EGF1, 00hr00min	3	2444.263333333333
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 00hr15min	3	2510.516666666667
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 00hr30min	3	2511.9366666666665
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 00hr45min	3	2447.81
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 01hr00min	3	2455.77
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 01hr20min	3	2317.22
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 01hr40min	3	2441.443333333333
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 04hr	3	2277.513333333333
+FANTOM5	hsa-miR-101-3p	MCF7 breast cancer cell line response to HRG, 08hr	2	2181.215
+FANTOM5	hsa-miR-101-3p	Macrophage - monocyte derived	3	2981.4066666666663
+FANTOM5	hsa-miR-101-3p	Mammary Epithelial Cell	3	2009.25
+FANTOM5	hsa-miR-101-3p	Mast cell	3	20017.6
+FANTOM5	hsa-miR-101-3p	Mast cell - stimulated	1	3515.92
+FANTOM5	hsa-miR-101-3p	Melanocyte - light	3	4776.943333333334
+FANTOM5	hsa-miR-101-3p	Meningeal Cells	2	1995.885
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - Vertebral	1	25.3937
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - Wharton's Jelly	1	1659.84
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - adipose	3	1357.5056666666667
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - amniotic membrane	2	750.6175000000001
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - bone marrow	3	667.3106666666666
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - hepatic	2	922.124
+FANTOM5	hsa-miR-101-3p	Mesenchymal Stem Cells - umbilical	4	908.3343500000001
+FANTOM5	hsa-miR-101-3p	Mesothelial Cells	2	1045.6235
+FANTOM5	hsa-miR-101-3p	Multipotent Cord Blood Unrestricted Somatic Stem Cells	2	1326.98
+FANTOM5	hsa-miR-101-3p	Myoblast	3	1163.4826666666668
+FANTOM5	hsa-miR-101-3p	Natural Killer Cells	3	30951.400000000005
+FANTOM5	hsa-miR-101-3p	Neural stem cells	2	16719.300000000003
+FANTOM5	hsa-miR-101-3p	Neutrophils	3	18546.433333333334
+FANTOM5	hsa-miR-101-3p	Nucleus Pulposus Cell	2	76.4873
+FANTOM5	hsa-miR-101-3p	Osteoblast	3	523.397
+FANTOM5	hsa-miR-101-3p	Osteoblast - differentiated	3	2167.9233333333336
+FANTOM5	hsa-miR-101-3p	Pancreatic stromal cells	1	1478.34
+FANTOM5	hsa-miR-101-3p	Pericytes	2	1524.5875
+FANTOM5	hsa-miR-101-3p	Peripheral Blood Mononuclear Cells	3	15004.800000000001
+FANTOM5	hsa-miR-101-3p	Placental Epithelial Cells	3	1632.451
+FANTOM5	hsa-miR-101-3p	Preadipocyte - breast	1	1358.08
+FANTOM5	hsa-miR-101-3p	Preadipocyte - omental	3	1569.9800000000002
+FANTOM5	hsa-miR-101-3p	Preadipocyte - perirenal	1	1717.95
+FANTOM5	hsa-miR-101-3p	Preadipocyte - subcutaneous	3	924.2243333333332
+FANTOM5	hsa-miR-101-3p	Preadipocyte - visceral	3	901.1486666666666
+FANTOM5	hsa-miR-101-3p	Prostate Epithelial Cells	2	2235.375
+FANTOM5	hsa-miR-101-3p	Prostate Epithelial Cells (polarized)	1	1332.85
+FANTOM5	hsa-miR-101-3p	Prostate Stromal Cells	3	1846.3
+FANTOM5	hsa-miR-101-3p	Renal Cortical Epithelial Cells	1	1247.68
+FANTOM5	hsa-miR-101-3p	Renal Epithelial Cells	2	1437.5749999999998
+FANTOM5	hsa-miR-101-3p	Renal Glomerular Endothelial Cells	2	2463.62
+FANTOM5	hsa-miR-101-3p	Renal Mesangial Cells	2	1646.26
+FANTOM5	hsa-miR-101-3p	Renal Proximal Tubular Epithelial Cell	3	1548.1686666666667
+FANTOM5	hsa-miR-101-3p	Retinal Pigment Epithelial Cells	3	1774.3146666666664
+FANTOM5	hsa-miR-101-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 00hr00min	3	1186.9633333333334
+FANTOM5	hsa-miR-101-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 01hr00min	3	2109.0066666666667
+FANTOM5	hsa-miR-101-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, 24hr	3	1596.39
+FANTOM5	hsa-miR-101-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day04	3	1557.42
+FANTOM5	hsa-miR-101-3p	Saos-2 osteosarcoma treated with ascorbic acid and BGP to induce calcification, day28	3	3031.9266666666663
+FANTOM5	hsa-miR-101-3p	Schwann Cells	1	1028.03
+FANTOM5	hsa-miR-101-3p	Sebocyte	3	1808.543333333333
+FANTOM5	hsa-miR-101-3p	Sertoli Cells	2	1203.79
+FANTOM5	hsa-miR-101-3p	Skeletal Muscle Cells	3	1095.8136666666667
+FANTOM5	hsa-miR-101-3p	Skeletal Muscle Satellite Cells	3	1431.29
+FANTOM5	hsa-miR-101-3p	Skeletal muscle cells differentiated into Myotubes - multinucleated	2	1284.41
+FANTOM5	hsa-miR-101-3p	Small Airway Epithelial Cells	3	1782.5666666666666
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Aortic	3	1106.7603333333334
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Brachiocephalic	3	2179.2833333333333
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Brain Vascular	3	1301.0256666666667
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Bronchial	1	919.713
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Carotid	2	1715.3049999999998
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Colonic	3	1582.6853333333331
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Coronary Artery	3	1075.9959999999999
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Esophageal	1	1310.06
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Internal Thoracic Artery	3	667.4246666666667
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Prostate	3	1521.1009999999999
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Pulmonary Artery	3	2495.5293333333334
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Subclavian Artery	3	913.2980000000001
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Tracheal	1	1145.83
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Umbilical Artery	4	954.0355
+FANTOM5	hsa-miR-101-3p	Smooth Muscle Cells - Uterine	2	607.22
+FANTOM5	hsa-miR-101-3p	Synoviocyte	3	2381.126333333333
+FANTOM5	hsa-miR-101-3p	Trabecular Meshwork Cells	2	1103.955
+FANTOM5	hsa-miR-101-3p	Tracheal Epithelial Cells	2	1729.805
+FANTOM5	hsa-miR-101-3p	Urothelial Cells	3	1123.1315333333332
+FANTOM5	hsa-miR-101-3p	amniotic membrane cells	1	5319.07
+FANTOM5	hsa-miR-101-3p	chorionic membrane cells	1	10334.7
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 00hr00min	3	140.97066666666666
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 02hr00min	3	136.41033333333334
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, 12hr00min	3	261.7126666666667
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day02	3	433.6843333333333
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day04	3	508.125
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day08	3	665.6853333333333
+FANTOM5	hsa-miR-101-3p	mesenchymal stem cells (adipose derived), adipogenic induction, day12	3	559.6886666666666
+FANTOM5	hsa-miR-101-3p	pineal gland, adult	1	1848.86
+FANTOM5	hsa-miR-101-3p	pituitary gland, adult	1	2073.13
+FANTOM5	hsa-miR-101-3p	spinal cord, adult	1	1434.73
+microRNAome	hsa-miR-29a-3p	Adipocyte	5	8420.660480770675
+microRNAome	hsa-miR-29a-3p	Amniotic_epithelial_cell	3	5642.08407493828
+microRNAome	hsa-miR-29a-3p	Annulus_fibrosus_cell	2	5746.068938810603
+microRNAome	hsa-miR-29a-3p	Astrocyte	12	4550.379815553876
+microRNAome	hsa-miR-29a-3p	B_cell_germinal_center	3	1331.1164848388853
+microRNAome	hsa-miR-29a-3p	B_cell_naive	1	12193.162550292402
+microRNAome	hsa-miR-29a-3p	B_cell_pre_germinal_center	1	5593.461978675127
+microRNAome	hsa-miR-29a-3p	B_lymphocyte	2	27602.109069944625
+microRNAome	hsa-miR-29a-3p	Beta_cell	5	1182.7331689202067
+microRNAome	hsa-miR-29a-3p	Beta_cell_derived	2	266.2695542225611
+microRNAome	hsa-miR-29a-3p	Beta_cell_like_derived	3	4921.204231461631
+microRNAome	hsa-miR-29a-3p	Biliosphere	8	5537.099964645976
+microRNAome	hsa-miR-29a-3p	Blastocyst_derived	32	298.86037472565556
+microRNAome	hsa-miR-29a-3p	Bone_marrow_mesenchymal_stem_cell	21	6149.526338687114
+microRNAome	hsa-miR-29a-3p	Breast_epithelial_cell	5	8666.94058694287
+microRNAome	hsa-miR-29a-3p	Bronchial_epithelial_cell	40	2358.4641450994977
+microRNAome	hsa-miR-29a-3p	CD14_cell	48	801.4950079703412
+microRNAome	hsa-miR-29a-3p	CD15_cell	32	3056.3433743332894
+microRNAome	hsa-miR-29a-3p	CD19_lymphocyte	46	15130.881175537255
+microRNAome	hsa-miR-29a-3p	CD27-_IgD_cell	3	3825.301680712007
+microRNAome	hsa-miR-29a-3p	CD27_IgA_cell	3	9893.906152643385
+microRNAome	hsa-miR-29a-3p	CD27_IgD_cell	3	6560.966936049677
+microRNAome	hsa-miR-29a-3p	CD27_IgG_cell	3	6059.1810785003445
+microRNAome	hsa-miR-29a-3p	CD34_cell	6	650.4690649843568
+microRNAome	hsa-miR-29a-3p	CD4_lymphocyte	98	15345.838895042647
+microRNAome	hsa-miR-29a-3p	CD56_cell	45	4663.848880534144
+microRNAome	hsa-miR-29a-3p	CD8_lymphocyte	46	13995.758951443107
+microRNAome	hsa-miR-29a-3p	Cardiac_progenitor_derived	3	321.2864318746553
+microRNAome	hsa-miR-29a-3p	Cardiomyocyte_derived	9	32.74583512706302
+microRNAome	hsa-miR-29a-3p	Centroblast	1	4668.17503210015
+microRNAome	hsa-miR-29a-3p	Centrocyte	1	4796.943523499231
+microRNAome	hsa-miR-29a-3p	Chondroblast	3	9246.604684212114
+microRNAome	hsa-miR-29a-3p	Chondrocyte	4	6023.784681269763
+microRNAome	hsa-miR-29a-3p	Colonic_epithelial	1	930.5225952898193
+microRNAome	hsa-miR-29a-3p	Conjunctival_epithelial_cell	8	3220.540647239285
+microRNAome	hsa-miR-29a-3p	Corona_radiata	1	8799.700184841793
+microRNAome	hsa-miR-29a-3p	Cumulus_oophorus	1	8027.5953580914365
+microRNAome	hsa-miR-29a-3p	Dendritic_cell	110	2914.1454510582757
+microRNAome	hsa-miR-29a-3p	Dental_pulp_stem_cell	6	11891.097504763964
+microRNAome	hsa-miR-29a-3p	Dermal_papilla_cell	3	13053.838520537378
+microRNAome	hsa-miR-29a-3p	Ectoderm_precursor_derived	2	122.21007402109143
+microRNAome	hsa-miR-29a-3p	Embryonic_stem_cell	24	252.23422506357213
+microRNAome	hsa-miR-29a-3p	Embryonic_stem_cell_H1	1	395.6426099834625
+microRNAome	hsa-miR-29a-3p	Embryonic_stem_cell_H7	12	96.90764516520208
+microRNAome	hsa-miR-29a-3p	Embryonic_stem_cell_H9	25	306.8105023970969
+microRNAome	hsa-miR-29a-3p	Endoderm_precursor_derived	2	62.839265024287144
+microRNAome	hsa-miR-29a-3p	Endothelial_cell	2	2735.469856111051
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_aortic	37	2391.887730768532
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_arterial	3	5065.957427425908
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_brain	1	832.0949230531169
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_brain_microvascular	6	989.5490129446085
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_capillary	2	5017.745774062459
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_internal_thoracic	2	4700.1017888784345
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_kidney	2	6189.158344094184
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_lymphatic	17	1819.477402388991
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_microvascular	4	5006.304905083613
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_retinal_microvascular	5	16018.021138891505
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_sinusoidal	2	5505.198175909727
+microRNAome	hsa-miR-29a-3p	Endothelial_cell_umbilical_vein	88	2477.8790833513126
+microRNAome	hsa-miR-29a-3p	Endothelial_progenitor_cell	3	7545.921761906771
+microRNAome	hsa-miR-29a-3p	Erythroblast_derived	48	128.34228369692687
+microRNAome	hsa-miR-29a-3p	Esophagus_epithelial_cell	2	7384.791610141794
+microRNAome	hsa-miR-29a-3p	Eye_ciliated_epithelial_cell	3	9692.103300944582
+microRNAome	hsa-miR-29a-3p	Eye_corneal_epithelial_cell	3	11848.642432720217
+microRNAome	hsa-miR-29a-3p	Fibroblast	2	13975.95663475191
+microRNAome	hsa-miR-29a-3p	Fibroblast_aortic_adventitial	6	19358.53334650528
+microRNAome	hsa-miR-29a-3p	Fibroblast_breast	3	6133.671182148835
+microRNAome	hsa-miR-29a-3p	Fibroblast_choroid_plexus	1	5078.184398601044
+microRNAome	hsa-miR-29a-3p	Fibroblast_dermal	10	4266.090335521845
+microRNAome	hsa-miR-29a-3p	Fibroblast_dermal_derived	3	28653.044412405754
+microRNAome	hsa-miR-29a-3p	Fibroblast_dermal_fetal	1	17961.012791568155
+microRNAome	hsa-miR-29a-3p	Fibroblast_dermal_neonatal	6	4024.5139814556883
+microRNAome	hsa-miR-29a-3p	Fibroblast_embryonic	3	5514.240583081431
+microRNAome	hsa-miR-29a-3p	Fibroblast_endometrial_stroma	12	8035.0572678954895
+microRNAome	hsa-miR-29a-3p	Fibroblast_eye	1	10832.87937282395
+microRNAome	hsa-miR-29a-3p	Fibroblast_foreskin	14	30439.525812486485
+microRNAome	hsa-miR-29a-3p	Fibroblast_foreskin_neonatal	3	1318.9071916710436
+microRNAome	hsa-miR-29a-3p	Fibroblast_gum_fetal	3	14247.581739570931
+microRNAome	hsa-miR-29a-3p	Fibroblast_heart_fetal	3	5753.683680471298
+microRNAome	hsa-miR-29a-3p	Fibroblast_lung	7	8988.362543526624
+microRNAome	hsa-miR-29a-3p	Fibroblast_lung_fetal	3	14422.712295379222
+microRNAome	hsa-miR-29a-3p	Fibroblast_lymph_node	3	6657.562786225574
+microRNAome	hsa-miR-29a-3p	Fibroblast_periodontal_fetal	2	10921.388566628602
+microRNAome	hsa-miR-29a-3p	Fibroblast_periodontal_ligament	1	14047.03686884885
+microRNAome	hsa-miR-29a-3p	Fibroblast_periodontal_ligament_fetal	1	11785.981762874779
+microRNAome	hsa-miR-29a-3p	Fibroblast_pulmonary_artery	1	2927.7241656614397
+microRNAome	hsa-miR-29a-3p	Fibroblast_skin	4	27154.80395496241
+microRNAome	hsa-miR-29a-3p	Fibroblast_trophoblast	1	10491.045093088558
+microRNAome	hsa-miR-29a-3p	Fibroblast_ventricular_cardiac	1	5360.8778582824625
+microRNAome	hsa-miR-29a-3p	Gum_epithelial_cell	2	15398.230733143882
+microRNAome	hsa-miR-29a-3p	H9_differentiated	2	116.65325505490677
+microRNAome	hsa-miR-29a-3p	Hematopoietic_stem_cell	6	102.51936878382462
+microRNAome	hsa-miR-29a-3p	Hepatocyte	7	1613.418123231108
+microRNAome	hsa-miR-29a-3p	Hepatocyte_derived	7	5386.406935201507
+microRNAome	hsa-miR-29a-3p	Intestinal_epithelial_cell	1	5077.36594981379
+microRNAome	hsa-miR-29a-3p	Islet_alpha_cell	1	835.6855721096573
+microRNAome	hsa-miR-29a-3p	Keratinocyte	74	5112.912974977055
+microRNAome	hsa-miR-29a-3p	Keratinocyte_neonatal	1	11897.262284058328
+microRNAome	hsa-miR-29a-3p	Lipocyte	2	3746.3537064682496
+microRNAome	hsa-miR-29a-3p	Lymphocyte	1	2976.959408265816
+microRNAome	hsa-miR-29a-3p	Macrophage	148	3746.2869113837996
+microRNAome	hsa-miR-29a-3p	Macrophage_alveolar	8	1119.9848016385654
+microRNAome	hsa-miR-29a-3p	Mast_cell	4	3993.4871487731243
+microRNAome	hsa-miR-29a-3p	Megakaryocyte_derived	4	73.14222463714864
+microRNAome	hsa-miR-29a-3p	Melanocyte	16	4938.480900358671
+microRNAome	hsa-miR-29a-3p	Meningeal	2	6397.909324928563
+microRNAome	hsa-miR-29a-3p	Mesangial_cell	3	7277.711781118378
+microRNAome	hsa-miR-29a-3p	Mesangioblast_derived	3	24045.939440689355
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell	30	3950.3864317617144
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived	4	2894.463670586836
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_adipose_tissue	3	8066.047311739671
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_amnion	2	9404.853767785962
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_bone_marrow	6	8264.18191892539
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_liver	2	4200.030813416879
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_spinal_cord	1	2994.862471694897
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stem_cell_derived_umbilical_cord	7	8135.2402045704575
+microRNAome	hsa-miR-29a-3p	Mesenchymal_stromal_cell	6	17034.112523953467
+microRNAome	hsa-miR-29a-3p	Mesoderm_precursor_derived	2	189.74143234493226
+microRNAome	hsa-miR-29a-3p	Mesoderm_progenitor_derived	3	111.18749032626027
+microRNAome	hsa-miR-29a-3p	Mesothelial_cell	2	5473.156551357697
+microRNAome	hsa-miR-29a-3p	Monocyte	22	1419.6749457258136
+microRNAome	hsa-miR-29a-3p	Mononuclear_immune_cell	158	5997.63891775635
+microRNAome	hsa-miR-29a-3p	Muscle_cell	5	12843.826845283937
+microRNAome	hsa-miR-29a-3p	Myoblast	30	10032.69760821459
+microRNAome	hsa-miR-29a-3p	Myoblast_fetal	12	4627.531924002887
+microRNAome	hsa-miR-29a-3p	Myofibroblast	1	7581.205093444433
+microRNAome	hsa-miR-29a-3p	Myotube	8	6239.38096737512
+microRNAome	hsa-miR-29a-3p	Nasal_epithelial_cell	6	2782.537914940807
+microRNAome	hsa-miR-29a-3p	Nasal_polyp_epithelial_cell	8	2445.905729792862
+microRNAome	hsa-miR-29a-3p	Natural_killer_cell	3	24906.86114925895
+microRNAome	hsa-miR-29a-3p	Neural_progenitor_cell_derived	10	274.705118179368
+microRNAome	hsa-miR-29a-3p	Neural_stem_cell	10	837.056391538417
+microRNAome	hsa-miR-29a-3p	Neuroepithelial_stem_cell	1	116.57296305226875
+microRNAome	hsa-miR-29a-3p	Neuron	66	478.2200718266492
+microRNAome	hsa-miR-29a-3p	Neutrophil	3	5844.106748918936
+microRNAome	hsa-miR-29a-3p	Nucleus_pulposus_cell	2	6421.3299080821325
+microRNAome	hsa-miR-29a-3p	Osteoblast	7	4278.563761689468
+microRNAome	hsa-miR-29a-3p	Osteocyte	3	5464.877013708664
+microRNAome	hsa-miR-29a-3p	Pancreas_epithelial_like	1	252.14321734745337
+microRNAome	hsa-miR-29a-3p	Pericyte_brain	2	5935.417274888257
+microRNAome	hsa-miR-29a-3p	Placenta_epithelial_cell	3	1116.8039890447044
+microRNAome	hsa-miR-29a-3p	Plasma	139	1817.6610994904725
+microRNAome	hsa-miR-29a-3p	Plasma_cell	2	9861.89474862623
+microRNAome	hsa-miR-29a-3p	Platelet	25	231.03001339153045
+microRNAome	hsa-miR-29a-3p	Preadipocyte	12	10332.589510306421
+microRNAome	hsa-miR-29a-3p	Prostate_epithelial_cell	6	11059.292570764484
+microRNAome	hsa-miR-29a-3p	Red_blood_cell	37	49.31589197894255
+microRNAome	hsa-miR-29a-3p	Renal_cortical_epithelial_cell	2	6446.816388290902
+microRNAome	hsa-miR-29a-3p	Renal_epithelial_cell	3	7159.691090908321
+microRNAome	hsa-miR-29a-3p	Renal_proximal_tubule_epithelial_cell	4	8623.828416979828
+microRNAome	hsa-miR-29a-3p	Retinal_pigment_epithelial_cell	30	7880.225227554664
+microRNAome	hsa-miR-29a-3p	Retinal_pigment_epithelial_cell_fetal	1	775.0846118264341
+microRNAome	hsa-miR-29a-3p	Satellite_cell	3	11030.607488268812
+microRNAome	hsa-miR-29a-3p	Schwann_cell	1	8474.438631601934
+microRNAome	hsa-miR-29a-3p	Sebocyte	3	4825.205687131246
+microRNAome	hsa-miR-29a-3p	Sertoli_cell	2	9597.98887173612
+microRNAome	hsa-miR-29a-3p	Skeletal_muscle_cell	1	8244.215133464797
+microRNAome	hsa-miR-29a-3p	Small_airway_epithelial_cell	6	7718.793488935124
+microRNAome	hsa-miR-29a-3p	Small_intestinal_epithelial_cell	1	1390.1261360297951
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell	2	10098.011739008392
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_aorta	11	10833.202018696991
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_bladder	1	12206.918840579308
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_brachiocephalic_artery	3	7170.141708543
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_brain	3	7548.633298912236
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_carotid_artery	2	15495.024421599803
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_colon	3	12820.479255169621
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_coronary_artery	3	17166.897199451447
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_esophagus	1	9391.404502262943
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_internal_thoracic	3	10179.82440829782
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_lung	2	16035.306868511614
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_prostate	4	14145.026730010159
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_pulmonary_artery	3	14212.37791893303
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_subclavian_artery	3	15062.601577542746
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_umbilical_artery	4	15715.682698024502
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_uterus	2	18278.40237069626
+microRNAome	hsa-miR-29a-3p	Smooth_muscle_cell_vascular	6	6972.245649086334
+microRNAome	hsa-miR-29a-3p	Sperm	95	4676.770920809125
+microRNAome	hsa-miR-29a-3p	Stellate_cell	6	2918.5997774487573
+microRNAome	hsa-miR-29a-3p	Stem_cell_adipose_derived	6	753.3934746968883
+microRNAome	hsa-miR-29a-3p	Stromal_cell_pancreas	1	26053.097645094866
+microRNAome	hsa-miR-29a-3p	Stromal_cell_prostate	4	14149.459221541641
+microRNAome	hsa-miR-29a-3p	Synovial_cell	3	7904.743043927688
+microRNAome	hsa-miR-29a-3p	T_lymphocyte	18	2415.6840906728908
+microRNAome	hsa-miR-29a-3p	Thymocyte_CD34	8	322.2465307270172
+microRNAome	hsa-miR-29a-3p	Thymocyte_CD4_CD8	8	126.38905461572065
+microRNAome	hsa-miR-29a-3p	Trabecular_meshwork_cell_eye	2	9442.236438157724
+microRNAome	hsa-miR-29a-3p	Tracheal_epithelial_cell	2	8046.188862895669
+microRNAome	hsa-miR-29a-3p	Unrestricted_somatic_stem_cell	11	1493.2815309400874
+microRNAome	hsa-miR-29a-3p	Urothelial_cell	3	9807.38912564521
+microRNAome	hsa-miR-29a-3p	Valve_interstitial_cell	6	2448.399942481474
+microRNAome	hsa-miR-29a-3p	Ventral_midbrain_derived	6	67.64563079670886
+microRNAome	hsa-miR-29a-3p	iPSC	20	1211.7530991259086
+microRNAome	hsa-miR-29a-3p	iPSC_amniotic_fluid	5	124.26049428293172
+microRNAome	hsa-miR-29a-3p	iPSC_bone_marrow	22	192.57027702664993
+microRNAome	hsa-miR-29a-3p	iPSC_fibroblast	32	175.23125773540372
+microRNAome	hsa-miR-29a-3p	iPSC_foreskin	27	331.3049792096711
+microRNAome	hsa-miR-29a-3p	iPSC_skin	20	298.8110588118551
+microRNAome	hsa-miR-29a-3p	iPSC_umbilical_cord_blood	26	287.8470336872663
+microRNAome	hsa-miR-29b-3p	Adipocyte	5	178.98827427838327
+microRNAome	hsa-miR-29b-3p	Amniotic_epithelial_cell	3	316.9722469711475
+microRNAome	hsa-miR-29b-3p	Annulus_fibrosus_cell	2	0.0
+microRNAome	hsa-miR-29b-3p	Astrocyte	12	162.82943190007822
+microRNAome	hsa-miR-29b-3p	B_cell_germinal_center	3	224.01027003464017
+microRNAome	hsa-miR-29b-3p	B_cell_naive	1	482.52188599599265
+microRNAome	hsa-miR-29b-3p	B_cell_pre_germinal_center	1	142.7682175056726
+microRNAome	hsa-miR-29b-3p	B_lymphocyte	2	37097.118723566564
+microRNAome	hsa-miR-29b-3p	Beta_cell	5	666.8300941585378
+microRNAome	hsa-miR-29b-3p	Beta_cell_derived	2	51.262301811780006
+microRNAome	hsa-miR-29b-3p	Beta_cell_like_derived	3	3360.508466827811
+microRNAome	hsa-miR-29b-3p	Biliosphere	8	278.18311287565234
+microRNAome	hsa-miR-29b-3p	Blastocyst_derived	32	18.83047923740174
+microRNAome	hsa-miR-29b-3p	Bone_marrow_mesenchymal_stem_cell	21	198.15518087684416
+microRNAome	hsa-miR-29b-3p	Breast_epithelial_cell	5	700.831256905159
+microRNAome	hsa-miR-29b-3p	Bronchial_epithelial_cell	40	215.7171344059082
+microRNAome	hsa-miR-29b-3p	CD14_cell	48	81.46204839742593
+microRNAome	hsa-miR-29b-3p	CD15_cell	32	120.63552537227316
+microRNAome	hsa-miR-29b-3p	CD19_lymphocyte	46	983.6054775521403
+microRNAome	hsa-miR-29b-3p	CD27-_IgD_cell	3	281.5005972666387
+microRNAome	hsa-miR-29b-3p	CD27_IgA_cell	3	580.4678388011745
+microRNAome	hsa-miR-29b-3p	CD27_IgD_cell	3	425.5787886189377
+microRNAome	hsa-miR-29b-3p	CD27_IgG_cell	3	259.2935737424113
+microRNAome	hsa-miR-29b-3p	CD34_cell	6	33.21241385595733
+microRNAome	hsa-miR-29b-3p	CD4_lymphocyte	98	2782.5753813620713
+microRNAome	hsa-miR-29b-3p	CD56_cell	45	194.61471495073528
+microRNAome	hsa-miR-29b-3p	CD8_lymphocyte	46	751.5359028157873
+microRNAome	hsa-miR-29b-3p	Cardiac_progenitor_derived	3	16.892477569018638
+microRNAome	hsa-miR-29b-3p	Cardiomyocyte_derived	9	0.5391315746675859
+microRNAome	hsa-miR-29b-3p	Centroblast	1	126.15259703766196
+microRNAome	hsa-miR-29b-3p	Centrocyte	1	105.99495523728538
+microRNAome	hsa-miR-29b-3p	Chondroblast	3	412.74081105015176
+microRNAome	hsa-miR-29b-3p	Chondrocyte	4	147.52507018903356
+microRNAome	hsa-miR-29b-3p	Colonic_epithelial	1	26.231983688268233
+microRNAome	hsa-miR-29b-3p	Conjunctival_epithelial_cell	8	182.07483623573847
+microRNAome	hsa-miR-29b-3p	Corona_radiata	1	36.57405906093293
+microRNAome	hsa-miR-29b-3p	Cumulus_oophorus	1	41.28487982561267
+microRNAome	hsa-miR-29b-3p	Dendritic_cell	110	561.8783925751326
+microRNAome	hsa-miR-29b-3p	Dental_pulp_stem_cell	6	341.60296162907525
+microRNAome	hsa-miR-29b-3p	Dermal_papilla_cell	3	581.2685246869147
+microRNAome	hsa-miR-29b-3p	Ectoderm_precursor_derived	2	2.3624717391861982
+microRNAome	hsa-miR-29b-3p	Embryonic_stem_cell	24	31.652822586415095
+microRNAome	hsa-miR-29b-3p	Embryonic_stem_cell_H1	1	17.622509265638943
+microRNAome	hsa-miR-29b-3p	Embryonic_stem_cell_H7	12	11.264844026928024
+microRNAome	hsa-miR-29b-3p	Embryonic_stem_cell_H9	25	10.137871898483747
+microRNAome	hsa-miR-29b-3p	Endoderm_precursor_derived	2	1.339565263064207
+microRNAome	hsa-miR-29b-3p	Endothelial_cell	2	142.580750059258
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_aortic	37	157.66616902908515
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_arterial	3	242.36478816524695
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_brain	1	99.26746450458236
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_brain_microvascular	6	30.631725859804092
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_capillary	2	328.46828954742114
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_internal_thoracic	2	260.1987591358293
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_kidney	2	384.6989559932844
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_lymphatic	17	47.036816545599265
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_microvascular	4	261.3944708642322
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_retinal_microvascular	5	1845.8157511268626
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_sinusoidal	2	312.73424162028766
+microRNAome	hsa-miR-29b-3p	Endothelial_cell_umbilical_vein	88	104.06743623795843
+microRNAome	hsa-miR-29b-3p	Endothelial_progenitor_cell	3	215.00729327151475
+microRNAome	hsa-miR-29b-3p	Erythroblast_derived	48	16.63492308615638
+microRNAome	hsa-miR-29b-3p	Esophagus_epithelial_cell	2	648.0931291386889
+microRNAome	hsa-miR-29b-3p	Eye_ciliated_epithelial_cell	3	580.143212268793
+microRNAome	hsa-miR-29b-3p	Eye_corneal_epithelial_cell	3	1247.13834833698
+microRNAome	hsa-miR-29b-3p	Fibroblast	2	192.00044306239448
+microRNAome	hsa-miR-29b-3p	Fibroblast_aortic_adventitial	6	1239.7589361223463
+microRNAome	hsa-miR-29b-3p	Fibroblast_breast	3	185.77418936962704
+microRNAome	hsa-miR-29b-3p	Fibroblast_choroid_plexus	1	294.6170611789751
+microRNAome	hsa-miR-29b-3p	Fibroblast_dermal	10	149.97674082596063
+microRNAome	hsa-miR-29b-3p	Fibroblast_dermal_derived	3	823.7192492241879
+microRNAome	hsa-miR-29b-3p	Fibroblast_dermal_fetal	1	1095.1097328950132
+microRNAome	hsa-miR-29b-3p	Fibroblast_dermal_neonatal	6	107.30752038361572
+microRNAome	hsa-miR-29b-3p	Fibroblast_embryonic	3	41.658269495290966
+microRNAome	hsa-miR-29b-3p	Fibroblast_endometrial_stroma	12	280.25953470391755
+microRNAome	hsa-miR-29b-3p	Fibroblast_eye	1	971.0807418109471
+microRNAome	hsa-miR-29b-3p	Fibroblast_foreskin	14	3503.2374757164653
+microRNAome	hsa-miR-29b-3p	Fibroblast_foreskin_neonatal	3	23.553564686306075
+microRNAome	hsa-miR-29b-3p	Fibroblast_gum_fetal	3	497.36800028085554
+microRNAome	hsa-miR-29b-3p	Fibroblast_heart_fetal	3	269.409984153918
+microRNAome	hsa-miR-29b-3p	Fibroblast_lung	7	261.11145496852214
+microRNAome	hsa-miR-29b-3p	Fibroblast_lung_fetal	3	901.4713969694682
+microRNAome	hsa-miR-29b-3p	Fibroblast_lymph_node	3	301.10145174483375
+microRNAome	hsa-miR-29b-3p	Fibroblast_periodontal_fetal	2	428.61396362100743
+microRNAome	hsa-miR-29b-3p	Fibroblast_periodontal_ligament	1	898.3640588897572
+microRNAome	hsa-miR-29b-3p	Fibroblast_periodontal_ligament_fetal	1	246.6874665019717
+microRNAome	hsa-miR-29b-3p	Fibroblast_pulmonary_artery	1	0.0
+microRNAome	hsa-miR-29b-3p	Fibroblast_skin	4	1793.9237269908408
+microRNAome	hsa-miR-29b-3p	Fibroblast_trophoblast	1	608.792090422143
+microRNAome	hsa-miR-29b-3p	Fibroblast_ventricular_cardiac	1	280.7351053305313
+microRNAome	hsa-miR-29b-3p	Gum_epithelial_cell	2	1852.9870030924471
+microRNAome	hsa-miR-29b-3p	H9_differentiated	2	1.1815797789162956
+microRNAome	hsa-miR-29b-3p	Hematopoietic_stem_cell	6	2.1555173935258756
+microRNAome	hsa-miR-29b-3p	Hepatocyte	7	84.16078354745494
+microRNAome	hsa-miR-29b-3p	Hepatocyte_derived	7	169.29012067822845
+microRNAome	hsa-miR-29b-3p	Intestinal_epithelial_cell	1	219.1415738245759
+microRNAome	hsa-miR-29b-3p	Islet_alpha_cell	1	413.9928060438791
+microRNAome	hsa-miR-29b-3p	Keratinocyte	74	520.9072684506126
+microRNAome	hsa-miR-29b-3p	Keratinocyte_neonatal	1	1530.3410853649852
+microRNAome	hsa-miR-29b-3p	Lipocyte	2	127.24799624346021
+microRNAome	hsa-miR-29b-3p	Lymphocyte	1	177.0790091703703
+microRNAome	hsa-miR-29b-3p	Macrophage	148	154.15070713285638
+microRNAome	hsa-miR-29b-3p	Macrophage_alveolar	8	12.729738218466824
+microRNAome	hsa-miR-29b-3p	Mast_cell	4	304.63326540550827
+microRNAome	hsa-miR-29b-3p	Megakaryocyte_derived	4	4.799718300754352
+microRNAome	hsa-miR-29b-3p	Melanocyte	16	347.8129015340344
+microRNAome	hsa-miR-29b-3p	Meningeal	2	382.7230340542073
+microRNAome	hsa-miR-29b-3p	Mesangial_cell	3	381.3624758019412
+microRNAome	hsa-miR-29b-3p	Mesangioblast_derived	3	848.8401953518854
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell	30	95.95567310478333
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived	4	145.29241143004845
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_adipose_tissue	3	392.80753454700016
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_amnion	2	411.5920672215617
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_bone_marrow	6	320.69273295927076
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_liver	2	107.92002919480717
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_spinal_cord	1	0.0
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stem_cell_derived_umbilical_cord	7	420.43271319378556
+microRNAome	hsa-miR-29b-3p	Mesenchymal_stromal_cell	6	2746.9429925022996
+microRNAome	hsa-miR-29b-3p	Mesoderm_precursor_derived	2	2.8103436526071457
+microRNAome	hsa-miR-29b-3p	Mesoderm_progenitor_derived	3	2.922855312332606
+microRNAome	hsa-miR-29b-3p	Mesothelial_cell	2	235.92378633810816
+microRNAome	hsa-miR-29b-3p	Monocyte	22	71.0323934192557
+microRNAome	hsa-miR-29b-3p	Mononuclear_immune_cell	158	552.2399250656251
+microRNAome	hsa-miR-29b-3p	Muscle_cell	5	593.8354468750315
+microRNAome	hsa-miR-29b-3p	Myoblast	30	142.28283898619466
+microRNAome	hsa-miR-29b-3p	Myoblast_fetal	12	255.99662657735874
+microRNAome	hsa-miR-29b-3p	Myofibroblast	1	501.85944003149194
+microRNAome	hsa-miR-29b-3p	Myotube	8	72.97590652393988
+microRNAome	hsa-miR-29b-3p	Nasal_epithelial_cell	6	143.78700761709044
+microRNAome	hsa-miR-29b-3p	Nasal_polyp_epithelial_cell	8	52.820919883888706
+microRNAome	hsa-miR-29b-3p	Natural_killer_cell	3	1694.8464051224728
+microRNAome	hsa-miR-29b-3p	Neural_progenitor_cell_derived	10	16.06120890158567
+microRNAome	hsa-miR-29b-3p	Neural_stem_cell	10	29.673282753245577
+microRNAome	hsa-miR-29b-3p	Neuroepithelial_stem_cell	1	28.10241073581479
+microRNAome	hsa-miR-29b-3p	Neuron	66	26.75081233526864
+microRNAome	hsa-miR-29b-3p	Neutrophil	3	215.61850833239555
+microRNAome	hsa-miR-29b-3p	Nucleus_pulposus_cell	2	0.0
+microRNAome	hsa-miR-29b-3p	Osteoblast	7	88.87468545934325
+microRNAome	hsa-miR-29b-3p	Osteocyte	3	303.978184265537
+microRNAome	hsa-miR-29b-3p	Pancreas_epithelial_like	1	0.0
+microRNAome	hsa-miR-29b-3p	Pericyte_brain	2	216.30105296399185
+microRNAome	hsa-miR-29b-3p	Placenta_epithelial_cell	3	88.55724191702524
+microRNAome	hsa-miR-29b-3p	Plasma	139	180.79388128841805
+microRNAome	hsa-miR-29b-3p	Plasma_cell	2	1286.4183397861273
+microRNAome	hsa-miR-29b-3p	Platelet	25	18.603797168151715
+microRNAome	hsa-miR-29b-3p	Preadipocyte	12	486.78153000274716
+microRNAome	hsa-miR-29b-3p	Prostate_epithelial_cell	6	1111.2909315921222
+microRNAome	hsa-miR-29b-3p	Red_blood_cell	37	73.7184709245345
+microRNAome	hsa-miR-29b-3p	Renal_cortical_epithelial_cell	2	390.43350332651033
+microRNAome	hsa-miR-29b-3p	Renal_epithelial_cell	3	509.5157814468416
+microRNAome	hsa-miR-29b-3p	Renal_proximal_tubule_epithelial_cell	4	747.7536226742619
+microRNAome	hsa-miR-29b-3p	Retinal_pigment_epithelial_cell	30	319.7465096793414
+microRNAome	hsa-miR-29b-3p	Retinal_pigment_epithelial_cell_fetal	1	110.30154224805898
+microRNAome	hsa-miR-29b-3p	Satellite_cell	3	425.21919864674265
+microRNAome	hsa-miR-29b-3p	Schwann_cell	1	368.14000869821
+microRNAome	hsa-miR-29b-3p	Sebocyte	3	246.6780887563838
+microRNAome	hsa-miR-29b-3p	Sertoli_cell	2	361.61780477961406
+microRNAome	hsa-miR-29b-3p	Skeletal_muscle_cell	1	555.7897842785256
+microRNAome	hsa-miR-29b-3p	Small_airway_epithelial_cell	6	583.7322960373425
+microRNAome	hsa-miR-29b-3p	Small_intestinal_epithelial_cell	1	119.05213180314819
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell	2	336.2235105781979
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_aorta	11	683.199911967828
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_bladder	1	878.5340318495299
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_brachiocephalic_artery	3	603.1384581167174
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_brain	3	271.4218839397117
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_carotid_artery	2	646.3239311254491
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_colon	3	596.4006109111468
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_coronary_artery	3	826.4832412065495
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_esophagus	1	428.22441912834176
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_internal_thoracic	3	811.8858137211708
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_lung	2	575.2067936132804
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_prostate	4	889.9446096531151
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_pulmonary_artery	3	717.3644153441332
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_subclavian_artery	3	689.4033205039726
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_umbilical_artery	4	717.9292882931643
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_uterus	2	679.6822293629989
+microRNAome	hsa-miR-29b-3p	Smooth_muscle_cell_vascular	6	315.6736069753872
+microRNAome	hsa-miR-29b-3p	Sperm	95	564.244683442658
+microRNAome	hsa-miR-29b-3p	Stellate_cell	6	193.8546183359674
+microRNAome	hsa-miR-29b-3p	Stem_cell_adipose_derived	6	6.832410114858322
+microRNAome	hsa-miR-29b-3p	Stromal_cell_pancreas	1	1205.416536026913
+microRNAome	hsa-miR-29b-3p	Stromal_cell_prostate	4	998.6247743537335
+microRNAome	hsa-miR-29b-3p	Synovial_cell	3	273.73787359300815
+microRNAome	hsa-miR-29b-3p	T_lymphocyte	18	49.352659861025046
+microRNAome	hsa-miR-29b-3p	Thymocyte_CD34	8	10.925811431942849
+microRNAome	hsa-miR-29b-3p	Thymocyte_CD4_CD8	8	7.371232607277781
+microRNAome	hsa-miR-29b-3p	Trabecular_meshwork_cell_eye	2	469.85125343101646
+microRNAome	hsa-miR-29b-3p	Tracheal_epithelial_cell	2	491.52815028330315
+microRNAome	hsa-miR-29b-3p	Unrestricted_somatic_stem_cell	11	53.339870249090374
+microRNAome	hsa-miR-29b-3p	Urothelial_cell	3	754.1535119186015
+microRNAome	hsa-miR-29b-3p	Valve_interstitial_cell	6	169.1940312020331
+microRNAome	hsa-miR-29b-3p	Ventral_midbrain_derived	6	5.907241910449006
+microRNAome	hsa-miR-29b-3p	iPSC	20	147.2687754909031
+microRNAome	hsa-miR-29b-3p	iPSC_amniotic_fluid	5	10.319123195328064
+microRNAome	hsa-miR-29b-3p	iPSC_bone_marrow	22	8.979168827639933
+microRNAome	hsa-miR-29b-3p	iPSC_fibroblast	32	15.169102806361174
+microRNAome	hsa-miR-29b-3p	iPSC_foreskin	27	17.45101797422873
+microRNAome	hsa-miR-29b-3p	iPSC_skin	20	13.960833627119461
+microRNAome	hsa-miR-29b-3p	iPSC_umbilical_cord_blood	26	17.88953961943563
+microRNAome	hsa-miR-29c-3p	Adipocyte	5	254.16441746436334
+microRNAome	hsa-miR-29c-3p	Amniotic_epithelial_cell	3	216.68343881144588
+microRNAome	hsa-miR-29c-3p	Annulus_fibrosus_cell	2	0.0
+microRNAome	hsa-miR-29c-3p	Astrocyte	12	53.2196012540846
+microRNAome	hsa-miR-29c-3p	B_cell_germinal_center	3	206.50931591187486
+microRNAome	hsa-miR-29c-3p	B_cell_naive	1	555.3457695816676
+microRNAome	hsa-miR-29c-3p	B_cell_pre_germinal_center	1	262.44452922632075
+microRNAome	hsa-miR-29c-3p	B_lymphocyte	2	28514.835515444847
+microRNAome	hsa-miR-29c-3p	Beta_cell	5	1193.7698681271063
+microRNAome	hsa-miR-29c-3p	Beta_cell_derived	2	42.47255156098504
+microRNAome	hsa-miR-29c-3p	Beta_cell_like_derived	3	2359.2858422625636
+microRNAome	hsa-miR-29c-3p	Biliosphere	8	665.4586620584892
+microRNAome	hsa-miR-29c-3p	Blastocyst_derived	32	29.489552588171186
+microRNAome	hsa-miR-29c-3p	Bone_marrow_mesenchymal_stem_cell	21	58.54989564003496
+microRNAome	hsa-miR-29c-3p	Breast_epithelial_cell	5	360.0420897128389
+microRNAome	hsa-miR-29c-3p	Bronchial_epithelial_cell	40	376.5988995216392
+microRNAome	hsa-miR-29c-3p	CD14_cell	48	436.69111486531637
+microRNAome	hsa-miR-29c-3p	CD15_cell	32	933.767668926928
+microRNAome	hsa-miR-29c-3p	CD19_lymphocyte	46	5884.520295282597
+microRNAome	hsa-miR-29c-3p	CD27-_IgD_cell	3	378.08219872164614
+microRNAome	hsa-miR-29c-3p	CD27_IgA_cell	3	1914.4339769025053
+microRNAome	hsa-miR-29c-3p	CD27_IgD_cell	3	958.4465939300088
+microRNAome	hsa-miR-29c-3p	CD27_IgG_cell	3	1128.006806266602
+microRNAome	hsa-miR-29c-3p	CD34_cell	6	263.3846603470249
+microRNAome	hsa-miR-29c-3p	CD4_lymphocyte	98	2860.36024884255
+microRNAome	hsa-miR-29c-3p	CD56_cell	45	975.1098256443388
+microRNAome	hsa-miR-29c-3p	CD8_lymphocyte	46	3497.5078692211277
+microRNAome	hsa-miR-29c-3p	Cardiac_progenitor_derived	3	5.088652682202637
+microRNAome	hsa-miR-29c-3p	Cardiomyocyte_derived	9	9.807540950616326
+microRNAome	hsa-miR-29c-3p	Centroblast	1	333.23327519382406
+microRNAome	hsa-miR-29c-3p	Centrocyte	1	261.2551713595062
+microRNAome	hsa-miR-29c-3p	Chondroblast	3	359.7765026867471
+microRNAome	hsa-miR-29c-3p	Chondrocyte	4	222.2862446971262
+microRNAome	hsa-miR-29c-3p	Colonic_epithelial	1	199.59118023682348
+microRNAome	hsa-miR-29c-3p	Conjunctival_epithelial_cell	8	850.93509577994
+microRNAome	hsa-miR-29c-3p	Corona_radiata	1	60.34259114587172
+microRNAome	hsa-miR-29c-3p	Cumulus_oophorus	1	70.32039970296664
+microRNAome	hsa-miR-29c-3p	Dendritic_cell	110	489.2738947363336
+microRNAome	hsa-miR-29c-3p	Dental_pulp_stem_cell	6	52.47920735192852
+microRNAome	hsa-miR-29c-3p	Dermal_papilla_cell	3	220.44905352856156
+microRNAome	hsa-miR-29c-3p	Ectoderm_precursor_derived	2	27.1173782244565
+microRNAome	hsa-miR-29c-3p	Embryonic_stem_cell	24	48.01750600002408
+microRNAome	hsa-miR-29c-3p	Embryonic_stem_cell_H1	1	3.455393973654694
+microRNAome	hsa-miR-29c-3p	Embryonic_stem_cell_H7	12	25.24115729894467
+microRNAome	hsa-miR-29c-3p	Embryonic_stem_cell_H9	25	8.60079192505627
+microRNAome	hsa-miR-29c-3p	Endoderm_precursor_derived	2	13.218208250270806
+microRNAome	hsa-miR-29c-3p	Endothelial_cell	2	206.3996492670169
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_aortic	37	151.07511599505915
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_arterial	3	341.1804859719844
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_brain	1	0.0
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_brain_microvascular	6	5.418009738918173
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_capillary	2	699.518834882863
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_internal_thoracic	2	324.7461101523036
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_kidney	2	465.8829276122839
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_lymphatic	17	112.57535529713698
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_microvascular	4	321.794085174481
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_retinal_microvascular	5	964.7982491113486
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_sinusoidal	2	372.12882115487935
+microRNAome	hsa-miR-29c-3p	Endothelial_cell_umbilical_vein	88	78.84748536134957
+microRNAome	hsa-miR-29c-3p	Endothelial_progenitor_cell	3	1696.991061116795
+microRNAome	hsa-miR-29c-3p	Erythroblast_derived	48	91.74524241346631
+microRNAome	hsa-miR-29c-3p	Esophagus_epithelial_cell	2	330.30887143366476
+microRNAome	hsa-miR-29c-3p	Eye_ciliated_epithelial_cell	3	108.80488041058402
+microRNAome	hsa-miR-29c-3p	Eye_corneal_epithelial_cell	3	652.8957096276564
+microRNAome	hsa-miR-29c-3p	Fibroblast	2	44.47630513978925
+microRNAome	hsa-miR-29c-3p	Fibroblast_aortic_adventitial	6	310.0775667514977
+microRNAome	hsa-miR-29c-3p	Fibroblast_breast	3	79.74604522540074
+microRNAome	hsa-miR-29c-3p	Fibroblast_choroid_plexus	1	82.36606011455218
+microRNAome	hsa-miR-29c-3p	Fibroblast_dermal	10	613.1357465449972
+microRNAome	hsa-miR-29c-3p	Fibroblast_dermal_derived	3	334.9881058870164
+microRNAome	hsa-miR-29c-3p	Fibroblast_dermal_fetal	1	139.81068597484295
+microRNAome	hsa-miR-29c-3p	Fibroblast_dermal_neonatal	6	9.178646499853322
+microRNAome	hsa-miR-29c-3p	Fibroblast_embryonic	3	4.9538649779780455
+microRNAome	hsa-miR-29c-3p	Fibroblast_endometrial_stroma	12	325.4711282114412
+microRNAome	hsa-miR-29c-3p	Fibroblast_eye	1	66.61377039861681
+microRNAome	hsa-miR-29c-3p	Fibroblast_foreskin	14	244.31572712466385
+microRNAome	hsa-miR-29c-3p	Fibroblast_foreskin_neonatal	3	15.411786372443343
+microRNAome	hsa-miR-29c-3p	Fibroblast_gum_fetal	3	436.9180777725928
+microRNAome	hsa-miR-29c-3p	Fibroblast_heart_fetal	3	88.3160550245956
+microRNAome	hsa-miR-29c-3p	Fibroblast_lung	7	51.59473214743674
+microRNAome	hsa-miR-29c-3p	Fibroblast_lung_fetal	3	34.10666333760441
+microRNAome	hsa-miR-29c-3p	Fibroblast_lymph_node	3	150.35523587604138
+microRNAome	hsa-miR-29c-3p	Fibroblast_periodontal_fetal	2	166.1723261771841
+microRNAome	hsa-miR-29c-3p	Fibroblast_periodontal_ligament	1	194.61775799130223
+microRNAome	hsa-miR-29c-3p	Fibroblast_periodontal_ligament_fetal	1	56.79135919469853
+microRNAome	hsa-miR-29c-3p	Fibroblast_pulmonary_artery	1	0.0
+microRNAome	hsa-miR-29c-3p	Fibroblast_skin	4	188.5228346565769
+microRNAome	hsa-miR-29c-3p	Fibroblast_trophoblast	1	205.29035607258314
+microRNAome	hsa-miR-29c-3p	Fibroblast_ventricular_cardiac	1	81.6470176042727
+microRNAome	hsa-miR-29c-3p	Gum_epithelial_cell	2	422.9633035990356
+microRNAome	hsa-miR-29c-3p	H9_differentiated	2	11.633863255397356
+microRNAome	hsa-miR-29c-3p	Hematopoietic_stem_cell	6	12.159929826298656
+microRNAome	hsa-miR-29c-3p	Hepatocyte	7	261.12834755344255
+microRNAome	hsa-miR-29c-3p	Hepatocyte_derived	7	40.84466139298541
+microRNAome	hsa-miR-29c-3p	Intestinal_epithelial_cell	1	52.390237903827774
+microRNAome	hsa-miR-29c-3p	Islet_alpha_cell	1	691.0542755558874
+microRNAome	hsa-miR-29c-3p	Keratinocyte	74	175.25892647774862
+microRNAome	hsa-miR-29c-3p	Keratinocyte_neonatal	1	451.1018583968565
+microRNAome	hsa-miR-29c-3p	Lipocyte	2	78.82507244876473
+microRNAome	hsa-miR-29c-3p	Lymphocyte	1	341.09481274620515
+microRNAome	hsa-miR-29c-3p	Macrophage	148	393.22706412308304
+microRNAome	hsa-miR-29c-3p	Macrophage_alveolar	8	48.25732598787886
+microRNAome	hsa-miR-29c-3p	Mast_cell	4	3055.3320157068406
+microRNAome	hsa-miR-29c-3p	Megakaryocyte_derived	4	23.26957493090285
+microRNAome	hsa-miR-29c-3p	Melanocyte	16	32.33979557578817
+microRNAome	hsa-miR-29c-3p	Meningeal	2	100.81503933883582
+microRNAome	hsa-miR-29c-3p	Mesangial_cell	3	135.7493567240281
+microRNAome	hsa-miR-29c-3p	Mesangioblast_derived	3	471.94337386769354
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell	30	7.814774967877538
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived	4	5.131133343869056
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_adipose_tissue	3	130.97095204064394
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_amnion	2	148.21937752279263
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_bone_marrow	6	91.84114159361833
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_liver	2	425.7616468852331
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_spinal_cord	1	0.0
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stem_cell_derived_umbilical_cord	7	201.86946648463206
+microRNAome	hsa-miR-29c-3p	Mesenchymal_stromal_cell	6	1110.0116081111337
+microRNAome	hsa-miR-29c-3p	Mesoderm_precursor_derived	2	7.28862084970688
+microRNAome	hsa-miR-29c-3p	Mesoderm_progenitor_derived	3	0.0
+microRNAome	hsa-miR-29c-3p	Mesothelial_cell	2	230.9097398906306
+microRNAome	hsa-miR-29c-3p	Monocyte	22	401.2543067677588
+microRNAome	hsa-miR-29c-3p	Mononuclear_immune_cell	158	977.2742800049372
+microRNAome	hsa-miR-29c-3p	Muscle_cell	5	35.76902157446156
+microRNAome	hsa-miR-29c-3p	Myoblast	30	61.051498919136776
+microRNAome	hsa-miR-29c-3p	Myoblast_fetal	12	14.729321725305516
+microRNAome	hsa-miR-29c-3p	Myofibroblast	1	59.11991299871375
+microRNAome	hsa-miR-29c-3p	Myotube	8	56.00167992520369
+microRNAome	hsa-miR-29c-3p	Nasal_epithelial_cell	6	309.34356365031175
+microRNAome	hsa-miR-29c-3p	Nasal_polyp_epithelial_cell	8	309.876712498658
+microRNAome	hsa-miR-29c-3p	Natural_killer_cell	3	6066.89695611462
+microRNAome	hsa-miR-29c-3p	Neural_progenitor_cell_derived	10	10.758838975734669
+microRNAome	hsa-miR-29c-3p	Neural_stem_cell	10	58.349614748877954
+microRNAome	hsa-miR-29c-3p	Neuroepithelial_stem_cell	1	163.7572576210442
+microRNAome	hsa-miR-29c-3p	Neuron	66	85.67173244577928
+microRNAome	hsa-miR-29c-3p	Neutrophil	3	1308.4245044455545
+microRNAome	hsa-miR-29c-3p	Nucleus_pulposus_cell	2	0.0
+microRNAome	hsa-miR-29c-3p	Osteoblast	7	22.02752292822522
+microRNAome	hsa-miR-29c-3p	Osteocyte	3	56.89403780780723
+microRNAome	hsa-miR-29c-3p	Pancreas_epithelial_like	1	0.0
+microRNAome	hsa-miR-29c-3p	Pericyte_brain	2	163.92289897540002
+microRNAome	hsa-miR-29c-3p	Placenta_epithelial_cell	3	183.23818757070708
+microRNAome	hsa-miR-29c-3p	Plasma	139	694.0306739217027
+microRNAome	hsa-miR-29c-3p	Plasma_cell	2	4343.628660388439
+microRNAome	hsa-miR-29c-3p	Platelet	25	44.090232296371525
+microRNAome	hsa-miR-29c-3p	Preadipocyte	12	73.67609172171996
+microRNAome	hsa-miR-29c-3p	Prostate_epithelial_cell	6	543.4819924078564
+microRNAome	hsa-miR-29c-3p	Red_blood_cell	37	155.86890028275735
+microRNAome	hsa-miR-29c-3p	Renal_cortical_epithelial_cell	2	231.53235413423874
+microRNAome	hsa-miR-29c-3p	Renal_epithelial_cell	3	108.52122829500047
+microRNAome	hsa-miR-29c-3p	Renal_proximal_tubule_epithelial_cell	4	240.55931278064008
+microRNAome	hsa-miR-29c-3p	Retinal_pigment_epithelial_cell	30	149.93721288397333
+microRNAome	hsa-miR-29c-3p	Retinal_pigment_epithelial_cell_fetal	1	36.49683383207834
+microRNAome	hsa-miR-29c-3p	Satellite_cell	3	59.969778093871604
+microRNAome	hsa-miR-29c-3p	Schwann_cell	1	61.35666811636834
+microRNAome	hsa-miR-29c-3p	Sebocyte	3	151.62441947403948
+microRNAome	hsa-miR-29c-3p	Sertoli_cell	2	248.67386372857027
+microRNAome	hsa-miR-29c-3p	Skeletal_muscle_cell	1	43.66616916909852
+microRNAome	hsa-miR-29c-3p	Small_airway_epithelial_cell	6	317.8950304523577
+microRNAome	hsa-miR-29c-3p	Small_intestinal_epithelial_cell	1	369.59467783663916
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell	2	109.86424464681252
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_aorta	11	137.1415969136667
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_bladder	1	342.1994823157386
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_brachiocephalic_artery	3	164.67375065641713
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_brain	3	142.90900461576834
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_carotid_artery	2	166.31512450875925
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_colon	3	57.71693063545528
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_coronary_artery	3	255.78325816455833
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_esophagus	1	118.13087424230119
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_internal_thoracic	3	217.2175246980385
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_lung	2	89.98369628663096
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_prostate	4	340.8156058660148
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_pulmonary_artery	3	350.31519531423874
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_subclavian_artery	3	232.56192938196656
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_umbilical_artery	4	102.46667923411806
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_uterus	2	217.97297020886714
+microRNAome	hsa-miR-29c-3p	Smooth_muscle_cell_vascular	6	163.58200143551224
+microRNAome	hsa-miR-29c-3p	Sperm	95	3797.247104302479
+microRNAome	hsa-miR-29c-3p	Stellate_cell	6	3.5311680408607846
+microRNAome	hsa-miR-29c-3p	Stem_cell_adipose_derived	6	0.46756218138311123
+microRNAome	hsa-miR-29c-3p	Stromal_cell_pancreas	1	230.91459125998864
+microRNAome	hsa-miR-29c-3p	Stromal_cell_prostate	4	524.207125695039
+microRNAome	hsa-miR-29c-3p	Synovial_cell	3	436.69914376522206
+microRNAome	hsa-miR-29c-3p	T_lymphocyte	18	84.4887849117352
+microRNAome	hsa-miR-29c-3p	Thymocyte_CD34	8	291.8886869918644
+microRNAome	hsa-miR-29c-3p	Thymocyte_CD4_CD8	8	315.3540679518858
+microRNAome	hsa-miR-29c-3p	Trabecular_meshwork_cell_eye	2	164.6564233136425
+microRNAome	hsa-miR-29c-3p	Tracheal_epithelial_cell	2	481.9586413809683
+microRNAome	hsa-miR-29c-3p	Unrestricted_somatic_stem_cell	11	4.345116657234139
+microRNAome	hsa-miR-29c-3p	Urothelial_cell	3	320.23168993799635
+microRNAome	hsa-miR-29c-3p	Valve_interstitial_cell	6	55.80497469056885
+microRNAome	hsa-miR-29c-3p	Ventral_midbrain_derived	6	32.879194269182314
+microRNAome	hsa-miR-29c-3p	iPSC	20	21.634581587189494
+microRNAome	hsa-miR-29c-3p	iPSC_amniotic_fluid	5	51.94144942045233
+microRNAome	hsa-miR-29c-3p	iPSC_bone_marrow	22	21.904481149374874
+microRNAome	hsa-miR-29c-3p	iPSC_fibroblast	32	43.801882253992495
+microRNAome	hsa-miR-29c-3p	iPSC_foreskin	27	28.319479857275343
+microRNAome	hsa-miR-29c-3p	iPSC_skin	20	24.473802077754808
+microRNAome	hsa-miR-29c-3p	iPSC_umbilical_cord_blood	26	23.817056875704566
+microRNAome	hsa-miR-101-3p	Adipocyte	5	2813.2716686295307
+microRNAome	hsa-miR-101-3p	Amniotic_epithelial_cell	3	1287.7435441266546
+microRNAome	hsa-miR-101-3p	Annulus_fibrosus_cell	2	36.93516824982104
+microRNAome	hsa-miR-101-3p	Astrocyte	12	677.0580790982691
+microRNAome	hsa-miR-101-3p	B_cell_germinal_center	3	2043.5039305071932
+microRNAome	hsa-miR-101-3p	B_cell_naive	1	6641.487257220832
+microRNAome	hsa-miR-101-3p	B_cell_pre_germinal_center	1	1947.9528523523625
+microRNAome	hsa-miR-101-3p	B_lymphocyte	2	5361.309195681015
+microRNAome	hsa-miR-101-3p	Beta_cell	5	3154.183486169595
+microRNAome	hsa-miR-101-3p	Beta_cell_derived	2	229.8727485496138
+microRNAome	hsa-miR-101-3p	Beta_cell_like_derived	3	1548.6514917456946
+microRNAome	hsa-miR-101-3p	Biliosphere	8	4036.9089599169674
+microRNAome	hsa-miR-101-3p	Blastocyst_derived	32	3063.5791052299655
+microRNAome	hsa-miR-101-3p	Bone_marrow_mesenchymal_stem_cell	21	1592.8521779595064
+microRNAome	hsa-miR-101-3p	Breast_epithelial_cell	5	1490.124554799481
+microRNAome	hsa-miR-101-3p	Bronchial_epithelial_cell	40	1289.207127011728
+microRNAome	hsa-miR-101-3p	CD14_cell	48	4837.052465739347
+microRNAome	hsa-miR-101-3p	CD15_cell	32	10364.434434856112
+microRNAome	hsa-miR-101-3p	CD19_lymphocyte	46	11516.677890761117
+microRNAome	hsa-miR-101-3p	CD27-_IgD_cell	3	1191.4282473654503
+microRNAome	hsa-miR-101-3p	CD27_IgA_cell	3	843.5414257073818
+microRNAome	hsa-miR-101-3p	CD27_IgD_cell	3	904.1980637808679
+microRNAome	hsa-miR-101-3p	CD27_IgG_cell	3	621.3551409633291
+microRNAome	hsa-miR-101-3p	CD34_cell	6	3811.863721541297
+microRNAome	hsa-miR-101-3p	CD4_lymphocyte	98	22082.012180844584
+microRNAome	hsa-miR-101-3p	CD56_cell	45	5210.109811779973
+microRNAome	hsa-miR-101-3p	CD8_lymphocyte	46	13612.792702540472
+microRNAome	hsa-miR-101-3p	Cardiac_progenitor_derived	3	4260.165192848785
+microRNAome	hsa-miR-101-3p	Cardiomyocyte_derived	9	1069.3965760788242
+microRNAome	hsa-miR-101-3p	Centroblast	1	1093.322507659737
+microRNAome	hsa-miR-101-3p	Centrocyte	1	1100.5560704355885
+microRNAome	hsa-miR-101-3p	Chondroblast	3	2667.5892192969486
+microRNAome	hsa-miR-101-3p	Chondrocyte	4	2394.264160252977
+microRNAome	hsa-miR-101-3p	Colonic_epithelial	1	1198.4024721933845
+microRNAome	hsa-miR-101-3p	Conjunctival_epithelial_cell	8	2459.153189155407
+microRNAome	hsa-miR-101-3p	Corona_radiata	1	1685.723256163604
+microRNAome	hsa-miR-101-3p	Cumulus_oophorus	1	1298.1599465165725
+microRNAome	hsa-miR-101-3p	Dendritic_cell	110	1697.4611127752692
+microRNAome	hsa-miR-101-3p	Dental_pulp_stem_cell	6	4812.978391812777
+microRNAome	hsa-miR-101-3p	Dermal_papilla_cell	3	1089.8074248989435
+microRNAome	hsa-miR-101-3p	Ectoderm_precursor_derived	2	1888.9667354403318
+microRNAome	hsa-miR-101-3p	Embryonic_stem_cell	24	7482.382763591532
+microRNAome	hsa-miR-101-3p	Embryonic_stem_cell_H1	1	5485.092393779461
+microRNAome	hsa-miR-101-3p	Embryonic_stem_cell_H7	12	2125.5172522860425
+microRNAome	hsa-miR-101-3p	Embryonic_stem_cell_H9	25	2193.2221935000152
+microRNAome	hsa-miR-101-3p	Endoderm_precursor_derived	2	806.7910573584935
+microRNAome	hsa-miR-101-3p	Endothelial_cell	2	1521.5836513389336
+microRNAome	hsa-miR-101-3p	Endothelial_cell_aortic	37	1603.2191979486295
+microRNAome	hsa-miR-101-3p	Endothelial_cell_arterial	3	1902.8099443185763
+microRNAome	hsa-miR-101-3p	Endothelial_cell_brain	1	753.2648777112425
+microRNAome	hsa-miR-101-3p	Endothelial_cell_brain_microvascular	6	1676.3116436954297
+microRNAome	hsa-miR-101-3p	Endothelial_cell_capillary	2	1822.542171966439
+microRNAome	hsa-miR-101-3p	Endothelial_cell_internal_thoracic	2	1693.8619953243604
+microRNAome	hsa-miR-101-3p	Endothelial_cell_kidney	2	2327.2493093925946
+microRNAome	hsa-miR-101-3p	Endothelial_cell_lymphatic	17	774.5575507878833
+microRNAome	hsa-miR-101-3p	Endothelial_cell_microvascular	4	1667.451345333366
+microRNAome	hsa-miR-101-3p	Endothelial_cell_retinal_microvascular	5	8216.159023597762
+microRNAome	hsa-miR-101-3p	Endothelial_cell_sinusoidal	2	2882.2524693769233
+microRNAome	hsa-miR-101-3p	Endothelial_cell_umbilical_vein	88	2195.678136684341
+microRNAome	hsa-miR-101-3p	Endothelial_progenitor_cell	3	5576.0856833800235
+microRNAome	hsa-miR-101-3p	Erythroblast_derived	48	1627.3248317657708
+microRNAome	hsa-miR-101-3p	Esophagus_epithelial_cell	2	2396.242836746818
+microRNAome	hsa-miR-101-3p	Eye_ciliated_epithelial_cell	3	2488.7554371942992
+microRNAome	hsa-miR-101-3p	Eye_corneal_epithelial_cell	3	1916.3560645553544
+microRNAome	hsa-miR-101-3p	Fibroblast	2	1670.3484569091438
+microRNAome	hsa-miR-101-3p	Fibroblast_aortic_adventitial	6	1169.6836713147813
+microRNAome	hsa-miR-101-3p	Fibroblast_breast	3	578.0720224614664
+microRNAome	hsa-miR-101-3p	Fibroblast_choroid_plexus	1	2125.6779360332503
+microRNAome	hsa-miR-101-3p	Fibroblast_dermal	10	2006.6212227692529
+microRNAome	hsa-miR-101-3p	Fibroblast_dermal_derived	3	2539.709880144916
+microRNAome	hsa-miR-101-3p	Fibroblast_dermal_fetal	1	1349.7279239666584
+microRNAome	hsa-miR-101-3p	Fibroblast_dermal_neonatal	6	2489.6881291773625
+microRNAome	hsa-miR-101-3p	Fibroblast_embryonic	3	272.9210982610788
+microRNAome	hsa-miR-101-3p	Fibroblast_endometrial_stroma	12	981.4130872295897
+microRNAome	hsa-miR-101-3p	Fibroblast_eye	1	1289.3465337154496
+microRNAome	hsa-miR-101-3p	Fibroblast_foreskin	14	5585.949201832708
+microRNAome	hsa-miR-101-3p	Fibroblast_foreskin_neonatal	3	4827.301427492947
+microRNAome	hsa-miR-101-3p	Fibroblast_gum_fetal	3	1050.8509272435374
+microRNAome	hsa-miR-101-3p	Fibroblast_heart_fetal	3	1470.0929843661086
+microRNAome	hsa-miR-101-3p	Fibroblast_lung	7	633.6562422250375
+microRNAome	hsa-miR-101-3p	Fibroblast_lung_fetal	3	1492.185265872907
+microRNAome	hsa-miR-101-3p	Fibroblast_lymph_node	3	891.5162450996028
+microRNAome	hsa-miR-101-3p	Fibroblast_periodontal_fetal	2	909.849167071089
+microRNAome	hsa-miR-101-3p	Fibroblast_periodontal_ligament	1	920.7966353560444
+microRNAome	hsa-miR-101-3p	Fibroblast_periodontal_ligament_fetal	1	374.46802469004336
+microRNAome	hsa-miR-101-3p	Fibroblast_pulmonary_artery	1	87.95737836751105
+microRNAome	hsa-miR-101-3p	Fibroblast_skin	4	2290.1921609976707
+microRNAome	hsa-miR-101-3p	Fibroblast_trophoblast	1	646.5466386653767
+microRNAome	hsa-miR-101-3p	Fibroblast_ventricular_cardiac	1	889.7565390443223
+microRNAome	hsa-miR-101-3p	Gum_epithelial_cell	2	1585.27553128206
+microRNAome	hsa-miR-101-3p	H9_differentiated	2	1546.930034530209
+microRNAome	hsa-miR-101-3p	Hematopoietic_stem_cell	6	356.09211888748524
+microRNAome	hsa-miR-101-3p	Hepatocyte	7	8117.493077583769
+microRNAome	hsa-miR-101-3p	Hepatocyte_derived	7	11712.484100547677
+microRNAome	hsa-miR-101-3p	Intestinal_epithelial_cell	1	594.362398070972
+microRNAome	hsa-miR-101-3p	Islet_alpha_cell	1	1803.5728317169626
+microRNAome	hsa-miR-101-3p	Keratinocyte	74	6411.239717447793
+microRNAome	hsa-miR-101-3p	Keratinocyte_neonatal	1	1055.805364194266
+microRNAome	hsa-miR-101-3p	Lipocyte	2	1444.4228869838703
+microRNAome	hsa-miR-101-3p	Lymphocyte	1	1316.4808304715236
+microRNAome	hsa-miR-101-3p	Macrophage	148	2112.5672382054026
+microRNAome	hsa-miR-101-3p	Macrophage_alveolar	8	124.23842168854777
+microRNAome	hsa-miR-101-3p	Mast_cell	4	15762.076918741172
+microRNAome	hsa-miR-101-3p	Megakaryocyte_derived	4	1759.3225628276466
+microRNAome	hsa-miR-101-3p	Melanocyte	16	4402.634811560541
+microRNAome	hsa-miR-101-3p	Meningeal	2	1916.405288930288
+microRNAome	hsa-miR-101-3p	Mesangial_cell	3	1205.4191039116101
+microRNAome	hsa-miR-101-3p	Mesangioblast_derived	3	2558.8440942570915
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell	30	799.5772810250477
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived	4	1750.5015303752807
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_adipose_tissue	3	1309.5676951172518
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_amnion	2	729.0073727472862
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_bone_marrow	6	1794.7569743495112
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_liver	2	888.4266282394417
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_spinal_cord	1	24.348475379633314
+microRNAome	hsa-miR-101-3p	Mesenchymal_stem_cell_derived_umbilical_cord	7	1282.1397641739857
+microRNAome	hsa-miR-101-3p	Mesenchymal_stromal_cell	6	567.0693351616808
+microRNAome	hsa-miR-101-3p	Mesoderm_precursor_derived	2	1305.2896549746458
+microRNAome	hsa-miR-101-3p	Mesoderm_progenitor_derived	3	3929.9588665528067
+microRNAome	hsa-miR-101-3p	Mesothelial_cell	2	1020.3433819252798
+microRNAome	hsa-miR-101-3p	Monocyte	22	2519.0342363753025
+microRNAome	hsa-miR-101-3p	Mononuclear_immune_cell	158	10705.087939482008
+microRNAome	hsa-miR-101-3p	Muscle_cell	5	1118.046616895021
+microRNAome	hsa-miR-101-3p	Myoblast	30	874.1358030406032
+microRNAome	hsa-miR-101-3p	Myoblast_fetal	12	1102.2976755668565
+microRNAome	hsa-miR-101-3p	Myofibroblast	1	824.5116437856327
+microRNAome	hsa-miR-101-3p	Myotube	8	461.1063215908308
+microRNAome	hsa-miR-101-3p	Nasal_epithelial_cell	6	1258.9291469090142
+microRNAome	hsa-miR-101-3p	Nasal_polyp_epithelial_cell	8	1091.4333027402627
+microRNAome	hsa-miR-101-3p	Natural_killer_cell	3	30477.265303519656
+microRNAome	hsa-miR-101-3p	Neural_progenitor_cell_derived	10	5361.1464022902455
+microRNAome	hsa-miR-101-3p	Neural_stem_cell	10	7558.310629906957
+microRNAome	hsa-miR-101-3p	Neuroepithelial_stem_cell	1	22723.748098316806
+microRNAome	hsa-miR-101-3p	Neuron	66	1864.0613899537511
+microRNAome	hsa-miR-101-3p	Neutrophil	3	17891.497909804286
+microRNAome	hsa-miR-101-3p	Nucleus_pulposus_cell	2	73.65302353180972
+microRNAome	hsa-miR-101-3p	Osteoblast	7	589.7011398351099
+microRNAome	hsa-miR-101-3p	Osteocyte	3	2134.300039248657
+microRNAome	hsa-miR-101-3p	Pancreas_epithelial_like	1	14.408183848425905
+microRNAome	hsa-miR-101-3p	Pericyte_brain	2	1468.371702884072
+microRNAome	hsa-miR-101-3p	Placenta_epithelial_cell	3	1573.2336997746825
+microRNAome	hsa-miR-101-3p	Plasma	139	3575.7243418752837
+microRNAome	hsa-miR-101-3p	Plasma_cell	2	1899.9625445259842
+microRNAome	hsa-miR-101-3p	Platelet	25	2945.616862965397
+microRNAome	hsa-miR-101-3p	Preadipocyte	12	1157.6544288325447
+microRNAome	hsa-miR-101-3p	Prostate_epithelial_cell	6	1628.4774134067545
+microRNAome	hsa-miR-101-3p	Red_blood_cell	37	5243.672747904834
+microRNAome	hsa-miR-101-3p	Renal_cortical_epithelial_cell	2	1365.9256456677533
+microRNAome	hsa-miR-101-3p	Renal_epithelial_cell	3	1213.15814246141
+microRNAome	hsa-miR-101-3p	Renal_proximal_tubule_epithelial_cell	4	1405.550157379388
+microRNAome	hsa-miR-101-3p	Retinal_pigment_epithelial_cell	30	2244.167536911675
+microRNAome	hsa-miR-101-3p	Retinal_pigment_epithelial_cell_fetal	1	19417.802506710686
+microRNAome	hsa-miR-101-3p	Satellite_cell	3	1368.1873802606813
+microRNAome	hsa-miR-101-3p	Schwann_cell	1	990.729729290771
+microRNAome	hsa-miR-101-3p	Sebocyte	3	1758.3012740220508
+microRNAome	hsa-miR-101-3p	Sertoli_cell	2	1175.015580450959
+microRNAome	hsa-miR-101-3p	Skeletal_muscle_cell	1	1082.539446342651
+microRNAome	hsa-miR-101-3p	Small_airway_epithelial_cell	6	1579.613945008555
+microRNAome	hsa-miR-101-3p	Small_intestinal_epithelial_cell	1	1166.8293515034923
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell	2	1179.2781734747923
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_aorta	11	1229.374474010726
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_bladder	1	1573.4792903398863
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_brachiocephalic_artery	3	2114.662773531613
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_brain	3	1255.276001275901
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_carotid_artery	2	1701.2121858721289
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_colon	3	1519.4380829762877
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_coronary_artery	3	1038.9367205287883
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_esophagus	1	1252.6794789444023
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_internal_thoracic	3	648.235515530188
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_lung	2	998.3040206697187
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_prostate	4	1383.044659463787
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_pulmonary_artery	3	2430.3629725636674
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_subclavian_artery	3	881.9058246348983
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_umbilical_artery	4	923.0714160801845
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_uterus	2	583.3724608675032
+microRNAome	hsa-miR-101-3p	Smooth_muscle_cell_vascular	6	2464.196870330806
+microRNAome	hsa-miR-101-3p	Sperm	95	2168.088144548117
+microRNAome	hsa-miR-101-3p	Stellate_cell	6	1765.9917403049676
+microRNAome	hsa-miR-101-3p	Stem_cell_adipose_derived	6	1287.8677610599113
+microRNAome	hsa-miR-101-3p	Stromal_cell_pancreas	1	1408.790854934793
+microRNAome	hsa-miR-101-3p	Stromal_cell_prostate	4	1559.6080539550628
+microRNAome	hsa-miR-101-3p	Synovial_cell	3	2311.9847291712235
+microRNAome	hsa-miR-101-3p	T_lymphocyte	18	2164.8353842980923
+microRNAome	hsa-miR-101-3p	Thymocyte_CD34	8	778.4298346516237
+microRNAome	hsa-miR-101-3p	Thymocyte_CD4_CD8	8	469.91573156939455
+microRNAome	hsa-miR-101-3p	Trabecular_meshwork_cell_eye	2	1056.603271736783
+microRNAome	hsa-miR-101-3p	Tracheal_epithelial_cell	2	1679.1524696403487
+microRNAome	hsa-miR-101-3p	Unrestricted_somatic_stem_cell	11	257.3178557162835
+microRNAome	hsa-miR-101-3p	Urothelial_cell	3	1096.2598829256056
+microRNAome	hsa-miR-101-3p	Valve_interstitial_cell	6	287.59359082498776
+microRNAome	hsa-miR-101-3p	Ventral_midbrain_derived	6	473.52904571674316
+microRNAome	hsa-miR-101-3p	iPSC	20	5088.529888193854
+microRNAome	hsa-miR-101-3p	iPSC_amniotic_fluid	5	2877.276740387171
+microRNAome	hsa-miR-101-3p	iPSC_bone_marrow	22	2574.5338791111044
+microRNAome	hsa-miR-101-3p	iPSC_fibroblast	32	4720.235259387222
+microRNAome	hsa-miR-101-3p	iPSC_foreskin	27	3103.138256405072
+microRNAome	hsa-miR-101-3p	iPSC_skin	20	2756.512342960578
+microRNAome	hsa-miR-101-3p	iPSC_umbilical_cord_blood	26	2853.7927765389168

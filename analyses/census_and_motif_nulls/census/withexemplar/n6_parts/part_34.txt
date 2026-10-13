@@ -1,0 +1,177 @@
+K 6
+nparts 64
+part 34
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 161494
+visited 58487484
+rng_final 42
+comp 0 1 5 173
+comp 0 2 4 198
+comp 0 3 3 32
+comp 1 1 4 335
+comp 1 2 3 3309
+comp 1 3 2 5465
+comp 1 4 1 6056
+comp 2 0 4 17
+comp 2 1 3 1665
+comp 2 2 2 15847
+comp 2 3 1 52515
+comp 2 4 0 129
+comp 3 0 3 54
+comp 3 1 2 4534
+comp 3 2 1 46254
+comp 3 3 0 2082
+comp 4 0 2 182
+comp 4 1 1 10304
+comp 4 2 0 7449
+comp 5 0 1 551
+comp 5 1 0 3991
+comp 6 0 0 352
+mask 2 22
+mask 3 76
+mask 6 296
+mask 11 17
+mask 13 1
+mask 14 7410
+mask 15 12893
+mask 17 1
+mask 18 75
+mask 19 172
+mask 20 554
+mask 21 72
+mask 22 3086
+mask 23 422
+mask 25 2
+mask 26 6
+mask 27 385
+mask 28 12794
+mask 29 2842
+mask 30 13900
+mask 31 7536
+mask 33 19
+mask 34 338
+mask 35 701
+mask 37 13
+mask 38 1358
+mask 39 123
+mask 40 152
+mask 41 108
+mask 42 21
+mask 43 265
+mask 44 2603
+mask 45 1007
+mask 46 8334
+mask 47 9440
+mask 48 17
+mask 49 217
+mask 50 1526
+mask 51 1035
+mask 52 1000
+mask 53 213
+mask 54 5784
+mask 55 596
+mask 56 47
+mask 57 1248
+mask 58 706
+mask 59 3742
+mask 60 20247
+mask 61 9592
+mask 62 11694
+mask 63 5520
+mask 70 16
+mask 75 5
+mask 78 451
+mask 79 513
+mask 84 2
+mask 86 34
+mask 87 3
+mask 89 20
+mask 90 3
+mask 91 191
+mask 92 1772
+mask 93 733
+mask 94 2451
+mask 95 324
+mask 101 6
+mask 102 22
+mask 103 1
+mask 104 209
+mask 105 104
+mask 106 2
+mask 107 38
+mask 108 341
+mask 109 43
+mask 110 33
+mask 111 78
+mask 116 9
+mask 117 1
+mask 118 66
+mask 120 36
+mask 121 422
+mask 122 83
+mask 123 402
+mask 124 2109
+mask 125 607
+mask 126 42
+mask 127 94
+flags 0 114705
+flags 1 5898
+flags 2 253
+flags 3 3728
+flags 4 24727
+flags 5 2226
+flags 6 1725
+flags 7 3698
+flags 8 2401
+flags 9 13
+flags 10 3
+flags 11 145
+flags 12 1099
+flags 13 24
+flags 14 41
+flags 15 74
+flags 24 462
+flags 26 4
+flags 27 34
+flags 28 226
+flags 29 5
+flags 30 1
+flags 31 2
+exflag 0 NANOG AFP hsa-miR-17 IRF9 STAT6 hsa-miR-342
+exflag 0 NANOG AFP hsa-miR-20a IRF9 STAT6 hsa-miR-342
+exflag 0 NANOG AFP hsa-miR-302a IRF9 STAT6 hsa-miR-342
+exflag 1 NANOG CDX2 DKK1 DKK3 SP1 hsa-miR-132
+exflag 1 NANOG CDX2 DKK1 DKK3 SP1 hsa-miR-19a
+exflag 1 NANOG CDX2 DKK1 DKK3 SP1 hsa-miR-92a
+exflag 2 NANOG AFP GATA4 SOX9 AR hsa-miR-216a
+exflag 2 NANOG AFP GATA4 SQSTM1 TP53 hsa-miR-302a
+exflag 2 NANOG AFP GATA4 SQSTM1 TP53 hsa-miR-302b
+exflag 3 NANOG CDX2 KLF2 SP1 TP53 hsa-miR-23b | TF1=SP1 TF2=TP53 miRNA=hsa-miR-23b target=KLF2
+exflag 3 NANOG CDX2 SOX2 TP63 VDR hsa-miR-302a | TF1=NANOG TF2=SOX2 miRNA=hsa-miR-302a target=TP63
+exflag 3 NANOG CDX2 SOX2 TP63 VDR hsa-miR-302b | TF1=NANOG TF2=SOX2 miRNA=hsa-miR-302b target=TP63
+exflag 4 NANOG CDX2 SP1 AR VEGFA hsa-miR-17 | TF1=SP1 TF2=AR miRNA=hsa-miR-17 target=VEGFA
+exflag 4 NANOG CDX2 SP1 AR VEGFA hsa-miR-20a | TF1=SP1 TF2=AR miRNA=hsa-miR-20a target=VEGFA
+exflag 4 NANOG CDX2 SP1 FAS TP53 hsa-miR-19a | TF1=SP1 TF2=TP53 miRNA=hsa-miR-19a target=FAS
+exmask 63 NANOG AFP hsa-miR-367 CEBPA FHL2 LEF1
+exmask 63 NANOG AFP hsa-miR-92a CEBPA FHL2 LEF1
+exmask 63 NANOG CDX2 VDR IL6 LIF hsa-miR-302a
+exmask 95 SIRT1 TERT TP73 hsa-miR-143 hsa-miR-29a ETV4
+exmask 95 SIRT1 TERT TP73 hsa-miR-143 hsa-miR-29b ETV4
+exmask 95 SIRT1 TERT TP73 hsa-miR-143 hsa-miR-29c ETV4
+exmask 111 NANOG DKK1 DKK3 KLF2 hsa-miR-143 hsa-let-7b
+exmask 111 NANOG DKK1 DKK3 KLF2 hsa-miR-143 hsa-let-7e
+exmask 111 NANOG GATA4 CCND2 SOX2 hsa-miR-29b hsa-let-7b
+exmask 123 hsa-miR-29b ADAMTS5 FOS RELA SIRT1 hsa-let-7b
+exmask 123 hsa-miR-29b ADAMTS5 GLI1 JUN SIRT1 hsa-let-7b
+exmask 123 hsa-miR-29b ADAMTS5 GLI1 JUN SIRT1 hsa-let-7e
+exmask 125 hsa-miR-29b ADAMTS5 HDAC4 SIRT1 hsa-let-7b hsa-miR-424
+exmask 125 hsa-miR-29b ADAMTS5 HDAC4 SIRT1 hsa-let-7e hsa-miR-424
+exmask 125 hsa-miR-29b CCND2 EPAS1 ETV4 HIF1A hsa-let-7e
+exmask 126 hsa-miR-29b ADAMTS5 EPAS1 HIF1A MITF hsa-let-7e
+exmask 126 hsa-miR-29b ADAMTS5 FOS RELA FOXO3 hsa-let-7b
+exmask 126 hsa-miR-29b ADAMTS5 GLI1 JUN RELA hsa-let-7e
+exmask 127 hsa-miR-29b ADAMTS5 FOS RELA SIRT1 hsa-let-7e
+exmask 127 hsa-miR-29b CCND2 FOS RELA FOXO3 hsa-let-7b
+exmask 127 hsa-miR-29b CCND2 FOS RELA FOXO3 hsa-let-7e

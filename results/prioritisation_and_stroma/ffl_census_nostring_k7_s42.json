@@ -1,0 +1,45 @@
+{
+ "k": 7,
+ "seed": 42,
+ "probs": [
+  1.0,
+  1.0,
+  0.3,
+  0.08,
+  0.04,
+  0.02,
+  0.02
+ ],
+ "graph": "canonical + TRRUST TF-target + TransmiR TF-miRNA + 10kb polycistron; STRING EXCLUDED",
+ "n_arcs": 7198,
+ "sampled_subgraphs": 384904,
+ "sampled_ffl": 28,
+ "scale": 2604166.666666666,
+ "est_subgraphs": 1002354166666.6664,
+ "est_ffl": 72916666.66666666,
+ "class_diversity": {
+  "3": 13020833.33333333,
+  "4": 36458333.33333333,
+  "5": 18229166.666666664,
+  "2": 5208333.333333332
+ },
+ "class_sets": {
+  "TF->TF+TF->miRNA+miRNA->Gene": 5208333.333333332,
+  "TF->TF+TF->miRNA+miRNA->TF+miRNA-miRNA": 5208333.333333332,
+  "TF->TF+TF->miRNA+miRNA->TF": 7812499.999999998,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene": 13020833.33333333,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF": 18229166.666666664,
+  "TF->TF+TF->miRNA": 5208333.333333332,
+  "TF->TF+TF->miRNA+miRNA->Gene+miRNA->TF": 15624999.999999996,
+  "TF->Gene+TF->TF+TF->miRNA+miRNA->TF": 2604166.666666666
+ },
+ "composition": {
+  "TF3_miR3_G1": 36458333.33333333,
+  "TF4_miR3_G0": 7812499.999999998,
+  "TF6_miR1_G0": 7812499.999999998,
+  "TF4_miR2_G1": 15624999.999999996,
+  "TF5_miR1_G1": 2604166.666666666,
+  "TF3_miR4_G0": 2604166.666666666
+ },
+ "runtime_s": 39.9
+}

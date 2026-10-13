@@ -1,0 +1,23 @@
+cell_type,spearman_QNfalse_vs_QNtrue
+B cells naive,0.874669057317771
+B cells memory,0.758137053005392
+Plasma cells,0.917823902483198
+T cells CD8,0.927172550330962
+T cells CD4 naive,0.644113504292125
+T cells CD4 memory resting,0.85954121065112
+T cells CD4 memory activated,0.805558917673136
+T cells follicular helper,0.929104645224962
+T cells regulatory (Tregs),0.87366794461211
+T cells gamma delta,0.713083527423829
+NK cells resting,0.817745682323987
+NK cells activated,0.824149066766361
+Monocytes,0.871128743915045
+Macrophages M0,0.980888171191592
+Macrophages M1,0.969554202549261
+Macrophages M2,0.888655935492862
+Dendritic cells resting,0.849690531635263
+Dendritic cells activated,0.870832739812941
+Mast cells resting,0.928898384208071
+Mast cells activated,0.754221641393983
+Eosinophils,0.732182506566279
+Neutrophils,0.822770938800928

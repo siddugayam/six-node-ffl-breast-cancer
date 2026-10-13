@@ -1,0 +1,72 @@
+K 6
+nparts 64
+part 19
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 49567
+visited 18976861
+rng_final 42
+comp 1 2 3 9
+comp 1 3 2 27
+comp 1 4 1 16
+comp 2 1 3 1
+comp 2 2 2 1429
+comp 2 3 1 14665
+comp 2 4 0 2
+comp 3 1 2 428
+comp 3 2 1 20121
+comp 3 3 0 1931
+comp 4 0 2 24
+comp 4 1 1 3711
+comp 4 2 0 4481
+comp 5 0 1 286
+comp 5 1 0 2266
+comp 6 0 0 170
+mask 2 170
+mask 3 310
+mask 6 1513
+mask 7 211
+mask 12 16
+mask 13 32
+mask 14 13965
+mask 15 5768
+mask 18 26
+mask 19 35
+mask 20 831
+mask 21 77
+mask 22 6310
+mask 23 895
+mask 27 230
+mask 28 7598
+mask 29 1243
+mask 30 4533
+mask 31 5799
+mask 46 4
+mask 47 1
+flags 0 44548
+flags 1 1094
+flags 2 140
+flags 3 309
+flags 6 1
+flags 7 4
+flags 8 3329
+flags 9 1
+flags 10 12
+flags 11 21
+flags 24 108
+exflag 0 ELK1 CITED2 EZH2 FOSL1 hsa-miR-144 hsa-miR-200b
+exflag 0 ELK1 CITED2 EZH2 FOSL1 hsa-miR-144 hsa-miR-200c
+exflag 0 ELK1 CITED2 EZH2 FOSL1 hsa-miR-144 hsa-miR-429
+exflag 1 ELK1 EZH2 BRCA1 IRF9 CCND2 hsa-miR-17
+exflag 1 ELK1 EZH2 BRCA1 IRF9 CCND2 hsa-miR-18a
+exflag 1 ELK1 EZH2 BRCA1 IRF9 CCND2 hsa-miR-19a
+exflag 2 HMGA1 TP53 hsa-miR-143 COL1A1 COL3A1 hsa-miR-29a
+exflag 2 HMGA1 TWIST1 MYB COL1A1 COL3A1 hsa-miR-29a
+exflag 2 HMGA1 TWIST1 hsa-let-7i COL1A1 COL3A1 hsa-miR-29a
+exflag 3 ELK1 CITED2 EZH2 BRCA1 EGR1 hsa-miR-200b | TF1=ELK1 TF2=EZH2 miRNA=hsa-miR-200b target=BRCA1
+exflag 3 ELK1 CITED2 EZH2 FOSL1 HDAC1 hsa-miR-200b | TF1=ELK1 TF2=EZH2 miRNA=hsa-miR-200b target=HDAC1
+exflag 3 ELK1 CITED2 EZH2 FOSL1 SNAI2 hsa-miR-200b | TF1=ELK1 TF2=EZH2 miRNA=hsa-miR-200b target=SNAI2
+exflag 4 ELK1 EZH2 BRCA1 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 ELK1 EZH2 FOS TWIST1 ESR1 hsa-miR-181a | TF1=TWIST1 TF2=ESR1 miRNA=hsa-miR-181a target=FOS
+exflag 4 ELK1 FOS MYC CCND2 NFKB1 hsa-miR-17 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-17 target=CCND2

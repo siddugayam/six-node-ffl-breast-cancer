@@ -1,0 +1,2 @@
+metric,value,n_in,n_out
+AUC_z_predicts_top_module_membership,0.848436308161709,380,207

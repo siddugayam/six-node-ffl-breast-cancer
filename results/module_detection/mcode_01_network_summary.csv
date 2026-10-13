@@ -1,0 +1,2 @@
+"n_nodes","n_edges_directed","n_edges_undirected","density","n_components","largest_component","mean_degree","median_degree","max_degree","n_degree_lt2","global_transitivity"
+587,6859,5636,0.0327691565256322,1,587,19.2027257240204,15,93,1,0.0350091582294839

@@ -1,0 +1,27 @@
+gene,role,breast_glandular,breast_myoepithelial,breast_adipocytes,soft_tissue1_fibroblasts,soft_tissue2_fibroblasts,adipose_adipocytes,ihc_reliability,hpa_normal_tissue_summary
+E2F1,TF (prioritised),medium,medium,low,medium,medium,medium,enhanced,Nuclear expression in most tissues.
+EZH2,TF (prioritised),not detected,not detected,not detected,not detected,not detected,not detected,enhanced,"Nuclear expression in several tissues, most abundant in testis and lymphoid tissues."
+GATA3,TF (prioritised),medium,not detected,not detected,not detected,not detected,not detected,enhanced,"Nuclear expression in selected tissues, including parathyroid gland and skin."
+BRCA1,TF (prioritised),medium,medium,low,low,low,low,supported,Nuclear and cytoplasmic expression in a fraction of cells in most tissues.
+JUN,TF (prioritised),medium,not detected,low,not detected,not detected,not detected,enhanced,"Nuclear expression in several tissues, mostly in a fraction of the cells."
+EGR2,TF (prioritised),no data,no data,no data,no data,no data,no data,no IHC tissue data,
+ESR1,TF (prioritised),medium,not detected,not detected,not detected,not detected,not detected,enhanced,Selective nuclear expression in female genitalia.
+SREBF1,TF (prioritised),not detected,not detected,not detected,not detected,not detected,not detected,uncertain,"Cytoplasmic expression in several tissues, most abundant in adrenal gland."
+DNMT1,TF (prioritised),not detected,not detected,not detected,not detected,not detected,not detected,enhanced,"Distinct nuclear expression in several different cell types, mainly in highly proliferative cells."
+E2F3,TF (prioritised),no data,no data,no data,no data,no data,no data,no IHC tissue data,
+CCND2,gene (prioritised),not detected,not detected,not detected,not detected,not detected,not detected,approved,Cytoplasmic and nuclear expression in several tissues.
+COL1A1,gene (prioritised),low,low,low,low,low,low,approved,Staining in extracellular matrix combined with cytoplasmic expression in many cell types.
+STAT5A,gene (prioritised),medium,not detected,not detected,not detected,not detected,medium,enhanced,"Cytoplasmic and nuclear expression in a few tissues, most abundant in subsets of lymphoid cells."
+MYBL2,gene (prioritised),medium,medium,low,medium,high,medium,uncertain,General nuclear and cytoplasmic expression.
+FN1,gene (prioritised),low,not detected,low,medium,medium,medium,enhanced,Positivity in extracellular matrix and stromal cells.
+PDGFRB,gene (prioritised),not detected,medium,not detected,low,low,not detected,enhanced,"High expression in endothelial cells, decidual cells and fibroblasts with distinct positivity in connective tissue."
+MET,gene (prioritised),low,low,low,not detected,low,low,approved,Cytoplasmic and membranous expression of varying levels in most tissues.
+CXCL12,gene (prioritised),not detected,not detected,not detected,not detected,not detected,not detected,approved,Cytoplasmic and nuclear expression in most tissues with additional plasma positivity.
+MMP14,gene (prioritised),low,low,medium,medium,medium,medium,approved,Cytoplasmic expression in several tissues.
+PLAU,gene (prioritised),medium,not detected,medium,high,medium,not detected,supported,Cytoplasmic and membranous expression in several tissues.
+COL3A1,comparator (compartment test),not detected,not detected,not detected,not detected,not detected,not detected,approved,Secreted and extracellular positivity in most tissues.
+POSTN,comparator (compartment test),not detected,low,high,medium,medium,medium,enhanced,Distinct expression in extracellular matrix.
+NFKB1,comparator (compartment test),medium,low,not detected,low,low,not detected,enhanced,General cytoplasmic expression. Additional nuclear expression in several tissues.
+RELA,comparator (compartment test),high,high,medium,medium,medium,low,supported,Ubiquitous cytoplasmic expression.
+SP1,comparator (compartment test),medium,medium,no data,medium,medium,medium,supported,Ubiquitous nuclear expression.
+ETS1,comparator (compartment test),not detected,not detected,not detected,not detected,not detected,not detected,enhanced,"Nuclear expression in subsets of immune cells in several tissues, most abundant in lymphoid tissues."

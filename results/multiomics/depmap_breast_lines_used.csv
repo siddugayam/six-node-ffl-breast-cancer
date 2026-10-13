@@ -1,0 +1,54 @@
+ModelID,StrippedCellLineName,OncotreeSubtype,OncotreeCode,PrimaryOrMetastasis
+ACH-000017,SKBR3,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000019,MCF7,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000028,KPL1,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000097,ZR751,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000111,HCC1187,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000147,T47D,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000148,HS578T,"Breast Invasive Carcinoma, NOS",BRCNOS,Primary
+ACH-000212,CAL120,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000223,HCC1937,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000248,AU565,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000258,DU4475,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000276,HCC38,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000277,HCC1419,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000288,BT549,"Breast Invasive Carcinoma, NOS",BRCNOS,Primary
+ACH-000330,EFM19,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000352,HCC1428,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000374,HCC1143,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000554,UACC893,Breast Invasive Lobular Carcinoma,ILC,Primary
+ACH-000573,MDAMB436,"Breast Invasive Carcinoma, NOS",BRCNOS,Metastatic
+ACH-000621,MDAMB157,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000624,HCC1806,Breast Ductal Carcinoma In Situ,DCIS,Primary
+ACH-000668,HCC70,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000699,HCC1395,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-000711,JIMT1,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000721,HMC18,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-000725,HCC202,Breast Ductal Carcinoma In Situ,DCIS,Primary
+ACH-000768,MDAMB231,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000783,CAMA1,Breast Invasive Lobular Carcinoma,ILC,Metastatic
+ACH-000849,MDAMB468,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000856,CAL51,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000859,HCC1954,Breast Ductal Carcinoma In Situ,DCIS,Primary
+ACH-000876,MDAMB415,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000910,MDAMB453,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-000934,MDAMB361,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-001065,EVSAT,Breast Invasive Lobular Carcinoma,ILC,Metastatic
+ACH-001388,SUM102PT,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-001389,SUM1315MO2,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-001390,SUM149PT,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-001391,SUM159PT,Invasive Breast Carcinoma,BRCA,Primary
+ACH-001392,SUM185PE,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-001393,SUM190PT,Invasive Breast Carcinoma,BRCA,Primary
+ACH-001394,SUM229PE,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-001396,SUM52PE,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-001419,VP229,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-001662,SNU2372,"Breast Invasive Cancer, NOS",BRCANOS,Primary
+ACH-001683,UACC3133,Breast Invasive Lobular Carcinoma,ILC,Primary
+ACH-001819,MFM223,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-001820,COLO824,"Breast Neoplasm, NOS",BNNOS,Metastatic
+ACH-002179,OCUBM,Invasive Breast Carcinoma,BRCA,Metastatic
+ACH-002399,21NT,Breast Invasive Ductal Carcinoma,IDC,Primary
+ACH-002400,21MT1,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-002401,21MT2,Breast Invasive Ductal Carcinoma,IDC,Metastatic
+ACH-002499,UACC3199,Breast Invasive Ductal Carcinoma,IDC,Metastatic

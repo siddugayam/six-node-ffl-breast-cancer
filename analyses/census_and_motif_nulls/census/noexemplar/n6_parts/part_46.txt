@@ -1,0 +1,110 @@
+K 6
+nparts 64
+part 46
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 42894
+visited 24272497
+rng_final 42
+comp 0 1 5 44
+comp 1 1 4 177
+comp 1 2 3 1595
+comp 1 3 2 2042
+comp 2 0 4 87
+comp 2 1 3 1369
+comp 2 2 2 6971
+comp 2 3 1 6303
+comp 2 4 0 1
+comp 3 0 3 272
+comp 3 1 2 3022
+comp 3 2 1 13240
+comp 3 3 0 532
+comp 4 0 2 312
+comp 4 1 1 3812
+comp 4 2 0 1913
+comp 5 0 1 327
+comp 5 1 0 837
+comp 6 0 0 38
+mask 3 122
+mask 6 116
+mask 7 4
+mask 11 16
+mask 13 1
+mask 14 5699
+mask 15 4327
+mask 20 133
+mask 21 19
+mask 22 1319
+mask 23 354
+mask 26 1
+mask 27 11
+mask 28 1324
+mask 29 334
+mask 30 2571
+mask 31 2986
+mask 33 47
+mask 34 104
+mask 35 763
+mask 37 12
+mask 38 448
+mask 39 75
+mask 40 47
+mask 41 256
+mask 42 45
+mask 43 371
+mask 44 3337
+mask 45 1992
+mask 46 3610
+mask 47 6071
+mask 52 153
+mask 53 100
+mask 54 1257
+mask 55 481
+mask 57 8
+mask 58 35
+mask 59 96
+mask 60 285
+mask 61 1239
+mask 62 1501
+mask 63 1224
+flags 0 22855
+flags 1 2714
+flags 2 94
+flags 3 372
+flags 4 4965
+flags 5 1521
+flags 6 1914
+flags 7 1870
+flags 8 3828
+flags 9 18
+flags 10 13
+flags 11 40
+flags 12 1024
+flags 13 10
+flags 14 328
+flags 15 380
+flags 24 627
+flags 25 27
+flags 27 13
+flags 28 255
+flags 29 6
+flags 30 20
+exflag 0 IRF9 CCND2 STAT1 NR1H4 hsa-let-7a hsa-miR-29a
+exflag 0 IRF9 CCND2 STAT1 NR1H4 hsa-miR-124 hsa-miR-29a
+exflag 0 IRF9 CCND2 STAT1 STAT4 hsa-let-7a hsa-miR-506
+exflag 1 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-let-7d
+exflag 1 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-miR-124
+exflag 1 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-miR-135b
+exflag 2 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-let-7d
+exflag 2 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-miR-124
+exflag 2 IRF9 CCND2 RB1 DDIT3 STAT3 hsa-miR-135b
+exflag 3 IRF9 CCND2 STAT5A ESR1 MYC hsa-let-7c | TF1=ESR1 TF2=MYC miRNA=hsa-let-7c target=CCND2
+exflag 3 IRF9 CCND2 STAT5A ESR1 MYC hsa-miR-18a | TF1=ESR1 TF2=MYC miRNA=hsa-miR-18a target=CCND2
+exflag 3 IRF9 CCND2 STAT5A ESR1 MYC hsa-miR-18b | TF1=ESR1 TF2=MYC miRNA=hsa-miR-18b target=CCND2
+exflag 4 NR1H4 EDN1 MMP2 NFKB1 HIF1A hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=EDN1
+exflag 4 NR1H4 EDN1 MMP2 NFKB1 HIF1A hsa-miR-29c | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-29c target=MMP2
+exflag 4 NR1H4 EDN1 MMP2 NFKB1 HIF1A hsa-miR-301a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-301a target=EDN1
+exmask 63 IRF9 CCND2 RB1 FOS STAT1 hsa-miR-29a
+exmask 63 IRF9 CCND2 STAT1 NR1H4 hsa-miR-29a ETV4
+exmask 63 IRF9 CCND2 STAT1 STAT6 hsa-miR-29a ETV4

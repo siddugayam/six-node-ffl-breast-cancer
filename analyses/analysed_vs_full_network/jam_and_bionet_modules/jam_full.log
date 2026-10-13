@@ -1,0 +1,206 @@
+### jam_01_search.R
+[11:42:26] network: 587 nodes, 5636 undirected edges, 1 component(s)
+[11:42:30] z over all 20745 measured features: mean 5.97 vs network nodes 7.34
+[11:42:30] variant primary: 10 seeds x 5 modules, 200000 iterations, null=sets
+[11:42:41]    seed 1: top size 229 score 19.78  (11s)
+[11:42:52]    seed 2: top size 256 score 19.68  (10.5s)
+[11:43:03]    seed 3: top size 229 score 19.75  (10.9s)
+[11:43:14]    seed 4: top size 229 score 19.8  (10.9s)
+[11:43:25]    seed 5: top size 217 score 19.8  (11.2s)
+[11:43:36]    seed 6: top size 229 score 19.78  (10.9s)
+[11:43:47]    seed 7: top size 217 score 19.8  (11.3s)
+[11:43:58]    seed 8: top size 229 score 19.77  (11.1s)
+[11:44:09]    seed 9: top size 229 score 19.8  (11.1s)
+[11:44:21]    seed 10: top size 217 score 19.76  (11.3s)
+[11:44:21] variant S1_genes_only: 5 seeds x 3 modules, 200000 iterations, null=sets
+[11:44:27]    seed 1: top size 209 score 20.31  (6.3s)
+[11:44:34]    seed 2: top size 292 score 5.84  (7.1s)
+[11:44:41]    seed 3: top size 301 score 4.38  (6.8s)
+[11:44:47]    seed 4: top size 210 score 20.27  (6.3s)
+[11:44:54]    seed 5: top size 210 score 20.21  (7.2s)
+[11:44:54] variant S2_raw_p: 5 seeds x 3 modules, 200000 iterations, null=sets
+[11:45:02]    seed 1: top size 248 score 19.7  (7.5s)
+[11:45:09]    seed 2: top size 255 score 19.73  (7.4s)
+[11:45:16]    seed 3: top size 217 score 19.72  (7.4s)
+[11:45:24]    seed 4: top size 229 score 19.74  (7.3s)
+[11:45:31]    seed 5: top size 247 score 19.5  (7.7s)
+[11:45:31] variant S3_indep_null: 5 seeds x 3 modules, 200000 iterations, null=indep
+[11:45:44]    seed 1: top size 1 score 3.29  (12.8s)
+[11:45:57]    seed 2: top size 1 score 3.29  (12.7s)
+[11:46:08]    seed 3: top size 1 score 3.29  (11s)
+[11:46:18]    seed 4: top size 1 score 3.29  (9.9s)
+[11:46:29]    seed 5: top size 1 score 3.29  (11.3s)
+[11:46:29] variant S4_connected_null: 5 seeds x 3 modules, 200000 iterations, null=connected
+[11:46:36]    seed 1: top size 299 score 22.31  (6.9s)
+[11:46:43]    seed 2: top size 299 score 22.36  (6.8s)
+[11:46:50]    seed 3: top size 299 score 22.35  (6.8s)
+[11:46:57]    seed 4: top size 299 score 22.34  (6.9s)
+[11:47:03]    seed 5: top size 299 score 22.35  (6.8s)
+[11:47:03] variant S5a_iters_2e4: 5 seeds x 3 modules, 20000 iterations, null=sets
+[11:47:04]    seed 1: top size 1 score 3.27  (1s)
+[11:47:05]    seed 2: top size 229 score 19.63  (0.7s)
+[11:47:06]    seed 3: top size 229 score 19.68  (0.8s)
+[11:47:07]    seed 4: top size 1 score 3.27  (1s)
+[11:47:08]    seed 5: top size 1 score 3.27  (1.3s)
+[11:47:08] variant S5b_iters_1e6: 5 seeds x 3 modules, 1000000 iterations, null=sets
+[11:47:44]    seed 1: top size 229 score 19.8  (35.9s)
+[11:48:20]    seed 2: top size 229 score 19.79  (36.2s)
+[11:48:56]    seed 3: top size 229 score 19.81  (35.8s)
+[11:49:32]    seed 4: top size 229 score 19.8  (36s)
+[11:50:08]    seed 5: top size 229 score 19.81  (36s)
+[11:50:08] variant S6_signed_z: 5 seeds x 3 modules, 200000 iterations, null=sets
+[11:50:14]    seed 1: top size 319 score 19.49  (6.3s)
+[11:50:21]    seed 2: top size 319 score 19.53  (6.4s)
+[11:50:27]    seed 3: top size 319 score 19.51  (6.4s)
+[11:50:33]    seed 4: top size 319 score 19.51  (6.3s)
+[11:50:40]    seed 5: top size 319 score 19.54  (6.4s)
+[11:50:40] variant S7_transcriptome_null: 5 seeds x 3 modules, 200000 iterations, null=transcriptome
+[11:50:47]    seed 1: top size 172 score 20.81  (7.6s)
+[11:50:55]    seed 2: top size 179 score 20.8  (7.6s)
+[11:51:03]    seed 3: top size 172 score 20.81  (7.5s)
+[11:51:10]    seed 4: top size 162 score 20.71  (7.6s)
+[11:51:18]    seed 5: top size 174 score 20.82  (7.6s)
+[11:51:18] DONE: 170 modules over 9 variants
+### jam_02_characterise.R
+Warning message:
+In split.default(unique(hm$gene_symbol), hm$gs_name) :
+  data length is not a multiple of split variable
+                  set     k n_components connected    mean_z    agg_z
+               <char> <int>        <num>    <lgcl>     <num>    <num>
+1: paper_MS_module_10    10            1      TRUE  4.736865 14.97928
+2:     prioritised_30    30            7     FALSE 12.670986 69.40185
+3:    collagen_axis_5     5            1      TRUE  5.532347 12.37070
+4:    TF_collagen_arm     6            1      TRUE  7.605823 18.63039
+5:        mir101_EZH2     2            1      TRUE 14.124284 19.97475
+   score_sets_null score_connected_null best_jam_score
+             <num>                <num>          <num>
+1:      -1.4042420           -1.3922285       19.80276
+2:       5.1229340            5.0219711       19.80276
+3:      -0.6947618           -0.6783879       19.80276
+4:       0.1131756            0.1067989       19.80276
+5:       1.6628174            1.6860908       19.80276
+   variant  rank n_seeds size_min size_med size_max jaccard_mean jaccard_min
+    <char> <int>   <int>    <int>    <num>    <int>        <num>       <num>
+1: primary     1      10      217      229      256   0.91245868   0.8262548
+2: primary     2      10        1        1        1   0.80000000   0.0000000
+3: primary     3      10        1        1        1   0.46666667   0.0000000
+4: primary     4      10        1        1        1   0.11111111   0.0000000
+5: primary     5      10        1        1        2   0.02222222   0.0000000
+   jaccard_max n_union n_core_all_seeds frac_core
+         <num>   <int>            <int>     <num>
+1:    0.954955     261              205 0.7854406
+2:    1.000000       2                0 0.0000000
+3:    1.000000       4                0 0.0000000
+4:    1.000000       6                0 0.0000000
+5:    1.000000      10                0 0.0000000
+                  module              gene_set n_module n_set n_universe
+                  <char>                <char>    <int> <int>      <int>
+ 1: consensus_top_module       paper_MS_module      205    10        587
+ 2: consensus_top_module        prioritised_30      205    30        587
+ 3: consensus_top_module      farmer_stroma_50      141    13        364
+ 4: consensus_top_module          CAF_scRNA_50      141     0        364
+ 5: consensus_top_module            named_axes      205    11        587
+ 6: consensus_top_module          HALLMARK_EMT      141    47        364
+ 7: consensus_top_module          HALLMARK_E2F      141     9        364
+ 8: consensus_top_module          HALLMARK_G2M      141    11        364
+ 9: consensus_top_module       HALLMARK_MYC_V1      141     5        364
+10: consensus_top_module HALLMARK_ANGIOGENESIS      141     8        364
+11: consensus_top_module     HALLMARK_TGF_BETA      141    12        364
+    overlap  expected      fold     p_hyper
+      <int>     <num>     <num>       <num>
+ 1:       1  3.492334 0.2863415 0.986934160
+ 2:      19 10.477002 1.8134959 0.001064123
+ 3:       3  5.035714 0.5957447 0.934312094
+ 4:       0  0.000000       NaN 1.000000000
+ 5:       3  3.841567 0.7809313 0.800876415
+ 6:      19 18.206044 1.0436095 0.458930211
+ 7:       6  3.486264 1.7210402 0.083264333
+ 8:       7  4.260989 1.6428111 0.081419815
+ 9:       2  1.936813 1.0326241 0.642218005
+10:       6  3.098901 1.9361702 0.040693057
+11:       3  4.648352 0.6453901 0.906006384
+                                                                                                                                           members
+                                                                                                                                            <char>
+ 1:                                                                                                                                         COL1A1
+ 2: CCND2;COL1A1;CXCL12;DNMT1;E2F1;EGR2;EZH2;FN1;hsa-miR-141;hsa-miR-195;hsa-miR-204;hsa-miR-21;hsa-miR-383;hsa-miR-429;JUN;MET;MMP14;MYBL2;STAT5A
+ 3:                                                                                                                              MMP14;POSTN;SNAI2
+ 4:                                                                                                                                               
+ 5:                                                                                                                               COL1A1;ETS1;EZH2
+ 6:                                         ACTA2;ANPEP;COL1A1;CXCL12;DAB2;FN1;IL6;ITGB1;JUN;MMP14;MYL9;NT5E;OXTR;POSTN;SNAI2;SPP1;TAGLN;VEGFC;VIM
+ 7:                                                                                                                DNMT1;EZH2;HMGA1;ILF3;MYBL2;MYC
+ 8:                                                                                                           E2F1;EZH2;HMGA1;ILF3;MEIS1;MYBL2;MYC
+ 9:                                                                                                                                       MYC;TYMS
+10:                                                                                                                 CCND2;LPL;NRP1;POSTN;SPP1;THBD
+11:                                                                                                                                HDAC1;ID1;KLF10
+[11:51:22] consensus module size 205
+                    set     k    min_z median_z n_components    score
+                 <char> <int>    <num>    <num>        <num>    <num>
+1: consensus_top_module   205 8.266342 13.11741            5 19.85822
+2:     top_k_nodes_by_z   205 9.149597 13.11741           12 20.00902
+   jaccard_with_topk_by_z
+                    <num>
+1:               0.943128
+2:               1.000000
+[11:51:22] AUC of z for top-module membership: 0.986
+Key: <variant>
+                 variant mean_fold_proliferation mean_fold_stroma
+                  <char>                   <num>            <num>
+1:         S1_genes_only                1.181291        1.4679783
+2:              S2_raw_p                1.455171        0.9183960
+3:         S3_indep_null                0.000000        0.0000000
+4:     S4_connected_null                1.210882        1.1602438
+5:         S5a_iters_2e4                0.000000        0.0000000
+6:         S5b_iters_1e6                1.470707        1.0314836
+7:           S6_signed_z                1.776733        1.2573823
+8: S7_transcriptome_null                1.159514        0.7962149
+9:               primary                1.465492        1.0552286
+   min_p_proliferation min_p_stroma
+                 <num>        <num>
+1:         0.124459027  0.002269636
+2:         0.084438870  0.156141949
+3:         1.000000000  1.000000000
+4:         0.061879247  0.060739530
+5:         1.000000000  1.000000000
+6:         0.030452508  0.052064297
+7:         0.008871508  0.019727404
+8:         0.243873013  0.069062557
+9:         0.081419815  0.040693057
+           node   type          z in_consensus n_seeds in_prioritised_30
+         <char> <char>      <num>       <lgcl>   <int>            <lgcl>
+ 1:      COL1A1   Gene 14.8140510         TRUE      10              TRUE
+ 2:      COL3A1   Gene  8.4789763        FALSE       6             FALSE
+ 3:         SP1     TF  7.5843597        FALSE       8             FALSE
+ 4:  hsa-let-7b  miRNA  6.5126794        FALSE       0             FALSE
+ 5:       NFKB1     TF  3.7728569        FALSE       5             FALSE
+ 6: hsa-miR-29a  miRNA  3.5392053        FALSE       0             FALSE
+ 7: hsa-miR-29b  miRNA  2.5011787        FALSE       0             FALSE
+ 8:        RELA     TF  0.9726085        FALSE       0             FALSE
+ 9:  hsa-let-7e  miRNA  0.8644074        FALSE       0             FALSE
+10: hsa-miR-29c  miRNA -1.6716743        FALSE       0             FALSE
+    in_paper_MS_module
+                <lgcl>
+ 1:               TRUE
+ 2:               TRUE
+ 3:               TRUE
+ 4:               TRUE
+ 5:               TRUE
+ 6:               TRUE
+ 7:               TRUE
+ 8:               TRUE
+ 9:               TRUE
+10:               TRUE
+[11:51:22] prioritised-30 in consensus: 19/30; MS-module in consensus: 1/10
+### jam_05_circularity_check.R
+          domain     n  rho_with_z rho_with_membership
+          <char> <int>       <num>               <num>
+1:      priority   583  0.48273170          0.43097036
+2:    T_topology   587  0.03740695          0.09922467
+3:    E_evidence   586  0.06919172          0.08722323
+4:  D_expression   576  0.97775322          0.84502598
+5: R_replication   360  0.49958851          0.39930264
+6:   M_multiomic   575 -0.04553359         -0.02962690
+7:    C_clinical   576 -0.01341826         -0.06585284
+8:  F_functional   360 -0.05629236         -0.03359047
+   observed null_mean   null_sd p_zmatched
+      <int>     <num>     <num>      <num>
+1:       19   20.2312 0.9623093  0.9678032

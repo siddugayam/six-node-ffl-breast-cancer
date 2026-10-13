@@ -1,0 +1,4 @@
+set,ours_rows,stored_rows,sig_terms_ours,sig_terms_stored,best_coreECM_BH_ours,best_coreECM_BH_stored
+Leiden_mod_r1.0,23635,23635,3011,3011,0.173560978441837,0.173560978441837
+BioNet_primary,3890,3890,430,430,0.87277850257139,0.87277850257139
+jAM_consensus,5308,5308,1328,1328,0.977449927427796,0.977449927427796

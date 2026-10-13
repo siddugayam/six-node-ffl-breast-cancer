@@ -1,0 +1,160 @@
+section,claim,value,source_file
+A_AlphaGenome,pip install alphagenome,OK,seqreg_alphagenome_access.csv
+A_AlphaGenome,network reachability of the AlphaGenome gRPC endpoint,REACHABLE,seqreg_alphagenome_access.csv
+A_AlphaGenome,GET https://deepmind.google.com/science/alphagenome,HTTP 200 but JS-only shell; the only actionable control in the served HTML is 'Sign in',seqreg_alphagenome_access.csv
+A_AlphaGenome,GET https://deepmind.google.com/science/alphagenome/account/terms,"HTTP 200, same JS-only shell, no content without a signed-in Google session",seqreg_alphagenome_access.csv
+A_AlphaGenome,obtain key using <e-mail removed>,"NOT DONE - BLOCKED, ACCOUNT-HOLDER ACTION REQUIRED",seqreg_alphagenome_access.csv
+A_AlphaGenome,ACTION REQUIRED BY THE ACCOUNT HOLDER,1 step,seqreg_alphagenome_access.csv
+A_AlphaGenome,commercial alternative (not used),available,seqreg_alphagenome_access.csv
+0_coordinates,COL1A1 anchor (hg38),chr17:50201631 (-) NM_000088.4 COL1A1,seqreg_regions.csv
+0_coordinates,COL3A1 anchor (hg38),chr2:188974372 (+) NM_000090.4 COL3A1,seqreg_regions.csv
+0_coordinates,MIR29A anchor (hg38),chr7:130876810 (-) NR_029503.1 MIR29A,seqreg_regions.csv
+0_coordinates,MIR29B1 anchor (hg38),chr7:130877539 (-) NR_029517.1 MIR29B1,seqreg_regions.csv
+0_coordinates,MIR29C anchor (hg38),chr1:207801939 (-) NR_029832.1 MIR29C,seqreg_regions.csv
+0_coordinates,MIR29B2 anchor (hg38),chr1:207802523 (-) NR_029518.1 MIR29B2,seqreg_regions.csv
+0_coordinates,MIR29B2CHG anchor (hg38),chr1:207822703 (-) NR_135298.1 MIR29B2CHG,seqreg_regions.csv
+0_coordinates,LINC_PINT_prox anchor (hg38),chr7:130913310 (-) NR_110473.1 LINC-PINT,seqreg_regions.csv
+B_Enformer,COL1A1: top predicted DNase track at promoter,DNASE:skin fibroblast male embryo (97 days) value=14.33 (background percentile 94.5),seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,COL1A1: top predicted CAGE track at promoter,"CAGE:Skeletal muscle cells differentiated into Myotubes - multinucleated, value=501.9 (pct 100.0)",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL1A1: predicted SP1 ChIP at promoter, 9 tracks","median background percentile 33.0, max 54.0",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL1A1: predicted ETS1 ChIP at promoter, 5 tracks","median background percentile 29.1, max 44.5",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL1A1: predicted RELB ChIP at promoter, 1 tracks","median background percentile 30.4, max 30.4",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,COL1A1: NFKB1/RELA tracks in the Enformer human head,absent (0 tracks; only RELB),cache/seqreg/enformer_targets_human.txt
+B_Borzoi,COL1A1: top predicted RNA track at promoter,RNA:GM23248 value=16.58 (pct 100.0),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,COL1A1: top predicted ATAC track at promoter,ATAC:Vasc Sm Muscle 1 value=1.85 (pct 86.5),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL1A1: predicted RELA ChIP at promoter, 1 tracks","median background percentile 44.0, max 44.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL1A1: predicted RELB ChIP at promoter, 1 tracks","median background percentile 35.0, max 35.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL1A1: predicted NFKB2 ChIP at promoter, 1 tracks","median background percentile 62.0, max 62.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL1A1: predicted SP1 ChIP at promoter, 10 tracks","median background percentile 39.5, max 48.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL1A1: predicted ETS1 ChIP at promoter, 5 tracks","median background percentile 40.5, max 46.5",seqreg_borzoi_promoter_tracks.csv.gz
+B_Enformer,COL3A1: top predicted DNase track at promoter,DNASE:muscle of leg female embryo (113 days) value=7.21 (background percentile 78.1),seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,COL3A1: top predicted CAGE track at promoter,"CAGE:Preadipocyte - omental, value=357.8 (pct 99.6)",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL3A1: predicted SP1 ChIP at promoter, 9 tracks","median background percentile 36.8, max 83.4",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL3A1: predicted ETS1 ChIP at promoter, 5 tracks","median background percentile 15.2, max 28.3",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,"COL3A1: predicted RELB ChIP at promoter, 1 tracks","median background percentile 24.5, max 24.5",seqreg_enformer_promoter_tracks.csv.gz
+B_Enformer,COL3A1: NFKB1/RELA tracks in the Enformer human head,absent (0 tracks; only RELB),cache/seqreg/enformer_targets_human.txt
+B_Borzoi,COL3A1: top predicted RNA track at promoter,RNA:GM23248 value=14.38 (pct 100.0),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,COL3A1: top predicted ATAC track at promoter,ATAC:Vasc Sm Muscle 1 value=1.51 (pct 50.0),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL3A1: predicted RELA ChIP at promoter, 1 tracks","median background percentile 35.0, max 35.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL3A1: predicted RELB ChIP at promoter, 1 tracks","median background percentile 24.0, max 24.0",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL3A1: predicted NFKB2 ChIP at promoter, 1 tracks","median background percentile 56.5, max 56.5",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL3A1: predicted SP1 ChIP at promoter, 10 tracks","median background percentile 34.5, max 95.5",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,"COL3A1: predicted ETS1 ChIP at promoter, 5 tracks","median background percentile 15.0, max 31.5",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,MIR29B2CHG: top predicted RNA track,"RNA:CD4-positive, alpha-beta T cell male adult (20 years) value=2.53 (pct 99.5)",seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,MIR29B2CHG: predicted NF-kB-family ChIP,RELB=67pct; RELA=54pct; NFKB2=64pct,seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,LINC_PINT_prox: top predicted RNA track,RNA:mononuclear cell female adult (52 years) value=4.62 (pct 100.0),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,LINC_PINT_prox: predicted NF-kB-family ChIP,RELB=86pct; RELA=74pct; NFKB2=97pct,seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,MIR29A: top predicted RNA track,RNA:mononuclear cell female adult (52 years) value=2.93 (pct 100.0),seqreg_borzoi_promoter_tracks.csv.gz
+B_Borzoi,MIR29A: predicted NF-kB-family ChIP,RELB=44pct; RELA=55pct; NFKB2=73pct,seqreg_borzoi_promoter_tracks.csv.gz
+B_Enformer_occlusion,COL1A1: shuffling the NFKB1 site(s) changes predicted fibroblast CAGE by,"largest drop -1.951 (ref 259.81, = -0.75%) at TSS+6",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the NFKB2 site(s) changes predicted fibroblast CAGE by,"largest drop -1.316 (ref 259.81, = -0.51%) at TSS+6",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the REL site(s) changes predicted fibroblast CAGE by,"largest drop -0.196 (ref 259.81, = -0.08%) at TSS-891",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the SP1 site(s) changes predicted fibroblast CAGE by,"largest drop -7.540 (ref 259.81, = -2.90%) at TSS-126",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the SP2 site(s) changes predicted fibroblast CAGE by,"largest drop -4.243 (ref 259.81, = -1.63%) at TSS-170",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the SP3 site(s) changes predicted fibroblast CAGE by,"largest drop -5.651 (ref 259.81, = -2.17%) at TSS-169",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the ETS1 site(s) changes predicted fibroblast CAGE by,"largest drop -0.076 (ref 259.81, = -0.03%) at TSS-512",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL1A1: shuffling the ETS2 site(s) changes predicted fibroblast CAGE by,"largest drop -2.576 (ref 259.81, = -0.99%) at TSS-169",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL3A1: shuffling the RELB site(s) changes predicted fibroblast CAGE by,"largest drop 0.574 (ref 114.47, = +0.50%) at TSS-674",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL3A1: shuffling the REL site(s) changes predicted fibroblast CAGE by,"largest drop -2.927 (ref 114.47, = -2.56%) at TSS+265",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL3A1: shuffling the ETS1 site(s) changes predicted fibroblast CAGE by,"largest drop -54.482 (ref 114.47, = -47.60%) at TSS+186",seqreg_enformer_motif_occlusion.csv
+B_Enformer_occlusion,COL3A1: shuffling the ETS2 site(s) changes predicted fibroblast CAGE by,"largest drop -3.400 (ref 114.47, = -2.97%) at TSS+65",seqreg_enformer_motif_occlusion.csv
+B_Enformer_ISM,COL1A1: most disruptive single-base substitution (fibroblast CAGE),"A>C at TSS-99 (chr pos 50201730), delta=-28.566",seqreg_enformer_ism.csv
+B_Enformer_ISM,COL3A1: most disruptive single-base substitution (fibroblast CAGE),"G>T at TSS-62 (chr pos 188974310), delta=-31.186",seqreg_enformer_ism.csv
+C_ReMap,COL1A1 promoter (TSS-1000..+500): NFKB1 ReMap 2022 peaks,1 peaks (fibroblast 0); random-promoter mean 2.824; percentile 19.72; emp p(>=) 0.8028,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL1A1 promoter (TSS-1000..+500): RELA ReMap 2022 peaks,5 peaks (fibroblast 0); random-promoter mean 37.945; percentile 24.91; emp p(>=) 0.7509,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL1A1 promoter (TSS-1000..+500): SP1 ReMap 2022 peaks,2 peaks (fibroblast 0); random-promoter mean 6.879; percentile 25.26; emp p(>=) 0.7474,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL1A1 promoter (TSS-1000..+500): ETS1 ReMap 2022 peaks,4 peaks (fibroblast 0); random-promoter mean 19.619; percentile 25.26; emp p(>=) 0.7474,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL1A1 promoter: TFs most over-represented vs 289 random promoters,"EZH2 41 vs 11.505 (p=0.0277, BH q=0.853); SUZ12 11 vs 4.163 (p=0.0796, BH q=0.853); HNRNPLL 5 vs 3.09 (p=0.2111, BH q=0.853)",seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL3A1 promoter: NFKB1 ReMap 2022 peaks,0 peaks,seqreg_remap_tf_by_region_curated.csv
+C_ReMap,COL3A1 promoter (TSS-1000..+500): RELA ReMap 2022 peaks,2 peaks (fibroblast 0); random-promoter mean 37.945; percentile 19.38; emp p(>=) 0.8062,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap,COL3A1 promoter: SP1 ReMap 2022 peaks,0 peaks,seqreg_remap_tf_by_region_curated.csv
+C_ReMap,COL3A1 promoter: ETS1 ReMap 2022 peaks,0 peaks,seqreg_remap_tf_by_region_curated.csv
+C_ReMap,COL3A1 promoter: TFs most over-represented vs 289 random promoters,"MED12 9 vs 2.042 (p=0.0346, BH q=0.532); CDK8 11 vs 5.689 (p=0.173, BH q=0.869); GATA2 8 vs 6.502 (p=0.3391, BH q=0.869)",seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_fibroblast,COL1A1: NF-kB-family ReMap peaks in fibroblast/mesenchymal biotypes within +/-100 kb,"9 peaks, all RELA, datasets ['GSE43070', 'GSE77225']; distances to TSS [-20798, -17308, -8861, -8049, -2566, 52210, 60928, 65562, 66695]; 4 contain a kB consensus at p<1e-4",seqreg_rela_fibroblast_peaks.csv
+C_ReMap_fibroblast,COL3A1: NF-kB-family ReMap peaks in fibroblast/mesenchymal biotypes within +/-100 kb,"11 peaks, all RELA, datasets ['GSE43070', 'GSE77225']; distances to TSS [-90025, -76125, -73306, -10418, 2494, 4055, 4080, 4540, 5146, 9814, 59671]; 6 contain a kB consensus at p<1e-4",seqreg_rela_fibroblast_peaks.csv
+C_ChIPAtlas,hg38_experiments_total,197044,seqreg_chipatlas_inventory.csv
+C_ChIPAtlas,hg38_TF_experiments,33368,seqreg_chipatlas_inventory.csv
+C_ChIPAtlas,hg38_TF_unique_antigens,1851,seqreg_chipatlas_inventory.csv
+C_ChIPAtlas,hg38_TF_experiments_fibroblast_mesenchymal,751,seqreg_chipatlas_inventory.csv
+C_ChIPAtlas,hg38_TF_unique_antigens_fibroblast_mesenchymal,125,seqreg_chipatlas_inventory.csv
+C_ChIPAtlas,NFKB1: ChIP-seq experiments in fibroblast/mesenchymal cell types (hg38),0 experiments in 0 cell types -- NONE EXIST,seqreg_chipatlas_fibroblast_experiments.csv
+C_ChIPAtlas,RELA: ChIP-seq experiments in fibroblast/mesenchymal cell types (hg38),2 experiments in 1 cell types (Lung fibroblasts),seqreg_chipatlas_fibroblast_experiments.csv
+C_ChIPAtlas,SP1: ChIP-seq experiments in fibroblast/mesenchymal cell types (hg38),6 experiments in 1 cell types (Dermal fibroblast),seqreg_chipatlas_fibroblast_experiments.csv
+C_ChIPAtlas,ETS1: ChIP-seq experiments in fibroblast/mesenchymal cell types (hg38),0 experiments in 0 cell types -- NONE EXIST,seqreg_chipatlas_fibroblast_experiments.csv
+C_ChIPAtlas,COL1A1: TFs with a ChIP-Atlas peak within +/-1 kb of the TSS,"599 distinct antigens, 3765 experiments; 31 antigens with a fibroblast/mesenchymal experiment",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-1 kb: NFKB1,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-1 kb: RELA,"16 experiments in 11 cell types, max MACS2 -log10Q 421.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-1 kb: SP1,"10 experiments in 7 cell types, max MACS2 -log10Q 465.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-1 kb: ETS1,"5 experiments in 4 cell types, max MACS2 -log10Q 129.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1: TFs with a ChIP-Atlas peak within +/-5 kb of the TSS,"692 distinct antigens, 5067 experiments; 44 antigens with a fibroblast/mesenchymal experiment",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-5 kb: NFKB1,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-5 kb: RELA,"31 experiments in 16 cell types, max MACS2 -log10Q 421.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-5 kb: SP1,"15 experiments in 9 cell types, max MACS2 -log10Q 881.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL1A1 +/-5 kb: ETS1,"6 experiments in 5 cell types, max MACS2 -log10Q 154.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1: TFs with a ChIP-Atlas peak within +/-1 kb of the TSS,"43 distinct antigens, 152 experiments; 9 antigens with a fibroblast/mesenchymal experiment",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-1 kb: NFKB1,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-1 kb: RELA,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-1 kb: SP1,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-1 kb: ETS1,no peak,seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1: TFs with a ChIP-Atlas peak within +/-5 kb of the TSS,"271 distinct antigens, 2009 experiments; 31 antigens with a fibroblast/mesenchymal experiment",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-5 kb: NFKB1,"3 experiments in 3 cell types, max MACS2 -log10Q 318.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-5 kb: RELA,"70 experiments in 18 cell types, max MACS2 -log10Q 2345.0, fibroblast experiments 1 [Lung_fibroblasts]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-5 kb: SP1,"5 experiments in 4 cell types, max MACS2 -log10Q 213.0, fibroblast experiments 0 [nan]",seqreg_chipatlas_tf_summary.csv
+C_ChIPAtlas,COL3A1 +/-5 kb: ETS1,no peak,seqreg_chipatlas_tf_summary.csv
+C_promoter_architecture,COL1A1 promoter TSS-1000..+500,"GC 0.586 (56.7th pct of 3,000 random promoters); CpG o/e 0.383 (24.1th pct); CpG island overlap: chr17:50199516-50201370(obsExp=0.75,perGc=59.7,len=1854); cCREs: EH38E1869784:pELS,CTCF-bound;EH38E1869785:pELS,CTCF-bound;EH38E1869786:PLS,CTCF-bound;EH38E1869787:pELS,CTCF-bound",seqreg_promoter_architecture.csv
+C_promoter_architecture,COL3A1 promoter TSS-1000..+500,"GC 0.362 (2.9th pct of 3,000 random promoters); CpG o/e 0.226 (13.3th pct); CpG island overlap: nan; cCREs: EH38E2059831:pELS;EH38E2059832:PLS,CTCF-bound;EH38E2059833:pELS",seqreg_promoter_architecture.csv
+C_promoter_architecture,MIR29A promoter TSS-1000..+500,"GC 0.409 (7.8th pct of 3,000 random promoters); CpG o/e 0.208 (11.7th pct); CpG island overlap: nan; cCREs: EH38E2590624:pELS,CTCF-bound;EH38E2590625:pELS,CTCF-bound;EH38E2590626:pELS;EH38E2590627:pELS",seqreg_promoter_architecture.csv
+C_promoter_architecture,MIR29B1 promoter TSS-1000..+500,"GC 0.399 (6.2th pct of 3,000 random promoters); CpG o/e 0.285 (18.5th pct); CpG island overlap: nan; cCREs: EH38E2590626:pELS;EH38E2590627:pELS;EH38E2590628:pELS",seqreg_promoter_architecture.csv
+C_promoter_architecture,MIR29C promoter TSS-1000..+500,"GC 0.423 (9.3th pct of 3,000 random promoters); CpG o/e 0.212 (12.1th pct); CpG island overlap: nan; cCREs: nan",seqreg_promoter_architecture.csv
+C_promoter_architecture,MIR29B2 promoter TSS-1000..+500,"GC 0.409 (7.6th pct of 3,000 random promoters); CpG o/e 0.195 (9.9th pct); CpG island overlap: nan; cCREs: nan",seqreg_promoter_architecture.csv
+C_promoter_architecture,MIR29B2CHG promoter TSS-1000..+500,"GC 0.515 (26.4th pct of 3,000 random promoters); CpG o/e 0.268 (17.1th pct); CpG island overlap: nan; cCREs: EH38E1417233:dELS,CTCF-bound;EH38E1417234:dELS,CTCF-bound;EH38E1417235:dELS,CTCF-bound",seqreg_promoter_architecture.csv
+C_promoter_architecture,LINC_PINT_prox promoter TSS-1000..+500,"GC 0.432 (10.4th pct of 3,000 random promoters); CpG o/e 0.430 (26.0th pct); CpG island overlap: nan; cCREs: EH38E2590691:pELS,CTCF-bound;EH38E2590692:pELS;EH38E2590693:PLS;EH38E2590694:PLS,CTCF-bound;EH38E2590695:pELS;EH38E2590696:pELS",seqreg_promoter_architecture.csv
+C_GTEx,COL1A1: independent cis-eQTL in Breast_Mammary_Tissue,False (signal present in 19 other GTEx v8 tissues),seqreg_gtex_breast_fibroblast_negatives.csv
+C_GTEx,COL1A1: independent cis-eQTL in Cells_Cultured_fibroblasts,False (signal present in 19 other GTEx v8 tissues),seqreg_gtex_breast_fibroblast_negatives.csv
+C_GTEx,COL3A1: independent cis-eQTL in Breast_Mammary_Tissue,False (signal present in 7 other GTEx v8 tissues),seqreg_gtex_breast_fibroblast_negatives.csv
+C_GTEx,COL3A1: independent cis-eQTL in Cells_Cultured_fibroblasts,False (signal present in 7 other GTEx v8 tissues),seqreg_gtex_breast_fibroblast_negatives.csv
+C_GTEx,COL1A1/COL3A1 eQTL or fine-mapped variants within 2 kb of the TSS,0 of 62 (within 10 kb: 34),seqreg_gtex_collagen_variants.csv
+C_GTEx,sQTLs for COL1A1/COL3A1 in breast or cultured fibroblasts,0,seqreg_gtex_sqtl.csv
+C_motif,COL1A1 promoter: NF-kB family motif sites (FIMO-equivalent p<1e-4),total 4 across 9 matrices; best empirical p vs GC-matched promoters 0.299 (BH q 1.00); matrices with 0 sites: 5/9,seqreg_motif_focus_calibrated_BH.csv
+C_motif,COL1A1 promoter: SP family motif sites (FIMO-equivalent p<1e-4),total 15 across 6 matrices; best empirical p vs GC-matched promoters 0.370 (BH q 1.00); matrices with 0 sites: 1/6,seqreg_motif_focus_calibrated_BH.csv
+C_motif,COL1A1 promoter: ETS family motif sites (FIMO-equivalent p<1e-4),total 3 across 10 matrices; best empirical p vs GC-matched promoters 0.539 (BH q 1.00); matrices with 0 sites: 7/10,seqreg_motif_focus_calibrated_BH.csv
+C_motif,COL3A1 promoter: NF-kB family motif sites (FIMO-equivalent p<1e-4),total 3 across 9 matrices; best empirical p vs GC-matched promoters 0.212 (BH q 1.00); matrices with 0 sites: 7/9,seqreg_motif_focus_calibrated_BH.csv
+C_motif,COL3A1 promoter: SP family motif sites (FIMO-equivalent p<1e-4),total 0 across 6 matrices; best empirical p vs GC-matched promoters 1.000 (BH q 1.00); matrices with 0 sites: 6/6,seqreg_motif_focus_calibrated_BH.csv
+C_motif,COL3A1 promoter: ETS family motif sites (FIMO-equivalent p<1e-4),total 7 across 10 matrices; best empirical p vs GC-matched promoters 0.093 (BH q 1.00); matrices with 0 sites: 8/10,seqreg_motif_focus_calibrated_BH.csv
+C_motif,MIR29B2CHG promoter: NF-kB family motif sites (FIMO-equivalent p<1e-4),total 13 across 9 matrices; best empirical p vs GC-matched promoters 0.010 (BH q 1.00); matrices with 0 sites: 3/9,seqreg_motif_focus_calibrated_BH.csv
+C_motif,MIR29B2CHG promoter: SP family motif sites (FIMO-equivalent p<1e-4),total 0 across 6 matrices; best empirical p vs GC-matched promoters 1.000 (BH q 1.00); matrices with 0 sites: 6/6,seqreg_motif_focus_calibrated_BH.csv
+C_motif,MIR29B2CHG promoter: ETS family motif sites (FIMO-equivalent p<1e-4),total 6 across 10 matrices; best empirical p vs GC-matched promoters 0.191 (BH q 1.00); matrices with 0 sites: 7/10,seqreg_motif_focus_calibrated_BH.csv
+C_motif,LINC_PINT_prox promoter: NF-kB family motif sites (FIMO-equivalent p<1e-4),total 4 across 9 matrices; best empirical p vs GC-matched promoters 0.259 (BH q 1.00); matrices with 0 sites: 5/9,seqreg_motif_focus_calibrated_BH.csv
+C_motif,LINC_PINT_prox promoter: SP family motif sites (FIMO-equivalent p<1e-4),total 1 across 6 matrices; best empirical p vs GC-matched promoters 0.277 (BH q 1.00); matrices with 0 sites: 5/6,seqreg_motif_focus_calibrated_BH.csv
+C_motif,LINC_PINT_prox promoter: ETS family motif sites (FIMO-equivalent p<1e-4),total 15 across 10 matrices; best empirical p vs GC-matched promoters 0.040 (BH q 1.00); matrices with 0 sites: 0/10,seqreg_motif_focus_calibrated_BH.csv
+C_motif,multiple-testing note,200 tests (25 matrices x 8 promoters); nothing survives BH at q<0.25,seqreg_motif_focus_calibrated_BH.csv
+B_Enformer_ISM,COL1A1: the six most load-bearing promoter positions and the motifs covering them,"TSS-99 (max|d|=28.6, best motif NFYB_HUMAN.H11MO.0.A p=1.5e-08); TSS-97 (max|d|=27.3, best motif NFYB_HUMAN.H11MO.0.A p=1.5e-08); TSS-101 (max|d|=25.4, best motif NFYB_HUMAN.H11MO.0.A p=1.5e-08); TSS-100 (max|d|=23.5, best motif NFYB_HUMAN.H11MO.0.A p=1.5e-08); TSS-8 (max|d|=21.3, best motif nan p=nan); TSS-98 (max|d|=19.2, best motif NFYB_HUMAN.H11MO.0.A p=1.5e-08)",seqreg_enformer_ism_by_position.csv
+B_Enformer_ISM,COL3A1: the six most load-bearing promoter positions and the motifs covering them,"TSS-62 (max|d|=31.2, best motif MA1600.2|ZNF684 p=1.5e-05); TSS+75 (max|d|=27.7, best motif BC11A_HUMAN.H11MO.0.A p=7.1e-07); TSS-70 (max|d|=23.3, best motif SIX2_HUMAN.H11MO.0.A p=5.2e-06); TSS-40 (max|d|=23.2, best motif ZN384_HUMAN.H11MO.0.C p=3.1e-06); TSS-78 (max|d|=22.9, best motif SIX2_HUMAN.H11MO.0.A p=5.2e-06); TSS-77 (max|d|=21.8, best motif SIX2_HUMAN.H11MO.0.A p=5.2e-06)",seqreg_enformer_ism_by_position.csv
+C_ReMap_NFkB_context,COL1A1: NF-kB-family ReMap peaks within +/-100 kb,"884 peaks over 39 biotypes; 21 in the promoter (+/-1 kb), of which 0 fibroblast and 1 mesenchymal-lineage; 9 fibroblast peaks in total, 24 mesenchymal-lineage; 56.6% of all peaks come from a cytokine/genotoxin-stimulated condition",seqreg_nfkb_context_summary.csv
+C_ReMap_NFkB_context,COL3A1: NF-kB-family ReMap peaks within +/-100 kb,"281 peaks over 23 biotypes; 3 in the promoter (+/-1 kb), of which 0 fibroblast and 2 mesenchymal-lineage; 11 fibroblast peaks in total, 51 mesenchymal-lineage; 83.6% of all peaks come from a cytokine/genotoxin-stimulated condition",seqreg_nfkb_context_summary.csv
+C_ENCODE_cCRE,COL1A1: ENCODE cCREs within +/-100 kb,"224 total (PLS 11, pELS 65, dELS 141); promoter-like (PLS) element within 2 kb: EH38E1869786@-20(PLS,CTCF-bound)",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,COL3A1: ENCODE cCREs within +/-100 kb,"66 total (PLS 1, pELS 13, dELS 52); promoter-like (PLS) element within 2 kb: EH38E2059832@-11(PLS,CTCF-bound)",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,MIR29A: ENCODE cCREs within +/-100 kb,"195 total (PLS 5, pELS 34, dELS 155); promoter-like (PLS) element within 2 kb: NONE",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,MIR29B1: ENCODE cCREs within +/-100 kb,"195 total (PLS 5, pELS 34, dELS 155); promoter-like (PLS) element within 2 kb: NONE",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,MIR29C: ENCODE cCREs within +/-100 kb,"141 total (PLS 3, pELS 22, dELS 114); promoter-like (PLS) element within 2 kb: NONE",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,MIR29B2: ENCODE cCREs within +/-100 kb,"141 total (PLS 3, pELS 22, dELS 114); promoter-like (PLS) element within 2 kb: NONE",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,MIR29B2CHG: ENCODE cCREs within +/-100 kb,"150 total (PLS 4, pELS 23, dELS 123); promoter-like (PLS) element within 2 kb: NONE",seqreg_ccre_summary.csv
+C_ENCODE_cCRE,LINC_PINT_prox: ENCODE cCREs within +/-100 kb,"224 total (PLS 5, pELS 33, dELS 185); promoter-like (PLS) element within 2 kb: EH38E2590693@124(PLS);EH38E2590694@-153(PLS,CTCF-bound)",seqreg_ccre_summary.csv
+C_ReMap_BH,"COL1A1 promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 217 TFs tested",NONE (minimum BH q = 0.853),seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_BH,"COL3A1 promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 71 TFs tested",NONE (minimum BH q = 0.490),seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_BH,"LINC_PINT_prox promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 469 TFs tested",FOS 24 peaks (fibroblast 1) vs bg mean 3.827 q=0.000; GPS2 2 peaks (fibroblast 0) vs bg mean 0.014 q=0.000; HMGB2 3 peaks (fibroblast 2) vs bg mean 0.042 q=0.000; PRDM1 7 peaks (fibroblast 0) vs bg mean 0.215 q=0.000; NUTM1 5 peaks (fibroblast 0) vs bg mean 0.308 q=0.000; STAT5A 4 peaks (fibroblast 0) vs bg mean 0.266 q=0.000; SRC 4 peaks (fibroblast 0) vs bg mean 0.052 q=0.000; SMARCA2 8 peaks (fibroblast 0) vs bg mean 0.194 q=0.000; ZNF318 2 peaks (fibroblast 0) vs bg mean 0.042 q=0.000; FOSL1 10 peaks (fibroblast 0) vs bg mean 1.502 q=0.164; MYB 15 peaks (fibroblast 0) vs bg mean 4.578 q=0.231; NFATC1 5 peaks (fibroblast 0) vs bg mean 1.26 q=0.231; TCF3-PBX1 1 peaks (fibroblast 0) vs bg mean 0.007 q=0.231; TEAD1 10 peaks (fibroblast 0) vs bg mean 1.415 q=0.231,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_BH,"MIR29B2CHG promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 195 TFs tested",NONE (minimum BH q = 0.833),seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_BH,"MIR29A promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 50 TFs tested",E2F7 6 peaks (fibroblast 6) vs bg mean 0.353 q=0.000; LHX2 2 peaks (fibroblast 0) vs bg mean 0.007 q=0.000,seqreg_remap_promoter_tfs_calibrated.csv
+C_ReMap_BH,"MIR29B1 promoter: TFs over-represented vs 289 random promoters after BH (q<0.25), 49 TFs tested",CHD7 3 peaks (fibroblast 0) vs bg mean 0.311 q=0.169; LHX2 1 peaks (fibroblast 0) vs bg mean 0.007 q=0.169; ZNF205 1 peaks (fibroblast 0) vs bg mean 0.014 q=0.225,seqreg_remap_promoter_tfs_calibrated.csv
+D_network_edges,network edge ETS1 -> COL1A1: sequence-level support,"ReMap promoter peaks 4 (fibroblast 0), locus +/-100 kb 314 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 1; Enformer tracks 5 (median pct 29.1); Borzoi tracks 5 (median pct 40.5)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge MKL1 -> COL1A1: sequence-level support,"ReMap promoter peaks 0 (fibroblast 0), locus +/-100 kb 3 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 0; Enformer tracks 0 (median pct nan); Borzoi tracks 0 (median pct nan)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge MYB -> COL1A1: sequence-level support,"ReMap promoter peaks 0 (fibroblast 0), locus +/-100 kb 81 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 0; Enformer tracks 1 (median pct 37.7); Borzoi tracks 2 (median pct 43.2)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge NFKB1 -> COL1A1: sequence-level support,"ReMap promoter peaks 1 (fibroblast 0), locus +/-100 kb 98 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 2; Enformer tracks 0 (median pct nan); Borzoi tracks 0 (median pct nan)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge RELA -> COL1A1: sequence-level support,"ReMap promoter peaks 5 (fibroblast 0), locus +/-100 kb 748 (fibroblast 9); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 2; promoter motif sites p<1e-4: 0; Enformer tracks 0 (median pct nan); Borzoi tracks 1 (median pct 44.0)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge SP1 -> COL1A1: sequence-level support,"ReMap promoter peaks 2 (fibroblast 0), locus +/-100 kb 136 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 6; promoter motif sites p<1e-4: 5; Enformer tracks 9 (median pct 33.0); Borzoi tracks 10 (median pct 39.5)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge STAT6 -> COL1A1: sequence-level support,"ReMap promoter peaks 0 (fibroblast 0), locus +/-100 kb 0 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 1; Enformer tracks 0 (median pct nan); Borzoi tracks 0 (median pct nan)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,network edge TFAP2A -> COL1A1: sequence-level support,"ReMap promoter peaks 0 (fibroblast 0), locus +/-100 kb 16 (fibroblast 0); ChIP-Atlas fibroblast/mesenchymal experiments for this factor anywhere in the genome: 0; promoter motif sites p<1e-4: 0; Enformer tracks 0 (median pct nan); Borzoi tracks 1 (median pct 36.0)",seqreg_network_tf_collagen_edges.csv
+D_network_edges,TF_target edges into COL3A1 in data/canonical_edges.tsv,0 (all 8 TF->collagen edges are into COL1A1),data/canonical_edges.tsv
+E_caveats,ChIP-Atlas target-gene files that could not be fetched,"203 of 3,702 TF x distance requests (115 distinct antigens), including MKL1/MRTFA (HTTP 404)",seqreg_chipatlas_fetch_errors.csv
+E_caveats,ReMap peaks served by UCSC carry score 0,"peak scores are not available in the UCSC-hosted reMap2022.bb; only presence, TF and biotype were used",cache/seqreg/remap2022_hg38_loci.bed
+E_caveats,ISM allele convention,"ref_base/alt_base are plus-strand alleles at genome_pos; rel_to_TSS is in transcription orientation; all 1,000 positions verified against hg38",seqreg_enformer_ism_conventions.csv

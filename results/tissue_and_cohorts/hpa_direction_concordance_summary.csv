@@ -1,0 +1,9 @@
+"cohort","hpa_call","n","n_concordant","pct","binom_p"
+"METABRIC","prognostic",562,465,82.7,1.38283371994247e-58
+"TCGA-BRCA","prognostic",517,451,87.2,1.6150362031514e-71
+"METABRIC","unprognostic",15859,9765,61.6,2.15500736725264e-188
+"TCGA-BRCA","unprognostic",14424,9209,63.8,1.53121021398735e-245
+"METABRIC","prognostic & our p<0.01",209,204,97.6,7.88950600606942e-54
+"TCGA-BRCA","prognostic & our p<0.01",206,205,99.5,4.02551300786653e-60
+"METABRIC","unprognostic & our p<0.01",3363,2637,78.4,1.49652846919898e-252
+"TCGA-BRCA","unprognostic & our p<0.01",2427,1901,78.3,1.30586657589655e-181

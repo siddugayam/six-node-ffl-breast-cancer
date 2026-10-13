@@ -1,0 +1,10 @@
+threshold_kb,criterion,n_edges_total,n_edges_testable,n_supported,frac_of_testable,frac_of_all_770
+1,bound_any,770,753,542,0.7198,0.7039
+1,bound_reproducible,770,753,441,0.5857,0.5727
+1,bound_strong,770,753,198,0.2629,0.2571
+5,bound_any,770,753,599,0.7955,0.7779
+5,bound_reproducible,770,753,514,0.6826,0.6675
+5,bound_strong,770,753,285,0.3785,0.3701
+10,bound_any,770,755,618,0.8185,0.8026
+10,bound_reproducible,770,755,538,0.7126,0.6987
+10,bound_strong,770,755,330,0.4371,0.4286

@@ -1,0 +1,8 @@
+comparison,group1,n1,median1,mean1,group2,n2,median2,mean2,statistic,p_value,test
+hub vs non-hub (network protein nodes),hub,50,-0.0518139856370921,-0.114861945183879,non-hub,310,-0.0327294569632222,-0.0885697069296406,7429,0.63881763960523,Wilcoxon rank-sum (two-sided)
+hub vs non-hub (fraction breast lines essential),hub,50,0,0.0815094339622642,non-hub,310,0,0.064232095759789,8699.5,0.109834431227739,Wilcoxon rank-sum (two-sided)
+"higher-order-only nodes vs 3-node-FFL nodes (mean Chronos, breast)",higher_order_only,104,-0.0456819290712691,-0.0971658876373972,in_3node_FFL,203,-0.0387476941845399,-0.105084508281553,10278,0.706191529838483,Wilcoxon rank-sum (two-sided)
+higher-order-only vs 3-node-FFL (fraction breast lines essential),higher_order_only,104,0,0.0662947508466376,in_3node_FFL,203,0,0.0731403166341358,10890.5,0.603458264651094,Wilcoxon rank-sum (two-sided)
+members of N6 modules vs members of N3 modules (overlapping sets),N6,307,-0.0400902679004403,-0.102401978812523,N3,203,-0.0387476941845399,-0.105084508281553,30882.5,0.86473926858763,Wilcoxon rank-sum (two-sided)
+manuscript 10-node module vs all other network protein nodes,MS_module,5,-0.0630665561278236,-0.119534168117523,other,355,-0.0358961876713291,-0.0918367199064645,732,0.502371085630652,Wilcoxon rank-sum (two-sided)
+network protein nodes vs all other genes genome-wide (breast lines),network,360,-0.0364687457712984,-0.0922214066871737,genome_background,18075,-0.0351742720557914,-0.147958505150728,3345787,0.356003501110554,Wilcoxon rank-sum (two-sided)

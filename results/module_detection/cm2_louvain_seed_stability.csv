@@ -1,0 +1,5 @@
+pair,frac_of_50_seeds
+COL1A1-COL3A1,0.96
+COL1A1-miR-29a,0.96
+COL3A1-miR-29a,1
+all three,0.96

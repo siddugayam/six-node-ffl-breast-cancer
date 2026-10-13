@@ -1,0 +1,4 @@
+a,b,n_runs,n_together,runs_together
+COL1A1,COL3A1,16,11,Louvain;Infomap;LabelProp;FastGreedy;cm2_Louvain;cm2_FastGreedy;cm2_Infomap;cm2_LabelProp;cm2_GLay;Leiden;LeadingEigen
+COL1A1,hsa-miR-29a,16,11,Louvain;Infomap;LabelProp;FastGreedy;cm2_Louvain;cm2_FastGreedy;cm2_Infomap;cm2_LabelProp;cm2_GLay;Leiden;LeadingEigen
+COL3A1,hsa-miR-29a,16,14,MCL;Louvain;Infomap;LabelProp;FastGreedy;cm2_MCL;cm2_Louvain;cm2_FastGreedy;cm2_Infomap;cm2_LabelProp;cm2_GLay;Leiden;LeadingEigen;MCL2

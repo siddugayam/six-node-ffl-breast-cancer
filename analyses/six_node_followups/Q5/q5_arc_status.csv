@@ -1,0 +1,2793 @@
+source,target,direction,reciprocal,filter_status
+AHR,hsa-miR-106b,TF->miRNA,True,retained
+APEX1,hsa-miR-133b,TF->miRNA,True,"tested, not retained"
+AR,hsa-let-7a,TF->miRNA,True,retained
+AR,hsa-let-7c,TF->miRNA,True,retained
+AR,hsa-miR-101,TF->miRNA,True,retained
+AR,hsa-miR-133b,TF->miRNA,True,retained
+AR,hsa-miR-145,TF->miRNA,True,retained
+AR,hsa-miR-17,TF->miRNA,True,retained
+AR,hsa-miR-182,TF->miRNA,True,retained
+AR,hsa-miR-18a,TF->miRNA,True,retained
+AR,hsa-miR-190a,TF->miRNA,True,retained
+AR,hsa-miR-19a,TF->miRNA,True,retained
+AR,hsa-miR-20a,TF->miRNA,True,retained
+AR,hsa-miR-21,TF->miRNA,True,retained
+AR,hsa-miR-216a,TF->miRNA,True,retained
+AR,hsa-miR-27a,TF->miRNA,True,retained
+AR,hsa-miR-32,TF->miRNA,True,retained
+AR,hsa-miR-539,TF->miRNA,True,retained
+AR,hsa-miR-92a,TF->miRNA,True,retained
+AR,hsa-miR-99a,TF->miRNA,True,retained
+ARNT,hsa-miR-101,TF->miRNA,True,"tested, not retained"
+ARNT,hsa-miR-106b,TF->miRNA,True,"tested, not retained"
+ARNT,hsa-miR-25,TF->miRNA,True,"tested, not retained"
+ARNT,hsa-miR-93,TF->miRNA,True,"tested, not retained"
+ATF3,hsa-miR-590,TF->miRNA,True,retained
+ATF4,hsa-miR-106b,TF->miRNA,True,retained
+ATF4,hsa-miR-25,TF->miRNA,True,retained
+ATF4,hsa-miR-93,TF->miRNA,True,retained
+BCL6,hsa-miR-155,TF->miRNA,True,retained
+BCL6,hsa-miR-361,TF->miRNA,True,retained
+BMI1,hsa-let-7i,TF->miRNA,True,"tested, not retained"
+BMI1,hsa-miR-141,TF->miRNA,True,"tested, not retained"
+BMI1,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+BMI1,hsa-miR-31,TF->miRNA,True,"tested, not retained"
+BRCA1,hsa-miR-146a,TF->miRNA,True,retained
+BRCA1,hsa-miR-146b,TF->miRNA,True,retained
+BRCA1,hsa-miR-152,TF->miRNA,True,retained
+BRCA1,hsa-miR-155,TF->miRNA,True,retained
+BRCA1,hsa-miR-205,TF->miRNA,True,retained
+BRCA1,hsa-miR-99b,TF->miRNA,True,retained
+CDX1,hsa-miR-215,TF->miRNA,True,"tested, not retained"
+CDX2,hsa-miR-125b,TF->miRNA,True,retained
+CEBPA,hsa-miR-100,TF->miRNA,True,retained
+CEBPA,hsa-miR-122,TF->miRNA,True,retained
+CEBPA,hsa-miR-134,TF->miRNA,True,retained
+CEBPA,hsa-miR-181a,TF->miRNA,True,retained
+CEBPA,hsa-miR-182,TF->miRNA,True,retained
+CEBPA,hsa-miR-223,TF->miRNA,True,retained
+CEBPA,hsa-miR-26a,TF->miRNA,True,retained
+CEBPA,hsa-miR-29a,TF->miRNA,True,retained
+CEBPA,hsa-miR-29b,TF->miRNA,True,retained
+CEBPA,hsa-miR-34a,TF->miRNA,True,retained
+CEBPB,hsa-miR-143,TF->miRNA,True,retained
+CEBPB,hsa-miR-145,TF->miRNA,True,retained
+CEBPB,hsa-miR-146b,TF->miRNA,True,retained
+CEBPB,hsa-miR-17,TF->miRNA,True,retained
+CEBPB,hsa-miR-181c,TF->miRNA,True,retained
+CEBPB,hsa-miR-18a,TF->miRNA,True,retained
+CEBPB,hsa-miR-19a,TF->miRNA,True,retained
+CEBPB,hsa-miR-203,TF->miRNA,False,retained
+CEBPB,hsa-miR-20a,TF->miRNA,True,retained
+CEBPB,hsa-miR-223,TF->miRNA,True,retained
+CEBPB,hsa-miR-31,TF->miRNA,True,retained
+CEBPB,hsa-miR-424,TF->miRNA,True,retained
+CEBPB,hsa-miR-503,TF->miRNA,True,retained
+CEBPB,hsa-miR-542,TF->miRNA,True,retained
+CEBPB,hsa-miR-92a,TF->miRNA,True,retained
+CEBPD,hsa-miR-135a,TF->miRNA,True,retained
+CEBPD,hsa-miR-193b,TF->miRNA,True,retained
+CREB1,hsa-miR-132,TF->miRNA,True,retained
+CREB1,hsa-miR-148a,TF->miRNA,True,retained
+CREB1,hsa-miR-15b,TF->miRNA,True,retained
+CREB1,hsa-miR-21,TF->miRNA,True,retained
+CREB1,hsa-miR-212,TF->miRNA,True,retained
+CREB1,hsa-miR-23a,TF->miRNA,True,retained
+CREB1,hsa-miR-302a,TF->miRNA,True,retained
+CREB1,hsa-miR-320a,TF->miRNA,True,retained
+CREB1,hsa-miR-335,TF->miRNA,True,retained
+CREB1,hsa-miR-373,TF->miRNA,True,retained
+CREB1,hsa-miR-9,TF->miRNA,True,retained
+CREBBP,hsa-miR-21,TF->miRNA,True,retained
+CTCF,hsa-miR-375,TF->miRNA,True,"tested, not retained"
+CTNNB1,hsa-miR-124,TF->miRNA,True,retained
+CTNNB1,hsa-miR-146a,TF->miRNA,True,retained
+CTNNB1,hsa-miR-150,TF->miRNA,True,retained
+CTNNB1,hsa-miR-182,TF->miRNA,True,retained
+CTNNB1,hsa-miR-183,TF->miRNA,True,retained
+CTNNB1,hsa-miR-199a,TF->miRNA,True,retained
+CTNNB1,hsa-miR-203,TF->miRNA,False,retained
+CTNNB1,hsa-miR-30e,TF->miRNA,True,retained
+CTNNB1,hsa-miR-34a,TF->miRNA,True,retained
+CTNNB1,hsa-miR-372,TF->miRNA,True,retained
+CTNNB1,hsa-miR-373,TF->miRNA,True,retained
+CTNNB1,hsa-miR-96,TF->miRNA,True,retained
+CUX1,hsa-miR-214,TF->miRNA,True,"tested, not retained"
+DDIT3,hsa-miR-708,TF->miRNA,True,retained
+DNMT1,hsa-miR-142,TF->miRNA,True,retained
+DNMT1,hsa-miR-148a,TF->miRNA,True,retained
+DNMT1,hsa-miR-150,TF->miRNA,True,retained
+DNMT1,hsa-miR-152,TF->miRNA,True,retained
+DNMT1,hsa-miR-200a,TF->miRNA,True,retained
+DNMT1,hsa-miR-200b,TF->miRNA,True,retained
+DNMT1,hsa-miR-218,TF->miRNA,True,retained
+DNMT1,hsa-miR-23b,TF->miRNA,True,retained
+DNMT1,hsa-miR-27b,TF->miRNA,True,retained
+DNMT1,hsa-miR-296,TF->miRNA,True,retained
+DNMT1,hsa-miR-30a,TF->miRNA,True,retained
+DNMT1,hsa-miR-30c,TF->miRNA,True,retained
+DNMT1,hsa-miR-429,TF->miRNA,True,retained
+E2F1,hsa-let-7a,TF->miRNA,True,retained
+E2F1,hsa-let-7i,TF->miRNA,True,retained
+E2F1,hsa-miR-106a,TF->miRNA,True,retained
+E2F1,hsa-miR-106b,TF->miRNA,True,retained
+E2F1,hsa-miR-15a,TF->miRNA,True,retained
+E2F1,hsa-miR-15b,TF->miRNA,True,retained
+E2F1,hsa-miR-16,TF->miRNA,True,retained
+E2F1,hsa-miR-17,TF->miRNA,True,retained
+E2F1,hsa-miR-18a,TF->miRNA,True,retained
+E2F1,hsa-miR-18b,TF->miRNA,True,retained
+E2F1,hsa-miR-195,TF->miRNA,True,retained
+E2F1,hsa-miR-19a,TF->miRNA,True,retained
+E2F1,hsa-miR-19b,TF->miRNA,True,retained
+E2F1,hsa-miR-202,TF->miRNA,True,retained
+E2F1,hsa-miR-203,TF->miRNA,False,retained
+E2F1,hsa-miR-20a,TF->miRNA,True,retained
+E2F1,hsa-miR-20b,TF->miRNA,True,retained
+E2F1,hsa-miR-223,TF->miRNA,True,retained
+E2F1,hsa-miR-224,TF->miRNA,True,retained
+E2F1,hsa-miR-23b,TF->miRNA,True,retained
+E2F1,hsa-miR-25,TF->miRNA,True,retained
+E2F1,hsa-miR-27b,TF->miRNA,True,retained
+E2F1,hsa-miR-29a,TF->miRNA,True,retained
+E2F1,hsa-miR-34c,TF->miRNA,True,retained
+E2F1,hsa-miR-363,TF->miRNA,True,retained
+E2F1,hsa-miR-449a,TF->miRNA,True,retained
+E2F1,hsa-miR-449b,TF->miRNA,True,retained
+E2F1,hsa-miR-452,TF->miRNA,True,retained
+E2F1,hsa-miR-519d,TF->miRNA,True,retained
+E2F1,hsa-miR-7,TF->miRNA,True,retained
+E2F1,hsa-miR-92a,TF->miRNA,True,retained
+E2F1,hsa-miR-93,TF->miRNA,True,retained
+E2F3,hsa-let-7a,TF->miRNA,True,retained
+E2F3,hsa-let-7i,TF->miRNA,True,retained
+E2F3,hsa-miR-106b,TF->miRNA,True,retained
+E2F3,hsa-miR-15a,TF->miRNA,True,retained
+E2F3,hsa-miR-15b,TF->miRNA,True,retained
+E2F3,hsa-miR-16,TF->miRNA,True,retained
+E2F3,hsa-miR-17,TF->miRNA,True,retained
+E2F3,hsa-miR-18a,TF->miRNA,True,retained
+E2F3,hsa-miR-195,TF->miRNA,True,retained
+E2F3,hsa-miR-19a,TF->miRNA,True,retained
+E2F3,hsa-miR-200b,TF->miRNA,True,retained
+E2F3,hsa-miR-20a,TF->miRNA,True,retained
+E2F3,hsa-miR-25,TF->miRNA,True,retained
+E2F3,hsa-miR-26a,TF->miRNA,True,retained
+E2F3,hsa-miR-27b,TF->miRNA,True,retained
+E2F3,hsa-miR-34a,TF->miRNA,True,retained
+E2F3,hsa-miR-7,TF->miRNA,True,retained
+E2F3,hsa-miR-92a,TF->miRNA,True,retained
+EGR1,hsa-let-7e,TF->miRNA,True,retained
+EGR1,hsa-miR-106a,TF->miRNA,True,retained
+EGR1,hsa-miR-10a,TF->miRNA,True,retained
+EGR1,hsa-miR-124,TF->miRNA,True,retained
+EGR1,hsa-miR-125a,TF->miRNA,True,retained
+EGR1,hsa-miR-130b,TF->miRNA,True,retained
+EGR1,hsa-miR-132,TF->miRNA,True,retained
+EGR1,hsa-miR-142,TF->miRNA,True,retained
+EGR1,hsa-miR-146b,TF->miRNA,True,retained
+EGR1,hsa-miR-148a,TF->miRNA,True,retained
+EGR1,hsa-miR-149,TF->miRNA,True,retained
+EGR1,hsa-miR-152,TF->miRNA,True,retained
+EGR1,hsa-miR-181c,TF->miRNA,True,retained
+EGR1,hsa-miR-181d,TF->miRNA,True,retained
+EGR1,hsa-miR-183,TF->miRNA,True,retained
+EGR1,hsa-miR-185,TF->miRNA,True,retained
+EGR1,hsa-miR-191,TF->miRNA,True,retained
+EGR1,hsa-miR-200b,TF->miRNA,True,retained
+EGR1,hsa-miR-20b,TF->miRNA,True,retained
+EGR1,hsa-miR-212,TF->miRNA,True,retained
+EGR1,hsa-miR-214,TF->miRNA,True,retained
+EGR1,hsa-miR-219a,TF->miRNA,True,retained
+EGR1,hsa-miR-23a,TF->miRNA,True,retained
+EGR1,hsa-miR-27a,TF->miRNA,True,retained
+EGR1,hsa-miR-301b,TF->miRNA,True,retained
+EGR1,hsa-miR-30a,TF->miRNA,True,retained
+EGR1,hsa-miR-30c,TF->miRNA,True,retained
+EGR1,hsa-miR-30e,TF->miRNA,True,retained
+EGR1,hsa-miR-32,TF->miRNA,True,retained
+EGR1,hsa-miR-335,TF->miRNA,True,retained
+EGR1,hsa-miR-425,TF->miRNA,True,retained
+EGR1,hsa-miR-455,TF->miRNA,True,retained
+EGR1,hsa-miR-92b,TF->miRNA,True,retained
+EGR1,hsa-miR-96,TF->miRNA,True,retained
+EGR1,hsa-miR-99b,TF->miRNA,True,retained
+EGR2,hsa-miR-142,TF->miRNA,True,retained
+EGR3,hsa-miR-146a,TF->miRNA,True,"tested, not retained"
+EGR3,hsa-miR-146b,TF->miRNA,True,"tested, not retained"
+EGR3,hsa-miR-195,TF->miRNA,True,"tested, not retained"
+ELK1,hsa-miR-144,TF->miRNA,True,retained
+ELK1,hsa-miR-17,TF->miRNA,True,retained
+ELK1,hsa-miR-18a,TF->miRNA,True,retained
+ELK1,hsa-miR-19a,TF->miRNA,True,retained
+ELK1,hsa-miR-200b,TF->miRNA,True,retained
+ELK1,hsa-miR-20a,TF->miRNA,True,retained
+ELK1,hsa-miR-210,TF->miRNA,True,retained
+ELK1,hsa-miR-31,TF->miRNA,True,retained
+ELK1,hsa-miR-34a,TF->miRNA,True,retained
+ELK1,hsa-miR-92a,TF->miRNA,True,retained
+EP300,hsa-miR-141,TF->miRNA,True,retained
+EP300,hsa-miR-150,TF->miRNA,True,retained
+EP300,hsa-miR-200c,TF->miRNA,True,retained
+EP300,hsa-miR-21,TF->miRNA,True,retained
+EPAS1,hsa-miR-146a,TF->miRNA,True,retained
+EPAS1,hsa-miR-181c,TF->miRNA,True,retained
+EPAS1,hsa-miR-191,TF->miRNA,True,retained
+EPAS1,hsa-miR-210,TF->miRNA,True,retained
+EPAS1,hsa-miR-23a,TF->miRNA,True,retained
+EPAS1,hsa-miR-24,TF->miRNA,True,retained
+EPAS1,hsa-miR-27a,TF->miRNA,True,retained
+EPAS1,hsa-miR-29c,TF->miRNA,True,retained
+EPAS1,hsa-miR-30b,TF->miRNA,True,retained
+EPAS1,hsa-miR-30d,TF->miRNA,True,retained
+ERG,hsa-miR-200c,TF->miRNA,True,retained
+ESR1,hsa-let-7c,TF->miRNA,True,retained
+ESR1,hsa-miR-106a,TF->miRNA,True,retained
+ESR1,hsa-miR-125b,TF->miRNA,True,retained
+ESR1,hsa-miR-140,TF->miRNA,True,retained
+ESR1,hsa-miR-143,TF->miRNA,True,retained
+ESR1,hsa-miR-145,TF->miRNA,True,retained
+ESR1,hsa-miR-17,TF->miRNA,True,retained
+ESR1,hsa-miR-181a,TF->miRNA,True,retained
+ESR1,hsa-miR-18a,TF->miRNA,True,retained
+ESR1,hsa-miR-18b,TF->miRNA,True,retained
+ESR1,hsa-miR-191,TF->miRNA,True,retained
+ESR1,hsa-miR-19a,TF->miRNA,True,retained
+ESR1,hsa-miR-19b,TF->miRNA,True,retained
+ESR1,hsa-miR-20a,TF->miRNA,True,retained
+ESR1,hsa-miR-20b,TF->miRNA,True,retained
+ESR1,hsa-miR-21,TF->miRNA,True,retained
+ESR1,hsa-miR-22,TF->miRNA,True,retained
+ESR1,hsa-miR-221,TF->miRNA,True,retained
+ESR1,hsa-miR-222,TF->miRNA,True,retained
+ESR1,hsa-miR-363,TF->miRNA,True,retained
+ESR1,hsa-miR-425,TF->miRNA,True,retained
+ESR1,hsa-miR-497,TF->miRNA,True,retained
+ESR1,hsa-miR-7,TF->miRNA,True,retained
+ESR1,hsa-miR-92a,TF->miRNA,True,retained
+ESR1,hsa-miR-99a,TF->miRNA,True,retained
+ESR2,hsa-miR-23b,TF->miRNA,True,retained
+ESR2,hsa-miR-27b,TF->miRNA,True,retained
+ESR2,hsa-miR-30a,TF->miRNA,True,retained
+ESR2,hsa-miR-7,TF->miRNA,True,retained
+ETS1,hsa-miR-126,TF->miRNA,True,retained
+ETS1,hsa-miR-146a,TF->miRNA,True,retained
+ETS1,hsa-miR-155,TF->miRNA,True,retained
+ETS1,hsa-miR-16,TF->miRNA,True,retained
+ETS1,hsa-miR-181b,TF->miRNA,True,retained
+ETS1,hsa-miR-181c,TF->miRNA,True,retained
+ETS1,hsa-miR-182,TF->miRNA,True,retained
+ETS1,hsa-miR-183,TF->miRNA,True,retained
+ETS1,hsa-miR-192,TF->miRNA,True,retained
+ETS1,hsa-miR-21,TF->miRNA,True,retained
+ETS1,hsa-miR-222,TF->miRNA,True,retained
+ETS1,hsa-miR-31,TF->miRNA,True,retained
+ETS1,hsa-miR-320a,TF->miRNA,True,retained
+ETS1,hsa-miR-96,TF->miRNA,True,retained
+ETS2,hsa-miR-155,TF->miRNA,True,retained
+ETS2,hsa-miR-196b,TF->miRNA,True,retained
+ETV4,hsa-miR-125a,TF->miRNA,True,retained
+ETV4,hsa-miR-200b,TF->miRNA,True,retained
+ETV5,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+EZH2,hsa-let-7c,TF->miRNA,True,retained
+EZH2,hsa-miR-101,TF->miRNA,True,retained
+EZH2,hsa-miR-125b,TF->miRNA,True,retained
+EZH2,hsa-miR-129,TF->miRNA,True,retained
+EZH2,hsa-miR-137,TF->miRNA,True,retained
+EZH2,hsa-miR-139,TF->miRNA,True,retained
+EZH2,hsa-miR-141,TF->miRNA,True,retained
+EZH2,hsa-miR-143,TF->miRNA,True,retained
+EZH2,hsa-miR-146a,TF->miRNA,True,retained
+EZH2,hsa-miR-155,TF->miRNA,True,retained
+EZH2,hsa-miR-181b,TF->miRNA,True,retained
+EZH2,hsa-miR-200a,TF->miRNA,True,retained
+EZH2,hsa-miR-200b,TF->miRNA,True,retained
+EZH2,hsa-miR-200c,TF->miRNA,True,retained
+EZH2,hsa-miR-217,TF->miRNA,True,retained
+EZH2,hsa-miR-218,TF->miRNA,True,retained
+EZH2,hsa-miR-23a,TF->miRNA,True,retained
+EZH2,hsa-miR-26a,TF->miRNA,True,retained
+EZH2,hsa-miR-27a,TF->miRNA,True,retained
+EZH2,hsa-miR-30a,TF->miRNA,True,retained
+EZH2,hsa-miR-30b,TF->miRNA,True,retained
+EZH2,hsa-miR-30d,TF->miRNA,True,retained
+EZH2,hsa-miR-31,TF->miRNA,True,retained
+EZH2,hsa-miR-34a,TF->miRNA,True,retained
+EZH2,hsa-miR-429,TF->miRNA,True,retained
+FLI1,hsa-let-7a,TF->miRNA,True,retained
+FOS,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+FOS,hsa-miR-23a,TF->miRNA,True,"tested, not retained"
+FOS,hsa-miR-31,TF->miRNA,True,"tested, not retained"
+FOS,hsa-miR-34a,TF->miRNA,True,"tested, not retained"
+FOXA2,hsa-miR-122,TF->miRNA,True,retained
+FOXA2,hsa-miR-29a,TF->miRNA,True,retained
+FOXA2,hsa-miR-29b,TF->miRNA,True,retained
+FOXA2,hsa-miR-29c,TF->miRNA,True,retained
+FOXD3,hsa-miR-137,TF->miRNA,True,"tested, not retained"
+FOXD3,hsa-miR-214,TF->miRNA,True,"tested, not retained"
+FOXD3,hsa-miR-496,TF->miRNA,True,"tested, not retained"
+FOXF2,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+FOXF2,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+FOXF2,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+FOXM1,hsa-miR-135b,TF->miRNA,True,retained
+FOXM1,hsa-miR-141,TF->miRNA,True,retained
+FOXM1,hsa-miR-200a,TF->miRNA,True,retained
+FOXM1,hsa-miR-200b,TF->miRNA,True,retained
+FOXM1,hsa-miR-200c,TF->miRNA,True,retained
+FOXM1,hsa-miR-429,TF->miRNA,True,retained
+FOXO1,hsa-miR-145,TF->miRNA,True,retained
+FOXO1,hsa-miR-491,TF->miRNA,True,retained
+FOXO3,hsa-let-7b,TF->miRNA,True,retained
+FOXO3,hsa-let-7c,TF->miRNA,True,retained
+FOXO3,hsa-miR-21,TF->miRNA,True,retained
+FOXO3,hsa-miR-30d,TF->miRNA,True,retained
+FOXO3,hsa-miR-34a,TF->miRNA,True,retained
+FOXO3,hsa-miR-34c,TF->miRNA,True,retained
+GATA1,hsa-miR-144,TF->miRNA,True,retained
+GATA1,hsa-miR-146b,TF->miRNA,True,retained
+GATA1,hsa-miR-148a,TF->miRNA,True,retained
+GATA1,hsa-miR-196b,TF->miRNA,True,retained
+GATA1,hsa-miR-23a,TF->miRNA,True,retained
+GATA1,hsa-miR-27a,TF->miRNA,True,retained
+GATA1,hsa-miR-361,TF->miRNA,True,retained
+GATA1,hsa-miR-431,TF->miRNA,True,retained
+GATA3,hsa-miR-125a,TF->miRNA,True,retained
+GATA3,hsa-miR-138,TF->miRNA,True,retained
+GATA3,hsa-miR-200a,TF->miRNA,True,retained
+GATA3,hsa-miR-200b,TF->miRNA,True,retained
+GATA3,hsa-miR-200c,TF->miRNA,True,retained
+GATA3,hsa-miR-29b,TF->miRNA,True,retained
+GATA4,hsa-miR-144,TF->miRNA,True,retained
+GATA6,hsa-miR-30d,TF->miRNA,True,retained
+GATA6,hsa-miR-30e,TF->miRNA,True,retained
+GLI1,hsa-miR-29a,TF->miRNA,True,retained
+HDAC1,hsa-miR-124,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-146a,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-34a,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-424,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+HDAC1,hsa-miR-503,TF->miRNA,True,"tested, not retained"
+HDAC2,hsa-miR-130a,TF->miRNA,True,retained
+HDAC2,hsa-miR-141,TF->miRNA,True,retained
+HDAC2,hsa-miR-155,TF->miRNA,True,retained
+HDAC2,hsa-miR-182,TF->miRNA,True,retained
+HDAC2,hsa-miR-183,TF->miRNA,True,retained
+HDAC2,hsa-miR-200a,TF->miRNA,True,retained
+HDAC2,hsa-miR-200b,TF->miRNA,True,retained
+HDAC2,hsa-miR-200c,TF->miRNA,True,retained
+HDAC2,hsa-miR-424,TF->miRNA,True,retained
+HDAC2,hsa-miR-429,TF->miRNA,True,retained
+HDAC2,hsa-miR-503,TF->miRNA,True,retained
+HDAC2,hsa-miR-96,TF->miRNA,True,retained
+HDAC3,hsa-miR-181a,TF->miRNA,True,retained
+HDAC3,hsa-miR-195,TF->miRNA,True,retained
+HDAC3,hsa-miR-30d,TF->miRNA,True,retained
+HDAC3,hsa-miR-31,TF->miRNA,True,retained
+HDAC3,hsa-miR-96,TF->miRNA,True,retained
+HDAC4,hsa-miR-155,TF->miRNA,True,retained
+HDAC4,hsa-miR-185,TF->miRNA,True,retained
+HDAC4,hsa-miR-200a,TF->miRNA,True,retained
+HDAC4,hsa-miR-200b,TF->miRNA,True,retained
+HDAC4,hsa-miR-29a,TF->miRNA,True,retained
+HDAC4,hsa-miR-29c,TF->miRNA,True,retained
+HDAC4,hsa-miR-34a,TF->miRNA,True,retained
+HDAC4,hsa-miR-429,TF->miRNA,True,retained
+HDAC9,hsa-miR-376a,TF->miRNA,True,retained
+HES1,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+HES1,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+HES1,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+HES1,hsa-miR-205,TF->miRNA,True,"tested, not retained"
+HES1,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+HES1,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+HEY1,hsa-miR-223,TF->miRNA,True,"tested, not retained"
+HIF1A,hsa-let-7a,TF->miRNA,True,retained
+HIF1A,hsa-let-7e,TF->miRNA,True,retained
+HIF1A,hsa-miR-101,TF->miRNA,True,retained
+HIF1A,hsa-miR-103,TF->miRNA,False,retained
+HIF1A,hsa-miR-107,TF->miRNA,True,retained
+HIF1A,hsa-miR-126,TF->miRNA,True,retained
+HIF1A,hsa-miR-1271,TF->miRNA,True,retained
+HIF1A,hsa-miR-130a,TF->miRNA,True,retained
+HIF1A,hsa-miR-143,TF->miRNA,True,retained
+HIF1A,hsa-miR-145,TF->miRNA,True,retained
+HIF1A,hsa-miR-146a,TF->miRNA,True,retained
+HIF1A,hsa-miR-155,TF->miRNA,True,retained
+HIF1A,hsa-miR-181c,TF->miRNA,True,retained
+HIF1A,hsa-miR-182,TF->miRNA,True,retained
+HIF1A,hsa-miR-183,TF->miRNA,True,retained
+HIF1A,hsa-miR-185,TF->miRNA,True,retained
+HIF1A,hsa-miR-191,TF->miRNA,True,retained
+HIF1A,hsa-miR-193a,TF->miRNA,True,retained
+HIF1A,hsa-miR-204,TF->miRNA,True,retained
+HIF1A,hsa-miR-205,TF->miRNA,True,retained
+HIF1A,hsa-miR-20a,TF->miRNA,True,retained
+HIF1A,hsa-miR-21,TF->miRNA,True,retained
+HIF1A,hsa-miR-210,TF->miRNA,True,retained
+HIF1A,hsa-miR-214,TF->miRNA,True,retained
+HIF1A,hsa-miR-224,TF->miRNA,True,retained
+HIF1A,hsa-miR-23a,TF->miRNA,True,retained
+HIF1A,hsa-miR-23b,TF->miRNA,True,retained
+HIF1A,hsa-miR-24,TF->miRNA,True,retained
+HIF1A,hsa-miR-27a,TF->miRNA,True,retained
+HIF1A,hsa-miR-29c,TF->miRNA,True,retained
+HIF1A,hsa-miR-301a,TF->miRNA,True,retained
+HIF1A,hsa-miR-30b,TF->miRNA,True,retained
+HIF1A,hsa-miR-30d,TF->miRNA,True,retained
+HIF1A,hsa-miR-361,TF->miRNA,True,retained
+HIF1A,hsa-miR-372,TF->miRNA,True,retained
+HIF1A,hsa-miR-373,TF->miRNA,True,retained
+HIF1A,hsa-miR-376c,TF->miRNA,True,retained
+HIF1A,hsa-miR-382,TF->miRNA,True,retained
+HIF1A,hsa-miR-424,TF->miRNA,True,retained
+HIF1A,hsa-miR-429,TF->miRNA,True,retained
+HIF1A,hsa-miR-452,TF->miRNA,True,retained
+HIF1A,hsa-miR-497,TF->miRNA,True,retained
+HIF1A,hsa-miR-96,TF->miRNA,True,retained
+HMGA1,hsa-miR-222,TF->miRNA,True,retained
+HMGA1,hsa-miR-29a,TF->miRNA,True,retained
+HMGA1,hsa-miR-331,TF->miRNA,True,retained
+HNF1A,hsa-miR-122,TF->miRNA,True,retained
+HNF1A,hsa-miR-192,TF->miRNA,True,retained
+HNF1A,hsa-miR-194,TF->miRNA,True,retained
+HNF4A,hsa-miR-1193,TF->miRNA,True,retained
+HNF4A,hsa-miR-1197,TF->miRNA,True,retained
+HNF4A,hsa-miR-122,TF->miRNA,True,retained
+HNF4A,hsa-miR-124,TF->miRNA,True,retained
+HNF4A,hsa-miR-134,TF->miRNA,True,retained
+HNF4A,hsa-miR-150,TF->miRNA,True,retained
+HNF4A,hsa-miR-154,TF->miRNA,True,retained
+HNF4A,hsa-miR-182,TF->miRNA,True,retained
+HNF4A,hsa-miR-183,TF->miRNA,True,retained
+HNF4A,hsa-miR-192,TF->miRNA,True,retained
+HNF4A,hsa-miR-194,TF->miRNA,True,retained
+HNF4A,hsa-miR-200a,TF->miRNA,True,retained
+HNF4A,hsa-miR-200b,TF->miRNA,True,retained
+HNF4A,hsa-miR-200c,TF->miRNA,True,retained
+HNF4A,hsa-miR-299,TF->miRNA,True,retained
+HNF4A,hsa-miR-329,TF->miRNA,False,retained
+HNF4A,hsa-miR-34a,TF->miRNA,True,retained
+HNF4A,hsa-miR-369,TF->miRNA,True,retained
+HNF4A,hsa-miR-376a,TF->miRNA,True,retained
+HNF4A,hsa-miR-376b,TF->miRNA,True,retained
+HNF4A,hsa-miR-376c,TF->miRNA,True,retained
+HNF4A,hsa-miR-377,TF->miRNA,True,retained
+HNF4A,hsa-miR-379,TF->miRNA,True,retained
+HNF4A,hsa-miR-381,TF->miRNA,True,retained
+HNF4A,hsa-miR-382,TF->miRNA,True,retained
+HNF4A,hsa-miR-409,TF->miRNA,True,retained
+HNF4A,hsa-miR-410,TF->miRNA,True,retained
+HNF4A,hsa-miR-411,TF->miRNA,True,retained
+HNF4A,hsa-miR-485,TF->miRNA,True,retained
+HNF4A,hsa-miR-487,TF->miRNA,False,none
+HNF4A,hsa-miR-494,TF->miRNA,True,retained
+HNF4A,hsa-miR-495,TF->miRNA,True,retained
+HNF4A,hsa-miR-496,TF->miRNA,True,retained
+HNF4A,hsa-miR-539,TF->miRNA,True,retained
+HNF4A,hsa-miR-543,TF->miRNA,True,retained
+HNF4A,hsa-miR-544,TF->miRNA,False,retained
+HNF4A,hsa-miR-655,TF->miRNA,True,retained
+HNF4A,hsa-miR-668,TF->miRNA,True,retained
+HNF4A,hsa-miR-758,TF->miRNA,True,retained
+HNF4A,hsa-miR-96,TF->miRNA,True,retained
+HOXA10,hsa-let-7a,TF->miRNA,True,retained
+HOXA10,hsa-let-7c,TF->miRNA,True,retained
+HOXA10,hsa-miR-100,TF->miRNA,True,retained
+HOXA10,hsa-miR-99a,TF->miRNA,True,retained
+HOXA9,hsa-miR-196b,TF->miRNA,True,retained
+HOXA9,hsa-miR-21,TF->miRNA,True,retained
+HOXB7,hsa-miR-221,TF->miRNA,True,retained
+HOXB7,hsa-miR-222,TF->miRNA,True,retained
+HSF1,hsa-miR-135b,TF->miRNA,True,retained
+HSF2,hsa-miR-182,TF->miRNA,True,"tested, not retained"
+HSF2,hsa-miR-183,TF->miRNA,True,"tested, not retained"
+HSF2,hsa-miR-96,TF->miRNA,True,"tested, not retained"
+ILF3,hsa-miR-590,TF->miRNA,True,"tested, not retained"
+IRF1,hsa-miR-155,TF->miRNA,True,retained
+IRF1,hsa-miR-203,TF->miRNA,True,retained
+IRF1,hsa-miR-29b,TF->miRNA,True,retained
+IRF3,hsa-miR-155,TF->miRNA,True,retained
+JUN,hsa-miR-106b,TF->miRNA,True,retained
+JUN,hsa-miR-135b,TF->miRNA,True,retained
+JUN,hsa-miR-139,TF->miRNA,True,retained
+JUN,hsa-miR-141,TF->miRNA,True,retained
+JUN,hsa-miR-144,TF->miRNA,True,retained
+JUN,hsa-miR-146a,TF->miRNA,True,retained
+JUN,hsa-miR-18b,TF->miRNA,True,retained
+JUN,hsa-miR-200a,TF->miRNA,True,retained
+JUN,hsa-miR-200b,TF->miRNA,True,retained
+JUN,hsa-miR-200c,TF->miRNA,True,retained
+JUN,hsa-miR-203,TF->miRNA,False,retained
+JUN,hsa-miR-21,TF->miRNA,True,retained
+JUN,hsa-miR-221,TF->miRNA,True,retained
+JUN,hsa-miR-222,TF->miRNA,True,retained
+JUN,hsa-miR-224,TF->miRNA,True,retained
+JUN,hsa-miR-23a,TF->miRNA,True,retained
+JUN,hsa-miR-23b,TF->miRNA,True,retained
+JUN,hsa-miR-25,TF->miRNA,True,retained
+JUN,hsa-miR-31,TF->miRNA,True,retained
+JUN,hsa-miR-320b,TF->miRNA,True,retained
+JUN,hsa-miR-429,TF->miRNA,True,retained
+JUN,hsa-miR-93,TF->miRNA,True,retained
+KDM2A,hsa-miR-101,TF->miRNA,True,"tested, not retained"
+KLF2,hsa-miR-126,TF->miRNA,True,retained
+KLF2,hsa-miR-143,TF->miRNA,True,retained
+KLF2,hsa-miR-145,TF->miRNA,True,retained
+KLF2,hsa-miR-150,TF->miRNA,True,retained
+KLF2,hsa-miR-23b,TF->miRNA,True,retained
+KLF4,hsa-miR-134,TF->miRNA,True,retained
+KLF4,hsa-miR-143,TF->miRNA,True,retained
+KLF4,hsa-miR-145,TF->miRNA,True,retained
+KLF4,hsa-miR-150,TF->miRNA,True,retained
+KLF4,hsa-miR-15a,TF->miRNA,True,retained
+KLF4,hsa-miR-182,TF->miRNA,True,retained
+KLF4,hsa-miR-183,TF->miRNA,True,retained
+KLF4,hsa-miR-200a,TF->miRNA,True,retained
+KLF4,hsa-miR-200b,TF->miRNA,True,retained
+KLF4,hsa-miR-200c,TF->miRNA,True,retained
+KLF4,hsa-miR-203,TF->miRNA,False,retained
+KLF4,hsa-miR-206,TF->miRNA,True,retained
+KLF4,hsa-miR-21,TF->miRNA,True,retained
+KLF4,hsa-miR-31,TF->miRNA,True,retained
+KLF4,hsa-miR-429,TF->miRNA,True,retained
+KLF4,hsa-miR-544,TF->miRNA,False,retained
+KLF4,hsa-miR-96,TF->miRNA,True,retained
+KLF5,hsa-miR-141,TF->miRNA,True,retained
+KLF5,hsa-miR-200a,TF->miRNA,True,retained
+KLF5,hsa-miR-200b,TF->miRNA,True,retained
+KLF5,hsa-miR-200c,TF->miRNA,True,retained
+KLF5,hsa-miR-429,TF->miRNA,True,retained
+KLF8,hsa-miR-132,TF->miRNA,True,"tested, not retained"
+KLF8,hsa-miR-141,TF->miRNA,True,"tested, not retained"
+LEF1,hsa-miR-124,TF->miRNA,True,retained
+LEF1,hsa-miR-150,TF->miRNA,True,retained
+LEF1,hsa-miR-182,TF->miRNA,True,retained
+LEF1,hsa-miR-183,TF->miRNA,True,retained
+LEF1,hsa-miR-30e,TF->miRNA,True,retained
+LEF1,hsa-miR-372,TF->miRNA,True,retained
+LEF1,hsa-miR-373,TF->miRNA,True,retained
+LEF1,hsa-miR-96,TF->miRNA,True,retained
+MAFB,hsa-miR-506,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-106a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-106b,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-16,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-18b,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-193a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-19b,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-20b,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-25,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-363,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+MAX,hsa-miR-93,TF->miRNA,True,"tested, not retained"
+MBD2,hsa-miR-373,TF->miRNA,True,retained
+MECP2,hsa-miR-137,TF->miRNA,True,retained
+MEF2A,hsa-miR-23a,TF->miRNA,True,retained
+MEF2A,hsa-miR-27a,TF->miRNA,True,retained
+MEF2A,hsa-miR-410,TF->miRNA,True,retained
+MEF2A,hsa-miR-424,TF->miRNA,True,retained
+MEF2A,hsa-miR-433,TF->miRNA,True,retained
+MEF2A,hsa-miR-503,TF->miRNA,True,retained
+MEF2A,hsa-miR-92b,TF->miRNA,True,retained
+MEF2C,hsa-miR-424,TF->miRNA,True,"tested, not retained"
+MEF2C,hsa-miR-503,TF->miRNA,True,"tested, not retained"
+MEIS1,hsa-miR-196b,TF->miRNA,True,"tested, not retained"
+MEIS1,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+MEN1,hsa-miR-23a,TF->miRNA,True,retained
+MEN1,hsa-miR-23b,TF->miRNA,True,retained
+MEN1,hsa-miR-27a,TF->miRNA,True,retained
+MEN1,hsa-miR-27b,TF->miRNA,True,retained
+MITF,hsa-let-7d,TF->miRNA,True,retained
+MITF,hsa-let-7i,TF->miRNA,True,retained
+MITF,hsa-miR-106a,TF->miRNA,True,retained
+MITF,hsa-miR-146a,TF->miRNA,True,retained
+MITF,hsa-miR-148b,TF->miRNA,True,retained
+MITF,hsa-miR-18b,TF->miRNA,True,retained
+MITF,hsa-miR-204,TF->miRNA,True,retained
+MITF,hsa-miR-20b,TF->miRNA,True,retained
+MITF,hsa-miR-221,TF->miRNA,True,retained
+MITF,hsa-miR-222,TF->miRNA,True,retained
+MITF,hsa-miR-29a,TF->miRNA,True,retained
+MITF,hsa-miR-363,TF->miRNA,True,retained
+MITF,hsa-miR-92b,TF->miRNA,True,retained
+MKL1,hsa-miR-143,TF->miRNA,True,"tested, not retained"
+MKL1,hsa-miR-145,TF->miRNA,True,"tested, not retained"
+MKL1,hsa-miR-214,TF->miRNA,True,"tested, not retained"
+MTA1,hsa-miR-22,TF->miRNA,True,retained
+MYB,hsa-miR-141,TF->miRNA,True,retained
+MYB,hsa-miR-143,TF->miRNA,True,retained
+MYB,hsa-miR-148a,TF->miRNA,True,retained
+MYB,hsa-miR-155,TF->miRNA,True,retained
+MYB,hsa-miR-15a,TF->miRNA,True,retained
+MYB,hsa-miR-200a,TF->miRNA,True,retained
+MYB,hsa-miR-200b,TF->miRNA,True,retained
+MYB,hsa-miR-200c,TF->miRNA,True,retained
+MYB,hsa-miR-429,TF->miRNA,True,retained
+MYB,hsa-miR-486,TF->miRNA,True,retained
+MYC,hsa-let-7a,TF->miRNA,True,retained
+MYC,hsa-let-7b,TF->miRNA,True,retained
+MYC,hsa-let-7c,TF->miRNA,True,retained
+MYC,hsa-let-7d,TF->miRNA,True,retained
+MYC,hsa-let-7e,TF->miRNA,True,retained
+MYC,hsa-let-7f,TF->miRNA,True,retained
+MYC,hsa-let-7g,TF->miRNA,True,retained
+MYC,hsa-let-7i,TF->miRNA,True,retained
+MYC,hsa-miR-100,TF->miRNA,True,retained
+MYC,hsa-miR-101,TF->miRNA,True,retained
+MYC,hsa-miR-106a,TF->miRNA,True,retained
+MYC,hsa-miR-106b,TF->miRNA,True,retained
+MYC,hsa-miR-122,TF->miRNA,True,retained
+MYC,hsa-miR-130a,TF->miRNA,True,retained
+MYC,hsa-miR-141,TF->miRNA,True,retained
+MYC,hsa-miR-146a,TF->miRNA,True,retained
+MYC,hsa-miR-148a,TF->miRNA,True,retained
+MYC,hsa-miR-150,TF->miRNA,True,retained
+MYC,hsa-miR-15a,TF->miRNA,True,retained
+MYC,hsa-miR-16,TF->miRNA,True,retained
+MYC,hsa-miR-17,TF->miRNA,True,retained
+MYC,hsa-miR-18a,TF->miRNA,True,retained
+MYC,hsa-miR-18b,TF->miRNA,True,retained
+MYC,hsa-miR-195,TF->miRNA,True,retained
+MYC,hsa-miR-19a,TF->miRNA,True,retained
+MYC,hsa-miR-19b,TF->miRNA,True,retained
+MYC,hsa-miR-200c,TF->miRNA,True,retained
+MYC,hsa-miR-20a,TF->miRNA,True,retained
+MYC,hsa-miR-20b,TF->miRNA,True,retained
+MYC,hsa-miR-22,TF->miRNA,True,retained
+MYC,hsa-miR-221,TF->miRNA,True,retained
+MYC,hsa-miR-222,TF->miRNA,True,retained
+MYC,hsa-miR-23a,TF->miRNA,True,retained
+MYC,hsa-miR-23b,TF->miRNA,True,retained
+MYC,hsa-miR-25,TF->miRNA,True,retained
+MYC,hsa-miR-26a,TF->miRNA,True,retained
+MYC,hsa-miR-26b,TF->miRNA,True,retained
+MYC,hsa-miR-27a,TF->miRNA,True,retained
+MYC,hsa-miR-28,TF->miRNA,True,retained
+MYC,hsa-miR-29a,TF->miRNA,True,retained
+MYC,hsa-miR-29b,TF->miRNA,True,retained
+MYC,hsa-miR-29c,TF->miRNA,True,retained
+MYC,hsa-miR-30a,TF->miRNA,True,retained
+MYC,hsa-miR-30b,TF->miRNA,True,retained
+MYC,hsa-miR-30d,TF->miRNA,True,retained
+MYC,hsa-miR-32,TF->miRNA,True,retained
+MYC,hsa-miR-34a,TF->miRNA,True,retained
+MYC,hsa-miR-371a,TF->miRNA,True,retained
+MYC,hsa-miR-372,TF->miRNA,True,retained
+MYC,hsa-miR-373,TF->miRNA,True,retained
+MYC,hsa-miR-497,TF->miRNA,True,retained
+MYC,hsa-miR-9,TF->miRNA,True,retained
+MYC,hsa-miR-92a,TF->miRNA,True,retained
+MYC,hsa-miR-93,TF->miRNA,True,retained
+MYCN,hsa-miR-106a,TF->miRNA,True,retained
+MYCN,hsa-miR-106b,TF->miRNA,True,retained
+MYCN,hsa-miR-124,TF->miRNA,True,retained
+MYCN,hsa-miR-17,TF->miRNA,True,retained
+MYCN,hsa-miR-181a,TF->miRNA,True,retained
+MYCN,hsa-miR-181b,TF->miRNA,True,retained
+MYCN,hsa-miR-181d,TF->miRNA,True,retained
+MYCN,hsa-miR-182,TF->miRNA,True,retained
+MYCN,hsa-miR-183,TF->miRNA,True,retained
+MYCN,hsa-miR-18a,TF->miRNA,True,retained
+MYCN,hsa-miR-18b,TF->miRNA,True,retained
+MYCN,hsa-miR-19a,TF->miRNA,True,retained
+MYCN,hsa-miR-19b,TF->miRNA,True,retained
+MYCN,hsa-miR-20a,TF->miRNA,True,retained
+MYCN,hsa-miR-20b,TF->miRNA,True,retained
+MYCN,hsa-miR-221,TF->miRNA,True,retained
+MYCN,hsa-miR-25,TF->miRNA,True,retained
+MYCN,hsa-miR-27a,TF->miRNA,True,retained
+MYCN,hsa-miR-27b,TF->miRNA,True,retained
+MYCN,hsa-miR-296,TF->miRNA,True,retained
+MYCN,hsa-miR-320a,TF->miRNA,True,retained
+MYCN,hsa-miR-330,TF->miRNA,True,retained
+MYCN,hsa-miR-335,TF->miRNA,True,retained
+MYCN,hsa-miR-33a,TF->miRNA,True,retained
+MYCN,hsa-miR-363,TF->miRNA,True,retained
+MYCN,hsa-miR-421,TF->miRNA,True,retained
+MYCN,hsa-miR-4295,TF->miRNA,True,retained
+MYCN,hsa-miR-760,TF->miRNA,True,retained
+MYCN,hsa-miR-9,TF->miRNA,True,none
+MYCN,hsa-miR-92a,TF->miRNA,True,retained
+MYCN,hsa-miR-92b,TF->miRNA,True,retained
+MYCN,hsa-miR-93,TF->miRNA,True,retained
+MYCN,hsa-miR-96,TF->miRNA,True,retained
+MYOD1,hsa-miR-133a,TF->miRNA,True,"tested, not retained"
+MYOD1,hsa-miR-150,TF->miRNA,True,"tested, not retained"
+MYOD1,hsa-miR-182,TF->miRNA,True,"tested, not retained"
+MYOD1,hsa-miR-206,TF->miRNA,True,"tested, not retained"
+MYOD1,hsa-miR-22,TF->miRNA,True,"tested, not retained"
+NANOG,hsa-miR-17,TF->miRNA,True,retained
+NANOG,hsa-miR-18a,TF->miRNA,True,retained
+NANOG,hsa-miR-19a,TF->miRNA,True,retained
+NANOG,hsa-miR-20a,TF->miRNA,True,retained
+NANOG,hsa-miR-302a,TF->miRNA,True,retained
+NANOG,hsa-miR-302b,TF->miRNA,True,retained
+NANOG,hsa-miR-302c,TF->miRNA,True,retained
+NANOG,hsa-miR-302d,TF->miRNA,True,retained
+NANOG,hsa-miR-367,TF->miRNA,True,retained
+NANOG,hsa-miR-92a,TF->miRNA,True,retained
+NCOR1,hsa-miR-122,TF->miRNA,True,"tested, not retained"
+NCOR1,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+NCOR1,hsa-miR-30d,TF->miRNA,True,"tested, not retained"
+NF1,hsa-miR-217,TF->miRNA,True,retained
+NFKB1,hsa-let-7b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-100,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-10b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-125b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-130a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-136,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-146a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-146b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-148a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-150,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-155,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-16,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-210,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-214,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-224,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-23b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-27b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-29a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-29b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-29c,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-301a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-30b,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-30c,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-340,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-34a,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-362,TF->miRNA,False,none
+NFKB1,hsa-miR-424,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-425,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-448,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-494,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-502,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-503,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-506,TF->miRNA,True,"tested, not retained"
+NFKB1,hsa-miR-9,TF->miRNA,True,"tested, not retained"
+NFKB2,hsa-miR-221,TF->miRNA,True,"tested, not retained"
+NFYA,hsa-miR-33a,TF->miRNA,True,retained
+NKX2-5,hsa-miR-143,TF->miRNA,True,retained
+NKX2-5,hsa-miR-145,TF->miRNA,True,retained
+NKX2-5,hsa-miR-17,TF->miRNA,True,retained
+NKX2-5,hsa-miR-18a,TF->miRNA,True,retained
+NKX2-5,hsa-miR-19a,TF->miRNA,True,retained
+NKX2-5,hsa-miR-19b,TF->miRNA,True,retained
+NKX2-5,hsa-miR-20a,TF->miRNA,True,retained
+NKX2-5,hsa-miR-92a,TF->miRNA,True,retained
+NR1H2,hsa-miR-143,TF->miRNA,True,"tested, not retained"
+NR1H2,hsa-miR-145,TF->miRNA,True,"tested, not retained"
+NR1H3,hsa-miR-130a,TF->miRNA,True,"tested, not retained"
+NR1H3,hsa-miR-206,TF->miRNA,True,"tested, not retained"
+NR1H3,hsa-miR-29b,TF->miRNA,True,"tested, not retained"
+NR1H4,hsa-miR-122,TF->miRNA,True,retained
+NR1H4,hsa-miR-144,TF->miRNA,True,retained
+NR1H4,hsa-miR-199a,TF->miRNA,True,retained
+NR1H4,hsa-miR-29a,TF->miRNA,True,retained
+NR1H4,hsa-miR-34a,TF->miRNA,True,retained
+PAX5,hsa-miR-15a,TF->miRNA,True,retained
+PAX6,hsa-miR-135b,TF->miRNA,True,retained
+PBX1,hsa-miR-196b,TF->miRNA,True,"tested, not retained"
+PBX1,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+POU2F1,hsa-let-7g,TF->miRNA,True,retained
+POU2F1,hsa-miR-542,TF->miRNA,True,retained
+POU5F1,hsa-miR-130a,TF->miRNA,True,retained
+POU5F1,hsa-miR-130b,TF->miRNA,True,retained
+POU5F1,hsa-miR-142,TF->miRNA,True,retained
+POU5F1,hsa-miR-145,TF->miRNA,True,retained
+POU5F1,hsa-miR-301a,TF->miRNA,True,retained
+POU5F1,hsa-miR-301b,TF->miRNA,True,retained
+POU5F1,hsa-miR-302a,TF->miRNA,True,retained
+POU5F1,hsa-miR-302b,TF->miRNA,True,retained
+POU5F1,hsa-miR-302c,TF->miRNA,True,retained
+POU5F1,hsa-miR-302d,TF->miRNA,True,retained
+POU5F1,hsa-miR-367,TF->miRNA,True,retained
+PPARA,hsa-miR-107,TF->miRNA,True,retained
+PPARA,hsa-miR-200c,TF->miRNA,True,retained
+PPARA,hsa-miR-214,TF->miRNA,True,retained
+PPARA,hsa-miR-301a,TF->miRNA,True,retained
+PPARG,hsa-miR-122,TF->miRNA,True,retained
+PPARG,hsa-miR-125b,TF->miRNA,True,retained
+PPARG,hsa-miR-142,TF->miRNA,True,retained
+PPARG,hsa-miR-145,TF->miRNA,True,retained
+PPARG,hsa-miR-21,TF->miRNA,True,retained
+PPARG,hsa-miR-29b,TF->miRNA,True,retained
+PPARG,hsa-miR-613,TF->miRNA,True,retained
+RARA,hsa-miR-143,TF->miRNA,True,retained
+RARA,hsa-miR-145,TF->miRNA,True,retained
+RARA,hsa-miR-302b,TF->miRNA,True,retained
+RB1,hsa-miR-449a,TF->miRNA,True,"tested, not retained"
+RB1,hsa-miR-449b,TF->miRNA,True,"tested, not retained"
+RBPJ,hsa-miR-221,TF->miRNA,True,"tested, not retained"
+RBPJ,hsa-miR-222,TF->miRNA,True,"tested, not retained"
+REL,hsa-miR-15b,TF->miRNA,True,"tested, not retained"
+REL,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+RELA,hsa-let-7e,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-100,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-125a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-125b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-130a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-132,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-145,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-146a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-146b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-150,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-155,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-182,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-183,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-188,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-192,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-193b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-199a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-205,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-212,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-22,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-221,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-222,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-223,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-224,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-23a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-23b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-27a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-27b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-29c,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-30b,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-34a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-378a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-503,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-7,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-802,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-96,TF->miRNA,True,"tested, not retained"
+RELA,hsa-miR-99b,TF->miRNA,True,"tested, not retained"
+REST,hsa-miR-124,TF->miRNA,True,retained
+REST,hsa-miR-132,TF->miRNA,True,retained
+REST,hsa-miR-137,TF->miRNA,True,retained
+REST,hsa-miR-139,TF->miRNA,True,retained
+REST,hsa-miR-199a,TF->miRNA,True,retained
+REST,hsa-miR-203,TF->miRNA,False,retained
+REST,hsa-miR-21,TF->miRNA,True,retained
+REST,hsa-miR-212,TF->miRNA,True,retained
+REST,hsa-miR-330,TF->miRNA,True,retained
+RUNX1,hsa-miR-106a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-144,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-181c,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-181d,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-18b,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-20b,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-221,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-223,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-23a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-27a,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-363,TF->miRNA,True,"tested, not retained"
+RUNX1,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+RUNX2,hsa-miR-21,TF->miRNA,True,retained
+RUNX2,hsa-miR-23a,TF->miRNA,True,retained
+RUNX2,hsa-miR-27a,TF->miRNA,True,retained
+RUNX2,hsa-miR-31,TF->miRNA,True,retained
+RXRA,hsa-miR-122,TF->miRNA,True,retained
+RXRA,hsa-miR-143,TF->miRNA,True,retained
+RXRA,hsa-miR-145,TF->miRNA,True,retained
+RXRA,hsa-miR-193a,TF->miRNA,True,retained
+SIRT1,hsa-miR-34a,TF->miRNA,True,retained
+SIRT1,hsa-miR-424,TF->miRNA,True,retained
+SIRT1,hsa-miR-503,TF->miRNA,True,retained
+SIX1,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+SIX1,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+SIX1,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+SMAD3,hsa-miR-136,TF->miRNA,True,retained
+SMAD3,hsa-miR-140,TF->miRNA,True,retained
+SMAD3,hsa-miR-143,TF->miRNA,True,retained
+SMAD3,hsa-miR-145,TF->miRNA,True,retained
+SMAD3,hsa-miR-155,TF->miRNA,True,retained
+SMAD3,hsa-miR-17,TF->miRNA,True,retained
+SMAD3,hsa-miR-18a,TF->miRNA,True,retained
+SMAD3,hsa-miR-192,TF->miRNA,True,retained
+SMAD3,hsa-miR-19a,TF->miRNA,True,retained
+SMAD3,hsa-miR-200a,TF->miRNA,True,retained
+SMAD3,hsa-miR-200b,TF->miRNA,True,retained
+SMAD3,hsa-miR-20a,TF->miRNA,True,retained
+SMAD3,hsa-miR-21,TF->miRNA,True,retained
+SMAD3,hsa-miR-26a,TF->miRNA,True,retained
+SMAD3,hsa-miR-27a,TF->miRNA,True,retained
+SMAD3,hsa-miR-29b,TF->miRNA,True,retained
+SMAD3,hsa-miR-30d,TF->miRNA,True,retained
+SMAD3,hsa-miR-31,TF->miRNA,True,retained
+SMAD3,hsa-miR-424,TF->miRNA,True,retained
+SMAD3,hsa-miR-433,TF->miRNA,True,retained
+SMAD3,hsa-miR-455,TF->miRNA,True,retained
+SMAD3,hsa-miR-494,TF->miRNA,True,retained
+SMAD3,hsa-miR-503,TF->miRNA,True,retained
+SMAD3,hsa-miR-92a,TF->miRNA,True,retained
+SMAD4,hsa-miR-143,TF->miRNA,True,retained
+SMAD4,hsa-miR-145,TF->miRNA,True,retained
+SMAD4,hsa-miR-155,TF->miRNA,True,retained
+SMAD4,hsa-miR-302a,TF->miRNA,True,retained
+SMAD4,hsa-miR-302b,TF->miRNA,True,retained
+SMAD4,hsa-miR-302c,TF->miRNA,True,retained
+SMAD4,hsa-miR-302d,TF->miRNA,True,retained
+SMAD4,hsa-miR-367,TF->miRNA,True,retained
+SMAD4,hsa-miR-376c,TF->miRNA,True,retained
+SMAD4,hsa-miR-424,TF->miRNA,True,retained
+SMAD4,hsa-miR-494,TF->miRNA,True,retained
+SMAD4,hsa-miR-503,TF->miRNA,True,retained
+SMAD4,hsa-miR-96,TF->miRNA,True,retained
+SNAI1,hsa-miR-101,TF->miRNA,True,retained
+SNAI1,hsa-miR-141,TF->miRNA,True,retained
+SNAI1,hsa-miR-200a,TF->miRNA,True,retained
+SNAI1,hsa-miR-200b,TF->miRNA,True,retained
+SNAI1,hsa-miR-200c,TF->miRNA,True,retained
+SNAI1,hsa-miR-203,TF->miRNA,False,retained
+SNAI1,hsa-miR-34a,TF->miRNA,True,retained
+SNAI1,hsa-miR-34c,TF->miRNA,True,retained
+SNAI1,hsa-miR-375,TF->miRNA,True,retained
+SNAI1,hsa-miR-429,TF->miRNA,True,retained
+SNAI1,hsa-miR-493,TF->miRNA,True,retained
+SNAI2,hsa-miR-101,TF->miRNA,True,retained
+SNAI2,hsa-miR-137,TF->miRNA,True,retained
+SNAI2,hsa-miR-141,TF->miRNA,True,retained
+SNAI2,hsa-miR-145,TF->miRNA,True,retained
+SNAI2,hsa-miR-200a,TF->miRNA,True,retained
+SNAI2,hsa-miR-200b,TF->miRNA,True,retained
+SNAI2,hsa-miR-200c,TF->miRNA,True,retained
+SNAI2,hsa-miR-203,TF->miRNA,True,retained
+SNAI2,hsa-miR-221,TF->miRNA,True,retained
+SNAI2,hsa-miR-222,TF->miRNA,True,retained
+SNAI2,hsa-miR-34a,TF->miRNA,True,retained
+SNAI2,hsa-miR-429,TF->miRNA,True,retained
+SOX10,hsa-miR-335,TF->miRNA,True,retained
+SOX10,hsa-miR-338,TF->miRNA,True,retained
+SOX2,hsa-miR-124,TF->miRNA,True,retained
+SOX2,hsa-miR-1251,TF->miRNA,True,retained
+SOX2,hsa-miR-135b,TF->miRNA,True,retained
+SOX2,hsa-miR-137,TF->miRNA,True,retained
+SOX2,hsa-miR-141,TF->miRNA,True,retained
+SOX2,hsa-miR-182,TF->miRNA,True,retained
+SOX2,hsa-miR-183,TF->miRNA,True,retained
+SOX2,hsa-miR-200c,TF->miRNA,True,retained
+SOX2,hsa-miR-22,TF->miRNA,True,retained
+SOX2,hsa-miR-29b,TF->miRNA,True,retained
+SOX2,hsa-miR-301a,TF->miRNA,True,retained
+SOX2,hsa-miR-302a,TF->miRNA,True,retained
+SOX2,hsa-miR-302b,TF->miRNA,True,retained
+SOX2,hsa-miR-302c,TF->miRNA,True,retained
+SOX2,hsa-miR-302d,TF->miRNA,True,retained
+SOX2,hsa-miR-324,TF->miRNA,True,retained
+SOX2,hsa-miR-367,TF->miRNA,True,retained
+SOX2,hsa-miR-424,TF->miRNA,True,retained
+SOX2,hsa-miR-96,TF->miRNA,True,retained
+SOX9,hsa-miR-140,TF->miRNA,True,retained
+SOX9,hsa-miR-29a,TF->miRNA,True,retained
+SP1,hsa-miR-106a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-130a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-132,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-141,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-142,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-146b,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-182,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-195,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-22,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-23a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-23b,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-27a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-29b,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-29c,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-320a,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-34c,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-373,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+SP1,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+SPI1,hsa-miR-142,TF->miRNA,True,retained
+SPI1,hsa-miR-146a,TF->miRNA,True,retained
+SPI1,hsa-miR-155,TF->miRNA,True,retained
+SPI1,hsa-miR-17,TF->miRNA,True,retained
+SPI1,hsa-miR-18a,TF->miRNA,True,retained
+SPI1,hsa-miR-19a,TF->miRNA,True,retained
+SPI1,hsa-miR-20a,TF->miRNA,True,retained
+SPI1,hsa-miR-21,TF->miRNA,True,retained
+SPI1,hsa-miR-22,TF->miRNA,True,retained
+SPI1,hsa-miR-223,TF->miRNA,True,retained
+SPI1,hsa-miR-23a,TF->miRNA,True,retained
+SPI1,hsa-miR-338,TF->miRNA,True,retained
+SPI1,hsa-miR-342,TF->miRNA,True,retained
+SPI1,hsa-miR-424,TF->miRNA,True,retained
+SPI1,hsa-miR-92a,TF->miRNA,True,retained
+SREBF1,hsa-miR-107,TF->miRNA,True,retained
+SREBF1,hsa-miR-185,TF->miRNA,True,retained
+SREBF1,hsa-miR-29b,TF->miRNA,True,retained
+SREBF1,hsa-miR-613,TF->miRNA,True,retained
+SREBF2,hsa-miR-17,TF->miRNA,True,retained
+SREBF2,hsa-miR-182,TF->miRNA,True,retained
+SREBF2,hsa-miR-183,TF->miRNA,True,retained
+SREBF2,hsa-miR-18a,TF->miRNA,True,retained
+SREBF2,hsa-miR-19a,TF->miRNA,True,retained
+SREBF2,hsa-miR-20a,TF->miRNA,True,retained
+SREBF2,hsa-miR-92a,TF->miRNA,True,retained
+SREBF2,hsa-miR-96,TF->miRNA,True,retained
+SRF,hsa-miR-143,TF->miRNA,True,retained
+SRF,hsa-miR-145,TF->miRNA,True,retained
+SRF,hsa-miR-206,TF->miRNA,True,retained
+SRF,hsa-miR-214,TF->miRNA,True,retained
+SRF,hsa-miR-29b,TF->miRNA,True,retained
+STAT1,hsa-let-7a,TF->miRNA,True,retained
+STAT1,hsa-miR-124,TF->miRNA,True,retained
+STAT1,hsa-miR-146b,TF->miRNA,True,retained
+STAT1,hsa-miR-155,TF->miRNA,True,retained
+STAT1,hsa-miR-29a,TF->miRNA,True,retained
+STAT1,hsa-miR-34a,TF->miRNA,True,retained
+STAT1,hsa-miR-7,TF->miRNA,True,retained
+STAT3,hsa-let-7d,TF->miRNA,True,retained
+STAT3,hsa-miR-124,TF->miRNA,True,retained
+STAT3,hsa-miR-125b,TF->miRNA,True,retained
+STAT3,hsa-miR-135b,TF->miRNA,True,retained
+STAT3,hsa-miR-143,TF->miRNA,True,retained
+STAT3,hsa-miR-146a,TF->miRNA,True,retained
+STAT3,hsa-miR-146b,TF->miRNA,True,retained
+STAT3,hsa-miR-150,TF->miRNA,True,retained
+STAT3,hsa-miR-155,TF->miRNA,True,retained
+STAT3,hsa-miR-15a,TF->miRNA,True,retained
+STAT3,hsa-miR-17,TF->miRNA,True,retained
+STAT3,hsa-miR-181a,TF->miRNA,True,retained
+STAT3,hsa-miR-181b,TF->miRNA,True,retained
+STAT3,hsa-miR-182,TF->miRNA,True,retained
+STAT3,hsa-miR-183,TF->miRNA,True,retained
+STAT3,hsa-miR-18a,TF->miRNA,True,retained
+STAT3,hsa-miR-19a,TF->miRNA,True,retained
+STAT3,hsa-miR-200c,TF->miRNA,True,retained
+STAT3,hsa-miR-204,TF->miRNA,True,retained
+STAT3,hsa-miR-20a,TF->miRNA,True,retained
+STAT3,hsa-miR-21,TF->miRNA,True,retained
+STAT3,hsa-miR-214,TF->miRNA,True,retained
+STAT3,hsa-miR-218,TF->miRNA,True,retained
+STAT3,hsa-miR-22,TF->miRNA,True,retained
+STAT3,hsa-miR-23b,TF->miRNA,True,retained
+STAT3,hsa-miR-24,TF->miRNA,True,retained
+STAT3,hsa-miR-27b,TF->miRNA,True,retained
+STAT3,hsa-miR-29a,TF->miRNA,True,retained
+STAT3,hsa-miR-29c,TF->miRNA,True,retained
+STAT3,hsa-miR-34a,TF->miRNA,True,retained
+STAT3,hsa-miR-370,TF->miRNA,True,retained
+STAT3,hsa-miR-383,TF->miRNA,True,retained
+STAT3,hsa-miR-520d,TF->miRNA,True,retained
+STAT3,hsa-miR-92a,TF->miRNA,True,retained
+STAT3,hsa-miR-96,TF->miRNA,True,retained
+STAT4,hsa-miR-506,TF->miRNA,True,retained
+STAT6,hsa-miR-142,TF->miRNA,True,retained
+STAT6,hsa-miR-342,TF->miRNA,True,retained
+SUZ12,hsa-miR-217,TF->miRNA,True,"tested, not retained"
+SUZ12,hsa-miR-31,TF->miRNA,True,"tested, not retained"
+TAL1,hsa-miR-144,TF->miRNA,True,retained
+TAL1,hsa-miR-146b,TF->miRNA,True,retained
+TAL1,hsa-miR-181a,TF->miRNA,True,retained
+TAL1,hsa-miR-223,TF->miRNA,True,retained
+TAL1,hsa-miR-26a,TF->miRNA,True,retained
+TAL1,hsa-miR-29c,TF->miRNA,True,retained
+TCF4,hsa-miR-146a,TF->miRNA,True,retained
+TCF4,hsa-miR-21,TF->miRNA,True,retained
+TCF4,hsa-miR-34a,TF->miRNA,True,retained
+TCF7L2,hsa-miR-181a,TF->miRNA,True,retained
+TCF7L2,hsa-miR-181b,TF->miRNA,True,retained
+TCF7L2,hsa-miR-21,TF->miRNA,True,retained
+TFAP2A,hsa-miR-126,TF->miRNA,True,retained
+TFAP2A,hsa-miR-17,TF->miRNA,True,retained
+TFAP2A,hsa-miR-18a,TF->miRNA,True,retained
+TFAP2A,hsa-miR-19a,TF->miRNA,True,retained
+TFAP2A,hsa-miR-19b,TF->miRNA,True,retained
+TFAP2A,hsa-miR-20a,TF->miRNA,True,retained
+TFAP2A,hsa-miR-214,TF->miRNA,True,retained
+TFAP2A,hsa-miR-92a,TF->miRNA,True,retained
+TLX1,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+TLX1,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+TLX1,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+TLX1,hsa-miR-19b,TF->miRNA,True,"tested, not retained"
+TLX1,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+TLX1,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-100,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-106a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-107,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-10b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-124,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-125a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-125b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-139,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-141,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-142,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-143,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-145,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-146a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-148a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-149,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-150,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-151a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-155,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-15a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-15b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-17,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-18a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-191,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-192,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-193b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-194,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-19a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-19b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-202,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-205,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-20a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-210,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-215,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-22,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-221,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-222,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-224,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-23b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-26a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-27a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-27b,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-29a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-300,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-34a,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-34c,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-381,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-499a,TF->miRNA,False,none
+TP53,hsa-miR-502,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-504,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-506,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-519d,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-590,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-655,TF->miRNA,True,"tested, not retained"
+TP53,hsa-miR-92a,TF->miRNA,True,"tested, not retained"
+TP63,hsa-miR-130b,TF->miRNA,True,retained
+TP63,hsa-miR-133b,TF->miRNA,True,retained
+TP63,hsa-miR-155,TF->miRNA,True,retained
+TP63,hsa-miR-181a,TF->miRNA,True,retained
+TP63,hsa-miR-193a,TF->miRNA,True,retained
+TP63,hsa-miR-200a,TF->miRNA,True,retained
+TP63,hsa-miR-200b,TF->miRNA,True,retained
+TP63,hsa-miR-202,TF->miRNA,True,retained
+TP63,hsa-miR-205,TF->miRNA,True,retained
+TP63,hsa-miR-34a,TF->miRNA,True,retained
+TP63,hsa-miR-374a,TF->miRNA,True,retained
+TP63,hsa-miR-429,TF->miRNA,True,retained
+TP73,hsa-miR-143,TF->miRNA,True,retained
+TP73,hsa-miR-145,TF->miRNA,True,retained
+TP73,hsa-miR-193a,TF->miRNA,True,retained
+TP73,hsa-miR-200a,TF->miRNA,True,retained
+TP73,hsa-miR-200b,TF->miRNA,True,retained
+TP73,hsa-miR-202,TF->miRNA,True,retained
+TP73,hsa-miR-205,TF->miRNA,True,retained
+TP73,hsa-miR-34a,TF->miRNA,True,retained
+TP73,hsa-miR-429,TF->miRNA,True,retained
+TWIST1,hsa-let-7i,TF->miRNA,True,retained
+TWIST1,hsa-miR-10a,TF->miRNA,True,retained
+TWIST1,hsa-miR-10b,TF->miRNA,True,retained
+TWIST1,hsa-miR-129,TF->miRNA,True,retained
+TWIST1,hsa-miR-141,TF->miRNA,True,retained
+TWIST1,hsa-miR-181a,TF->miRNA,True,retained
+TWIST1,hsa-miR-192,TF->miRNA,True,retained
+TWIST1,hsa-miR-199a,TF->miRNA,True,retained
+TWIST1,hsa-miR-200a,TF->miRNA,True,retained
+TWIST1,hsa-miR-200b,TF->miRNA,True,retained
+TWIST1,hsa-miR-200c,TF->miRNA,True,retained
+TWIST1,hsa-miR-205,TF->miRNA,True,retained
+TWIST1,hsa-miR-214,TF->miRNA,True,retained
+TWIST1,hsa-miR-223,TF->miRNA,True,retained
+TWIST1,hsa-miR-27a,TF->miRNA,True,retained
+TWIST1,hsa-miR-371a,TF->miRNA,True,retained
+TWIST1,hsa-miR-372,TF->miRNA,True,retained
+TWIST1,hsa-miR-373,TF->miRNA,True,retained
+TWIST1,hsa-miR-429,TF->miRNA,True,retained
+USF1,hsa-miR-132,TF->miRNA,True,retained
+USF1,hsa-miR-148a,TF->miRNA,True,retained
+USF1,hsa-miR-483,TF->miRNA,True,retained
+VDR,hsa-miR-145,TF->miRNA,True,retained
+VHL,hsa-miR-210,TF->miRNA,True,retained
+XBP1,hsa-miR-346,TF->miRNA,True,retained
+YY1,hsa-miR-10a,TF->miRNA,True,retained
+YY1,hsa-miR-137,TF->miRNA,True,retained
+YY1,hsa-miR-155,TF->miRNA,True,retained
+YY1,hsa-miR-29a,TF->miRNA,True,retained
+YY1,hsa-miR-29b,TF->miRNA,True,retained
+YY1,hsa-miR-29c,TF->miRNA,True,retained
+YY1,hsa-miR-31,TF->miRNA,True,retained
+YY1,hsa-miR-372,TF->miRNA,True,retained
+YY1,hsa-miR-9,TF->miRNA,True,retained
+ZBTB16,hsa-miR-146a,TF->miRNA,True,retained
+ZBTB16,hsa-miR-221,TF->miRNA,True,retained
+ZBTB16,hsa-miR-222,TF->miRNA,True,retained
+ZBTB7A,hsa-miR-21,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-103,TF->miRNA,False,"tested, not retained"
+ZEB2,hsa-miR-107,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-128,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-141,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-145,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-15b,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-16,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-200a,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-200b,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-200c,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-203,TF->miRNA,False,"tested, not retained"
+ZEB2,hsa-miR-335,TF->miRNA,True,"tested, not retained"
+ZEB2,hsa-miR-429,TF->miRNA,True,"tested, not retained"
+hsa-let-7a,AR,miRNA->TF,True,retained
+hsa-let-7a,CEBPA,miRNA->TF,False,none
+hsa-let-7a,E2F1,miRNA->TF,True,retained
+hsa-let-7a,E2F3,miRNA->TF,True,retained
+hsa-let-7a,FLI1,miRNA->TF,True,retained
+hsa-let-7a,HIF1A,miRNA->TF,True,retained
+hsa-let-7a,HOXA10,miRNA->TF,True,retained
+hsa-let-7a,MITF,miRNA->TF,False,none
+hsa-let-7a,MYC,miRNA->TF,True,retained
+hsa-let-7a,NFKB1,miRNA->TF,False,none
+hsa-let-7a,STAT1,miRNA->TF,True,retained
+hsa-let-7a,YY1,miRNA->TF,False,none
+hsa-let-7b,FOXO3,miRNA->TF,True,retained
+hsa-let-7b,MYC,miRNA->TF,True,retained
+hsa-let-7b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-let-7c,AR,miRNA->TF,True,retained
+hsa-let-7c,ESR1,miRNA->TF,True,retained
+hsa-let-7c,EZH2,miRNA->TF,True,retained
+hsa-let-7c,FOXO3,miRNA->TF,True,retained
+hsa-let-7c,HOXA10,miRNA->TF,True,retained
+hsa-let-7c,MYC,miRNA->TF,True,retained
+hsa-let-7d,MITF,miRNA->TF,True,retained
+hsa-let-7d,MYC,miRNA->TF,True,retained
+hsa-let-7d,STAT3,miRNA->TF,True,retained
+hsa-let-7e,EGR1,miRNA->TF,True,retained
+hsa-let-7e,HIF1A,miRNA->TF,True,retained
+hsa-let-7e,MYC,miRNA->TF,True,retained
+hsa-let-7e,RELA,miRNA->TF,True,"tested, not retained"
+hsa-let-7f,MITF,miRNA->TF,False,none
+hsa-let-7f,MYC,miRNA->TF,True,retained
+hsa-let-7g,MYC,miRNA->TF,True,retained
+hsa-let-7g,POU2F1,miRNA->TF,True,retained
+hsa-let-7i,BMI1,miRNA->TF,True,"tested, not retained"
+hsa-let-7i,E2F1,miRNA->TF,True,retained
+hsa-let-7i,E2F3,miRNA->TF,True,retained
+hsa-let-7i,MITF,miRNA->TF,True,retained
+hsa-let-7i,MYC,miRNA->TF,True,retained
+hsa-let-7i,TWIST1,miRNA->TF,True,retained
+hsa-miR-1,AR,miRNA->TF,False,retained
+hsa-miR-1,CEBPA,miRNA->TF,False,retained
+hsa-miR-1,EZH2,miRNA->TF,False,retained
+hsa-miR-1,FOXO3,miRNA->TF,False,retained
+hsa-miR-1,KLF4,miRNA->TF,False,retained
+hsa-miR-1,MEF2A,miRNA->TF,False,retained
+hsa-miR-1,MYOD1,miRNA->TF,False,"tested, not retained"
+hsa-miR-1,PITX2,miRNA->TF,False,retained
+hsa-miR-1,SNAI2,miRNA->TF,False,none
+hsa-miR-1,SRF,miRNA->TF,False,retained
+hsa-miR-1,STAT3,miRNA->TF,False,retained
+hsa-miR-1,YY1,miRNA->TF,False,retained
+hsa-miR-100,CEBPA,miRNA->TF,True,retained
+hsa-miR-100,HOXA10,miRNA->TF,True,retained
+hsa-miR-100,MYC,miRNA->TF,True,retained
+hsa-miR-100,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-100,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-100,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-101,AR,miRNA->TF,True,retained
+hsa-miR-101,ARNT,miRNA->TF,True,"tested, not retained"
+hsa-miR-101,CEBPA,miRNA->TF,False,retained
+hsa-miR-101,EZH2,miRNA->TF,True,retained
+hsa-miR-101,FOS,miRNA->TF,False,none
+hsa-miR-101,HIF1A,miRNA->TF,True,retained
+hsa-miR-101,HMGA1,miRNA->TF,False,retained
+hsa-miR-101,HNF4A,miRNA->TF,False,retained
+hsa-miR-101,KDM2A,miRNA->TF,True,"tested, not retained"
+hsa-miR-101,MYC,miRNA->TF,True,retained
+hsa-miR-101,SNAI1,miRNA->TF,True,retained
+hsa-miR-101,SNAI2,miRNA->TF,True,retained
+hsa-miR-106a,E2F1,miRNA->TF,True,retained
+hsa-miR-106a,EGR1,miRNA->TF,True,retained
+hsa-miR-106a,EPAS1,miRNA->TF,False,none
+hsa-miR-106a,ESR1,miRNA->TF,True,retained
+hsa-miR-106a,IRF1,miRNA->TF,False,none
+hsa-miR-106a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-106a,MITF,miRNA->TF,True,retained
+hsa-miR-106a,MYC,miRNA->TF,True,retained
+hsa-miR-106a,MYCN,miRNA->TF,True,retained
+hsa-miR-106a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-106a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-106a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-106a,TWIST1,miRNA->TF,False,none
+hsa-miR-106b,AHR,miRNA->TF,True,retained
+hsa-miR-106b,ARNT,miRNA->TF,True,"tested, not retained"
+hsa-miR-106b,ATF4,miRNA->TF,True,retained
+hsa-miR-106b,E2F1,miRNA->TF,True,retained
+hsa-miR-106b,E2F3,miRNA->TF,True,retained
+hsa-miR-106b,EPAS1,miRNA->TF,False,none
+hsa-miR-106b,IRF1,miRNA->TF,False,none
+hsa-miR-106b,JUN,miRNA->TF,True,retained
+hsa-miR-106b,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-106b,MYC,miRNA->TF,True,retained
+hsa-miR-106b,MYCN,miRNA->TF,True,retained
+hsa-miR-106b,TWIST1,miRNA->TF,False,none
+hsa-miR-107,HIF1A,miRNA->TF,True,retained
+hsa-miR-107,PPARA,miRNA->TF,True,retained
+hsa-miR-107,SREBF1,miRNA->TF,True,retained
+hsa-miR-107,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-107,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-10a,EGR1,miRNA->TF,True,retained
+hsa-miR-10a,TWIST1,miRNA->TF,True,retained
+hsa-miR-10a,YY1,miRNA->TF,True,retained
+hsa-miR-10b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-10b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-10b,TWIST1,miRNA->TF,True,retained
+hsa-miR-1193,HNF4A,miRNA->TF,True,retained
+hsa-miR-1197,HNF4A,miRNA->TF,True,retained
+hsa-miR-122,CEBPA,miRNA->TF,True,retained
+hsa-miR-122,FOXA2,miRNA->TF,True,retained
+hsa-miR-122,HNF1A,miRNA->TF,True,retained
+hsa-miR-122,HNF4A,miRNA->TF,True,retained
+hsa-miR-122,MYC,miRNA->TF,True,retained
+hsa-miR-122,NCOR1,miRNA->TF,True,"tested, not retained"
+hsa-miR-122,NR1H4,miRNA->TF,True,retained
+hsa-miR-122,PPARG,miRNA->TF,True,retained
+hsa-miR-122,RXRA,miRNA->TF,True,retained
+hsa-miR-124,CEBPA,miRNA->TF,False,none
+hsa-miR-124,CTNNB1,miRNA->TF,True,retained
+hsa-miR-124,EGR1,miRNA->TF,True,retained
+hsa-miR-124,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-124,HNF4A,miRNA->TF,True,retained
+hsa-miR-124,IRF1,miRNA->TF,False,none
+hsa-miR-124,LEF1,miRNA->TF,True,retained
+hsa-miR-124,MYCN,miRNA->TF,True,retained
+hsa-miR-124,REST,miRNA->TF,True,retained
+hsa-miR-124,SNAI2,miRNA->TF,False,none
+hsa-miR-124,SOX2,miRNA->TF,True,retained
+hsa-miR-124,STAT1,miRNA->TF,True,retained
+hsa-miR-124,STAT3,miRNA->TF,True,retained
+hsa-miR-124,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-124,VDR,miRNA->TF,False,none
+hsa-miR-1251,SOX2,miRNA->TF,True,retained
+hsa-miR-1251,TWIST1,miRNA->TF,False,none
+hsa-miR-125a,EGR1,miRNA->TF,True,retained
+hsa-miR-125a,ETV4,miRNA->TF,True,retained
+hsa-miR-125a,GATA3,miRNA->TF,True,retained
+hsa-miR-125a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-125a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-125a,VDR,miRNA->TF,False,none
+hsa-miR-125b,APEX1,miRNA->TF,False,"tested, not retained"
+hsa-miR-125b,AR,miRNA->TF,False,retained
+hsa-miR-125b,CDX2,miRNA->TF,True,retained
+hsa-miR-125b,CEBPA,miRNA->TF,False,retained
+hsa-miR-125b,CTCF,miRNA->TF,False,"tested, not retained"
+hsa-miR-125b,ESR1,miRNA->TF,True,retained
+hsa-miR-125b,EZH2,miRNA->TF,True,retained
+hsa-miR-125b,HOXA10,miRNA->TF,False,retained
+hsa-miR-125b,MITF,miRNA->TF,False,retained
+hsa-miR-125b,MYC,miRNA->TF,False,retained
+hsa-miR-125b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-125b,POU5F1,miRNA->TF,False,retained
+hsa-miR-125b,PPARG,miRNA->TF,True,retained
+hsa-miR-125b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-125b,STAT3,miRNA->TF,True,retained
+hsa-miR-125b,TCF4,miRNA->TF,False,retained
+hsa-miR-125b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-125b,VDR,miRNA->TF,False,none
+hsa-miR-126,ETS1,miRNA->TF,True,retained
+hsa-miR-126,HIF1A,miRNA->TF,True,retained
+hsa-miR-126,KLF2,miRNA->TF,True,retained
+hsa-miR-126,TFAP2A,miRNA->TF,True,retained
+hsa-miR-1271,EPAS1,miRNA->TF,False,none
+hsa-miR-1271,HIF1A,miRNA->TF,True,retained
+hsa-miR-1271,TWIST1,miRNA->TF,False,none
+hsa-miR-128,HIF1A,miRNA->TF,False,retained
+hsa-miR-128,HOXA10,miRNA->TF,False,none
+hsa-miR-128,SNAI1,miRNA->TF,False,retained
+hsa-miR-128,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-129,EZH2,miRNA->TF,True,retained
+hsa-miR-129,REST,miRNA->TF,False,retained
+hsa-miR-129,SNAI1,miRNA->TF,False,retained
+hsa-miR-129,SOX2,miRNA->TF,False,none
+hsa-miR-129,TWIST1,miRNA->TF,True,retained
+hsa-miR-130a,CEBPA,miRNA->TF,False,none
+hsa-miR-130a,EPAS1,miRNA->TF,False,none
+hsa-miR-130a,HDAC2,miRNA->TF,True,retained
+hsa-miR-130a,HIF1A,miRNA->TF,True,retained
+hsa-miR-130a,IRF1,miRNA->TF,False,none
+hsa-miR-130a,MYC,miRNA->TF,True,retained
+hsa-miR-130a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-130a,NR1H3,miRNA->TF,True,"tested, not retained"
+hsa-miR-130a,POU5F1,miRNA->TF,True,retained
+hsa-miR-130a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-130a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-130a,VDR,miRNA->TF,False,none
+hsa-miR-130b,EGR1,miRNA->TF,True,retained
+hsa-miR-130b,IRF1,miRNA->TF,False,none
+hsa-miR-130b,POU5F1,miRNA->TF,True,retained
+hsa-miR-130b,TP63,miRNA->TF,True,retained
+hsa-miR-132,AHR,miRNA->TF,False,retained
+hsa-miR-132,CREB1,miRNA->TF,True,retained
+hsa-miR-132,EGR1,miRNA->TF,True,retained
+hsa-miR-132,IRF1,miRNA->TF,False,none
+hsa-miR-132,KLF8,miRNA->TF,True,"tested, not retained"
+hsa-miR-132,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-132,REST,miRNA->TF,True,retained
+hsa-miR-132,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-132,USF1,miRNA->TF,True,retained
+hsa-miR-133a,MYOD1,miRNA->TF,True,"tested, not retained"
+hsa-miR-133b,APEX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-133b,AR,miRNA->TF,True,retained
+hsa-miR-133b,TP63,miRNA->TF,True,retained
+hsa-miR-134,CEBPA,miRNA->TF,True,retained
+hsa-miR-134,HNF4A,miRNA->TF,True,retained
+hsa-miR-134,KLF4,miRNA->TF,True,retained
+hsa-miR-135a,CEBPD,miRNA->TF,True,retained
+hsa-miR-135a,HOXA10,miRNA->TF,False,none
+hsa-miR-135b,FOXM1,miRNA->TF,True,retained
+hsa-miR-135b,HOXA10,miRNA->TF,False,none
+hsa-miR-135b,HSF1,miRNA->TF,True,retained
+hsa-miR-135b,JUN,miRNA->TF,True,retained
+hsa-miR-135b,PAX6,miRNA->TF,True,retained
+hsa-miR-135b,SOX2,miRNA->TF,True,retained
+hsa-miR-135b,STAT3,miRNA->TF,True,retained
+hsa-miR-136,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-136,SMAD3,miRNA->TF,True,retained
+hsa-miR-137,EZH2,miRNA->TF,True,retained
+hsa-miR-137,FOXD3,miRNA->TF,True,"tested, not retained"
+hsa-miR-137,MECP2,miRNA->TF,True,retained
+hsa-miR-137,REST,miRNA->TF,True,retained
+hsa-miR-137,SNAI2,miRNA->TF,True,retained
+hsa-miR-137,SOX2,miRNA->TF,True,retained
+hsa-miR-137,TWIST1,miRNA->TF,False,none
+hsa-miR-137,YY1,miRNA->TF,True,retained
+hsa-miR-138,GATA1,miRNA->TF,False,retained
+hsa-miR-138,GATA3,miRNA->TF,True,retained
+hsa-miR-138,TP63,miRNA->TF,False,retained
+hsa-miR-139,EZH2,miRNA->TF,True,retained
+hsa-miR-139,FOS,miRNA->TF,False,none
+hsa-miR-139,JUN,miRNA->TF,True,retained
+hsa-miR-139,REST,miRNA->TF,True,retained
+hsa-miR-139,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-140,ESR1,miRNA->TF,True,retained
+hsa-miR-140,KLF5,miRNA->TF,False,none
+hsa-miR-140,SMAD3,miRNA->TF,True,retained
+hsa-miR-140,SOX9,miRNA->TF,True,retained
+hsa-miR-141,BMI1,miRNA->TF,True,"tested, not retained"
+hsa-miR-141,EP300,miRNA->TF,True,retained
+hsa-miR-141,EZH2,miRNA->TF,True,retained
+hsa-miR-141,FOXM1,miRNA->TF,True,retained
+hsa-miR-141,HDAC2,miRNA->TF,True,retained
+hsa-miR-141,JUN,miRNA->TF,True,retained
+hsa-miR-141,KLF5,miRNA->TF,True,retained
+hsa-miR-141,KLF8,miRNA->TF,True,"tested, not retained"
+hsa-miR-141,MYB,miRNA->TF,True,retained
+hsa-miR-141,MYC,miRNA->TF,True,retained
+hsa-miR-141,SNAI1,miRNA->TF,True,retained
+hsa-miR-141,SNAI2,miRNA->TF,True,retained
+hsa-miR-141,SOX2,miRNA->TF,True,retained
+hsa-miR-141,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-141,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-141,TWIST1,miRNA->TF,True,retained
+hsa-miR-141,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-142,DNMT1,miRNA->TF,True,retained
+hsa-miR-142,EGR1,miRNA->TF,True,retained
+hsa-miR-142,EGR2,miRNA->TF,True,retained
+hsa-miR-142,EPAS1,miRNA->TF,False,none
+hsa-miR-142,FOS,miRNA->TF,False,none
+hsa-miR-142,HOXA10,miRNA->TF,False,none
+hsa-miR-142,IRF1,miRNA->TF,False,none
+hsa-miR-142,POU5F1,miRNA->TF,True,retained
+hsa-miR-142,PPARG,miRNA->TF,True,retained
+hsa-miR-142,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-142,SPI1,miRNA->TF,True,retained
+hsa-miR-142,STAT6,miRNA->TF,True,retained
+hsa-miR-142,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-143,CEBPB,miRNA->TF,True,retained
+hsa-miR-143,ESR1,miRNA->TF,True,retained
+hsa-miR-143,EZH2,miRNA->TF,True,retained
+hsa-miR-143,HIF1A,miRNA->TF,True,retained
+hsa-miR-143,KLF2,miRNA->TF,True,retained
+hsa-miR-143,KLF4,miRNA->TF,True,retained
+hsa-miR-143,KLF5,miRNA->TF,False,none
+hsa-miR-143,MKL1,miRNA->TF,True,"tested, not retained"
+hsa-miR-143,MYB,miRNA->TF,True,retained
+hsa-miR-143,NKX2-5,miRNA->TF,True,retained
+hsa-miR-143,NR1H2,miRNA->TF,True,"tested, not retained"
+hsa-miR-143,RARA,miRNA->TF,True,retained
+hsa-miR-143,RXRA,miRNA->TF,True,retained
+hsa-miR-143,SMAD3,miRNA->TF,True,retained
+hsa-miR-143,SMAD4,miRNA->TF,True,retained
+hsa-miR-143,SRF,miRNA->TF,True,retained
+hsa-miR-143,STAT3,miRNA->TF,True,retained
+hsa-miR-143,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-143,TP73,miRNA->TF,True,retained
+hsa-miR-144,CEBPA,miRNA->TF,False,none
+hsa-miR-144,ELK1,miRNA->TF,True,retained
+hsa-miR-144,FOS,miRNA->TF,False,none
+hsa-miR-144,GATA1,miRNA->TF,True,retained
+hsa-miR-144,GATA4,miRNA->TF,True,retained
+hsa-miR-144,HOXA10,miRNA->TF,False,none
+hsa-miR-144,JUN,miRNA->TF,True,retained
+hsa-miR-144,NR1H4,miRNA->TF,True,retained
+hsa-miR-144,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-144,TAL1,miRNA->TF,True,retained
+hsa-miR-145,AR,miRNA->TF,True,retained
+hsa-miR-145,CEBPB,miRNA->TF,True,retained
+hsa-miR-145,ESR1,miRNA->TF,True,retained
+hsa-miR-145,FOXO1,miRNA->TF,True,retained
+hsa-miR-145,HIF1A,miRNA->TF,True,retained
+hsa-miR-145,KLF2,miRNA->TF,True,retained
+hsa-miR-145,KLF4,miRNA->TF,True,retained
+hsa-miR-145,KLF5,miRNA->TF,False,none
+hsa-miR-145,MKL1,miRNA->TF,True,"tested, not retained"
+hsa-miR-145,NKX2-5,miRNA->TF,True,retained
+hsa-miR-145,NR1H2,miRNA->TF,True,"tested, not retained"
+hsa-miR-145,POU5F1,miRNA->TF,True,retained
+hsa-miR-145,PPARG,miRNA->TF,True,retained
+hsa-miR-145,RARA,miRNA->TF,True,retained
+hsa-miR-145,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-145,RXRA,miRNA->TF,True,retained
+hsa-miR-145,SMAD3,miRNA->TF,True,retained
+hsa-miR-145,SMAD4,miRNA->TF,True,retained
+hsa-miR-145,SNAI2,miRNA->TF,True,retained
+hsa-miR-145,SRF,miRNA->TF,True,retained
+hsa-miR-145,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-145,TP73,miRNA->TF,True,retained
+hsa-miR-145,VDR,miRNA->TF,True,retained
+hsa-miR-145,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,BRCA1,miRNA->TF,True,retained
+hsa-miR-146a,CTNNB1,miRNA->TF,True,retained
+hsa-miR-146a,EGR3,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,EPAS1,miRNA->TF,True,retained
+hsa-miR-146a,ETS1,miRNA->TF,True,retained
+hsa-miR-146a,EZH2,miRNA->TF,True,retained
+hsa-miR-146a,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,HIF1A,miRNA->TF,True,retained
+hsa-miR-146a,JUN,miRNA->TF,True,retained
+hsa-miR-146a,MITF,miRNA->TF,True,retained
+hsa-miR-146a,MYC,miRNA->TF,True,retained
+hsa-miR-146a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,SPI1,miRNA->TF,True,retained
+hsa-miR-146a,STAT3,miRNA->TF,True,retained
+hsa-miR-146a,TCF4,miRNA->TF,True,retained
+hsa-miR-146a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-146a,ZBTB16,miRNA->TF,True,retained
+hsa-miR-146b,BRCA1,miRNA->TF,True,retained
+hsa-miR-146b,CEBPB,miRNA->TF,True,retained
+hsa-miR-146b,EGR1,miRNA->TF,True,retained
+hsa-miR-146b,EGR3,miRNA->TF,True,"tested, not retained"
+hsa-miR-146b,GATA1,miRNA->TF,True,retained
+hsa-miR-146b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-146b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-146b,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-146b,STAT1,miRNA->TF,True,retained
+hsa-miR-146b,STAT3,miRNA->TF,True,retained
+hsa-miR-146b,TAL1,miRNA->TF,True,retained
+hsa-miR-148a,CREB1,miRNA->TF,True,retained
+hsa-miR-148a,DNMT1,miRNA->TF,True,retained
+hsa-miR-148a,EGR1,miRNA->TF,True,retained
+hsa-miR-148a,EPAS1,miRNA->TF,False,none
+hsa-miR-148a,GATA1,miRNA->TF,True,retained
+hsa-miR-148a,KLF5,miRNA->TF,False,none
+hsa-miR-148a,MYB,miRNA->TF,True,retained
+hsa-miR-148a,MYC,miRNA->TF,True,retained
+hsa-miR-148a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-148a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-148a,USF1,miRNA->TF,True,retained
+hsa-miR-148b,EPAS1,miRNA->TF,False,none
+hsa-miR-148b,KLF5,miRNA->TF,False,none
+hsa-miR-148b,MITF,miRNA->TF,True,retained
+hsa-miR-149,EGR1,miRNA->TF,True,retained
+hsa-miR-149,FOS,miRNA->TF,False,none
+hsa-miR-149,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-150,CTNNB1,miRNA->TF,True,retained
+hsa-miR-150,DNMT1,miRNA->TF,True,retained
+hsa-miR-150,EP300,miRNA->TF,True,retained
+hsa-miR-150,HNF4A,miRNA->TF,True,retained
+hsa-miR-150,KLF2,miRNA->TF,True,retained
+hsa-miR-150,KLF4,miRNA->TF,True,retained
+hsa-miR-150,LEF1,miRNA->TF,True,retained
+hsa-miR-150,MYC,miRNA->TF,True,retained
+hsa-miR-150,MYOD1,miRNA->TF,True,"tested, not retained"
+hsa-miR-150,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-150,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-150,STAT3,miRNA->TF,True,retained
+hsa-miR-150,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-151a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-151a,TWIST1,miRNA->TF,False,none
+hsa-miR-152,BRCA1,miRNA->TF,True,retained
+hsa-miR-152,DNMT1,miRNA->TF,True,retained
+hsa-miR-152,EGR1,miRNA->TF,True,retained
+hsa-miR-152,EPAS1,miRNA->TF,False,none
+hsa-miR-152,KLF5,miRNA->TF,False,none
+hsa-miR-154,HNF4A,miRNA->TF,True,retained
+hsa-miR-155,BCL6,miRNA->TF,True,retained
+hsa-miR-155,BRCA1,miRNA->TF,True,retained
+hsa-miR-155,CEBPB,miRNA->TF,False,none
+hsa-miR-155,EPAS1,miRNA->TF,False,none
+hsa-miR-155,ETS1,miRNA->TF,True,retained
+hsa-miR-155,ETS2,miRNA->TF,True,retained
+hsa-miR-155,EZH2,miRNA->TF,True,retained
+hsa-miR-155,FOS,miRNA->TF,False,none
+hsa-miR-155,HDAC2,miRNA->TF,True,retained
+hsa-miR-155,HDAC4,miRNA->TF,True,retained
+hsa-miR-155,HIF1A,miRNA->TF,True,retained
+hsa-miR-155,IRF1,miRNA->TF,True,retained
+hsa-miR-155,IRF3,miRNA->TF,True,retained
+hsa-miR-155,MYB,miRNA->TF,True,retained
+hsa-miR-155,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-155,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-155,SMAD3,miRNA->TF,True,retained
+hsa-miR-155,SMAD4,miRNA->TF,True,retained
+hsa-miR-155,SOX10,miRNA->TF,False,none
+hsa-miR-155,SPI1,miRNA->TF,True,retained
+hsa-miR-155,STAT1,miRNA->TF,True,retained
+hsa-miR-155,STAT3,miRNA->TF,True,retained
+hsa-miR-155,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-155,TP63,miRNA->TF,True,retained
+hsa-miR-155,YY1,miRNA->TF,True,retained
+hsa-miR-15a,E2F1,miRNA->TF,True,retained
+hsa-miR-15a,E2F3,miRNA->TF,True,retained
+hsa-miR-15a,HOXA10,miRNA->TF,False,none
+hsa-miR-15a,KLF4,miRNA->TF,True,retained
+hsa-miR-15a,MYB,miRNA->TF,True,retained
+hsa-miR-15a,MYC,miRNA->TF,True,retained
+hsa-miR-15a,PAX5,miRNA->TF,True,retained
+hsa-miR-15a,STAT3,miRNA->TF,True,retained
+hsa-miR-15a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-15b,CREB1,miRNA->TF,True,retained
+hsa-miR-15b,E2F1,miRNA->TF,True,retained
+hsa-miR-15b,E2F3,miRNA->TF,True,retained
+hsa-miR-15b,HOXA10,miRNA->TF,False,none
+hsa-miR-15b,REL,miRNA->TF,True,"tested, not retained"
+hsa-miR-15b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-15b,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-16,E2F1,miRNA->TF,True,retained
+hsa-miR-16,E2F3,miRNA->TF,True,retained
+hsa-miR-16,ETS1,miRNA->TF,True,retained
+hsa-miR-16,HOXA10,miRNA->TF,False,none
+hsa-miR-16,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-16,MYC,miRNA->TF,True,retained
+hsa-miR-16,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-16,PAX5,miRNA->TF,False,retained
+hsa-miR-16,STAT3,miRNA->TF,False,retained
+hsa-miR-16,TP53,miRNA->TF,False,"tested, not retained"
+hsa-miR-16,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,AR,miRNA->TF,True,retained
+hsa-miR-17,CEBPB,miRNA->TF,True,retained
+hsa-miR-17,E2F1,miRNA->TF,True,retained
+hsa-miR-17,E2F3,miRNA->TF,True,retained
+hsa-miR-17,ELK1,miRNA->TF,True,retained
+hsa-miR-17,EPAS1,miRNA->TF,False,none
+hsa-miR-17,ESR1,miRNA->TF,True,retained
+hsa-miR-17,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,IRF1,miRNA->TF,False,none
+hsa-miR-17,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,MYC,miRNA->TF,True,retained
+hsa-miR-17,MYCN,miRNA->TF,True,retained
+hsa-miR-17,NANOG,miRNA->TF,True,retained
+hsa-miR-17,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,NKX2-5,miRNA->TF,True,retained
+hsa-miR-17,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,SMAD3,miRNA->TF,True,retained
+hsa-miR-17,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,SPI1,miRNA->TF,True,retained
+hsa-miR-17,SREBF2,miRNA->TF,True,retained
+hsa-miR-17,STAT3,miRNA->TF,True,retained
+hsa-miR-17,TFAP2A,miRNA->TF,True,retained
+hsa-miR-17,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-17,TWIST1,miRNA->TF,False,none
+hsa-miR-181a,CEBPA,miRNA->TF,True,retained
+hsa-miR-181a,ESR1,miRNA->TF,True,retained
+hsa-miR-181a,FOS,miRNA->TF,False,none
+hsa-miR-181a,HDAC3,miRNA->TF,True,retained
+hsa-miR-181a,LEF1,miRNA->TF,False,retained
+hsa-miR-181a,MYCN,miRNA->TF,True,retained
+hsa-miR-181a,SMAD3,miRNA->TF,False,retained
+hsa-miR-181a,SMAD4,miRNA->TF,False,retained
+hsa-miR-181a,SNAI2,miRNA->TF,False,none
+hsa-miR-181a,SOX2,miRNA->TF,False,retained
+hsa-miR-181a,STAT3,miRNA->TF,True,retained
+hsa-miR-181a,TAL1,miRNA->TF,True,retained
+hsa-miR-181a,TCF4,miRNA->TF,False,retained
+hsa-miR-181a,TCF7L2,miRNA->TF,True,retained
+hsa-miR-181a,TP63,miRNA->TF,True,retained
+hsa-miR-181a,TWIST1,miRNA->TF,True,retained
+hsa-miR-181b,ESR1,miRNA->TF,False,retained
+hsa-miR-181b,ETS1,miRNA->TF,True,retained
+hsa-miR-181b,EZH2,miRNA->TF,True,retained
+hsa-miR-181b,FOS,miRNA->TF,False,none
+hsa-miR-181b,MYCN,miRNA->TF,True,retained
+hsa-miR-181b,SMAD3,miRNA->TF,False,retained
+hsa-miR-181b,SMAD4,miRNA->TF,False,retained
+hsa-miR-181b,SNAI2,miRNA->TF,False,none
+hsa-miR-181b,STAT3,miRNA->TF,True,retained
+hsa-miR-181b,TCF4,miRNA->TF,False,retained
+hsa-miR-181b,TCF7L2,miRNA->TF,True,retained
+hsa-miR-181b,TP63,miRNA->TF,False,retained
+hsa-miR-181b,TWIST1,miRNA->TF,False,retained
+hsa-miR-181c,CEBPB,miRNA->TF,True,retained
+hsa-miR-181c,EGR1,miRNA->TF,True,retained
+hsa-miR-181c,EPAS1,miRNA->TF,True,retained
+hsa-miR-181c,ETS1,miRNA->TF,True,retained
+hsa-miR-181c,FOS,miRNA->TF,False,none
+hsa-miR-181c,HIF1A,miRNA->TF,True,retained
+hsa-miR-181c,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-181c,SNAI2,miRNA->TF,False,none
+hsa-miR-181d,EGR1,miRNA->TF,True,retained
+hsa-miR-181d,FOS,miRNA->TF,False,none
+hsa-miR-181d,MYCN,miRNA->TF,True,retained
+hsa-miR-181d,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-181d,SNAI2,miRNA->TF,False,none
+hsa-miR-182,AR,miRNA->TF,True,retained
+hsa-miR-182,CEBPA,miRNA->TF,True,retained
+hsa-miR-182,CTNNB1,miRNA->TF,True,retained
+hsa-miR-182,EPAS1,miRNA->TF,False,none
+hsa-miR-182,ETS1,miRNA->TF,True,retained
+hsa-miR-182,HDAC2,miRNA->TF,True,retained
+hsa-miR-182,HIF1A,miRNA->TF,True,retained
+hsa-miR-182,HNF4A,miRNA->TF,True,retained
+hsa-miR-182,HSF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-182,KLF4,miRNA->TF,True,retained
+hsa-miR-182,LEF1,miRNA->TF,True,retained
+hsa-miR-182,MYCN,miRNA->TF,True,retained
+hsa-miR-182,MYOD1,miRNA->TF,True,"tested, not retained"
+hsa-miR-182,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-182,SOX2,miRNA->TF,True,retained
+hsa-miR-182,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-182,SREBF2,miRNA->TF,True,retained
+hsa-miR-182,STAT3,miRNA->TF,True,retained
+hsa-miR-183,CTNNB1,miRNA->TF,True,retained
+hsa-miR-183,EGR1,miRNA->TF,True,retained
+hsa-miR-183,ETS1,miRNA->TF,True,retained
+hsa-miR-183,HDAC2,miRNA->TF,True,retained
+hsa-miR-183,HIF1A,miRNA->TF,True,retained
+hsa-miR-183,HNF4A,miRNA->TF,True,retained
+hsa-miR-183,HSF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-183,KLF4,miRNA->TF,True,retained
+hsa-miR-183,LEF1,miRNA->TF,True,retained
+hsa-miR-183,MYCN,miRNA->TF,True,retained
+hsa-miR-183,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-183,SOX2,miRNA->TF,True,retained
+hsa-miR-183,SREBF2,miRNA->TF,True,retained
+hsa-miR-183,STAT3,miRNA->TF,True,retained
+hsa-miR-185,EGR1,miRNA->TF,True,retained
+hsa-miR-185,HDAC4,miRNA->TF,True,retained
+hsa-miR-185,HIF1A,miRNA->TF,True,retained
+hsa-miR-185,SREBF1,miRNA->TF,True,retained
+hsa-miR-188,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,AR,miRNA->TF,True,retained
+hsa-miR-18a,CEBPB,miRNA->TF,True,retained
+hsa-miR-18a,E2F1,miRNA->TF,True,retained
+hsa-miR-18a,E2F3,miRNA->TF,True,retained
+hsa-miR-18a,ELK1,miRNA->TF,True,retained
+hsa-miR-18a,ESR1,miRNA->TF,True,retained
+hsa-miR-18a,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,MYC,miRNA->TF,True,retained
+hsa-miR-18a,MYCN,miRNA->TF,True,retained
+hsa-miR-18a,NANOG,miRNA->TF,True,retained
+hsa-miR-18a,NKX2-5,miRNA->TF,True,retained
+hsa-miR-18a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,SMAD3,miRNA->TF,True,retained
+hsa-miR-18a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,SPI1,miRNA->TF,True,retained
+hsa-miR-18a,SREBF2,miRNA->TF,True,retained
+hsa-miR-18a,STAT3,miRNA->TF,True,retained
+hsa-miR-18a,TFAP2A,miRNA->TF,True,retained
+hsa-miR-18a,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-18a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-18b,E2F1,miRNA->TF,True,retained
+hsa-miR-18b,ESR1,miRNA->TF,True,retained
+hsa-miR-18b,JUN,miRNA->TF,True,retained
+hsa-miR-18b,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-18b,MITF,miRNA->TF,True,retained
+hsa-miR-18b,MYC,miRNA->TF,True,retained
+hsa-miR-18b,MYCN,miRNA->TF,True,retained
+hsa-miR-18b,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-190a,AR,miRNA->TF,True,retained
+hsa-miR-190a,CEBPA,miRNA->TF,False,none
+hsa-miR-191,EGR1,miRNA->TF,True,retained
+hsa-miR-191,EPAS1,miRNA->TF,True,retained
+hsa-miR-191,ESR1,miRNA->TF,True,retained
+hsa-miR-191,HIF1A,miRNA->TF,True,retained
+hsa-miR-191,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-192,ETS1,miRNA->TF,True,retained
+hsa-miR-192,HNF1A,miRNA->TF,True,retained
+hsa-miR-192,HNF4A,miRNA->TF,True,retained
+hsa-miR-192,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-192,SMAD3,miRNA->TF,True,retained
+hsa-miR-192,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-192,TWIST1,miRNA->TF,True,retained
+hsa-miR-193a,HIF1A,miRNA->TF,True,retained
+hsa-miR-193a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-193a,RXRA,miRNA->TF,True,retained
+hsa-miR-193a,TP63,miRNA->TF,True,retained
+hsa-miR-193a,TP73,miRNA->TF,True,retained
+hsa-miR-193b,CEBPD,miRNA->TF,True,retained
+hsa-miR-193b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-193b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-194,HNF1A,miRNA->TF,True,retained
+hsa-miR-194,HNF4A,miRNA->TF,True,retained
+hsa-miR-194,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-195,E2F1,miRNA->TF,True,retained
+hsa-miR-195,E2F3,miRNA->TF,True,retained
+hsa-miR-195,EGR3,miRNA->TF,True,"tested, not retained"
+hsa-miR-195,HDAC3,miRNA->TF,True,retained
+hsa-miR-195,HOXA10,miRNA->TF,False,none
+hsa-miR-195,MYC,miRNA->TF,True,retained
+hsa-miR-195,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-196a,HMGA1,miRNA->TF,False,retained
+hsa-miR-196a,HOXB7,miRNA->TF,False,none
+hsa-miR-196a,MYC,miRNA->TF,False,retained
+hsa-miR-196a,TP53,miRNA->TF,False,"tested, not retained"
+hsa-miR-196b,ETS2,miRNA->TF,True,retained
+hsa-miR-196b,GATA1,miRNA->TF,True,retained
+hsa-miR-196b,HOXA9,miRNA->TF,True,retained
+hsa-miR-196b,HOXB7,miRNA->TF,False,none
+hsa-miR-196b,MEIS1,miRNA->TF,True,"tested, not retained"
+hsa-miR-196b,PBX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-199a,ATF3,miRNA->TF,False,retained
+hsa-miR-199a,CTNNB1,miRNA->TF,True,retained
+hsa-miR-199a,EGR1,miRNA->TF,False,retained
+hsa-miR-199a,EPAS1,miRNA->TF,False,none
+hsa-miR-199a,FOS,miRNA->TF,False,none
+hsa-miR-199a,HIF1A,miRNA->TF,False,retained
+hsa-miR-199a,MKL1,miRNA->TF,False,"tested, not retained"
+hsa-miR-199a,NFKB1,miRNA->TF,False,"tested, not retained"
+hsa-miR-199a,NR1H4,miRNA->TF,True,retained
+hsa-miR-199a,PPARA,miRNA->TF,False,retained
+hsa-miR-199a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-199a,REST,miRNA->TF,True,retained
+hsa-miR-199a,SPI1,miRNA->TF,False,retained
+hsa-miR-199a,SRF,miRNA->TF,False,retained
+hsa-miR-199a,TWIST1,miRNA->TF,True,retained
+hsa-miR-19a,AR,miRNA->TF,True,retained
+hsa-miR-19a,CEBPB,miRNA->TF,True,retained
+hsa-miR-19a,E2F1,miRNA->TF,True,retained
+hsa-miR-19a,E2F3,miRNA->TF,True,retained
+hsa-miR-19a,ELK1,miRNA->TF,True,retained
+hsa-miR-19a,ESR1,miRNA->TF,True,retained
+hsa-miR-19a,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,MYC,miRNA->TF,True,retained
+hsa-miR-19a,MYCN,miRNA->TF,True,retained
+hsa-miR-19a,NANOG,miRNA->TF,True,retained
+hsa-miR-19a,NKX2-5,miRNA->TF,True,retained
+hsa-miR-19a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,SMAD3,miRNA->TF,True,retained
+hsa-miR-19a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,SPI1,miRNA->TF,True,retained
+hsa-miR-19a,SREBF2,miRNA->TF,True,retained
+hsa-miR-19a,STAT3,miRNA->TF,True,retained
+hsa-miR-19a,TFAP2A,miRNA->TF,True,retained
+hsa-miR-19a,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-19a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-19b,AR,miRNA->TF,False,retained
+hsa-miR-19b,CEBPB,miRNA->TF,False,retained
+hsa-miR-19b,E2F1,miRNA->TF,True,retained
+hsa-miR-19b,E2F3,miRNA->TF,False,retained
+hsa-miR-19b,ELK1,miRNA->TF,False,retained
+hsa-miR-19b,ESR1,miRNA->TF,True,retained
+hsa-miR-19b,HES1,miRNA->TF,False,"tested, not retained"
+hsa-miR-19b,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-19b,MITF,miRNA->TF,False,retained
+hsa-miR-19b,MYC,miRNA->TF,True,retained
+hsa-miR-19b,MYCN,miRNA->TF,True,retained
+hsa-miR-19b,NANOG,miRNA->TF,False,retained
+hsa-miR-19b,NKX2-5,miRNA->TF,True,retained
+hsa-miR-19b,RELA,miRNA->TF,False,"tested, not retained"
+hsa-miR-19b,RUNX1,miRNA->TF,False,"tested, not retained"
+hsa-miR-19b,SMAD3,miRNA->TF,False,retained
+hsa-miR-19b,SOX2,miRNA->TF,False,retained
+hsa-miR-19b,SP1,miRNA->TF,False,"tested, not retained"
+hsa-miR-19b,SPI1,miRNA->TF,False,retained
+hsa-miR-19b,SREBF2,miRNA->TF,False,retained
+hsa-miR-19b,STAT3,miRNA->TF,False,retained
+hsa-miR-19b,TFAP2A,miRNA->TF,True,retained
+hsa-miR-19b,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-19b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,DNMT1,miRNA->TF,True,retained
+hsa-miR-200a,EZH2,miRNA->TF,True,retained
+hsa-miR-200a,FOXF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,FOXM1,miRNA->TF,True,retained
+hsa-miR-200a,GATA3,miRNA->TF,True,retained
+hsa-miR-200a,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,HDAC2,miRNA->TF,True,retained
+hsa-miR-200a,HDAC4,miRNA->TF,True,retained
+hsa-miR-200a,HNF4A,miRNA->TF,True,retained
+hsa-miR-200a,JUN,miRNA->TF,True,retained
+hsa-miR-200a,KLF4,miRNA->TF,True,retained
+hsa-miR-200a,KLF5,miRNA->TF,True,retained
+hsa-miR-200a,MYB,miRNA->TF,True,retained
+hsa-miR-200a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,SIX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,SMAD3,miRNA->TF,True,retained
+hsa-miR-200a,SNAI1,miRNA->TF,True,retained
+hsa-miR-200a,SNAI2,miRNA->TF,True,retained
+hsa-miR-200a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-200a,TP63,miRNA->TF,True,retained
+hsa-miR-200a,TP73,miRNA->TF,True,retained
+hsa-miR-200a,TWIST1,miRNA->TF,True,retained
+hsa-miR-200a,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,DNMT1,miRNA->TF,True,retained
+hsa-miR-200b,E2F3,miRNA->TF,True,retained
+hsa-miR-200b,EGR1,miRNA->TF,True,retained
+hsa-miR-200b,ELK1,miRNA->TF,True,retained
+hsa-miR-200b,ETV4,miRNA->TF,True,retained
+hsa-miR-200b,EZH2,miRNA->TF,True,retained
+hsa-miR-200b,FOXF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,FOXM1,miRNA->TF,True,retained
+hsa-miR-200b,GATA3,miRNA->TF,True,retained
+hsa-miR-200b,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,HDAC2,miRNA->TF,True,retained
+hsa-miR-200b,HDAC4,miRNA->TF,True,retained
+hsa-miR-200b,HNF4A,miRNA->TF,True,retained
+hsa-miR-200b,JUN,miRNA->TF,True,retained
+hsa-miR-200b,KLF4,miRNA->TF,True,retained
+hsa-miR-200b,KLF5,miRNA->TF,True,retained
+hsa-miR-200b,MYB,miRNA->TF,True,retained
+hsa-miR-200b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,SIX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,SMAD3,miRNA->TF,True,retained
+hsa-miR-200b,SNAI1,miRNA->TF,True,retained
+hsa-miR-200b,SNAI2,miRNA->TF,True,retained
+hsa-miR-200b,SOX2,miRNA->TF,False,none
+hsa-miR-200b,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-200b,TP63,miRNA->TF,True,retained
+hsa-miR-200b,TP73,miRNA->TF,True,retained
+hsa-miR-200b,TWIST1,miRNA->TF,True,retained
+hsa-miR-200b,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,BMI1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,EP300,miRNA->TF,True,retained
+hsa-miR-200c,ERG,miRNA->TF,True,retained
+hsa-miR-200c,EZH2,miRNA->TF,True,retained
+hsa-miR-200c,FOXM1,miRNA->TF,True,retained
+hsa-miR-200c,GATA3,miRNA->TF,True,retained
+hsa-miR-200c,HDAC2,miRNA->TF,True,retained
+hsa-miR-200c,HNF4A,miRNA->TF,True,retained
+hsa-miR-200c,JUN,miRNA->TF,True,retained
+hsa-miR-200c,KLF4,miRNA->TF,True,retained
+hsa-miR-200c,KLF5,miRNA->TF,True,retained
+hsa-miR-200c,MYB,miRNA->TF,True,retained
+hsa-miR-200c,MYC,miRNA->TF,True,retained
+hsa-miR-200c,NCOR1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,PPARA,miRNA->TF,True,retained
+hsa-miR-200c,SIX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,SNAI1,miRNA->TF,True,retained
+hsa-miR-200c,SNAI2,miRNA->TF,True,retained
+hsa-miR-200c,SOX2,miRNA->TF,True,retained
+hsa-miR-200c,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,STAT3,miRNA->TF,True,retained
+hsa-miR-200c,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-200c,TWIST1,miRNA->TF,True,retained
+hsa-miR-200c,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-202,E2F1,miRNA->TF,True,retained
+hsa-miR-202,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-202,TP63,miRNA->TF,True,retained
+hsa-miR-202,TP73,miRNA->TF,True,retained
+hsa-miR-203,IRF1,miRNA->TF,True,retained
+hsa-miR-203,SNAI2,miRNA->TF,True,retained
+hsa-miR-204,HIF1A,miRNA->TF,True,retained
+hsa-miR-204,MITF,miRNA->TF,True,retained
+hsa-miR-204,STAT3,miRNA->TF,True,retained
+hsa-miR-205,BRCA1,miRNA->TF,True,retained
+hsa-miR-205,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-205,HIF1A,miRNA->TF,True,retained
+hsa-miR-205,IRF1,miRNA->TF,False,none
+hsa-miR-205,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-205,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-205,TP63,miRNA->TF,True,retained
+hsa-miR-205,TP73,miRNA->TF,True,retained
+hsa-miR-205,TWIST1,miRNA->TF,True,retained
+hsa-miR-206,KLF4,miRNA->TF,True,retained
+hsa-miR-206,MYOD1,miRNA->TF,True,"tested, not retained"
+hsa-miR-206,NR1H3,miRNA->TF,True,"tested, not retained"
+hsa-miR-206,SNAI2,miRNA->TF,False,none
+hsa-miR-206,SRF,miRNA->TF,True,retained
+hsa-miR-20a,AR,miRNA->TF,True,retained
+hsa-miR-20a,CEBPB,miRNA->TF,True,retained
+hsa-miR-20a,E2F1,miRNA->TF,True,retained
+hsa-miR-20a,E2F3,miRNA->TF,True,retained
+hsa-miR-20a,ELK1,miRNA->TF,True,retained
+hsa-miR-20a,EPAS1,miRNA->TF,False,none
+hsa-miR-20a,ESR1,miRNA->TF,True,retained
+hsa-miR-20a,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,HIF1A,miRNA->TF,True,retained
+hsa-miR-20a,IRF1,miRNA->TF,False,none
+hsa-miR-20a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,MYC,miRNA->TF,True,retained
+hsa-miR-20a,MYCN,miRNA->TF,True,retained
+hsa-miR-20a,NANOG,miRNA->TF,True,retained
+hsa-miR-20a,NKX2-5,miRNA->TF,True,retained
+hsa-miR-20a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,SMAD3,miRNA->TF,True,retained
+hsa-miR-20a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,SPI1,miRNA->TF,True,retained
+hsa-miR-20a,SREBF2,miRNA->TF,True,retained
+hsa-miR-20a,STAT3,miRNA->TF,True,retained
+hsa-miR-20a,TFAP2A,miRNA->TF,True,retained
+hsa-miR-20a,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-20a,TWIST1,miRNA->TF,False,none
+hsa-miR-20b,E2F1,miRNA->TF,True,retained
+hsa-miR-20b,EGR1,miRNA->TF,True,retained
+hsa-miR-20b,EPAS1,miRNA->TF,False,none
+hsa-miR-20b,ESR1,miRNA->TF,True,retained
+hsa-miR-20b,IRF1,miRNA->TF,False,none
+hsa-miR-20b,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-20b,MITF,miRNA->TF,True,retained
+hsa-miR-20b,MYC,miRNA->TF,True,retained
+hsa-miR-20b,MYCN,miRNA->TF,True,retained
+hsa-miR-20b,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-20b,TWIST1,miRNA->TF,False,none
+hsa-miR-21,AR,miRNA->TF,True,retained
+hsa-miR-21,CREB1,miRNA->TF,True,retained
+hsa-miR-21,CREBBP,miRNA->TF,True,retained
+hsa-miR-21,EP300,miRNA->TF,True,retained
+hsa-miR-21,ESR1,miRNA->TF,True,retained
+hsa-miR-21,ETS1,miRNA->TF,True,retained
+hsa-miR-21,ETV5,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,FOS,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,FOXO3,miRNA->TF,True,retained
+hsa-miR-21,HIF1A,miRNA->TF,True,retained
+hsa-miR-21,HOXA9,miRNA->TF,True,retained
+hsa-miR-21,JUN,miRNA->TF,True,retained
+hsa-miR-21,KLF4,miRNA->TF,True,retained
+hsa-miR-21,KLF5,miRNA->TF,False,none
+hsa-miR-21,MEIS1,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,PBX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,PPARG,miRNA->TF,True,retained
+hsa-miR-21,REL,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-21,REST,miRNA->TF,True,retained
+hsa-miR-21,RUNX2,miRNA->TF,True,retained
+hsa-miR-21,SMAD3,miRNA->TF,True,retained
+hsa-miR-21,SOX2,miRNA->TF,False,none
+hsa-miR-21,SPI1,miRNA->TF,True,retained
+hsa-miR-21,STAT3,miRNA->TF,True,retained
+hsa-miR-21,TCF4,miRNA->TF,True,retained
+hsa-miR-21,TCF7L2,miRNA->TF,True,retained
+hsa-miR-21,ZBTB7A,miRNA->TF,True,"tested, not retained"
+hsa-miR-210,ELK1,miRNA->TF,True,retained
+hsa-miR-210,EPAS1,miRNA->TF,True,retained
+hsa-miR-210,HIF1A,miRNA->TF,True,retained
+hsa-miR-210,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-210,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-210,VHL,miRNA->TF,True,retained
+hsa-miR-212,AHR,miRNA->TF,False,retained
+hsa-miR-212,CREB1,miRNA->TF,True,retained
+hsa-miR-212,EGR1,miRNA->TF,True,retained
+hsa-miR-212,IRF1,miRNA->TF,False,none
+hsa-miR-212,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-212,REST,miRNA->TF,True,retained
+hsa-miR-214,CUX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-214,EGR1,miRNA->TF,True,retained
+hsa-miR-214,FOXD3,miRNA->TF,True,"tested, not retained"
+hsa-miR-214,HIF1A,miRNA->TF,True,retained
+hsa-miR-214,KLF5,miRNA->TF,False,none
+hsa-miR-214,MKL1,miRNA->TF,True,"tested, not retained"
+hsa-miR-214,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-214,PPARA,miRNA->TF,True,retained
+hsa-miR-214,SRF,miRNA->TF,True,retained
+hsa-miR-214,STAT3,miRNA->TF,True,retained
+hsa-miR-214,TFAP2A,miRNA->TF,True,retained
+hsa-miR-214,TWIST1,miRNA->TF,True,retained
+hsa-miR-215,CDX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-215,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-216a,AR,miRNA->TF,True,retained
+hsa-miR-216a,HOXA10,miRNA->TF,False,none
+hsa-miR-217,EZH2,miRNA->TF,True,retained
+hsa-miR-217,NF1,miRNA->TF,True,retained
+hsa-miR-217,SUZ12,miRNA->TF,True,"tested, not retained"
+hsa-miR-218,DNMT1,miRNA->TF,True,retained
+hsa-miR-218,EZH2,miRNA->TF,True,retained
+hsa-miR-218,HIF1A,miRNA->TF,False,retained
+hsa-miR-218,HOXA10,miRNA->TF,False,none
+hsa-miR-218,STAT3,miRNA->TF,True,retained
+hsa-miR-219a,EGR1,miRNA->TF,True,retained
+hsa-miR-219a,NFKB1,miRNA->TF,False,"tested, not retained"
+hsa-miR-219a,SOX10,miRNA->TF,False,none
+hsa-miR-22,ESR1,miRNA->TF,True,retained
+hsa-miR-22,MTA1,miRNA->TF,True,retained
+hsa-miR-22,MYC,miRNA->TF,True,retained
+hsa-miR-22,MYOD1,miRNA->TF,True,"tested, not retained"
+hsa-miR-22,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-22,SOX2,miRNA->TF,True,retained
+hsa-miR-22,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-22,SPI1,miRNA->TF,True,retained
+hsa-miR-22,STAT3,miRNA->TF,True,retained
+hsa-miR-22,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,ESR1,miRNA->TF,True,retained
+hsa-miR-221,FOS,miRNA->TF,False,none
+hsa-miR-221,HOXB7,miRNA->TF,True,retained
+hsa-miR-221,JUN,miRNA->TF,True,retained
+hsa-miR-221,MITF,miRNA->TF,True,retained
+hsa-miR-221,MYC,miRNA->TF,True,retained
+hsa-miR-221,MYCN,miRNA->TF,True,retained
+hsa-miR-221,NFKB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,RBPJ,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,SNAI2,miRNA->TF,True,retained
+hsa-miR-221,SOX10,miRNA->TF,False,none
+hsa-miR-221,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-221,ZBTB16,miRNA->TF,True,retained
+hsa-miR-222,ESR1,miRNA->TF,True,retained
+hsa-miR-222,ETS1,miRNA->TF,True,retained
+hsa-miR-222,FOS,miRNA->TF,False,none
+hsa-miR-222,HMGA1,miRNA->TF,True,retained
+hsa-miR-222,HOXB7,miRNA->TF,True,retained
+hsa-miR-222,JUN,miRNA->TF,True,retained
+hsa-miR-222,MITF,miRNA->TF,True,retained
+hsa-miR-222,MYC,miRNA->TF,True,retained
+hsa-miR-222,RBPJ,miRNA->TF,True,"tested, not retained"
+hsa-miR-222,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-222,SNAI2,miRNA->TF,True,retained
+hsa-miR-222,SOX10,miRNA->TF,False,none
+hsa-miR-222,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-222,ZBTB16,miRNA->TF,True,retained
+hsa-miR-223,CEBPA,miRNA->TF,True,retained
+hsa-miR-223,CEBPB,miRNA->TF,True,retained
+hsa-miR-223,E2F1,miRNA->TF,True,retained
+hsa-miR-223,HEY1,miRNA->TF,True,"tested, not retained"
+hsa-miR-223,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-223,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-223,SPI1,miRNA->TF,True,retained
+hsa-miR-223,TAL1,miRNA->TF,True,retained
+hsa-miR-223,TWIST1,miRNA->TF,True,retained
+hsa-miR-224,E2F1,miRNA->TF,True,retained
+hsa-miR-224,HIF1A,miRNA->TF,True,retained
+hsa-miR-224,JUN,miRNA->TF,True,retained
+hsa-miR-224,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-224,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-224,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-23a,CEBPA,miRNA->TF,False,none
+hsa-miR-23a,CREB1,miRNA->TF,True,retained
+hsa-miR-23a,EGR1,miRNA->TF,True,retained
+hsa-miR-23a,EPAS1,miRNA->TF,True,retained
+hsa-miR-23a,EZH2,miRNA->TF,True,retained
+hsa-miR-23a,FOS,miRNA->TF,True,"tested, not retained"
+hsa-miR-23a,GATA1,miRNA->TF,True,retained
+hsa-miR-23a,HIF1A,miRNA->TF,True,retained
+hsa-miR-23a,IRF1,miRNA->TF,False,none
+hsa-miR-23a,JUN,miRNA->TF,True,retained
+hsa-miR-23a,MEF2A,miRNA->TF,True,retained
+hsa-miR-23a,MEN1,miRNA->TF,True,retained
+hsa-miR-23a,MYC,miRNA->TF,True,retained
+hsa-miR-23a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-23a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-23a,RUNX2,miRNA->TF,True,retained
+hsa-miR-23a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-23a,SPI1,miRNA->TF,True,retained
+hsa-miR-23a,VDR,miRNA->TF,False,none
+hsa-miR-23b,CEBPA,miRNA->TF,False,none
+hsa-miR-23b,DNMT1,miRNA->TF,True,retained
+hsa-miR-23b,E2F1,miRNA->TF,True,retained
+hsa-miR-23b,EPAS1,miRNA->TF,False,none
+hsa-miR-23b,ESR2,miRNA->TF,True,retained
+hsa-miR-23b,HIF1A,miRNA->TF,True,retained
+hsa-miR-23b,IRF1,miRNA->TF,False,none
+hsa-miR-23b,JUN,miRNA->TF,True,retained
+hsa-miR-23b,KLF2,miRNA->TF,True,retained
+hsa-miR-23b,MEN1,miRNA->TF,True,retained
+hsa-miR-23b,MYC,miRNA->TF,True,retained
+hsa-miR-23b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-23b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-23b,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-23b,STAT3,miRNA->TF,True,retained
+hsa-miR-23b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-23b,VDR,miRNA->TF,False,none
+hsa-miR-24,E2F1,miRNA->TF,False,retained
+hsa-miR-24,EGR1,miRNA->TF,False,retained
+hsa-miR-24,EPAS1,miRNA->TF,True,retained
+hsa-miR-24,ESR2,miRNA->TF,False,retained
+hsa-miR-24,GATA1,miRNA->TF,False,retained
+hsa-miR-24,HIF1A,miRNA->TF,True,retained
+hsa-miR-24,IRF1,miRNA->TF,False,none
+hsa-miR-24,MEF2A,miRNA->TF,False,retained
+hsa-miR-24,MEN1,miRNA->TF,False,retained
+hsa-miR-24,MYC,miRNA->TF,False,retained
+hsa-miR-24,MYCN,miRNA->TF,False,retained
+hsa-miR-24,NFKB1,miRNA->TF,False,"tested, not retained"
+hsa-miR-24,RELA,miRNA->TF,False,"tested, not retained"
+hsa-miR-24,RUNX1,miRNA->TF,False,"tested, not retained"
+hsa-miR-24,RUNX2,miRNA->TF,False,retained
+hsa-miR-24,SP1,miRNA->TF,False,"tested, not retained"
+hsa-miR-24,STAT3,miRNA->TF,True,retained
+hsa-miR-25,AHR,miRNA->TF,False,retained
+hsa-miR-25,ARNT,miRNA->TF,True,"tested, not retained"
+hsa-miR-25,ATF4,miRNA->TF,True,retained
+hsa-miR-25,CEBPA,miRNA->TF,False,none
+hsa-miR-25,E2F1,miRNA->TF,True,retained
+hsa-miR-25,E2F3,miRNA->TF,True,retained
+hsa-miR-25,JUN,miRNA->TF,True,retained
+hsa-miR-25,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-25,MYC,miRNA->TF,True,retained
+hsa-miR-25,MYCN,miRNA->TF,True,retained
+hsa-miR-25,TWIST1,miRNA->TF,False,none
+hsa-miR-26a,CEBPA,miRNA->TF,True,retained
+hsa-miR-26a,E2F3,miRNA->TF,True,retained
+hsa-miR-26a,EPAS1,miRNA->TF,False,none
+hsa-miR-26a,EZH2,miRNA->TF,True,retained
+hsa-miR-26a,HIF1A,miRNA->TF,False,retained
+hsa-miR-26a,MYC,miRNA->TF,True,retained
+hsa-miR-26a,SMAD3,miRNA->TF,True,retained
+hsa-miR-26a,STAT3,miRNA->TF,False,retained
+hsa-miR-26a,TAL1,miRNA->TF,True,retained
+hsa-miR-26a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-26b,EPAS1,miRNA->TF,False,none
+hsa-miR-26b,MYC,miRNA->TF,True,retained
+hsa-miR-27a,AR,miRNA->TF,True,retained
+hsa-miR-27a,ATF3,miRNA->TF,False,none
+hsa-miR-27a,EGR1,miRNA->TF,True,retained
+hsa-miR-27a,EPAS1,miRNA->TF,True,retained
+hsa-miR-27a,EZH2,miRNA->TF,True,retained
+hsa-miR-27a,GATA1,miRNA->TF,True,retained
+hsa-miR-27a,HIF1A,miRNA->TF,True,retained
+hsa-miR-27a,HOXA10,miRNA->TF,False,none
+hsa-miR-27a,MEF2A,miRNA->TF,True,retained
+hsa-miR-27a,MEN1,miRNA->TF,True,retained
+hsa-miR-27a,MYC,miRNA->TF,True,retained
+hsa-miR-27a,MYCN,miRNA->TF,True,retained
+hsa-miR-27a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-27a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-27a,RUNX2,miRNA->TF,True,retained
+hsa-miR-27a,SMAD3,miRNA->TF,True,retained
+hsa-miR-27a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-27a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-27a,TWIST1,miRNA->TF,True,retained
+hsa-miR-27b,ATF3,miRNA->TF,False,none
+hsa-miR-27b,DNMT1,miRNA->TF,True,retained
+hsa-miR-27b,E2F1,miRNA->TF,True,retained
+hsa-miR-27b,E2F3,miRNA->TF,True,retained
+hsa-miR-27b,EPAS1,miRNA->TF,False,none
+hsa-miR-27b,ESR2,miRNA->TF,True,retained
+hsa-miR-27b,HOXA10,miRNA->TF,False,none
+hsa-miR-27b,MEN1,miRNA->TF,True,retained
+hsa-miR-27b,MYCN,miRNA->TF,True,retained
+hsa-miR-27b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-27b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-27b,STAT3,miRNA->TF,True,retained
+hsa-miR-27b,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-28,FOS,miRNA->TF,False,none
+hsa-miR-28,MYC,miRNA->TF,True,retained
+hsa-miR-296,DNMT1,miRNA->TF,True,retained
+hsa-miR-296,MYCN,miRNA->TF,True,retained
+hsa-miR-299,HNF4A,miRNA->TF,True,retained
+hsa-miR-29a,CEBPA,miRNA->TF,True,retained
+hsa-miR-29a,E2F1,miRNA->TF,True,retained
+hsa-miR-29a,ETV4,miRNA->TF,False,none
+hsa-miR-29a,FOS,miRNA->TF,False,none
+hsa-miR-29a,FOXA2,miRNA->TF,True,retained
+hsa-miR-29a,GLI1,miRNA->TF,True,retained
+hsa-miR-29a,HDAC4,miRNA->TF,True,retained
+hsa-miR-29a,HMGA1,miRNA->TF,True,retained
+hsa-miR-29a,MITF,miRNA->TF,True,retained
+hsa-miR-29a,MYC,miRNA->TF,True,retained
+hsa-miR-29a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-29a,NR1H4,miRNA->TF,True,retained
+hsa-miR-29a,SOX9,miRNA->TF,True,retained
+hsa-miR-29a,STAT1,miRNA->TF,True,retained
+hsa-miR-29a,STAT3,miRNA->TF,True,retained
+hsa-miR-29a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-29a,YY1,miRNA->TF,True,retained
+hsa-miR-29b,CEBPA,miRNA->TF,True,retained
+hsa-miR-29b,EPAS1,miRNA->TF,False,retained
+hsa-miR-29b,ETV4,miRNA->TF,False,none
+hsa-miR-29b,FOS,miRNA->TF,False,none
+hsa-miR-29b,FOXA2,miRNA->TF,True,retained
+hsa-miR-29b,GATA3,miRNA->TF,True,retained
+hsa-miR-29b,GLI1,miRNA->TF,False,retained
+hsa-miR-29b,HDAC4,miRNA->TF,False,retained
+hsa-miR-29b,HIF1A,miRNA->TF,False,retained
+hsa-miR-29b,IRF1,miRNA->TF,True,retained
+hsa-miR-29b,JUND,miRNA->TF,False,retained
+hsa-miR-29b,MITF,miRNA->TF,False,retained
+hsa-miR-29b,MYC,miRNA->TF,True,retained
+hsa-miR-29b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-29b,NR1H3,miRNA->TF,True,"tested, not retained"
+hsa-miR-29b,PPARG,miRNA->TF,True,retained
+hsa-miR-29b,SMAD3,miRNA->TF,True,retained
+hsa-miR-29b,SOX2,miRNA->TF,True,retained
+hsa-miR-29b,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-29b,SREBF1,miRNA->TF,True,retained
+hsa-miR-29b,SRF,miRNA->TF,True,retained
+hsa-miR-29b,STAT3,miRNA->TF,False,retained
+hsa-miR-29b,YBX1,miRNA->TF,False,retained
+hsa-miR-29b,YY1,miRNA->TF,True,retained
+hsa-miR-29c,EPAS1,miRNA->TF,True,retained
+hsa-miR-29c,ETV4,miRNA->TF,False,none
+hsa-miR-29c,FOS,miRNA->TF,False,none
+hsa-miR-29c,FOXA2,miRNA->TF,True,retained
+hsa-miR-29c,HDAC4,miRNA->TF,True,retained
+hsa-miR-29c,HIF1A,miRNA->TF,True,retained
+hsa-miR-29c,MYC,miRNA->TF,True,retained
+hsa-miR-29c,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-29c,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-29c,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-29c,STAT3,miRNA->TF,True,retained
+hsa-miR-29c,TAL1,miRNA->TF,True,retained
+hsa-miR-29c,YY1,miRNA->TF,True,retained
+hsa-miR-300,SOX2,miRNA->TF,False,none
+hsa-miR-300,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-300,TWIST1,miRNA->TF,False,none
+hsa-miR-301a,HIF1A,miRNA->TF,True,retained
+hsa-miR-301a,IRF1,miRNA->TF,False,none
+hsa-miR-301a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-301a,POU5F1,miRNA->TF,True,retained
+hsa-miR-301a,PPARA,miRNA->TF,True,retained
+hsa-miR-301a,SOX2,miRNA->TF,True,retained
+hsa-miR-301b,EGR1,miRNA->TF,True,retained
+hsa-miR-301b,IRF1,miRNA->TF,False,none
+hsa-miR-301b,POU5F1,miRNA->TF,True,retained
+hsa-miR-302a,CREB1,miRNA->TF,True,retained
+hsa-miR-302a,EPAS1,miRNA->TF,False,none
+hsa-miR-302a,NANOG,miRNA->TF,True,retained
+hsa-miR-302a,POU5F1,miRNA->TF,True,retained
+hsa-miR-302a,SMAD4,miRNA->TF,True,retained
+hsa-miR-302a,SOX2,miRNA->TF,True,retained
+hsa-miR-302a,VDR,miRNA->TF,False,none
+hsa-miR-302b,EPAS1,miRNA->TF,False,none
+hsa-miR-302b,NANOG,miRNA->TF,True,retained
+hsa-miR-302b,POU5F1,miRNA->TF,True,retained
+hsa-miR-302b,RARA,miRNA->TF,True,retained
+hsa-miR-302b,SMAD4,miRNA->TF,True,retained
+hsa-miR-302b,SOX2,miRNA->TF,True,retained
+hsa-miR-302b,VDR,miRNA->TF,False,none
+hsa-miR-302c,EPAS1,miRNA->TF,False,none
+hsa-miR-302c,NANOG,miRNA->TF,True,retained
+hsa-miR-302c,POU5F1,miRNA->TF,True,retained
+hsa-miR-302c,SMAD4,miRNA->TF,True,retained
+hsa-miR-302c,SOX2,miRNA->TF,True,retained
+hsa-miR-302c,VDR,miRNA->TF,False,none
+hsa-miR-302d,EPAS1,miRNA->TF,False,none
+hsa-miR-302d,NANOG,miRNA->TF,True,retained
+hsa-miR-302d,POU5F1,miRNA->TF,True,retained
+hsa-miR-302d,SMAD4,miRNA->TF,True,retained
+hsa-miR-302d,SOX2,miRNA->TF,True,retained
+hsa-miR-302d,VDR,miRNA->TF,False,none
+hsa-miR-30a,DNMT1,miRNA->TF,True,retained
+hsa-miR-30a,EGR1,miRNA->TF,True,retained
+hsa-miR-30a,ESR2,miRNA->TF,True,retained
+hsa-miR-30a,EZH2,miRNA->TF,True,retained
+hsa-miR-30a,MYC,miRNA->TF,True,retained
+hsa-miR-30b,EPAS1,miRNA->TF,True,retained
+hsa-miR-30b,EZH2,miRNA->TF,True,retained
+hsa-miR-30b,HIF1A,miRNA->TF,True,retained
+hsa-miR-30b,MYC,miRNA->TF,True,retained
+hsa-miR-30b,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-30b,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-30c,CEBPA,miRNA->TF,False,retained
+hsa-miR-30c,DNMT1,miRNA->TF,True,retained
+hsa-miR-30c,EGR1,miRNA->TF,True,retained
+hsa-miR-30c,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-30c,STAT3,miRNA->TF,False,retained
+hsa-miR-30d,EPAS1,miRNA->TF,True,retained
+hsa-miR-30d,EZH2,miRNA->TF,True,retained
+hsa-miR-30d,FOXO3,miRNA->TF,True,retained
+hsa-miR-30d,GATA6,miRNA->TF,True,retained
+hsa-miR-30d,HDAC3,miRNA->TF,True,retained
+hsa-miR-30d,HIF1A,miRNA->TF,True,retained
+hsa-miR-30d,MYC,miRNA->TF,True,retained
+hsa-miR-30d,NCOR1,miRNA->TF,True,"tested, not retained"
+hsa-miR-30d,SMAD3,miRNA->TF,True,retained
+hsa-miR-30e,CTNNB1,miRNA->TF,True,retained
+hsa-miR-30e,EGR1,miRNA->TF,True,retained
+hsa-miR-30e,GATA6,miRNA->TF,True,retained
+hsa-miR-30e,LEF1,miRNA->TF,True,retained
+hsa-miR-31,BMI1,miRNA->TF,True,"tested, not retained"
+hsa-miR-31,CEBPA,miRNA->TF,False,none
+hsa-miR-31,CEBPB,miRNA->TF,True,retained
+hsa-miR-31,ELK1,miRNA->TF,True,retained
+hsa-miR-31,ETS1,miRNA->TF,True,retained
+hsa-miR-31,EZH2,miRNA->TF,True,retained
+hsa-miR-31,FOS,miRNA->TF,True,"tested, not retained"
+hsa-miR-31,HDAC3,miRNA->TF,True,retained
+hsa-miR-31,JUN,miRNA->TF,True,retained
+hsa-miR-31,KLF4,miRNA->TF,True,retained
+hsa-miR-31,RUNX2,miRNA->TF,True,retained
+hsa-miR-31,SMAD3,miRNA->TF,True,retained
+hsa-miR-31,SUZ12,miRNA->TF,True,"tested, not retained"
+hsa-miR-31,YY1,miRNA->TF,True,retained
+hsa-miR-32,AR,miRNA->TF,True,retained
+hsa-miR-32,CEBPA,miRNA->TF,False,none
+hsa-miR-32,EGR1,miRNA->TF,True,retained
+hsa-miR-32,MYC,miRNA->TF,True,retained
+hsa-miR-32,TWIST1,miRNA->TF,False,none
+hsa-miR-320a,CREB1,miRNA->TF,True,retained
+hsa-miR-320a,ETS1,miRNA->TF,True,retained
+hsa-miR-320a,HOXA10,miRNA->TF,False,none
+hsa-miR-320a,KLF5,miRNA->TF,False,none
+hsa-miR-320a,MYCN,miRNA->TF,True,retained
+hsa-miR-320a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-320a,TWIST1,miRNA->TF,False,none
+hsa-miR-320b,HOXA10,miRNA->TF,False,none
+hsa-miR-320b,JUN,miRNA->TF,True,retained
+hsa-miR-320b,KLF5,miRNA->TF,False,none
+hsa-miR-320b,TWIST1,miRNA->TF,False,none
+hsa-miR-324,SOX2,miRNA->TF,True,retained
+hsa-miR-330,MYCN,miRNA->TF,True,retained
+hsa-miR-330,REST,miRNA->TF,True,retained
+hsa-miR-330,TWIST1,miRNA->TF,False,none
+hsa-miR-331,HMGA1,miRNA->TF,True,retained
+hsa-miR-335,CREB1,miRNA->TF,True,retained
+hsa-miR-335,EGR1,miRNA->TF,True,retained
+hsa-miR-335,IRF1,miRNA->TF,False,none
+hsa-miR-335,MYCN,miRNA->TF,True,retained
+hsa-miR-335,SOX10,miRNA->TF,True,retained
+hsa-miR-335,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-338,SOX10,miRNA->TF,True,retained
+hsa-miR-338,SPI1,miRNA->TF,True,retained
+hsa-miR-33a,MYCN,miRNA->TF,True,retained
+hsa-miR-33a,NFYA,miRNA->TF,True,retained
+hsa-miR-33a,SNAI2,miRNA->TF,False,none
+hsa-miR-33a,TWIST1,miRNA->TF,False,none
+hsa-miR-340,EPAS1,miRNA->TF,False,none
+hsa-miR-340,HOXA10,miRNA->TF,False,none
+hsa-miR-340,IRF1,miRNA->TF,False,none
+hsa-miR-340,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-342,IRF1,miRNA->TF,False,none
+hsa-miR-342,SPI1,miRNA->TF,True,retained
+hsa-miR-342,STAT6,miRNA->TF,True,retained
+hsa-miR-346,XBP1,miRNA->TF,True,retained
+hsa-miR-34a,CEBPA,miRNA->TF,True,retained
+hsa-miR-34a,CTNNB1,miRNA->TF,True,retained
+hsa-miR-34a,E2F3,miRNA->TF,True,retained
+hsa-miR-34a,ELK1,miRNA->TF,True,retained
+hsa-miR-34a,EZH2,miRNA->TF,True,retained
+hsa-miR-34a,FOS,miRNA->TF,True,"tested, not retained"
+hsa-miR-34a,FOXO3,miRNA->TF,True,retained
+hsa-miR-34a,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-34a,HDAC4,miRNA->TF,True,retained
+hsa-miR-34a,HNF4A,miRNA->TF,True,retained
+hsa-miR-34a,MYC,miRNA->TF,True,retained
+hsa-miR-34a,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-34a,NR1H4,miRNA->TF,True,retained
+hsa-miR-34a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-34a,SIRT1,miRNA->TF,True,retained
+hsa-miR-34a,SNAI1,miRNA->TF,True,retained
+hsa-miR-34a,SNAI2,miRNA->TF,True,retained
+hsa-miR-34a,STAT1,miRNA->TF,True,retained
+hsa-miR-34a,STAT3,miRNA->TF,True,retained
+hsa-miR-34a,TCF4,miRNA->TF,True,retained
+hsa-miR-34a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-34a,TP63,miRNA->TF,True,retained
+hsa-miR-34a,TP73,miRNA->TF,True,retained
+hsa-miR-34c,E2F1,miRNA->TF,True,retained
+hsa-miR-34c,FOXO3,miRNA->TF,True,retained
+hsa-miR-34c,SNAI1,miRNA->TF,True,retained
+hsa-miR-34c,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-34c,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-361,BCL6,miRNA->TF,True,retained
+hsa-miR-361,GATA1,miRNA->TF,True,retained
+hsa-miR-361,HIF1A,miRNA->TF,True,retained
+hsa-miR-361,TWIST1,miRNA->TF,False,none
+hsa-miR-363,CEBPA,miRNA->TF,False,none
+hsa-miR-363,E2F1,miRNA->TF,True,retained
+hsa-miR-363,ESR1,miRNA->TF,True,retained
+hsa-miR-363,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-363,MITF,miRNA->TF,True,retained
+hsa-miR-363,MYCN,miRNA->TF,True,retained
+hsa-miR-363,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-363,TWIST1,miRNA->TF,False,none
+hsa-miR-367,CEBPA,miRNA->TF,False,none
+hsa-miR-367,NANOG,miRNA->TF,True,retained
+hsa-miR-367,POU5F1,miRNA->TF,True,retained
+hsa-miR-367,SMAD4,miRNA->TF,True,retained
+hsa-miR-367,SOX2,miRNA->TF,True,retained
+hsa-miR-367,TWIST1,miRNA->TF,False,none
+hsa-miR-369,CEBPA,miRNA->TF,False,none
+hsa-miR-369,CEBPB,miRNA->TF,False,none
+hsa-miR-369,HNF4A,miRNA->TF,True,retained
+hsa-miR-370,STAT3,miRNA->TF,True,retained
+hsa-miR-371a,MYC,miRNA->TF,True,retained
+hsa-miR-371a,SOX2,miRNA->TF,False,none
+hsa-miR-371a,TWIST1,miRNA->TF,True,retained
+hsa-miR-372,CTNNB1,miRNA->TF,True,retained
+hsa-miR-372,EPAS1,miRNA->TF,False,none
+hsa-miR-372,HIF1A,miRNA->TF,True,retained
+hsa-miR-372,LEF1,miRNA->TF,True,retained
+hsa-miR-372,MYC,miRNA->TF,True,retained
+hsa-miR-372,TWIST1,miRNA->TF,True,retained
+hsa-miR-372,VDR,miRNA->TF,False,none
+hsa-miR-372,YY1,miRNA->TF,True,retained
+hsa-miR-373,CREB1,miRNA->TF,True,retained
+hsa-miR-373,CTNNB1,miRNA->TF,True,retained
+hsa-miR-373,EPAS1,miRNA->TF,False,none
+hsa-miR-373,HIF1A,miRNA->TF,True,retained
+hsa-miR-373,LEF1,miRNA->TF,True,retained
+hsa-miR-373,MBD2,miRNA->TF,True,retained
+hsa-miR-373,MYC,miRNA->TF,True,retained
+hsa-miR-373,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-373,TWIST1,miRNA->TF,True,retained
+hsa-miR-373,VDR,miRNA->TF,False,none
+hsa-miR-374a,CEBPA,miRNA->TF,False,none
+hsa-miR-374a,CEBPB,miRNA->TF,False,none
+hsa-miR-374a,HOXA10,miRNA->TF,False,none
+hsa-miR-374a,TP63,miRNA->TF,True,retained
+hsa-miR-375,CTCF,miRNA->TF,True,"tested, not retained"
+hsa-miR-375,KLF5,miRNA->TF,False,none
+hsa-miR-375,SNAI1,miRNA->TF,True,retained
+hsa-miR-376a,CEBPB,miRNA->TF,False,none
+hsa-miR-376a,HDAC9,miRNA->TF,True,retained
+hsa-miR-376a,HNF4A,miRNA->TF,True,retained
+hsa-miR-376b,CEBPB,miRNA->TF,False,none
+hsa-miR-376b,HNF4A,miRNA->TF,True,retained
+hsa-miR-376c,HIF1A,miRNA->TF,True,retained
+hsa-miR-376c,HNF4A,miRNA->TF,True,retained
+hsa-miR-376c,HOXB7,miRNA->TF,False,none
+hsa-miR-376c,SMAD4,miRNA->TF,True,retained
+hsa-miR-377,HNF4A,miRNA->TF,True,retained
+hsa-miR-378a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-379,HNF4A,miRNA->TF,True,retained
+hsa-miR-381,HNF4A,miRNA->TF,True,retained
+hsa-miR-381,SOX2,miRNA->TF,False,none
+hsa-miR-381,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-381,TWIST1,miRNA->TF,False,none
+hsa-miR-382,HIF1A,miRNA->TF,True,retained
+hsa-miR-382,HNF4A,miRNA->TF,True,retained
+hsa-miR-383,EPAS1,miRNA->TF,False,none
+hsa-miR-383,FOS,miRNA->TF,False,none
+hsa-miR-383,IRF1,miRNA->TF,False,none
+hsa-miR-383,STAT3,miRNA->TF,True,retained
+hsa-miR-409,HNF4A,miRNA->TF,True,retained
+hsa-miR-409,TWIST1,miRNA->TF,False,none
+hsa-miR-410,HNF4A,miRNA->TF,True,retained
+hsa-miR-410,MEF2A,miRNA->TF,True,retained
+hsa-miR-411,HNF4A,miRNA->TF,True,retained
+hsa-miR-421,MYCN,miRNA->TF,True,retained
+hsa-miR-424,CEBPB,miRNA->TF,True,retained
+hsa-miR-424,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-424,HDAC2,miRNA->TF,True,retained
+hsa-miR-424,HIF1A,miRNA->TF,True,retained
+hsa-miR-424,HOXA10,miRNA->TF,False,none
+hsa-miR-424,MEF2A,miRNA->TF,True,retained
+hsa-miR-424,MEF2C,miRNA->TF,True,"tested, not retained"
+hsa-miR-424,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-424,SIRT1,miRNA->TF,True,retained
+hsa-miR-424,SMAD3,miRNA->TF,True,retained
+hsa-miR-424,SMAD4,miRNA->TF,True,retained
+hsa-miR-424,SOX2,miRNA->TF,True,retained
+hsa-miR-424,SPI1,miRNA->TF,True,retained
+hsa-miR-425,EGR1,miRNA->TF,True,retained
+hsa-miR-425,ESR1,miRNA->TF,True,retained
+hsa-miR-425,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,DNMT1,miRNA->TF,True,retained
+hsa-miR-429,EZH2,miRNA->TF,True,retained
+hsa-miR-429,FOXF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,FOXM1,miRNA->TF,True,retained
+hsa-miR-429,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,HDAC2,miRNA->TF,True,retained
+hsa-miR-429,HDAC4,miRNA->TF,True,retained
+hsa-miR-429,HIF1A,miRNA->TF,True,retained
+hsa-miR-429,JUN,miRNA->TF,True,retained
+hsa-miR-429,KLF4,miRNA->TF,True,retained
+hsa-miR-429,KLF5,miRNA->TF,True,retained
+hsa-miR-429,MYB,miRNA->TF,True,retained
+hsa-miR-429,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,SNAI1,miRNA->TF,True,retained
+hsa-miR-429,SNAI2,miRNA->TF,True,retained
+hsa-miR-429,SOX2,miRNA->TF,False,none
+hsa-miR-429,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-429,TP63,miRNA->TF,True,retained
+hsa-miR-429,TP73,miRNA->TF,True,retained
+hsa-miR-429,TWIST1,miRNA->TF,True,retained
+hsa-miR-429,ZEB2,miRNA->TF,True,"tested, not retained"
+hsa-miR-4295,IRF1,miRNA->TF,False,none
+hsa-miR-4295,MYCN,miRNA->TF,True,retained
+hsa-miR-431,GATA1,miRNA->TF,True,retained
+hsa-miR-433,MEF2A,miRNA->TF,True,retained
+hsa-miR-433,SMAD3,miRNA->TF,True,retained
+hsa-miR-448,KLF5,miRNA->TF,False,none
+hsa-miR-448,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-449a,E2F1,miRNA->TF,True,retained
+hsa-miR-449a,RB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-449b,E2F1,miRNA->TF,True,retained
+hsa-miR-449b,RB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-452,E2F1,miRNA->TF,True,retained
+hsa-miR-452,HIF1A,miRNA->TF,True,retained
+hsa-miR-454,HIF1A,miRNA->TF,False,retained
+hsa-miR-454,POU5F1,miRNA->TF,False,retained
+hsa-miR-454,PPARA,miRNA->TF,False,retained
+hsa-miR-455,EGR1,miRNA->TF,True,retained
+hsa-miR-455,SMAD3,miRNA->TF,True,retained
+hsa-miR-483,USF1,miRNA->TF,True,retained
+hsa-miR-485,HNF4A,miRNA->TF,True,retained
+hsa-miR-485,IRF1,miRNA->TF,False,none
+hsa-miR-485,SNAI2,miRNA->TF,False,none
+hsa-miR-486,MYB,miRNA->TF,True,retained
+hsa-miR-487a,HNF4A,miRNA->TF,False,retained
+hsa-miR-491,FOXO1,miRNA->TF,True,retained
+hsa-miR-493,IRF1,miRNA->TF,False,none
+hsa-miR-493,SNAI1,miRNA->TF,True,retained
+hsa-miR-494,ATF3,miRNA->TF,False,none
+hsa-miR-494,HNF4A,miRNA->TF,True,retained
+hsa-miR-494,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-494,SMAD3,miRNA->TF,True,retained
+hsa-miR-494,SMAD4,miRNA->TF,True,retained
+hsa-miR-495,HNF4A,miRNA->TF,True,retained
+hsa-miR-495,KLF5,miRNA->TF,False,none
+hsa-miR-496,FOXD3,miRNA->TF,True,"tested, not retained"
+hsa-miR-496,HNF4A,miRNA->TF,True,retained
+hsa-miR-497,ESR1,miRNA->TF,True,retained
+hsa-miR-497,HIF1A,miRNA->TF,True,retained
+hsa-miR-497,HOXA10,miRNA->TF,False,none
+hsa-miR-497,MYC,miRNA->TF,True,retained
+hsa-miR-502,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-502,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-503,CEBPB,miRNA->TF,True,retained
+hsa-miR-503,HDAC1,miRNA->TF,True,"tested, not retained"
+hsa-miR-503,HDAC2,miRNA->TF,True,retained
+hsa-miR-503,MEF2A,miRNA->TF,True,retained
+hsa-miR-503,MEF2C,miRNA->TF,True,"tested, not retained"
+hsa-miR-503,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-503,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-503,SIRT1,miRNA->TF,True,retained
+hsa-miR-503,SMAD3,miRNA->TF,True,retained
+hsa-miR-503,SMAD4,miRNA->TF,True,retained
+hsa-miR-504,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-506,MAFB,miRNA->TF,True,"tested, not retained"
+hsa-miR-506,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-506,STAT4,miRNA->TF,True,retained
+hsa-miR-506,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-506,VDR,miRNA->TF,False,none
+hsa-miR-519d,E2F1,miRNA->TF,True,retained
+hsa-miR-519d,EPAS1,miRNA->TF,False,none
+hsa-miR-519d,IRF1,miRNA->TF,False,none
+hsa-miR-519d,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-519d,TWIST1,miRNA->TF,False,none
+hsa-miR-520d,EPAS1,miRNA->TF,False,none
+hsa-miR-520d,STAT3,miRNA->TF,True,retained
+hsa-miR-520d,VDR,miRNA->TF,False,none
+hsa-miR-539,AR,miRNA->TF,True,retained
+hsa-miR-539,HNF4A,miRNA->TF,True,retained
+hsa-miR-539,SNAI2,miRNA->TF,False,none
+hsa-miR-542,CEBPB,miRNA->TF,True,retained
+hsa-miR-542,IRF1,miRNA->TF,False,none
+hsa-miR-542,POU2F1,miRNA->TF,True,retained
+hsa-miR-543,HNF4A,miRNA->TF,True,retained
+hsa-miR-543,TWIST1,miRNA->TF,False,none
+hsa-miR-590,ATF3,miRNA->TF,True,retained
+hsa-miR-590,ILF3,miRNA->TF,True,"tested, not retained"
+hsa-miR-590,KLF5,miRNA->TF,False,none
+hsa-miR-590,SOX2,miRNA->TF,False,none
+hsa-miR-590,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-613,PPARG,miRNA->TF,True,retained
+hsa-miR-613,SNAI2,miRNA->TF,False,none
+hsa-miR-613,SREBF1,miRNA->TF,True,retained
+hsa-miR-655,CEBPA,miRNA->TF,False,none
+hsa-miR-655,CEBPB,miRNA->TF,False,none
+hsa-miR-655,HNF4A,miRNA->TF,True,retained
+hsa-miR-655,SNAI2,miRNA->TF,False,none
+hsa-miR-655,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-668,HNF4A,miRNA->TF,True,retained
+hsa-miR-7,E2F1,miRNA->TF,True,retained
+hsa-miR-7,E2F3,miRNA->TF,True,retained
+hsa-miR-7,ESR1,miRNA->TF,True,retained
+hsa-miR-7,ESR2,miRNA->TF,True,retained
+hsa-miR-7,HNF4A,miRNA->TF,False,retained
+hsa-miR-7,ILF3,miRNA->TF,False,"tested, not retained"
+hsa-miR-7,MYC,miRNA->TF,False,retained
+hsa-miR-7,MYCN,miRNA->TF,False,retained
+hsa-miR-7,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-7,SOX2,miRNA->TF,False,retained
+hsa-miR-7,STAT1,miRNA->TF,True,retained
+hsa-miR-7,TP53,miRNA->TF,False,"tested, not retained"
+hsa-miR-708,DDIT3,miRNA->TF,True,retained
+hsa-miR-758,HNF4A,miRNA->TF,True,retained
+hsa-miR-760,MYCN,miRNA->TF,True,retained
+hsa-miR-802,EPAS1,miRNA->TF,False,none
+hsa-miR-802,FOS,miRNA->TF,False,none
+hsa-miR-802,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-9,CREB1,miRNA->TF,True,retained
+hsa-miR-9,EPAS1,miRNA->TF,False,none
+hsa-miR-9,EZH2,miRNA->TF,False,retained
+hsa-miR-9,IRF1,miRNA->TF,False,none
+hsa-miR-9,KLF5,miRNA->TF,False,none
+hsa-miR-9,MYC,miRNA->TF,True,retained
+hsa-miR-9,MYCN,miRNA->TF,True,none
+hsa-miR-9,NFKB1,miRNA->TF,True,"tested, not retained"
+hsa-miR-9,PROX1,miRNA->TF,False,retained
+hsa-miR-9,REST,miRNA->TF,False,retained
+hsa-miR-9,SOX2,miRNA->TF,False,retained
+hsa-miR-9,TP53,miRNA->TF,False,"tested, not retained"
+hsa-miR-9,YY1,miRNA->TF,True,retained
+hsa-miR-92a,AR,miRNA->TF,True,retained
+hsa-miR-92a,CEBPA,miRNA->TF,False,none
+hsa-miR-92a,CEBPB,miRNA->TF,True,retained
+hsa-miR-92a,E2F1,miRNA->TF,True,retained
+hsa-miR-92a,E2F3,miRNA->TF,True,retained
+hsa-miR-92a,ELK1,miRNA->TF,True,retained
+hsa-miR-92a,ESR1,miRNA->TF,True,retained
+hsa-miR-92a,HES1,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,MITF,miRNA->TF,False,retained
+hsa-miR-92a,MYC,miRNA->TF,True,retained
+hsa-miR-92a,MYCN,miRNA->TF,True,retained
+hsa-miR-92a,NANOG,miRNA->TF,True,retained
+hsa-miR-92a,NKX2-5,miRNA->TF,True,retained
+hsa-miR-92a,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,RUNX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,SMAD3,miRNA->TF,True,retained
+hsa-miR-92a,SP1,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,SPI1,miRNA->TF,True,retained
+hsa-miR-92a,SREBF2,miRNA->TF,True,retained
+hsa-miR-92a,STAT3,miRNA->TF,True,retained
+hsa-miR-92a,TFAP2A,miRNA->TF,True,retained
+hsa-miR-92a,TLX1,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,TP53,miRNA->TF,True,"tested, not retained"
+hsa-miR-92a,TWIST1,miRNA->TF,False,none
+hsa-miR-92b,CEBPA,miRNA->TF,False,none
+hsa-miR-92b,EGR1,miRNA->TF,True,retained
+hsa-miR-92b,MEF2A,miRNA->TF,True,retained
+hsa-miR-92b,MITF,miRNA->TF,True,retained
+hsa-miR-92b,MYCN,miRNA->TF,True,retained
+hsa-miR-92b,TWIST1,miRNA->TF,False,none
+hsa-miR-93,AHR,miRNA->TF,False,retained
+hsa-miR-93,ARNT,miRNA->TF,True,"tested, not retained"
+hsa-miR-93,ATF4,miRNA->TF,True,retained
+hsa-miR-93,E2F1,miRNA->TF,True,retained
+hsa-miR-93,EPAS1,miRNA->TF,False,none
+hsa-miR-93,IRF1,miRNA->TF,False,none
+hsa-miR-93,JUN,miRNA->TF,True,retained
+hsa-miR-93,MAX,miRNA->TF,True,"tested, not retained"
+hsa-miR-93,MYC,miRNA->TF,True,retained
+hsa-miR-93,MYCN,miRNA->TF,True,retained
+hsa-miR-93,TWIST1,miRNA->TF,False,none
+hsa-miR-96,CTNNB1,miRNA->TF,True,retained
+hsa-miR-96,EGR1,miRNA->TF,True,retained
+hsa-miR-96,EPAS1,miRNA->TF,False,none
+hsa-miR-96,ETS1,miRNA->TF,True,retained
+hsa-miR-96,HDAC2,miRNA->TF,True,retained
+hsa-miR-96,HDAC3,miRNA->TF,True,retained
+hsa-miR-96,HIF1A,miRNA->TF,True,retained
+hsa-miR-96,HNF4A,miRNA->TF,True,retained
+hsa-miR-96,HSF2,miRNA->TF,True,"tested, not retained"
+hsa-miR-96,KLF4,miRNA->TF,True,retained
+hsa-miR-96,LEF1,miRNA->TF,True,retained
+hsa-miR-96,MYCN,miRNA->TF,True,retained
+hsa-miR-96,RELA,miRNA->TF,True,"tested, not retained"
+hsa-miR-96,SMAD4,miRNA->TF,True,retained
+hsa-miR-96,SOX2,miRNA->TF,True,retained
+hsa-miR-96,SREBF2,miRNA->TF,True,retained
+hsa-miR-96,STAT3,miRNA->TF,True,retained
+hsa-miR-96,TWIST1,miRNA->TF,False,none
+hsa-miR-99a,AR,miRNA->TF,True,retained
+hsa-miR-99a,ESR1,miRNA->TF,True,retained
+hsa-miR-99a,HOXA10,miRNA->TF,True,retained
+hsa-miR-99b,BRCA1,miRNA->TF,True,retained
+hsa-miR-99b,EGR1,miRNA->TF,True,retained
+hsa-miR-99b,RELA,miRNA->TF,True,"tested, not retained"

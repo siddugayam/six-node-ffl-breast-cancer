@@ -1,0 +1,61 @@
+cohort,accession,platform,miRNA,probe,n_probes_matched,all_matched
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-21,hsa-miR-21-5p,2,hsa-miR-21-3p;hsa-miR-21-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-195,hsa-miR-195-5p,2,hsa-miR-195-3p;hsa-miR-195-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-204,hsa-miR-204-5p,2,hsa-miR-204-3p;hsa-miR-204-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-383,hsa-miR-383-5p,1,hsa-miR-383-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-124,hsa-miR-124-3p,1,hsa-miR-124-3p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-155,hsa-miR-155-5p,2,hsa-miR-155-3p;hsa-miR-155-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-429,hsa-miR-429,1,hsa-miR-429
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-141,hsa-miR-141-3p,2,hsa-miR-141-3p;hsa-miR-141-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-34a,hsa-miR-34a-5p,1,hsa-miR-34a-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-101,hsa-miR-101-3p,2,hsa-miR-101-3p;hsa-miR-101-5p
+TCGA_BRCA,TCGA-BRCA,Illumina HiSeq miRNA-seq (log2 RPM),miR-29a,hsa-miR-29a-3p,2,hsa-miR-29a-3p;hsa-miR-29a-5p
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-21,hsa-miR-21,1,hsa-miR-21
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-195,hsa-miR-195,1,hsa-miR-195
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-204,hsa-miR-204,1,hsa-miR-204
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-155,hsa-miR-155,1,hsa-miR-155
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-429,hsa-miR-429,1,hsa-miR-429
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-141,hsa-miR-141,1,hsa-miR-141
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-34a,hsa-miR-34a,1,hsa-miR-34a
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-101,hsa-miR-101,1,hsa-miR-101
+GSE19783,GSE19783,Agilent-019118 human miRNA 2.0 (GPL8227),miR-29a,hsa-miR-29a,1,hsa-miR-29a
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-21,hsa-miR-21,1,hsa-miR-21
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-195,hsa-miR-195,1,hsa-miR-195
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-204,hsa-miR-204,1,hsa-miR-204
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-383,hsa-miR-383,1,hsa-miR-383
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-155,hsa-miR-155,1,hsa-miR-155
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-429,hsa-miR-429,1,hsa-miR-429
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-141,hsa-miR-141,1,hsa-miR-141
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-34a,hsa-miR-34a,1,hsa-miR-34a
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-101,hsa-miR-101,1,hsa-miR-101
+GSE22216,GSE22216 (= GSE22220 miRNA arm),Illumina Human v1 MicroRNA expression beadchip (GPL8178),miR-29a,hsa-miR-29a,1,hsa-miR-29a
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-21,hsa-miR-21,1,hsa-miR-21
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-195,hsa-miR-195,1,hsa-miR-195
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-204,hsa-miR-204,1,hsa-miR-204
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-383,hsa-miR-383,1,hsa-miR-383
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-124,hsa-miR-124,1,hsa-miR-124
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-155,hsa-miR-155,1,hsa-miR-155
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-429,hsa-miR-429,1,hsa-miR-429
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-141,hsa-miR-141,1,hsa-miR-141
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-34a,hsa-miR-34a,1,hsa-miR-34a
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-101,hsa-miR-101,1,hsa-miR-101
+GSE37405,GSE37405,Exiqon miRCURY LNA (GPL13703/14149/15462),miR-29a,hsa-miR-29a,1,hsa-miR-29a
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-21,hsa-miR-21,1,hsa-miR-21
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-195,hsa-miR-195,1,hsa-miR-195
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-204,hsa-miR-204,1,hsa-miR-204
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-383,hsa-miR-383,1,hsa-miR-383
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-124,hsa-miR-124,1,hsa-miR-124
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-155,hsa-miR-155,1,hsa-miR-155
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-429,hsa-miR-429,1,hsa-miR-429
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-141,hsa-miR-141,1,hsa-miR-141
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-34a,hsa-miR-34a,1,hsa-miR-34a
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-101,hsa-miR-101,1,hsa-miR-101
+GSE59829,GSE59829,Illumina Human v2 MicroRNA expression beadchip (GPL8179),miR-29a,hsa-miR-29a,1,hsa-miR-29a
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-21,hsa-miR-21,1,hsa-miR-21
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-195,hsa-miR-195,1,hsa-miR-195
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-204,hsa-miR-204,1,hsa-miR-204
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-429,hsa-miR-429,1,hsa-miR-429
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-141,hsa-miR-141,1,hsa-miR-141
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-34a,hsa-miR-34a,1,hsa-miR-34a
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-101,hsa-miR-101,1,hsa-miR-101
+GSE78870,GSE78870,TaqMan microRNA Low-Density Array pools A and B v2.0 (GPL20662),miR-29a,hsa-miR-29a,1,hsa-miR-29a

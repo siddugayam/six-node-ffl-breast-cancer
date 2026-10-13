@@ -1,0 +1,57 @@
+resource,tf,readout_gene,n_sets,n_sets_containing_gene,sets_containing_gene
+ARCHS4_TFs_Coexp,ETS1,COL1A1,1,0,""
+ARCHS4_TFs_Coexp,NFKB1,COL1A1,1,0,""
+ARCHS4_TFs_Coexp,RELA,COL1A1,1,0,""
+ARCHS4_TFs_Coexp,SP1,COL1A1,1,0,""
+ChEA_2022,ETS1,COL1A1,3,0,""
+ChEA_2022,NFKB1,COL1A1,1,0,""
+ChEA_2022,RELA,COL1A1,1,0,""
+ENCODE_TF_ChIP-seq_2015,ETS1,COL1A1,5,0,""
+ENCODE_TF_ChIP-seq_2015,RELA,COL1A1,10,0,""
+ENCODE_TF_ChIP-seq_2015,SP1,COL1A1,5,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,ETS1,COL1A1,1,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,RELA,COL1A1,1,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,SP1,COL1A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,ETS1,COL1A1,1,1,ETS1
+Enrichr_Submissions_TF-Gene_Coocurrence,NFKB1,COL1A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,RELA,COL1A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,SP1,COL1A1,1,0,""
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,ETS1,COL1A1,2,0,""
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,NFKB1,COL1A1,2,0,""
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,RELA,COL1A1,2,0,""
+TF_Perturbations_Followed_by_Expression,ETS1,COL1A1,4,0,""
+TF_Perturbations_Followed_by_Expression,NFKB1,COL1A1,16,1,NFKB1 ACTIVATION HUMAN GSE20736 CREEDSID GENE 2522 UP
+TF_Perturbations_Followed_by_Expression,RELA,COL1A1,6,0,""
+TF_Perturbations_Followed_by_Expression,SP1,COL1A1,2,0,""
+TRRUST_Transcription_Factors_2019,ETS1,COL1A1,2,1,ETS1 human
+TRRUST_Transcription_Factors_2019,NFKB1,COL1A1,2,2,NFKB1 human ; NFKB1 mouse
+TRRUST_Transcription_Factors_2019,RELA,COL1A1,2,2,RELA human ; RELA mouse
+TRRUST_Transcription_Factors_2019,SP1,COL1A1,2,2,SP1 human ; SP1 mouse
+ARCHS4_TFs_Coexp,ETS1,COL3A1,1,0,""
+ARCHS4_TFs_Coexp,NFKB1,COL3A1,1,0,""
+ARCHS4_TFs_Coexp,RELA,COL3A1,1,0,""
+ARCHS4_TFs_Coexp,SP1,COL3A1,1,0,""
+ChEA_2022,ETS1,COL3A1,3,1,ETS1 22383799 ChIP-Seq G1ME Mouse
+ChEA_2022,NFKB1,COL3A1,1,0,""
+ChEA_2022,RELA,COL3A1,1,0,""
+ENCODE_TF_ChIP-seq_2015,ETS1,COL3A1,5,0,""
+ENCODE_TF_ChIP-seq_2015,RELA,COL3A1,10,0,""
+ENCODE_TF_ChIP-seq_2015,SP1,COL3A1,5,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,ETS1,COL3A1,1,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,RELA,COL3A1,1,0,""
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,SP1,COL3A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,ETS1,COL3A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,NFKB1,COL3A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,RELA,COL3A1,1,0,""
+Enrichr_Submissions_TF-Gene_Coocurrence,SP1,COL3A1,1,0,""
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,ETS1,COL3A1,2,1,ETS1 Up
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,NFKB1,COL3A1,2,0,""
+LINCS_L1000_CRISPR_KO_Consensus_Sigs,RELA,COL3A1,2,1,RELA Up
+TF_Perturbations_Followed_by_Expression,ETS1,COL3A1,4,0,""
+TF_Perturbations_Followed_by_Expression,NFKB1,COL3A1,16,0,""
+TF_Perturbations_Followed_by_Expression,RELA,COL3A1,6,0,""
+TF_Perturbations_Followed_by_Expression,SP1,COL3A1,2,0,""
+TRRUST_Transcription_Factors_2019,ETS1,COL3A1,2,0,""
+TRRUST_Transcription_Factors_2019,NFKB1,COL3A1,2,0,""
+TRRUST_Transcription_Factors_2019,RELA,COL3A1,2,0,""
+TRRUST_Transcription_Factors_2019,SP1,COL3A1,2,0,""

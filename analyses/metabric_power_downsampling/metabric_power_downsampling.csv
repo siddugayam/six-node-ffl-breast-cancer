@@ -1,0 +1,14 @@
+"metric","value"
+"METABRIC_full_n",1979
+"METABRIC_full_events",1143
+"TCGA_OS_events_matched",151
+"downsampled_mean_n",261
+"downsampled_mean_events",150.8
+"reps",200
+"mean_hubs_BHq05_downsampled",1.28
+"median_hubs_BHq05_downsampled",0
+"pct_reps_with_zero_hubs_BHq05",53.5
+"mean_hubs_nominal_p05_downsampled",7.34
+"hubs_BHq05_METABRIC_full_OS",19
+"hubs_BHq05_TCGA_full_OS",0
+"hubs_nominal_p05_TCGA_full_OS",8

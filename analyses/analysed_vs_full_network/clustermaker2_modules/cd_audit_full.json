@@ -1,0 +1,24 @@
+{
+  "mode": "full",
+  "nodes": 587,
+  "undirected_edges": 5636,
+  "igraph_partitions_identical_to_stored": "38 of 38",
+  "usable_runs": 18,
+  "usable_runs_igraph": 14,
+  "trio_together_all_runs": "18 of 18",
+  "trio_together_igraph_runs": "14 of 14",
+  "miR29a_in_COL1A1_module_igraph": "14 of 14",
+  "TFarm_all_with_COL1A1_igraph": "0 of 14",
+  "rewiring_null": {
+    "louvain": {
+      "observed": 1,
+      "null_mean": 0.018,
+      "p": 0.02
+    },
+    "fastgreedy": {
+      "observed": 1,
+      "null_mean": 0.082,
+      "p": 0.0838
+    }
+  }
+}

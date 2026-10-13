@@ -1,0 +1,21 @@
+CHECK E1: paper FFL-class sets rerun 19, matched 19; max |ES difference| 4.44e-16; max |NES difference| 0.00378 (limit 0.02); sets with padj < 0.05 here 19, in the paper 19
+CHECK E3 3-Comp GO_BP TCGA_tested_plus_network: terms here 4473, in the paper 4473, shared 4473; max |p difference| 5.55e-16; significant here 2348, in the paper 2348
+CHECK E3 3-Comp GO_BP network_protein_coding: terms here 1444, in the paper 1444, shared 1444; max |p difference| 5.55e-16; significant here 138, in the paper 138
+CHECK E3 3-Comp GO_MF TCGA_tested_plus_network: terms here 596, in the paper 596, shared 596; max |p difference| 5.55e-16; significant here 106, in the paper 106
+CHECK E3 3-Comp GO_MF network_protein_coding: terms here 122, in the paper 122, shared 122; max |p difference| 5.55e-16; significant here 31, in the paper 31
+CHECK E3 3-Comp GO_CC TCGA_tested_plus_network: terms here 336, in the paper 336, shared 336; max |p difference| 5.55e-16; significant here 30, in the paper 30
+CHECK E3 3-Comp GO_CC network_protein_coding: terms here 127, in the paper 127, shared 127; max |p difference| 5.55e-16; significant here 12, in the paper 12
+CHECK E3 3-Comp Reactome TCGA_tested_plus_network: terms here 925, in the paper 925, shared 925; max |p difference| 5.55e-16; significant here 285, in the paper 285
+CHECK E3 3-Comp Reactome network_protein_coding: terms here 157, in the paper 157, shared 157; max |p difference| 5.55e-16; significant here 10, in the paper 10
+CHECK E3 3-Comp KEGG TCGA_tested_plus_network: terms here 239, in the paper 239, shared 239; max |p difference| 0.000166; significant here 111, in the paper 111
+CHECK E3 3-Comp KEGG network_protein_coding: terms here 101, in the paper 101, shared 101; max |p difference| 5.55e-16; significant here 3, in the paper 3
+CHECK E3 6-node GO_BP TCGA_tested_plus_network: terms here 4600, in the paper 4600, shared 4600; max |p difference| 5.55e-16; significant here 2423, in the paper 2423
+CHECK E3 6-node GO_BP network_protein_coding: terms here 1444, in the paper 1444, shared 1444; max |p difference| 5.55e-16; significant here 134, in the paper 134
+CHECK E3 6-node GO_MF TCGA_tested_plus_network: terms here 660, in the paper 660, shared 660; max |p difference| 5.55e-16; significant here 140, in the paper 140
+CHECK E3 6-node GO_MF network_protein_coding: terms here 122, in the paper 122, shared 122; max |p difference| 5.55e-16; significant here 15, in the paper 15
+CHECK E3 6-node GO_CC TCGA_tested_plus_network: terms here 355, in the paper 355, shared 355; max |p difference| 5.55e-16; significant here 31, in the paper 31
+CHECK E3 6-node GO_CC network_protein_coding: terms here 127, in the paper 127, shared 127; max |p difference| 5.55e-16; significant here 10, in the paper 10
+CHECK E3 6-node Reactome TCGA_tested_plus_network: terms here 955, in the paper 955, shared 955; max |p difference| 5.55e-16; significant here 301, in the paper 301
+CHECK E3 6-node Reactome network_protein_coding: terms here 157, in the paper 157, shared 157; max |p difference| 5.55e-16; significant here 4, in the paper 4
+CHECK E3 6-node KEGG TCGA_tested_plus_network: terms here 247, in the paper 247, shared 247; max |p difference| 0.000177; significant here 111, in the paper 111
+CHECK E3 6-node KEGG network_protein_coding: terms here 101, in the paper 101, shared 101; max |p difference| 5.55e-16; significant here 1, in the paper 1

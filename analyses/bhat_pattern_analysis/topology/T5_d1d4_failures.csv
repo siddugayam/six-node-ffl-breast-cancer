@@ -1,0 +1,33 @@
+network,reason,node_sets
+3node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),30
+3node_miRNA_FFL,2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target),18
+3node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),24
+3node_TF_FFL,2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target),15
+3node_composite_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),24
+3node_composite_FFL,2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target),15
+4node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),227
+4node_miRNA_FFL,no 2-cycle,30
+4node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),179
+4node_TF_FFL,no 2-cycle,25
+4node_composite_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target),178
+4node_composite_FFL,no 2-cycle,25
+5node_miRNA_FFL,2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),1336
+5node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),120
+5node_TF_FFL,2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),1068
+5node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),100
+5node_composite_FFL,2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),1068
+5node_composite_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),100
+6node_miRNA_FFL,2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),3945
+6node_miRNA_FFL,2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),2268
+6node_miRNA_FFL,2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),1277
+6node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),565
+6node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),379
+6node_miRNA_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),172
+6node_TF_FFL,2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),4809
+6node_TF_FFL,2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),2141
+6node_TF_FFL,2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),1941
+6node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),445
+6node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),357
+6node_TF_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),257
+6node_composite_FFL,2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),2141
+6node_composite_FFL,2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA),357

@@ -1,0 +1,93 @@
+K 7
+nparts 1
+part 0
+seed 11
+q 1 1 0.2 0.2 0.2 0.2
+prod_q 0.0016000000000000005
+found 139480
+visited 186831931
+rng_final 3061728412741878750
+comp 1 2 4 2
+comp 1 3 3 31
+comp 1 4 2 309
+comp 1 5 1 1221
+comp 2 2 3 118
+comp 2 3 2 4371
+comp 2 4 1 18430
+comp 2 5 0 48
+comp 3 1 3 56
+comp 3 2 2 3883
+comp 3 3 1 51026
+comp 3 4 0 1172
+comp 4 0 3 6
+comp 4 1 2 1103
+comp 4 2 1 36269
+comp 4 3 0 4929
+comp 5 0 2 104
+comp 5 1 1 6738
+comp 5 2 0 6135
+comp 6 0 1 626
+comp 6 1 0 2636
+comp 7 0 0 267
+mask 2 269
+mask 3 734
+mask 6 1641
+mask 7 150
+mask 11 12
+mask 12 744
+mask 13 412
+mask 14 37920
+mask 15 25500
+mask 18 88
+mask 19 168
+mask 20 506
+mask 21 66
+mask 22 12741
+mask 23 2580
+mask 26 11
+mask 27 99
+mask 28 7493
+mask 29 2786
+mask 30 27637
+mask 31 17893
+mask 46 4
+mask 47 14
+mask 59 1
+mask 60 4
+mask 61 2
+mask 62 1
+mask 63 4
+flags 0 113728
+flags 1 5666
+flags 2 353
+flags 3 1990
+flags 5 1
+flags 6 5
+flags 7 16
+flags 8 13032
+flags 9 155
+flags 10 50
+flags 11 317
+flags 24 3929
+flags 25 94
+flags 26 10
+flags 27 133
+flags 30 1
+exflag 0 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-23b
+exflag 0 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-27a
+exflag 0 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-34a
+exflag 1 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-23b
+exflag 1 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-27a
+exflag 1 AHR FOS MYC SMAD7 MET hsa-miR-130a hsa-miR-34a
+exflag 2 AR EP300 YY1 hsa-let-7a COL1A1 COL3A1 hsa-miR-29a
+exflag 2 CREB1 SOX9 hsa-miR-29a COL1A1 COL3A1 MYBL2 hsa-miR-335
+exflag 2 E2F1 BMI1 MYB COL1A1 COL3A1 hsa-let-7i hsa-miR-143
+exflag 3 AHR FOS MYC TP73 hsa-miR-23b FOSB hsa-miR-34a | TF1=FOS TF2=MYC miRNA=hsa-miR-34a target=TP73
+exflag 3 AHR FOS MYC TP73 hsa-miR-27a MET hsa-miR-34a | TF1=FOS TF2=MYC miRNA=hsa-miR-34a target=TP73
+exflag 3 AHR FOS MYC TP73 hsa-miR-27a SNAP25 hsa-miR-34a | TF1=FOS TF2=MYC miRNA=hsa-miR-34a target=TP73
+exflag 4 APEX1 NFKB1 E2F1 RELA EPAS1 STAT3 hsa-miR-27b | TF1=RELA TF2=STAT3 miRNA=hsa-miR-27b target=EPAS1
+exflag 4 APEX1 NFKB1 E2F1 RELA RGS4 STAT3 hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-17 target=RGS4
+exflag 4 APEX1 NFKB1 E2F1 RELA SNAI1 VEGFA hsa-miR-200b | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-200b target=VEGFA
+exmask 63 ETS1 COL1A1 COL3A1 MYB hsa-miR-182 EPAS1 hsa-miR-29c
+exmask 63 RELA COL1A1 COL3A1 EGR1 hsa-miR-221 SOX10 hsa-miR-335
+exmask 63 RELA COL1A1 COL3A1 MYC hsa-let-7b hsa-miR-212 AHR

@@ -1,0 +1,86 @@
+K 6
+nparts 64
+part 43
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 43342
+visited 12183157
+rng_final 42
+comp 1 2 3 14
+comp 1 3 2 836
+comp 1 4 1 1534
+comp 2 1 3 1
+comp 2 2 2 1566
+comp 2 3 1 20497
+comp 2 4 0 81
+comp 3 1 2 153
+comp 3 2 1 11840
+comp 3 3 0 1463
+comp 4 0 2 3
+comp 4 1 1 2171
+comp 4 2 0 2055
+comp 5 0 1 185
+comp 5 1 0 898
+comp 6 0 0 45
+mask 2 45
+mask 3 188
+mask 6 651
+mask 7 6
+mask 11 6
+mask 12 244
+mask 13 78
+mask 14 9469
+mask 15 3704
+mask 18 12
+mask 19 8
+mask 20 922
+mask 21 109
+mask 22 2509
+mask 23 323
+mask 26 2
+mask 27 115
+mask 28 12476
+mask 29 1026
+mask 30 5651
+mask 31 2849
+mask 47 2
+mask 70 77
+mask 76 1233
+mask 77 83
+mask 78 352
+mask 79 167
+mask 84 97
+mask 85 11
+mask 86 229
+mask 87 16
+mask 92 237
+mask 93 409
+mask 94 30
+mask 95 6
+flags 0 41217
+flags 1 1281
+flags 2 29
+flags 3 283
+flags 6 2
+flags 8 449
+flags 9 1
+flags 11 1
+flags 24 79
+exflag 0 CEBPB ADM hsa-miR-143 MYBL2 MYC hsa-miR-25
+exflag 0 CEBPB ADM hsa-miR-143 MYBL2 MYC hsa-miR-26a
+exflag 0 CEBPB ADM hsa-miR-143 MYBL2 MYC hsa-miR-26b
+exflag 1 CEBPB BCL2L1 HSF1 JUN hsa-miR-141 STAT5A
+exflag 1 CEBPB BCL2L1 HSF1 JUN hsa-miR-200a STAT5A
+exflag 1 CEBPB BCL2L1 HSF1 JUN hsa-miR-23a STAT5A
+exflag 2 CEBPB HSF1 NFKB1 COL1A1 COL3A1 hsa-miR-143
+exflag 2 CEBPB HSF1 RELA COL1A1 COL3A1 hsa-miR-143
+exflag 3 CEBPB DDIT3 CEBPA SPI1 SCARB1 hsa-miR-223 | TF1=CEBPA TF2=SPI1 miRNA=hsa-miR-223 target=SCARB1
+exflag 3 CEBPB DDIT3 SIRT1 HIF1A TERT hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exflag 3 CEBPB DDIT3 SIRT1 HIF1A VEGFA hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=VEGFA
+exflag 4 CEBPB DDIT3 SIRT1 HIF1A TERT hsa-miR-424 | TF1=SIRT1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exflag 4 CEBPB HSF1 NFKB1 ABCA1 RELA hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-17 target=ABCA1
+exflag 4 CEBPB HSF1 NFKB1 CCND2 MYC hsa-miR-17 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-17 target=CCND2
+exmask 95 CEBPB HSF1 SERPINE1 hsa-miR-143 hsa-miR-29b EPAS1
+exmask 95 CEBPB OXTR hsa-miR-143 hsa-miR-29b FOS MITF
+exmask 95 CEBPB OXTR hsa-miR-143 hsa-miR-29b GLI1 JUN

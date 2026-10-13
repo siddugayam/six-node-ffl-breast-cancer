@@ -1,0 +1,103 @@
+K 6
+nparts 64
+part 14
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 89843
+visited 60292487
+rng_final 42
+comp 1 1 4 14
+comp 1 2 3 175
+comp 1 3 2 405
+comp 2 0 4 12
+comp 2 1 3 400
+comp 2 2 2 2487
+comp 2 3 1 3776
+comp 3 0 3 359
+comp 3 1 2 6058
+comp 3 2 1 30675
+comp 3 3 0 157
+comp 4 0 2 1983
+comp 4 1 1 20806
+comp 4 2 0 4164
+comp 5 0 1 5135
+comp 5 1 0 10701
+comp 6 0 0 2536
+mask 2 90
+mask 3 412
+mask 6 647
+mask 7 32
+mask 14 11247
+mask 15 7321
+mask 20 15
+mask 21 12
+mask 22 1585
+mask 23 271
+mask 27 1
+mask 28 421
+mask 29 33
+mask 30 1093
+mask 31 1124
+mask 32 4
+mask 33 91
+mask 34 2728
+mask 35 6700
+mask 36 19
+mask 37 34
+mask 38 7312
+mask 39 1331
+mask 40 1
+mask 41 44
+mask 42 4
+mask 43 51
+mask 44 4612
+mask 45 1557
+mask 46 13227
+mask 47 18176
+mask 52 615
+mask 53 221
+mask 54 5093
+mask 55 1204
+mask 57 1
+mask 58 8
+mask 59 27
+mask 60 617
+mask 61 376
+mask 62 740
+mask 63 746
+flags 0 51512
+flags 1 591
+flags 2 711
+flags 3 938
+flags 4 26243
+flags 5 240
+flags 6 3145
+flags 7 658
+flags 8 2739
+flags 10 46
+flags 11 60
+flags 12 1788
+flags 14 172
+flags 24 376
+flags 26 3
+flags 28 610
+flags 30 11
+exflag 0 ASCL1 CREB1 AR ID4 hsa-miR-101 hsa-miR-133b
+exflag 0 ASCL1 CREB1 AR ID4 hsa-miR-101 hsa-miR-19a
+exflag 0 ASCL1 CREB1 AR ID4 hsa-miR-101 hsa-miR-23a
+exflag 1 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-101
+exflag 1 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-133b
+exflag 1 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-19a
+exflag 2 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-101
+exflag 2 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-133b
+exflag 2 ASCL1 CREB1 AR BRCA1 ID4 hsa-miR-19a
+exflag 3 ASCL1 CREB1 CTNNB1 DKK1 HIF1A hsa-miR-373 | TF1=CREB1 TF2=CTNNB1 miRNA=hsa-miR-373 target=DKK1
+exflag 3 ASCL1 CREB1 CTNNB1 DKK1 MYC hsa-miR-372 | TF1=CTNNB1 TF2=MYC miRNA=hsa-miR-372 target=DKK1
+exflag 3 ASCL1 CREB1 CTNNB1 DKK1 MYC hsa-miR-373 | TF1=CREB1 TF2=CTNNB1 miRNA=hsa-miR-373 target=DKK1
+exflag 4 ASCL1 CREB1 CTNNB1 DKK1 MYC hsa-miR-372 | TF1=CTNNB1 TF2=MYC miRNA=hsa-miR-372 target=DKK1
+exflag 4 ASCL1 CREB1 CTNNB1 DKK1 MYC hsa-miR-373 | TF1=CTNNB1 TF2=MYC miRNA=hsa-miR-373 target=DKK1
+exflag 4 HDAC9 CITED2 ESR1 HIF1A SERPINE1 hsa-miR-143 | TF1=ESR1 TF2=HIF1A miRNA=hsa-miR-143 target=SERPINE1
+exmask 63 ASCL1 CREB1 DKK1 ID4 SOX2 hsa-miR-9
+exmask 63 HDAC9 CITED2 ESR1 RELA hsa-miR-132 hsa-miR-19b
+exmask 63 HDAC9 CITED2 ESR1 RELA hsa-miR-145 hsa-miR-19b

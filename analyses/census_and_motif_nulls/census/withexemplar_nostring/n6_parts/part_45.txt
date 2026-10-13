@@ -1,0 +1,92 @@
+K 6
+nparts 64
+part 45
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 25786
+visited 11819734
+rng_final 42
+comp 0 3 3 1
+comp 1 1 4 2
+comp 1 2 3 193
+comp 1 3 2 1696
+comp 1 4 1 828
+comp 2 1 3 11
+comp 2 2 2 950
+comp 2 3 1 10904
+comp 2 4 0 10
+comp 3 1 2 142
+comp 3 2 1 6251
+comp 3 3 0 240
+comp 4 0 2 10
+comp 4 1 1 2537
+comp 4 2 0 494
+comp 5 0 1 494
+comp 5 1 0 898
+comp 6 0 0 125
+mask 2 125
+mask 3 504
+mask 6 773
+mask 7 8
+mask 11 37
+mask 13 2
+mask 14 2824
+mask 15 3677
+mask 18 1
+mask 19 20
+mask 20 73
+mask 21 45
+mask 22 780
+mask 23 298
+mask 26 19
+mask 27 177
+mask 28 3664
+mask 29 859
+mask 30 8614
+mask 31 2352
+mask 46 1
+mask 61 5
+mask 75 8
+mask 76 17
+mask 77 8
+mask 78 193
+mask 79 57
+mask 86 15
+mask 89 1
+mask 91 17
+mask 92 322
+mask 93 35
+mask 94 212
+mask 95 40
+mask 105 1
+mask 110 1
+mask 123 1
+flags 0 24259
+flags 1 757
+flags 2 28
+flags 3 174
+flags 4 2
+flags 8 517
+flags 9 3
+flags 11 4
+flags 24 30
+flags 25 12
+exflag 0 FLI1 CTGF hsa-let-7a HIC1 STAT3 hsa-miR-143
+exflag 0 FLI1 CTGF hsa-let-7a HIC1 STAT3 hsa-miR-18a
+exflag 0 FLI1 CTGF hsa-let-7a HIC1 STAT3 hsa-miR-218
+exflag 1 FLI1 EP300 DNMT1 VEGFA hsa-let-7a HIC1
+exflag 1 FLI1 EP300 FOXM1 VEGFA hsa-let-7a HIC1
+exflag 1 FLI1 EP300 HDAC1 CCND2 hsa-miR-141 STAT5A
+exflag 2 hsa-let-7b COL1A1 COL3A1 HIC1 STAT3 hsa-miR-218
+exflag 2 hsa-let-7b COL1A1 COL3A1 HIC1 STAT3 hsa-miR-29a
+exflag 3 FLI1 CTGF EP300 RELA STAT3 hsa-miR-18a | TF1=RELA TF2=STAT3 miRNA=hsa-miR-18a target=CTGF
+exflag 3 FLI1 CTGF EP300 RELA STAT3 hsa-miR-19a | TF1=RELA TF2=STAT3 miRNA=hsa-miR-19a target=CTGF
+exflag 3 FLI1 CTGF HDAC1 ESR1 JUN hsa-miR-18b | TF1=ESR1 TF2=JUN miRNA=hsa-miR-18b target=CTGF
+exflag 4 FLI1 EP300 HDAC1 CCND2 RELA hsa-miR-503 | TF1=RELA TF2=HDAC1 miRNA=hsa-miR-503 target=CCND2
+exflag 4 FLI1 EP300 NFKB1 E2F1 TERT hsa-miR-16 | TF1=NFKB1 TF2=E2F1 miRNA=hsa-miR-16 target=TERT
+exflag 4 FLI1 EP300 NFKB1 HIF1A TERT hsa-miR-424 | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-424 target=TERT
+exmask 95 NR1H3 ABCA1 hsa-miR-29b STAT3 hsa-let-7b HIC1
+exmask 95 NR1H3 ABCA1 hsa-miR-29b STAT3 hsa-let-7e HIC1
+exmask 95 hsa-let-7b BCL2L1 HIC1 STAT3 FOS hsa-miR-29a
+exmask 123 hsa-let-7b COL1A1 COL3A1 hsa-miR-29a ETV4 ETS1

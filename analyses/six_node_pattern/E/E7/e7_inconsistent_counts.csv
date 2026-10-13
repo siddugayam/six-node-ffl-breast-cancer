@@ -1,0 +1,22 @@
+arm,estimate_set,n_estimates,n_inconsistent,n_inconsistent_with_ADE_CI_excluding_zero,n_ADE_CI_excluding_zero
+ETS1 -> COL1A1,all 45,45,25,21,38
+ETS1 -> COL1A1,42 = 45 minus the 3 exact duplicates,42,23,20,36
+ETS1 -> COL1A1,39 transcriptomic,39,23,19,32
+NFKB1 -> COL1A1,all 45,45,34,20,23
+NFKB1 -> COL1A1,42 = 45 minus the 3 exact duplicates,42,32,19,22
+NFKB1 -> COL1A1,39 transcriptomic,39,32,18,18
+RELA -> COL1A1,all 45,45,24,20,33
+RELA -> COL1A1,42 = 45 minus the 3 exact duplicates,42,22,19,31
+RELA -> COL1A1,39 transcriptomic,39,21,19,32
+SP1 -> COL1A1,all 45,45,40,33,33
+SP1 -> COL1A1,42 = 45 minus the 3 exact duplicates,42,38,31,31
+SP1 -> COL1A1,39 transcriptomic,39,36,32,32
+hsa-miR-29a -> COL1A1,all 45,45,6,6,36
+hsa-miR-29a -> COL1A1,42 = 45 minus the 3 exact duplicates,42,6,6,35
+hsa-miR-29a -> COL1A1,39 transcriptomic,39,3,3,30
+hsa-miR-29b -> COL1A1,all 45,45,4,2,41
+hsa-miR-29b -> COL1A1,42 = 45 minus the 3 exact duplicates,42,3,2,39
+hsa-miR-29b -> COL1A1,39 transcriptomic,39,2,0,35
+hsa-miR-29c -> COL1A1,all 45,45,8,6,39
+hsa-miR-29c -> COL1A1,42 = 45 minus the 3 exact duplicates,42,7,6,37
+hsa-miR-29c -> COL1A1,39 transcriptomic,39,3,1,33

@@ -1,0 +1,14 @@
+node,type,degree,rank_degree,rank_current_flow_betweenness,rank_information_centrality,rank_rw_throughput,rank_ffl_participation
+hsa-miR-29a,miRNA,61,37,23,38,33,35
+hsa-miR-29b,miRNA,67,27,16,23,28,18
+hsa-miR-29c,miRNA,53,50,51,48,76,14
+COL1A1,Gene,31,151,85,128,26,104
+COL3A1,Gene,10,395,249,385,515,550
+SP1,TF,119,5,1,1,49,1
+RELA,TF,130,2,4,3,6,2
+NFKB1,TF,120,4,5,4,11,3
+MYC,TF,125,3,12,9,8,7
+STAT3,TF,98,7,19,13,19,6
+HIF1A,TF,108,6,13,11,10,8
+TP53,TF,140,1,2,5,1,9
+VEGFA,Gene,77,14,6,6,410,4

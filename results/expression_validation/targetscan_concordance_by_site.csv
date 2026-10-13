@@ -1,0 +1,11 @@
+metric,value
+n_edges_measurable,4628
+overall_concordance,0.4786
+concordance_no_site,0.4217
+concordance_with_site,0.4881
+concordance_with_conserved_site,0.4977
+concordance_with_8mer,0.4963
+spearman_ctx_vs_rho,0.0675
+spearman_ctx_vs_rho_p,2.08e-05
+logistic_beta_ctx,-0.642
+logistic_p_ctx,4.83e-05

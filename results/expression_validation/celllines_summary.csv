@@ -1,0 +1,37 @@
+item,value
+release,DepMap Public 24Q4 (figshare 27993248); md5 of OmicsExpressionProteinCodingGenesTPMLogp1.csv = 71794802b750ce77c422dad0720a40af; CRISPRGeneEffect.csv = 6edf7ade09b9b34199210b559d4745d3
+breast_models_total,96
+breast_models_with_expression,70
+malignant_breast_cell_lines_with_expression,69
+malignant_breast_cell_lines_with_CRISPR,53
+breast_lines_with_CCLE_miRNA_and_expression,50
+fibroblast_lineage_models_with_expression,39
+COL1A1_median_TPM_breast_lines,9.73
+COL3A1_median_TPM_breast_lines,0.21
+COL1A1_median_TPM_fibroblast_lines,5726
+COL3A1_median_TPM_fibroblast_lines,749.2
+COL1A1_fibroblast_over_breastline_ratio,588
+COL3A1_fibroblast_over_breastline_ratio,3568
+COL3A1_frac_breast_lines_below_1TPM,0.797
+COL1A1_pctile_TCGA_tumour_vs_breastline,99.98 vs 62.94
+COL3A1_pctile_TCGA_tumour_vs_breastline,99.95 vs 30.19
+axis: ETS1->COL1A1,"TCGA rho 0.284 (n=1097) -> cell lines rho 0.001 [95% CI -0.235, 0.238] (n=69), p_diff=0.022"
+axis: ETS1->COL3A1,"TCGA rho 0.395 (n=1097) -> cell lines rho 0.249 [95% CI 0.013, 0.459] (n=69), p_diff=0.2"
+axis: NFKB1->COL1A1,"TCGA rho 0.129 (n=1097) -> cell lines rho 0.193 [95% CI -0.046, 0.411] (n=69), p_diff=0.61"
+axis: NFKB1->COL3A1,"TCGA rho 0.223 (n=1097) -> cell lines rho 0.419 [95% CI 0.202, 0.596] (n=69), p_diff=0.083"
+axis: RELA->COL1A1,"TCGA rho 0.046 (n=1097) -> cell lines rho 0.245 [95% CI 0.009, 0.455] (n=69), p_diff=0.11"
+axis: RELA->COL3A1,"TCGA rho -0.034 (n=1097) -> cell lines rho 0.447 [95% CI 0.235, 0.618] (n=69), p_diff=4.9e-05"
+axis: SP1->COL1A1,"TCGA rho 0.060 (n=1097) -> cell lines rho 0.216 [95% CI -0.022, 0.430] (n=69), p_diff=0.21"
+axis: SP1->COL3A1,"TCGA rho 0.207 (n=1097) -> cell lines rho 0.190 [95% CI -0.048, 0.409] (n=69), p_diff=0.89"
+axis: hsa-miR-29a->COL1A1,"TCGA rho -0.246 (n=1066) -> cell lines rho -0.079 [95% CI -0.350, 0.204] (n=50), p_diff=0.25"
+axis: hsa-miR-29a->COL3A1,"TCGA rho -0.248 (n=1066) -> cell lines rho 0.246 [95% CI -0.034, 0.491] (n=50), p_diff=0.0007"
+axis: hsa-miR-29b->COL1A1,"TCGA rho -0.292 (n=1066) -> cell lines rho -0.000 [95% CI -0.279, 0.278] (n=50), p_diff=0.044"
+axis: hsa-miR-29b->COL3A1,"TCGA rho -0.268 (n=1066) -> cell lines rho 0.127 [95% CI -0.157, 0.392] (n=50), p_diff=0.0069"
+axis: hsa-miR-29c->COL1A1,"TCGA rho -0.244 (n=1066) -> cell lines rho 0.107 [95% CI -0.176, 0.374] (n=50), p_diff=0.017"
+axis: hsa-miR-29c->COL3A1,"TCGA rho -0.251 (n=1066) -> cell lines rho -0.286 [95% CI -0.523, -0.008] (n=50), p_diff=0.8"
+axis: COL1A1<->COL3A1,"TCGA rho 0.946 (n=1097) -> cell lines rho 0.263 [95% CI 0.028, 0.470] (n=69), p_diff=3e-33"
+panel: miRNA_target_ALL,"obs 0.553 vs matched null 0.533 (n_edges=3976, n_null=73518), p=0.0154"
+panel: miRNA_target_strong,"obs 0.583 vs matched null 0.533 (n_edges=600, n_null=73518), p=0.015"
+panel: miRNA_target_predicted_only,"obs 0.546 vs matched null 0.533 (n_edges=1445, n_null=73518), p=0.33"
+panel: TF_target_Activation,"obs 0.764 vs matched null 0.738 (n_edges=296, n_null=14714), p=0.358"
+panel: TF_target_Repression,"obs 0.261 vs matched null 0.262 (n_edges=134, n_null=14714), p=1"

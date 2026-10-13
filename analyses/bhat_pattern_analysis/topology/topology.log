@@ -1,0 +1,209 @@
+networks rebuilt byte-identical to the deposit (md5 of all 38 listed files)
+
+T1 composition
+  3node_miRNA_FFL      instances   1355 sets   1355 nodes  364 (TF 83, miRNA 153, Gene 128) edges  1760
+  3node_TF_FFL         instances   1182 sets   1182 nodes  348 (TF 76, miRNA 148, Gene 124) edges  1576
+  3node_composite_FFL  instances   1173 sets   1173 nodes  346 (TF 76, miRNA 146, Gene 124) edges  2112
+  4node_miRNA_FFL      instances   2580 sets   2554 nodes  365 (TF 93, miRNA 166, Gene 106) edges  2036
+  4node_TF_FFL         instances   2090 sets   2065 nodes  352 (TF 88, miRNA 159, Gene 105) edges  1769
+  4node_composite_FFL  instances   2054 sets   2029 nodes  350 (TF 88, miRNA 157, Gene 105) edges  2389
+  5node_miRNA_FFL      instances   2272 sets   1456 nodes  246 (TF 66, miRNA 87, Gene 93) edges  1335
+  5node_TF_FFL         instances   1719 sets   1168 nodes  239 (TF 61, miRNA 85, Gene 93) edges  1191
+  5node_composite_FFL  instances   1719 sets   1168 nodes  239 (TF 61, miRNA 85, Gene 93) edges  1530
+  6node_miRNA_FFL      instances  14003 sets   8606 nodes  330 (TF 122, miRNA 96, Gene 112) edges  2329
+  6node_TF_FFL         instances  15701 sets   9950 nodes  328 (TF 117, miRNA 99, Gene 112) edges  2203
+  6node_composite_FFL  instances   3898 sets   2498 nodes  210 (TF 45, miRNA 79, Gene 86) edges  1488
+
+T2 degree (edges) and neighbours; top 10 by MCC
+  analysed_network     nodes  587 undirected edges  5606 components   1 degree min/q1/median/q3/max 1/8/16/32/140 mean 23.27 share deg 1 0.003; neighbours median 15 share 1 0.003
+      MCC top 10: RELA, SP1, NFKB1, VEGFA, CCND2, hsa-miR-29c, STAT3, hsa-miR-17, ABCA1, TWIST1
+      neighbours top 10: SP1, CCND2, RELA, TP53, NFKB1, VEGFA, ADAMTS5, TGFBR2, MYC, ABCA1
+      betweenness top 10: SP1, TP53, CCND2, RELA, VEGFA, NFKB1, TWIST1, hsa-miR-124, hsa-miR-21, TGFBR2
+  3node_miRNA_FFL      nodes  364 undirected edges  1760 components   2 degree min/q1/median/q3/max 2/3/6/12/66 mean 9.67 share deg 1 0.000; neighbours median 6 share 1 0.000
+      MCC top 10: SP1, VEGFA, NFKB1, CCND2, RELA, STAT3, HIF1A, TP53, MYC, ABCA1
+      neighbours top 10: SP1, CCND2, NFKB1, VEGFA, RELA, TP53, HIF1A, MYC, STAT3, E2F1
+      betweenness top 10: VEGFA, TP53, SP1, NFKB1, CCND2, RELA, HIF1A, STAT3, EGR1, MYC
+  3node_TF_FFL         nodes  348 undirected edges  1576 components   2 degree min/q1/median/q3/max 2/3/5.5/11/63 mean 9.06 share deg 1 0.000; neighbours median 5.5 share 1 0.000
+      MCC top 10: SP1, VEGFA, NFKB1, CCND2, RELA, TP53, MYC, HIF1A, STAT3, E2F1
+      neighbours top 10: SP1, CCND2, NFKB1, RELA, VEGFA, TP53, HIF1A, MYC, E2F1, STAT3
+      betweenness top 10: TP53, VEGFA, CCND2, SP1, NFKB1, RELA, HIF1A, EGR1, MYC, STAT3
+  3node_composite_FFL  nodes  346 undirected edges  1561 components   2 degree min/q1/median/q3/max 2/3/7/14/99 mean 12.21 share deg 1 0.000; neighbours median 5.5 share 1 0.000
+      MCC top 10: SP1, VEGFA, NFKB1, CCND2, RELA, TP53, MYC, STAT3, HIF1A, E2F1
+      neighbours top 10: SP1, CCND2, NFKB1, RELA, VEGFA, TP53, HIF1A, MYC, STAT3, E2F1
+      betweenness top 10: TP53, VEGFA, CCND2, SP1, NFKB1, RELA, HIF1A, EGR1, MYC, STAT3
+  4node_miRNA_FFL      nodes  365 undirected edges  2036 components   1 degree min/q1/median/q3/max 2/4/8/15/59 mean 11.16 share deg 1 0.000; neighbours median 8 share 1 0.000
+      MCC top 10: SP1, FN1, MMP2, RELA, NFKB1, HBEGF, HIF1A, TGFBR2, SERPINE1, COL1A1
+      neighbours top 10: RELA, SP1, TP53, NFKB1, HIF1A, MYC, STAT3, FN1, TWIST1, TGFBR2
+      betweenness top 10: SP1, TP53, RELA, HIF1A, NFKB1, FN1, MYC, TGFBR2, THBS1, MMP2
+  4node_TF_FFL         nodes  352 undirected edges  1769 components   1 degree min/q1/median/q3/max 2/3/6/13/57 mean 10.05 share deg 1 0.000; neighbours median 6 share 1 0.000
+      MCC top 10: FN1, SP1, RELA, MMP2, NFKB1, HBEGF, HIF1A, COL1A1, TGFBR2, FBN1
+      neighbours top 10: RELA, SP1, TP53, NFKB1, HIF1A, MYC, FN1, STAT3, THBS1, EGR1
+      betweenness top 10: SP1, TP53, RELA, NFKB1, HIF1A, TGFBR2, MYC, FN1, hsa-miR-19a, EGR1
+  4node_composite_FFL  nodes  350 undirected edges  1747 components   1 degree min/q1/median/q3/max 2/4/9/17/96 mean 13.65 share deg 1 0.000; neighbours median 6 share 1 0.000
+      MCC top 10: FN1, SP1, RELA, MMP2, NFKB1, HBEGF, HIF1A, COL1A1, TGFBR2, TP53
+      neighbours top 10: RELA, SP1, TP53, NFKB1, HIF1A, MYC, FN1, STAT3, THBS1, EGR1
+      betweenness top 10: SP1, TP53, RELA, NFKB1, HIF1A, TGFBR2, FN1, MYC, EGR1, THBS1
+  5node_miRNA_FFL      nodes  246 undirected edges  1335 components   1 degree min/q1/median/q3/max 2/4/8/14.75/42 mean 10.85 share deg 1 0.000; neighbours median 8 share 1 0.000
+      MCC top 10: hsa-miR-19b, hsa-miR-19a, hsa-miR-17, hsa-miR-20a, hsa-miR-18a, hsa-miR-92a, RELA, F3, THBS1, hsa-miR-300
+      neighbours top 10: SP1, RELA, hsa-miR-19b, NFKB1, hsa-miR-19a, hsa-miR-29b, MMP2, hsa-miR-17, hsa-miR-20a, HIF1A
+      betweenness top 10: SP1, RELA, hsa-miR-19b, hsa-miR-29b, NFKB1, MMP2, TP53, THBS1, hsa-miR-19a, STAT3
+  5node_TF_FFL         nodes  239 undirected edges  1191 components   1 degree min/q1/median/q3/max 2/4/7/13/41 mean 9.97 share deg 1 0.000; neighbours median 7 share 1 0.000
+      MCC top 10: hsa-miR-19a, hsa-miR-17, hsa-miR-20a, hsa-miR-19b, hsa-miR-18a, hsa-miR-92a, hsa-miR-106a, hsa-miR-20b, TP53, MYC
+      neighbours top 10: SP1, RELA, hsa-miR-19a, NFKB1, FN1, HIF1A, MMP2, hsa-miR-17, hsa-miR-19b, hsa-miR-20a
+      betweenness top 10: SP1, hsa-miR-19a, RELA, TP53, THBS1, NFKB1, MMP2, hsa-miR-29a, LIF, SMAD7
+  5node_composite_FFL  nodes  239 undirected edges  1191 components   1 degree min/q1/median/q3/max 2/5/8/17/61 mean 12.80 share deg 1 0.000; neighbours median 7 share 1 0.000
+      MCC top 10: hsa-miR-19a, hsa-miR-17, hsa-miR-20a, hsa-miR-19b, hsa-miR-18a, hsa-miR-92a, hsa-miR-106a, hsa-miR-20b, TP53, MYC
+      neighbours top 10: SP1, RELA, hsa-miR-19a, NFKB1, FN1, HIF1A, MMP2, hsa-miR-17, hsa-miR-19b, hsa-miR-20a
+      betweenness top 10: SP1, hsa-miR-19a, RELA, TP53, THBS1, NFKB1, MMP2, hsa-miR-29a, LIF, SMAD7
+  6node_miRNA_FFL      nodes  330 undirected edges  2297 components   1 degree min/q1/median/q3/max 2/5/10/19/77 mean 14.12 share deg 1 0.000; neighbours median 10 share 1 0.000
+      MCC top 10: hsa-miR-19b, hsa-miR-17, hsa-miR-20a, hsa-miR-19a, MYC, E2F1, AR, SP1, RELA, hsa-miR-18a
+      neighbours top 10: SP1, RELA, TP53, MYC, NFKB1, E2F1, STAT3, HIF1A, JUN, hsa-miR-19b
+      betweenness top 10: SP1, NFKB1, TP53, RELA, MYC, HIF1A, E2F1, STAT3, TGFBR2, JUN
+  6node_TF_FFL         nodes  328 undirected edges  2172 components   1 degree min/q1/median/q3/max 2/5/10/18/79 mean 13.43 share deg 1 0.000; neighbours median 10 share 1 0.000
+      MCC top 10: hsa-miR-17, hsa-miR-20a, hsa-miR-19a, MYC, E2F1, AR, SP1, ESR1, hsa-miR-92a, hsa-miR-18a
+      neighbours top 10: SP1, MYC, RELA, TP53, NFKB1, E2F1, HIF1A, JUN, STAT3, TGFBR2
+      betweenness top 10: SP1, TP53, MYC, RELA, NFKB1, JUN, E2F1, TGFBR2, STAT3, HNF4A
+  6node_composite_FFL  nodes  210 undirected edges  1153 components   1 degree min/q1/median/q3/max 2/5/10/18/80 mean 14.17 share deg 1 0.000; neighbours median 9 share 1 0.000
+      MCC top 10: hsa-miR-19a, hsa-miR-17, hsa-miR-20a, hsa-miR-19b, TP53, hsa-miR-18a, hsa-miR-92a, MYC, E2F1, ESR1
+      neighbours top 10: TP53, NFKB1, RELA, SP1, MYC, HIF1A, STAT3, hsa-miR-17, hsa-miR-19a, hsa-miR-20a
+      betweenness top 10: TP53, NFKB1, SP1, HIF1A, MYC, RELA, THBS1, STAT3, E2F1, hsa-miR-27a
+  3node_miRNA_FFL      top-10 shared with the analysed network: MCC 7, neighbours 7, betweenness 6
+  3node_TF_FFL         top-10 shared with the analysed network: MCC 6, neighbours 7, betweenness 6
+  3node_composite_FFL  top-10 shared with the analysed network: MCC 6, neighbours 7, betweenness 6
+  4node_miRNA_FFL      top-10 shared with the analysed network: MCC 3, neighbours 6, betweenness 5
+  4node_TF_FFL         top-10 shared with the analysed network: MCC 3, neighbours 5, betweenness 5
+  4node_composite_FFL  top-10 shared with the analysed network: MCC 3, neighbours 5, betweenness 5
+  5node_miRNA_FFL      top-10 shared with the analysed network: MCC 2, neighbours 3, betweenness 4
+  5node_TF_FFL         top-10 shared with the analysed network: MCC 1, neighbours 3, betweenness 4
+  5node_composite_FFL  top-10 shared with the analysed network: MCC 1, neighbours 3, betweenness 4
+  6node_miRNA_FFL      top-10 shared with the analysed network: MCC 3, neighbours 5, betweenness 5
+  6node_TF_FFL         top-10 shared with the analysed network: MCC 2, neighbours 6, betweenness 5
+  6node_composite_FFL  top-10 shared with the analysed network: MCC 1, neighbours 5, betweenness 4
+
+T3 Jaccard (nodes / edges)
+  3node_miRNA_FFL      3node_TF_FFL         0.945 / 0.435
+  3node_miRNA_FFL      3node_composite_FFL  0.951 / 0.675
+  3node_miRNA_FFL      4node_miRNA_FFL      0.646 / 0.340
+  3node_miRNA_FFL      4node_TF_FFL         0.627 / 0.142
+  3node_miRNA_FFL      4node_composite_FFL  0.630 / 0.255
+  3node_miRNA_FFL      5node_miRNA_FFL      0.452 / 0.243
+  3node_miRNA_FFL      5node_TF_FFL         0.443 / 0.113
+  3node_miRNA_FFL      5node_composite_FFL  0.443 / 0.195
+  3node_miRNA_FFL      6node_miRNA_FFL      0.473 / 0.228
+  3node_miRNA_FFL      6node_TF_FFL         0.479 / 0.104
+  3node_miRNA_FFL      6node_composite_FFL  0.403 / 0.191
+  3node_TF_FFL         3node_composite_FFL  0.994 / 0.734
+  3node_TF_FFL         4node_miRNA_FFL      0.617 / 0.134
+  3node_TF_FFL         4node_TF_FFL         0.624 / 0.324
+  3node_TF_FFL         4node_composite_FFL  0.623 / 0.258
+  3node_TF_FFL         5node_miRNA_FFL      0.445 / 0.109
+  3node_TF_FFL         5node_TF_FFL         0.446 / 0.229
+  3node_TF_FFL         5node_composite_FFL  0.446 / 0.199
+  3node_TF_FFL         6node_miRNA_FFL      0.455 / 0.096
+  3node_TF_FFL         6node_TF_FFL         0.460 / 0.217
+  3node_TF_FFL         6node_composite_FFL  0.409 / 0.196
+  3node_composite_FFL  4node_miRNA_FFL      0.616 / 0.249
+  3node_composite_FFL  4node_TF_FFL         0.619 / 0.263
+  3node_composite_FFL  4node_composite_FFL  0.622 / 0.369
+  3node_composite_FFL  5node_miRNA_FFL      0.447 / 0.180
+  3node_composite_FFL  5node_TF_FFL         0.448 / 0.184
+  3node_composite_FFL  5node_composite_FFL  0.448 / 0.261
+  3node_composite_FFL  6node_miRNA_FFL      0.457 / 0.179
+  3node_composite_FFL  6node_TF_FFL         0.462 / 0.184
+  3node_composite_FFL  6node_composite_FFL  0.411 / 0.253
+  4node_miRNA_FFL      4node_TF_FFL         0.954 / 0.409
+  4node_miRNA_FFL      4node_composite_FFL  0.959 / 0.652
+  4node_miRNA_FFL      5node_miRNA_FFL      0.621 / 0.511
+  4node_miRNA_FFL      5node_TF_FFL         0.602 / 0.267
+  4node_miRNA_FFL      5node_composite_FFL  0.602 / 0.400
+  4node_miRNA_FFL      6node_miRNA_FFL      0.624 / 0.381
+  4node_miRNA_FFL      6node_TF_FFL         0.612 / 0.213
+  4node_miRNA_FFL      6node_composite_FFL  0.474 / 0.301
+  4node_TF_FFL         4node_composite_FFL  0.994 / 0.725
+  4node_TF_FFL         5node_miRNA_FFL      0.621 / 0.272
+  4node_TF_FFL         5node_TF_FFL         0.615 / 0.506
+  4node_TF_FFL         5node_composite_FFL  0.615 / 0.432
+  4node_TF_FFL         6node_miRNA_FFL      0.612 / 0.207
+  4node_TF_FFL         6node_TF_FFL         0.600 / 0.361
+  4node_TF_FFL         6node_composite_FFL  0.475 / 0.321
+  4node_composite_FFL  5node_miRNA_FFL      0.624 / 0.369
+  4node_composite_FFL  5node_TF_FFL         0.618 / 0.385
+  4node_composite_FFL  5node_composite_FFL  0.618 / 0.516
+  4node_composite_FFL  6node_miRNA_FFL      0.611 / 0.290
+  4node_composite_FFL  6node_TF_FFL         0.599 / 0.298
+  4node_composite_FFL  6node_composite_FFL  0.478 / 0.361
+  5node_miRNA_FFL      5node_TF_FFL         0.972 / 0.509
+  5node_miRNA_FFL      5node_composite_FFL  0.972 / 0.711
+  5node_miRNA_FFL      6node_miRNA_FFL      0.740 / 0.540
+  5node_miRNA_FFL      6node_TF_FFL         0.729 / 0.327
+  5node_miRNA_FFL      6node_composite_FFL  0.695 / 0.494
+  5node_TF_FFL         5node_composite_FFL  1.000 / 0.778
+  5node_TF_FFL         6node_miRNA_FFL      0.719 / 0.311
+  5node_TF_FFL         6node_TF_FFL         0.708 / 0.508
+  5node_TF_FFL         6node_composite_FFL  0.714 / 0.522
+  5node_composite_FFL  6node_miRNA_FFL      0.719 / 0.427
+  5node_composite_FFL  6node_TF_FFL         0.708 / 0.442
+  5node_composite_FFL  6node_composite_FFL  0.714 / 0.608
+  6node_miRNA_FFL      6node_TF_FFL         0.913 / 0.455
+  6node_miRNA_FFL      6node_composite_FFL  0.636 / 0.450
+  6node_TF_FFL         6node_composite_FFL  0.640 / 0.472
+
+T4 typed cores: 1649 cores, 377 nodes, 2615 edges
+  3node_miRNA_FFL      nodes in a core 364/364 = 1.000; edges used by a core 1760/1760 = 1.000
+  3node_TF_FFL         nodes in a core 348/348 = 1.000; edges used by a core 1576/1576 = 1.000
+  3node_composite_FFL  nodes in a core 346/346 = 1.000; edges used by a core 2112/2112 = 1.000
+  4node_miRNA_FFL      nodes in a core 291/365 = 0.797; edges used by a core 1060/2036 = 0.521
+  4node_TF_FFL         nodes in a core 281/352 = 0.798; edges used by a core 891/1769 = 0.504
+  4node_composite_FFL  nodes in a core 280/350 = 0.800; edges used by a core 1351/2389 = 0.566
+  5node_miRNA_FFL      nodes in a core 191/246 = 0.776; edges used by a core 632/1335 = 0.473
+  5node_TF_FFL         nodes in a core 186/239 = 0.778; edges used by a core 552/1191 = 0.463
+  5node_composite_FFL  nodes in a core 186/239 = 0.778; edges used by a core 808/1530 = 0.528
+  6node_miRNA_FFL      nodes in a core 227/330 = 0.688; edges used by a core 861/2329 = 0.370
+  6node_TF_FFL         nodes in a core 228/328 = 0.695; edges used by a core 769/2203 = 0.349
+  6node_composite_FFL  nodes in a core 166/210 = 0.790; edges used by a core 777/1488 = 0.522
+
+T5 census graph: 9226 arcs, 1223 miRNA->TF arcs removed by the contraction, 8003 left
+  3node_miRNA_FFL      node sets passing D1-D4: 1307 of 1355 = 0.965
+      fails:    30  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    18  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
+  3node_TF_FFL         node sets passing D1-D4: 1143 of 1182 = 0.967
+      fails:    24  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    15  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
+  3node_composite_FFL  node sets passing D1-D4: 1134 of 1173 = 0.967
+      fails:    24  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    15  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
+  4node_miRNA_FFL      node sets passing D1-D4: 2297 of 2554 = 0.899
+      fails:   227  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    30  no 2-cycle
+  4node_TF_FFL         node sets passing D1-D4: 1861 of 2065 = 0.901
+      fails:   179  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    25  no 2-cycle
+  4node_composite_FFL  node sets passing D1-D4: 1826 of 2029 = 0.900
+      fails:   178  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
+      fails:    25  no 2-cycle
+  5node_miRNA_FFL      node sets passing D1-D4: 0 of 1456 = 0.000
+      fails:  1336  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   120  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+  5node_TF_FFL         node sets passing D1-D4: 0 of 1168 = 0.000
+      fails:  1068  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   100  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+  5node_composite_FFL  node sets passing D1-D4: 0 of 1168 = 0.000
+      fails:  1068  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   100  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+  6node_miRNA_FFL      node sets passing D1-D4: 0 of 8606 = 0.000
+      fails:  3945  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:  2268  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:  1277  2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   565  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   379  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   172  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+  6node_TF_FFL         node sets passing D1-D4: 0 of 9950 = 0.000
+      fails:  4809  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:  2141  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:  1941  2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   445  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   357  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   257  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+  6node_composite_FFL  node sets passing D1-D4: 0 of 2498 = 0.000
+      fails:  2141  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
+      fails:   357  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)

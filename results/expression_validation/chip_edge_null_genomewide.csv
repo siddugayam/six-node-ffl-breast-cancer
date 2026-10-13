@@ -1,0 +1,5 @@
+window_bp,min_datasets,n_edges,observed,obs_frac,null_mean,null_sd,null_frac,Z,fold,p_emp,reps,null_type
+1000,1,721,560,0.7767,451.7,11.99,0.6265,9.03,1.24,0.001,1000,genome-wide random promoter (600 non-network RefSeqSelect genes)
+1000,2,721,470,0.6519,366.5,11.75,0.5084,8.8,1.282,0.001,1000,genome-wide random promoter (600 non-network RefSeqSelect genes)
+5000,1,721,610,0.846,509.3,10.41,0.7064,9.67,1.198,0.001,1000,genome-wide random promoter (600 non-network RefSeqSelect genes)
+5000,2,721,544,0.7545,424.3,10.9,0.5884,10.99,1.282,0.001,1000,genome-wide random promoter (600 non-network RefSeqSelect genes)

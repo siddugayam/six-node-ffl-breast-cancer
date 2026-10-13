@@ -1,0 +1,4 @@
+metric,observed,obs_frac,null_mean,null_sd,null_frac,Z,fold,p_emp,reps,n_edges,null_type
+any_site,4147,0.8606,2134.5,33.89,0.4429,59.38,1.943,0.001,1000,4819,"target gene reshuffled within the 363 network target genes, miRNA fixed"
+conserved_site,3683,0.7643,536.9,21.92,0.1114,143.56,6.86,0.001,1000,4819,"target gene reshuffled within the 363 network target genes, miRNA fixed"
+8mer_site,1727,0.3584,552.1,21.43,0.1146,54.83,3.128,0.001,1000,4819,"target gene reshuffled within the 363 network target genes, miRNA fixed"

@@ -1,0 +1,6 @@
+set,n,median_log2_CAF_over_cancer,frac_CAF_skewed,p_vs_network_background
+network gene/TF background,364,0.729,0.412,
+BioNet primary module (58-node),43,1.489,0.605,0.020868352254619
+paper: FFL 3-node members,204,0.857,0.456,0.0976258500313905
+paper: higher-order-only members,104,0.436,0.317,0.249433553424268
+paper: prioritised 30,20,-0.011,0.45,0.628244793636759

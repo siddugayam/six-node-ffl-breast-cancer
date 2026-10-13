@@ -1,0 +1,68 @@
+K 6
+nparts 64
+part 29
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 78293
+visited 23045019
+rng_final 42
+comp 1 2 3 32
+comp 1 3 2 711
+comp 1 4 1 37
+comp 2 1 3 23
+comp 2 2 2 1926
+comp 2 3 1 8538
+comp 3 0 3 4
+comp 3 1 2 915
+comp 3 2 1 42845
+comp 3 3 0 1660
+comp 4 0 2 83
+comp 4 1 1 9351
+comp 4 2 0 6880
+comp 5 0 1 984
+comp 5 1 0 3916
+comp 6 0 0 388
+mask 2 388
+mask 3 1071
+mask 6 2324
+mask 7 59
+mask 10 4
+mask 11 38
+mask 12 1
+mask 14 34210
+mask 15 19399
+mask 19 4
+mask 20 87
+mask 21 10
+mask 22 10045
+mask 23 1549
+mask 26 11
+mask 27 33
+mask 28 1448
+mask 29 191
+mask 30 2856
+mask 31 4565
+flags 0 71987
+flags 1 978
+flags 2 616
+flags 3 938
+flags 8 2782
+flags 9 1
+flags 10 18
+flags 11 2
+flags 24 955
+flags 26 9
+flags 27 7
+exflag 0 BRCA1 EGR1 CCND2 IRF9 hsa-let-7e hsa-miR-106a
+exflag 0 BRCA1 EGR1 CCND2 IRF9 hsa-let-7e hsa-miR-124
+exflag 0 BRCA1 EGR1 CCND2 IRF9 hsa-let-7e hsa-miR-142
+exflag 1 BRCA1 DDIT3 CEBPA IRF9 CCND2 hsa-miR-182
+exflag 1 BRCA1 DDIT3 CEBPA IRF9 CCND2 hsa-miR-26a
+exflag 1 BRCA1 DDIT3 CEBPA IRF9 CCND2 hsa-miR-29a
+exflag 3 BRCA1 CDH3 FOS MYC STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 3 BRCA1 DDIT3 FOS HIF1A TWIST1 hsa-miR-155 | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-155 target=TWIST1
+exflag 3 BRCA1 DDIT3 FOS IL6 STAT1 hsa-miR-155 | TF1=BRCA1 TF2=STAT1 miRNA=hsa-miR-155 target=IL6
+exflag 4 BRCA1 CDH3 FOS MYC STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 BRCA1 DDIT3 FOS IL6 STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 BRCA1 DDIT3 FOS SIRT1 STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS

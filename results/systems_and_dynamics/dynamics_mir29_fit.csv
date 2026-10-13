@@ -1,0 +1,34 @@
+parameter,estimate,ci_lo,ci_hi,units
+c0,17.431973308695788,17.047482988236563,17.931093126014492,log2 units
+a_NFKB1,0.3102211534194254,0.15310645706849024,0.4641929246257574,log2 COL1A1 per log2 NFKB1
+lambda,131.1882927048651,2.920721046768314,313.61582480477864,max fold-acceleration of COL1A1 mRNA decay
+K,19.999947847187194,1.5022590245912173,19.999999999997623,miR-29 fold of cohort median
+n,1.702954843946337,1.3274423279086587,3.553279115420916,dimensionless
+R2_circuit_model,0.130510133468286,,,fraction
+R2_TF_only,0.01046735073033389,,,fraction
+R2_loglinear,0.11771464100812512,,,fraction
+AIC_circuit_model,724.7386249108955,,,AIC
+AIC_TF_only,856.6002271068353,,,AIC
+AIC_loglinear,736.3116702980932,,,AIC
+removal_factor_at_cohort_median,1.7937177968040574,,,fold
+max_achievable_suppression_from_median,73.69514476602203,2.4240358871168204,216.12746617065272,fold
+miR29_fold_to_halve_COL1A1_mRNA,2.0178693607357414,1.7964299470167806,2.347597308977047,fold of cohort median
+miR29_fold_to_halve_COL1A1_mRNA_loglinear_check,2.5764842996157795,,,fold of cohort median
+miR29_fold_to_halve_COL1A1_protein_CPTAC,,,,fold of cohort median
+lambda_protein_CPTAC,1.0554163092115607,,,fold
+K_protein_CPTAC,1.2086528557757317,,,fold of median
+n_protein_CPTAC,3.9999999999999996,,,dimensionless
+indirect_path_slope_miR29_NFKB1_COL1A1,0.017185246333341182,,,log2 COL1A1 per log2 miR-29
+slope_miR29_to_NFKB1,0.05539675855084703,,,log2 NFKB1 per log2 miR-29
+loglinear_total_slope_miR29_COL1A1,-0.7323840750777909,,,log2 COL1A1 per log2 miR-29
+local_log_sensitivity_at_median,-0.7524758110325117,-1.030714080527027,-0.6004394116596223,d log2 COL1A1 / d log2 miR-29
+local_log_sensitivity_constrained_fit,-0.8152233609928234,,,d log2 COL1A1 / d log2 miR-29
+lambda_constrained_K_in_observed_range,7.584862073477866,,,max fold-acceleration of decay
+K_constrained,2.8561730844433066,,,miR-29 fold of cohort median
+n_constrained,2.291311443700012,,,dimensionless
+R2_constrained,0.12959122880444507,,,fraction
+K_hit_upper_bound_nonidentifiable,1.0,,,1 = yes
+reciprocal_arm_miR29_vs_NFKB1_spearman_rho,0.0637797908059409,,,rho (annotated edge is repressive; observed sign is opposite)
+reciprocal_arm_miR29_vs_NFKB1_p,0.037336521774555,,,p
+observed_miR29_fold_range_p1_p99_lo,0.32291302332447136,,,fold of cohort median
+observed_miR29_fold_range_p1_p99_hi,2.8561730844436424,,,fold of cohort median

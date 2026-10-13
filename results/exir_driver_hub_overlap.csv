@@ -1,0 +1,9 @@
+test,universe,n_drivers,n_hubs,overlap,expected,fold_enrichment,p_hyper,overlap_features
+sigDrivers vs centralityHubs | universe = network nodes in ExIR space,315,4,39,1,0.495238095238095,2.01923076923077,0.412218581903773,TGFBR2
+sigDrivers vs FFLparticipationHubs | universe = network nodes in ExIR space,315,4,35,1,0.444444444444444,2.25,0.377201344743723,TGFBR2
+sigDrivers vs centralityHubs | universe = whole ExIR feature space,7376,70,39,1,0.370119305856833,2.7018315018315,0.311233298067992,TGFBR2
+sigDrivers vs FFLparticipationHubs | universe = whole ExIR feature space,7376,70,35,1,0.332158351409978,3.01061224489796,0.284318354564671,TGFBR2
+top100Drivers vs centralityHubs | universe = whole ExIR feature space,7376,100,39,1,0.528741865509761,1.89128205128205,0.413594865134605,TGFBR2
+top100Drivers vs FFLparticipationHubs | universe = whole ExIR feature space,7376,100,35,1,0.474511930585683,2.10742857142857,0.380517026072516,TGFBR2
+sigDrivers vs centralityHubs | universe = DE-significant network nodes,196,4,29,1,0.591836734693878,1.68965517241379,0.475793224761152,TGFBR2
+sigDrivers vs FFLparticipationHubs | universe = DE-significant network nodes,196,4,25,1,0.510204081632653,1.96,0.423245095271162,TGFBR2

@@ -1,0 +1,381 @@
+node,type,filter_status
+hsa-let-7a,miRNA,retained
+hsa-let-7b,miRNA,retained
+hsa-let-7c,miRNA,retained
+hsa-let-7d,miRNA,retained
+hsa-let-7e,miRNA,retained
+hsa-let-7f,miRNA,retained
+hsa-let-7g,miRNA,retained
+hsa-let-7i,miRNA,retained
+hsa-miR-1,miRNA,retained
+hsa-miR-100,miRNA,retained
+hsa-miR-101,miRNA,retained
+hsa-miR-103,miRNA,retained
+hsa-miR-106a,miRNA,retained
+hsa-miR-106b,miRNA,retained
+hsa-miR-107,miRNA,retained
+hsa-miR-10a,miRNA,retained
+hsa-miR-10b,miRNA,retained
+hsa-miR-1193,miRNA,retained
+hsa-miR-1197,miRNA,retained
+hsa-miR-122,miRNA,retained
+hsa-miR-124,miRNA,retained
+hsa-miR-1251,miRNA,retained
+hsa-miR-125a,miRNA,retained
+hsa-miR-125b,miRNA,retained
+hsa-miR-126,miRNA,retained
+hsa-miR-1271,miRNA,retained
+hsa-miR-128,miRNA,retained
+hsa-miR-129,miRNA,retained
+hsa-miR-130a,miRNA,retained
+hsa-miR-130b,miRNA,retained
+hsa-miR-132,miRNA,retained
+hsa-miR-133a,miRNA,"tested, not retained"
+hsa-miR-133b,miRNA,retained
+hsa-miR-134,miRNA,retained
+hsa-miR-135a,miRNA,retained
+hsa-miR-135b,miRNA,retained
+hsa-miR-136,miRNA,retained
+hsa-miR-137,miRNA,retained
+hsa-miR-138,miRNA,retained
+hsa-miR-139,miRNA,retained
+hsa-miR-140,miRNA,retained
+hsa-miR-141,miRNA,retained
+hsa-miR-142,miRNA,retained
+hsa-miR-143,miRNA,retained
+hsa-miR-144,miRNA,retained
+hsa-miR-145,miRNA,retained
+hsa-miR-146a,miRNA,retained
+hsa-miR-146b,miRNA,retained
+hsa-miR-148a,miRNA,retained
+hsa-miR-148b,miRNA,retained
+hsa-miR-149,miRNA,retained
+hsa-miR-150,miRNA,retained
+hsa-miR-151a,miRNA,"tested, not retained"
+hsa-miR-152,miRNA,retained
+hsa-miR-154,miRNA,retained
+hsa-miR-155,miRNA,retained
+hsa-miR-15a,miRNA,retained
+hsa-miR-15b,miRNA,retained
+hsa-miR-16,miRNA,retained
+hsa-miR-17,miRNA,retained
+hsa-miR-181a,miRNA,retained
+hsa-miR-181b,miRNA,retained
+hsa-miR-181c,miRNA,retained
+hsa-miR-181d,miRNA,retained
+hsa-miR-182,miRNA,retained
+hsa-miR-183,miRNA,retained
+hsa-miR-185,miRNA,retained
+hsa-miR-188,miRNA,"tested, not retained"
+hsa-miR-18a,miRNA,retained
+hsa-miR-18b,miRNA,retained
+hsa-miR-190a,miRNA,retained
+hsa-miR-191,miRNA,retained
+hsa-miR-192,miRNA,retained
+hsa-miR-193a,miRNA,retained
+hsa-miR-193b,miRNA,retained
+hsa-miR-194,miRNA,retained
+hsa-miR-195,miRNA,retained
+hsa-miR-196a,miRNA,retained
+hsa-miR-196b,miRNA,retained
+hsa-miR-199a,miRNA,retained
+hsa-miR-19a,miRNA,retained
+hsa-miR-19b,miRNA,retained
+hsa-miR-200a,miRNA,retained
+hsa-miR-200b,miRNA,retained
+hsa-miR-200c,miRNA,retained
+hsa-miR-202,miRNA,retained
+hsa-miR-203,miRNA,retained
+hsa-miR-204,miRNA,retained
+hsa-miR-205,miRNA,retained
+hsa-miR-206,miRNA,retained
+hsa-miR-20a,miRNA,retained
+hsa-miR-20b,miRNA,retained
+hsa-miR-21,miRNA,retained
+hsa-miR-210,miRNA,retained
+hsa-miR-212,miRNA,retained
+hsa-miR-214,miRNA,retained
+hsa-miR-215,miRNA,"tested, not retained"
+hsa-miR-216a,miRNA,retained
+hsa-miR-217,miRNA,retained
+hsa-miR-218,miRNA,retained
+hsa-miR-219a,miRNA,retained
+hsa-miR-22,miRNA,retained
+hsa-miR-221,miRNA,retained
+hsa-miR-222,miRNA,retained
+hsa-miR-223,miRNA,retained
+hsa-miR-224,miRNA,retained
+hsa-miR-23a,miRNA,retained
+hsa-miR-23b,miRNA,retained
+hsa-miR-24,miRNA,retained
+hsa-miR-25,miRNA,retained
+hsa-miR-26a,miRNA,retained
+hsa-miR-26b,miRNA,retained
+hsa-miR-27a,miRNA,retained
+hsa-miR-27b,miRNA,retained
+hsa-miR-28,miRNA,retained
+hsa-miR-296,miRNA,retained
+hsa-miR-299,miRNA,retained
+hsa-miR-29a,miRNA,retained
+hsa-miR-29b,miRNA,retained
+hsa-miR-29c,miRNA,retained
+hsa-miR-300,miRNA,"tested, not retained"
+hsa-miR-301a,miRNA,retained
+hsa-miR-301b,miRNA,retained
+hsa-miR-302a,miRNA,retained
+hsa-miR-302b,miRNA,retained
+hsa-miR-302c,miRNA,retained
+hsa-miR-302d,miRNA,retained
+hsa-miR-30a,miRNA,retained
+hsa-miR-30b,miRNA,retained
+hsa-miR-30c,miRNA,retained
+hsa-miR-30d,miRNA,retained
+hsa-miR-30e,miRNA,retained
+hsa-miR-31,miRNA,retained
+hsa-miR-32,miRNA,retained
+hsa-miR-320a,miRNA,retained
+hsa-miR-320b,miRNA,retained
+hsa-miR-324,miRNA,retained
+hsa-miR-329,miRNA,retained
+hsa-miR-330,miRNA,retained
+hsa-miR-331,miRNA,retained
+hsa-miR-335,miRNA,retained
+hsa-miR-338,miRNA,retained
+hsa-miR-33a,miRNA,retained
+hsa-miR-340,miRNA,"tested, not retained"
+hsa-miR-342,miRNA,retained
+hsa-miR-346,miRNA,retained
+hsa-miR-34a,miRNA,retained
+hsa-miR-34c,miRNA,retained
+hsa-miR-361,miRNA,retained
+hsa-miR-362,miRNA,in no tested pair
+hsa-miR-363,miRNA,retained
+hsa-miR-367,miRNA,retained
+hsa-miR-369,miRNA,retained
+hsa-miR-370,miRNA,retained
+hsa-miR-371a,miRNA,retained
+hsa-miR-372,miRNA,retained
+hsa-miR-373,miRNA,retained
+hsa-miR-374a,miRNA,retained
+hsa-miR-375,miRNA,retained
+hsa-miR-376a,miRNA,retained
+hsa-miR-376b,miRNA,retained
+hsa-miR-376c,miRNA,retained
+hsa-miR-377,miRNA,retained
+hsa-miR-378a,miRNA,"tested, not retained"
+hsa-miR-379,miRNA,retained
+hsa-miR-381,miRNA,retained
+hsa-miR-382,miRNA,retained
+hsa-miR-383,miRNA,retained
+hsa-miR-409,miRNA,retained
+hsa-miR-410,miRNA,retained
+hsa-miR-411,miRNA,retained
+hsa-miR-421,miRNA,retained
+hsa-miR-424,miRNA,retained
+hsa-miR-425,miRNA,retained
+hsa-miR-429,miRNA,retained
+hsa-miR-4295,miRNA,retained
+hsa-miR-431,miRNA,retained
+hsa-miR-433,miRNA,retained
+hsa-miR-448,miRNA,"tested, not retained"
+hsa-miR-449a,miRNA,retained
+hsa-miR-449b,miRNA,retained
+hsa-miR-452,miRNA,retained
+hsa-miR-454,miRNA,retained
+hsa-miR-455,miRNA,retained
+hsa-miR-483,miRNA,retained
+hsa-miR-485,miRNA,retained
+hsa-miR-486,miRNA,retained
+hsa-miR-487,miRNA,in no tested pair
+hsa-miR-487a,miRNA,retained
+hsa-miR-491,miRNA,retained
+hsa-miR-493,miRNA,retained
+hsa-miR-494,miRNA,retained
+hsa-miR-495,miRNA,retained
+hsa-miR-496,miRNA,retained
+hsa-miR-497,miRNA,retained
+hsa-miR-499a,miRNA,in no tested pair
+hsa-miR-502,miRNA,"tested, not retained"
+hsa-miR-503,miRNA,retained
+hsa-miR-504,miRNA,"tested, not retained"
+hsa-miR-506,miRNA,retained
+hsa-miR-519d,miRNA,retained
+hsa-miR-520d,miRNA,retained
+hsa-miR-539,miRNA,retained
+hsa-miR-542,miRNA,retained
+hsa-miR-543,miRNA,retained
+hsa-miR-544,miRNA,retained
+hsa-miR-590,miRNA,retained
+hsa-miR-613,miRNA,retained
+hsa-miR-655,miRNA,retained
+hsa-miR-668,miRNA,retained
+hsa-miR-7,miRNA,retained
+hsa-miR-708,miRNA,retained
+hsa-miR-758,miRNA,retained
+hsa-miR-760,miRNA,retained
+hsa-miR-767,miRNA,in no tested pair
+hsa-miR-802,miRNA,"tested, not retained"
+hsa-miR-9,miRNA,retained
+hsa-miR-92a,miRNA,retained
+hsa-miR-92b,miRNA,retained
+hsa-miR-93,miRNA,retained
+hsa-miR-96,miRNA,retained
+hsa-miR-99a,miRNA,retained
+hsa-miR-99b,miRNA,retained
+AHR,TF,retained
+APEX1,TF,"tested, not retained"
+AR,TF,retained
+ARNT,TF,"tested, not retained"
+ATF3,TF,retained
+ATF4,TF,retained
+BCL6,TF,retained
+BMI1,TF,"tested, not retained"
+BRCA1,TF,retained
+CDX1,TF,"tested, not retained"
+CDX2,TF,retained
+CEBPA,TF,retained
+CEBPB,TF,retained
+CEBPD,TF,retained
+CREB1,TF,retained
+CREBBP,TF,retained
+CTCF,TF,"tested, not retained"
+CTNNB1,TF,retained
+CUX1,TF,"tested, not retained"
+DDIT3,TF,retained
+DNMT1,TF,retained
+E2F1,TF,retained
+E2F3,TF,retained
+EGR1,TF,retained
+EGR2,TF,retained
+EGR3,TF,"tested, not retained"
+ELK1,TF,retained
+EP300,TF,retained
+EPAS1,TF,retained
+ERG,TF,retained
+ESR1,TF,retained
+ESR2,TF,retained
+ETS1,TF,retained
+ETS2,TF,retained
+ETV4,TF,retained
+ETV5,TF,"tested, not retained"
+EZH2,TF,retained
+FLI1,TF,retained
+FOS,TF,"tested, not retained"
+FOXA2,TF,retained
+FOXD3,TF,"tested, not retained"
+FOXF2,TF,"tested, not retained"
+FOXM1,TF,retained
+FOXO1,TF,retained
+FOXO3,TF,retained
+GATA1,TF,retained
+GATA3,TF,retained
+GATA4,TF,retained
+GATA6,TF,retained
+GLI1,TF,retained
+HDAC1,TF,"tested, not retained"
+HDAC2,TF,retained
+HDAC3,TF,retained
+HDAC4,TF,retained
+HDAC9,TF,retained
+HES1,TF,"tested, not retained"
+HEY1,TF,"tested, not retained"
+HIF1A,TF,retained
+HMGA1,TF,retained
+HNF1A,TF,retained
+HNF4A,TF,retained
+HOXA10,TF,retained
+HOXA9,TF,retained
+HOXB7,TF,retained
+HSF1,TF,retained
+HSF2,TF,"tested, not retained"
+ILF3,TF,"tested, not retained"
+IRF1,TF,retained
+IRF3,TF,retained
+JUN,TF,retained
+JUND,TF,retained
+KDM2A,TF,"tested, not retained"
+KLF2,TF,retained
+KLF4,TF,retained
+KLF5,TF,retained
+KLF8,TF,"tested, not retained"
+LEF1,TF,retained
+MAFB,TF,"tested, not retained"
+MAX,TF,"tested, not retained"
+MBD2,TF,retained
+MECP2,TF,retained
+MEF2A,TF,retained
+MEF2C,TF,"tested, not retained"
+MEIS1,TF,"tested, not retained"
+MEN1,TF,retained
+MITF,TF,retained
+MKL1,TF,"tested, not retained"
+MTA1,TF,retained
+MYB,TF,retained
+MYC,TF,retained
+MYCN,TF,retained
+MYOD1,TF,"tested, not retained"
+NANOG,TF,retained
+NCOR1,TF,"tested, not retained"
+NF1,TF,retained
+NFKB1,TF,"tested, not retained"
+NFKB2,TF,"tested, not retained"
+NFYA,TF,retained
+NKX2-5,TF,retained
+NR1H2,TF,"tested, not retained"
+NR1H3,TF,"tested, not retained"
+NR1H4,TF,retained
+PAX5,TF,retained
+PAX6,TF,retained
+PBX1,TF,"tested, not retained"
+PITX2,TF,retained
+POU2F1,TF,retained
+POU5F1,TF,retained
+PPARA,TF,retained
+PPARG,TF,retained
+PROX1,TF,retained
+RARA,TF,retained
+RB1,TF,"tested, not retained"
+RBPJ,TF,"tested, not retained"
+REL,TF,"tested, not retained"
+RELA,TF,"tested, not retained"
+REST,TF,retained
+RUNX1,TF,"tested, not retained"
+RUNX2,TF,retained
+RXRA,TF,retained
+SIRT1,TF,retained
+SIX1,TF,"tested, not retained"
+SMAD3,TF,retained
+SMAD4,TF,retained
+SNAI1,TF,retained
+SNAI2,TF,retained
+SOX10,TF,retained
+SOX2,TF,retained
+SOX9,TF,retained
+SP1,TF,"tested, not retained"
+SPI1,TF,retained
+SREBF1,TF,retained
+SREBF2,TF,retained
+SRF,TF,retained
+STAT1,TF,retained
+STAT3,TF,retained
+STAT4,TF,retained
+STAT6,TF,retained
+SUZ12,TF,"tested, not retained"
+TAL1,TF,retained
+TCF4,TF,retained
+TCF7L2,TF,retained
+TFAP2A,TF,retained
+TLX1,TF,"tested, not retained"
+TP53,TF,"tested, not retained"
+TP63,TF,retained
+TP73,TF,retained
+TWIST1,TF,retained
+USF1,TF,retained
+VDR,TF,retained
+VHL,TF,retained
+XBP1,TF,retained
+YBX1,TF,retained
+YY1,TF,retained
+ZBTB16,TF,retained
+ZBTB7A,TF,"tested, not retained"
+ZEB2,TF,"tested, not retained"

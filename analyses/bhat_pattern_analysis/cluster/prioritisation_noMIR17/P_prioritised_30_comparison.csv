@@ -1,0 +1,61 @@
+network,set,n_kept,entering,leaving
+3node_miRNA_FFL,top 10 TF,10,"",""
+3node_miRNA_FFL,top 10 Gene,10,"",""
+3node_miRNA_FFL,top 10 miRNA,9,hsa-miR-30a,hsa-miR-101
+3node_miRNA_FFL,overall top 10 (extra),10,"",""
+3node_miRNA_FFL,overall top 20 (extra),20,"",""
+3node_TF_FFL,top 10 TF,10,"",""
+3node_TF_FFL,top 10 Gene,10,"",""
+3node_TF_FFL,top 10 miRNA,9,hsa-miR-30a,hsa-miR-101
+3node_TF_FFL,overall top 10 (extra),9,GATA3,hsa-miR-383
+3node_TF_FFL,overall top 20 (extra),20,"",""
+3node_composite_FFL,top 10 TF,10,"",""
+3node_composite_FFL,top 10 Gene,10,"",""
+3node_composite_FFL,top 10 miRNA,9,hsa-miR-30a,hsa-miR-101
+3node_composite_FFL,overall top 10 (extra),9,GATA3,hsa-miR-383
+3node_composite_FFL,overall top 20 (extra),20,"",""
+4node_miRNA_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+4node_miRNA_FFL,top 10 Gene,10,"",""
+4node_miRNA_FFL,top 10 miRNA,9,hsa-miR-206,hsa-miR-141
+4node_miRNA_FFL,overall top 10 (extra),7,hsa-miR-124; PDGFRB; GATA3,CCND2; hsa-miR-383; MYBL2
+4node_miRNA_FFL,overall top 20 (extra),19,CXCL12,BRCA1
+4node_TF_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+4node_TF_FFL,top 10 Gene,10,"",""
+4node_TF_FFL,top 10 miRNA,9,hsa-miR-206,hsa-miR-141
+4node_TF_FFL,overall top 10 (extra),7,GATA3; hsa-miR-124; EGR2,CCND2; hsa-miR-383; MYBL2
+4node_TF_FFL,overall top 20 (extra),19,CXCL12,BRCA1
+4node_composite_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+4node_composite_FFL,top 10 Gene,10,"",""
+4node_composite_FFL,top 10 miRNA,9,hsa-miR-206,hsa-miR-141
+4node_composite_FFL,overall top 10 (extra),7,GATA3; hsa-miR-124; EGR2,CCND2; hsa-miR-383; MYBL2
+4node_composite_FFL,overall top 20 (extra),19,CXCL12,BRCA1
+5node_miRNA_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+5node_miRNA_FFL,top 10 Gene,10,"",""
+5node_miRNA_FFL,top 10 miRNA,8,hsa-miR-300; hsa-miR-100,hsa-miR-34a; hsa-miR-101
+5node_miRNA_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+5node_miRNA_FFL,overall top 20 (extra),18,SREBF1; MMP14,hsa-miR-124; hsa-miR-155
+5node_TF_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+5node_TF_FFL,top 10 Gene,10,"",""
+5node_TF_FFL,top 10 miRNA,8,hsa-miR-300; hsa-miR-100,hsa-miR-34a; hsa-miR-101
+5node_TF_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+5node_TF_FFL,overall top 20 (extra),18,SREBF1; MMP14,hsa-miR-124; hsa-miR-155
+5node_composite_FFL,top 10 TF,8,MYB; ZEB2,DNMT1; E2F3
+5node_composite_FFL,top 10 Gene,10,"",""
+5node_composite_FFL,top 10 miRNA,8,hsa-miR-300; hsa-miR-100,hsa-miR-34a; hsa-miR-101
+5node_composite_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+5node_composite_FFL,overall top 20 (extra),18,SREBF1; MMP14,hsa-miR-124; hsa-miR-155
+6node_miRNA_FFL,top 10 TF,9,MYB,E2F3
+6node_miRNA_FFL,top 10 Gene,10,"",""
+6node_miRNA_FFL,top 10 miRNA,8,hsa-miR-300; hsa-miR-145,hsa-miR-34a; hsa-miR-101
+6node_miRNA_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+6node_miRNA_FFL,overall top 20 (extra),18,SREBF1; MMP14,hsa-miR-124; hsa-miR-155
+6node_TF_FFL,top 10 TF,9,MYB,E2F3
+6node_TF_FFL,top 10 Gene,10,"",""
+6node_TF_FFL,top 10 miRNA,8,hsa-miR-300; hsa-miR-145,hsa-miR-34a; hsa-miR-101
+6node_TF_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+6node_TF_FFL,overall top 20 (extra),18,SREBF1; MMP14,hsa-miR-124; hsa-miR-155
+6node_composite_FFL,top 10 TF,9,BCL6,E2F3
+6node_composite_FFL,top 10 Gene,10,"",""
+6node_composite_FFL,top 10 miRNA,7,hsa-miR-300; hsa-miR-100; hsa-miR-145,hsa-miR-141; hsa-miR-34a; hsa-miR-101
+6node_composite_FFL,overall top 10 (extra),8,GATA3; PDGFRB,hsa-miR-383; MYBL2
+6node_composite_FFL,overall top 20 (extra),18,MMP14; CXCL12,hsa-miR-124; hsa-miR-155

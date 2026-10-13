@@ -1,0 +1,12 @@
+validated 3node_miRNA_FFL: instances 899 -> kept 899; nodes 267; edges 1181
+validated 3node_TF_FFL: instances 968 -> kept 968; nodes 303; edges 1314
+validated 3node_composite_FFL: instances 783 -> kept 783; nodes 253; edges 1413
+validated 4node_miRNA_FFL: instances 1654 -> kept 1654; nodes 284; edges 1380
+validated 4node_TF_FFL: instances 1717 -> kept 1717; nodes 318; edges 1477
+validated 4node_composite_FFL: instances 1359 -> kept 1359; nodes 262; edges 1589
+validated 5node_miRNA_FFL: instances 1550 -> kept 1550; nodes 190; edges 922
+validated 5node_TF_FFL: instances 1481 -> kept 1481; nodes 208; edges 964
+validated 5node_composite_FFL: instances 1264 -> kept 1264; nodes 184; edges 1068
+validated 6node_miRNA_FFL: instances 10142 -> kept 10142; nodes 270; edges 1639
+validated 6node_TF_FFL: instances 13252 -> kept 13252; nodes 286; edges 1767
+validated 6node_composite_FFL: instances 3012 -> kept 3012; nodes 166; edges 1102

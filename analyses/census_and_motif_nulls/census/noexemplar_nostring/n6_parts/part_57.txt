@@ -1,0 +1,68 @@
+K 6
+nparts 64
+part 57
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 46602
+visited 22790601
+rng_final 42
+comp 1 2 3 10
+comp 1 3 2 610
+comp 1 4 1 10043
+comp 2 2 2 613
+comp 2 3 1 14314
+comp 2 4 0 2
+comp 3 1 2 112
+comp 3 2 1 15551
+comp 3 3 0 852
+comp 4 1 1 1666
+comp 4 2 0 1946
+comp 5 0 1 112
+comp 5 1 0 717
+comp 6 0 0 54
+mask 2 54
+mask 3 112
+mask 6 472
+mask 11 1
+mask 13 4
+mask 14 10309
+mask 15 3998
+mask 18 58
+mask 19 115
+mask 20 383
+mask 21 88
+mask 22 2604
+mask 23 384
+mask 27 159
+mask 28 11793
+mask 29 5925
+mask 30 6442
+mask 31 3645
+mask 60 44
+mask 61 3
+mask 62 9
+flags 0 44424
+flags 1 251
+flags 2 43
+flags 3 349
+flags 7 9
+flags 8 1485
+flags 10 3
+flags 11 4
+flags 24 34
+exflag 0 FOXO1 AR hsa-miR-145 CCND2 hsa-miR-17 IRF9
+exflag 0 FOXO1 AR hsa-miR-145 CCND2 hsa-miR-20a IRF9
+exflag 0 FOXO1 AR hsa-miR-145 SERPINE1 hsa-miR-17 KLF10
+exflag 1 FOXO1 AR EGR1 CCND2 hsa-miR-17 IRF9
+exflag 1 FOXO1 AR EGR1 CCND2 hsa-miR-20a IRF9
+exflag 1 FOXO1 AR EGR1 VEGFA hsa-let-7a HIC1
+exflag 2 hsa-miR-196a COL1A1 COL3A1 HMGA1 TP53 hsa-miR-143
+exflag 2 hsa-miR-196a COL1A1 COL3A1 HMGA1 TP53 hsa-miR-29a
+exflag 2 hsa-miR-196a COL1A1 COL3A1 MYC TP73 hsa-miR-143
+exflag 3 FOXO1 AR CDH11 EGR1 HIF1A hsa-miR-101 | TF1=HIF1A TF2=AR miRNA=hsa-miR-101 target=CDH11
+exflag 3 FOXO1 AR CDH11 EGR1 HIF1A hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=CDH11
+exflag 3 FOXO1 AR CDH11 EGR1 MYC hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=CDH11
+exflag 4 FOXO1 AR EGR1 FN1 HIF1A hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=FN1
+exflag 4 FOXO1 AR EGR1 FN1 MYC hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=FN1
+exflag 4 FOXO1 AR EGR1 FN1 hsa-miR-101 hsa-miR-27a | TF1=EGR1 TF2=AR miRNA=hsa-miR-27a target=FN1

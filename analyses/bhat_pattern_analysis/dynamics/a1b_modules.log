@@ -1,0 +1,3 @@
+configurations: 10 (9 for the verdict)
+run modules: 32 (2 MM), 256 chunks, about 52 CPU-h; with 12 workers about 4.3 h plus the tail
+nested check modules: 4, 32 chunks, about 6 CPU-h

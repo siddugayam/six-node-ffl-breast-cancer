@@ -1,0 +1,110 @@
+K 6
+nparts 64
+part 48
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 121008
+visited 38966943
+rng_final 42
+comp 0 1 5 65
+comp 1 1 4 78
+comp 1 2 3 491
+comp 1 3 2 343
+comp 2 0 4 64
+comp 2 1 3 1623
+comp 2 2 2 6682
+comp 2 3 1 9309
+comp 3 0 3 560
+comp 3 1 2 10974
+comp 3 2 1 49631
+comp 3 3 0 481
+comp 4 0 2 2184
+comp 4 1 1 21818
+comp 4 2 0 4892
+comp 5 0 1 3257
+comp 5 1 0 7370
+comp 6 0 0 1186
+mask 2 1
+mask 3 26
+mask 6 78
+mask 7 8
+mask 11 3
+mask 13 1
+mask 14 13346
+mask 15 4847
+mask 20 24
+mask 21 2
+mask 22 1198
+mask 23 115
+mask 27 3
+mask 28 317
+mask 29 54
+mask 30 795
+mask 31 858
+mask 32 21
+mask 33 326
+mask 34 2036
+mask 35 4841
+mask 36 122
+mask 37 48
+mask 38 7105
+mask 39 671
+mask 40 84
+mask 41 169
+mask 42 25
+mask 43 128
+mask 44 7235
+mask 45 6210
+mask 46 25257
+mask 47 32148
+mask 52 712
+mask 53 217
+mask 54 5731
+mask 55 946
+mask 57 90
+mask 58 9
+mask 59 150
+mask 60 1595
+mask 61 901
+mask 62 1586
+mask 63 969
+flags 0 48908
+flags 1 1737
+flags 2 1488
+flags 3 1741
+flags 4 43322
+flags 5 856
+flags 6 4734
+flags 7 1894
+flags 8 6253
+flags 9 29
+flags 10 233
+flags 11 272
+flags 12 7375
+flags 14 465
+flags 15 99
+flags 24 337
+flags 25 16
+flags 26 20
+flags 27 38
+flags 28 1160
+flags 30 31
+exflag 0 FOS BCL2L1 CTSB RELA hsa-let-7e hsa-miR-183
+exflag 0 FOS BCL2L1 CTSB RELA hsa-let-7e hsa-miR-7
+exflag 0 FOS BCL2L1 CTSB RELA hsa-let-7e hsa-miR-96
+exflag 1 FOS BCL2L1 CTSB JUN ETS1 hsa-miR-183
+exflag 1 FOS BCL2L1 CTSB JUN ETS1 hsa-miR-96
+exflag 1 FOS BCL2L1 CTSB JUN NFKB1 hsa-let-7b
+exflag 2 FOS BCL2L1 CTSB JUN ETS1 hsa-miR-183
+exflag 2 FOS BCL2L1 CTSB JUN ETS1 hsa-miR-96
+exflag 2 FOS BCL2L1 CTSB JUN NFKB1 hsa-let-7b
+exflag 3 FOS BCL2L1 CTSB RELA STAT1 hsa-miR-7 | TF1=RELA TF2=STAT1 miRNA=hsa-miR-7 target=CTSB
+exflag 3 FOS BCL2L1 CTSB RELA hsa-miR-23a STAT5A | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=BCL2L1
+exflag 3 FOS BCL2L1 CTSV RELA E2F1 hsa-miR-223 | TF1=RELA TF2=E2F1 miRNA=hsa-miR-223 target=CTSV
+exflag 4 FOS BCL2L1 CTSB RELA STAT1 hsa-miR-7 | TF1=RELA TF2=STAT1 miRNA=hsa-miR-7 target=CTSB
+exflag 4 FOS FAS FOSL1 EZH2 RELA hsa-miR-23a | TF1=FOS TF2=RELA miRNA=hsa-miR-23a target=FAS
+exflag 4 FOS FAS JUN ETS1 TP53 hsa-miR-23a | TF1=FOS TF2=JUN miRNA=hsa-miR-23a target=FAS
+exmask 63 FOS BCL2L1 MYC RELA TP73 hsa-miR-7
+exmask 63 FOS BCL2L1 MYC RELA hsa-let-7a hsa-miR-125b
+exmask 63 FOS BCL2L1 MYC RELA hsa-let-7a hsa-miR-7

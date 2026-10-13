@@ -1,0 +1,9 @@
+method,endpoint,family,circuits,median_deltaC,pct_six_beats_core,n_LRT_nominal_p05,n_q_lt_005
+GSVA_adjusted_age_stage,OS,BHAT6_composite,2383,0.000432099832345267,57.6164498531263,288,16
+GSVA_adjusted_age_stage,OS,MODEL6_architecture,71,0.000362963859170007,59.1549295774648,9,0
+meanZ_univariable,OS,BHAT6_composite,2383,0.00278159618339124,54.9727234578263,177,0
+meanZ_univariable,OS,MODEL6_architecture,71,0.0174334923586965,66.1971830985916,2,0
+GSVA_adjusted_age_stage,PFI,BHAT6_composite,2383,-0.000315407664406298,47.9227864036928,295,2
+GSVA_adjusted_age_stage,PFI,MODEL6_architecture,71,-0.00051612163266479,47.887323943662,12,0
+meanZ_univariable,PFI,BHAT6_composite,2383,0.00184270263052477,52.7486361728913,284,0
+meanZ_univariable,PFI,MODEL6_architecture,71,-0.0384029910535453,30.9859154929577,15,0

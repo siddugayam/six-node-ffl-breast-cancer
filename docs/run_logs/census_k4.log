@@ -1,0 +1,21 @@
+graph: 587 connected nodes, 8031 directed edges, 1223 reciprocal pairs contracted
+
+k=4  probs=[1.0, 1.0, 1.0, 0.05]  sampled connected subgraphs=623599  FFLs among them=5889
+estimated total connected induced 4-subgraphs: 12,471,980
+estimated total 4-node FFLs:                   117,780
+
+composition (TF, miRNA, Gene) -> estimated count:
+   TF=1 miRNA=2 Gene=1  ->  44,960   (sampled 2248)
+   TF=3 miRNA=1 Gene=0  ->  21,460   (sampled 1073)
+   TF=2 miRNA=1 Gene=1  ->  21,320   (sampled 1066)
+   TF=4 miRNA=0 Gene=0  ->  9,200   (sampled 460)
+   TF=3 miRNA=0 Gene=1  ->  8,180   (sampled 409)
+   TF=2 miRNA=2 Gene=0  ->  5,560   (sampled 278)
+   TF=1 miRNA=1 Gene=2  ->  3,920   (sampled 196)
+   TF=2 miRNA=0 Gene=2  ->  1,420   (sampled 71)
+   TF=0 miRNA=1 Gene=3  ->  760   (sampled 38)
+   TF=0 miRNA=3 Gene=1  ->  440   (sampled 22)
+   TF=1 miRNA=0 Gene=3  ->  220   (sampled 11)
+   TF=0 miRNA=2 Gene=2  ->  180   (sampled 9)
+
+wrote results/ffl_census_k4.json and ffl_examples_k4.csv

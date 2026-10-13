@@ -1,0 +1,71 @@
+K 6
+nparts 64
+part 26
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 36536
+visited 20030752
+rng_final 42
+comp 1 2 3 38
+comp 1 3 2 948
+comp 1 4 1 2971
+comp 2 1 3 8
+comp 2 2 2 907
+comp 2 3 1 14159
+comp 2 4 0 550
+comp 3 1 2 367
+comp 3 2 1 10052
+comp 3 3 0 876
+comp 4 0 2 37
+comp 4 1 1 2723
+comp 4 2 0 1495
+comp 5 0 1 489
+comp 5 1 0 821
+comp 6 0 0 95
+mask 2 95
+mask 3 526
+mask 6 425
+mask 7 23
+mask 11 2
+mask 13 2
+mask 14 5779
+mask 15 3939
+mask 17 1
+mask 18 2
+mask 19 31
+mask 20 655
+mask 21 212
+mask 22 2660
+mask 23 831
+mask 25 1
+mask 27 99
+mask 28 8736
+mask 29 2936
+mask 30 5469
+mask 31 4098
+mask 47 14
+flags 0 33261
+flags 1 605
+flags 2 195
+flags 3 277
+flags 4 14
+flags 8 1902
+flags 10 21
+flags 11 25
+flags 24 236
+exflag 0 ESR2 FOS BCL2L1 hsa-miR-23a STAT5A hsa-miR-23b
+exflag 0 ESR2 FOS BCL2L1 hsa-miR-23a STAT5A hsa-miR-7
+exflag 0 ESR2 FOS BCL2L1 hsa-miR-23b STAT5A hsa-miR-7
+exflag 1 ESR2 FOS BCL2L1 JUN hsa-miR-141 STAT5A
+exflag 1 ESR2 FOS BCL2L1 JUN hsa-miR-200a STAT5A
+exflag 1 ESR2 FOS BCL2L1 JUN hsa-miR-23a STAT5A
+exflag 2 MYBL2 COL1A1 COL3A1 MYC hsa-let-7a hsa-let-7e
+exflag 2 MYBL2 COL1A1 COL3A1 MYC hsa-let-7b hsa-let-7c
+exflag 2 MYBL2 COL1A1 COL3A1 MYC hsa-let-7b hsa-let-7d
+exflag 3 ESR2 FOS BCL2L1 JUN hsa-miR-23b STAT5A | TF1=ESR2 TF2=JUN miRNA=hsa-miR-23b target=BCL2L1
+exflag 3 ESR2 FOS DDIT3 CEBPA JUN hsa-miR-23b | TF1=ESR2 TF2=JUN miRNA=hsa-miR-23b target=DDIT3
+exflag 3 ESR2 FOS FAS JUN BRCA1 hsa-miR-23b | TF1=ESR2 TF2=JUN miRNA=hsa-miR-23b target=FAS
+exflag 4 ESR2 FOS FAS JUN TP53 hsa-miR-23b | TF1=JUN TF2=TP53 miRNA=hsa-miR-23b target=FAS
+exflag 4 ESR2 FOS JUN EZH2 VDR hsa-miR-23a | TF1=JUN TF2=EZH2 miRNA=hsa-miR-23a target=VDR
+exflag 4 ESR2 FOS JUN MYC VEGFA hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=VEGFA

@@ -1,0 +1,49 @@
+family,behaviour,n_six_node,n_six_node_only,pct_six_node_only_of_all_sets
+COMP_C2_toggle,memory,9593,14,0.08544921875
+COMP_C2_toggle,ultrasensitivity,10838,8,0.048828125
+COMP_C2_toggle,bistability,2046,83,0.506591796875
+COMP_C2_toggle,pulse generation,4116,15,0.091552734375
+COMP_C2_toggle,noise rejection,13144,3,0.018310546875
+COMP_C2_toggle,damped oscillation,862,19,0.115966796875
+COMP_C2_toggle,certified sustained oscillation,83,11,0.067138671875
+COMP_C2_toggle,flagged sustained oscillation (sweep),108,14,0.08544921875
+COMP_C2_toggle,memory AND pulse,999,204,1.2451171875
+COMP_C2_toggle,memory AND damped oscillation,91,17,0.103759765625
+COMP_C2_toggle,memory AND certified sustained oscillation,13,3,0.018310546875
+COMP_C2_toggle,memory AND either oscillation,104,18,0.10986328125
+COMP_I1_negfeedback,memory,8278,20,0.1220703125
+COMP_I1_negfeedback,ultrasensitivity,12528,5,0.030517578125
+COMP_I1_negfeedback,bistability,426,130,0.79345703125
+COMP_I1_negfeedback,pulse generation,5040,50,0.30517578125
+COMP_I1_negfeedback,noise rejection,11977,1,0.006103515625
+COMP_I1_negfeedback,damped oscillation,635,20,0.1220703125
+COMP_I1_negfeedback,certified sustained oscillation,31,8,0.048828125
+COMP_I1_negfeedback,flagged sustained oscillation (sweep),37,9,0.054931640625
+COMP_I1_negfeedback,memory AND pulse,916,82,0.50048828125
+COMP_I1_negfeedback,memory AND damped oscillation,78,9,0.054931640625
+COMP_I1_negfeedback,memory AND certified sustained oscillation,7,4,0.0244140625
+COMP_I1_negfeedback,memory AND either oscillation,85,10,0.06103515625
+COMP_I3_allneg_TT,memory,8658,31,0.189208984375
+COMP_I3_allneg_TT,ultrasensitivity,12663,10,0.06103515625
+COMP_I3_allneg_TT,bistability,1016,95,0.579833984375
+COMP_I3_allneg_TT,pulse generation,1715,44,0.2685546875
+COMP_I3_allneg_TT,noise rejection,13121,2,0.01220703125
+COMP_I3_allneg_TT,damped oscillation,625,17,0.103759765625
+COMP_I3_allneg_TT,certified sustained oscillation,35,11,0.067138671875
+COMP_I3_allneg_TT,flagged sustained oscillation (sweep),50,20,0.1220703125
+COMP_I3_allneg_TT,memory AND pulse,499,86,0.52490234375
+COMP_I3_allneg_TT,memory AND damped oscillation,129,22,0.13427734375
+COMP_I3_allneg_TT,memory AND certified sustained oscillation,12,9,0.054931640625
+COMP_I3_allneg_TT,memory AND either oscillation,141,26,0.15869140625
+I1_miRNA_FFL,memory,9722,20,0.1220703125
+I1_miRNA_FFL,ultrasensitivity,12675,6,0.03662109375
+I1_miRNA_FFL,bistability,369,127,0.775146484375
+I1_miRNA_FFL,pulse generation,2675,54,0.32958984375
+I1_miRNA_FFL,noise rejection,13536,3,0.018310546875
+I1_miRNA_FFL,damped oscillation,0,0,0.0
+I1_miRNA_FFL,certified sustained oscillation,0,0,0.0
+I1_miRNA_FFL,flagged sustained oscillation (sweep),0,0,0.0
+I1_miRNA_FFL,memory AND pulse,846,68,0.4150390625
+I1_miRNA_FFL,memory AND damped oscillation,0,0,0.0
+I1_miRNA_FFL,memory AND certified sustained oscillation,0,0,0.0
+I1_miRNA_FFL,memory AND either oscillation,0,0,0.0

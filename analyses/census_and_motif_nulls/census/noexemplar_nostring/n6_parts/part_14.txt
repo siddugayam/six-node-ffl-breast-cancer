@@ -1,0 +1,63 @@
+K 6
+nparts 64
+part 14
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 90026
+visited 55367737
+rng_final 42
+comp 2 1 3 6
+comp 2 2 2 362
+comp 2 3 1 2944
+comp 3 0 3 1
+comp 3 1 2 814
+comp 3 2 1 38760
+comp 3 3 0 75
+comp 4 0 2 184
+comp 4 1 1 21960
+comp 4 2 0 6151
+comp 5 0 1 4449
+comp 5 1 0 12161
+comp 6 0 0 2159
+mask 2 2159
+mask 3 4634
+mask 6 8901
+mask 7 169
+mask 14 27440
+mask 15 30213
+mask 20 16
+mask 21 14
+mask 22 9470
+mask 23 1974
+mask 27 13
+mask 28 421
+mask 29 33
+mask 30 1575
+mask 31 2972
+mask 47 22
+flags 0 84490
+flags 1 96
+flags 2 501
+flags 3 266
+flags 6 21
+flags 8 2392
+flags 10 27
+flags 24 2224
+flags 26 8
+flags 30 1
+exflag 0 MEN1 BRCA1 VEGFA hsa-miR-205 hsa-miR-23a HIC1
+exflag 0 MEN1 BRCA1 VEGFA hsa-miR-205 hsa-miR-23b HIC1
+exflag 0 MEN1 BRCA1 VEGFA hsa-miR-205 hsa-miR-27a HIC1
+exflag 1 HDAC9 ESR1 MEF2A SERPINE1 hsa-miR-23a KLF10
+exflag 1 HDAC9 ESR1 MEF2A VEGFA hsa-miR-23a HIC1
+exflag 1 HDAC9 ESR1 MEF2A VEGFA hsa-miR-27a HIC1
+exflag 2 HDAC9 ESR1 NFKB1 COL1A1 COL3A1 hsa-miR-143
+exflag 2 HDAC9 ESR1 RELA COL1A1 COL3A1 hsa-miR-143
+exflag 2 HDAC9 ESR1 STAT6 COL1A1 COL3A1 hsa-miR-143
+exflag 3 HDAC9 CITED2 NFKB1 HIF1A TWIST1 hsa-miR-429 | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-429 target=TWIST1
+exflag 3 HDAC9 CITED2 NFKB1 RELA SNAI1 hsa-miR-200b | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-200b target=SNAI1
+exflag 3 HDAC9 CITED2 RELA EGR1 HDAC1 hsa-miR-200b | TF1=RELA TF2=HDAC1 miRNA=hsa-miR-200b target=EGR1
+exflag 4 HDAC9 ESR1 CXCL12 NFKB1 HIF1A hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=CXCL12
+exflag 4 HDAC9 ESR1 CXCL12 NFKB1 HIF1A hsa-miR-23b | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-23b target=CXCL12
+exflag 4 HDAC9 ESR1 CXCL12 NFKB1 RELA hsa-miR-130a | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=CXCL12

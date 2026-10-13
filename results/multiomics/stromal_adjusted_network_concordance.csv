@@ -1,0 +1,6 @@
+"stratum","n_edges","concordance_unadjusted","null_unadjusted","concordance_CAFadjusted","null_CAFadjusted","binom_p_unadjusted","binom_p_CAFadjusted","mean_rho_unadjusted","mean_rho_CAFadjusted"
+"miRNA_target_ALL",4628,47.86,48.26,43.34,42.46,0.7098,0.1137,0.00768,0.02075
+"miRNA_target_strong",701,49.5,50.98,45.36,44.37,0.7949,0.3102,-0.002741,0.01852
+"TF_target_signed_ALL",437,62.24,54.16,52.86,53.34,0.0003877,0.5988,0.09687,0.05577
+"TF_target_Activation",301,71.1,60.27,60.13,56.91,5.846e-05,0.142,0.1189,0.06536
+"TF_target_Repression",136,42.65,40.66,36.76,45.44,0.3488,0.9835,0.04804,0.03454

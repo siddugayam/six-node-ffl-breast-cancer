@@ -1,0 +1,869 @@
+comparison,family,module,other,behaviour,pct_this,pct_other,this_only,other_only,mcnemar_p
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory,60.333251953125,58.551025390625,2630,2338,3.632262531627065e-05
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,memory,60.333251953125,36.43798828125,4417,502,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,memory,60.333251953125,68.475341796875,582,1916,4.920101424107822e-165
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory,60.333251953125,62.31689453125,644,969,5.754863837533291e-16
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,13.336181640625,25.1220703125,1294,3225,3.7336866624923884e-187
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,pulse,13.336181640625,13.909912109375,912,1006,0.033682251590698487
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,pulse,13.336181640625,6.77490234375,1329,254,1.215128076956758e-175
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,pulse,13.336181640625,11.2548828125,699,358,5.042852238585603e-26
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,4.302978515625,6.097412109375,624,918,7.21893023380153e-14
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,memory AND pulse,4.302978515625,4.8095703125,406,489,0.006095029604594924
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND pulse,4.302978515625,2.42919921875,513,206,4.363996226599656e-31
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,4.302978515625,3.961181640625,284,228,0.014989656171930252
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory,60.333251953125,61.456298828125,319,503,1.4643356656193588e-10
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,pulse,13.336181640625,12.04833984375,384,173,2.102284544217376e-19
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND pulse,4.302978515625,4.1748046875,125,104,0.18616989302621573
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory,47.27783203125,58.551025390625,2361,4208,2.319549660007789e-116
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,memory,47.27783203125,36.43798828125,2796,1020,1.1452963248328787e-188
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,memory,47.27783203125,68.475341796875,923,4396,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory,47.27783203125,62.31689453125,1012,3476,9.09292829624e-313
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,31.93359375,25.1220703125,3624,2508,2.9870385109284446e-46
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,pulse,31.93359375,13.909912109375,3561,608,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,pulse,31.93359375,6.77490234375,4376,254,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,pulse,31.93359375,11.2548828125,3713,325,0.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,9.47265625,6.097412109375,1405,852,1.6536001223778779e-31
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,memory AND pulse,9.47265625,4.8095703125,1175,411,3.237324270104918e-85
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND pulse,9.47265625,2.42919921875,1369,215,1.6269751573068861e-205
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,9.47265625,3.961181640625,1184,281,7.06881039022042e-132
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory,47.27783203125,48.016357421875,387,508,5.898622690640122e-05
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,pulse,31.93359375,30.40771484375,540,290,3.0645206864949272e-18
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory AND pulse,9.47265625,9.375,263,247,0.5065941807150832
+TF2->TF1 activation vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory,37.078857421875,58.551025390625,1297,4815,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,memory,37.078857421875,36.43798828125,2288,2183,0.11985049546389895
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,memory,37.078857421875,68.475341796875,569,5713,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory,37.078857421875,62.31689453125,758,4893,0.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,11.4990234375,25.1220703125,1424,3656,1.648488082020449e-222
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,pulse,11.4990234375,13.909912109375,1277,1672,3.702503300718141e-13
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,pulse,11.4990234375,6.77490234375,1505,731,2.7763582442890393e-61
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,pulse,11.4990234375,11.2548828125,1323,1283,0.444890040582928
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,2.191162109375,6.097412109375,322,962,2.6173957714938254e-74
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,memory AND pulse,2.191162109375,4.8095703125,303,732,1.4619522572033274e-41
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND pulse,2.191162109375,2.42919921875,313,352,0.1405373223244032
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,2.191162109375,3.961181640625,307,597,3.131911288430155e-22
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory,37.078857421875,61.456298828125,735,4729,0.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,pulse,11.4990234375,12.04833984375,1228,1318,0.07773728428000677
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND pulse,2.191162109375,4.1748046875,294,619,2.2297947121977485e-27
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory,28.45458984375,58.551025390625,1053,5984,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,memory,28.45458984375,36.43798828125,1397,2705,3.680238708446414e-94
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,memory,28.45458984375,68.475341796875,605,7162,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory,28.45458984375,62.31689453125,743,6291,0.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,18.64013671875,25.1220703125,2351,3413,1.2656391991041323e-44
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,pulse,18.64013671875,13.909912109375,2272,1497,1.088147769183593e-36
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,pulse,18.64013671875,6.77490234375,2650,706,1.611686162082717e-262
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,pulse,18.64013671875,11.2548828125,2414,1204,1.4433936175200373e-91
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,3.43017578125,6.097412109375,509,946,1.070946221215132e-30
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,memory AND pulse,3.43017578125,4.8095703125,488,714,7.589352403237219e-11
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND pulse,3.43017578125,2.42919921875,515,351,2.7762583291865913e-08
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,3.43017578125,3.961181640625,499,586,0.00900066464949766
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory,28.45458984375,48.016357421875,890,4095,0.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,pulse,18.64013671875,30.40771484375,1316,3244,8.665224585141736e-185
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory AND pulse,3.43017578125,9.375,413,1387,9.833427688675187e-123
+TF2->TF1 repression vs absent,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21-_T2Y-,Bhat_TF_TM+_TY+ GG+MM+TT_T120_T210_T2Y-,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,61.456298828125,58.551025390625,2642,2166,7.091429872357177e-12
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,memory,61.456298828125,36.43798828125,4553,454,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,memory,61.456298828125,68.475341796875,536,1686,1.0604390454369599e-137
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory,61.456298828125,62.31689453125,525,666,4.8841532223285356e-05
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,12.04833984375,25.1220703125,1107,3249,4.550906203578804e-241
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,pulse,12.04833984375,13.909912109375,700,1005,1.563616546510831e-13
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,pulse,12.04833984375,6.77490234375,1113,249,1.5879409041691504e-130
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,pulse,12.04833984375,11.2548828125,415,285,1.012851050573285e-06
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,4.1748046875,6.097412109375,606,921,7.398386830098657e-16
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,memory AND pulse,4.1748046875,4.8095703125,370,474,0.0003859954080322793
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND pulse,4.1748046875,2.42919921875,480,194,7.040821767226473e-29
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,4.1748046875,3.961181640625,218,183,0.08940512058699311
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory,48.016357421875,58.551025390625,2457,4183,1.3755085634495303e-100
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,memory,48.016357421875,36.43798828125,2898,1001,2.9173736867780692e-211
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,memory,48.016357421875,68.475341796875,930,4282,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory,48.016357421875,62.31689453125,981,3324,1.2757041538664049e-294
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,30.40771484375,25.1220703125,3411,2545,2.972351361236591e-29
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,pulse,30.40771484375,13.909912109375,3315,612,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,pulse,30.40771484375,6.77490234375,4135,263,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,pulse,30.40771484375,11.2548828125,3431,293,0.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,9.375,6.097412109375,1394,857,7.295581277902747e-30
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,memory AND pulse,9.375,4.8095703125,1156,408,7.89476563167126e-83
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND pulse,9.375,2.42919921875,1347,209,1.100587209288954e-203
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND pulse,9.375,3.961181640625,1138,251,5.3448214608309957e-135
+six-node configuration vs the paper's six-node module,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM+_TY+,GG+MM+TT_T120_T210_T2Y-,Bhat_TF_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory,64.337158203125,58.551025390625,1831,883,2.267009317628033e-75
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,memory,64.337158203125,28.35693359375,6073,178,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,memory,64.337158203125,73.956298828125,173,1749,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory,64.337158203125,69.732666015625,207,1091,3.115984297697357e-145
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,0.0,25.1220703125,0,4116,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.0,6.097412109375,0,999,3.7330544740128755e-301
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory,64.337158203125,68.365478515625,82,742,8.335244243139126e-134
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,pulse,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND pulse,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21+_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory,27.5634765625,58.551025390625,492,5569,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,memory,27.5634765625,28.35693359375,1710,1840,0.030366601197628962
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,memory,27.5634765625,73.956298828125,84,7685,0.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory,27.5634765625,69.732666015625,87,6996,0.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,0.067138671875,25.1220703125,11,4116,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,pulse,0.067138671875,0.0,11,0,0.0009765625
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,pulse,0.067138671875,0.0,11,0,0.0009765625
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,pulse,0.067138671875,0.0,11,0,0.0009765625
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.054931640625,6.097412109375,9,999,2.1015714771430527e-282
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,memory AND pulse,0.054931640625,0.0,9,0,0.00390625
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND pulse,0.054931640625,0.0,9,0,0.00390625
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND pulse,0.054931640625,0.0,9,0,0.00390625
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory,27.5634765625,68.365478515625,84,6769,0.0
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,pulse,0.067138671875,0.0,11,0,0.0009765625
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,damped oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,certified sustained oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND pulse,0.054931640625,0.0,9,0,0.00390625
+TF2->TF1 repression vs absent,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,Bhat_TF_TM-_TY+ GG+MM+TT_T120_T210_T2Y+,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,68.365478515625,58.551025390625,2067,459,1.9385385499326876e-242
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,memory,68.365478515625,28.35693359375,6704,149,0.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,memory,68.365478515625,73.956298828125,167,1083,1.1163869144831227e-164
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory,68.365478515625,69.732666015625,225,449,4.315010701090349e-18
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,0.0,25.1220703125,0,4116,0.0
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.0,6.097412109375,0,999,3.7330544740128755e-301
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND pulse,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_TF_TM-_TY+,GG+MM+TT_T120_T210_T2Y+,Bhat_TF_TM-_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory,13.385009765625,58.551025390625,234,7634,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory,13.385009765625,29.498291015625,440,3080,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory,13.385009765625,60.26611328125,289,7970,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,13.385009765625,53.955078125,397,7044,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,0.0244140625,25.1220703125,4,4116,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,pulse,0.0244140625,27.496337890625,0,4501,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,0.0244140625,19.842529296875,1,3248,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,0.0244140625,25.6591796875,2,4202,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,0.0,2.55126953125,0,418,2.9545531576914354e-126
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,0.0,1.0009765625,0,164,8.552847072295026e-50
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,0.0,0.250244140625,0,41,9.094947017729282e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,0.0,2.55126953125,0,418,2.9545531576914354e-126
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,0.0,1.0009765625,0,164,8.552847072295026e-50
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,0.0,0.250244140625,0,41,9.094947017729282e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.006103515625,6.097412109375,1,999,1.8683937642434442e-298
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,0.006103515625,5.224609375,1,856,1.785710282867852e-255
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,0.006103515625,4.034423828125,1,661,6.929252616846901e-197
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,0.006103515625,5.511474609375,1,903,1.3383277856011639e-269
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.0,0.50048828125,0,82,4.1359030627651384e-25
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.0,0.140380859375,0,23,2.384185791015625e-07
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.08544921875,0,14,0.0001220703125
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory,13.385009765625,50.52490234375,333,6418,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,pulse,0.0244140625,30.76171875,0,5036,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,damped oscillation,0.0,3.875732421875,0,635,1.402757983365378e-191
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,certified sustained oscillation,0.0,0.189208984375,0,31,9.313225746154785e-10
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,oscillation,0.0,4.06494140625,0,666,6.532100883151302e-201
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory AND pulse,0.006103515625,5.5908203125,0,915,7.220777503459318e-276
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory AND oscillation,0.0,0.518798828125,0,85,5.169878828456423e-26
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory,13.34228515625,58.551025390625,232,7639,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,memory,13.34228515625,29.498291015625,434,3081,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,memory,13.34228515625,60.26611328125,287,7975,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory,13.34228515625,53.955078125,396,7050,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,0.03662109375,25.1220703125,6,4116,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,pulse,0.03662109375,27.496337890625,2,4501,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,pulse,0.03662109375,19.842529296875,3,3248,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,pulse,0.03662109375,25.6591796875,4,4202,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,damped oscillation,0.0,2.55126953125,0,418,2.9545531576914354e-126
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,damped oscillation,0.0,1.0009765625,0,164,8.552847072295026e-50
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,0.0,0.250244140625,0,41,9.094947017729282e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,oscillation,0.0,2.55126953125,0,418,2.9545531576914354e-126
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,oscillation,0.0,1.0009765625,0,164,8.552847072295026e-50
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,oscillation,0.0,0.250244140625,0,41,9.094947017729282e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.018310546875,6.097412109375,3,999,7.823992400783997e-294
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,memory AND pulse,0.018310546875,5.224609375,3,856,5.49660980667693e-251
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND pulse,0.018310546875,4.034423828125,3,661,1.2748843693445649e-192
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,0.018310546875,5.511474609375,3,903,4.582367495449866e-265
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.0,0.50048828125,0,82,4.1359030627651384e-25
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.0,0.140380859375,0,23,2.384185791015625e-07
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.0,0.08544921875,0,14,0.0001220703125
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory,13.34228515625,52.947998046875,363,6852,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,pulse,0.03662109375,35.516357421875,3,5816,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,damped oscillation,0.0,6.414794921875,0,1051,8.289046e-317
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,certified sustained oscillation,0.0,0.396728515625,0,65,5.421010862427522e-20
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,oscillation,0.0,6.8115234375,0,1116,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND pulse,0.018310546875,12.5244140625,2,2051,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND oscillation,0.0,1.837158203125,0,301,4.909093465297727e-91
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory,40.557861328125,58.551025390625,1178,4126,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory,40.557861328125,29.498291015625,3212,1400,6.614297789744792e-161
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory,40.557861328125,60.26611328125,841,4070,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,40.557861328125,53.955078125,1144,3339,7.748819766604461e-246
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,31.04248046875,25.1220703125,3503,2533,7.536927756849458e-36
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,pulse,31.04248046875,27.496337890625,2473,1892,1.4738587194813366e-18
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,31.04248046875,19.842529296875,3023,1188,1.1362075903374207e-181
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,31.04248046875,25.6591796875,2457,1575,4.1446647530738867e-44
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,1.94091796875,5.26123046875,259,803,2.7756674423908922e-65
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,1.94091796875,2.55126953125,282,382,0.00011877840967403488
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,1.94091796875,1.0009765625,291,137,7.623373079643068e-14
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,1.94091796875,0.250244140625,311,34,3.810920200050315e-57
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0732421875,0.506591796875,12,83,3.211393990185144e-14
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.0732421875,0.0,12,0,0.00048828125
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.0732421875,0.0,12,0,0.00048828125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.0732421875,0.0,12,0,0.00048828125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,2.01416015625,5.767822265625,264,879,1.2659923496214058e-77
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,2.01416015625,2.55126953125,293,381,0.0007925634998173601
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,2.01416015625,1.0009765625,302,136,1.4538427577965778e-15
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,2.01416015625,0.250244140625,323,34,3.140223568843849e-60
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,4.022216796875,6.097412109375,547,887,2.38116288300326e-19
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,4.022216796875,5.224609375,496,693,1.2211835005998804e-08
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,4.022216796875,4.034423828125,517,519,0.975216914053019
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,4.022216796875,5.511474609375,478,722,1.9411957888337333e-12
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.1220703125,0.634765625,20,104,6.960843757791697e-15
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.1220703125,0.50048828125,20,82,4.2948486907135817e-10
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.1220703125,0.140380859375,20,23,0.7607916425613439
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.1220703125,0.08544921875,20,14,0.39152830513194203
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory,40.557861328125,50.52490234375,491,2124,1.0311738991463438e-240
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,pulse,31.04248046875,30.76171875,1149,1103,0.34299793132648365
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,damped oscillation,1.94091796875,3.875732421875,79,396,8.481979840700537e-52
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,certified sustained oscillation,0.0732421875,0.189208984375,7,26,0.0013187271542847157
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,oscillation,2.01416015625,4.06494140625,73,409,1.0117499106717351e-57
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory AND pulse,4.022216796875,5.5908203125,204,461,8.677699399989629e-24
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y+,memory AND oscillation,0.1220703125,0.518798828125,6,71,3.418320890290292e-15
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory,51.416015625,58.551025390625,2261,3430,1.9271111256076428e-54
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,memory,51.416015625,29.498291015625,4558,967,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,memory,51.416015625,60.26611328125,1737,3187,4.0664414026999445e-96
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory,51.416015625,53.955078125,2176,2592,1.8125155897737848e-09
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,28.9794921875,25.1220703125,3397,2765,8.601933430779256e-16
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,pulse,28.9794921875,27.496337890625,2539,2296,0.0004996000512107958
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,pulse,28.9794921875,19.842529296875,3037,1540,2.5214621517803556e-110
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,pulse,28.9794921875,25.6591796875,2548,2004,7.777913924302149e-16
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,2.288818359375,5.26123046875,324,811,1.1444917794158235e-48
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,damped oscillation,2.288818359375,2.55126953125,334,377,0.11516494525296841
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,damped oscillation,2.288818359375,1.0009765625,346,135,2.095118554859836e-22
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,2.288818359375,0.250244140625,366,32,5.630708498123457e-73
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.1220703125,0.506591796875,20,83,2.655337324301677e-10
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.1220703125,0.0,20,0,1.9073486328125e-06
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.1220703125,0.0,20,0,1.9073486328125e-06
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.1220703125,0.0,20,0,1.9073486328125e-06
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,2.410888671875,5.767822265625,339,889,2.977442093006959e-57
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,oscillation,2.410888671875,2.55126953125,352,375,0.4145553924695501
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,oscillation,2.410888671875,1.0009765625,364,133,7.358101121713742e-26
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,oscillation,2.410888671875,0.250244140625,386,32,2.7323385232454413e-78
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,8.203125,6.097412109375,1232,887,6.927426346134654e-14
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,memory AND pulse,8.203125,5.224609375,1164,676,3.2947075605075875e-30
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND pulse,8.203125,4.034423828125,1210,527,8.821596556405998e-62
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,8.203125,5.511474609375,1131,690,3.703392541383988e-25
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.518798828125,0.634765625,81,100,0.18076160320203447
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.518798828125,0.50048828125,84,81,0.8763306838960286
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.518798828125,0.140380859375,85,23,1.5197882162299865e-09
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.518798828125,0.08544921875,84,13,6.926172041503277e-14
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory,51.416015625,52.947998046875,1225,1476,1.4819268167964183e-06
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,pulse,28.9794921875,35.516357421875,680,1751,5.117687382235464e-108
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,damped oscillation,2.288818359375,6.414794921875,72,748,1.297087765349101e-142
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,certified sustained oscillation,0.1220703125,0.396728515625,12,57,3.7422494875036195e-08
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,oscillation,2.410888671875,6.8115234375,64,785,1.1274360422534771e-158
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND pulse,8.203125,12.5244140625,442,1150,1.0817091650743956e-72
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM+_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND oscillation,0.518798828125,1.837158203125,33,249,3.5069395521632026e-42
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,50.52490234375,58.551025390625,1654,2969,2.430801347687625e-84
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory,50.52490234375,29.498291015625,4368,923,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory,50.52490234375,60.26611328125,953,2549,5.756742182079963e-166
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,50.52490234375,53.955078125,1256,1818,3.43367978808062e-24
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,30.76171875,25.1220703125,3364,2440,6.4039066412009045e-34
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,pulse,30.76171875,27.496337890625,2052,1517,3.3921393326540774e-19
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,30.76171875,19.842529296875,2608,819,3.0141692999015993e-215
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,30.76171875,25.6591796875,1937,1101,1.7254790584419918e-52
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,3.875732421875,5.26123046875,524,751,2.2154560618513172e-10
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,3.875732421875,2.55126953125,544,327,1.8875008622271384e-13
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,3.875732421875,1.0009765625,568,97,6.731213982810565e-82
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,3.875732421875,0.250244140625,610,16,1.615770148133129e-157
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.189208984375,0.506591796875,31,83,1.1803379442916355e-06
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.189208984375,0.0,31,0,9.313225746154785e-10
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.189208984375,0.0,31,0,9.313225746154785e-10
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.189208984375,0.0,31,0,9.313225746154785e-10
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,4.06494140625,5.767822265625,541,820,3.9784201146255585e-14
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,4.06494140625,2.55126953125,575,327,1.2711070762628032e-16
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,4.06494140625,1.0009765625,599,97,3.637342621375582e-89
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,4.06494140625,0.250244140625,641,16,1.6433774597173803e-166
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,5.5908203125,6.097412109375,773,856,0.04215406375987301
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,5.5908203125,5.224609375,642,582,0.09167749363588473
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,5.5908203125,4.034423828125,681,426,1.751135597001574e-14
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,5.5908203125,5.511474609375,584,571,0.7240347631993347
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.518798828125,0.634765625,80,99,0.17833858983964682
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.518798828125,0.50048828125,77,74,0.8707787409560843
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.518798828125,0.140380859375,78,16,5.784543378399463e-11
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.518798828125,0.08544921875,76,5,2.2643223890053103e-17
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory,52.947998046875,58.551025390625,2539,3457,1.788748398336913e-32
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,memory,52.947998046875,29.498291015625,4784,942,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,memory,52.947998046875,60.26611328125,1857,3056,3.8883904521685783e-66
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory,52.947998046875,53.955078125,2222,2387,0.015696485485798703
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,35.516357421875,25.1220703125,4211,2508,8.625468347244325e-97
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,pulse,35.516357421875,27.496337890625,3153,1839,5.637409333989868e-78
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,pulse,35.516357421875,19.842529296875,3784,1216,1.1012750801398656e-302
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,pulse,35.516357421875,25.6591796875,3155,1540,3.5742194028986277e-125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,6.414794921875,5.26123046875,951,762,5.449555291390935e-06
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,damped oscillation,6.414794921875,2.55126953125,948,315,6.013183923436296e-74
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,damped oscillation,6.414794921875,1.0009765625,992,105,1.184751716700461e-181
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,6.414794921875,0.250244140625,1037,27,3.651889211862889e-267
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.396728515625,0.506591796875,64,82,0.15921582224632144
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.396728515625,0.0,65,0,5.421010862427522e-20
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.396728515625,0.0,65,0,5.421010862427522e-20
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.396728515625,0.0,65,0,5.421010862427522e-20
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,6.8115234375,5.767822265625,1006,835,7.34842837220245e-05
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,oscillation,6.8115234375,2.55126953125,1009,311,3.137538149741058e-86
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,oscillation,6.8115234375,1.0009765625,1055,103,1.9413774404898963e-199
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,oscillation,6.8115234375,0.250244140625,1102,27,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,12.5244140625,6.097412109375,1900,847,6.916993454583926e-92
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,memory AND pulse,12.5244140625,5.224609375,1774,578,2.0560782390307737e-140
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND pulse,12.5244140625,4.034423828125,1845,454,6.124069509734112e-198
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,12.5244140625,5.511474609375,1722,573,1.0501770349623103e-132
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,1.837158203125,0.634765625,299,102,1.5308659580937605e-23
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ core,memory AND oscillation,1.837158203125,0.50048828125,290,71,1.575922246297011e-32
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG,memory AND oscillation,1.837158203125,0.140380859375,297,19,2.3619618226310506e-65
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,1.837158203125,0.08544921875,300,13,4.323588234421424e-72
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory,49.03564453125,58.551025390625,1958,3517,9.144008167056662e-100
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory,49.03564453125,29.498291015625,4006,805,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory,49.03564453125,60.26611328125,1006,2846,6.10107892301955e-201
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,49.03564453125,53.955078125,1147,1953,6.650356896622608e-48
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,31.4453125,25.1220703125,3599,2563,7.082662015376701e-40
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,pulse,31.4453125,27.496337890625,2190,1543,2.993711369460915e-26
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,31.4453125,19.842529296875,2767,866,3.3686985936567034e-229
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,31.4453125,25.6591796875,1908,960,2.8917610151336113e-71
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.89111328125,5.26123046875,128,844,6.3749234766687314e-130
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,0.89111328125,2.55126953125,128,400,1.3624954536101132e-33
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,0.89111328125,1.0009765625,140,158,0.32473508238053084
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,0.89111328125,0.250244140625,137,32,1.1223949781577776e-16
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.006103515625,0.506591796875,1,83,8.788794008375919e-24
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.897216796875,5.767822265625,128,926,8.401085062983645e-150
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,0.897216796875,2.55126953125,129,400,2.803808744706688e-33
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,0.897216796875,1.0009765625,141,158,0.35482775391388793
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,0.897216796875,0.250244140625,138,32,6.898771706812405e-17
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,7.904052734375,6.097412109375,1185,889,8.675746625187055e-11
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,7.904052734375,5.224609375,988,549,2.3305280139776158e-29
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,7.904052734375,4.034423828125,1039,405,2.1287455259550198e-64
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,7.904052734375,5.511474609375,863,471,4.108942792470159e-27
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.18310546875,0.634765625,30,104,9.319307580879307e-11
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.18310546875,0.50048828125,28,80,5.648694223312712e-07
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.18310546875,0.140380859375,30,23,0.4101027163746913
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.18310546875,0.08544921875,29,13,0.019520472782460274
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory,49.03564453125,53.057861328125,1205,1864,8.927041730295588e-33
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,pulse,31.4453125,36.92626953125,737,1635,1.2948328565741978e-77
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,damped oscillation,0.89111328125,1.20849609375,52,104,3.80768626674405e-05
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,certified sustained oscillation,0.006103515625,0.0244140625,1,4,0.375
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,oscillation,0.897216796875,1.23291015625,53,108,1.7460281640801083e-05
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND pulse,7.904052734375,12.3291015625,542,1267,8.938572018207995e-67
+TF2->TF1 activation vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND oscillation,0.18310546875,0.262451171875,15,28,0.0659940344557981
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory,39.056396484375,58.551025390625,1610,4804,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory,39.056396484375,29.498291015625,3268,1702,5.0308381097109514e-111
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory,39.056396484375,60.26611328125,1293,4768,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,39.056396484375,53.955078125,1590,4031,3.6573851869990274e-240
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,23.504638671875,25.1220703125,2786,3051,0.0005482031285865064
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,pulse,23.504638671875,27.496337890625,2099,2753,6.075584219398115e-21
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,23.504638671875,19.842529296875,2494,1894,1.3461919573234979e-19
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,23.504638671875,25.6591796875,2035,2388,1.1870140678356392e-07
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.811767578125,5.26123046875,112,841,7.836733866567978e-139
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,0.811767578125,2.55126953125,121,406,5.5216259261931495e-37
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,0.811767578125,1.0009765625,124,155,0.07229593171431911
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,0.811767578125,0.250244140625,132,40,1.111440749332404e-12
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.018310546875,0.506591796875,3,83,2.7421554294015713e-21
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.018310546875,0.0,3,0,0.25
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.018310546875,0.0,3,0,0.25
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.018310546875,0.0,3,0,0.25
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.830078125,5.767822265625,115,924,1.5365644504208328e-157
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,0.830078125,2.55126953125,124,406,5.548719590694648e-36
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,0.830078125,1.0009765625,127,155,0.10770813620687252
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,0.830078125,0.250244140625,135,40,3.0143768280864107e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,7.48291015625,6.097412109375,1125,898,4.911305883887012e-07
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,7.48291015625,5.224609375,1102,732,5.356136350707909e-18
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,7.48291015625,4.034423828125,1132,567,2.1201302624937935e-43
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,7.48291015625,5.511474609375,1071,748,3.74771647255847e-14
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.164794921875,0.634765625,26,103,4.855987785091934e-12
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.164794921875,0.50048828125,26,81,9.37450912824547e-08
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.164794921875,0.140380859375,26,22,0.6654658120766188
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.164794921875,0.08544921875,27,14,0.05958388801809633
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory,39.056396484375,53.057861328125,1081,3375,2.7122339008918164e-271
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,pulse,23.504638671875,36.92626953125,980,3179,6.800670027401062e-268
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,damped oscillation,0.811767578125,1.20849609375,95,160,5.624686518180996e-05
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,certified sustained oscillation,0.018310546875,0.0244140625,3,4,1.0
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,oscillation,0.830078125,1.23291015625,98,164,5.449168234424481e-05
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND pulse,7.48291015625,12.3291015625,588,1382,2.125377844768812e-73
+TF2->TF1 repression vs absent,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM+_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND oscillation,0.164794921875,0.262451171875,22,38,0.051893895928921435
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,53.057861328125,58.551025390625,2439,3339,2.1315370057022154e-32
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory,53.057861328125,29.498291015625,4825,965,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory,53.057861328125,60.26611328125,1625,2806,3.847333042939612e-71
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory,53.057861328125,53.955078125,1825,1972,0.017806941335496485
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,36.92626953125,25.1220703125,4240,2306,5.092596850460033e-128
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,pulse,36.92626953125,27.496337890625,2968,1423,1.21143900151605e-122
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,pulse,36.92626953125,19.842529296875,3635,836,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,pulse,36.92626953125,25.6591796875,2696,850,2.2658871878662317e-221
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,1.20849609375,5.26123046875,176,840,2.983639915070448e-104
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,damped oscillation,1.20849609375,2.55126953125,181,401,3.947653530919641e-20
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,damped oscillation,1.20849609375,1.0009765625,194,160,0.07929541846806394
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,damped oscillation,1.20849609375,0.250244140625,190,33,5.323594902393334e-28
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0244140625,0.506591796875,4,83,3.018846051830852e-20
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,certified sustained oscillation,0.0244140625,0.0,4,0,0.125
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,certified sustained oscillation,0.0244140625,0.0,4,0,0.125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,certified sustained oscillation,0.0244140625,0.0,4,0,0.125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,1.23291015625,5.767822265625,179,922,5.476542123527706e-121
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,oscillation,1.23291015625,2.55126953125,184,400,2.2329608221143335e-19
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,oscillation,1.23291015625,1.0009765625,198,160,0.05037099090672622
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,oscillation,1.23291015625,0.250244140625,194,33,6.239258105730365e-29
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,12.3291015625,6.097412109375,1866,845,1.5400122207296037e-87
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory AND pulse,12.3291015625,5.224609375,1704,540,1.0660515629599358e-139
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND pulse,12.3291015625,4.034423828125,1765,406,3.485382153467928e-201
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND pulse,12.3291015625,5.511474609375,1543,426,4.41309310067809e-148
+six-node configuration vs the paper's six-node module,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.262451171875,0.634765625,43,104,5.195289743459159e-07
+six-node configuration vs the same class's core,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ core,memory AND oscillation,0.262451171875,0.50048828125,40,79,0.00044531067691715805
+six-node configuration vs the same class's GG,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG,memory AND oscillation,0.262451171875,0.140380859375,42,22,0.01685819004428113
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM+_TY+ GG+MM,memory AND oscillation,0.262451171875,0.08544921875,42,13,0.00011361060320691506
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory,13.5009765625,58.551025390625,242,7623,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,memory,13.5009765625,24.786376953125,288,2137,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,memory,13.5009765625,59.1064453125,189,7661,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory,13.5009765625,48.54736328125,240,5982,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,0.048828125,25.1220703125,6,4114,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,pulse,0.048828125,0.018310546875,8,3,0.2265625
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,pulse,0.048828125,0.0,8,0,0.0078125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,pulse,0.048828125,0.0,8,0,0.0078125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.018310546875,6.097412109375,3,999,7.823992400783997e-294
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,memory AND pulse,0.018310546875,0.01220703125,3,2,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND pulse,0.018310546875,0.0,3,0,0.25
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,0.018310546875,0.0,3,0,0.25
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory,13.5009765625,55.37109375,330,7190,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,pulse,0.048828125,34.58251953125,3,5661,5e-324
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,damped oscillation,0.0,7.72705078125,0,1266,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,certified sustained oscillation,0.0,1.11083984375,0,182,3.2626522339992623e-55
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,oscillation,0.0,8.837890625,0,1448,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND pulse,0.018310546875,12.274169921875,2,2010,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21+_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND oscillation,0.0,2.47802734375,0,406,1.210184973390412e-122
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory,49.91455078125,58.551025390625,2088,3503,1.3192740771627399e-80
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,memory,49.91455078125,24.786376953125,5007,890,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,memory,49.91455078125,59.1064453125,2149,3655,7.705260715097513e-88
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory,49.91455078125,48.54736328125,3010,2786,0.0033954816268320794
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,35.7177734375,25.1220703125,3657,1921,2.413347740999357e-121
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,pulse,35.7177734375,0.018310546875,5850,1,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,pulse,35.7177734375,0.0,5852,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,pulse,35.7177734375,0.0,5852,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,5.816650390625,5.26123046875,614,523,0.007578692994779565
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,damped oscillation,5.816650390625,0.0,953,0,2.626903552830961e-287
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,damped oscillation,5.816650390625,0.0,953,0,2.626903552830961e-287
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,5.816650390625,0.0,953,0,2.626903552830961e-287
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.653076171875,0.506591796875,92,68,0.06868229204120625
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,certified sustained oscillation,0.653076171875,0.0,107,0,1.232595164407831e-32
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,0.653076171875,0.0,107,0,1.232595164407831e-32
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,0.653076171875,0.0,107,0,1.232595164407831e-32
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,6.4697265625,5.767822265625,668,553,0.0010960802954658165
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,oscillation,6.4697265625,0.0,1060,0,1.61895e-319
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,oscillation,6.4697265625,0.0,1060,0,1.61895e-319
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,oscillation,6.4697265625,0.0,1060,0,1.61895e-319
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,10.382080078125,6.097412109375,1501,799,3.9325659539036655e-49
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,memory AND pulse,10.382080078125,0.01220703125,1701,2,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND pulse,10.382080078125,0.0,1701,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,10.382080078125,0.0,1701,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,1.531982421875,0.634765625,236,89,1.670463033344728e-16
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ core,memory AND oscillation,1.531982421875,0.0,251,0,5.527147875260445e-76
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND oscillation,1.531982421875,0.0,251,0,5.527147875260445e-76
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,1.531982421875,0.0,251,0,5.527147875260445e-76
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory,49.91455078125,55.37109375,1107,2001,1.538420334089377e-58
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,pulse,35.7177734375,34.58251953125,1630,1444,0.0008449372541608705
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,damped oscillation,5.816650390625,7.72705078125,421,734,2.5324651075302174e-20
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,certified sustained oscillation,0.653076171875,1.11083984375,79,154,1.0165023794784158e-06
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,oscillation,6.4697265625,8.837890625,432,820,2.839648489543749e-28
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND pulse,10.382080078125,12.274169921875,724,1034,1.4847013434691713e-13
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,Bhat_comp_TM-_TY+ GG+MM+TT_T12+_T210_T2Y-,memory AND oscillation,1.531982421875,2.47802734375,130,285,2.0200303332490815e-14
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory,55.37109375,58.551025390625,2277,2798,2.759108126893209e-13
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,memory,55.37109375,24.786376953125,5630,619,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,memory,55.37109375,59.1064453125,2320,2932,3.1620889136018937e-17
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory,55.37109375,48.54736328125,3262,2144,1.7325943449651295e-52
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,34.58251953125,25.1220703125,3248,1698,2.644800554352644e-109
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,pulse,34.58251953125,0.018310546875,5665,2,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,pulse,34.58251953125,0.0,5666,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,pulse,34.58251953125,0.0,5666,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,7.72705078125,5.26123046875,730,326,3.5270212556249775e-36
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,damped oscillation,7.72705078125,0.0,1266,0,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,damped oscillation,7.72705078125,0.0,1266,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,7.72705078125,0.0,1266,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,1.11083984375,0.506591796875,158,59,1.26760591242573e-11
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,certified sustained oscillation,1.11083984375,0.0,182,0,3.2626522339992623e-55
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,1.11083984375,0.0,182,0,3.2626522339992623e-55
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,1.11083984375,0.0,182,0,3.2626522339992623e-55
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,8.837890625,5.767822265625,837,334,2.8468051611893117e-50
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,oscillation,8.837890625,0.0,1448,0,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,oscillation,8.837890625,0.0,1448,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,oscillation,8.837890625,0.0,1448,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,12.274169921875,6.097412109375,1724,712,4.59483439666151e-96
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,memory AND pulse,12.274169921875,0.01220703125,2011,2,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND pulse,12.274169921875,0.0,2011,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,12.274169921875,0.0,2011,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,2.47802734375,0.634765625,378,76,3.159365871663969e-49
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ core,memory AND oscillation,2.47802734375,0.0,406,0,1.210184973390412e-122
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG,memory AND oscillation,2.47802734375,0.0,406,0,1.210184973390412e-122
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T210_T2Y-,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,2.47802734375,0.0,406,0,1.210184973390412e-122
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory,38.250732421875,58.551025390625,630,3956,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,memory,38.250732421875,24.786376953125,2915,709,4.79134246e-315
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,memory,38.250732421875,59.1064453125,585,4002,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory,38.250732421875,48.54736328125,903,2590,1.3720476314507905e-186
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,4.67529296875,25.1220703125,721,4071,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,pulse,4.67529296875,0.018310546875,766,3,4.881966295650711e-224
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,pulse,4.67529296875,0.0,766,0,5.152919015677707e-231
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,pulse,4.67529296875,0.0,766,0,5.152919015677707e-231
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.40283203125,5.26123046875,63,859,2.1072996223570176e-179
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,damped oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,damped oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.40283203125,5.767822265625,63,942,5.930391285006482e-202
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,oscillation,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,1.9287109375,6.097412109375,309,992,9.445552983142838e-84
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,memory AND pulse,1.9287109375,0.01220703125,316,2,1.8997119045015815e-91
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND pulse,1.9287109375,0.0,316,0,1.4981364335015035e-95
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,1.9287109375,0.0,316,0,1.4981364335015035e-95
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.054931640625,0.634765625,9,104,1.25629706703917e-21
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ core,memory AND oscillation,0.054931640625,0.0,9,0,0.00390625
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND oscillation,0.054931640625,0.0,9,0,0.00390625
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,0.054931640625,0.0,9,0,0.00390625
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory,38.250732421875,54.791259765625,691,3401,0.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,pulse,4.67529296875,12.200927734375,203,1436,1.1325809278883698e-228
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,damped oscillation,0.40283203125,0.250244140625,39,14,0.0008023308868949641
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,certified sustained oscillation,0.0,0.006103515625,0,1,1.0
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,oscillation,0.40283203125,0.25634765625,39,15,0.0014962588853935084
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND pulse,1.9287109375,6.787109375,176,972,8.140232158770669e-134
+TF2->TF1 activation vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND oscillation,0.054931640625,0.03662109375,4,1,0.375
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory,32.427978515625,58.551025390625,1079,5359,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,memory,32.427978515625,24.786376953125,2841,1589,7.25752615395874e-80
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,memory,32.427978515625,59.1064453125,1018,5389,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory,32.427978515625,48.54736328125,1361,4002,2.9870027159233965e-297
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,4.08935546875,25.1220703125,634,4080,0.0
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,pulse,4.08935546875,0.018310546875,670,3,2.59263666729301e-195
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,pulse,4.08935546875,0.0,670,0,4.082563051969564e-202
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,pulse,4.08935546875,0.0,670,0,4.082563051969564e-202
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.03662109375,5.26123046875,6,862,5.974272626069935e-247
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,damped oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,damped oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.03662109375,5.767822265625,6,945,1.0694284532805897e-271
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,2.069091796875,6.097412109375,336,996,4.277617383074858e-76
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,memory AND pulse,2.069091796875,0.01220703125,339,2,2.603510967205157e-98
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND pulse,2.069091796875,0.0,339,0,1.7859177988785547e-102
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,2.069091796875,0.0,339,0,1.7859177988785547e-102
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.006103515625,0.634765625,1,104,5.226203497089203e-30
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ core,memory AND oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,0.006103515625,0.0,1,0,1.0
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory,32.427978515625,54.791259765625,400,4064,0.0
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,pulse,4.08935546875,12.200927734375,118,1447,3.4878635333622035e-291
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,damped oscillation,0.03662109375,0.250244140625,4,39,3.1081526685738936e-08
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,certified sustained oscillation,0.0,0.006103515625,0,1,1.0
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,oscillation,0.03662109375,0.25634765625,4,40,1.7051434042514302e-08
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND pulse,2.069091796875,6.787109375,111,884,3.7775680283489735e-150
+TF2->TF1 repression vs absent,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,Bhat_comp_TM-_TY+ GG+MM+TT_T12-_T210_T2Y+,memory AND oscillation,0.006103515625,0.03662109375,1,6,0.125
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,54.791259765625,58.551025390625,1756,2372,8.83329494775487e-22
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,memory,54.791259765625,24.786376953125,5442,526,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,memory,54.791259765625,59.1064453125,1810,2517,5.5175068160015e-27
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory,54.791259765625,48.54736328125,2609,1586,1.2252550635314221e-56
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,12.200927734375,25.1220703125,1850,3967,2.6275846321581403e-173
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,pulse,12.200927734375,0.018310546875,1999,3,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,pulse,12.200927734375,0.0,1999,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,pulse,12.200927734375,0.0,1999,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.250244140625,5.26123046875,40,861,9.758216154365367e-202
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,damped oscillation,0.250244140625,0.0,41,0,9.094947017729282e-13
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,damped oscillation,0.250244140625,0.0,41,0,9.094947017729282e-13
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,damped oscillation,0.250244140625,0.0,41,0,9.094947017729282e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.006103515625,0.506591796875,1,83,8.788794008375919e-24
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,certified sustained oscillation,0.006103515625,0.0,1,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.25634765625,5.767822265625,41,944,4.421577627005171e-224
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,oscillation,0.25634765625,0.0,42,0,4.547473508864641e-13
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,oscillation,0.25634765625,0.0,42,0,4.547473508864641e-13
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,oscillation,0.25634765625,0.0,42,0,4.547473508864641e-13
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,6.787109375,6.097412109375,1092,979,0.013832114950387882
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,memory AND pulse,6.787109375,0.01220703125,1112,2,0.0
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND pulse,6.787109375,0.0,1112,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND pulse,6.787109375,0.0,1112,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.03662109375,0.634765625,6,104,3.497855888988012e-24
+six-node configuration vs the same class's core,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ core,memory AND oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG,memory AND oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the same class's GG+MM,Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_comp_TM-_TY+ GG+MM,memory AND oscillation,0.03662109375,0.0,6,0,0.03125
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,71.630859375,58.551025390625,3685,1542,1.2378591986677183e-198
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory,71.630859375,56.1767578125,4467,1935,1.1829586209617109e-225
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory,71.630859375,80.6640625,748,2228,3.451804378453003e-169
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory,71.630859375,83.6669921875,524,2496,5.547753383874306e-306
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,1.6845703125,25.1220703125,146,3986,0.0
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,pulse,1.6845703125,0.0,276,0,1.6472184286297693e-83
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,pulse,1.6845703125,0.628662109375,272,99,8.909051794596646e-20
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,pulse,1.6845703125,0.274658203125,271,40,2.568475075944325e-43
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,7.861328125,5.26123046875,744,318,6.263712516817901e-40
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,damped oscillation,7.861328125,0.0,1288,0,0.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,damped oscillation,7.861328125,0.0,1288,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,damped oscillation,7.861328125,0.0,1288,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.885009765625,0.506591796875,111,49,1.05255808262707e-06
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,certified sustained oscillation,0.885009765625,0.0,145,0,4.484155085839415e-44
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,certified sustained oscillation,0.885009765625,0.0,145,0,4.484155085839415e-44
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,certified sustained oscillation,0.885009765625,0.0,145,0,4.484155085839415e-44
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,8.746337890625,5.767822265625,818,330,2.681329307912914e-48
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,oscillation,8.746337890625,0.0,1433,0,0.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,oscillation,8.746337890625,0.0,1433,0,0.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,oscillation,8.746337890625,0.0,1433,0,0.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.3662109375,6.097412109375,57,996,2.199427387154733e-222
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory AND pulse,0.3662109375,0.0,60,0,1.734723475976807e-18
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory AND pulse,0.3662109375,0.62255859375,56,98,0.0008935310594584625
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory AND pulse,0.3662109375,0.274658203125,55,40,0.1505180638902294
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,3.265380859375,0.634765625,518,87,1.3267233989458373e-75
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory AND oscillation,3.265380859375,0.0,535,0,1.778206999588062e-161
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory AND oscillation,3.265380859375,0.0,535,0,1.778206999588062e-161
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory AND oscillation,3.265380859375,0.0,535,0,1.778206999588062e-161
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory,61.236572265625,58.551025390625,3599,3159,9.193222447320104e-08
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory,61.236572265625,56.1767578125,3426,2597,1.1865523973121032e-26
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory,61.236572265625,80.6640625,1031,4214,0.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory,61.236572265625,83.6669921875,576,4251,0.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,pulse,3.4912109375,25.1220703125,379,3923,0.0
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,pulse,3.4912109375,0.0,572,0,1.2938158758247024e-172
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,pulse,3.4912109375,0.628662109375,567,98,3.911031700153452e-81
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,pulse,3.4912109375,0.274658203125,567,40,2.83652178271075e-120
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,damped oscillation,0.921630859375,5.26123046875,146,857,5.574427407715251e-123
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,damped oscillation,0.921630859375,0.0,151,0,7.006492321624085e-46
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,damped oscillation,0.921630859375,0.0,151,0,7.006492321624085e-46
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,damped oscillation,0.921630859375,0.0,151,0,7.006492321624085e-46
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.030517578125,0.506591796875,5,83,2.6897131479179897e-19
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,certified sustained oscillation,0.030517578125,0.0,5,0,0.0625
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,certified sustained oscillation,0.030517578125,0.0,5,0,0.0625
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,certified sustained oscillation,0.030517578125,0.0,5,0,0.0625
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,oscillation,0.9521484375,5.767822265625,151,940,9.948839859894112e-140
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,oscillation,0.9521484375,0.0,156,0,2.1895288505075267e-47
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,oscillation,0.9521484375,0.0,156,0,2.1895288505075267e-47
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,oscillation,0.9521484375,0.0,156,0,2.1895288505075267e-47
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND pulse,1.86767578125,6.097412109375,277,970,2.0241108905220627e-90
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory AND pulse,1.86767578125,0.0,306,0,1.5340917079055395e-92
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory AND pulse,1.86767578125,0.62255859375,301,97,2.0602691863790081e-25
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory AND pulse,1.86767578125,0.274658203125,302,41,2.8281701655664884e-50
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.286865234375,0.634765625,47,104,4.0346012879165765e-06
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ core,memory AND oscillation,0.286865234375,0.0,47,0,1.4210854715202004e-14
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG,memory AND oscillation,0.286865234375,0.0,47,0,1.4210854715202004e-14
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,Bhat_miR_TM0_TY+ GG+MM,memory AND oscillation,0.286865234375,0.0,47,0,1.4210854715202004e-14
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory,77.569580078125,58.551025390625,4356,1240,0.0
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,memory,77.569580078125,56.1767578125,4708,1203,0.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,memory,77.569580078125,80.6640625,1137,1644,6.480755703347652e-22
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,memory,77.569580078125,83.6669921875,762,1761,3.098510298942742e-90
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,pulse,0.555419921875,25.1220703125,68,4093,0.0
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,pulse,0.555419921875,0.0,91,0,8.077935669463161e-28
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,pulse,0.555419921875,0.628662109375,91,103,0.4297474950144781
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,pulse,0.555419921875,0.274658203125,91,45,9.903994594073533e-05
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,damped oscillation,0.0,5.26123046875,0,862,6.503898174780929e-260
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,damped oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,certified sustained oscillation,0.0,0.506591796875,0,83,2.0679515313825692e-25
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,certified sustained oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,oscillation,0.0,5.767822265625,0,945,6.72487309524726e-285
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND pulse,0.40283203125,6.097412109375,62,995,2.2002406329074613e-217
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,memory AND pulse,0.40283203125,0.0,66,0,2.710505431213761e-20
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,memory AND pulse,0.40283203125,0.62255859375,66,102,0.006751369163205512
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,memory AND pulse,0.40283203125,0.274658203125,66,45,0.057163645246602
+six-node configuration vs the paper's six-node module,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,COMP_C2_toggle GG+MM+TT,memory AND oscillation,0.0,0.634765625,0,104,9.860761315262648e-32
+six-node configuration vs the same class's core,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ core,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG,memory AND oscillation,0.0,0.0,0,0,1.0
+six-node configuration vs the same class's GG+MM,Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y-,Bhat_miR_TM0_TY+ GG+MM,memory AND oscillation,0.0,0.0,0,0,1.0

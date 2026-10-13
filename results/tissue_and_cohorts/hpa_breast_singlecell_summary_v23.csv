@@ -1,0 +1,27 @@
+gene,role,n_breast_clusters,max_fibroblast_nTPM,max_breast_epithelial_nTPM,max_adipocyte_nTPM,fibroblast_over_epithelial
+E2F1,TF (prioritised),25,1.2,6.3,0.9,0.2
+EZH2,TF (prioritised),25,7.8,34.7,8.6,0.2
+GATA3,TF (prioritised),25,15.2,427.4,26.5,0.0
+BRCA1,TF (prioritised),25,4.7,8.0,6.5,0.6
+JUN,TF (prioritised),25,3975.2,2611.3,4019.4,1.5
+EGR2,TF (prioritised),25,222.8,97.7,25.5,2.3
+ESR1,TF (prioritised),25,9.5,326.0,4.5,0.0
+SREBF1,TF (prioritised),25,21.3,148.2,9.4,0.1
+DNMT1,TF (prioritised),25,27.4,39.2,43.4,0.7
+E2F3,TF (prioritised),25,16.4,19.1,6.7,0.9
+CCND2,gene (prioritised),25,92.5,49.0,38.9,1.9
+COL1A1,gene (prioritised),25,2286.9,19.3,259.2,118.5
+STAT5A,gene (prioritised),25,16.3,160.8,15.7,0.1
+MYBL2,gene (prioritised),25,0.4,7.5,0.5,0.1
+FN1,gene (prioritised),25,274.1,10.3,98.1,26.6
+PDGFRB,gene (prioritised),25,231.7,3.3,114.7,70.2
+MET,gene (prioritised),25,0.2,28.5,40.2,0.0
+CXCL12,gene (prioritised),25,1662.4,11.6,547.4,143.3
+MMP14,gene (prioritised),25,109.3,16.0,12.5,6.8
+PLAU,gene (prioritised),25,44.5,23.3,43.9,1.9
+COL3A1,comparator (compartment test),25,2661.9,12.6,351.8,211.3
+POSTN,comparator (compartment test),25,333.2,179.0,127.7,1.9
+NFKB1,comparator (compartment test),25,26.7,56.0,36.0,0.5
+RELA,comparator (compartment test),25,24.5,44.2,36.4,0.6
+SP1,comparator (compartment test),25,23.8,35.5,25.4,0.7
+ETS1,comparator (compartment test),25,24.7,20.6,280.3,1.2

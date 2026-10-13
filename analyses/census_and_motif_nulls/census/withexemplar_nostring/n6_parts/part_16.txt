@@ -1,0 +1,87 @@
+K 6
+nparts 64
+part 16
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 35985
+visited 23792663
+rng_final 42
+comp 1 2 3 13
+comp 1 3 2 63
+comp 1 4 1 642
+comp 2 1 3 13
+comp 2 2 2 1171
+comp 2 3 1 15642
+comp 2 4 0 24
+comp 3 0 3 1
+comp 3 1 2 336
+comp 3 2 1 12631
+comp 3 3 0 1258
+comp 4 0 2 21
+comp 4 1 1 1592
+comp 4 2 0 1783
+comp 5 0 1 155
+comp 5 1 0 614
+comp 6 0 0 26
+mask 2 26
+mask 3 177
+mask 6 446
+mask 7 55
+mask 11 9
+mask 12 45
+mask 13 44
+mask 14 13818
+mask 15 3597
+mask 18 3
+mask 19 12
+mask 20 163
+mask 21 25
+mask 22 2895
+mask 23 397
+mask 27 65
+mask 28 3819
+mask 29 526
+mask 30 5010
+mask 31 3534
+mask 44 1
+mask 45 2
+mask 46 8
+mask 61 1
+mask 70 17
+mask 71 3
+mask 78 805
+mask 79 156
+mask 84 23
+mask 86 132
+mask 87 9
+mask 92 88
+mask 93 52
+mask 95 19
+mask 110 3
+flags 0 34197
+flags 1 639
+flags 2 187
+flags 3 521
+flags 7 11
+flags 8 411
+flags 10 2
+flags 24 17
+exflag 0 EGR2 LIF hsa-miR-142 FOSL1 EZH2 hsa-miR-181b
+exflag 0 EGR2 LIF hsa-miR-142 FOSL1 EZH2 hsa-miR-26a
+exflag 0 MITF FOS BCL2L1 hsa-let-7d hsa-miR-23a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-130a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-23a STAT5A
+exflag 1 MITF FOS BCL2L1 HIF1A hsa-miR-23b STAT5A
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-let-7e
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-miR-143
+exflag 2 MITF HIF1A hsa-let-7d COL1A1 COL3A1 hsa-miR-29c
+exflag 3 MITF FOS HIF1A AR EP300 hsa-miR-21 | TF1=HIF1A TF2=AR miRNA=hsa-miR-21 target=EP300
+exflag 3 MITF FOS HIF1A AR MYC hsa-miR-146a | TF1=MITF TF2=HIF1A miRNA=hsa-miR-146a target=AR
+exflag 3 MITF FOS HIF1A AR MYC hsa-miR-20a | TF1=HIF1A TF2=AR miRNA=hsa-miR-20a target=MYC
+exflag 4 MITF FOS HIF1A CXCL12 NFKB1 hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=CXCL12
+exflag 4 MITF FOS HIF1A CXCL12 NFKB1 hsa-miR-23b | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-23b target=CXCL12
+exflag 4 MITF FOS HIF1A EDN1 NFKB1 hsa-miR-130a | TF1=NFKB1 TF2=HIF1A miRNA=hsa-miR-130a target=EDN1
+exmask 95 MITF FOS BCL2L1 HIF1A hsa-let-7e hsa-miR-29a
+exmask 95 MITF FOS BCL2L1 HIF1A hsa-let-7e hsa-miR-29c
+exmask 95 MITF FOS BCL2L1 HIF1A hsa-miR-29c hsa-let-7b

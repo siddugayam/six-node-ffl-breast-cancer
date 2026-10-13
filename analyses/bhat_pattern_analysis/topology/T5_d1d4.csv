@@ -1,0 +1,13 @@
+network,node_sets,D1_D4_modules,share
+3node_miRNA_FFL,1355,1307,0.964576
+3node_TF_FFL,1182,1143,0.967005
+3node_composite_FFL,1173,1134,0.966752
+4node_miRNA_FFL,2554,2297,0.899374
+4node_TF_FFL,2065,1861,0.901211
+4node_composite_FFL,2029,1826,0.899951
+5node_miRNA_FFL,1456,0,0
+5node_TF_FFL,1168,0,0
+5node_composite_FFL,1168,0,0
+6node_miRNA_FFL,8606,0,0
+6node_TF_FFL,9950,0,0
+6node_composite_FFL,2498,0,0

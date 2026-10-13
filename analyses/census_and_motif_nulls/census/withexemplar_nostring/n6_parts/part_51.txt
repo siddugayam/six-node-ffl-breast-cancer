@@ -1,0 +1,83 @@
+K 6
+nparts 64
+part 51
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 9852
+visited 3236602
+rng_final 42
+comp 1 2 3 33
+comp 1 3 2 899
+comp 1 4 1 58
+comp 2 1 3 6
+comp 2 2 2 706
+comp 2 3 1 3135
+comp 2 4 0 2
+comp 3 1 2 66
+comp 3 2 1 3290
+comp 3 3 0 481
+comp 4 1 1 384
+comp 4 2 0 678
+comp 5 0 1 7
+comp 5 1 0 103
+comp 6 0 0 4
+mask 2 4
+mask 3 7
+mask 6 22
+mask 11 46
+mask 14 1313
+mask 15 890
+mask 18 26
+mask 19 32
+mask 20 118
+mask 21 5
+mask 22 1057
+mask 23 76
+mask 26 11
+mask 27 92
+mask 28 1168
+mask 29 282
+mask 30 3275
+mask 31 1138
+mask 46 3
+mask 70 23
+mask 76 33
+mask 77 4
+mask 78 105
+mask 79 31
+mask 84 2
+mask 86 16
+mask 92 17
+mask 93 15
+mask 94 26
+mask 95 12
+mask 108 2
+mask 109 1
+flags 0 9069
+flags 1 671
+flags 2 5
+flags 3 27
+flags 4 3
+flags 8 64
+flags 9 1
+flags 24 5
+flags 25 7
+exflag 0 FOXA2 ABCA1 hsa-miR-29a FOSL1 EZH2 hsa-miR-101
+exflag 0 FOXA2 ABCA1 hsa-miR-29a FOSL1 EZH2 hsa-miR-200b
+exflag 0 FOXA2 ABCA1 hsa-miR-29a FOSL1 EZH2 hsa-miR-200c
+exflag 1 FOXA2 PAX6 MET TCF7L2 hsa-miR-181a SMAD7
+exflag 1 FOXA2 PAX6 MET TCF7L2 hsa-miR-181b SMAD7
+exflag 1 FOXA2 PAX6 MET TCF7L2 hsa-miR-21 SMAD7
+exflag 2 hsa-let-7i COL1A1 COL3A1 HIC1 STAT3 hsa-miR-143
+exflag 2 hsa-let-7i COL1A1 COL3A1 HIC1 STAT3 hsa-miR-29a
+exflag 2 hsa-let-7i COL1A1 COL3A1 HIC1 STAT3 hsa-miR-29c
+exflag 3 FOXA2 TCF7L2 STAT3 CCND2 MYC hsa-miR-29a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29a target=CCND2
+exflag 3 FOXA2 TCF7L2 STAT3 CCND2 MYC hsa-miR-29c | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29c target=CCND2
+exflag 3 FOXA2 TCF7L2 STAT3 CYR61 hsa-miR-181a hsa-miR-29b | TF1=TCF7L2 TF2=STAT3 miRNA=hsa-miR-181a target=CYR61
+exflag 4 FOXA2 TCF7L2 STAT3 CCND2 MYC hsa-miR-29a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29a target=CCND2
+exflag 4 FOXA2 TCF7L2 STAT3 CCND2 MYC hsa-miR-29c | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29c target=CCND2
+exflag 4 FOXA2 TCF7L2 STAT3 EPAS1 VEGFA hsa-miR-29c | TF1=STAT3 TF2=EPAS1 miRNA=hsa-miR-29c target=VEGFA
+exmask 95 FOXA2 ABCA1 hsa-miR-29b STAT3 hsa-let-7b HIC1
+exmask 95 FOXA2 ABCA1 hsa-miR-29b STAT3 hsa-let-7e HIC1
+exmask 95 FOXA2 PAX6 MMP2 hsa-miR-29a ETV4 hsa-miR-29c

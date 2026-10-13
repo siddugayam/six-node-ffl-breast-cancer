@@ -1,0 +1,94 @@
+K 7
+nparts 1
+part 0
+seed 71
+q 1 1 1 0.1 0.15 0.15
+prod_q 0.0022499999999999998
+found 196604
+visited 283420813
+rng_final 5869484726841334336
+comp 1 2 4 1
+comp 1 3 3 65
+comp 1 4 2 574
+comp 1 5 1 1528
+comp 2 2 3 153
+comp 2 3 2 6337
+comp 2 4 1 26995
+comp 2 5 0 43
+comp 3 1 3 67
+comp 3 2 2 5440
+comp 3 3 1 71649
+comp 3 4 0 1565
+comp 4 0 3 5
+comp 4 1 2 1504
+comp 4 2 1 50940
+comp 4 3 0 6702
+comp 5 0 2 162
+comp 5 1 1 9469
+comp 5 2 0 8447
+comp 6 0 1 866
+comp 6 1 0 3728
+comp 7 0 0 364
+mask 2 371
+mask 3 1026
+mask 6 2355
+mask 7 281
+mask 10 1
+mask 11 11
+mask 12 899
+mask 13 514
+mask 14 53909
+mask 15 36609
+mask 18 120
+mask 19 237
+mask 20 724
+mask 21 101
+mask 22 17375
+mask 23 3541
+mask 26 11
+mask 27 151
+mask 28 10950
+mask 29 4037
+mask 30 38524
+mask 31 24797
+mask 46 15
+mask 47 19
+mask 59 1
+mask 60 5
+mask 61 2
+mask 62 7
+mask 63 11
+flags 0 161039
+flags 1 8246
+flags 2 441
+flags 3 2657
+flags 5 1
+flags 6 12
+flags 7 38
+flags 8 18114
+flags 9 292
+flags 10 58
+flags 11 427
+flags 15 1
+flags 24 4985
+flags 25 109
+flags 26 25
+flags 27 159
+exflag 0 AHR FOS SMAD7 TP53 hsa-miR-106b hsa-miR-300 SKIL
+exflag 0 AHR MYC CCND2 hsa-miR-106b hsa-miR-16 hsa-miR-23a STAT5A
+exflag 0 AHR MYC DKK1 hsa-miR-106b TWIST1 hsa-miR-22 ASCL1
+exflag 1 AHR FOS SMAD7 TP53 hsa-miR-106b hsa-miR-300 SKIL
+exflag 1 AHR MYC CCND2 hsa-miR-106b hsa-miR-16 hsa-miR-23a STAT5A
+exflag 1 AHR MYC DKK1 hsa-miR-106b TWIST1 hsa-miR-22 ASCL1
+exflag 2 BRCA1 EGR1 HIF1A hsa-miR-143 COL1A1 COL3A1 hsa-miR-335
+exflag 2 CREB1 AR SOX9 hsa-let-7a COL1A1 COL3A1 hsa-miR-335
+exflag 2 EGR1 MYB COL1A1 COL3A1 hsa-let-7e hsa-miR-130b IRF1
+exflag 3 AHR BRCA1 HIF1A AR IRF9 MYC hsa-miR-20a | TF1=HIF1A TF2=AR miRNA=hsa-miR-20a target=MYC
+exflag 3 AHR BRCA1 MYC BMI1 hsa-miR-106b ABCA1 hsa-miR-200c | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=BMI1
+exflag 3 AHR BRCA1 MYC CCND2 hsa-miR-106a hsa-miR-106b hsa-miR-372 | TF1=AHR TF2=MYC miRNA=hsa-miR-106b target=CCND2
+exflag 4 APEX1 NFKB1 ABCA1 RELA hsa-miR-130a hsa-miR-148a hsa-miR-17 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exflag 4 APEX1 NFKB1 ABCA1 RELA hsa-miR-130a hsa-miR-148a hsa-miR-9 | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exflag 4 APEX1 NFKB1 ABCA1 RELA hsa-miR-130a hsa-miR-23b hsa-miR-27a | TF1=RELA TF2=NFKB1 miRNA=hsa-miR-130a target=ABCA1
+exmask 63 EGR1 MYB COL1A1 COL3A1 hsa-let-7e hsa-miR-130b IRF1
+exmask 63 ETS1 COL1A1 COL3A1 hsa-miR-181b ESR1 MYC hsa-miR-29c
+exmask 63 HIF1A hsa-miR-20a IRF1 MYB COL1A1 COL3A1 hsa-miR-29c

@@ -1,0 +1,68 @@
+K 6
+nparts 64
+part 62
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 56961
+visited 34816353
+rng_final 42
+comp 1 2 3 82
+comp 1 3 2 317
+comp 1 4 1 2896
+comp 2 0 4 1
+comp 2 1 3 166
+comp 2 2 2 5002
+comp 2 3 1 35040
+comp 2 4 0 95
+comp 3 0 3 30
+comp 3 1 2 3821
+comp 3 2 1 2447
+comp 3 3 0 4376
+comp 4 0 2 815
+comp 4 1 1 758
+comp 4 2 0 850
+comp 5 0 1 227
+comp 5 1 0 38
+mask 2 227
+mask 3 846
+mask 6 589
+mask 7 2
+mask 10 1
+mask 11 15
+mask 14 554
+mask 15 7548
+mask 18 38
+mask 19 54
+mask 20 2472
+mask 21 174
+mask 22 3040
+mask 23 437
+mask 27 26
+mask 28 22186
+mask 29 2296
+mask 30 13150
+mask 31 3306
+flags 0 48343
+flags 1 1345
+flags 2 2542
+flags 3 3006
+flags 8 573
+flags 9 1
+flags 10 169
+flags 11 283
+flags 24 53
+flags 26 279
+flags 27 367
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-let-7c hsa-miR-140
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-let-7c hsa-miR-7
+exflag 0 STAT5A BCL2L1 BCL6 ESR1 hsa-miR-140 hsa-miR-7
+exflag 1 STAT5A BCL2L1 BCL6 ESR1 AR hsa-let-7a
+exflag 1 STAT5A BCL2L1 BCL6 ESR1 AR hsa-let-7c
+exflag 1 STAT5A BCL2L1 BCL6 ESR1 AR hsa-miR-133b
+exflag 3 STAT5A BCL2L1 BCL6 NFKB1 hsa-miR-155 CEBPB | TF1=BCL6 TF2=NFKB1 miRNA=hsa-miR-155 target=BCL2L1
+exflag 3 STAT5A BCL2L1 ESR1 AR MYC hsa-let-7c | TF1=ESR1 TF2=AR miRNA=hsa-let-7c target=MYC
+exflag 3 STAT5A BCL2L1 ESR1 E2F1 PPARG hsa-miR-7 | TF1=ESR1 TF2=E2F1 miRNA=hsa-miR-7 target=PPARG
+exflag 4 STAT5A BCL6 CCND2 MYC NFKB1 hsa-let-7b | TF1=NFKB1 TF2=MYC miRNA=hsa-let-7b target=CCND2
+exflag 4 STAT5A BCL6 CCND2 MYC NFKB1 hsa-miR-150 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-150 target=CCND2
+exflag 4 STAT5A BCL6 CCND2 MYC NFKB1 hsa-miR-16 | TF1=NFKB1 TF2=MYC miRNA=hsa-miR-16 target=CCND2

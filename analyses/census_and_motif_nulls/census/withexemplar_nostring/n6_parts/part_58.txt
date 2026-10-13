@@ -1,0 +1,96 @@
+K 6
+nparts 64
+part 58
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 26491
+visited 6733517
+rng_final 42
+comp 1 2 3 10
+comp 1 3 2 763
+comp 1 4 1 241
+comp 2 1 3 37
+comp 2 2 2 2022
+comp 2 3 1 5780
+comp 2 4 0 15
+comp 3 0 3 7
+comp 3 1 2 1240
+comp 3 2 1 10442
+comp 3 3 0 520
+comp 4 0 2 272
+comp 4 1 1 2709
+comp 4 2 0 1335
+comp 5 0 1 350
+comp 5 1 0 688
+comp 6 0 0 60
+mask 2 60
+mask 3 629
+mask 6 441
+mask 7 378
+mask 11 7
+mask 12 1
+mask 13 12
+mask 14 6275
+mask 15 6036
+mask 18 6
+mask 19 5
+mask 20 193
+mask 21 48
+mask 22 1673
+mask 23 1046
+mask 26 14
+mask 27 95
+mask 28 2938
+mask 29 639
+mask 30 2080
+mask 31 2085
+mask 45 1
+mask 46 3
+mask 47 5
+mask 70 96
+mask 71 80
+mask 76 91
+mask 77 22
+mask 78 631
+mask 79 372
+mask 84 10
+mask 85 4
+mask 86 139
+mask 87 37
+mask 92 80
+mask 93 62
+mask 94 73
+mask 95 118
+mask 108 4
+mask 109 1
+mask 110 1
+flags 0 23291
+flags 1 1783
+flags 2 138
+flags 3 227
+flags 4 4
+flags 6 1
+flags 7 4
+flags 8 961
+flags 10 6
+flags 11 8
+flags 24 68
+exflag 0 FOXO3 AR CCND2 hsa-let-7a hsa-miR-17 IRF9
+exflag 0 FOXO3 AR CCND2 hsa-let-7a hsa-miR-20a IRF9
+exflag 0 FOXO3 AR CCND2 hsa-let-7b hsa-miR-17 IRF9
+exflag 1 FOXO3 AR BCL6 CCND2 hsa-miR-17 IRF9
+exflag 1 FOXO3 AR BCL6 CCND2 hsa-miR-20a IRF9
+exflag 1 FOXO3 AR CCND2 EP300 hsa-miR-141 STAT5A
+exflag 2 FOXO3 AR hsa-let-7b COL1A1 COL3A1 hsa-let-7c
+exflag 2 FOXO3 AR hsa-let-7b COL1A1 COL3A1 hsa-miR-133b
+exflag 2 SRF CREB1 hsa-miR-143 COL1A1 COL3A1 hsa-miR-335
+exflag 3 FOXO3 AR BCL6 BCL2L1 MYC hsa-let-7c | TF1=FOXO3 TF2=AR miRNA=hsa-let-7c target=MYC
+exflag 3 FOXO3 AR BCL6 CCND2 MYC hsa-let-7a | TF1=AR TF2=MYC miRNA=hsa-let-7a target=CCND2
+exflag 3 FOXO3 AR BCL6 CCND2 MYC hsa-let-7c | TF1=FOXO3 TF2=AR miRNA=hsa-let-7c target=MYC
+exflag 4 FOXO3 AR BCL6 MYC VEGFA hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exflag 4 FOXO3 AR BCL6 MYC VEGFA hsa-miR-20a | TF1=AR TF2=MYC miRNA=hsa-miR-20a target=VEGFA
+exflag 4 FOXO3 AR MYC VEGFA hsa-miR-106a hsa-miR-17 | TF1=AR TF2=MYC miRNA=hsa-miR-17 target=VEGFA
+exmask 95 FOXO3 BCL6 BCL2L1 hsa-let-7b hsa-miR-29a FOS
+exmask 95 FOXO3 BCL6 CCND2 hsa-let-7b hsa-miR-29a ETV4
+exmask 95 SRF CREB1 FOS BCL2L1 hsa-miR-29b hsa-let-7b

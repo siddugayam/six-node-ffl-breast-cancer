@@ -1,0 +1,53 @@
+VALIDATION stored n6 certification: 83 of 108 certified here vs 83 stored; set-by-set agreement True
+Bhat_TF_TM+_TY+ TT_T120_T21+_T2Y-: flagged sustained oscillation 0
+Bhat_TF_TM+_TY+ GG+TT_T120_T21+_T2Y-: flagged sustained oscillation 0
+Bhat_TF_TM+_TY+ MM+TT_T120_T21+_T2Y-: flagged sustained oscillation 0
+Bhat_TF_TM-_TY+ TT_T120_T21-_T2Y+: flagged sustained oscillation 0
+Bhat_TF_TM-_TY+ GG+TT_T120_T21-_T2Y+: flagged sustained oscillation 0
+Bhat_TF_TM-_TY+ MM+TT_T120_T21-_T2Y+: flagged sustained oscillation 0
+Bhat_TF_TM-_TY+ MM: flagged sustained oscillation 0
+Bhat_comp_TM+_TY+ TT_T12+_T21-_T2Y-: flagged sustained oscillation 8
+Bhat_comp_TM+_TY+ GG+TT_T12+_T21-_T2Y-: flagged sustained oscillation 18
+Bhat_comp_TM+_TY+ MM+TT_T12+_T21-_T2Y-: flagged sustained oscillation 25
+Bhat_comp_TM+_TY+ TT_T12-_T21+_T2Y+: flagged sustained oscillation 0
+Bhat_comp_TM+_TY+ GG+TT_T12-_T21+_T2Y+: flagged sustained oscillation 2
+Bhat_comp_TM+_TY+ MM+TT_T12-_T21+_T2Y+: flagged sustained oscillation 1
+Bhat_comp_TM+_TY+ TT_T12-_T21-_T2Y+: flagged sustained oscillation 1
+Bhat_comp_TM+_TY+ GG+TT_T12-_T21-_T2Y+: flagged sustained oscillation 3
+Bhat_comp_TM+_TY+ MM+TT_T12-_T21-_T2Y+: flagged sustained oscillation 3
+Bhat_comp_TM-_TY+ TT_T12+_T21-_T2Y-: flagged sustained oscillation 78
+Bhat_comp_TM-_TY+ GG+TT_T12+_T21-_T2Y-: flagged sustained oscillation 77
+Bhat_comp_TM-_TY+ MM+TT_T12+_T21-_T2Y-: flagged sustained oscillation 127
+Bhat_comp_TM-_TY+ TT_T12-_T21+_T2Y+: flagged sustained oscillation 1
+Bhat_comp_TM-_TY+ GG+TT_T12-_T21+_T2Y+: flagged sustained oscillation 1
+Bhat_comp_TM-_TY+ MM+TT_T12-_T21+_T2Y+: flagged sustained oscillation 0
+Bhat_comp_TM-_TY+ TT_T12-_T21-_T2Y+: flagged sustained oscillation 0
+Bhat_comp_TM-_TY+ GG+TT_T12-_T21-_T2Y+: flagged sustained oscillation 2
+Bhat_comp_TM-_TY+ MM+TT_T12-_T21-_T2Y+: flagged sustained oscillation 0
+Bhat_miR_TM0_TY+ TT_T12-_T210_T2Y+: flagged sustained oscillation 7
+Bhat_miR_TM0_TY+ GG+TT_T12-_T210_T2Y+: flagged sustained oscillation 8
+Bhat_miR_TM0_TY+ MM+TT_T12-_T210_T2Y+: flagged sustained oscillation 2
+Bhat_miR_TM0_TY+ MM: flagged sustained oscillation 0
+Bhat_miR_TM0_TY+ TT_T12+_T210_T2Y+: flagged sustained oscillation 133
+Bhat_miR_TM0_TY+ GG+TT_T12+_T210_T2Y+: flagged sustained oscillation 131
+Bhat_miR_TM0_TY+ MM+TT_T12+_T210_T2Y+: flagged sustained oscillation 189
+Bhat_comp_TM+_TY+ GG+TT_T12+_T21-_T2Y-: certified 12 of 18 flagged
+Bhat_comp_TM+_TY+ GG+TT_T12-_T21+_T2Y+: certified 2 of 2 flagged
+Bhat_comp_TM+_TY+ GG+TT_T12-_T21-_T2Y+: certified 2 of 3 flagged
+Bhat_comp_TM+_TY+ MM+TT_T12+_T21-_T2Y-: certified 21 of 25 flagged
+Bhat_comp_TM+_TY+ MM+TT_T12-_T21+_T2Y+: certified 1 of 1 flagged
+Bhat_comp_TM+_TY+ MM+TT_T12-_T21-_T2Y+: certified 3 of 3 flagged
+Bhat_comp_TM+_TY+ TT_T12+_T21-_T2Y-: certified 7 of 8 flagged
+Bhat_comp_TM+_TY+ TT_T12-_T21-_T2Y+: certified 1 of 1 flagged
+Bhat_comp_TM-_TY+ GG+TT_T12+_T21-_T2Y-: certified 52 of 77 flagged
+Bhat_comp_TM-_TY+ GG+TT_T12-_T21+_T2Y+: certified 1 of 1 flagged
+Bhat_comp_TM-_TY+ GG+TT_T12-_T21-_T2Y+: certified 0 of 2 flagged
+Bhat_comp_TM-_TY+ MM+TT_T12+_T21-_T2Y-: certified 101 of 127 flagged
+Bhat_comp_TM-_TY+ TT_T12+_T21-_T2Y-: certified 63 of 78 flagged
+Bhat_comp_TM-_TY+ TT_T12-_T21+_T2Y+: certified 1 of 1 flagged
+Bhat_miR_TM0_TY+ GG+TT_T12+_T210_T2Y+: certified 103 of 131 flagged
+Bhat_miR_TM0_TY+ GG+TT_T12-_T210_T2Y+: certified 5 of 8 flagged
+Bhat_miR_TM0_TY+ MM+TT_T12+_T210_T2Y+: certified 169 of 189 flagged
+Bhat_miR_TM0_TY+ MM+TT_T12-_T210_T2Y+: certified 0 of 2 flagged
+Bhat_miR_TM0_TY+ TT_T12+_T210_T2Y+: certified 113 of 133 flagged
+Bhat_miR_TM0_TY+ TT_T12-_T210_T2Y+: certified 7 of 7 flagged

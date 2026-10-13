@@ -1,0 +1,78 @@
+K 6
+nparts 64
+part 40
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 227830
+visited 49994154
+rng_final 42
+comp 1 2 3 16
+comp 1 3 2 812
+comp 1 4 1 415
+comp 2 1 3 24
+comp 2 2 2 4435
+comp 2 3 1 51375
+comp 2 4 0 9
+comp 3 0 3 3
+comp 3 1 2 2289
+comp 3 2 1 99188
+comp 3 3 0 5890
+comp 4 0 2 288
+comp 4 1 1 25578
+comp 4 2 0 19312
+comp 5 0 1 3465
+comp 5 1 0 13224
+comp 6 0 0 1507
+mask 2 1507
+mask 3 3756
+mask 6 8083
+mask 7 441
+mask 11 6
+mask 12 2
+mask 13 17
+mask 14 70201
+mask 15 42050
+mask 18 338
+mask 19 426
+mask 20 1061
+mask 21 104
+mask 22 28953
+mask 23 3940
+mask 26 9
+mask 27 667
+mask 28 12652
+mask 29 2662
+mask 30 31759
+mask 31 19130
+mask 45 1
+mask 46 45
+mask 47 16
+mask 62 4
+flags 0 210062
+flags 1 2642
+flags 2 1268
+flags 3 1527
+flags 6 15
+flags 7 50
+flags 8 11498
+flags 9 98
+flags 10 47
+flags 11 113
+flags 24 505
+flags 25 5
+exflag 0 YY1 ACTC1 MYC SMAD7 hsa-miR-30a hsa-miR-30b
+exflag 0 YY1 ACTC1 MYC SMAD7 hsa-miR-30a hsa-miR-30d
+exflag 0 YY1 ACTC1 MYC hsa-miR-137 HIC1 hsa-miR-25
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29a
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29b
+exflag 1 YY1 BRCA1 CREBBP IRF9 CCND2 hsa-miR-29c
+exflag 2 YY1 EPAS1 TFAP2A COL1A1 COL3A1 hsa-miR-29c
+exflag 2 YY1 EPAS1 hsa-miR-29a COL1A1 COL3A1 hsa-miR-29c
+exflag 2 YY1 HIF1A TFAP2A COL1A1 COL3A1 hsa-let-7e
+exflag 3 YY1 BRCA1 CDH3 FOS MYC hsa-miR-155 | TF1=YY1 TF2=BRCA1 miRNA=hsa-miR-155 target=CDH3
+exflag 3 YY1 BRCA1 CREBBP CREB1 FOS hsa-miR-155 | TF1=YY1 TF2=BRCA1 miRNA=hsa-miR-155 target=FOS
+exflag 3 YY1 BRCA1 CREBBP CREB1 FOS hsa-miR-21 | TF1=CREBBP TF2=CREB1 miRNA=hsa-miR-21 target=FOS
+exflag 4 YY1 BRCA1 CREBBP FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 YY1 BRCA1 CREBBP HIF1A VEGFA hsa-miR-205 | TF1=BRCA1 TF2=HIF1A miRNA=hsa-miR-205 target=VEGFA
+exflag 4 YY1 BRCA1 CREBBP TP53 VEGFA hsa-miR-205 | TF1=TP53 TF2=BRCA1 miRNA=hsa-miR-205 target=VEGFA

@@ -1,0 +1,1327 @@
+gene,ensembl,hpa_version,organ,tissue,unit,nTPM
+BRCA1,ENSG00000012048,25,Connective & Soft tissue,Adipose tissue,nTPM,2.7
+BRCA1,ENSG00000012048,25,Endocrine tissues,Adrenal gland,nTPM,1.6
+BRCA1,ENSG00000012048,25,Brain,Amygdala,nTPM,2.2
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,6.8
+BRCA1,ENSG00000012048,25,Brain,Basal ganglia,nTPM,2.7
+BRCA1,ENSG00000012048,25,Muscle & Vascular tissue,Blood vessel,nTPM,1.3
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,10.4
+BRCA1,ENSG00000012048,25,Female tissues,Breast,nTPM,3.2
+BRCA1,ENSG00000012048,25,Brain,Cerebellum,nTPM,0.8
+BRCA1,ENSG00000012048,25,Brain,Cerebral cortex,nTPM,2.8
+BRCA1,ENSG00000012048,25,Female tissues,Cervix,nTPM,2.4
+BRCA1,ENSG00000012048,25,Brain,Choroid plexus,nTPM,2.4
+BRCA1,ENSG00000012048,25,Gastrointestinal tract,Colon,nTPM,5.8
+BRCA1,ENSG00000012048,25,Gastrointestinal tract,Duodenum,nTPM,2.9
+BRCA1,ENSG00000012048,25,Female tissues,Endometrium 1,nTPM,2.5
+BRCA1,ENSG00000012048,25,Male tissues,Epididymis,nTPM,1.8
+BRCA1,ENSG00000012048,25,Proximal digestive tract,Esophagus,nTPM,3.8
+BRCA1,ENSG00000012048,25,Female tissues,Fallopian tube,nTPM,3.3
+BRCA1,ENSG00000012048,25,Liver & Gallbladder,Gallbladder,nTPM,1.6
+BRCA1,ENSG00000012048,25,Muscle & Vascular tissue,Heart muscle,nTPM,2.6
+BRCA1,ENSG00000012048,25,Brain,Hippocampal formation,nTPM,2.4
+BRCA1,ENSG00000012048,25,Brain,Hypothalamus,nTPM,2.0
+BRCA1,ENSG00000012048,25,Kidney & Urinary bladder,Kidney,nTPM,1.6
+BRCA1,ENSG00000012048,25,Liver & Gallbladder,Liver,nTPM,5.1
+BRCA1,ENSG00000012048,25,Respiratory system,Lung,nTPM,2.6
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,8.7
+BRCA1,ENSG00000012048,25,Brain,Midbrain,nTPM,3.3
+BRCA1,ENSG00000012048,25,Female tissues,Ovary,nTPM,2.6
+BRCA1,ENSG00000012048,25,Pancreas,Pancreas,nTPM,2.0
+BRCA1,ENSG00000012048,25,Endocrine tissues,Parathyroid gland,nTPM,5.4
+BRCA1,ENSG00000012048,25,Endocrine tissues,Pituitary gland,nTPM,2.7
+BRCA1,ENSG00000012048,25,Female tissues,Placenta,nTPM,3.4
+BRCA1,ENSG00000012048,25,Male tissues,Prostate,nTPM,2.0
+BRCA1,ENSG00000012048,25,Gastrointestinal tract,Rectum,nTPM,6.2
+BRCA1,ENSG00000012048,25,Eye,Retina,nTPM,6.9
+BRCA1,ENSG00000012048,25,Proximal digestive tract,Salivary gland,nTPM,2.8
+BRCA1,ENSG00000012048,25,Male tissues,Seminal vesicle,nTPM,1.5
+BRCA1,ENSG00000012048,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,3.5
+BRCA1,ENSG00000012048,25,Skin,Skin 1,nTPM,5.1
+BRCA1,ENSG00000012048,25,Gastrointestinal tract,Small intestine,nTPM,4.3
+BRCA1,ENSG00000012048,25,Muscle & Vascular tissue,Smooth muscle,nTPM,3.3
+BRCA1,ENSG00000012048,25,Brain,Spinal cord,nTPM,3.9
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,3.1
+BRCA1,ENSG00000012048,25,Gastrointestinal tract,Stomach 1,nTPM,2.9
+BRCA1,ENSG00000012048,25,Male tissues,Testis,nTPM,11.2
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,12.9
+BRCA1,ENSG00000012048,25,Endocrine tissues,Thyroid gland,nTPM,7.0
+BRCA1,ENSG00000012048,25,Proximal digestive tract,Tongue,nTPM,3.1
+BRCA1,ENSG00000012048,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,9.8
+BRCA1,ENSG00000012048,25,Kidney & Urinary bladder,Urinary bladder,nTPM,2.6
+BRCA1,ENSG00000012048,25,Female tissues,Vagina,nTPM,2.2
+CCND2,ENSG00000118971,25,Connective & Soft tissue,Adipose tissue,nTPM,5.9
+CCND2,ENSG00000118971,25,Endocrine tissues,Adrenal gland,nTPM,16.8
+CCND2,ENSG00000118971,25,Brain,Amygdala,nTPM,2.2
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,8.3
+CCND2,ENSG00000118971,25,Brain,Basal ganglia,nTPM,1.5
+CCND2,ENSG00000118971,25,Muscle & Vascular tissue,Blood vessel,nTPM,8.8
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,19.2
+CCND2,ENSG00000118971,25,Female tissues,Breast,nTPM,2.9
+CCND2,ENSG00000118971,25,Brain,Cerebellum,nTPM,0.7
+CCND2,ENSG00000118971,25,Brain,Cerebral cortex,nTPM,9.9
+CCND2,ENSG00000118971,25,Female tissues,Cervix,nTPM,6.4
+CCND2,ENSG00000118971,25,Brain,Choroid plexus,nTPM,0.0
+CCND2,ENSG00000118971,25,Gastrointestinal tract,Colon,nTPM,9.3
+CCND2,ENSG00000118971,25,Gastrointestinal tract,Duodenum,nTPM,16.4
+CCND2,ENSG00000118971,25,Female tissues,Endometrium 1,nTPM,7.6
+CCND2,ENSG00000118971,25,Male tissues,Epididymis,nTPM,7.1
+CCND2,ENSG00000118971,25,Proximal digestive tract,Esophagus,nTPM,4.4
+CCND2,ENSG00000118971,25,Female tissues,Fallopian tube,nTPM,7.2
+CCND2,ENSG00000118971,25,Liver & Gallbladder,Gallbladder,nTPM,2.5
+CCND2,ENSG00000118971,25,Muscle & Vascular tissue,Heart muscle,nTPM,27.8
+CCND2,ENSG00000118971,25,Brain,Hippocampal formation,nTPM,1.7
+CCND2,ENSG00000118971,25,Brain,Hypothalamus,nTPM,0.9
+CCND2,ENSG00000118971,25,Kidney & Urinary bladder,Kidney,nTPM,1.0
+CCND2,ENSG00000118971,25,Liver & Gallbladder,Liver,nTPM,0.5
+CCND2,ENSG00000118971,25,Respiratory system,Lung,nTPM,4.7
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,5.0
+CCND2,ENSG00000118971,25,Brain,Midbrain,nTPM,0.7
+CCND2,ENSG00000118971,25,Female tissues,Ovary,nTPM,4.1
+CCND2,ENSG00000118971,25,Pancreas,Pancreas,nTPM,15.4
+CCND2,ENSG00000118971,25,Endocrine tissues,Parathyroid gland,nTPM,9.3
+CCND2,ENSG00000118971,25,Endocrine tissues,Pituitary gland,nTPM,2.5
+CCND2,ENSG00000118971,25,Female tissues,Placenta,nTPM,12.1
+CCND2,ENSG00000118971,25,Male tissues,Prostate,nTPM,5.1
+CCND2,ENSG00000118971,25,Gastrointestinal tract,Rectum,nTPM,9.8
+CCND2,ENSG00000118971,25,Eye,Retina,nTPM,0.7
+CCND2,ENSG00000118971,25,Proximal digestive tract,Salivary gland,nTPM,2.9
+CCND2,ENSG00000118971,25,Male tissues,Seminal vesicle,nTPM,8.6
+CCND2,ENSG00000118971,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,0.1
+CCND2,ENSG00000118971,25,Skin,Skin 1,nTPM,3.6
+CCND2,ENSG00000118971,25,Gastrointestinal tract,Small intestine,nTPM,9.1
+CCND2,ENSG00000118971,25,Muscle & Vascular tissue,Smooth muscle,nTPM,9.2
+CCND2,ENSG00000118971,25,Brain,Spinal cord,nTPM,1.3
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,9.0
+CCND2,ENSG00000118971,25,Gastrointestinal tract,Stomach 1,nTPM,2.4
+CCND2,ENSG00000118971,25,Male tissues,Testis,nTPM,0.4
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,3.0
+CCND2,ENSG00000118971,25,Endocrine tissues,Thyroid gland,nTPM,9.2
+CCND2,ENSG00000118971,25,Proximal digestive tract,Tongue,nTPM,0.0
+CCND2,ENSG00000118971,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,4.8
+CCND2,ENSG00000118971,25,Kidney & Urinary bladder,Urinary bladder,nTPM,6.3
+CCND2,ENSG00000118971,25,Female tissues,Vagina,nTPM,5.5
+COL1A1,ENSG00000108821,25,Connective & Soft tissue,Adipose tissue,nTPM,292.0
+COL1A1,ENSG00000108821,25,Endocrine tissues,Adrenal gland,nTPM,42.5
+COL1A1,ENSG00000108821,25,Brain,Amygdala,nTPM,1.3
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,257.6
+COL1A1,ENSG00000108821,25,Brain,Basal ganglia,nTPM,7.1
+COL1A1,ENSG00000108821,25,Muscle & Vascular tissue,Blood vessel,nTPM,334.6
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,4.2
+COL1A1,ENSG00000108821,25,Female tissues,Breast,nTPM,173.5
+COL1A1,ENSG00000108821,25,Brain,Cerebellum,nTPM,1.7
+COL1A1,ENSG00000108821,25,Brain,Cerebral cortex,nTPM,4.9
+COL1A1,ENSG00000108821,25,Female tissues,Cervix,nTPM,1248.6
+COL1A1,ENSG00000108821,25,Brain,Choroid plexus,nTPM,6.8
+COL1A1,ENSG00000108821,25,Gastrointestinal tract,Colon,nTPM,246.4
+COL1A1,ENSG00000108821,25,Gastrointestinal tract,Duodenum,nTPM,35.5
+COL1A1,ENSG00000108821,25,Female tissues,Endometrium 1,nTPM,552.9
+COL1A1,ENSG00000108821,25,Male tissues,Epididymis,nTPM,21.9
+COL1A1,ENSG00000108821,25,Proximal digestive tract,Esophagus,nTPM,103.3
+COL1A1,ENSG00000108821,25,Female tissues,Fallopian tube,nTPM,259.8
+COL1A1,ENSG00000108821,25,Liver & Gallbladder,Gallbladder,nTPM,1134.3
+COL1A1,ENSG00000108821,25,Muscle & Vascular tissue,Heart muscle,nTPM,138.6
+COL1A1,ENSG00000108821,25,Brain,Hippocampal formation,nTPM,1.5
+COL1A1,ENSG00000108821,25,Brain,Hypothalamus,nTPM,1.4
+COL1A1,ENSG00000108821,25,Kidney & Urinary bladder,Kidney,nTPM,41.8
+COL1A1,ENSG00000108821,25,Liver & Gallbladder,Liver,nTPM,34.2
+COL1A1,ENSG00000108821,25,Respiratory system,Lung,nTPM,146.1
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,73.1
+COL1A1,ENSG00000108821,25,Brain,Midbrain,nTPM,1.1
+COL1A1,ENSG00000108821,25,Female tissues,Ovary,nTPM,1143.7
+COL1A1,ENSG00000108821,25,Pancreas,Pancreas,nTPM,46.5
+COL1A1,ENSG00000108821,25,Endocrine tissues,Parathyroid gland,nTPM,13.3
+COL1A1,ENSG00000108821,25,Endocrine tissues,Pituitary gland,nTPM,86.9
+COL1A1,ENSG00000108821,25,Female tissues,Placenta,nTPM,473.6
+COL1A1,ENSG00000108821,25,Male tissues,Prostate,nTPM,146.9
+COL1A1,ENSG00000108821,25,Gastrointestinal tract,Rectum,nTPM,43.7
+COL1A1,ENSG00000108821,25,Eye,Retina,nTPM,0.3
+COL1A1,ENSG00000108821,25,Proximal digestive tract,Salivary gland,nTPM,53.4
+COL1A1,ENSG00000108821,25,Male tissues,Seminal vesicle,nTPM,93.0
+COL1A1,ENSG00000108821,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,21.2
+COL1A1,ENSG00000108821,25,Skin,Skin 1,nTPM,342.6
+COL1A1,ENSG00000108821,25,Gastrointestinal tract,Small intestine,nTPM,94.8
+COL1A1,ENSG00000108821,25,Muscle & Vascular tissue,Smooth muscle,nTPM,748.1
+COL1A1,ENSG00000108821,25,Brain,Spinal cord,nTPM,2.1
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,50.4
+COL1A1,ENSG00000108821,25,Gastrointestinal tract,Stomach 1,nTPM,120.4
+COL1A1,ENSG00000108821,25,Male tissues,Testis,nTPM,35.7
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,13.4
+COL1A1,ENSG00000108821,25,Endocrine tissues,Thyroid gland,nTPM,55.3
+COL1A1,ENSG00000108821,25,Proximal digestive tract,Tongue,nTPM,12.2
+COL1A1,ENSG00000108821,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,19.8
+COL1A1,ENSG00000108821,25,Kidney & Urinary bladder,Urinary bladder,nTPM,576.2
+COL1A1,ENSG00000108821,25,Female tissues,Vagina,nTPM,382.5
+COL3A1,ENSG00000168542,25,Connective & Soft tissue,Adipose tissue,nTPM,714.1
+COL3A1,ENSG00000168542,25,Endocrine tissues,Adrenal gland,nTPM,45.9
+COL3A1,ENSG00000168542,25,Brain,Amygdala,nTPM,0.7
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,543.4
+COL3A1,ENSG00000168542,25,Brain,Basal ganglia,nTPM,1.0
+COL3A1,ENSG00000168542,25,Muscle & Vascular tissue,Blood vessel,nTPM,378.9
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,1.0
+COL3A1,ENSG00000168542,25,Female tissues,Breast,nTPM,318.9
+COL3A1,ENSG00000168542,25,Brain,Cerebellum,nTPM,1.1
+COL3A1,ENSG00000168542,25,Brain,Cerebral cortex,nTPM,6.1
+COL3A1,ENSG00000168542,25,Female tissues,Cervix,nTPM,2222.3
+COL3A1,ENSG00000168542,25,Brain,Choroid plexus,nTPM,6.6
+COL3A1,ENSG00000168542,25,Gastrointestinal tract,Colon,nTPM,269.7
+COL3A1,ENSG00000168542,25,Gastrointestinal tract,Duodenum,nTPM,79.6
+COL3A1,ENSG00000168542,25,Female tissues,Endometrium 1,nTPM,720.5
+COL3A1,ENSG00000168542,25,Male tissues,Epididymis,nTPM,57.6
+COL3A1,ENSG00000168542,25,Proximal digestive tract,Esophagus,nTPM,279.8
+COL3A1,ENSG00000168542,25,Female tissues,Fallopian tube,nTPM,194.4
+COL3A1,ENSG00000168542,25,Liver & Gallbladder,Gallbladder,nTPM,1957.3
+COL3A1,ENSG00000168542,25,Muscle & Vascular tissue,Heart muscle,nTPM,219.7
+COL3A1,ENSG00000168542,25,Brain,Hippocampal formation,nTPM,1.0
+COL3A1,ENSG00000168542,25,Brain,Hypothalamus,nTPM,0.9
+COL3A1,ENSG00000168542,25,Kidney & Urinary bladder,Kidney,nTPM,48.2
+COL3A1,ENSG00000168542,25,Liver & Gallbladder,Liver,nTPM,91.0
+COL3A1,ENSG00000168542,25,Respiratory system,Lung,nTPM,174.7
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,111.4
+COL3A1,ENSG00000168542,25,Brain,Midbrain,nTPM,1.4
+COL3A1,ENSG00000168542,25,Female tissues,Ovary,nTPM,748.4
+COL3A1,ENSG00000168542,25,Pancreas,Pancreas,nTPM,42.8
+COL3A1,ENSG00000168542,25,Endocrine tissues,Parathyroid gland,nTPM,34.8
+COL3A1,ENSG00000168542,25,Endocrine tissues,Pituitary gland,nTPM,12.8
+COL3A1,ENSG00000168542,25,Female tissues,Placenta,nTPM,1861.3
+COL3A1,ENSG00000168542,25,Male tissues,Prostate,nTPM,138.4
+COL3A1,ENSG00000168542,25,Gastrointestinal tract,Rectum,nTPM,314.2
+COL3A1,ENSG00000168542,25,Eye,Retina,nTPM,0.0
+COL3A1,ENSG00000168542,25,Proximal digestive tract,Salivary gland,nTPM,59.9
+COL3A1,ENSG00000168542,25,Male tissues,Seminal vesicle,nTPM,260.6
+COL3A1,ENSG00000168542,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,62.8
+COL3A1,ENSG00000168542,25,Skin,Skin 1,nTPM,311.8
+COL3A1,ENSG00000168542,25,Gastrointestinal tract,Small intestine,nTPM,143.6
+COL3A1,ENSG00000168542,25,Muscle & Vascular tissue,Smooth muscle,nTPM,1998.4
+COL3A1,ENSG00000168542,25,Brain,Spinal cord,nTPM,1.8
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,127.0
+COL3A1,ENSG00000168542,25,Gastrointestinal tract,Stomach 1,nTPM,148.2
+COL3A1,ENSG00000168542,25,Male tissues,Testis,nTPM,59.4
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,38.2
+COL3A1,ENSG00000168542,25,Endocrine tissues,Thyroid gland,nTPM,69.7
+COL3A1,ENSG00000168542,25,Proximal digestive tract,Tongue,nTPM,67.1
+COL3A1,ENSG00000168542,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,68.6
+COL3A1,ENSG00000168542,25,Kidney & Urinary bladder,Urinary bladder,nTPM,1026.2
+COL3A1,ENSG00000168542,25,Female tissues,Vagina,nTPM,269.3
+CXCL12,ENSG00000107562,25,Connective & Soft tissue,Adipose tissue,nTPM,332.9
+CXCL12,ENSG00000107562,25,Endocrine tissues,Adrenal gland,nTPM,75.7
+CXCL12,ENSG00000107562,25,Brain,Amygdala,nTPM,9.8
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,133.0
+CXCL12,ENSG00000107562,25,Brain,Basal ganglia,nTPM,13.6
+CXCL12,ENSG00000107562,25,Muscle & Vascular tissue,Blood vessel,nTPM,148.5
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,32.5
+CXCL12,ENSG00000107562,25,Female tissues,Breast,nTPM,217.6
+CXCL12,ENSG00000107562,25,Brain,Cerebellum,nTPM,3.4
+CXCL12,ENSG00000107562,25,Brain,Cerebral cortex,nTPM,13.5
+CXCL12,ENSG00000107562,25,Female tissues,Cervix,nTPM,218.8
+CXCL12,ENSG00000107562,25,Brain,Choroid plexus,nTPM,16.4
+CXCL12,ENSG00000107562,25,Gastrointestinal tract,Colon,nTPM,118.2
+CXCL12,ENSG00000107562,25,Gastrointestinal tract,Duodenum,nTPM,49.1
+CXCL12,ENSG00000107562,25,Female tissues,Endometrium 1,nTPM,326.9
+CXCL12,ENSG00000107562,25,Male tissues,Epididymis,nTPM,51.3
+CXCL12,ENSG00000107562,25,Proximal digestive tract,Esophagus,nTPM,125.6
+CXCL12,ENSG00000107562,25,Female tissues,Fallopian tube,nTPM,107.7
+CXCL12,ENSG00000107562,25,Liver & Gallbladder,Gallbladder,nTPM,240.5
+CXCL12,ENSG00000107562,25,Muscle & Vascular tissue,Heart muscle,nTPM,174.5
+CXCL12,ENSG00000107562,25,Brain,Hippocampal formation,nTPM,12.4
+CXCL12,ENSG00000107562,25,Brain,Hypothalamus,nTPM,8.8
+CXCL12,ENSG00000107562,25,Kidney & Urinary bladder,Kidney,nTPM,113.8
+CXCL12,ENSG00000107562,25,Liver & Gallbladder,Liver,nTPM,230.7
+CXCL12,ENSG00000107562,25,Respiratory system,Lung,nTPM,65.5
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,196.1
+CXCL12,ENSG00000107562,25,Brain,Midbrain,nTPM,12.6
+CXCL12,ENSG00000107562,25,Female tissues,Ovary,nTPM,240.4
+CXCL12,ENSG00000107562,25,Pancreas,Pancreas,nTPM,121.7
+CXCL12,ENSG00000107562,25,Endocrine tissues,Parathyroid gland,nTPM,115.8
+CXCL12,ENSG00000107562,25,Endocrine tissues,Pituitary gland,nTPM,19.7
+CXCL12,ENSG00000107562,25,Female tissues,Placenta,nTPM,7.8
+CXCL12,ENSG00000107562,25,Male tissues,Prostate,nTPM,43.5
+CXCL12,ENSG00000107562,25,Gastrointestinal tract,Rectum,nTPM,105.3
+CXCL12,ENSG00000107562,25,Eye,Retina,nTPM,1.9
+CXCL12,ENSG00000107562,25,Proximal digestive tract,Salivary gland,nTPM,105.6
+CXCL12,ENSG00000107562,25,Male tissues,Seminal vesicle,nTPM,60.3
+CXCL12,ENSG00000107562,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,145.6
+CXCL12,ENSG00000107562,25,Skin,Skin 1,nTPM,91.6
+CXCL12,ENSG00000107562,25,Gastrointestinal tract,Small intestine,nTPM,87.7
+CXCL12,ENSG00000107562,25,Muscle & Vascular tissue,Smooth muscle,nTPM,311.2
+CXCL12,ENSG00000107562,25,Brain,Spinal cord,nTPM,12.9
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,327.3
+CXCL12,ENSG00000107562,25,Gastrointestinal tract,Stomach 1,nTPM,42.9
+CXCL12,ENSG00000107562,25,Male tissues,Testis,nTPM,17.7
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,128.2
+CXCL12,ENSG00000107562,25,Endocrine tissues,Thyroid gland,nTPM,96.8
+CXCL12,ENSG00000107562,25,Proximal digestive tract,Tongue,nTPM,164.0
+CXCL12,ENSG00000107562,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,108.6
+CXCL12,ENSG00000107562,25,Kidney & Urinary bladder,Urinary bladder,nTPM,97.2
+CXCL12,ENSG00000107562,25,Female tissues,Vagina,nTPM,164.8
+DNMT1,ENSG00000130816,25,Connective & Soft tissue,Adipose tissue,nTPM,5.3
+DNMT1,ENSG00000130816,25,Endocrine tissues,Adrenal gland,nTPM,3.2
+DNMT1,ENSG00000130816,25,Brain,Amygdala,nTPM,1.7
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,15.8
+DNMT1,ENSG00000130816,25,Brain,Basal ganglia,nTPM,1.9
+DNMT1,ENSG00000130816,25,Muscle & Vascular tissue,Blood vessel,nTPM,3.8
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,22.0
+DNMT1,ENSG00000130816,25,Female tissues,Breast,nTPM,4.6
+DNMT1,ENSG00000130816,25,Brain,Cerebellum,nTPM,8.2
+DNMT1,ENSG00000130816,25,Brain,Cerebral cortex,nTPM,4.2
+DNMT1,ENSG00000130816,25,Female tissues,Cervix,nTPM,8.5
+DNMT1,ENSG00000130816,25,Brain,Choroid plexus,nTPM,1.1
+DNMT1,ENSG00000130816,25,Gastrointestinal tract,Colon,nTPM,6.4
+DNMT1,ENSG00000130816,25,Gastrointestinal tract,Duodenum,nTPM,6.2
+DNMT1,ENSG00000130816,25,Female tissues,Endometrium 1,nTPM,5.4
+DNMT1,ENSG00000130816,25,Male tissues,Epididymis,nTPM,2.9
+DNMT1,ENSG00000130816,25,Proximal digestive tract,Esophagus,nTPM,5.2
+DNMT1,ENSG00000130816,25,Female tissues,Fallopian tube,nTPM,5.3
+DNMT1,ENSG00000130816,25,Liver & Gallbladder,Gallbladder,nTPM,5.8
+DNMT1,ENSG00000130816,25,Muscle & Vascular tissue,Heart muscle,nTPM,4.2
+DNMT1,ENSG00000130816,25,Brain,Hippocampal formation,nTPM,1.8
+DNMT1,ENSG00000130816,25,Brain,Hypothalamus,nTPM,1.9
+DNMT1,ENSG00000130816,25,Kidney & Urinary bladder,Kidney,nTPM,2.1
+DNMT1,ENSG00000130816,25,Liver & Gallbladder,Liver,nTPM,3.4
+DNMT1,ENSG00000130816,25,Respiratory system,Lung,nTPM,5.7
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,24.4
+DNMT1,ENSG00000130816,25,Brain,Midbrain,nTPM,1.8
+DNMT1,ENSG00000130816,25,Female tissues,Ovary,nTPM,3.5
+DNMT1,ENSG00000130816,25,Pancreas,Pancreas,nTPM,3.4
+DNMT1,ENSG00000130816,25,Endocrine tissues,Parathyroid gland,nTPM,4.0
+DNMT1,ENSG00000130816,25,Endocrine tissues,Pituitary gland,nTPM,2.3
+DNMT1,ENSG00000130816,25,Female tissues,Placenta,nTPM,24.4
+DNMT1,ENSG00000130816,25,Male tissues,Prostate,nTPM,3.5
+DNMT1,ENSG00000130816,25,Gastrointestinal tract,Rectum,nTPM,6.4
+DNMT1,ENSG00000130816,25,Eye,Retina,nTPM,6.8
+DNMT1,ENSG00000130816,25,Proximal digestive tract,Salivary gland,nTPM,4.2
+DNMT1,ENSG00000130816,25,Male tissues,Seminal vesicle,nTPM,4.4
+DNMT1,ENSG00000130816,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,3.5
+DNMT1,ENSG00000130816,25,Skin,Skin 1,nTPM,7.5
+DNMT1,ENSG00000130816,25,Gastrointestinal tract,Small intestine,nTPM,6.0
+DNMT1,ENSG00000130816,25,Muscle & Vascular tissue,Smooth muscle,nTPM,8.2
+DNMT1,ENSG00000130816,25,Brain,Spinal cord,nTPM,2.4
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,7.6
+DNMT1,ENSG00000130816,25,Gastrointestinal tract,Stomach 1,nTPM,6.0
+DNMT1,ENSG00000130816,25,Male tissues,Testis,nTPM,11.5
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,19.2
+DNMT1,ENSG00000130816,25,Endocrine tissues,Thyroid gland,nTPM,6.0
+DNMT1,ENSG00000130816,25,Proximal digestive tract,Tongue,nTPM,4.6
+DNMT1,ENSG00000130816,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,23.3
+DNMT1,ENSG00000130816,25,Kidney & Urinary bladder,Urinary bladder,nTPM,6.6
+DNMT1,ENSG00000130816,25,Female tissues,Vagina,nTPM,3.9
+E2F1,ENSG00000101412,25,Connective & Soft tissue,Adipose tissue,nTPM,1.7
+E2F1,ENSG00000101412,25,Endocrine tissues,Adrenal gland,nTPM,4.9
+E2F1,ENSG00000101412,25,Brain,Amygdala,nTPM,6.3
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,5.3
+E2F1,ENSG00000101412,25,Brain,Basal ganglia,nTPM,7.3
+E2F1,ENSG00000101412,25,Muscle & Vascular tissue,Blood vessel,nTPM,1.0
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,32.4
+E2F1,ENSG00000101412,25,Female tissues,Breast,nTPM,1.5
+E2F1,ENSG00000101412,25,Brain,Cerebellum,nTPM,1.2
+E2F1,ENSG00000101412,25,Brain,Cerebral cortex,nTPM,6.6
+E2F1,ENSG00000101412,25,Female tissues,Cervix,nTPM,2.0
+E2F1,ENSG00000101412,25,Brain,Choroid plexus,nTPM,0.7
+E2F1,ENSG00000101412,25,Gastrointestinal tract,Colon,nTPM,3.5
+E2F1,ENSG00000101412,25,Gastrointestinal tract,Duodenum,nTPM,3.0
+E2F1,ENSG00000101412,25,Female tissues,Endometrium 1,nTPM,1.1
+E2F1,ENSG00000101412,25,Male tissues,Epididymis,nTPM,0.1
+E2F1,ENSG00000101412,25,Proximal digestive tract,Esophagus,nTPM,5.1
+E2F1,ENSG00000101412,25,Female tissues,Fallopian tube,nTPM,1.6
+E2F1,ENSG00000101412,25,Liver & Gallbladder,Gallbladder,nTPM,0.6
+E2F1,ENSG00000101412,25,Muscle & Vascular tissue,Heart muscle,nTPM,1.2
+E2F1,ENSG00000101412,25,Brain,Hippocampal formation,nTPM,6.7
+E2F1,ENSG00000101412,25,Brain,Hypothalamus,nTPM,3.7
+E2F1,ENSG00000101412,25,Kidney & Urinary bladder,Kidney,nTPM,0.8
+E2F1,ENSG00000101412,25,Liver & Gallbladder,Liver,nTPM,1.6
+E2F1,ENSG00000101412,25,Respiratory system,Lung,nTPM,3.3
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,8.1
+E2F1,ENSG00000101412,25,Brain,Midbrain,nTPM,6.2
+E2F1,ENSG00000101412,25,Female tissues,Ovary,nTPM,3.1
+E2F1,ENSG00000101412,25,Pancreas,Pancreas,nTPM,0.9
+E2F1,ENSG00000101412,25,Endocrine tissues,Parathyroid gland,nTPM,1.2
+E2F1,ENSG00000101412,25,Endocrine tissues,Pituitary gland,nTPM,0.5
+E2F1,ENSG00000101412,25,Female tissues,Placenta,nTPM,2.3
+E2F1,ENSG00000101412,25,Male tissues,Prostate,nTPM,1.7
+E2F1,ENSG00000101412,25,Gastrointestinal tract,Rectum,nTPM,3.7
+E2F1,ENSG00000101412,25,Eye,Retina,nTPM,0.7
+E2F1,ENSG00000101412,25,Proximal digestive tract,Salivary gland,nTPM,1.7
+E2F1,ENSG00000101412,25,Male tissues,Seminal vesicle,nTPM,0.9
+E2F1,ENSG00000101412,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,1.5
+E2F1,ENSG00000101412,25,Skin,Skin 1,nTPM,4.4
+E2F1,ENSG00000101412,25,Gastrointestinal tract,Small intestine,nTPM,3.6
+E2F1,ENSG00000101412,25,Muscle & Vascular tissue,Smooth muscle,nTPM,2.6
+E2F1,ENSG00000101412,25,Brain,Spinal cord,nTPM,6.7
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,4.5
+E2F1,ENSG00000101412,25,Gastrointestinal tract,Stomach 1,nTPM,3.4
+E2F1,ENSG00000101412,25,Male tissues,Testis,nTPM,9.3
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,9.9
+E2F1,ENSG00000101412,25,Endocrine tissues,Thyroid gland,nTPM,0.7
+E2F1,ENSG00000101412,25,Proximal digestive tract,Tongue,nTPM,0.7
+E2F1,ENSG00000101412,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,6.5
+E2F1,ENSG00000101412,25,Kidney & Urinary bladder,Urinary bladder,nTPM,1.9
+E2F1,ENSG00000101412,25,Female tissues,Vagina,nTPM,2.1
+E2F3,ENSG00000112242,25,Connective & Soft tissue,Adipose tissue,nTPM,6.1
+E2F3,ENSG00000112242,25,Endocrine tissues,Adrenal gland,nTPM,4.6
+E2F3,ENSG00000112242,25,Brain,Amygdala,nTPM,4.1
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,9.2
+E2F3,ENSG00000112242,25,Brain,Basal ganglia,nTPM,7.2
+E2F3,ENSG00000112242,25,Muscle & Vascular tissue,Blood vessel,nTPM,7.8
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,18.7
+E2F3,ENSG00000112242,25,Female tissues,Breast,nTPM,3.8
+E2F3,ENSG00000112242,25,Brain,Cerebellum,nTPM,0.7
+E2F3,ENSG00000112242,25,Brain,Cerebral cortex,nTPM,5.5
+E2F3,ENSG00000112242,25,Female tissues,Cervix,nTPM,3.1
+E2F3,ENSG00000112242,25,Brain,Choroid plexus,nTPM,1.2
+E2F3,ENSG00000112242,25,Gastrointestinal tract,Colon,nTPM,5.1
+E2F3,ENSG00000112242,25,Gastrointestinal tract,Duodenum,nTPM,4.8
+E2F3,ENSG00000112242,25,Female tissues,Endometrium 1,nTPM,3.4
+E2F3,ENSG00000112242,25,Male tissues,Epididymis,nTPM,3.6
+E2F3,ENSG00000112242,25,Proximal digestive tract,Esophagus,nTPM,4.6
+E2F3,ENSG00000112242,25,Female tissues,Fallopian tube,nTPM,2.3
+E2F3,ENSG00000112242,25,Liver & Gallbladder,Gallbladder,nTPM,6.0
+E2F3,ENSG00000112242,25,Muscle & Vascular tissue,Heart muscle,nTPM,4.8
+E2F3,ENSG00000112242,25,Brain,Hippocampal formation,nTPM,4.6
+E2F3,ENSG00000112242,25,Brain,Hypothalamus,nTPM,3.5
+E2F3,ENSG00000112242,25,Kidney & Urinary bladder,Kidney,nTPM,5.4
+E2F3,ENSG00000112242,25,Liver & Gallbladder,Liver,nTPM,4.1
+E2F3,ENSG00000112242,25,Respiratory system,Lung,nTPM,4.6
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,10.3
+E2F3,ENSG00000112242,25,Brain,Midbrain,nTPM,3.0
+E2F3,ENSG00000112242,25,Female tissues,Ovary,nTPM,1.7
+E2F3,ENSG00000112242,25,Pancreas,Pancreas,nTPM,2.0
+E2F3,ENSG00000112242,25,Endocrine tissues,Parathyroid gland,nTPM,2.9
+E2F3,ENSG00000112242,25,Endocrine tissues,Pituitary gland,nTPM,1.7
+E2F3,ENSG00000112242,25,Female tissues,Placenta,nTPM,5.3
+E2F3,ENSG00000112242,25,Male tissues,Prostate,nTPM,3.1
+E2F3,ENSG00000112242,25,Gastrointestinal tract,Rectum,nTPM,5.9
+E2F3,ENSG00000112242,25,Eye,Retina,nTPM,5.6
+E2F3,ENSG00000112242,25,Proximal digestive tract,Salivary gland,nTPM,2.5
+E2F3,ENSG00000112242,25,Male tissues,Seminal vesicle,nTPM,2.9
+E2F3,ENSG00000112242,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,9.4
+E2F3,ENSG00000112242,25,Skin,Skin 1,nTPM,2.4
+E2F3,ENSG00000112242,25,Gastrointestinal tract,Small intestine,nTPM,5.4
+E2F3,ENSG00000112242,25,Muscle & Vascular tissue,Smooth muscle,nTPM,5.6
+E2F3,ENSG00000112242,25,Brain,Spinal cord,nTPM,2.6
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,7.9
+E2F3,ENSG00000112242,25,Gastrointestinal tract,Stomach 1,nTPM,3.4
+E2F3,ENSG00000112242,25,Male tissues,Testis,nTPM,3.2
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,8.0
+E2F3,ENSG00000112242,25,Endocrine tissues,Thyroid gland,nTPM,8.0
+E2F3,ENSG00000112242,25,Proximal digestive tract,Tongue,nTPM,8.7
+E2F3,ENSG00000112242,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,8.9
+E2F3,ENSG00000112242,25,Kidney & Urinary bladder,Urinary bladder,nTPM,7.9
+E2F3,ENSG00000112242,25,Female tissues,Vagina,nTPM,2.5
+EGR2,ENSG00000122877,25,Connective & Soft tissue,Adipose tissue,nTPM,11.8
+EGR2,ENSG00000122877,25,Endocrine tissues,Adrenal gland,nTPM,8.6
+EGR2,ENSG00000122877,25,Brain,Amygdala,nTPM,1.0
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,8.8
+EGR2,ENSG00000122877,25,Brain,Basal ganglia,nTPM,2.6
+EGR2,ENSG00000122877,25,Muscle & Vascular tissue,Blood vessel,nTPM,5.0
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,7.1
+EGR2,ENSG00000122877,25,Female tissues,Breast,nTPM,7.7
+EGR2,ENSG00000122877,25,Brain,Cerebellum,nTPM,0.5
+EGR2,ENSG00000122877,25,Brain,Cerebral cortex,nTPM,10.8
+EGR2,ENSG00000122877,25,Female tissues,Cervix,nTPM,16.5
+EGR2,ENSG00000122877,25,Brain,Choroid plexus,nTPM,2.8
+EGR2,ENSG00000122877,25,Gastrointestinal tract,Colon,nTPM,2.8
+EGR2,ENSG00000122877,25,Gastrointestinal tract,Duodenum,nTPM,1.8
+EGR2,ENSG00000122877,25,Female tissues,Endometrium 1,nTPM,5.5
+EGR2,ENSG00000122877,25,Male tissues,Epididymis,nTPM,56.3
+EGR2,ENSG00000122877,25,Proximal digestive tract,Esophagus,nTPM,6.4
+EGR2,ENSG00000122877,25,Female tissues,Fallopian tube,nTPM,4.1
+EGR2,ENSG00000122877,25,Liver & Gallbladder,Gallbladder,nTPM,27.3
+EGR2,ENSG00000122877,25,Muscle & Vascular tissue,Heart muscle,nTPM,13.1
+EGR2,ENSG00000122877,25,Brain,Hippocampal formation,nTPM,1.9
+EGR2,ENSG00000122877,25,Brain,Hypothalamus,nTPM,1.2
+EGR2,ENSG00000122877,25,Kidney & Urinary bladder,Kidney,nTPM,6.6
+EGR2,ENSG00000122877,25,Liver & Gallbladder,Liver,nTPM,4.7
+EGR2,ENSG00000122877,25,Respiratory system,Lung,nTPM,12.9
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,12.4
+EGR2,ENSG00000122877,25,Brain,Midbrain,nTPM,1.0
+EGR2,ENSG00000122877,25,Female tissues,Ovary,nTPM,15.0
+EGR2,ENSG00000122877,25,Pancreas,Pancreas,nTPM,3.3
+EGR2,ENSG00000122877,25,Endocrine tissues,Parathyroid gland,nTPM,6.0
+EGR2,ENSG00000122877,25,Endocrine tissues,Pituitary gland,nTPM,7.4
+EGR2,ENSG00000122877,25,Female tissues,Placenta,nTPM,2.1
+EGR2,ENSG00000122877,25,Male tissues,Prostate,nTPM,15.5
+EGR2,ENSG00000122877,25,Gastrointestinal tract,Rectum,nTPM,3.0
+EGR2,ENSG00000122877,25,Eye,Retina,nTPM,1.1
+EGR2,ENSG00000122877,25,Proximal digestive tract,Salivary gland,nTPM,2.6
+EGR2,ENSG00000122877,25,Male tissues,Seminal vesicle,nTPM,1.7
+EGR2,ENSG00000122877,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,0.7
+EGR2,ENSG00000122877,25,Skin,Skin 1,nTPM,12.0
+EGR2,ENSG00000122877,25,Gastrointestinal tract,Small intestine,nTPM,3.8
+EGR2,ENSG00000122877,25,Muscle & Vascular tissue,Smooth muscle,nTPM,14.0
+EGR2,ENSG00000122877,25,Brain,Spinal cord,nTPM,1.4
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,4.1
+EGR2,ENSG00000122877,25,Gastrointestinal tract,Stomach 1,nTPM,1.9
+EGR2,ENSG00000122877,25,Male tissues,Testis,nTPM,3.5
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,22.7
+EGR2,ENSG00000122877,25,Endocrine tissues,Thyroid gland,nTPM,114.5
+EGR2,ENSG00000122877,25,Proximal digestive tract,Tongue,nTPM,8.5
+EGR2,ENSG00000122877,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,5.8
+EGR2,ENSG00000122877,25,Kidney & Urinary bladder,Urinary bladder,nTPM,13.2
+EGR2,ENSG00000122877,25,Female tissues,Vagina,nTPM,1.4
+ESR1,ENSG00000091831,25,Connective & Soft tissue,Adipose tissue,nTPM,4.0
+ESR1,ENSG00000091831,25,Endocrine tissues,Adrenal gland,nTPM,1.7
+ESR1,ENSG00000091831,25,Brain,Amygdala,nTPM,0.3
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,1.1
+ESR1,ENSG00000091831,25,Brain,Basal ganglia,nTPM,0.4
+ESR1,ENSG00000091831,25,Muscle & Vascular tissue,Blood vessel,nTPM,3.1
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,0.8
+ESR1,ENSG00000091831,25,Female tissues,Breast,nTPM,27.4
+ESR1,ENSG00000091831,25,Brain,Cerebellum,nTPM,1.4
+ESR1,ENSG00000091831,25,Brain,Cerebral cortex,nTPM,0.3
+ESR1,ENSG00000091831,25,Female tissues,Cervix,nTPM,80.7
+ESR1,ENSG00000091831,25,Brain,Choroid plexus,nTPM,0.1
+ESR1,ENSG00000091831,25,Gastrointestinal tract,Colon,nTPM,0.8
+ESR1,ENSG00000091831,25,Gastrointestinal tract,Duodenum,nTPM,0.4
+ESR1,ENSG00000091831,25,Female tissues,Endometrium 1,nTPM,103.7
+ESR1,ENSG00000091831,25,Male tissues,Epididymis,nTPM,1.1
+ESR1,ENSG00000091831,25,Proximal digestive tract,Esophagus,nTPM,0.5
+ESR1,ENSG00000091831,25,Female tissues,Fallopian tube,nTPM,61.1
+ESR1,ENSG00000091831,25,Liver & Gallbladder,Gallbladder,nTPM,1.1
+ESR1,ENSG00000091831,25,Muscle & Vascular tissue,Heart muscle,nTPM,1.7
+ESR1,ENSG00000091831,25,Brain,Hippocampal formation,nTPM,0.3
+ESR1,ENSG00000091831,25,Brain,Hypothalamus,nTPM,1.5
+ESR1,ENSG00000091831,25,Kidney & Urinary bladder,Kidney,nTPM,2.6
+ESR1,ENSG00000091831,25,Liver & Gallbladder,Liver,nTPM,15.8
+ESR1,ENSG00000091831,25,Respiratory system,Lung,nTPM,1.9
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,1.5
+ESR1,ENSG00000091831,25,Brain,Midbrain,nTPM,0.2
+ESR1,ENSG00000091831,25,Female tissues,Ovary,nTPM,8.6
+ESR1,ENSG00000091831,25,Pancreas,Pancreas,nTPM,0.9
+ESR1,ENSG00000091831,25,Endocrine tissues,Parathyroid gland,nTPM,0.1
+ESR1,ENSG00000091831,25,Endocrine tissues,Pituitary gland,nTPM,6.3
+ESR1,ENSG00000091831,25,Female tissues,Placenta,nTPM,0.4
+ESR1,ENSG00000091831,25,Male tissues,Prostate,nTPM,5.7
+ESR1,ENSG00000091831,25,Gastrointestinal tract,Rectum,nTPM,0.5
+ESR1,ENSG00000091831,25,Eye,Retina,nTPM,3.2
+ESR1,ENSG00000091831,25,Proximal digestive tract,Salivary gland,nTPM,0.8
+ESR1,ENSG00000091831,25,Male tissues,Seminal vesicle,nTPM,9.3
+ESR1,ENSG00000091831,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,5.4
+ESR1,ENSG00000091831,25,Skin,Skin 1,nTPM,1.1
+ESR1,ENSG00000091831,25,Gastrointestinal tract,Small intestine,nTPM,0.7
+ESR1,ENSG00000091831,25,Muscle & Vascular tissue,Smooth muscle,nTPM,47.1
+ESR1,ENSG00000091831,25,Brain,Spinal cord,nTPM,0.3
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,1.6
+ESR1,ENSG00000091831,25,Gastrointestinal tract,Stomach 1,nTPM,0.6
+ESR1,ENSG00000091831,25,Male tissues,Testis,nTPM,2.1
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,1.0
+ESR1,ENSG00000091831,25,Endocrine tissues,Thyroid gland,nTPM,3.2
+ESR1,ENSG00000091831,25,Proximal digestive tract,Tongue,nTPM,2.4
+ESR1,ENSG00000091831,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,2.1
+ESR1,ENSG00000091831,25,Kidney & Urinary bladder,Urinary bladder,nTPM,2.1
+ESR1,ENSG00000091831,25,Female tissues,Vagina,nTPM,45.7
+ETS1,ENSG00000134954,25,Connective & Soft tissue,Adipose tissue,nTPM,82.4
+ETS1,ENSG00000134954,25,Endocrine tissues,Adrenal gland,nTPM,15.9
+ETS1,ENSG00000134954,25,Brain,Amygdala,nTPM,7.1
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,110.1
+ETS1,ENSG00000134954,25,Brain,Basal ganglia,nTPM,9.2
+ETS1,ENSG00000134954,25,Muscle & Vascular tissue,Blood vessel,nTPM,32.4
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,25.6
+ETS1,ENSG00000134954,25,Female tissues,Breast,nTPM,62.8
+ETS1,ENSG00000134954,25,Brain,Cerebellum,nTPM,2.1
+ETS1,ENSG00000134954,25,Brain,Cerebral cortex,nTPM,11.1
+ETS1,ENSG00000134954,25,Female tissues,Cervix,nTPM,29.2
+ETS1,ENSG00000134954,25,Brain,Choroid plexus,nTPM,5.9
+ETS1,ENSG00000134954,25,Gastrointestinal tract,Colon,nTPM,24.2
+ETS1,ENSG00000134954,25,Gastrointestinal tract,Duodenum,nTPM,20.1
+ETS1,ENSG00000134954,25,Female tissues,Endometrium 1,nTPM,29.0
+ETS1,ENSG00000134954,25,Male tissues,Epididymis,nTPM,8.2
+ETS1,ENSG00000134954,25,Proximal digestive tract,Esophagus,nTPM,15.8
+ETS1,ENSG00000134954,25,Female tissues,Fallopian tube,nTPM,18.0
+ETS1,ENSG00000134954,25,Liver & Gallbladder,Gallbladder,nTPM,46.9
+ETS1,ENSG00000134954,25,Muscle & Vascular tissue,Heart muscle,nTPM,35.6
+ETS1,ENSG00000134954,25,Brain,Hippocampal formation,nTPM,8.3
+ETS1,ENSG00000134954,25,Brain,Hypothalamus,nTPM,7.0
+ETS1,ENSG00000134954,25,Kidney & Urinary bladder,Kidney,nTPM,24.6
+ETS1,ENSG00000134954,25,Liver & Gallbladder,Liver,nTPM,37.9
+ETS1,ENSG00000134954,25,Respiratory system,Lung,nTPM,68.6
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,215.3
+ETS1,ENSG00000134954,25,Brain,Midbrain,nTPM,9.2
+ETS1,ENSG00000134954,25,Female tissues,Ovary,nTPM,24.8
+ETS1,ENSG00000134954,25,Pancreas,Pancreas,nTPM,15.4
+ETS1,ENSG00000134954,25,Endocrine tissues,Parathyroid gland,nTPM,23.7
+ETS1,ENSG00000134954,25,Endocrine tissues,Pituitary gland,nTPM,7.5
+ETS1,ENSG00000134954,25,Female tissues,Placenta,nTPM,43.1
+ETS1,ENSG00000134954,25,Male tissues,Prostate,nTPM,13.9
+ETS1,ENSG00000134954,25,Gastrointestinal tract,Rectum,nTPM,25.0
+ETS1,ENSG00000134954,25,Eye,Retina,nTPM,1.5
+ETS1,ENSG00000134954,25,Proximal digestive tract,Salivary gland,nTPM,14.8
+ETS1,ENSG00000134954,25,Male tissues,Seminal vesicle,nTPM,17.1
+ETS1,ENSG00000134954,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,19.9
+ETS1,ENSG00000134954,25,Skin,Skin 1,nTPM,17.1
+ETS1,ENSG00000134954,25,Gastrointestinal tract,Small intestine,nTPM,46.1
+ETS1,ENSG00000134954,25,Muscle & Vascular tissue,Smooth muscle,nTPM,29.5
+ETS1,ENSG00000134954,25,Brain,Spinal cord,nTPM,7.6
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,143.4
+ETS1,ENSG00000134954,25,Gastrointestinal tract,Stomach 1,nTPM,34.6
+ETS1,ENSG00000134954,25,Male tissues,Testis,nTPM,6.3
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,253.0
+ETS1,ENSG00000134954,25,Endocrine tissues,Thyroid gland,nTPM,37.7
+ETS1,ENSG00000134954,25,Proximal digestive tract,Tongue,nTPM,33.4
+ETS1,ENSG00000134954,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,195.7
+ETS1,ENSG00000134954,25,Kidney & Urinary bladder,Urinary bladder,nTPM,52.9
+ETS1,ENSG00000134954,25,Female tissues,Vagina,nTPM,18.2
+EZH2,ENSG00000106462,25,Connective & Soft tissue,Adipose tissue,nTPM,1.1
+EZH2,ENSG00000106462,25,Endocrine tissues,Adrenal gland,nTPM,0.9
+EZH2,ENSG00000106462,25,Brain,Amygdala,nTPM,0.4
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,8.2
+EZH2,ENSG00000106462,25,Brain,Basal ganglia,nTPM,0.4
+EZH2,ENSG00000106462,25,Muscle & Vascular tissue,Blood vessel,nTPM,0.5
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,23.9
+EZH2,ENSG00000106462,25,Female tissues,Breast,nTPM,1.8
+EZH2,ENSG00000106462,25,Brain,Cerebellum,nTPM,0.9
+EZH2,ENSG00000106462,25,Brain,Cerebral cortex,nTPM,0.7
+EZH2,ENSG00000106462,25,Female tissues,Cervix,nTPM,2.0
+EZH2,ENSG00000106462,25,Brain,Choroid plexus,nTPM,1.4
+EZH2,ENSG00000106462,25,Gastrointestinal tract,Colon,nTPM,5.6
+EZH2,ENSG00000106462,25,Gastrointestinal tract,Duodenum,nTPM,4.9
+EZH2,ENSG00000106462,25,Female tissues,Endometrium 1,nTPM,1.5
+EZH2,ENSG00000106462,25,Male tissues,Epididymis,nTPM,0.3
+EZH2,ENSG00000106462,25,Proximal digestive tract,Esophagus,nTPM,7.8
+EZH2,ENSG00000106462,25,Female tissues,Fallopian tube,nTPM,0.8
+EZH2,ENSG00000106462,25,Liver & Gallbladder,Gallbladder,nTPM,1.4
+EZH2,ENSG00000106462,25,Muscle & Vascular tissue,Heart muscle,nTPM,0.6
+EZH2,ENSG00000106462,25,Brain,Hippocampal formation,nTPM,0.4
+EZH2,ENSG00000106462,25,Brain,Hypothalamus,nTPM,0.3
+EZH2,ENSG00000106462,25,Kidney & Urinary bladder,Kidney,nTPM,0.8
+EZH2,ENSG00000106462,25,Liver & Gallbladder,Liver,nTPM,1.6
+EZH2,ENSG00000106462,25,Respiratory system,Lung,nTPM,1.1
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,17.5
+EZH2,ENSG00000106462,25,Brain,Midbrain,nTPM,0.3
+EZH2,ENSG00000106462,25,Female tissues,Ovary,nTPM,1.6
+EZH2,ENSG00000106462,25,Pancreas,Pancreas,nTPM,2.3
+EZH2,ENSG00000106462,25,Endocrine tissues,Parathyroid gland,nTPM,1.0
+EZH2,ENSG00000106462,25,Endocrine tissues,Pituitary gland,nTPM,0.2
+EZH2,ENSG00000106462,25,Female tissues,Placenta,nTPM,3.7
+EZH2,ENSG00000106462,25,Male tissues,Prostate,nTPM,0.6
+EZH2,ENSG00000106462,25,Gastrointestinal tract,Rectum,nTPM,5.7
+EZH2,ENSG00000106462,25,Eye,Retina,nTPM,0.7
+EZH2,ENSG00000106462,25,Proximal digestive tract,Salivary gland,nTPM,1.9
+EZH2,ENSG00000106462,25,Male tissues,Seminal vesicle,nTPM,0.1
+EZH2,ENSG00000106462,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,2.2
+EZH2,ENSG00000106462,25,Skin,Skin 1,nTPM,6.5
+EZH2,ENSG00000106462,25,Gastrointestinal tract,Small intestine,nTPM,5.1
+EZH2,ENSG00000106462,25,Muscle & Vascular tissue,Smooth muscle,nTPM,1.9
+EZH2,ENSG00000106462,25,Brain,Spinal cord,nTPM,0.4
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,3.4
+EZH2,ENSG00000106462,25,Gastrointestinal tract,Stomach 1,nTPM,2.9
+EZH2,ENSG00000106462,25,Male tissues,Testis,nTPM,24.5
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,34.1
+EZH2,ENSG00000106462,25,Endocrine tissues,Thyroid gland,nTPM,0.8
+EZH2,ENSG00000106462,25,Proximal digestive tract,Tongue,nTPM,1.6
+EZH2,ENSG00000106462,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,17.3
+EZH2,ENSG00000106462,25,Kidney & Urinary bladder,Urinary bladder,nTPM,2.9
+EZH2,ENSG00000106462,25,Female tissues,Vagina,nTPM,2.4
+FN1,ENSG00000115414,25,Connective & Soft tissue,Adipose tissue,nTPM,144.1
+FN1,ENSG00000115414,25,Endocrine tissues,Adrenal gland,nTPM,29.6
+FN1,ENSG00000115414,25,Brain,Amygdala,nTPM,21.1
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,124.6
+FN1,ENSG00000115414,25,Brain,Basal ganglia,nTPM,36.1
+FN1,ENSG00000115414,25,Muscle & Vascular tissue,Blood vessel,nTPM,2745.6
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,0.5
+FN1,ENSG00000115414,25,Female tissues,Breast,nTPM,74.2
+FN1,ENSG00000115414,25,Brain,Cerebellum,nTPM,9.9
+FN1,ENSG00000115414,25,Brain,Cerebral cortex,nTPM,32.5
+FN1,ENSG00000115414,25,Female tissues,Cervix,nTPM,112.6
+FN1,ENSG00000115414,25,Brain,Choroid plexus,nTPM,50.0
+FN1,ENSG00000115414,25,Gastrointestinal tract,Colon,nTPM,413.7
+FN1,ENSG00000115414,25,Gastrointestinal tract,Duodenum,nTPM,31.8
+FN1,ENSG00000115414,25,Female tissues,Endometrium 1,nTPM,144.2
+FN1,ENSG00000115414,25,Male tissues,Epididymis,nTPM,57.9
+FN1,ENSG00000115414,25,Proximal digestive tract,Esophagus,nTPM,236.0
+FN1,ENSG00000115414,25,Female tissues,Fallopian tube,nTPM,192.4
+FN1,ENSG00000115414,25,Liver & Gallbladder,Gallbladder,nTPM,175.1
+FN1,ENSG00000115414,25,Muscle & Vascular tissue,Heart muscle,nTPM,394.2
+FN1,ENSG00000115414,25,Brain,Hippocampal formation,nTPM,27.7
+FN1,ENSG00000115414,25,Brain,Hypothalamus,nTPM,20.0
+FN1,ENSG00000115414,25,Kidney & Urinary bladder,Kidney,nTPM,49.0
+FN1,ENSG00000115414,25,Liver & Gallbladder,Liver,nTPM,1614.4
+FN1,ENSG00000115414,25,Respiratory system,Lung,nTPM,740.1
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,34.9
+FN1,ENSG00000115414,25,Brain,Midbrain,nTPM,30.6
+FN1,ENSG00000115414,25,Female tissues,Ovary,nTPM,247.9
+FN1,ENSG00000115414,25,Pancreas,Pancreas,nTPM,24.5
+FN1,ENSG00000115414,25,Endocrine tissues,Parathyroid gland,nTPM,18.1
+FN1,ENSG00000115414,25,Endocrine tissues,Pituitary gland,nTPM,24.3
+FN1,ENSG00000115414,25,Female tissues,Placenta,nTPM,2751.7
+FN1,ENSG00000115414,25,Male tissues,Prostate,nTPM,99.1
+FN1,ENSG00000115414,25,Gastrointestinal tract,Rectum,nTPM,223.1
+FN1,ENSG00000115414,25,Eye,Retina,nTPM,5.6
+FN1,ENSG00000115414,25,Proximal digestive tract,Salivary gland,nTPM,63.0
+FN1,ENSG00000115414,25,Male tissues,Seminal vesicle,nTPM,404.2
+FN1,ENSG00000115414,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,35.4
+FN1,ENSG00000115414,25,Skin,Skin 1,nTPM,47.5
+FN1,ENSG00000115414,25,Gastrointestinal tract,Small intestine,nTPM,105.1
+FN1,ENSG00000115414,25,Muscle & Vascular tissue,Smooth muscle,nTPM,674.5
+FN1,ENSG00000115414,25,Brain,Spinal cord,nTPM,24.0
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,13.5
+FN1,ENSG00000115414,25,Gastrointestinal tract,Stomach 1,nTPM,119.7
+FN1,ENSG00000115414,25,Male tissues,Testis,nTPM,24.1
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,125.0
+FN1,ENSG00000115414,25,Endocrine tissues,Thyroid gland,nTPM,38.2
+FN1,ENSG00000115414,25,Proximal digestive tract,Tongue,nTPM,138.6
+FN1,ENSG00000115414,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,22.4
+FN1,ENSG00000115414,25,Kidney & Urinary bladder,Urinary bladder,nTPM,332.2
+FN1,ENSG00000115414,25,Female tissues,Vagina,nTPM,80.6
+GATA3,ENSG00000107485,25,Connective & Soft tissue,Adipose tissue,nTPM,6.9
+GATA3,ENSG00000107485,25,Endocrine tissues,Adrenal gland,nTPM,6.1
+GATA3,ENSG00000107485,25,Brain,Amygdala,nTPM,0.0
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,4.4
+GATA3,ENSG00000107485,25,Brain,Basal ganglia,nTPM,0.0
+GATA3,ENSG00000107485,25,Muscle & Vascular tissue,Blood vessel,nTPM,1.3
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,4.4
+GATA3,ENSG00000107485,25,Female tissues,Breast,nTPM,33.5
+GATA3,ENSG00000107485,25,Brain,Cerebellum,nTPM,0.0
+GATA3,ENSG00000107485,25,Brain,Cerebral cortex,nTPM,0.0
+GATA3,ENSG00000107485,25,Female tissues,Cervix,nTPM,6.9
+GATA3,ENSG00000107485,25,Brain,Choroid plexus,nTPM,0.9
+GATA3,ENSG00000107485,25,Gastrointestinal tract,Colon,nTPM,0.7
+GATA3,ENSG00000107485,25,Gastrointestinal tract,Duodenum,nTPM,1.1
+GATA3,ENSG00000107485,25,Female tissues,Endometrium 1,nTPM,0.7
+GATA3,ENSG00000107485,25,Male tissues,Epididymis,nTPM,8.7
+GATA3,ENSG00000107485,25,Proximal digestive tract,Esophagus,nTPM,0.6
+GATA3,ENSG00000107485,25,Female tissues,Fallopian tube,nTPM,0.6
+GATA3,ENSG00000107485,25,Liver & Gallbladder,Gallbladder,nTPM,1.1
+GATA3,ENSG00000107485,25,Muscle & Vascular tissue,Heart muscle,nTPM,2.5
+GATA3,ENSG00000107485,25,Brain,Hippocampal formation,nTPM,0.1
+GATA3,ENSG00000107485,25,Brain,Hypothalamus,nTPM,0.4
+GATA3,ENSG00000107485,25,Kidney & Urinary bladder,Kidney,nTPM,26.9
+GATA3,ENSG00000107485,25,Liver & Gallbladder,Liver,nTPM,1.0
+GATA3,ENSG00000107485,25,Respiratory system,Lung,nTPM,3.3
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,7.8
+GATA3,ENSG00000107485,25,Brain,Midbrain,nTPM,1.1
+GATA3,ENSG00000107485,25,Female tissues,Ovary,nTPM,0.2
+GATA3,ENSG00000107485,25,Pancreas,Pancreas,nTPM,0.3
+GATA3,ENSG00000107485,25,Endocrine tissues,Parathyroid gland,nTPM,111.9
+GATA3,ENSG00000107485,25,Endocrine tissues,Pituitary gland,nTPM,4.8
+GATA3,ENSG00000107485,25,Female tissues,Placenta,nTPM,32.3
+GATA3,ENSG00000107485,25,Male tissues,Prostate,nTPM,11.0
+GATA3,ENSG00000107485,25,Gastrointestinal tract,Rectum,nTPM,0.7
+GATA3,ENSG00000107485,25,Eye,Retina,nTPM,0.0
+GATA3,ENSG00000107485,25,Proximal digestive tract,Salivary gland,nTPM,19.8
+GATA3,ENSG00000107485,25,Male tissues,Seminal vesicle,nTPM,24.9
+GATA3,ENSG00000107485,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,2.4
+GATA3,ENSG00000107485,25,Skin,Skin 1,nTPM,169.0
+GATA3,ENSG00000107485,25,Gastrointestinal tract,Small intestine,nTPM,2.2
+GATA3,ENSG00000107485,25,Muscle & Vascular tissue,Smooth muscle,nTPM,0.5
+GATA3,ENSG00000107485,25,Brain,Spinal cord,nTPM,0.3
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,7.7
+GATA3,ENSG00000107485,25,Gastrointestinal tract,Stomach 1,nTPM,1.6
+GATA3,ENSG00000107485,25,Male tissues,Testis,nTPM,0.2
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,25.3
+GATA3,ENSG00000107485,25,Endocrine tissues,Thyroid gland,nTPM,2.6
+GATA3,ENSG00000107485,25,Proximal digestive tract,Tongue,nTPM,1.3
+GATA3,ENSG00000107485,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,3.6
+GATA3,ENSG00000107485,25,Kidney & Urinary bladder,Urinary bladder,nTPM,35.2
+GATA3,ENSG00000107485,25,Female tissues,Vagina,nTPM,10.8
+JUN,ENSG00000177606,25,Connective & Soft tissue,Adipose tissue,nTPM,191.6
+JUN,ENSG00000177606,25,Endocrine tissues,Adrenal gland,nTPM,87.6
+JUN,ENSG00000177606,25,Brain,Amygdala,nTPM,50.4
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,34.2
+JUN,ENSG00000177606,25,Brain,Basal ganglia,nTPM,34.6
+JUN,ENSG00000177606,25,Muscle & Vascular tissue,Blood vessel,nTPM,105.3
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,122.0
+JUN,ENSG00000177606,25,Female tissues,Breast,nTPM,171.3
+JUN,ENSG00000177606,25,Brain,Cerebellum,nTPM,46.7
+JUN,ENSG00000177606,25,Brain,Cerebral cortex,nTPM,47.0
+JUN,ENSG00000177606,25,Female tissues,Cervix,nTPM,97.4
+JUN,ENSG00000177606,25,Brain,Choroid plexus,nTPM,25.6
+JUN,ENSG00000177606,25,Gastrointestinal tract,Colon,nTPM,97.9
+JUN,ENSG00000177606,25,Gastrointestinal tract,Duodenum,nTPM,32.7
+JUN,ENSG00000177606,25,Female tissues,Endometrium 1,nTPM,90.3
+JUN,ENSG00000177606,25,Male tissues,Epididymis,nTPM,14.9
+JUN,ENSG00000177606,25,Proximal digestive tract,Esophagus,nTPM,72.9
+JUN,ENSG00000177606,25,Female tissues,Fallopian tube,nTPM,148.8
+JUN,ENSG00000177606,25,Liver & Gallbladder,Gallbladder,nTPM,84.1
+JUN,ENSG00000177606,25,Muscle & Vascular tissue,Heart muscle,nTPM,92.8
+JUN,ENSG00000177606,25,Brain,Hippocampal formation,nTPM,48.2
+JUN,ENSG00000177606,25,Brain,Hypothalamus,nTPM,37.0
+JUN,ENSG00000177606,25,Kidney & Urinary bladder,Kidney,nTPM,59.2
+JUN,ENSG00000177606,25,Liver & Gallbladder,Liver,nTPM,103.9
+JUN,ENSG00000177606,25,Respiratory system,Lung,nTPM,106.0
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,48.8
+JUN,ENSG00000177606,25,Brain,Midbrain,nTPM,41.4
+JUN,ENSG00000177606,25,Female tissues,Ovary,nTPM,161.5
+JUN,ENSG00000177606,25,Pancreas,Pancreas,nTPM,154.3
+JUN,ENSG00000177606,25,Endocrine tissues,Parathyroid gland,nTPM,56.2
+JUN,ENSG00000177606,25,Endocrine tissues,Pituitary gland,nTPM,39.2
+JUN,ENSG00000177606,25,Female tissues,Placenta,nTPM,37.6
+JUN,ENSG00000177606,25,Male tissues,Prostate,nTPM,144.0
+JUN,ENSG00000177606,25,Gastrointestinal tract,Rectum,nTPM,51.7
+JUN,ENSG00000177606,25,Eye,Retina,nTPM,27.6
+JUN,ENSG00000177606,25,Proximal digestive tract,Salivary gland,nTPM,145.8
+JUN,ENSG00000177606,25,Male tissues,Seminal vesicle,nTPM,67.6
+JUN,ENSG00000177606,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,83.4
+JUN,ENSG00000177606,25,Skin,Skin 1,nTPM,141.1
+JUN,ENSG00000177606,25,Gastrointestinal tract,Small intestine,nTPM,64.3
+JUN,ENSG00000177606,25,Muscle & Vascular tissue,Smooth muscle,nTPM,105.8
+JUN,ENSG00000177606,25,Brain,Spinal cord,nTPM,37.7
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,58.5
+JUN,ENSG00000177606,25,Gastrointestinal tract,Stomach 1,nTPM,146.4
+JUN,ENSG00000177606,25,Male tissues,Testis,nTPM,15.0
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,67.0
+JUN,ENSG00000177606,25,Endocrine tissues,Thyroid gland,nTPM,178.0
+JUN,ENSG00000177606,25,Proximal digestive tract,Tongue,nTPM,148.4
+JUN,ENSG00000177606,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,5.1
+JUN,ENSG00000177606,25,Kidney & Urinary bladder,Urinary bladder,nTPM,84.5
+JUN,ENSG00000177606,25,Female tissues,Vagina,nTPM,97.4
+MET,ENSG00000105976,25,Connective & Soft tissue,Adipose tissue,nTPM,9.5
+MET,ENSG00000105976,25,Endocrine tissues,Adrenal gland,nTPM,0.7
+MET,ENSG00000105976,25,Brain,Amygdala,nTPM,0.6
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,3.2
+MET,ENSG00000105976,25,Brain,Basal ganglia,nTPM,0.7
+MET,ENSG00000105976,25,Muscle & Vascular tissue,Blood vessel,nTPM,3.4
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,7.0
+MET,ENSG00000105976,25,Female tissues,Breast,nTPM,8.2
+MET,ENSG00000105976,25,Brain,Cerebellum,nTPM,0.1
+MET,ENSG00000105976,25,Brain,Cerebral cortex,nTPM,5.2
+MET,ENSG00000105976,25,Female tissues,Cervix,nTPM,12.3
+MET,ENSG00000105976,25,Brain,Choroid plexus,nTPM,4.8
+MET,ENSG00000105976,25,Gastrointestinal tract,Colon,nTPM,9.1
+MET,ENSG00000105976,25,Gastrointestinal tract,Duodenum,nTPM,6.1
+MET,ENSG00000105976,25,Female tissues,Endometrium 1,nTPM,6.0
+MET,ENSG00000105976,25,Male tissues,Epididymis,nTPM,2.4
+MET,ENSG00000105976,25,Proximal digestive tract,Esophagus,nTPM,5.8
+MET,ENSG00000105976,25,Female tissues,Fallopian tube,nTPM,4.4
+MET,ENSG00000105976,25,Liver & Gallbladder,Gallbladder,nTPM,11.1
+MET,ENSG00000105976,25,Muscle & Vascular tissue,Heart muscle,nTPM,5.8
+MET,ENSG00000105976,25,Brain,Hippocampal formation,nTPM,3.0
+MET,ENSG00000105976,25,Brain,Hypothalamus,nTPM,0.6
+MET,ENSG00000105976,25,Kidney & Urinary bladder,Kidney,nTPM,18.7
+MET,ENSG00000105976,25,Liver & Gallbladder,Liver,nTPM,40.1
+MET,ENSG00000105976,25,Respiratory system,Lung,nTPM,19.1
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,2.1
+MET,ENSG00000105976,25,Brain,Midbrain,nTPM,0.9
+MET,ENSG00000105976,25,Female tissues,Ovary,nTPM,0.6
+MET,ENSG00000105976,25,Pancreas,Pancreas,nTPM,6.1
+MET,ENSG00000105976,25,Endocrine tissues,Parathyroid gland,nTPM,0.7
+MET,ENSG00000105976,25,Endocrine tissues,Pituitary gland,nTPM,3.5
+MET,ENSG00000105976,25,Female tissues,Placenta,nTPM,24.8
+MET,ENSG00000105976,25,Male tissues,Prostate,nTPM,6.3
+MET,ENSG00000105976,25,Gastrointestinal tract,Rectum,nTPM,8.7
+MET,ENSG00000105976,25,Eye,Retina,nTPM,3.6
+MET,ENSG00000105976,25,Proximal digestive tract,Salivary gland,nTPM,8.0
+MET,ENSG00000105976,25,Male tissues,Seminal vesicle,nTPM,10.6
+MET,ENSG00000105976,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,13.4
+MET,ENSG00000105976,25,Skin,Skin 1,nTPM,7.2
+MET,ENSG00000105976,25,Gastrointestinal tract,Small intestine,nTPM,7.7
+MET,ENSG00000105976,25,Muscle & Vascular tissue,Smooth muscle,nTPM,5.3
+MET,ENSG00000105976,25,Brain,Spinal cord,nTPM,1.0
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,5.7
+MET,ENSG00000105976,25,Gastrointestinal tract,Stomach 1,nTPM,14.5
+MET,ENSG00000105976,25,Male tissues,Testis,nTPM,0.5
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,3.5
+MET,ENSG00000105976,25,Endocrine tissues,Thyroid gland,nTPM,16.5
+MET,ENSG00000105976,25,Proximal digestive tract,Tongue,nTPM,10.3
+MET,ENSG00000105976,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,3.0
+MET,ENSG00000105976,25,Kidney & Urinary bladder,Urinary bladder,nTPM,17.2
+MET,ENSG00000105976,25,Female tissues,Vagina,nTPM,4.3
+MMP14,ENSG00000157227,25,Connective & Soft tissue,Adipose tissue,nTPM,143.0
+MMP14,ENSG00000157227,25,Endocrine tissues,Adrenal gland,nTPM,28.1
+MMP14,ENSG00000157227,25,Brain,Amygdala,nTPM,3.6
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,56.5
+MMP14,ENSG00000157227,25,Brain,Basal ganglia,nTPM,5.4
+MMP14,ENSG00000157227,25,Muscle & Vascular tissue,Blood vessel,nTPM,124.8
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,1.5
+MMP14,ENSG00000157227,25,Female tissues,Breast,nTPM,95.2
+MMP14,ENSG00000157227,25,Brain,Cerebellum,nTPM,2.8
+MMP14,ENSG00000157227,25,Brain,Cerebral cortex,nTPM,8.2
+MMP14,ENSG00000157227,25,Female tissues,Cervix,nTPM,139.0
+MMP14,ENSG00000157227,25,Brain,Choroid plexus,nTPM,93.6
+MMP14,ENSG00000157227,25,Gastrointestinal tract,Colon,nTPM,70.9
+MMP14,ENSG00000157227,25,Gastrointestinal tract,Duodenum,nTPM,37.1
+MMP14,ENSG00000157227,25,Female tissues,Endometrium 1,nTPM,149.2
+MMP14,ENSG00000157227,25,Male tissues,Epididymis,nTPM,17.9
+MMP14,ENSG00000157227,25,Proximal digestive tract,Esophagus,nTPM,83.7
+MMP14,ENSG00000157227,25,Female tissues,Fallopian tube,nTPM,75.1
+MMP14,ENSG00000157227,25,Liver & Gallbladder,Gallbladder,nTPM,138.8
+MMP14,ENSG00000157227,25,Muscle & Vascular tissue,Heart muscle,nTPM,38.4
+MMP14,ENSG00000157227,25,Brain,Hippocampal formation,nTPM,4.7
+MMP14,ENSG00000157227,25,Brain,Hypothalamus,nTPM,3.8
+MMP14,ENSG00000157227,25,Kidney & Urinary bladder,Kidney,nTPM,30.8
+MMP14,ENSG00000157227,25,Liver & Gallbladder,Liver,nTPM,11.9
+MMP14,ENSG00000157227,25,Respiratory system,Lung,nTPM,86.6
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,23.2
+MMP14,ENSG00000157227,25,Brain,Midbrain,nTPM,5.2
+MMP14,ENSG00000157227,25,Female tissues,Ovary,nTPM,106.5
+MMP14,ENSG00000157227,25,Pancreas,Pancreas,nTPM,32.6
+MMP14,ENSG00000157227,25,Endocrine tissues,Parathyroid gland,nTPM,61.4
+MMP14,ENSG00000157227,25,Endocrine tissues,Pituitary gland,nTPM,13.0
+MMP14,ENSG00000157227,25,Female tissues,Placenta,nTPM,111.7
+MMP14,ENSG00000157227,25,Male tissues,Prostate,nTPM,53.7
+MMP14,ENSG00000157227,25,Gastrointestinal tract,Rectum,nTPM,34.4
+MMP14,ENSG00000157227,25,Eye,Retina,nTPM,8.9
+MMP14,ENSG00000157227,25,Proximal digestive tract,Salivary gland,nTPM,71.4
+MMP14,ENSG00000157227,25,Male tissues,Seminal vesicle,nTPM,42.9
+MMP14,ENSG00000157227,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,17.5
+MMP14,ENSG00000157227,25,Skin,Skin 1,nTPM,118.1
+MMP14,ENSG00000157227,25,Gastrointestinal tract,Small intestine,nTPM,64.8
+MMP14,ENSG00000157227,25,Muscle & Vascular tissue,Smooth muscle,nTPM,99.0
+MMP14,ENSG00000157227,25,Brain,Spinal cord,nTPM,6.1
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,27.0
+MMP14,ENSG00000157227,25,Gastrointestinal tract,Stomach 1,nTPM,53.9
+MMP14,ENSG00000157227,25,Male tissues,Testis,nTPM,10.9
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,12.1
+MMP14,ENSG00000157227,25,Endocrine tissues,Thyroid gland,nTPM,46.8
+MMP14,ENSG00000157227,25,Proximal digestive tract,Tongue,nTPM,15.1
+MMP14,ENSG00000157227,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,28.9
+MMP14,ENSG00000157227,25,Kidney & Urinary bladder,Urinary bladder,nTPM,98.0
+MMP14,ENSG00000157227,25,Female tissues,Vagina,nTPM,105.0
+MYBL2,ENSG00000101057,25,Connective & Soft tissue,Adipose tissue,nTPM,1.5
+MYBL2,ENSG00000101057,25,Endocrine tissues,Adrenal gland,nTPM,0.5
+MYBL2,ENSG00000101057,25,Brain,Amygdala,nTPM,0.0
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,22.9
+MYBL2,ENSG00000101057,25,Brain,Basal ganglia,nTPM,0.0
+MYBL2,ENSG00000101057,25,Muscle & Vascular tissue,Blood vessel,nTPM,0.5
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,86.6
+MYBL2,ENSG00000101057,25,Female tissues,Breast,nTPM,1.5
+MYBL2,ENSG00000101057,25,Brain,Cerebellum,nTPM,0.0
+MYBL2,ENSG00000101057,25,Brain,Cerebral cortex,nTPM,0.5
+MYBL2,ENSG00000101057,25,Female tissues,Cervix,nTPM,1.9
+MYBL2,ENSG00000101057,25,Brain,Choroid plexus,nTPM,0.8
+MYBL2,ENSG00000101057,25,Gastrointestinal tract,Colon,nTPM,8.0
+MYBL2,ENSG00000101057,25,Gastrointestinal tract,Duodenum,nTPM,6.6
+MYBL2,ENSG00000101057,25,Female tissues,Endometrium 1,nTPM,1.3
+MYBL2,ENSG00000101057,25,Male tissues,Epididymis,nTPM,0.1
+MYBL2,ENSG00000101057,25,Proximal digestive tract,Esophagus,nTPM,9.6
+MYBL2,ENSG00000101057,25,Female tissues,Fallopian tube,nTPM,0.4
+MYBL2,ENSG00000101057,25,Liver & Gallbladder,Gallbladder,nTPM,0.9
+MYBL2,ENSG00000101057,25,Muscle & Vascular tissue,Heart muscle,nTPM,0.4
+MYBL2,ENSG00000101057,25,Brain,Hippocampal formation,nTPM,0.0
+MYBL2,ENSG00000101057,25,Brain,Hypothalamus,nTPM,0.0
+MYBL2,ENSG00000101057,25,Kidney & Urinary bladder,Kidney,nTPM,0.5
+MYBL2,ENSG00000101057,25,Liver & Gallbladder,Liver,nTPM,1.1
+MYBL2,ENSG00000101057,25,Respiratory system,Lung,nTPM,1.7
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,51.8
+MYBL2,ENSG00000101057,25,Brain,Midbrain,nTPM,0.1
+MYBL2,ENSG00000101057,25,Female tissues,Ovary,nTPM,2.4
+MYBL2,ENSG00000101057,25,Pancreas,Pancreas,nTPM,10.6
+MYBL2,ENSG00000101057,25,Endocrine tissues,Parathyroid gland,nTPM,0.1
+MYBL2,ENSG00000101057,25,Endocrine tissues,Pituitary gland,nTPM,0.2
+MYBL2,ENSG00000101057,25,Female tissues,Placenta,nTPM,5.4
+MYBL2,ENSG00000101057,25,Male tissues,Prostate,nTPM,0.4
+MYBL2,ENSG00000101057,25,Gastrointestinal tract,Rectum,nTPM,6.5
+MYBL2,ENSG00000101057,25,Eye,Retina,nTPM,0.0
+MYBL2,ENSG00000101057,25,Proximal digestive tract,Salivary gland,nTPM,1.5
+MYBL2,ENSG00000101057,25,Male tissues,Seminal vesicle,nTPM,0.2
+MYBL2,ENSG00000101057,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,0.1
+MYBL2,ENSG00000101057,25,Skin,Skin 1,nTPM,4.0
+MYBL2,ENSG00000101057,25,Gastrointestinal tract,Small intestine,nTPM,7.4
+MYBL2,ENSG00000101057,25,Muscle & Vascular tissue,Smooth muscle,nTPM,1.9
+MYBL2,ENSG00000101057,25,Brain,Spinal cord,nTPM,0.1
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,26.5
+MYBL2,ENSG00000101057,25,Gastrointestinal tract,Stomach 1,nTPM,5.7
+MYBL2,ENSG00000101057,25,Male tissues,Testis,nTPM,14.7
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,31.0
+MYBL2,ENSG00000101057,25,Endocrine tissues,Thyroid gland,nTPM,0.6
+MYBL2,ENSG00000101057,25,Proximal digestive tract,Tongue,nTPM,0.0
+MYBL2,ENSG00000101057,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,50.1
+MYBL2,ENSG00000101057,25,Kidney & Urinary bladder,Urinary bladder,nTPM,3.3
+MYBL2,ENSG00000101057,25,Female tissues,Vagina,nTPM,2.4
+NFKB1,ENSG00000109320,25,Connective & Soft tissue,Adipose tissue,nTPM,18.5
+NFKB1,ENSG00000109320,25,Endocrine tissues,Adrenal gland,nTPM,13.9
+NFKB1,ENSG00000109320,25,Brain,Amygdala,nTPM,1.7
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,23.7
+NFKB1,ENSG00000109320,25,Brain,Basal ganglia,nTPM,2.0
+NFKB1,ENSG00000109320,25,Muscle & Vascular tissue,Blood vessel,nTPM,12.2
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,22.6
+NFKB1,ENSG00000109320,25,Female tissues,Breast,nTPM,13.8
+NFKB1,ENSG00000109320,25,Brain,Cerebellum,nTPM,3.9
+NFKB1,ENSG00000109320,25,Brain,Cerebral cortex,nTPM,3.1
+NFKB1,ENSG00000109320,25,Female tissues,Cervix,nTPM,19.8
+NFKB1,ENSG00000109320,25,Brain,Choroid plexus,nTPM,1.9
+NFKB1,ENSG00000109320,25,Gastrointestinal tract,Colon,nTPM,16.0
+NFKB1,ENSG00000109320,25,Gastrointestinal tract,Duodenum,nTPM,11.6
+NFKB1,ENSG00000109320,25,Female tissues,Endometrium 1,nTPM,14.3
+NFKB1,ENSG00000109320,25,Male tissues,Epididymis,nTPM,5.5
+NFKB1,ENSG00000109320,25,Proximal digestive tract,Esophagus,nTPM,18.2
+NFKB1,ENSG00000109320,25,Female tissues,Fallopian tube,nTPM,15.6
+NFKB1,ENSG00000109320,25,Liver & Gallbladder,Gallbladder,nTPM,18.9
+NFKB1,ENSG00000109320,25,Muscle & Vascular tissue,Heart muscle,nTPM,9.4
+NFKB1,ENSG00000109320,25,Brain,Hippocampal formation,nTPM,2.1
+NFKB1,ENSG00000109320,25,Brain,Hypothalamus,nTPM,1.6
+NFKB1,ENSG00000109320,25,Kidney & Urinary bladder,Kidney,nTPM,10.5
+NFKB1,ENSG00000109320,25,Liver & Gallbladder,Liver,nTPM,16.7
+NFKB1,ENSG00000109320,25,Respiratory system,Lung,nTPM,17.1
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,29.1
+NFKB1,ENSG00000109320,25,Brain,Midbrain,nTPM,2.1
+NFKB1,ENSG00000109320,25,Female tissues,Ovary,nTPM,14.0
+NFKB1,ENSG00000109320,25,Pancreas,Pancreas,nTPM,13.0
+NFKB1,ENSG00000109320,25,Endocrine tissues,Parathyroid gland,nTPM,9.4
+NFKB1,ENSG00000109320,25,Endocrine tissues,Pituitary gland,nTPM,2.8
+NFKB1,ENSG00000109320,25,Female tissues,Placenta,nTPM,19.4
+NFKB1,ENSG00000109320,25,Male tissues,Prostate,nTPM,13.5
+NFKB1,ENSG00000109320,25,Gastrointestinal tract,Rectum,nTPM,20.7
+NFKB1,ENSG00000109320,25,Eye,Retina,nTPM,2.1
+NFKB1,ENSG00000109320,25,Proximal digestive tract,Salivary gland,nTPM,13.7
+NFKB1,ENSG00000109320,25,Male tissues,Seminal vesicle,nTPM,15.1
+NFKB1,ENSG00000109320,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,10.3
+NFKB1,ENSG00000109320,25,Skin,Skin 1,nTPM,17.2
+NFKB1,ENSG00000109320,25,Gastrointestinal tract,Small intestine,nTPM,13.5
+NFKB1,ENSG00000109320,25,Muscle & Vascular tissue,Smooth muscle,nTPM,17.4
+NFKB1,ENSG00000109320,25,Brain,Spinal cord,nTPM,2.8
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,19.1
+NFKB1,ENSG00000109320,25,Gastrointestinal tract,Stomach 1,nTPM,14.3
+NFKB1,ENSG00000109320,25,Male tissues,Testis,nTPM,6.5
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,33.5
+NFKB1,ENSG00000109320,25,Endocrine tissues,Thyroid gland,nTPM,13.5
+NFKB1,ENSG00000109320,25,Proximal digestive tract,Tongue,nTPM,11.0
+NFKB1,ENSG00000109320,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,38.0
+NFKB1,ENSG00000109320,25,Kidney & Urinary bladder,Urinary bladder,nTPM,47.6
+NFKB1,ENSG00000109320,25,Female tissues,Vagina,nTPM,9.3
+PDGFRB,ENSG00000113721,25,Connective & Soft tissue,Adipose tissue,nTPM,164.5
+PDGFRB,ENSG00000113721,25,Endocrine tissues,Adrenal gland,nTPM,24.3
+PDGFRB,ENSG00000113721,25,Brain,Amygdala,nTPM,18.2
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,25.9
+PDGFRB,ENSG00000113721,25,Brain,Basal ganglia,nTPM,23.8
+PDGFRB,ENSG00000113721,25,Muscle & Vascular tissue,Blood vessel,nTPM,190.0
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,0.6
+PDGFRB,ENSG00000113721,25,Female tissues,Breast,nTPM,102.3
+PDGFRB,ENSG00000113721,25,Brain,Cerebellum,nTPM,7.8
+PDGFRB,ENSG00000113721,25,Brain,Cerebral cortex,nTPM,22.1
+PDGFRB,ENSG00000113721,25,Female tissues,Cervix,nTPM,139.2
+PDGFRB,ENSG00000113721,25,Brain,Choroid plexus,nTPM,19.8
+PDGFRB,ENSG00000113721,25,Gastrointestinal tract,Colon,nTPM,40.6
+PDGFRB,ENSG00000113721,25,Gastrointestinal tract,Duodenum,nTPM,11.2
+PDGFRB,ENSG00000113721,25,Female tissues,Endometrium 1,nTPM,98.7
+PDGFRB,ENSG00000113721,25,Male tissues,Epididymis,nTPM,22.9
+PDGFRB,ENSG00000113721,25,Proximal digestive tract,Esophagus,nTPM,23.6
+PDGFRB,ENSG00000113721,25,Female tissues,Fallopian tube,nTPM,86.6
+PDGFRB,ENSG00000113721,25,Liver & Gallbladder,Gallbladder,nTPM,116.6
+PDGFRB,ENSG00000113721,25,Muscle & Vascular tissue,Heart muscle,nTPM,73.5
+PDGFRB,ENSG00000113721,25,Brain,Hippocampal formation,nTPM,14.1
+PDGFRB,ENSG00000113721,25,Brain,Hypothalamus,nTPM,11.7
+PDGFRB,ENSG00000113721,25,Kidney & Urinary bladder,Kidney,nTPM,47.1
+PDGFRB,ENSG00000113721,25,Liver & Gallbladder,Liver,nTPM,13.3
+PDGFRB,ENSG00000113721,25,Respiratory system,Lung,nTPM,93.2
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,25.8
+PDGFRB,ENSG00000113721,25,Brain,Midbrain,nTPM,17.0
+PDGFRB,ENSG00000113721,25,Female tissues,Ovary,nTPM,99.6
+PDGFRB,ENSG00000113721,25,Pancreas,Pancreas,nTPM,20.0
+PDGFRB,ENSG00000113721,25,Endocrine tissues,Parathyroid gland,nTPM,20.6
+PDGFRB,ENSG00000113721,25,Endocrine tissues,Pituitary gland,nTPM,22.4
+PDGFRB,ENSG00000113721,25,Female tissues,Placenta,nTPM,106.4
+PDGFRB,ENSG00000113721,25,Male tissues,Prostate,nTPM,53.9
+PDGFRB,ENSG00000113721,25,Gastrointestinal tract,Rectum,nTPM,13.3
+PDGFRB,ENSG00000113721,25,Eye,Retina,nTPM,5.8
+PDGFRB,ENSG00000113721,25,Proximal digestive tract,Salivary gland,nTPM,32.5
+PDGFRB,ENSG00000113721,25,Male tissues,Seminal vesicle,nTPM,40.7
+PDGFRB,ENSG00000113721,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,36.4
+PDGFRB,ENSG00000113721,25,Skin,Skin 1,nTPM,62.2
+PDGFRB,ENSG00000113721,25,Gastrointestinal tract,Small intestine,nTPM,36.1
+PDGFRB,ENSG00000113721,25,Muscle & Vascular tissue,Smooth muscle,nTPM,64.4
+PDGFRB,ENSG00000113721,25,Brain,Spinal cord,nTPM,9.4
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,39.4
+PDGFRB,ENSG00000113721,25,Gastrointestinal tract,Stomach 1,nTPM,27.2
+PDGFRB,ENSG00000113721,25,Male tissues,Testis,nTPM,18.0
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,8.1
+PDGFRB,ENSG00000113721,25,Endocrine tissues,Thyroid gland,nTPM,63.8
+PDGFRB,ENSG00000113721,25,Proximal digestive tract,Tongue,nTPM,41.2
+PDGFRB,ENSG00000113721,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,12.9
+PDGFRB,ENSG00000113721,25,Kidney & Urinary bladder,Urinary bladder,nTPM,54.1
+PDGFRB,ENSG00000113721,25,Female tissues,Vagina,nTPM,94.4
+PLAU,ENSG00000122861,25,Connective & Soft tissue,Adipose tissue,nTPM,54.4
+PLAU,ENSG00000122861,25,Endocrine tissues,Adrenal gland,nTPM,4.5
+PLAU,ENSG00000122861,25,Brain,Amygdala,nTPM,1.2
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,39.4
+PLAU,ENSG00000122861,25,Brain,Basal ganglia,nTPM,1.9
+PLAU,ENSG00000122861,25,Muscle & Vascular tissue,Blood vessel,nTPM,22.8
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,34.2
+PLAU,ENSG00000122861,25,Female tissues,Breast,nTPM,17.1
+PLAU,ENSG00000122861,25,Brain,Cerebellum,nTPM,0.4
+PLAU,ENSG00000122861,25,Brain,Cerebral cortex,nTPM,2.7
+PLAU,ENSG00000122861,25,Female tissues,Cervix,nTPM,13.9
+PLAU,ENSG00000122861,25,Brain,Choroid plexus,nTPM,10.1
+PLAU,ENSG00000122861,25,Gastrointestinal tract,Colon,nTPM,13.5
+PLAU,ENSG00000122861,25,Gastrointestinal tract,Duodenum,nTPM,11.3
+PLAU,ENSG00000122861,25,Female tissues,Endometrium 1,nTPM,20.6
+PLAU,ENSG00000122861,25,Male tissues,Epididymis,nTPM,15.8
+PLAU,ENSG00000122861,25,Proximal digestive tract,Esophagus,nTPM,14.1
+PLAU,ENSG00000122861,25,Female tissues,Fallopian tube,nTPM,12.8
+PLAU,ENSG00000122861,25,Liver & Gallbladder,Gallbladder,nTPM,26.7
+PLAU,ENSG00000122861,25,Muscle & Vascular tissue,Heart muscle,nTPM,23.1
+PLAU,ENSG00000122861,25,Brain,Hippocampal formation,nTPM,1.4
+PLAU,ENSG00000122861,25,Brain,Hypothalamus,nTPM,1.5
+PLAU,ENSG00000122861,25,Kidney & Urinary bladder,Kidney,nTPM,93.0
+PLAU,ENSG00000122861,25,Liver & Gallbladder,Liver,nTPM,4.6
+PLAU,ENSG00000122861,25,Respiratory system,Lung,nTPM,20.7
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,13.4
+PLAU,ENSG00000122861,25,Brain,Midbrain,nTPM,1.9
+PLAU,ENSG00000122861,25,Female tissues,Ovary,nTPM,2.8
+PLAU,ENSG00000122861,25,Pancreas,Pancreas,nTPM,9.5
+PLAU,ENSG00000122861,25,Endocrine tissues,Parathyroid gland,nTPM,7.8
+PLAU,ENSG00000122861,25,Endocrine tissues,Pituitary gland,nTPM,2.8
+PLAU,ENSG00000122861,25,Female tissues,Placenta,nTPM,34.3
+PLAU,ENSG00000122861,25,Male tissues,Prostate,nTPM,8.6
+PLAU,ENSG00000122861,25,Gastrointestinal tract,Rectum,nTPM,17.1
+PLAU,ENSG00000122861,25,Eye,Retina,nTPM,0.3
+PLAU,ENSG00000122861,25,Proximal digestive tract,Salivary gland,nTPM,16.4
+PLAU,ENSG00000122861,25,Male tissues,Seminal vesicle,nTPM,12.9
+PLAU,ENSG00000122861,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,10.6
+PLAU,ENSG00000122861,25,Skin,Skin 1,nTPM,24.1
+PLAU,ENSG00000122861,25,Gastrointestinal tract,Small intestine,nTPM,14.3
+PLAU,ENSG00000122861,25,Muscle & Vascular tissue,Smooth muscle,nTPM,21.8
+PLAU,ENSG00000122861,25,Brain,Spinal cord,nTPM,3.8
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,38.1
+PLAU,ENSG00000122861,25,Gastrointestinal tract,Stomach 1,nTPM,15.4
+PLAU,ENSG00000122861,25,Male tissues,Testis,nTPM,3.5
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,5.5
+PLAU,ENSG00000122861,25,Endocrine tissues,Thyroid gland,nTPM,17.4
+PLAU,ENSG00000122861,25,Proximal digestive tract,Tongue,nTPM,17.6
+PLAU,ENSG00000122861,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,6.8
+PLAU,ENSG00000122861,25,Kidney & Urinary bladder,Urinary bladder,nTPM,119.5
+PLAU,ENSG00000122861,25,Female tissues,Vagina,nTPM,16.5
+POSTN,ENSG00000133110,25,Connective & Soft tissue,Adipose tissue,nTPM,66.7
+POSTN,ENSG00000133110,25,Endocrine tissues,Adrenal gland,nTPM,4.9
+POSTN,ENSG00000133110,25,Brain,Amygdala,nTPM,0.3
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,22.5
+POSTN,ENSG00000133110,25,Brain,Basal ganglia,nTPM,0.0
+POSTN,ENSG00000133110,25,Muscle & Vascular tissue,Blood vessel,nTPM,126.8
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,0.3
+POSTN,ENSG00000133110,25,Female tissues,Breast,nTPM,78.4
+POSTN,ENSG00000133110,25,Brain,Cerebellum,nTPM,0.0
+POSTN,ENSG00000133110,25,Brain,Cerebral cortex,nTPM,0.6
+POSTN,ENSG00000133110,25,Female tissues,Cervix,nTPM,19.1
+POSTN,ENSG00000133110,25,Brain,Choroid plexus,nTPM,3.1
+POSTN,ENSG00000133110,25,Gastrointestinal tract,Colon,nTPM,57.5
+POSTN,ENSG00000133110,25,Gastrointestinal tract,Duodenum,nTPM,4.8
+POSTN,ENSG00000133110,25,Female tissues,Endometrium 1,nTPM,49.8
+POSTN,ENSG00000133110,25,Male tissues,Epididymis,nTPM,12.3
+POSTN,ENSG00000133110,25,Proximal digestive tract,Esophagus,nTPM,19.2
+POSTN,ENSG00000133110,25,Female tissues,Fallopian tube,nTPM,78.6
+POSTN,ENSG00000133110,25,Liver & Gallbladder,Gallbladder,nTPM,60.2
+POSTN,ENSG00000133110,25,Muscle & Vascular tissue,Heart muscle,nTPM,78.0
+POSTN,ENSG00000133110,25,Brain,Hippocampal formation,nTPM,0.7
+POSTN,ENSG00000133110,25,Brain,Hypothalamus,nTPM,0.1
+POSTN,ENSG00000133110,25,Kidney & Urinary bladder,Kidney,nTPM,24.5
+POSTN,ENSG00000133110,25,Liver & Gallbladder,Liver,nTPM,12.1
+POSTN,ENSG00000133110,25,Respiratory system,Lung,nTPM,42.4
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,12.0
+POSTN,ENSG00000133110,25,Brain,Midbrain,nTPM,0.1
+POSTN,ENSG00000133110,25,Female tissues,Ovary,nTPM,8.4
+POSTN,ENSG00000133110,25,Pancreas,Pancreas,nTPM,2.1
+POSTN,ENSG00000133110,25,Endocrine tissues,Parathyroid gland,nTPM,20.3
+POSTN,ENSG00000133110,25,Endocrine tissues,Pituitary gland,nTPM,2.2
+POSTN,ENSG00000133110,25,Female tissues,Placenta,nTPM,57.3
+POSTN,ENSG00000133110,25,Male tissues,Prostate,nTPM,15.1
+POSTN,ENSG00000133110,25,Gastrointestinal tract,Rectum,nTPM,79.8
+POSTN,ENSG00000133110,25,Eye,Retina,nTPM,0.0
+POSTN,ENSG00000133110,25,Proximal digestive tract,Salivary gland,nTPM,15.7
+POSTN,ENSG00000133110,25,Male tissues,Seminal vesicle,nTPM,42.2
+POSTN,ENSG00000133110,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,10.9
+POSTN,ENSG00000133110,25,Skin,Skin 1,nTPM,195.7
+POSTN,ENSG00000133110,25,Gastrointestinal tract,Small intestine,nTPM,14.2
+POSTN,ENSG00000133110,25,Muscle & Vascular tissue,Smooth muscle,nTPM,62.2
+POSTN,ENSG00000133110,25,Brain,Spinal cord,nTPM,0.4
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,1.0
+POSTN,ENSG00000133110,25,Gastrointestinal tract,Stomach 1,nTPM,165.0
+POSTN,ENSG00000133110,25,Male tissues,Testis,nTPM,3.0
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,5.4
+POSTN,ENSG00000133110,25,Endocrine tissues,Thyroid gland,nTPM,17.9
+POSTN,ENSG00000133110,25,Proximal digestive tract,Tongue,nTPM,27.9
+POSTN,ENSG00000133110,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,3.6
+POSTN,ENSG00000133110,25,Kidney & Urinary bladder,Urinary bladder,nTPM,85.6
+POSTN,ENSG00000133110,25,Female tissues,Vagina,nTPM,10.0
+RELA,ENSG00000173039,25,Connective & Soft tissue,Adipose tissue,nTPM,68.6
+RELA,ENSG00000173039,25,Endocrine tissues,Adrenal gland,nTPM,43.5
+RELA,ENSG00000173039,25,Brain,Amygdala,nTPM,26.0
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,36.3
+RELA,ENSG00000173039,25,Brain,Basal ganglia,nTPM,27.3
+RELA,ENSG00000173039,25,Muscle & Vascular tissue,Blood vessel,nTPM,88.5
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,75.2
+RELA,ENSG00000173039,25,Female tissues,Breast,nTPM,64.5
+RELA,ENSG00000173039,25,Brain,Cerebellum,nTPM,33.3
+RELA,ENSG00000173039,25,Brain,Cerebral cortex,nTPM,28.9
+RELA,ENSG00000173039,25,Female tissues,Cervix,nTPM,55.6
+RELA,ENSG00000173039,25,Brain,Choroid plexus,nTPM,29.0
+RELA,ENSG00000173039,25,Gastrointestinal tract,Colon,nTPM,63.2
+RELA,ENSG00000173039,25,Gastrointestinal tract,Duodenum,nTPM,29.4
+RELA,ENSG00000173039,25,Female tissues,Endometrium 1,nTPM,61.1
+RELA,ENSG00000173039,25,Male tissues,Epididymis,nTPM,21.0
+RELA,ENSG00000173039,25,Proximal digestive tract,Esophagus,nTPM,61.9
+RELA,ENSG00000173039,25,Female tissues,Fallopian tube,nTPM,59.0
+RELA,ENSG00000173039,25,Liver & Gallbladder,Gallbladder,nTPM,32.5
+RELA,ENSG00000173039,25,Muscle & Vascular tissue,Heart muscle,nTPM,49.7
+RELA,ENSG00000173039,25,Brain,Hippocampal formation,nTPM,26.1
+RELA,ENSG00000173039,25,Brain,Hypothalamus,nTPM,22.1
+RELA,ENSG00000173039,25,Kidney & Urinary bladder,Kidney,nTPM,47.6
+RELA,ENSG00000173039,25,Liver & Gallbladder,Liver,nTPM,66.7
+RELA,ENSG00000173039,25,Respiratory system,Lung,nTPM,71.0
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,37.1
+RELA,ENSG00000173039,25,Brain,Midbrain,nTPM,28.5
+RELA,ENSG00000173039,25,Female tissues,Ovary,nTPM,66.1
+RELA,ENSG00000173039,25,Pancreas,Pancreas,nTPM,49.6
+RELA,ENSG00000173039,25,Endocrine tissues,Parathyroid gland,nTPM,24.3
+RELA,ENSG00000173039,25,Endocrine tissues,Pituitary gland,nTPM,32.7
+RELA,ENSG00000173039,25,Female tissues,Placenta,nTPM,26.1
+RELA,ENSG00000173039,25,Male tissues,Prostate,nTPM,55.2
+RELA,ENSG00000173039,25,Gastrointestinal tract,Rectum,nTPM,22.3
+RELA,ENSG00000173039,25,Eye,Retina,nTPM,9.1
+RELA,ENSG00000173039,25,Proximal digestive tract,Salivary gland,nTPM,55.5
+RELA,ENSG00000173039,25,Male tissues,Seminal vesicle,nTPM,33.3
+RELA,ENSG00000173039,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,75.9
+RELA,ENSG00000173039,25,Skin,Skin 1,nTPM,67.3
+RELA,ENSG00000173039,25,Gastrointestinal tract,Small intestine,nTPM,49.6
+RELA,ENSG00000173039,25,Muscle & Vascular tissue,Smooth muscle,nTPM,37.2
+RELA,ENSG00000173039,25,Brain,Spinal cord,nTPM,29.2
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,60.4
+RELA,ENSG00000173039,25,Gastrointestinal tract,Stomach 1,nTPM,57.4
+RELA,ENSG00000173039,25,Male tissues,Testis,nTPM,24.7
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,28.2
+RELA,ENSG00000173039,25,Endocrine tissues,Thyroid gland,nTPM,45.6
+RELA,ENSG00000173039,25,Proximal digestive tract,Tongue,nTPM,25.1
+RELA,ENSG00000173039,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,34.4
+RELA,ENSG00000173039,25,Kidney & Urinary bladder,Urinary bladder,nTPM,60.6
+RELA,ENSG00000173039,25,Female tissues,Vagina,nTPM,60.2
+SP1,ENSG00000185591,25,Connective & Soft tissue,Adipose tissue,nTPM,21.4
+SP1,ENSG00000185591,25,Endocrine tissues,Adrenal gland,nTPM,16.7
+SP1,ENSG00000185591,25,Brain,Amygdala,nTPM,6.3
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,21.8
+SP1,ENSG00000185591,25,Brain,Basal ganglia,nTPM,6.9
+SP1,ENSG00000185591,25,Muscle & Vascular tissue,Blood vessel,nTPM,19.9
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,28.2
+SP1,ENSG00000185591,25,Female tissues,Breast,nTPM,24.6
+SP1,ENSG00000185591,25,Brain,Cerebellum,nTPM,15.1
+SP1,ENSG00000185591,25,Brain,Cerebral cortex,nTPM,8.8
+SP1,ENSG00000185591,25,Female tissues,Cervix,nTPM,22.3
+SP1,ENSG00000185591,25,Brain,Choroid plexus,nTPM,7.3
+SP1,ENSG00000185591,25,Gastrointestinal tract,Colon,nTPM,23.3
+SP1,ENSG00000185591,25,Gastrointestinal tract,Duodenum,nTPM,29.1
+SP1,ENSG00000185591,25,Female tissues,Endometrium 1,nTPM,27.9
+SP1,ENSG00000185591,25,Male tissues,Epididymis,nTPM,19.9
+SP1,ENSG00000185591,25,Proximal digestive tract,Esophagus,nTPM,35.0
+SP1,ENSG00000185591,25,Female tissues,Fallopian tube,nTPM,23.9
+SP1,ENSG00000185591,25,Liver & Gallbladder,Gallbladder,nTPM,24.1
+SP1,ENSG00000185591,25,Muscle & Vascular tissue,Heart muscle,nTPM,12.2
+SP1,ENSG00000185591,25,Brain,Hippocampal formation,nTPM,6.8
+SP1,ENSG00000185591,25,Brain,Hypothalamus,nTPM,5.8
+SP1,ENSG00000185591,25,Kidney & Urinary bladder,Kidney,nTPM,18.9
+SP1,ENSG00000185591,25,Liver & Gallbladder,Liver,nTPM,15.9
+SP1,ENSG00000185591,25,Respiratory system,Lung,nTPM,21.5
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,22.6
+SP1,ENSG00000185591,25,Brain,Midbrain,nTPM,7.4
+SP1,ENSG00000185591,25,Female tissues,Ovary,nTPM,24.8
+SP1,ENSG00000185591,25,Pancreas,Pancreas,nTPM,17.0
+SP1,ENSG00000185591,25,Endocrine tissues,Parathyroid gland,nTPM,20.8
+SP1,ENSG00000185591,25,Endocrine tissues,Pituitary gland,nTPM,9.8
+SP1,ENSG00000185591,25,Female tissues,Placenta,nTPM,22.3
+SP1,ENSG00000185591,25,Male tissues,Prostate,nTPM,19.6
+SP1,ENSG00000185591,25,Gastrointestinal tract,Rectum,nTPM,28.0
+SP1,ENSG00000185591,25,Eye,Retina,nTPM,18.9
+SP1,ENSG00000185591,25,Proximal digestive tract,Salivary gland,nTPM,24.9
+SP1,ENSG00000185591,25,Male tissues,Seminal vesicle,nTPM,20.7
+SP1,ENSG00000185591,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,22.1
+SP1,ENSG00000185591,25,Skin,Skin 1,nTPM,37.9
+SP1,ENSG00000185591,25,Gastrointestinal tract,Small intestine,nTPM,29.4
+SP1,ENSG00000185591,25,Muscle & Vascular tissue,Smooth muscle,nTPM,24.7
+SP1,ENSG00000185591,25,Brain,Spinal cord,nTPM,9.4
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,26.3
+SP1,ENSG00000185591,25,Gastrointestinal tract,Stomach 1,nTPM,27.0
+SP1,ENSG00000185591,25,Male tissues,Testis,nTPM,18.2
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,34.2
+SP1,ENSG00000185591,25,Endocrine tissues,Thyroid gland,nTPM,18.3
+SP1,ENSG00000185591,25,Proximal digestive tract,Tongue,nTPM,24.0
+SP1,ENSG00000185591,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,28.3
+SP1,ENSG00000185591,25,Kidney & Urinary bladder,Urinary bladder,nTPM,22.7
+SP1,ENSG00000185591,25,Female tissues,Vagina,nTPM,23.2
+SREBF1,ENSG00000072310,25,Connective & Soft tissue,Adipose tissue,nTPM,39.7
+SREBF1,ENSG00000072310,25,Endocrine tissues,Adrenal gland,nTPM,150.1
+SREBF1,ENSG00000072310,25,Brain,Amygdala,nTPM,30.6
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,7.4
+SREBF1,ENSG00000072310,25,Brain,Basal ganglia,nTPM,26.3
+SREBF1,ENSG00000072310,25,Muscle & Vascular tissue,Blood vessel,nTPM,20.6
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,19.0
+SREBF1,ENSG00000072310,25,Female tissues,Breast,nTPM,30.5
+SREBF1,ENSG00000072310,25,Brain,Cerebellum,nTPM,10.3
+SREBF1,ENSG00000072310,25,Brain,Cerebral cortex,nTPM,18.6
+SREBF1,ENSG00000072310,25,Female tissues,Cervix,nTPM,34.8
+SREBF1,ENSG00000072310,25,Brain,Choroid plexus,nTPM,6.8
+SREBF1,ENSG00000072310,25,Gastrointestinal tract,Colon,nTPM,24.9
+SREBF1,ENSG00000072310,25,Gastrointestinal tract,Duodenum,nTPM,27.1
+SREBF1,ENSG00000072310,25,Female tissues,Endometrium 1,nTPM,15.6
+SREBF1,ENSG00000072310,25,Male tissues,Epididymis,nTPM,8.4
+SREBF1,ENSG00000072310,25,Proximal digestive tract,Esophagus,nTPM,53.0
+SREBF1,ENSG00000072310,25,Female tissues,Fallopian tube,nTPM,25.1
+SREBF1,ENSG00000072310,25,Liver & Gallbladder,Gallbladder,nTPM,13.1
+SREBF1,ENSG00000072310,25,Muscle & Vascular tissue,Heart muscle,nTPM,18.9
+SREBF1,ENSG00000072310,25,Brain,Hippocampal formation,nTPM,24.5
+SREBF1,ENSG00000072310,25,Brain,Hypothalamus,nTPM,16.4
+SREBF1,ENSG00000072310,25,Kidney & Urinary bladder,Kidney,nTPM,15.5
+SREBF1,ENSG00000072310,25,Liver & Gallbladder,Liver,nTPM,113.9
+SREBF1,ENSG00000072310,25,Respiratory system,Lung,nTPM,17.1
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,8.4
+SREBF1,ENSG00000072310,25,Brain,Midbrain,nTPM,23.7
+SREBF1,ENSG00000072310,25,Female tissues,Ovary,nTPM,28.5
+SREBF1,ENSG00000072310,25,Pancreas,Pancreas,nTPM,13.8
+SREBF1,ENSG00000072310,25,Endocrine tissues,Parathyroid gland,nTPM,7.9
+SREBF1,ENSG00000072310,25,Endocrine tissues,Pituitary gland,nTPM,20.4
+SREBF1,ENSG00000072310,25,Female tissues,Placenta,nTPM,7.3
+SREBF1,ENSG00000072310,25,Male tissues,Prostate,nTPM,23.1
+SREBF1,ENSG00000072310,25,Gastrointestinal tract,Rectum,nTPM,6.3
+SREBF1,ENSG00000072310,25,Eye,Retina,nTPM,3.6
+SREBF1,ENSG00000072310,25,Proximal digestive tract,Salivary gland,nTPM,84.5
+SREBF1,ENSG00000072310,25,Male tissues,Seminal vesicle,nTPM,15.8
+SREBF1,ENSG00000072310,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,25.3
+SREBF1,ENSG00000072310,25,Skin,Skin 1,nTPM,32.2
+SREBF1,ENSG00000072310,25,Gastrointestinal tract,Small intestine,nTPM,21.3
+SREBF1,ENSG00000072310,25,Muscle & Vascular tissue,Smooth muscle,nTPM,5.3
+SREBF1,ENSG00000072310,25,Brain,Spinal cord,nTPM,21.2
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,10.2
+SREBF1,ENSG00000072310,25,Gastrointestinal tract,Stomach 1,nTPM,18.7
+SREBF1,ENSG00000072310,25,Male tissues,Testis,nTPM,22.2
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,13.4
+SREBF1,ENSG00000072310,25,Endocrine tissues,Thyroid gland,nTPM,15.3
+SREBF1,ENSG00000072310,25,Proximal digestive tract,Tongue,nTPM,2.7
+SREBF1,ENSG00000072310,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,5.9
+SREBF1,ENSG00000072310,25,Kidney & Urinary bladder,Urinary bladder,nTPM,20.6
+SREBF1,ENSG00000072310,25,Female tissues,Vagina,nTPM,34.9
+STAT5A,ENSG00000126561,25,Connective & Soft tissue,Adipose tissue,nTPM,74.1
+STAT5A,ENSG00000126561,25,Endocrine tissues,Adrenal gland,nTPM,34.6
+STAT5A,ENSG00000126561,25,Brain,Amygdala,nTPM,2.9
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Appendix,nTPM,27.3
+STAT5A,ENSG00000126561,25,Brain,Basal ganglia,nTPM,3.8
+STAT5A,ENSG00000126561,25,Muscle & Vascular tissue,Blood vessel,nTPM,18.8
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Bone marrow,nTPM,49.1
+STAT5A,ENSG00000126561,25,Female tissues,Breast,nTPM,44.7
+STAT5A,ENSG00000126561,25,Brain,Cerebellum,nTPM,3.7
+STAT5A,ENSG00000126561,25,Brain,Cerebral cortex,nTPM,2.7
+STAT5A,ENSG00000126561,25,Female tissues,Cervix,nTPM,15.7
+STAT5A,ENSG00000126561,25,Brain,Choroid plexus,nTPM,8.2
+STAT5A,ENSG00000126561,25,Gastrointestinal tract,Colon,nTPM,20.5
+STAT5A,ENSG00000126561,25,Gastrointestinal tract,Duodenum,nTPM,8.1
+STAT5A,ENSG00000126561,25,Female tissues,Endometrium 1,nTPM,16.3
+STAT5A,ENSG00000126561,25,Male tissues,Epididymis,nTPM,5.3
+STAT5A,ENSG00000126561,25,Proximal digestive tract,Esophagus,nTPM,9.3
+STAT5A,ENSG00000126561,25,Female tissues,Fallopian tube,nTPM,16.2
+STAT5A,ENSG00000126561,25,Liver & Gallbladder,Gallbladder,nTPM,13.0
+STAT5A,ENSG00000126561,25,Muscle & Vascular tissue,Heart muscle,nTPM,11.7
+STAT5A,ENSG00000126561,25,Brain,Hippocampal formation,nTPM,3.0
+STAT5A,ENSG00000126561,25,Brain,Hypothalamus,nTPM,5.8
+STAT5A,ENSG00000126561,25,Kidney & Urinary bladder,Kidney,nTPM,10.8
+STAT5A,ENSG00000126561,25,Liver & Gallbladder,Liver,nTPM,6.0
+STAT5A,ENSG00000126561,25,Respiratory system,Lung,nTPM,19.0
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Lymph node,nTPM,35.1
+STAT5A,ENSG00000126561,25,Brain,Midbrain,nTPM,5.6
+STAT5A,ENSG00000126561,25,Female tissues,Ovary,nTPM,17.6
+STAT5A,ENSG00000126561,25,Pancreas,Pancreas,nTPM,10.8
+STAT5A,ENSG00000126561,25,Endocrine tissues,Parathyroid gland,nTPM,2.2
+STAT5A,ENSG00000126561,25,Endocrine tissues,Pituitary gland,nTPM,8.6
+STAT5A,ENSG00000126561,25,Female tissues,Placenta,nTPM,6.9
+STAT5A,ENSG00000126561,25,Male tissues,Prostate,nTPM,11.7
+STAT5A,ENSG00000126561,25,Gastrointestinal tract,Rectum,nTPM,8.5
+STAT5A,ENSG00000126561,25,Eye,Retina,nTPM,1.1
+STAT5A,ENSG00000126561,25,Proximal digestive tract,Salivary gland,nTPM,14.8
+STAT5A,ENSG00000126561,25,Male tissues,Seminal vesicle,nTPM,12.9
+STAT5A,ENSG00000126561,25,Muscle & Vascular tissue,Skeletal muscle,nTPM,22.1
+STAT5A,ENSG00000126561,25,Skin,Skin 1,nTPM,16.8
+STAT5A,ENSG00000126561,25,Gastrointestinal tract,Small intestine,nTPM,18.6
+STAT5A,ENSG00000126561,25,Muscle & Vascular tissue,Smooth muscle,nTPM,13.3
+STAT5A,ENSG00000126561,25,Brain,Spinal cord,nTPM,6.2
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Spleen,nTPM,23.5
+STAT5A,ENSG00000126561,25,Gastrointestinal tract,Stomach 1,nTPM,12.3
+STAT5A,ENSG00000126561,25,Male tissues,Testis,nTPM,3.8
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Thymus,nTPM,22.8
+STAT5A,ENSG00000126561,25,Endocrine tissues,Thyroid gland,nTPM,11.1
+STAT5A,ENSG00000126561,25,Proximal digestive tract,Tongue,nTPM,12.9
+STAT5A,ENSG00000126561,25,Bone marrow & Lymphoid tissues,Tonsil,nTPM,25.4
+STAT5A,ENSG00000126561,25,Kidney & Urinary bladder,Urinary bladder,nTPM,22.4
+STAT5A,ENSG00000126561,25,Female tissues,Vagina,nTPM,12.8

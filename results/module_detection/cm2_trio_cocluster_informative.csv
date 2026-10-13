@@ -1,0 +1,4 @@
+a,b,n_together,n_runs,runs
+COL1A1,COL3A1,7,11,Louvain_r1.00;cm2_louvain_cm2;FastGreedy;cm2_fastgreedy_cm2;cm2_glay_cm2;LeadingEigen;Leiden_mod_r1.0
+COL1A1,hsa-miR-29a,7,11,Louvain_r1.00;cm2_louvain_cm2;FastGreedy;cm2_fastgreedy_cm2;cm2_glay_cm2;LeadingEigen;Leiden_mod_r1.0
+COL3A1,hsa-miR-29a,9,11,MCL_I2.5;cm2_mcl_I25;Louvain_r1.00;cm2_louvain_cm2;FastGreedy;cm2_fastgreedy_cm2;cm2_glay_cm2;LeadingEigen;Leiden_mod_r1.0

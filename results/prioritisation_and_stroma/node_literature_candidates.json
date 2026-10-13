@@ -1,0 +1,3822 @@
+{
+ "CCND2": [
+  {
+   "pmid": "30308939",
+   "year": "2018",
+   "journal": "Int J Mol Sci",
+   "title": "Hypermethylation of CCND2 in Lung and Breast Cancer Is a Potential Biomarker and Drug Target.",
+   "pubtype": "Journal Article",
+   "first": "Hung CS"
+  },
+  {
+   "pmid": "30617699",
+   "year": "2019",
+   "journal": "Cancer Causes Control",
+   "title": "Active and secondhand smoke exposure throughout life and DNA methylation in breast tumors.",
+   "pubtype": "Journal Article",
+   "first": "Callahan CL"
+  },
+  {
+   "pmid": "39507529",
+   "year": "2024",
+   "journal": "Front Immunol",
+   "title": "Comprehensive single-cell and bulk transcriptomic analyses to develop an NK cell-derived gene signature for prognostic assessment and precision medicine in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Hou Q"
+  },
+  {
+   "pmid": "37240386",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "Gene Expression Profiling of Fibroepithelial Lesions of the Breast.",
+   "pubtype": "Journal Article",
+   "first": "Li X"
+  },
+  {
+   "pmid": "33608112",
+   "year": "2021",
+   "journal": "Arch Med Res",
+   "title": "LncRNA PRNCR1 Promotes Breast Cancer Proliferation and Inhibits Apoptosis by Modulating microRNA-377/CCND2/MEK/MAPK Axis.",
+   "pubtype": "Journal Article",
+   "first": "Ouyang J"
+  },
+  {
+   "pmid": "28793339",
+   "year": "2017",
+   "journal": "PLoS One",
+   "title": "Modeling miRNA-mRNA interactions that cause phenotypic abnormality in breast cancer patients.",
+   "pubtype": "Journal Article",
+   "first": "Lee S"
+  },
+  {
+   "pmid": "27336726",
+   "year": "2016",
+   "journal": "Breast",
+   "title": "Ribociclib plus letrozole in early breast cancer: A presurgical, window-of-opportunity study.",
+   "pubtype": "Clinical Trial, Phase II;Comparative Study;Journal Article;Multicenter Study;Randomized Controlled Trial",
+   "first": "Curigliano G"
+  },
+  {
+   "pmid": "30196303",
+   "year": "2018",
+   "journal": "Cell Physiol Biochem",
+   "title": "FGF18 Enhances Migration and the Epithelial-Mesenchymal Transition in Breast Cancer by Regulating Akt/GSK3\u03b2/\u0392-Catenin Signaling.",
+   "pubtype": "Journal Article",
+   "first": "Song N"
+  },
+  {
+   "pmid": "42196471",
+   "year": "2026",
+   "journal": "Int J Mol Sci",
+   "title": "Construction of a Lysine Lactylation- and DNA Damage Repair-Related Gene Signature to Predict the Prognosis and Drug Sensitivity of Breast Cancer Patients.",
+   "pubtype": "Journal Article",
+   "first": "Zhu L"
+  },
+  {
+   "pmid": "9178893",
+   "year": "1997",
+   "journal": "Oncogene",
+   "title": "Cyclin D2 activates Cdk2 in preference to Cdk4 in human breast epithelial cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Sweeney KJ"
+  },
+  {
+   "pmid": "17855699",
+   "year": "2007",
+   "journal": "Cancer Epidemiol Biomarkers Prev",
+   "title": "Atypia and DNA methylation in nipple duct lavage in relation to predicted breast cancer risk.",
+   "pubtype": "Journal Article;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Euhus DM"
+  },
+  {
+   "pmid": "10547574",
+   "year": "1999",
+   "journal": "J Pathol",
+   "title": "Cyclin D2, but not cyclin D1, overexpression closely correlates with gastric cancer progression and prognosis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Takano Y"
+  },
+  {
+   "pmid": "29282690",
+   "year": "2017",
+   "journal": "Adv Exp Med Biol",
+   "title": "Targeting the Epigenome as a Novel Therapeutic Approach for Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Oh S"
+  },
+  {
+   "pmid": "38225865",
+   "year": "2024",
+   "journal": "Cancer Rep (Hoboken)",
+   "title": "In-silico and in-vitro evidence suggest LINC01405 as a sponge for miR-29b and miR-497-5p, and a potential regulator of Wnt, PI3K, and TGFB signaling pathways in breast carcinoma.",
+   "pubtype": "Meta-Analysis;Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Norouzi R"
+  }
+ ],
+ "COL1A1": [
+  {
+   "pmid": "35698915",
+   "year": "2022",
+   "journal": "Mol Cells",
+   "title": "RhoBTB3 Regulates Proliferation and Invasion of Breast Cancer Cells via Col1a1.",
+   "pubtype": "Journal Article",
+   "first": "Kim K"
+  },
+  {
+   "pmid": "40593011",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "Network toxicology and molecular docking reveal the potential link between acrylamide exposure and breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Duan Z"
+  },
+  {
+   "pmid": "38186020",
+   "year": "2023",
+   "journal": "Exp Oncol",
+   "title": "FEATURES OF COL1A1 EXPRESSION IN BREAST CANCER TISSUE OF YOUNG PATIENTS.",
+   "pubtype": "Journal Article",
+   "first": "Chekhun V"
+  },
+  {
+   "pmid": "29906404",
+   "year": "2018",
+   "journal": "Discov Med",
+   "title": "Collagen 1A1 (COL1A1) promotes metastasis of breast cancer and is a potential therapeutic target.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liu J"
+  },
+  {
+   "pmid": "40404741",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "Elucidating the tumor microenvironment interactions in breast, cervical, and ovarian cancer through single-cell RNA sequencing.",
+   "pubtype": "Journal Article",
+   "first": "Zhu X"
+  },
+  {
+   "pmid": "42288681",
+   "year": "2026",
+   "journal": "Sci Rep",
+   "title": "Collagen gene expression profiles predict recurrence and progression of DCIS to IDC.",
+   "pubtype": "Journal Article",
+   "first": "Heiranizadeh N"
+  },
+  {
+   "pmid": "41685602",
+   "year": "2026",
+   "journal": "J Proteome Res",
+   "title": "Spatial Proteomics of the Normal Breast Collagen Stroma: Links to Density and Body Mass Index.",
+   "pubtype": "Journal Article",
+   "first": "Dunne JB"
+  },
+  {
+   "pmid": "37417284",
+   "year": "2023",
+   "journal": "Exp Oncol",
+   "title": "ABERRANT EXPRESSION OF COL14A1, CELRS3, and CTHRC1 IN BREAST CANCER \u0421ELLS.",
+   "pubtype": "Journal Article",
+   "first": "Malvia S"
+  },
+  {
+   "pmid": "38485557",
+   "year": "2024",
+   "journal": "Clin Breast Cancer",
+   "title": "Stromal Type I Collagen in Breast Cancer: Correlation to Prognostic Biomarkers and Prediction of Chemotherapy Response.",
+   "pubtype": "Journal Article",
+   "first": "Jansson M"
+  },
+  {
+   "pmid": "36674696",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "Long-Term Simulation of Microgravity Induces Changes in Gene Expression in Breast Cancer Cells.",
+   "pubtype": "Journal Article",
+   "first": "Sahana J"
+  },
+  {
+   "pmid": "40345856",
+   "year": "2025",
+   "journal": "Int J Cancer",
+   "title": "Inhibition of autotaxin activity with IOA-289 decreases fibrosis in mouse E0771 breast tumors.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Tang X"
+  },
+  {
+   "pmid": "42138273",
+   "year": "2026",
+   "journal": "Phytother Res",
+   "title": "Atractylenolide I Blocks Lung Metastasis of Triple-Negative Breast Cancer by Inhibiting SPP1-Mediated Extracellular Matrix Signaling Pathway.",
+   "pubtype": "Journal Article",
+   "first": "Wang Q"
+  },
+  {
+   "pmid": "40325486",
+   "year": "2025",
+   "journal": "Breast Cancer Res",
+   "title": "The association between tumor-stromal collagen features and the clinical outcomes of patients with breast cancer: a systematic review.",
+   "pubtype": "Journal Article;Systematic Review",
+   "first": "Heydari S"
+  }
+ ],
+ "STAT5A": [
+  {
+   "pmid": "37793345",
+   "year": "2023",
+   "journal": "Cell Metab",
+   "title": "Neutrophils resist ferroptosis and promote breast cancer metastasis through aconitate decarboxylase 1.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Zhao Y"
+  },
+  {
+   "pmid": "37563468",
+   "year": "2023",
+   "journal": "Nat Metab",
+   "title": "Glycolytic neutrophils accrued in the spleen compromise anti-tumour T cell immunity in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wang Y"
+  },
+  {
+   "pmid": "41064357",
+   "year": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "title": "Prolactin and DNA damage trigger an anti-breast cancer cell immune response.",
+   "pubtype": "Journal Article",
+   "first": "Karayazi Atici \u00d6"
+  },
+  {
+   "pmid": "41185027",
+   "year": "2025",
+   "journal": "Breast Cancer Res",
+   "title": "IL-3/STAT5/miR-155-5p axis supports stem-related pathway reprogramming in TNBC.",
+   "pubtype": "Journal Article",
+   "first": "Sarcinella A"
+  },
+  {
+   "pmid": "36261627",
+   "year": "2022",
+   "journal": "Oncogene",
+   "title": "STAT5 confers lactogenic properties in breast tumorigenesis and restricts metastatic potential.",
+   "pubtype": "Journal Article;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Lin M"
+  },
+  {
+   "pmid": "39690159",
+   "year": "2024",
+   "journal": "Signal Transduct Target Ther",
+   "title": "Macrophages promote pre-metastatic niche formation of breast cancer through aryl hydrocarbon receptor activity.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Jiang X"
+  },
+  {
+   "pmid": "33397365",
+   "year": "2021",
+   "journal": "J Biomed Sci",
+   "title": "CircNOL10 suppresses breast cancer progression by sponging miR-767-5p to regulate SOCS2/JAK/STAT signaling.",
+   "pubtype": "Journal Article",
+   "first": "Wang F"
+  },
+  {
+   "pmid": "40043522",
+   "year": "2025",
+   "journal": "Pathol Res Pract",
+   "title": "Sennoside B inhibits malignant phenotypes of triple-negative breast cancer cells and represses ERK/AKT/STAT5 signaling.",
+   "pubtype": "Journal Article",
+   "first": "Li LJ"
+  },
+  {
+   "pmid": "36862902",
+   "year": "2023",
+   "journal": "Medicine (Baltimore)",
+   "title": "Identification of STAT5B as a biomarker associated with prognosis and immune infiltration in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Li J"
+  },
+  {
+   "pmid": "24433040",
+   "year": "2014",
+   "journal": "Mol Endocrinol",
+   "title": "Prolactin/Stat5 and androgen R1881 coactivate carboxypeptidase-D gene in breast cancer cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Koirala S"
+  },
+  {
+   "pmid": "32629782",
+   "year": "2020",
+   "journal": "Int J Mol Sci",
+   "title": "Contribution of Immune Cells to Glucocorticoid Receptor Expression in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Gandhi S"
+  },
+  {
+   "pmid": "27358110",
+   "year": "2016",
+   "journal": "Mol Cancer Res",
+   "title": "HDAC6 Deacetylates HMGN2 to Regulate Stat5a Activity and Breast Cancer Growth.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Medler TR"
+  },
+  {
+   "pmid": "35922139",
+   "year": "2022",
+   "journal": "Endocrinology",
+   "title": "Breast Cancer and Prolactin - New Mechanisms and Models.",
+   "pubtype": "Journal Article;Review",
+   "first": "Clevenger CV"
+  },
+  {
+   "pmid": "25472539",
+   "year": "2015",
+   "journal": "Adv Exp Med Biol",
+   "title": "Prolactin-induced protein in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Naderi A"
+  },
+  {
+   "pmid": "28495456",
+   "year": "2017",
+   "journal": "Mol Cell Endocrinol",
+   "title": "Crosstalk between STAT5 activation and PI3K/AKT functions in normal and transformed mammary epithelial cells.",
+   "pubtype": "Journal Article;Review",
+   "first": "R\u00e4dler PD"
+  },
+  {
+   "pmid": "37369132",
+   "year": "2023",
+   "journal": "Biosci Rep",
+   "title": "Expression and prognostic role of STAT5a across cancer types.",
+   "pubtype": "Meta-Analysis;Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Maninang C"
+  },
+  {
+   "pmid": "18228120",
+   "year": "2008",
+   "journal": "J Mammary Gland Biol Neoplasia",
+   "title": "Jak2/Stat5 signaling in mammogenesis, breast cancer initiation and progression.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Review",
+   "first": "Wagner KU"
+  },
+  {
+   "pmid": "21237327",
+   "year": "2010",
+   "journal": "Ann Endocrinol (Paris)",
+   "title": "[New insights in growth hormone physiology and pathophysiology].",
+   "pubtype": "Journal Article;Review",
+   "first": "Kamenicky P"
+  }
+ ],
+ "MYBL2": [
+  {
+   "pmid": "25502082",
+   "year": "2015",
+   "journal": "Med Oncol",
+   "title": "B-Myb regulates snail expression to promote epithelial-to-mesenchymal transition and invasion of breast cancer cell.",
+   "pubtype": "Journal Article",
+   "first": "Tao D"
+  },
+  {
+   "pmid": "32853735",
+   "year": "2020",
+   "journal": "Biochim Biophys Acta Rev Cancer",
+   "title": "MYBL2 amplification in breast cancer: Molecular mechanisms and therapeutic potential.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Bayley R"
+  },
+  {
+   "pmid": "40303285",
+   "year": "2025",
+   "journal": "Int J Biol Sci",
+   "title": "EMC2 promotes breast cancer progression and enhances sensitivity to PDK1/AKT inhibition by deubiquitinating ENO1.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Xiao S"
+  },
+  {
+   "pmid": "25337223",
+   "year": "2014",
+   "journal": "Int J Clin Exp Pathol",
+   "title": "B-myb is a gene implicated in cell cycle and proliferation of breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Retracted Publication",
+   "first": "Tao D"
+  },
+  {
+   "pmid": "38383836",
+   "year": "2024",
+   "journal": "Biochem Genet",
+   "title": "Exploring Prognostic Gene Factors in Breast Cancer via Machine Learning.",
+   "pubtype": "Journal Article",
+   "first": "Ma Q"
+  },
+  {
+   "pmid": "26510790",
+   "year": "2015",
+   "journal": "Genetics",
+   "title": "A Gene Regulatory Program in Human Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Li R"
+  },
+  {
+   "pmid": "28276478",
+   "year": "2017",
+   "journal": "Sci Rep",
+   "title": "B-Myb Induces APOBEC3B Expression Leading to Somatic Mutation in Multiple Cancers.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Chou WC"
+  },
+  {
+   "pmid": "37937685",
+   "year": "2023",
+   "journal": "EMBO Mol Med",
+   "title": "Interactions between BRD4S, LOXL2, and MED1 drive cell cycle transcription in triple-negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Pascual-Reguant L"
+  },
+  {
+   "pmid": "29268817",
+   "year": "2018",
+   "journal": "Oncol Res",
+   "title": "MYBL2 Is Targeted by miR-143-3p and Regulates Breast Cancer Cell Proliferation and Apoptosis.",
+   "pubtype": "Journal Article;Retracted Publication",
+   "first": "Chen J"
+  },
+  {
+   "pmid": "36854682",
+   "year": "2023",
+   "journal": "Cell Death Dis",
+   "title": "Notch3 regulates Mybl2 via HeyL to limit proliferation and tumor initiation in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Brahim S"
+  },
+  {
+   "pmid": "31115881",
+   "year": "2019",
+   "journal": "Cell Oncol (Dordr)",
+   "title": "Clinical and biological impact of miR-18a expression in breast cancer after neoadjuvant chemotherapy.",
+   "pubtype": "Journal Article",
+   "first": "Luengo-Gil G"
+  },
+  {
+   "pmid": "35932528",
+   "year": "2022",
+   "journal": "Biochem Biophys Res Commun",
+   "title": "Combinatorial transcriptional regulation of HEB/ZEB1/ASCL1 and MYBL2 on Ras/ErbB signaling.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhong F"
+  },
+  {
+   "pmid": "26825466",
+   "year": "2016",
+   "journal": "Curr Pharm Des",
+   "title": "Cadherins: The Superfamily Critically Involved in Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Ashaie MA"
+  }
+ ],
+ "FN1": [
+  {
+   "pmid": "38923455",
+   "year": "2024",
+   "journal": "Cell Rep",
+   "title": "UBR7 in concert with EZH2 inhibits the TGF-\u03b2 signaling leading to extracellular matrix remodeling.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Adhikari S"
+  },
+  {
+   "pmid": "35408891",
+   "year": "2022",
+   "journal": "Int J Mol Sci",
+   "title": "Expression of Irisin/FNDC5 in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Cebulski K"
+  },
+  {
+   "pmid": "40925374",
+   "year": "2025",
+   "journal": "Cell Rep Med",
+   "title": "Modulation of fibronectin extracellular matrix enhances anti-tumor efficacy of immune checkpoint blockade.",
+   "pubtype": "Journal Article",
+   "first": "Khan KA"
+  },
+  {
+   "pmid": "40175356",
+   "year": "2025",
+   "journal": "Nat Commun",
+   "title": "The impact of a high fat diet and platelet activation on pre-metastatic niche formation.",
+   "pubtype": "Journal Article",
+   "first": "Hergueta-Redondo M"
+  },
+  {
+   "pmid": "32415208",
+   "year": "2020",
+   "journal": "Nat Commun",
+   "title": "Targeting lysyl oxidase (LOX) overcomes chemotherapy resistance in triple negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Saatci O"
+  },
+  {
+   "pmid": "41449182",
+   "year": "2025",
+   "journal": "Nat Commun",
+   "title": "Expression of antibody-drug conjugate targets in post-mortem samples of breast cancer metastases and normal tissue.",
+   "pubtype": "Journal Article",
+   "first": "Borremans K"
+  },
+  {
+   "pmid": "33983583",
+   "year": "2021",
+   "journal": "Adv Exp Med Biol",
+   "title": "Theranostics for Breast Cancer Stem Cells.",
+   "pubtype": "Journal Article",
+   "first": "Moon WK"
+  },
+  {
+   "pmid": "40217291",
+   "year": "2025",
+   "journal": "J Transl Med",
+   "title": "Targeting PRDX2 to inhibit tumor growth and metastasis in triple-negative breast cancer: the role of FN1 and the PI3K/AKT/SP1 pathway.",
+   "pubtype": "Journal Article",
+   "first": "Zhou J"
+  },
+  {
+   "pmid": "32755659",
+   "year": "2020",
+   "journal": "Gene",
+   "title": "Collagen and fibronectin promote an aggressive cancer phenotype in breast cancer cells but drive autonomous gene expression patterns.",
+   "pubtype": "Journal Article",
+   "first": "Nolan J"
+  },
+  {
+   "pmid": "40593011",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "Network toxicology and molecular docking reveal the potential link between acrylamide exposure and breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Duan Z"
+  },
+  {
+   "pmid": "40246542",
+   "year": "2025",
+   "journal": "J Nucl Med",
+   "title": "Targeting Extra Domain A of Fibronectin to Improve Noninvasive Detection of Triple-Negative Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Hachey JS"
+  },
+  {
+   "pmid": "33677364",
+   "year": "2021",
+   "journal": "Surg Oncol",
+   "title": "Gene expression profiling of giant fibroadenomas of the breast.",
+   "pubtype": "Journal Article",
+   "first": "Yin Lee JP"
+  },
+  {
+   "pmid": "25472539",
+   "year": "2015",
+   "journal": "Adv Exp Med Biol",
+   "title": "Prolactin-induced protein in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Naderi A"
+  },
+  {
+   "pmid": "39308065",
+   "year": "2024",
+   "journal": "J Zhejiang Univ Sci B",
+   "title": "Three-dimensional breast cancer tumor models based on natural hydrogels: a review.",
+   "pubtype": "Journal Article;Review",
+   "first": "Shu Y"
+  },
+  {
+   "pmid": "24245601",
+   "year": "2014",
+   "journal": "Climacteric",
+   "title": "Endocrine resistance in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Zheng LH"
+  },
+  {
+   "pmid": "26743193",
+   "year": "2016",
+   "journal": "Adv Drug Deliv Rev",
+   "title": "The extracellular matrix in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Insua-Rodr\u00edguez J"
+  },
+  {
+   "pmid": "31858911",
+   "year": "2020",
+   "journal": "Curr Cancer Drug Targets",
+   "title": "Cancer Cell-derived Secretory Factors in Breast Cancer-associated Lung Metastasis: Their Mechanism and Future Prospects.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Urooj T"
+  },
+  {
+   "pmid": "25553436",
+   "year": "2015",
+   "journal": "Anticancer Agents Med Chem",
+   "title": "Curcumin as an adjuvant to breast cancer treatment.",
+   "pubtype": "Journal Article;Review",
+   "first": "Kumar P"
+  }
+ ],
+ "PDGFRB": [
+  {
+   "pmid": "40646615",
+   "year": "2025",
+   "journal": "J Transl Med",
+   "title": "PDGFR-\u03b2/Cav1-induced autophagy via mTOR/FIP200/ATG13 activation in cancer-associated fibroblasts promotes the malignant progression of breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang L"
+  },
+  {
+   "pmid": "31287804",
+   "year": "2019",
+   "journal": "J Clin Invest",
+   "title": "Stromal integrin \u03b111 regulates PDGFR-\u03b2 signaling and promotes breast cancer progression.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Primac I"
+  },
+  {
+   "pmid": "32045054",
+   "year": "2020",
+   "journal": "Arch Pharm (Weinheim)",
+   "title": "Design, synthesis, and molecular docking of novel 2-arylbenzothiazole multiangiokinase inhibitors targeting breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Abdel-Mohsen HT"
+  },
+  {
+   "pmid": "36413571",
+   "year": "2023",
+   "journal": "J Gene Med",
+   "title": "Combination therapy with chitosan/siRNA nanoplexes targeting PDGF-D and PDGFR-\u03b2 reveals anticancer effect in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "\u015ealva E"
+  },
+  {
+   "pmid": "38315150",
+   "year": "2024",
+   "journal": "Cancer Res Commun",
+   "title": "Natural History of Germline BRCA1 Mutated and BRCA Wild-type Triple-negative Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Gardi N"
+  },
+  {
+   "pmid": "18515258",
+   "year": "2008",
+   "journal": "Ann Oncol",
+   "title": "Imatinib mesylate (Gleevec) in advanced breast cancer-expressing C-Kit or PDGFR-beta: clinical activity and biological correlations.",
+   "pubtype": "Clinical Trial, Phase II;Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Cristofanilli M"
+  },
+  {
+   "pmid": "32203934",
+   "year": "2020",
+   "journal": "Endocr Relat Cancer",
+   "title": "Regulation of docetaxel chemosensitivity by NR2F6 in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang J"
+  },
+  {
+   "pmid": "30293705",
+   "year": "2018",
+   "journal": "Crit Rev Oncol Hematol",
+   "title": "The role of PDGF-B/PDGFR-BETA axis in the normal development and carcinogenesis of the breast.",
+   "pubtype": "Journal Article;Review",
+   "first": "Jitariu AA"
+  },
+  {
+   "pmid": "30311036",
+   "year": "2018",
+   "journal": "Invest New Drugs",
+   "title": "A phase II study of imatinib mesylate and letrozole in patients with hormone receptor-positive metastatic breast cancer expressing c-kit or PDGFR-\u03b2.",
+   "pubtype": "Clinical Trial, Phase II;Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Yam C"
+  },
+  {
+   "pmid": "33952629",
+   "year": "2021",
+   "journal": "Clin Cancer Res",
+   "title": "High PDGFRb Expression Predicts Resistance to Radiotherapy in DCIS within the SweDCIS Randomized Trial.",
+   "pubtype": "Journal Article;Randomized Controlled Trial;Research Support, Non-U.S. Gov't",
+   "first": "Strell C"
+  },
+  {
+   "pmid": "37217880",
+   "year": "2023",
+   "journal": "BMC Cancer",
+   "title": "Analysis of stromal PDGFR-\u03b2 and \u03b1-SMA expression and their clinical relevance in brain metastases of breast cancer patients.",
+   "pubtype": "Journal Article",
+   "first": "Akanda MR"
+  },
+  {
+   "pmid": "30347613",
+   "year": "2018",
+   "journal": "Clin Hemorheol Microcirc",
+   "title": "PDGF regulated migration of mesenchymal stem cells towards malignancy acts via the PI3K signaling pathway.",
+   "pubtype": "Journal Article",
+   "first": "Salha S"
+  },
+  {
+   "pmid": "37417596",
+   "year": "2023",
+   "journal": "Medicine (Baltimore)",
+   "title": "Secretory breast cancer in a boy: A case report with genetic analysis using next-generation sequencing and literature review.",
+   "pubtype": "Review;Case Reports;Journal Article",
+   "first": "Deng L"
+  },
+  {
+   "pmid": "24597540",
+   "year": "2014",
+   "journal": "Expert Opin Investig Drugs",
+   "title": "Investigational platelet-derived growth factor receptor kinase inhibitors in breast cancer therapy.",
+   "pubtype": "Journal Article;Review",
+   "first": "Criscitiello C"
+  },
+  {
+   "pmid": "38410801",
+   "year": "2024",
+   "journal": "PeerJ",
+   "title": "The relationship between cancer associated fibroblasts biomarkers and prognosis of breast cancer: a systematic review and meta-analysis.",
+   "pubtype": "Meta-Analysis;Systematic Review;Journal Article",
+   "first": "Cui M"
+  }
+ ],
+ "MET": [
+  {
+   "pmid": "27528224",
+   "year": "2016",
+   "journal": "Oncotarget",
+   "title": "Matriptase regulates c-Met mediated proliferation and invasion in inflammatory breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zoratti GL"
+  },
+  {
+   "pmid": "31991499",
+   "year": "2020",
+   "journal": "APMIS",
+   "title": "Tumour angiogenesis and c-Met pathway activation - implications in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Mitra S"
+  },
+  {
+   "pmid": "32982167",
+   "year": "2020",
+   "journal": "Drug Des Devel Ther",
+   "title": "Suppression of c-Met-Overexpressing Tumors by a Novel c-Met/CD3 Bispecific Antibody.",
+   "pubtype": "Journal Article",
+   "first": "Huang L"
+  },
+  {
+   "pmid": "34904521",
+   "year": "2022",
+   "journal": "J Liposome Res",
+   "title": "Co-delivery of F7 and crizotinib by thermosensitive liposome for breast cancer treatment.",
+   "pubtype": "Journal Article",
+   "first": "Li M"
+  },
+  {
+   "pmid": "7564388",
+   "year": "1995",
+   "journal": "J Surg Oncol",
+   "title": "Expression and loss of heterozygosity of c-met proto-oncogene in primary breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Nagy J"
+  },
+  {
+   "pmid": "1387731",
+   "year": "1992",
+   "journal": "Science",
+   "title": "The met proto-oncogene receptor and lumen formation.",
+   "pubtype": "Journal Article;Research Support, U.S. Gov't, P.H.S.",
+   "first": "Tsarfaty I"
+  },
+  {
+   "pmid": "28973887",
+   "year": "2017",
+   "journal": "Proc Natl Acad Sci U S A",
+   "title": "Cross-activating c-Met/\u03b21 integrin complex drives metastasis and invasive resistance in cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Jahangiri A"
+  },
+  {
+   "pmid": "39853766",
+   "year": "2025",
+   "journal": "Mol Carcinog",
+   "title": "HGF/c-Met Promotes Breast Cancer Tamoxifen Resistance Through the EZH2/HOTAIR-miR-141/200a Feedback Signaling Pathway.",
+   "pubtype": "Journal Article",
+   "first": "Lai X"
+  },
+  {
+   "pmid": "34003803",
+   "year": "2021",
+   "journal": "JCI Insight",
+   "title": "Role of c-Met/\u03b21 integrin complex in the metastatic cascade in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Lau D"
+  },
+  {
+   "pmid": "9221809",
+   "year": "1997",
+   "journal": "Int J Cancer",
+   "title": "Expression of the c-Met/HGF receptor in human breast carcinoma: correlation with tumor progression.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, P.H.S.",
+   "first": "Beviglia L"
+  },
+  {
+   "pmid": "23193156",
+   "year": "2012",
+   "journal": "Mol Cancer Res",
+   "title": "MUC1 drives c-Met-dependent migration and scattering.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Horm TM"
+  },
+  {
+   "pmid": "24150964",
+   "year": "2014",
+   "journal": "Cancer",
+   "title": "C-Met in invasive breast cancer: is there a relationship with the basal-like subtype?",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Ho-Yen CM"
+  },
+  {
+   "pmid": "38462033",
+   "year": "2024",
+   "journal": "Cancer Lett",
+   "title": "Unlocking c-MET: A comprehensive journey into targeted therapies for breast cancer.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't",
+   "first": "Jabbarzadeh Kaboli P"
+  },
+  {
+   "pmid": "26047809",
+   "year": "2015",
+   "journal": "Diagn Pathol",
+   "title": "Prognostic significance of c-Met in breast cancer: a meta-analysis of 6010 cases.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't;Review",
+   "first": "Yan S"
+  },
+  {
+   "pmid": "25887320",
+   "year": "2015",
+   "journal": "Breast Cancer Res",
+   "title": "The clinical and functional significance of c-Met in breast cancer: a review.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Ho-Yen CM"
+  },
+  {
+   "pmid": "20125090",
+   "year": "2010",
+   "journal": "Nat Rev Clin Oncol",
+   "title": "Management of breast cancer with targeted agents: importance of heterogeneity. [corrected].",
+   "pubtype": "Journal Article;Review",
+   "first": "Di Cosimo S"
+  },
+  {
+   "pmid": "37023621",
+   "year": "2023",
+   "journal": "Biomed Pharmacother",
+   "title": "Current progress in chimeric antigen receptor-modified T cells for the treatment of metastatic breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Yin L"
+  },
+  {
+   "pmid": "7533561",
+   "year": "1994",
+   "journal": "Breast Cancer Res Treat",
+   "title": "Breast carcinoma: a collective disorder.",
+   "pubtype": "Journal Article;Review",
+   "first": "Byers S"
+  }
+ ],
+ "CXCL12": [
+  {
+   "pmid": "37497001",
+   "year": "2023",
+   "journal": "Int J Biol Sci",
+   "title": "CXCL12-CXCR4/CXCR7 Axis in Cancer: from Mechanisms to Clinical Applications.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Yang Y"
+  },
+  {
+   "pmid": "29455927",
+   "year": "2018",
+   "journal": "Cancer Cell",
+   "title": "Fibroblast Heterogeneity and Immunosuppressive Environment in Human Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Costa A"
+  },
+  {
+   "pmid": "35862581",
+   "year": "2022",
+   "journal": "Cancer Res",
+   "title": "Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Timperi E"
+  },
+  {
+   "pmid": "34079127",
+   "year": "2021",
+   "journal": "Nature",
+   "title": "Hepatic stellate cells suppress NK cell-sustained breast cancer dormancy.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Correia AL"
+  },
+  {
+   "pmid": "42393057",
+   "year": "2026",
+   "journal": "Nat Commun",
+   "title": "Single cell spatial transcriptomics track the evolutionary hierarchy and microenvironment remodeling during breast carcinoma invasion.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wang D"
+  },
+  {
+   "pmid": "15882617",
+   "year": "2005",
+   "journal": "Cell",
+   "title": "Stromal fibroblasts present in invasive human breast carcinomas promote tumor growth and angiogenesis through elevated SDF-1/CXCL12 secretion.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, U.S. Gov't, P.H.S.",
+   "first": "Orimo A"
+  },
+  {
+   "pmid": "39382998",
+   "year": "2024",
+   "journal": "Proc Natl Acad Sci U S A",
+   "title": "Targeting the MAtrix REgulating MOtif abolishes several hallmarks of cancer, triggering antitumor immunity.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li C"
+  },
+  {
+   "pmid": "39813341",
+   "year": "2025",
+   "journal": "Sci Adv",
+   "title": "CD4(+)FOXP3Exon2(+) regulatory T cell frequency predicts breast cancer prognosis and survival.",
+   "pubtype": "Journal Article",
+   "first": "Fusco C"
+  },
+  {
+   "pmid": "41480760",
+   "year": "2026",
+   "journal": "J Clin Invest",
+   "title": "Tumor-derived neutrophil extracellular trap-associated DNA impairs treatment efficacy in breast cancer via CCDC25-dependent epithelial-mesenchymal transition.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li H"
+  },
+  {
+   "pmid": "40796929",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "Substrate stiffness regulates triple-negative breast cancer signaling through CXCR4 receptor dynamics.",
+   "pubtype": "Journal Article",
+   "first": "Ho KKY"
+  },
+  {
+   "pmid": "31785332",
+   "year": "2020",
+   "journal": "Cell Signal",
+   "title": "CXCL12-CXCL4 heterodimerization prevents CXCL12-driven breast cancer cell migration.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Nguyen KTP"
+  },
+  {
+   "pmid": "27669436",
+   "year": "2017",
+   "journal": "Oncogene",
+   "title": "Downregulation of CXCL12 in mesenchymal stromal cells by TGF\u03b2 promotes breast cancer metastasis.",
+   "pubtype": "Journal Article",
+   "first": "Yu PF"
+  },
+  {
+   "pmid": "41002447",
+   "year": "2025",
+   "journal": "Cells",
+   "title": "Targeting the CXCR4/CXCL12 Axis to Overcome Drug Resistance in Triple-Negative Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Singh DD"
+  },
+  {
+   "pmid": "26708594",
+   "year": "2016",
+   "journal": "Cancer Genomics Proteomics",
+   "title": "Molecular Mechanisms of Bone Metastasis.",
+   "pubtype": "Journal Article;Review",
+   "first": "Weidle UH"
+  },
+  {
+   "pmid": "26161302",
+   "year": "2015",
+   "journal": "Anal Cell Pathol (Amst)",
+   "title": "Immunohistochemical expression of CXCR4 on breast cancer and its clinical significance.",
+   "pubtype": "Journal Article;Review",
+   "first": "Okuyama Kishima M"
+  },
+  {
+   "pmid": "16828253",
+   "year": "2006",
+   "journal": "Biomed Pharmacother",
+   "title": "Stromal cell-derived factor-1 and CXCR4 receptor interaction in tumor growth and metastasis of breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Dewan MZ"
+  },
+  {
+   "pmid": "29800557",
+   "year": "2018",
+   "journal": "Clin Chim Acta",
+   "title": "Prognostic and clinicopathological value of CXCL12/SDF1 expression in breast cancer: A meta-analysis.",
+   "pubtype": "Journal Article;Meta-Analysis",
+   "first": "Liu H"
+  }
+ ],
+ "MMP14": [
+  {
+   "pmid": "40704538",
+   "year": "2025",
+   "journal": "J Extracell Vesicles",
+   "title": "Tethered Exosomes Containing the Matrix Metalloproteinase MT1-MMP Contribute to Extracellular Matrix Degradation.",
+   "pubtype": "Journal Article",
+   "first": "Palmulli R"
+  },
+  {
+   "pmid": "34531530",
+   "year": "2021",
+   "journal": "Commun Biol",
+   "title": "TC10 regulates breast cancer invasion and metastasis by controlling membrane type-1 matrix metalloproteinase at invadopodia.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "H\u00fclsemann M"
+  },
+  {
+   "pmid": "20529824",
+   "year": "2010",
+   "journal": "Folia Histochem Cytobiol",
+   "title": "Increased serum level of membrane type 1-matrix metalloproteinase (MT1-MMP/MMP-14) in patients with breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Lauda\u0144ski P"
+  },
+  {
+   "pmid": "41998694",
+   "year": "2026",
+   "journal": "Breast Cancer Res",
+   "title": "Single-cell transcriptomics identify mechanical-memory-associated cell states in metastatic HR(+) breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zhao X"
+  },
+  {
+   "pmid": "25774665",
+   "year": "2015",
+   "journal": "PLoS One",
+   "title": "A membrane-type-1 matrix metalloproteinase (MT1-MMP)-discoidin domain receptor 1 axis regulates collagen-induced apoptosis in breast cancer cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Assent D"
+  },
+  {
+   "pmid": "9062392",
+   "year": "1997",
+   "journal": "Clin Exp Metastasis",
+   "title": "Induction of membrane-type matrix metalloproteinase 1 (MT1-MMP) expression in human fibroblasts by breast adenocarcinoma cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Polette M"
+  },
+  {
+   "pmid": "28270508",
+   "year": "2017",
+   "journal": "J Biol Chem",
+   "title": "Discoidin domain receptor 2 mediates collagen-induced activation of membrane-type 1 matrix metalloproteinase in human fibroblasts.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Majkowska I"
+  },
+  {
+   "pmid": "14597417",
+   "year": "2003",
+   "journal": "Exp Cell Res",
+   "title": "Membrane type-1 matrix metalloproteinase (MT1-MMP) processing of pro-alphav integrin regulates cross-talk between alphavbeta3 and alpha2beta1 integrins in breast carcinoma cells.",
+   "pubtype": "Journal Article",
+   "first": "Baciu PC"
+  },
+  {
+   "pmid": "10391091",
+   "year": "1999",
+   "journal": "Jpn J Cancer Res",
+   "title": "Significance of membrane type 1 matrix metalloproteinase expression in breast cancer.",
+   "pubtype": "Clinical Trial;Journal Article",
+   "first": "Ishigaki S"
+  },
+  {
+   "pmid": "31820782",
+   "year": "2020",
+   "journal": "J Cell Biol",
+   "title": "SNX27-retromer assembly recycles MT1-MMP to invadopodia and promotes breast cancer metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Sharma P"
+  },
+  {
+   "pmid": "31292488",
+   "year": "2019",
+   "journal": "Sci Rep",
+   "title": "Study of Gene Expression Profiles of Breast Cancers in Indian Women.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Malvia S"
+  },
+  {
+   "pmid": "33882324",
+   "year": "2021",
+   "journal": "Gene",
+   "title": "Active MT1-MMP is tethered to collagen fibers in DDR2-containing remnants.",
+   "pubtype": "Journal Article",
+   "first": "Feng Y"
+  },
+  {
+   "pmid": "25482622",
+   "year": "2014",
+   "journal": "Cell Adh Migr",
+   "title": "Eph receptor and ephrin function in breast, gut, and skin epithelia.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Review",
+   "first": "Perez White BE"
+  },
+  {
+   "pmid": "31401293",
+   "year": "2020",
+   "journal": "Semin Cancer Biol",
+   "title": "Epithelial-to-mesenchymal transition and invadopodia markers in breast cancer: Lumican a key regulator.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Karamanou K"
+  },
+  {
+   "pmid": "19182722",
+   "year": "2009",
+   "journal": "Med Sci Monit",
+   "title": "Matrix metalloproteinase-2 involvement in breast cancer progression: a mini-review.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Jezierska A"
+  },
+  {
+   "pmid": "37116213",
+   "year": "2023",
+   "journal": "J Pharm Pharmacol",
+   "title": "Potential therapeutic role for pigment epithelium-derived factor in post-menopausal breast cancer bone metastasis.",
+   "pubtype": "Review;Journal Article",
+   "first": "Brook N"
+  },
+  {
+   "pmid": "16980237",
+   "year": "2006",
+   "journal": "Bull Cancer",
+   "title": "[Proteases by reactive stromal cells in cancer: an attractive therapeutic target].",
+   "pubtype": "English Abstract;Journal Article;Review",
+   "first": "T\u00eatu B"
+  },
+  {
+   "pmid": "17313360",
+   "year": "2007",
+   "journal": "Curr Pharm Des",
+   "title": "Proteomic validation of protease drug targets: pharmacoproteomics of matrix metalloproteinase inhibitor drugs using isotope-coded affinity tag labelling and tandem mass spectrometry.",
+   "pubtype": "Journal Article;Review",
+   "first": "Butler GS"
+  }
+ ],
+ "PLAU": [
+  {
+   "pmid": "28467815",
+   "year": "2017",
+   "journal": "Oncotarget",
+   "title": "Epigenetic silencing of triple negative breast cancer hallmarks by Withaferin A.",
+   "pubtype": "Journal Article",
+   "first": "Szarc Vel Szic K"
+  },
+  {
+   "pmid": "34626849",
+   "year": "2022",
+   "journal": "Gynecol Obstet Fertil Senol",
+   "title": "[uPA/PAI-1 and EPClin\u00ae: Comparison of their impact on the management of intermediate-prognosis breast cancers].",
+   "pubtype": "Journal Article",
+   "first": "Maniez P"
+  },
+  {
+   "pmid": "30562887",
+   "year": "2019",
+   "journal": "Breast Dis",
+   "title": "Expression of urokinase plasminogen activator (uPA) in the leukocytes and tissues of patients with benign and malignant breast lesions.",
+   "pubtype": "Journal Article",
+   "first": "Barberi S"
+  },
+  {
+   "pmid": "34057113",
+   "year": "2021",
+   "journal": "Breast Dis",
+   "title": "Urokinase type plasminogen activator receptor (uPAR) and human epidermal growth factor receptor 2 (HER2) expression in metastasis of breast cancer.",
+   "pubtype": "Journal Article;Observational Study",
+   "first": "Smaradhania N"
+  },
+  {
+   "pmid": "31307406",
+   "year": "2019",
+   "journal": "BMC Cancer",
+   "title": "Impact of uPA/PAI-1 and disseminated cytokeratin-positive cells in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "M\u00e4rkl B"
+  },
+  {
+   "pmid": "28882040",
+   "year": "2017",
+   "journal": "Anal Chem",
+   "title": "Visualizing Breast Cancer Cell Proliferation and Invasion for Assessing Drug Efficacy with a Fluorescent Nanoprobe.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Luan M"
+  },
+  {
+   "pmid": "28954632",
+   "year": "2017",
+   "journal": "BMC Cancer",
+   "title": "Assessment of Ki67 and uPA/PAI-1 expression in intermediate-risk early stage breast cancers.",
+   "pubtype": "Journal Article",
+   "first": "Deluche E"
+  },
+  {
+   "pmid": "22467324",
+   "year": "2012",
+   "journal": "J Clin Lab Anal",
+   "title": "Expression of urokinase-type plasminogen activator (uPA), its receptor (uPAR), and inhibitor (PAI-1) in human breast carcinomas and their clinical relevance.",
+   "pubtype": "Journal Article",
+   "first": "Andres SA"
+  },
+  {
+   "pmid": "27286449",
+   "year": "2016",
+   "journal": "Oncotarget",
+   "title": "Cyr61 and YB-1 are novel interacting partners of uPAR and elevate the malignancy of triple-negative breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Huber MC"
+  },
+  {
+   "pmid": "25075085",
+   "year": "2014",
+   "journal": "Anticancer Res",
+   "title": "Clinical significance of urokinase-type plasminogen activator (uPA) and its type-1 inhibitor (PAI-1) for metastatic sentinel lymph node involvement in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Harms W"
+  },
+  {
+   "pmid": "37552345",
+   "year": "2023",
+   "journal": "Funct Integr Genomics",
+   "title": "YY1 regulates the proliferation and invasion of triple-negative breast cancer via activating PLAUR.",
+   "pubtype": "Journal Article",
+   "first": "Zhang C"
+  },
+  {
+   "pmid": "15944776",
+   "year": "2005",
+   "journal": "Oncol Rep",
+   "title": "Urokinase-type plasminogen activator system and breast cancer (Review).",
+   "pubtype": "Journal Article;Review",
+   "first": "Han B"
+  },
+  {
+   "pmid": "32361569",
+   "year": "2020",
+   "journal": "Int Immunopharmacol",
+   "title": "Breast cancer: Biology, biomarkers, and treatments.",
+   "pubtype": "Journal Article;Review",
+   "first": "Barzaman K"
+  },
+  {
+   "pmid": "28882552",
+   "year": "2018",
+   "journal": "Semin Cancer Biol",
+   "title": "Prognostic and predictive biomarkers in breast cancer: Past, present and future.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Nicolini A"
+  },
+  {
+   "pmid": "25313729",
+   "year": "2014",
+   "journal": "J Cancer Res Ther",
+   "title": "Breast cancer statistics and markers.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Donepudi MS"
+  },
+  {
+   "pmid": "23201006",
+   "year": "2013",
+   "journal": "Biomed Pharmacother",
+   "title": "The urokinase plasminogen activator system in breast cancer invasion and metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Tang L"
+  },
+  {
+   "pmid": "1878498",
+   "year": "1991",
+   "journal": "Curr Opin Obstet Gynecol",
+   "title": "Breast malignancy.",
+   "pubtype": "Journal Article;Review",
+   "first": "Bender HG"
+  }
+ ],
+ "E2F1": [
+  {
+   "pmid": "40054655",
+   "year": "2025",
+   "journal": "Cancer Lett",
+   "title": "SLC7A5/E2F1/PTBP1/PKM2 axis mediates progression and therapy effect of triple-negative breast cancer through the crosstalk of amino acid metabolism and glycolysis pathway.",
+   "pubtype": "Journal Article",
+   "first": "Jiang C"
+  },
+  {
+   "pmid": "40183319",
+   "year": "2025",
+   "journal": "Cancer Biomark",
+   "title": "BUB1, miR-495-3p, and E2F1/E2F8 axis is associated with poor prognosis of breast cancer patients and infiltration of Th2 cells in the tumor microenvironment.",
+   "pubtype": "Journal Article",
+   "first": "Nema R"
+  },
+  {
+   "pmid": "29847804",
+   "year": "2018",
+   "journal": "Cell Rep",
+   "title": "Identification of Drivers of Aneuploidy in Breast Tumors.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Pfister K"
+  },
+  {
+   "pmid": "36414640",
+   "year": "2022",
+   "journal": "Cell Death Dis",
+   "title": "E2F1-initiated transcription of PRSS22 promotes breast cancer metastasis by cleaving ANXA1 and activating FPR2/ERK signaling pathway.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Song L"
+  },
+  {
+   "pmid": "34473867",
+   "year": "2021",
+   "journal": "Mol Carcinog",
+   "title": "Eugenol modulates genomic methylation and inactivates breast cancer-associated fibroblasts through E2F1-dependent downregulation of DNMT1/DNMT3A.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Al-Kharashi LA"
+  },
+  {
+   "pmid": "17637753",
+   "year": "2008",
+   "journal": "Oncogene",
+   "title": "The AP-1 transcription factor regulates breast cancer cell growth via cyclins and E2F factors.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Shen Q"
+  },
+  {
+   "pmid": "38678032",
+   "year": "2024",
+   "journal": "Nat Commun",
+   "title": "The pRb/RBL2-E2F1/4-GCN5 axis regulates cancer stem cell formation and G0 phase entry/exit by paracrine mechanisms.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Chang CH"
+  },
+  {
+   "pmid": "33691613",
+   "year": "2021",
+   "journal": "Mol Med",
+   "title": "E2F1 copy number variations in germline and breast cancer: a retrospective study of 222 Italian women.",
+   "pubtype": "Journal Article",
+   "first": "Rocca MS"
+  },
+  {
+   "pmid": "34366326",
+   "year": "2022",
+   "journal": "Cancer Biomark",
+   "title": "E2F1 transcriptionally regulates CCNA2 expression to promote triple negative breast cancer tumorigenicity.",
+   "pubtype": "Journal Article",
+   "first": "Lu Y"
+  },
+  {
+   "pmid": "39905189",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "E2F1 activates breast stromal fibroblasts and promotes their paracrine pro-carcinogenic effects.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Al-Kharashi LA"
+  },
+  {
+   "pmid": "34292880",
+   "year": "2021",
+   "journal": "Aging (Albany NY)",
+   "title": "Exosomal miRNA-205 promotes breast cancer chemoresistance and tumorigenesis through E2F1.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhao Y"
+  },
+  {
+   "pmid": "39754249",
+   "year": "2025",
+   "journal": "J Nanobiotechnology",
+   "title": "Inhibition of METTL14 overcomes CDK4/6 inhibitor resistance driven by METTL14-m6A-E2F1-axis in ER\u03b1-positive breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Liu C"
+  },
+  {
+   "pmid": "34202777",
+   "year": "2021",
+   "journal": "Int J Mol Sci",
+   "title": "Long Noncoding RNA GAS5 in Breast Cancer: Epigenetic Mechanisms and Biological Functions.",
+   "pubtype": "Journal Article;Review",
+   "first": "Filippova EA"
+  },
+  {
+   "pmid": "30366988",
+   "year": "2018",
+   "journal": "Essays Biochem",
+   "title": "Integrative workflows for network analysis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Khan FM"
+  },
+  {
+   "pmid": "36617953",
+   "year": "2023",
+   "journal": "J Biomol Struct Dyn",
+   "title": "Integrative transcriptome analysis of triple negative breast cancer profiles for identification of druggable targets.",
+   "pubtype": "Meta-Analysis;Journal Article",
+   "first": "Arumugam P"
+  },
+  {
+   "pmid": "38012557",
+   "year": "2023",
+   "journal": "BMC Cancer",
+   "title": "Genome editing approaches with CRISPR/Cas9: the association of NOX4 expression in breast cancer patients and effectiveness evaluation of different strategies of CRISPR/Cas9 to knockout Nox4 in cancer cells.",
+   "pubtype": "Meta-Analysis;Journal Article",
+   "first": "Javadi M"
+  },
+  {
+   "pmid": "14555235",
+   "year": "2003",
+   "journal": "Biochem Pharmacol",
+   "title": "Turning cell cycle controller genes into cancer drugs. A role for an antiproliferative cytokine (betaGBP).",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Mallucci L"
+  },
+  {
+   "pmid": "22708334",
+   "year": "2012",
+   "journal": "Ginekol Pol",
+   "title": "[Molecular basis of gynecological oncology--TopBP1 protein and its participation in the transcription process].",
+   "pubtype": "English Abstract;Journal Article;Review",
+   "first": "Forma E"
+  }
+ ],
+ "EZH2": [
+  {
+   "pmid": "36446780",
+   "year": "2022",
+   "journal": "Nat Commun",
+   "title": "EZH2-H3K27me3 mediated KRT14 upregulation promotes TNBC peritoneal metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Verma A"
+  },
+  {
+   "pmid": "38719195",
+   "year": "2024",
+   "journal": "Pharmacol Res",
+   "title": "Epigenetic modulations in triple-negative breast cancer: Therapeutic implications for tumor microenvironment.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't",
+   "first": "Zhou L"
+  },
+  {
+   "pmid": "35085106",
+   "year": "2022",
+   "journal": "J Clin Invest",
+   "title": "EZH2-triggered methylation of SMAD3 promotes its activation and tumor metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Huang C"
+  },
+  {
+   "pmid": "33878291",
+   "year": "2021",
+   "journal": "Cell",
+   "title": "The bone microenvironment invigorates metastatic seeds for further dissemination.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Zhang W"
+  },
+  {
+   "pmid": "39385030",
+   "year": "2024",
+   "journal": "Nature",
+   "title": "AKT and EZH2 inhibitors kill TNBCs by hijacking mechanisms of involution.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Schade AE"
+  },
+  {
+   "pmid": "41066230",
+   "year": "2025",
+   "journal": "Cell Rep",
+   "title": "PHF19 drives the formation of PRC2 clusters to enhance motility in TNBC cells.",
+   "pubtype": "Journal Article",
+   "first": "Pelzer N"
+  },
+  {
+   "pmid": "38871245",
+   "year": "2024",
+   "journal": "Cancer Lett",
+   "title": "YTHDF1 promotes the osteolytic bone metastasis of breast cancer via inducing EZH2 and CDH11 translation.",
+   "pubtype": "Journal Article",
+   "first": "Wang S"
+  },
+  {
+   "pmid": "35538070",
+   "year": "2022",
+   "journal": "Nat Commun",
+   "title": "EZH2 engages TGF\u03b2 signaling to promote breast cancer bone metastasis via integrin \u03b21-FAK activation.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Zhang L"
+  },
+  {
+   "pmid": "38923455",
+   "year": "2024",
+   "journal": "Cell Rep",
+   "title": "UBR7 in concert with EZH2 inhibits the TGF-\u03b2 signaling leading to extracellular matrix remodeling.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Adhikari S"
+  },
+  {
+   "pmid": "34725325",
+   "year": "2021",
+   "journal": "Nat Commun",
+   "title": "Multi-omics analysis identifies therapeutic vulnerabilities in triple-negative breast cancer subtypes.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Lehmann BD"
+  },
+  {
+   "pmid": "32967925",
+   "year": "2021",
+   "journal": "Cancer Res",
+   "title": "NSD3-Induced Methylation of H3K36 Activates NOTCH Signaling to Drive Breast Tumor Initiation and Metastatic Progression.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Jeong GY"
+  },
+  {
+   "pmid": "41036949",
+   "year": "2026",
+   "journal": "Cancer Discov",
+   "title": "Epigenetic Regulation of Chromosomal Instability by EZH2 Methyltransferase.",
+   "pubtype": "Journal Article",
+   "first": "Bai Y"
+  },
+  {
+   "pmid": "26349457",
+   "year": "2016",
+   "journal": "Protein Cell",
+   "title": "The roles of ncRNAs and histone-modifiers in regulating breast cancer stem cells.",
+   "pubtype": "Journal Article;Review",
+   "first": "Zhao Z"
+  },
+  {
+   "pmid": "37298642",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "Next-Generation Sequencing and Triple-Negative Breast Cancer: Insights and Applications.",
+   "pubtype": "Journal Article;Review",
+   "first": "Tierno D"
+  },
+  {
+   "pmid": "36652981",
+   "year": "2023",
+   "journal": "Int J Biol Macromol",
+   "title": "Overview of the miR-29 family members' function in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Amirian M"
+  },
+  {
+   "pmid": "30281370",
+   "year": "2018",
+   "journal": "Arch Pathol Lab Med",
+   "title": "Atypical Ductal Lesions of the Breast: Criteria, Significance, and Laboratory Updates.",
+   "pubtype": "Journal Article;Review",
+   "first": "East EG"
+  },
+  {
+   "pmid": "33491744",
+   "year": "2020",
+   "journal": "Int J Oncol",
+   "title": "Polycomb repressor complex 2 function in breast cancer (Review).",
+   "pubtype": "Journal Article;Review",
+   "first": "Martin CJ"
+  }
+ ],
+ "GATA3": [
+  {
+   "pmid": "23000897",
+   "year": "2012",
+   "journal": "Nature",
+   "title": "Comprehensive molecular portraits of human breast tumours.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Cancer Genome Atlas Network"
+  },
+  {
+   "pmid": "26451490",
+   "year": "2015",
+   "journal": "Cell",
+   "title": "Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Ciriello G"
+  },
+  {
+   "pmid": "33011748",
+   "year": "2021",
+   "journal": "Mod Pathol",
+   "title": "TRPS1: a highly sensitive and specific marker for breast carcinoma, especially for triple-negative breast cancer.",
+   "pubtype": "Comparative Study;Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Ai D"
+  },
+  {
+   "pmid": "37230023",
+   "year": "2023",
+   "journal": "Drug Resist Updat",
+   "title": "GATA3 mediates doxorubicin resistance by inhibiting CYB5R2-catalyzed iron reduction in breast cancer cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhu Z"
+  },
+  {
+   "pmid": "31781853",
+   "year": "2019",
+   "journal": "Pathologe",
+   "title": "[Neuroendocrine differentiation in breast cancer].",
+   "pubtype": "Journal Article;Review",
+   "first": "Kreipe HH"
+  },
+  {
+   "pmid": "35413381",
+   "year": "2022",
+   "journal": "Hum Pathol",
+   "title": "TRPS1, GATA3, and SOX10 expression in triple-negative breast carcinoma.",
+   "pubtype": "Journal Article",
+   "first": "Yoon EC"
+  },
+  {
+   "pmid": "40372915",
+   "year": "2025",
+   "journal": "Cell Rep",
+   "title": "GATA3 differentially regulates the transcriptome via zinc finger 2-modulated phase separation.",
+   "pubtype": "Journal Article",
+   "first": "Chen Y"
+  },
+  {
+   "pmid": "37726118",
+   "year": "2023",
+   "journal": "J Clin Pathol",
+   "title": "Gene of the month: GATA3.",
+   "pubtype": "Review;Journal Article",
+   "first": "Qiang Z"
+  },
+  {
+   "pmid": "31932695",
+   "year": "2020",
+   "journal": "Nat Genet",
+   "title": "ARID1A determines luminal identity and therapeutic response in estrogen-receptor-positive breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Xu G"
+  },
+  {
+   "pmid": "26510790",
+   "year": "2015",
+   "journal": "Genetics",
+   "title": "A Gene Regulatory Program in Human Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Li R"
+  },
+  {
+   "pmid": "40828007",
+   "year": "2025",
+   "journal": "Proc Natl Acad Sci U S A",
+   "title": "GATA3 promotes ferroptosis resistance by repressing integrin \u03b21 signaling.",
+   "pubtype": "Journal Article",
+   "first": "Karner ER"
+  },
+  {
+   "pmid": "28211079",
+   "year": "2017",
+   "journal": "Histopathology",
+   "title": "GATA3 expression in triple-negative breast cancers.",
+   "pubtype": "Journal Article",
+   "first": "Byrne DJ"
+  },
+  {
+   "pmid": "17381824",
+   "year": "2007",
+   "journal": "Breast Cancer Res",
+   "title": "Gata-3 and mammary cell fate.",
+   "pubtype": "Journal Article;Review",
+   "first": "Naylor MJ"
+  },
+  {
+   "pmid": "36652981",
+   "year": "2023",
+   "journal": "Int J Biol Macromol",
+   "title": "Overview of the miR-29 family members' function in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Amirian M"
+  },
+  {
+   "pmid": "19261198",
+   "year": "2009",
+   "journal": "Expert Rev Mol Med",
+   "title": "FOXA1 in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Review",
+   "first": "Nakshatri H"
+  },
+  {
+   "pmid": "35461734",
+   "year": "2022",
+   "journal": "Semin Diagn Pathol",
+   "title": "Immunohistochemical Markers for Distinguishing Metastatic Breast Carcinoma from Other Common Malignancies: Update and Revisit.",
+   "pubtype": "Journal Article;Review",
+   "first": "Ding Q"
+  }
+ ],
+ "BRCA1": [
+  {
+   "pmid": "36914836",
+   "year": "2023",
+   "journal": "Nat Genet",
+   "title": "Preneoplastic stromal cells promote BRCA1-mediated breast tumorigenesis.",
+   "pubtype": "Journal Article;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Nee K"
+  },
+  {
+   "pmid": "29713086",
+   "year": "2018",
+   "journal": "Nat Med",
+   "title": "Carboplatin in BRCA1/2-mutated and triple-negative breast cancer BRCAness subgroups: the TNT Trial.",
+   "pubtype": "Clinical Trial, Phase III;Journal Article;Randomized Controlled Trial;Research Support, Non-U.S. Gov't",
+   "first": "Tutt A"
+  },
+  {
+   "pmid": "30992324",
+   "year": "2019",
+   "journal": "Cancer Res",
+   "title": "BRCA1-No Matter How You Splice It.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Review",
+   "first": "Li D"
+  },
+  {
+   "pmid": "28288110",
+   "year": "2017",
+   "journal": "Nat Med",
+   "title": "HRDetect is a predictor of BRCA1 and BRCA2 deficiency based on mutational signatures.",
+   "pubtype": "Journal Article",
+   "first": "Davies H"
+  },
+  {
+   "pmid": "12464350",
+   "year": "2002",
+   "journal": "Mutat Res",
+   "title": "Brca1 and differentiation.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Kubista M"
+  },
+  {
+   "pmid": "39643918",
+   "year": "2024",
+   "journal": "Clin Epigenetics",
+   "title": "BRCA1 & BRCA2 methylation as a prognostic and predictive biomarker in cancer: Implementation in liquid biopsy in the era of precision medicine.",
+   "pubtype": "Journal Article;Review",
+   "first": "Panagopoulou M"
+  },
+  {
+   "pmid": "38552003",
+   "year": "2024",
+   "journal": "Cancer Discov",
+   "title": "BRCA1-Mediated Dual Regulation of Ferroptosis Exposes a Vulnerability to GPX4 and PARP Co-Inhibition in BRCA1-Deficient Cancers.",
+   "pubtype": "Journal Article",
+   "first": "Lei G"
+  },
+  {
+   "pmid": "37762577",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "BRCA1 the Versatile Defender: Molecular to Environmental Perspectives.",
+   "pubtype": "Journal Article;Review",
+   "first": "Zhong AX"
+  },
+  {
+   "pmid": "41359628",
+   "year": "2025",
+   "journal": "PLoS Biol",
+   "title": "The deubiquitinating enzyme Cezanne stabilizes BRCA1 by counteracting APC/C and Ube2S-dependent Lys11-linked ubiquitination.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Wang L"
+  },
+  {
+   "pmid": "22843421",
+   "year": "2012",
+   "journal": "Cancer Discov",
+   "title": "Mechanisms of BRCA1 tumor suppression.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Silver DP"
+  },
+  {
+   "pmid": "17993233",
+   "year": "2007",
+   "journal": "Adv Exp Med Biol",
+   "title": "p53, BRCA1 and breast Cancer chemoresistance.",
+   "pubtype": "Journal Article;Review",
+   "first": "Scata KA"
+  },
+  {
+   "pmid": "23955079",
+   "year": "2014",
+   "journal": "Oncogene",
+   "title": "Opportunities and hurdles in the treatment of BRCA1-related breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Drost R"
+  },
+  {
+   "pmid": "22193408",
+   "year": "2011",
+   "journal": "Nat Rev Cancer",
+   "title": "BRCA1 and BRCA2: different roles in a common pathway of genome protection.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Roy R"
+  },
+  {
+   "pmid": "29687286",
+   "year": "2020",
+   "journal": "Adv Exp Med Biol",
+   "title": "The BRCA1 and BRCA2 Genes in Early-Onset Breast Cancer Patients.",
+   "pubtype": "Journal Article;Review",
+   "first": "Saleem M"
+  },
+  {
+   "pmid": "32094664",
+   "year": "2020",
+   "journal": "Nat Rev Mol Cell Biol",
+   "title": "The antitumorigenic roles of BRCA1-BARD1 in DNA repair and replication.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.;Review",
+   "first": "Tarsounas M"
+  },
+  {
+   "pmid": "17416853",
+   "year": "2007",
+   "journal": "J Clin Oncol",
+   "title": "Meta-analysis of BRCA1 and BRCA2 penetrance.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Chen S"
+  },
+  {
+   "pmid": "39510841",
+   "year": "2025",
+   "journal": "Genes Dev",
+   "title": "BRCA1 and BRCA2: from cancer susceptibility to synthetic lethality.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't",
+   "first": "Khalizieva A"
+  },
+  {
+   "pmid": "37455374",
+   "year": "2023",
+   "journal": "Crit Rev Clin Lab Sci",
+   "title": "Hereditary breast and ovarian cancer: from genes to molecular targeted therapies.",
+   "pubtype": "Journal Article;Review",
+   "first": "Ponti G"
+  }
+ ],
+ "JUN": [
+  {
+   "pmid": "39737957",
+   "year": "2024",
+   "journal": "Nat Commun",
+   "title": "NOS inhibition sensitizes metaplastic breast cancer to PI3K inhibition and taxane therapy via c-JUN repression.",
+   "pubtype": "Journal Article;Research Support, U.S. Gov't, P.H.S.;Research Support, N.I.H., Extramural",
+   "first": "Reddy T"
+  },
+  {
+   "pmid": "35988817",
+   "year": "2022",
+   "journal": "Cancer Lett",
+   "title": "NNMT contributes to high metastasis of triple negative breast cancer by enhancing PP2A/MEK/ERK/c-Jun/ABCA1 pathway mediated membrane fluidity.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wang Y"
+  },
+  {
+   "pmid": "41372410",
+   "year": "2026",
+   "journal": "Nature",
+   "title": "Fasting boosts breast cancer therapy efficacy via glucocorticoid activation.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Padr\u00e3o N"
+  },
+  {
+   "pmid": "39532855",
+   "year": "2024",
+   "journal": "Cell Death Dis",
+   "title": "TNFAIP2 promotes HIF1\u03b1 transcription and breast cancer angiogenesis by activating the Rac1-ERK-AP1 signaling axis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Ren W"
+  },
+  {
+   "pmid": "33997789",
+   "year": "2021",
+   "journal": "Nat Cancer",
+   "title": "CDK4/6 inhibition reprograms the breast cancer enhancer landscape by stimulating AP-1 transcriptional activity.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Watt AC"
+  },
+  {
+   "pmid": "29467493",
+   "year": "2018",
+   "journal": "Oncogene",
+   "title": "c-Jun/AP-1 overexpression reprograms ER\u03b1 signaling related to tamoxifen response in ER\u03b1-positive breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "He H"
+  },
+  {
+   "pmid": "37310848",
+   "year": "2023",
+   "journal": "Mol Cancer Res",
+   "title": "Targeting c-Jun Is a Potential Therapy for Luminal Breast Cancer Bone Metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Han Y"
+  },
+  {
+   "pmid": "41706704",
+   "year": "2026",
+   "journal": "Cancer Res",
+   "title": "LOX Inhibition Disrupts a Collagen-Integrin-MYC Axis to Suppress Progression of Invasive Lobular Carcinoma.",
+   "pubtype": "Journal Article",
+   "first": "Flaherty RL"
+  },
+  {
+   "pmid": "38265632",
+   "year": "2024",
+   "journal": "Breast Cancer",
+   "title": "Endosomal protein expression of \u03b31-adaptin is associated with tumor growth activity and relapse-free survival in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Hoshi N"
+  },
+  {
+   "pmid": "36476606",
+   "year": "2022",
+   "journal": "BMC Cancer",
+   "title": "Transcription factor c-Jun modulates GLUT1 in glycolysis and breast cancer metastasis.",
+   "pubtype": "Journal Article",
+   "first": "Zhu P"
+  },
+  {
+   "pmid": "31534187",
+   "year": "2020",
+   "journal": "Oncogene",
+   "title": "ITGB4-mediated metabolic reprogramming of cancer-associated fibroblasts.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Sung JS"
+  },
+  {
+   "pmid": "41388188",
+   "year": "2026",
+   "journal": "Cell Death Differ",
+   "title": "JAB1/CRL4B complex represses PPARG/ACSL5 expression to promote breast tumorigenesis.",
+   "pubtype": "Journal Article",
+   "first": "Hu T"
+  },
+  {
+   "pmid": "16530325",
+   "year": "2006",
+   "journal": "Cancer Lett",
+   "title": "Breast cancer markers.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Giancotti V"
+  },
+  {
+   "pmid": "26363225",
+   "year": "2015",
+   "journal": "Mol Cell Endocrinol",
+   "title": "Breast cancer cells: Modulation by melatonin and the ubiquitin-proteasome system--a review.",
+   "pubtype": "Journal Article;Review",
+   "first": "Vriend J"
+  },
+  {
+   "pmid": "22249027",
+   "year": "2012",
+   "journal": "Int J Biochem Cell Biol",
+   "title": "Breast cancer stem cells.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Velasco-Vel\u00e1zquez MA"
+  },
+  {
+   "pmid": "37176013",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "FRA-1 as a Regulator of EMT and Metastasis in Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Casalino L"
+  },
+  {
+   "pmid": "21428940",
+   "year": "2011",
+   "journal": "Biochem Soc Trans",
+   "title": "Tetraspanin CD9 in cell migration.",
+   "pubtype": "Journal Article;Review",
+   "first": "Powner D"
+  },
+  {
+   "pmid": "11595837",
+   "year": "2001",
+   "journal": "Apoptosis",
+   "title": "Mechanisms of tamoxifen-induced apoptosis.",
+   "pubtype": "Journal Article;Review",
+   "first": "Mandlekar S"
+  }
+ ],
+ "EGR2": [
+  {
+   "pmid": "28687085",
+   "year": "2017",
+   "journal": "BMC Cancer",
+   "title": "Regulation of early growth response 2 expression by secreted frizzled related protein 1.",
+   "pubtype": "Journal Article",
+   "first": "Gregory KJ"
+  },
+  {
+   "pmid": "41286384",
+   "year": "2025",
+   "journal": "Cell Biol Toxicol",
+   "title": "The Leupaxin/HDAC6/EGR2 axis facilitates breast cancer progression by enhancing macrophage M2 polarization.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "He S"
+  },
+  {
+   "pmid": "34932815",
+   "year": "2022",
+   "journal": "Neuro Oncol",
+   "title": "Neuronal exposure induces neurotransmitter signaling and synaptic mediators in tumors early in brain metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, N.I.H., Extramural",
+   "first": "Deshpande K"
+  },
+  {
+   "pmid": "28036274",
+   "year": "2017",
+   "journal": "Oncotarget",
+   "title": "Comprehensive tissue-specific gene set enrichment analysis and transcription factor analysis of breast cancer by integrating 14 gene expression datasets.",
+   "pubtype": "Comparative Study;Journal Article",
+   "first": "Li WX"
+  },
+  {
+   "pmid": "38305604",
+   "year": "2024",
+   "journal": "Eur Rev Med Pharmacol Sci",
+   "title": "Identification of new subtypes and potential genetic signatures in triple-negative breast cancer using weighted gene co-expression network analysis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Huang J"
+  },
+  {
+   "pmid": "36980175",
+   "year": "2023",
+   "journal": "Cells",
+   "title": "Bioinformatic miRNA-mRNAs Analysis Revels to miR-934 as a Potential Regulator of the Epithelial-Mesenchymal Transition in Triple-Negative Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Contreras-Rodr\u00edguez JA"
+  },
+  {
+   "pmid": "19032168",
+   "year": "2008",
+   "journal": "In Silico Biol",
+   "title": "MaXlab: a novel application for the cross comparison and integration of biological signatures from microarray studies.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Khalid S"
+  },
+  {
+   "pmid": "17938205",
+   "year": "2007",
+   "journal": "Mol Cell Biol",
+   "title": "An EGR2/CITED1 transcription factor complex and the 14-3-3sigma tumor suppressor are involved in regulating ErbB2 expression in a transgenic-mouse model of human breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Dillon RL"
+  }
+ ],
+ "ESR1": [
+  {
+   "pmid": "34392831",
+   "year": "2021",
+   "journal": "Breast Cancer Res",
+   "title": "ESR1 mutation as an emerging clinical biomarker in metastatic hormone receptor-positive breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Brett JO"
+  },
+  {
+   "pmid": "31318440",
+   "year": "2019",
+   "journal": "Cancer",
+   "title": "ESR1 mutations in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Dustin D"
+  },
+  {
+   "pmid": "37500767",
+   "year": "2023",
+   "journal": "Nat Rev Cancer",
+   "title": "Therapeutic resistance to anti-oestrogen therapy in breast cancer.",
+   "pubtype": "Journal Article;Review;Research Support, N.I.H., Extramural",
+   "first": "Will M"
+  },
+  {
+   "pmid": "36107319",
+   "year": "2022",
+   "journal": "Adv Exp Med Biol",
+   "title": "Estrogen Receptor Alpha and ESR1 Mutations in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Patel JM"
+  },
+  {
+   "pmid": "34621045",
+   "year": "2022",
+   "journal": "Br J Cancer",
+   "title": "ESR1 mutations and therapeutic resistance in metastatic breast cancer: progress and remaining challenges.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Herzog SK"
+  },
+  {
+   "pmid": "26122181",
+   "year": "2015",
+   "journal": "Nat Rev Clin Oncol",
+   "title": "ESR1 mutations\u2014a mechanism for acquired endocrine resistance in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.;Review",
+   "first": "Jeselsohn R"
+  },
+  {
+   "pmid": "36130016",
+   "year": "2022",
+   "journal": "Sci Transl Med",
+   "title": "Giredestrant reverses progesterone hypersensitivity driven by estrogen receptor mutations in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liang J"
+  },
+  {
+   "pmid": "40846852",
+   "year": "2025",
+   "journal": "Nat Commun",
+   "title": "Harnessing artificial intelligence to identify Bufalin as a molecular glue degrader of estrogen receptor alpha.",
+   "pubtype": "Journal Article",
+   "first": "Jiang S"
+  },
+  {
+   "pmid": "33983577",
+   "year": "2021",
+   "journal": "Adv Exp Med Biol",
+   "title": "Fusion Genes in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Kim J"
+  },
+  {
+   "pmid": "37864956",
+   "year": "2023",
+   "journal": "Cancer Treat Rev",
+   "title": "ESR1 mutations in HR+/HER2-metastatic breast cancer: Enhancing the accuracy of ctDNA testing.",
+   "pubtype": "Journal Article;Review",
+   "first": "Venetis K"
+  },
+  {
+   "pmid": "17417639",
+   "year": "2007",
+   "journal": "Nat Genet",
+   "title": "Estrogen receptor alpha (ESR1) gene amplification is frequent in breast cancer.",
+   "pubtype": "Comparative Study;Journal Article",
+   "first": "Holst F"
+  },
+  {
+   "pmid": "35959983",
+   "year": "2022",
+   "journal": "JNCI Cancer Spectr",
+   "title": "Prevalence of Estrogen Receptor Alpha (ESR1) Somatic Mutations in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Kinslow CJ"
+  },
+  {
+   "pmid": "37047814",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "A Basic Review on Estrogen Receptor Signaling Pathways in Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Clusan L"
+  },
+  {
+   "pmid": "32289273",
+   "year": "2020",
+   "journal": "Cancer Cell",
+   "title": "Overcoming Endocrine Resistance in Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Hanker AB"
+  },
+  {
+   "pmid": "37193881",
+   "year": "2023",
+   "journal": "Nat Rev Endocrinol",
+   "title": "The G protein-coupled oestrogen receptor GPER in health and disease: an update.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Prossnitz ER"
+  }
+ ],
+ "SREBF1": [
+  {
+   "pmid": "39169280",
+   "year": "2024",
+   "journal": "Cell Mol Biol Lett",
+   "title": "CLDN6 inhibits breast cancer growth and metastasis through SREBP1-mediated RAS palmitoylation.",
+   "pubtype": "Journal Article",
+   "first": "Jin Q"
+  },
+  {
+   "pmid": "41174748",
+   "year": "2025",
+   "journal": "J Exp Clin Cancer Res",
+   "title": "RUNX2 cooperates with SREBP1 to rewire cancer metabolism and promote aggressiveness.",
+   "pubtype": "Journal Article",
+   "first": "Vitale E"
+  },
+  {
+   "pmid": "41413590",
+   "year": "2025",
+   "journal": "Breast Cancer Res",
+   "title": "ALDH3A2 targets arachidonic acid to promote cell metastasis in TNBC via AMPK/m-TOR signaling pathway.",
+   "pubtype": "Journal Article",
+   "first": "Wang D"
+  },
+  {
+   "pmid": "34986886",
+   "year": "2022",
+   "journal": "J Exp Clin Cancer Res",
+   "title": "Adiponectin triggers breast cancer cell death via fatty acid metabolic reprogramming.",
+   "pubtype": "Journal Article",
+   "first": "Pham DV"
+  },
+  {
+   "pmid": "33738458",
+   "year": "2021",
+   "journal": "Nat Cancer",
+   "title": "Targeting immunosuppressive macrophages overcomes PARP inhibitor resistance in BRCA1-associated triple-negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Mehta AK"
+  },
+  {
+   "pmid": "38685451",
+   "year": "2024",
+   "journal": "Cancer Lett",
+   "title": "circLIFR-007 reduces liver metastasis via promoting hnRNPA1 nuclear export and YAP phosphorylation in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang Y"
+  },
+  {
+   "pmid": "39366375",
+   "year": "2024",
+   "journal": "Cancer Cell",
+   "title": "Midkine as a driver of age-related changes and increase in mammary tumorigenesis.",
+   "pubtype": "Journal Article",
+   "first": "Yan P"
+  },
+  {
+   "pmid": "40976126",
+   "year": "2025",
+   "journal": "Phytomedicine",
+   "title": "Eriocalyxin B induces ferroptosis through SIRT3 inhibition in triple-negative breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Chen X"
+  },
+  {
+   "pmid": "40874306",
+   "year": "2025",
+   "journal": "Arterioscler Thromb Vasc Biol",
+   "title": "Genome-Wide Pleiotropy Analysis Identifies Shared and Opposing Pathways Influencing Coronary Artery Disease and Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Yarmolinsky J"
+  },
+  {
+   "pmid": "32449166",
+   "year": "2020",
+   "journal": "Int J Cancer",
+   "title": "UBC12-mediated SREBP-1 neddylation worsens metastatic tumor prognosis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Heo MJ"
+  },
+  {
+   "pmid": "38003678",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "Epigenetic Dysregulation and Its Correlation with the Steroidogenic Machinery Impacting Breast Pathogenesis: Data Mining and Molecular Insights into Therapeutics.",
+   "pubtype": "Journal Article",
+   "first": "Manna PR"
+  },
+  {
+   "pmid": "41741135",
+   "year": "2026",
+   "journal": "J Immunother Cancer",
+   "title": "Commentary on \"Targeting B7-H3 inhibition-induced activation of fatty acid synthesis boosts anti-B7-H3 immunotherapy in triple-negative breast cancer\".",
+   "pubtype": "Journal Article",
+   "first": "Kotaich N"
+  },
+  {
+   "pmid": "40593359",
+   "year": "2025",
+   "journal": "Mol Biol Rep",
+   "title": "SREBP-1 in obesity-induced breast cancer: mechanisms and therapeutic perspectives.",
+   "pubtype": "Journal Article;Review",
+   "first": "Tiwari U"
+  },
+  {
+   "pmid": "32234868",
+   "year": "2020",
+   "journal": "Anticancer Res",
+   "title": "Association Between BMI and DNA Methylation in Blood or Normal Adult Breast Tissue: A Systematic Review.",
+   "pubtype": "Journal Article;Systematic Review",
+   "first": "Dragic D"
+  },
+  {
+   "pmid": "35545806",
+   "year": "2022",
+   "journal": "Expert Opin Ther Targets",
+   "title": "Fatty acid synthase: a druggable driver of breast cancer brain metastasis.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't",
+   "first": "Menendez JA"
+  },
+  {
+   "pmid": "23845903",
+   "year": "2013",
+   "journal": "Biochem Biophys Res Commun",
+   "title": "Estrogen induced concentration dependent differential gene expression in human breast cancer (MCF7) cells: role of transcription factors.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't",
+   "first": "Chandrasekharan S"
+  },
+  {
+   "pmid": "41022681",
+   "year": "2026",
+   "journal": "Adv Biol Regul",
+   "title": "Conventional and alternative approaches for targeting PIK3CA and PTEN alterations in head and neck, breast, and other cancers.",
+   "pubtype": "Journal Article;Review;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Gencel-Augusto J"
+  }
+ ],
+ "DNMT1": [
+  {
+   "pmid": "28813415",
+   "year": "2017",
+   "journal": "Nature",
+   "title": "CDK4/6 inhibition triggers anti-tumour immunity.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Goel S"
+  },
+  {
+   "pmid": "41327885",
+   "year": "2026",
+   "journal": "Adv Sci (Weinh)",
+   "title": "Metformin Impairs Breast Cancer Growth through the Inhibition of PRMT6.",
+   "pubtype": "Journal Article",
+   "first": "Wu Y"
+  },
+  {
+   "pmid": "40234721",
+   "year": "2025",
+   "journal": "Oncogene",
+   "title": "DNMT1 is required for efficient DSB repair and maintenance of replication fork stability, and its loss reverses resistance to PARP inhibitors in cancer cells.",
+   "pubtype": "Journal Article",
+   "first": "Wu W"
+  },
+  {
+   "pmid": "35307730",
+   "year": "2022",
+   "journal": "Signal Transduct Target Ther",
+   "title": "The DNMT1-PAS1-PH20 axis drives breast cancer growth and metastasis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Fu Y"
+  },
+  {
+   "pmid": "39623076",
+   "year": "2025",
+   "journal": "Oncogene",
+   "title": "Reversal of endocrine resistance via N6AMT1-NEDD4L pathway-mediated p110\u03b1 degradation.",
+   "pubtype": "Journal Article",
+   "first": "Ji L"
+  },
+  {
+   "pmid": "30359738",
+   "year": "2019",
+   "journal": "Gene",
+   "title": "Expression and clinicopathological significance of DNA methyltransferase 1, 3A and 3B in tamoxifen-treated breast cancer patients.",
+   "pubtype": "Journal Article",
+   "first": "Jahangiri R"
+  },
+  {
+   "pmid": "37343696",
+   "year": "2023",
+   "journal": "Mol Cell Proteomics",
+   "title": "Proteomic Dynamics of Breast Cancer Cell Lines Identifies Potential Therapeutic Protein Targets.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Sun R"
+  },
+  {
+   "pmid": "38757913",
+   "year": "2024",
+   "journal": "Mol Cancer Res",
+   "title": "MLLT6/ATF2 Axis Restrains Breast Cancer Progression by Driving DDIT3/4 Expression.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Yu Q"
+  },
+  {
+   "pmid": "31601979",
+   "year": "2019",
+   "journal": "Sci Rep",
+   "title": "An Evaluation of DNA Methyltransferase 1 (DNMT1) Single Nucleotide Polymorphisms and Chemotherapy-Associated Cognitive Impairment: A Prospective, Longitudinal Study.",
+   "pubtype": "Journal Article;Multicenter Study;Research Support, Non-U.S. Gov't",
+   "first": "Chan A"
+  },
+  {
+   "pmid": "40934285",
+   "year": "2025",
+   "journal": "PLoS Biol",
+   "title": "The mTORC2 subunit RICTOR drives breast cancer progression by promoting ganglioside biosynthesis through transcriptional and epigenetic mechanisms.",
+   "pubtype": "Journal Article",
+   "first": "Ansari MN"
+  },
+  {
+   "pmid": "32855526",
+   "year": "2020",
+   "journal": "Oncogene",
+   "title": "Inhibition of DNMT1 and ERR\u03b1 crosstalk suppresses breast cancer via derepression of IRF4.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Vernier M"
+  },
+  {
+   "pmid": "40185706",
+   "year": "2025",
+   "journal": "Cell Death Dis",
+   "title": "Growth factor receptor plasticity drives therapeutic persistence of metastatic breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Ayers M"
+  },
+  {
+   "pmid": "38204433",
+   "year": "2024",
+   "journal": "Analyst",
+   "title": "A review on recent advances in assays for DNMT1: a promising diagnostic biomarker for multiple human cancers.",
+   "pubtype": "Journal Article;Review",
+   "first": "Yu Y"
+  },
+  {
+   "pmid": "33604794",
+   "year": "2021",
+   "journal": "J Cancer Res Clin Oncol",
+   "title": "Comprehensive analysis of regulation of DNA methyltransferase isoforms in human breast tumors.",
+   "pubtype": "Journal Article;Review",
+   "first": "Hegde M"
+  },
+  {
+   "pmid": "32461152",
+   "year": "2021",
+   "journal": "Semin Cancer Biol",
+   "title": "DNMT1: A key drug target in triple-negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Wong KK"
+  },
+  {
+   "pmid": "28473984",
+   "year": "2017",
+   "journal": "Biomed Res Int",
+   "title": "A Meta-Analysis of the Association between DNMT1 Polymorphisms and Cancer Risk.",
+   "pubtype": "Journal Article;Meta-Analysis;Review",
+   "first": "Li H"
+  },
+  {
+   "pmid": "20101446",
+   "year": "2010",
+   "journal": "J Mammary Gland Biol Neoplasia",
+   "title": "Breast cancer epigenetics: from DNA methylation to microRNAs.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Veeck J"
+  },
+  {
+   "pmid": "28931725",
+   "year": "2017",
+   "journal": "Biosci Rep",
+   "title": "YAP/TAZ-mediated activation of serine metabolism and methylation regulation is critical for LKB1-deficient breast cancer progression.",
+   "pubtype": "Journal Article;Review",
+   "first": "Wu Q"
+  }
+ ],
+ "E2F3": [
+  {
+   "pmid": "27517917",
+   "year": "2016",
+   "journal": "Int J Mol Sci",
+   "title": "The Antitumor Effect of Metformin Is Mediated by miR-26a in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Cabello P"
+  },
+  {
+   "pmid": "36562927",
+   "year": "2023",
+   "journal": "Clin Transl Oncol",
+   "title": "siRNA and targeted delivery systems in breast cancer therapy.",
+   "pubtype": "Journal Article;Review",
+   "first": "Mirzaei S"
+  },
+  {
+   "pmid": "37499929",
+   "year": "2023",
+   "journal": "Biochim Biophys Acta Mol Basis Dis",
+   "title": "E2F3 induces DNA damage repair, stem-like properties and therapy resistance in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wei L"
+  },
+  {
+   "pmid": "34365840",
+   "year": "2021",
+   "journal": "Exp Biol Med (Maywood)",
+   "title": "E2F3 drives the epithelial-to-mesenchymal transition, cell invasion, and metastasis in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Jusino S"
+  },
+  {
+   "pmid": "34989110",
+   "year": "2022",
+   "journal": "Kaohsiung J Med Sci",
+   "title": "eIF4A3-induced circWAC promotes breast cancer progression through mediating miR-599/E2F3 axis.",
+   "pubtype": "Journal Article",
+   "first": "Huang WH"
+  },
+  {
+   "pmid": "32186770",
+   "year": "2020",
+   "journal": "Oncol Rep",
+   "title": "MicroRNA\u201134a expression affects breast cancer invasion in\u00a0vitro and patient survival via downregulation of E2F1 and E2F3 expression.",
+   "pubtype": "Journal Article;Retracted Publication",
+   "first": "Han R"
+  },
+  {
+   "pmid": "22960857",
+   "year": "2012",
+   "journal": "Arch Med Res",
+   "title": "Curtailing overexpression of E2F3 in breast cancer using siRNA (E2F3)-based gene silencing.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Vimala K"
+  },
+  {
+   "pmid": "35881300",
+   "year": "2022",
+   "journal": "Breast Cancer",
+   "title": "Neurospora crassa is a potential source of anti-cancer agents against breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Han R"
+  },
+  {
+   "pmid": "38525814",
+   "year": "2024",
+   "journal": "Biomol Concepts",
+   "title": "Withaferin A alters the expression of microRNAs 146a-5p and 34a-5p and associated hub genes in MDA-MB-231 cells.",
+   "pubtype": "Journal Article",
+   "first": "Shuaib M"
+  },
+  {
+   "pmid": "38864530",
+   "year": "2024",
+   "journal": "Biosci Rep",
+   "title": "Dexamethasone-tamoxifen combination exerts synergistic therapeutic effects in tamoxifen-resistance breast cancer cells.",
+   "pubtype": "Journal Article",
+   "first": "Gaballah AI"
+  },
+  {
+   "pmid": "29807010",
+   "year": "2018",
+   "journal": "Biochem Biophys Res Commun",
+   "title": "Circular RNA hsa_circ_0008039 promotes breast cancer cell proliferation and migration by regulating miR-432-5p/E2F3 axis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liu Y"
+  },
+  {
+   "pmid": "24362522",
+   "year": "2015",
+   "journal": "Oncogene",
+   "title": "HER2/Neu tumorigenesis and metastasis is regulated by E2F activator transcription factors.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural",
+   "first": "Andrechek ER"
+  }
+ ],
+ "hsa-miR-21": [
+  {
+   "pmid": "33391543",
+   "year": "2021",
+   "journal": "Theranostics",
+   "title": "Breast cancer exosomes contribute to pre-metastatic niche formation and promote bone metastasis of tumor cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Yuan X"
+  },
+  {
+   "pmid": "17072344",
+   "year": "2007",
+   "journal": "Oncogene",
+   "title": "miR-21-mediated tumor growth.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Si ML"
+  },
+  {
+   "pmid": "40076546",
+   "year": "2025",
+   "journal": "Int J Mol Sci",
+   "title": "Unveiling Novel miRNA-mRNA Interactions and Their Prognostic Roles in Triple-Negative Breast Cancer: Insights into miR-210, miR-183, miR-21, and miR-181b.",
+   "pubtype": "Journal Article",
+   "first": "Xu J"
+  },
+  {
+   "pmid": "35399150",
+   "year": "2022",
+   "journal": "J Egypt Natl Canc Inst",
+   "title": "MicroRNA 21 and microRNA 10b: early diagnostic biomarkers of breast cancer in Egyptian females.",
+   "pubtype": "Journal Article",
+   "first": "Ali M"
+  },
+  {
+   "pmid": "33988168",
+   "year": "2021",
+   "journal": "Acta Biomed",
+   "title": "MicroRNAs as biomarkers for breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Canatan D"
+  },
+  {
+   "pmid": "39226804",
+   "year": "2024",
+   "journal": "Pathol Res Pract",
+   "title": "MicroRNA-21 (miR-21) in breast cancer: From apoptosis dysregulation to therapeutic opportunities.",
+   "pubtype": "Journal Article;Review",
+   "first": "Syed RU"
+  },
+  {
+   "pmid": "32573191",
+   "year": "2020",
+   "journal": "ACS Appl Mater Interfaces",
+   "title": "Dual MicroRNA-Triggered Drug Release System for Combined Chemotherapy and Gene Therapy with Logic Operation.",
+   "pubtype": "Journal Article",
+   "first": "Yue R"
+  },
+  {
+   "pmid": "31351450",
+   "year": "2019",
+   "journal": "BMC Cancer",
+   "title": "microRNA-21 promotes breast cancer proliferation and metastasis by targeting LZTFL1.",
+   "pubtype": "Journal Article",
+   "first": "Wang H"
+  },
+  {
+   "pmid": "28628833",
+   "year": "2017",
+   "journal": "Biomed Pharmacother",
+   "title": "Urtica dioica extract suppresses miR-21 and metastasis-related genes in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Mansoori B"
+  },
+  {
+   "pmid": "32040529",
+   "year": "2020",
+   "journal": "PLoS One",
+   "title": "miRNA expression in advanced Algerian breast cancer tissues.",
+   "pubtype": "Journal Article",
+   "first": "Tfaily MA"
+  },
+  {
+   "pmid": "36499129",
+   "year": "2022",
+   "journal": "Int J Mol Sci",
+   "title": "Circular Sponge against miR-21 Enhances the Antitumor Activity of Doxorubicin against Breast Cancer Cells.",
+   "pubtype": "Journal Article",
+   "first": "Rama AR"
+  },
+  {
+   "pmid": "35286944",
+   "year": "2022",
+   "journal": "Biosens Bioelectron",
+   "title": "Simultaneous dual-targeted monitoring of breast cancer circulating miRNA via surface-enhanced Raman spectroscopy.",
+   "pubtype": "Journal Article",
+   "first": "Kim J"
+  },
+  {
+   "pmid": "25070783",
+   "year": "2013",
+   "journal": "Microrna",
+   "title": "MicroRNA and HER2-overexpressing cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Review",
+   "first": "Wang SE"
+  },
+  {
+   "pmid": "26898434",
+   "year": "2016",
+   "journal": "Biomed Pharmacother",
+   "title": "The role of oncomirs in the pathogenesis and treatment of breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Hemmatzadeh M"
+  },
+  {
+   "pmid": "24248894",
+   "year": "2014",
+   "journal": "Clin Transl Oncol",
+   "title": "MicroRNA-21 in breast cancer: diagnostic and prognostic potential.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Chen J"
+  },
+  {
+   "pmid": "28128741",
+   "year": "2017",
+   "journal": "Cancer Biomark",
+   "title": "MicroRNA in breast cancer: The association with BRCA1/2.",
+   "pubtype": "Journal Article;Review",
+   "first": "Petrovic N"
+  },
+  {
+   "pmid": "25337203",
+   "year": "2014",
+   "journal": "Int J Clin Exp Pathol",
+   "title": "Prognostic and clinicopathological significance of microRNA-21 overexpression in breast cancer: a meta-analysis.",
+   "pubtype": "Journal Article;Meta-Analysis;Review",
+   "first": "Pan F"
+  }
+ ],
+ "hsa-miR-195": [
+  {
+   "pmid": "36815359",
+   "year": "2023",
+   "journal": "Adv Sci (Weinh)",
+   "title": "MIR497HG-Derived miR-195 and miR-497 Mediate Tamoxifen Resistance via PI3K/AKT Signaling in Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Tian Y"
+  },
+  {
+   "pmid": "27133044",
+   "year": "2016",
+   "journal": "Biomed Pharmacother",
+   "title": "miR-195 inhibits tumor growth and angiogenesis through modulating IRS1 in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Wang Y"
+  },
+  {
+   "pmid": "24402230",
+   "year": "2014",
+   "journal": "Oncol Rep",
+   "title": "MicroRNA-195-5p is a potential diagnostic and therapeutic target for breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Luo Q"
+  },
+  {
+   "pmid": "29995098",
+   "year": "2018",
+   "journal": "Clinics (Sao Paulo)",
+   "title": "Expression of tumor suppressors miR-195 and let-7a as potential biomarkers of invasive breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Marques MM"
+  },
+  {
+   "pmid": "30932749",
+   "year": "2019",
+   "journal": "RNA Biol",
+   "title": "MiR-195 regulates mitochondrial function by targeting mitofusin-2 in breast cancer cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Purohit PK"
+  },
+  {
+   "pmid": "40548926",
+   "year": "2025",
+   "journal": "Mol Oncol",
+   "title": "Integrative miRNOMe profiling reveals the miR-195-5p-CHEK1 axis and its impact on luminal breast cancer outcomes.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Bou\u0161kov\u00e1 V"
+  },
+  {
+   "pmid": "21350001",
+   "year": "2011",
+   "journal": "Clin Cancer Res",
+   "title": "Analysis of MiR-195 and MiR-497 expression, regulation and role in breast cancer.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Li D"
+  },
+  {
+   "pmid": "27797225",
+   "year": "2016",
+   "journal": "Asian Pac J Cancer Prev",
+   "title": "Circulating miR-195 as a Therapeutic Biomarker in Turkish Breast Cancer Patients.",
+   "pubtype": "Comparative Study;Journal Article",
+   "first": "Cecene G"
+  },
+  {
+   "pmid": "31077182",
+   "year": "2019",
+   "journal": "BMC Cancer",
+   "title": "Circulating microRNAs miR-331 and miR-195 differentiate local luminal a from metastatic breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "McAnena P"
+  },
+  {
+   "pmid": "41141380",
+   "year": "2025",
+   "journal": "Breast J",
+   "title": "MicroRNA-195-5p Targets MYB to Regulate Proliferation and Malignant Metastasis in Triple-Negative Breast Cancer via PI3K/AKT/mTOR Signaling.",
+   "pubtype": "Journal Article",
+   "first": "Tang K"
+  },
+  {
+   "pmid": "41009685",
+   "year": "2025",
+   "journal": "Int J Mol Sci",
+   "title": "Integrated miRNA-mRNA Analyses of Triple-Negative Breast Cancer in Black and White Patients with or Without Obesity.",
+   "pubtype": "Journal Article",
+   "first": "Hossain F"
+  },
+  {
+   "pmid": "30650411",
+   "year": "2019",
+   "journal": "Gynecol Obstet Invest",
+   "title": "Deregulated microRNAs and Adiponectin in Postmenopausal Women with Breast Cancer.",
+   "pubtype": "Evaluation Study;Journal Article",
+   "first": "Pe\u00f1a-Cano MI"
+  },
+  {
+   "pmid": "37421840",
+   "year": "2023",
+   "journal": "Pathol Res Pract",
+   "title": "Prospectives of mirna gene signaling pathway in triple-negative breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Chakkaravarthi K"
+  },
+  {
+   "pmid": "29101635",
+   "year": "2018",
+   "journal": "Breast Cancer",
+   "title": "Candidate miRNAs in human breast cancer biomarkers: a systematic review.",
+   "pubtype": "Journal Article;Systematic Review",
+   "first": "Adhami M"
+  },
+  {
+   "pmid": "26530371",
+   "year": "2015",
+   "journal": "Adv Exp Med Biol",
+   "title": "Non Coding RNA Molecules as Potential Biomarkers in Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "De Leeneer K"
+  },
+  {
+   "pmid": "34440380",
+   "year": "2021",
+   "journal": "Genes (Basel)",
+   "title": "A Systematic Review on the Therapeutic Potentiality of PD-L1-Inhibiting MicroRNAs for Triple-Negative Breast Cancer: Toward Single-Cell Sequencing-Guided Biomimetic Delivery.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Systematic Review",
+   "first": "Shadbad MA"
+  },
+  {
+   "pmid": "42522824",
+   "year": "2026",
+   "journal": "Asian Pac J Cancer Prev",
+   "title": "MicroRNAs as Biomarkers of Breast Cancer Recurrence and Disease Progression: A Comprehensive Scoping Review across Molecular Subtypes.",
+   "pubtype": "Journal Article;Scoping Review",
+   "first": "Firmanda M"
+  }
+ ],
+ "hsa-miR-204": [
+  {
+   "pmid": "41489532",
+   "year": "2026",
+   "journal": "Cell Signal",
+   "title": "The ceRNA network of LINC00536/miR-204-5p/TGFBR2: A novel therapeutic target for breast cancer diagnosis and treatment.",
+   "pubtype": "Journal Article",
+   "first": "Tuersong T"
+  },
+  {
+   "pmid": "35126622",
+   "year": "2022",
+   "journal": "Comput Math Methods Med",
+   "title": "miR-204-5p Hampers Breast Cancer Malignancy and Affects the Cell Cycle by Targeting PRR11.",
+   "pubtype": "Journal Article;Retracted Publication",
+   "first": "Su Q"
+  },
+  {
+   "pmid": "32758616",
+   "year": "2020",
+   "journal": "Cancer Lett",
+   "title": "miR-204/COX5A axis contributes to invasion and chemotherapy resistance in estrogen receptor-positive breast cancers.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zeng J"
+  },
+  {
+   "pmid": "32895200",
+   "year": "2020",
+   "journal": "Nan Fang Yi Ke Da Xue Xue Bao",
+   "title": "[MiR-204 inhibits invasion and metastasis of breast cancer cells by targeted regulation of HNRNPA2B1].",
+   "pubtype": "Journal Article",
+   "first": "Zhang L"
+  },
+  {
+   "pmid": "26191195",
+   "year": "2015",
+   "journal": "Int J Clin Exp Pathol",
+   "title": "MicroRNA-204 targets JAK2 in breast cancer and induces cell apoptosis through the STAT3/BCl-2/survivin pathway.",
+   "pubtype": "Journal Article",
+   "first": "Wang X"
+  },
+  {
+   "pmid": "30228364",
+   "year": "2018",
+   "journal": "J Hum Genet",
+   "title": "Molecular pathogenesis of triple-negative breast cancer based on microRNA expression signatures: antitumor miR-204-5p targets AP1S3.",
+   "pubtype": "Journal Article",
+   "first": "Toda H"
+  },
+  {
+   "pmid": "26408179",
+   "year": "2016",
+   "journal": "Tumour Biol",
+   "title": "MiR-204-5p/Six1 feedback loop promotes epithelial-mesenchymal transition in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zeng J"
+  },
+  {
+   "pmid": "27703260",
+   "year": "2016",
+   "journal": "Sci Rep",
+   "title": "Dual targeting of ANGPT1 and TGFBR2 genes by miR-204 controls angiogenesis in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Flores-P\u00e9rez A"
+  },
+  {
+   "pmid": "30803129",
+   "year": "2019",
+   "journal": "Mol Oncol",
+   "title": "Interplay of lncRNA H19/miR-675 and lncRNA NEAT1/miR-204 in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "M\u00fcller V"
+  },
+  {
+   "pmid": "30457164",
+   "year": "2019",
+   "journal": "Mol Carcinog",
+   "title": "DSCAM-AS1 promotes tumor growth of breast cancer by reducing miR-204-5p and up-regulating RRM2.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liang WH"
+  },
+  {
+   "pmid": "28534958",
+   "year": "2017",
+   "journal": "Oncol Rep",
+   "title": "miR-204 regulates the biological behavior of breast cancer MCF-7 cells by directly targeting FOXA1.",
+   "pubtype": "Journal Article",
+   "first": "Shen SQ"
+  },
+  {
+   "pmid": "30406874",
+   "year": "2019",
+   "journal": "Pathol Oncol Res",
+   "title": "Triiodothyronine Promotes Cell Proliferation of Breast Cancer via Modulating miR-204/Amphiregulin.",
+   "pubtype": "Journal Article",
+   "first": "Zhang L"
+  },
+  {
+   "pmid": "30569120",
+   "year": "2019",
+   "journal": "Mol Med Rep",
+   "title": "Expression and potential molecular mechanisms of miR\u2011204\u20115p in breast cancer, based on bioinformatics and a meta\u2011analysis of 2,306\u00a0cases.",
+   "pubtype": "Journal Article;Meta-Analysis",
+   "first": "Cai KT"
+  },
+  {
+   "pmid": "28230291",
+   "year": "2017",
+   "journal": "J Cell Biochem",
+   "title": "Therapeutic Potentials of BDNF/TrkB in Breast Cancer; Current Status and Perspectives.",
+   "pubtype": "Journal Article;Review",
+   "first": "Tajbakhsh A"
+  },
+  {
+   "pmid": "24191129",
+   "year": "2013",
+   "journal": "Dis Markers",
+   "title": "Regulation of breast cancer and bone metastasis by microRNAs.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Vimalraj S"
+  }
+ ],
+ "hsa-miR-383": [
+  {
+   "pmid": "34761351",
+   "year": "2021",
+   "journal": "Med Oncol",
+   "title": "The combined therapy of miR-383-5p restoration and paclitaxel for treating MDA-MB-231 breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Dastmalchi N"
+  },
+  {
+   "pmid": "33359245",
+   "year": "2021",
+   "journal": "Life Sci",
+   "title": "MicroRNA -383-5p restrains the proliferation and migration of breast cancer cells and promotes apoptosis via inhibition of PD-L1.",
+   "pubtype": "Journal Article",
+   "first": "Azarbarzin S"
+  },
+  {
+   "pmid": "39205592",
+   "year": "2024",
+   "journal": "Asian Pac J Cancer Prev",
+   "title": "LncRNA TMPO-AS1 Promotes Triple-Negative Breast Cancer by Sponging miR-383-5p to Trigger the LDHA Axis.",
+   "pubtype": "Journal Article",
+   "first": "Vats P"
+  },
+  {
+   "pmid": "36205752",
+   "year": "2023",
+   "journal": "Strahlenther Onkol",
+   "title": "Knockdown of circ-ADAM9 inhibits malignant phenotype and enhances radiosensitivity in breast cancer cells via acting as a\u00a0sponge for miR-383-5p.",
+   "pubtype": "Journal Article",
+   "first": "Song P"
+  },
+  {
+   "pmid": "23722663",
+   "year": "2013",
+   "journal": "Int J Mol Sci",
+   "title": "MicroRNA-regulated protein-protein interaction networks and their functions in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Lee CH"
+  },
+  {
+   "pmid": "31903982",
+   "year": "2020",
+   "journal": "Cancer Biomark",
+   "title": "MicroRNA-383-5p acts as a potential prognostic biomarker and an inhibitor of tumor cell proliferation, migration, and invasion in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zhang J"
+  },
+  {
+   "pmid": "31187432",
+   "year": "2019",
+   "journal": "Interdiscip Sci",
+   "title": "Unearthing Regulatory Axes of Breast Cancer circRNAs Networks to Find Novel Targets and Fathom Pivotal Mechanisms.",
+   "pubtype": "Journal Article",
+   "first": "Afzali F"
+  },
+  {
+   "pmid": "35045746",
+   "year": "2022",
+   "journal": "Int J Toxicol",
+   "title": "Liquiritigenin Blocks Breast Cancer Progression by Inhibiting Connective Tissue Growth Factor Expression via Up-Regulating miR-383-5p.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang Z"
+  },
+  {
+   "pmid": "34440380",
+   "year": "2021",
+   "journal": "Genes (Basel)",
+   "title": "A Systematic Review on the Therapeutic Potentiality of PD-L1-Inhibiting MicroRNAs for Triple-Negative Breast Cancer: Toward Single-Cell Sequencing-Guided Biomimetic Delivery.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Systematic Review",
+   "first": "Shadbad MA"
+  }
+ ],
+ "hsa-miR-124": [
+  {
+   "pmid": "33632232",
+   "year": "2021",
+   "journal": "J Nanobiotechnology",
+   "title": "A paclitaxel and microRNA-124 coloaded stepped cleavable nanosystem against triple negative breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Chen C"
+  },
+  {
+   "pmid": "26918449",
+   "year": "2016",
+   "journal": "Oncotarget",
+   "title": "miR-124 downregulation leads to breast cancer progression via LncRNA-MALAT1 regulation and CDK4/E2F1 signal activation.",
+   "pubtype": "Journal Article",
+   "first": "Feng T"
+  },
+  {
+   "pmid": "27748910",
+   "year": "2016",
+   "journal": "Oncol Rep",
+   "title": "MicroRNA-124 inhibits cell proliferation and migration by regulating SNAI2 in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Du S"
+  },
+  {
+   "pmid": "30807260",
+   "year": "2019",
+   "journal": "Genet Test Mol Biomarkers",
+   "title": "Dual-Targeting of miR-124-3p and ABCC4 Promotes Sensitivity to Adriamycin in Breast Cancer Cells.",
+   "pubtype": "Journal Article",
+   "first": "Hu D"
+  },
+  {
+   "pmid": "25085587",
+   "year": "2014",
+   "journal": "Tumour Biol",
+   "title": "MicroRNA-124 inhibits cellular proliferation and invasion by targeting Ets-1 in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li W"
+  },
+  {
+   "pmid": "31322202",
+   "year": "2019",
+   "journal": "Int J Oncol",
+   "title": "NEAT1/miR\u2011124/STAT3 feedback loop promotes breast cancer progression.",
+   "pubtype": "Journal Article",
+   "first": "Pang Y"
+  },
+  {
+   "pmid": "24330780",
+   "year": "2013",
+   "journal": "Mol Cancer",
+   "title": "Microrna-124 targets flotillin-1 to regulate proliferation and migration in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li L"
+  },
+  {
+   "pmid": "23250910",
+   "year": "2013",
+   "journal": "Carcinogenesis",
+   "title": "MiR-124 targets Slug to regulate epithelial-mesenchymal transition and metastasis of breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liang YJ"
+  },
+  {
+   "pmid": "27842510",
+   "year": "2016",
+   "journal": "BMC Cancer",
+   "title": "miR-124-3p functions as a tumor suppressor in breast cancer by targeting CBL.",
+   "pubtype": "Journal Article",
+   "first": "Wang Y"
+  },
+  {
+   "pmid": "39375243",
+   "year": "2024",
+   "journal": "Pharm Res",
+   "title": "The Role of MicroRNA-124-3p in Breast Cancer Stem Cell Inhibition by Benzyl Isothiocyanate.",
+   "pubtype": "Journal Article",
+   "first": "Kim SH"
+  },
+  {
+   "pmid": "29343249",
+   "year": "2018",
+   "journal": "Mol Cancer",
+   "title": "microRNA-124 inhibits bone metastasis of breast cancer by repressing Interleukin-11.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Cai WL"
+  },
+  {
+   "pmid": "30611621",
+   "year": "2019",
+   "journal": "Pathol Res Pract",
+   "title": "miR-124 regulates EMT based on ZEB2 target to inhibit invasion and metastasis in triple-negative breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Ji H"
+  },
+  {
+   "pmid": "28598255",
+   "year": "2017",
+   "journal": "Transcription",
+   "title": "The regulatory role of miRNAs on VDR in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Singh T"
+  },
+  {
+   "pmid": "31615040",
+   "year": "2019",
+   "journal": "Int J Mol Sci",
+   "title": "Evidences from a Systematic Review and Meta-Analysis Unveil the Role of MiRNA Polymorphisms in the Predisposition to Female Neoplasms.",
+   "pubtype": "Journal Article;Meta-Analysis;Systematic Review",
+   "first": "Bastami M"
+  },
+  {
+   "pmid": "39665256",
+   "year": "2025",
+   "journal": "Horm Mol Biol Clin Investig",
+   "title": "Crosstalk between miRNAs and signaling pathways in the development of drug resistance in breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Amiri R"
+  },
+  {
+   "pmid": "30258192",
+   "year": "2018",
+   "journal": "Sci Rep",
+   "title": "Methylation deregulation of miRNA promoters identifies miR124-2 as a survival biomarker in Breast Cancer in very young women.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't",
+   "first": "Oltra SS"
+  }
+ ],
+ "hsa-miR-155": [
+  {
+   "pmid": "41024045",
+   "year": "2025",
+   "journal": "Breast Cancer Res",
+   "title": "Hsa-miR-155-5p expression in primary breast tissue may have the potential for prediction of breast cancer brain recurrence: results from the multi-institutional exploratory cohort study.",
+   "pubtype": "Journal Article;Multicenter Study",
+   "first": "Koyama Y"
+  },
+  {
+   "pmid": "37929643",
+   "year": "2023",
+   "journal": "EMBO Rep",
+   "title": "Breast adipose tissue-derived extracellular vesicles from obese women alter tumor cell metabolism.",
+   "pubtype": "Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't",
+   "first": "Liu S"
+  },
+  {
+   "pmid": "31424663",
+   "year": "2019",
+   "journal": "J BUON",
+   "title": "MicroRNA-155regulates the proliferation and metastasis of human breast cancers by targeting MAPK7.",
+   "pubtype": "Journal Article",
+   "first": "Liu JH"
+  },
+  {
+   "pmid": "37409119",
+   "year": "2023",
+   "journal": "Front Immunol",
+   "title": "Novel microRNAs modulating ecto-5'-nucleotidase expression.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Korda\u00df T"
+  },
+  {
+   "pmid": "35648436",
+   "year": "2022",
+   "journal": "Biomater Sci",
+   "title": "Poly-antioxidants for enhanced anti-miR-155 delivery and synergistic therapy of metastatic breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zhang Q"
+  },
+  {
+   "pmid": "41183156",
+   "year": "2025",
+   "journal": "J Biochem Mol Toxicol",
+   "title": "Exosomal miR-155-5p Modulates Breast Cancer Proliferation and Metastasis Via NF-\u03baB Activation.",
+   "pubtype": "Journal Article",
+   "first": "Xu R"
+  },
+  {
+   "pmid": "32096299",
+   "year": "2020",
+   "journal": "Mol Carcinog",
+   "title": "miR-155 increases stemness and decitabine resistance in triple-negative breast cancer cells by inhibiting TSPAN5.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Yang LW"
+  },
+  {
+   "pmid": "27065318",
+   "year": "2016",
+   "journal": "Oncogene",
+   "title": "miR-155 downregulates ErbB2 and suppresses ErbB2-induced malignant transformation of breast epithelial cells.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "He XH"
+  },
+  {
+   "pmid": "32757734",
+   "year": "2021",
+   "journal": "Immunol Invest",
+   "title": "Upregulation of microRNA-155 Enhanced Migration and Function of Dendritic Cells in Three-dimensional Breast Cancer Microenvironment.",
+   "pubtype": "Journal Article",
+   "first": "Yang P"
+  },
+  {
+   "pmid": "28882698",
+   "year": "2017",
+   "journal": "Hum Pathol",
+   "title": "Prognostic value of microRNA-9 and microRNA-155 expression in triple-negative breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Jang MH"
+  },
+  {
+   "pmid": "39889434",
+   "year": "2025",
+   "journal": "Biosens Bioelectron",
+   "title": "Cu(2+)-encapsulated DNA nanosphere and filter enable sensitive and rapid analysis of miRNA-155.",
+   "pubtype": "Journal Article",
+   "first": "Liu W"
+  },
+  {
+   "pmid": "31603116",
+   "year": "2019",
+   "journal": "J Cancer Res Ther",
+   "title": "Circulating miR-21 and miR-155 as potential noninvasive biomarkers in Iranian Azeri patients with breast carcinoma.",
+   "pubtype": "Journal Article",
+   "first": "Soleimanpour E"
+  },
+  {
+   "pmid": "32823863",
+   "year": "2020",
+   "journal": "Int J Mol Sci",
+   "title": "Prognostic and Clinicopathological Significance of MiR-155 in Breast Cancer: A Systematic Review.",
+   "pubtype": "Journal Article;Systematic Review",
+   "first": "Grimaldi AM"
+  },
+  {
+   "pmid": "28128741",
+   "year": "2017",
+   "journal": "Cancer Biomark",
+   "title": "MicroRNA in breast cancer: The association with BRCA1/2.",
+   "pubtype": "Journal Article;Review",
+   "first": "Petrovic N"
+  },
+  {
+   "pmid": "37175974",
+   "year": "2023",
+   "journal": "Int J Mol Sci",
+   "title": "MicroRNA Dysregulation in Early Breast Cancer Diagnosis: A Systematic Review and Meta-Analysis.",
+   "pubtype": "Meta-Analysis;Systematic Review;Journal Article",
+   "first": "Garrido-Palacios A"
+  },
+  {
+   "pmid": "26898434",
+   "year": "2016",
+   "journal": "Biomed Pharmacother",
+   "title": "The role of oncomirs in the pathogenesis and treatment of breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Hemmatzadeh M"
+  },
+  {
+   "pmid": "34238179",
+   "year": "2021",
+   "journal": "Microrna",
+   "title": "Prognostic Implications of microRNA-155, -133a, -21 and -205 in Breast Cancer Patients' Plasma.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't",
+   "first": "Raghu A"
+  },
+  {
+   "pmid": "28109133",
+   "year": "2018",
+   "journal": "J Cell Physiol",
+   "title": "The prognostic and therapeutic application of microRNAs in breast cancer: Tissue and circulating microRNAs.",
+   "pubtype": "Journal Article;Review",
+   "first": "Bahrami A"
+  }
+ ],
+ "hsa-miR-429": [
+  {
+   "pmid": "25405387",
+   "year": "2015",
+   "journal": "Int J Oncol",
+   "title": "miR-429 inhibits migration and invasion of breast cancer cells in vitro.",
+   "pubtype": "Journal Article",
+   "first": "Ye ZB"
+  },
+  {
+   "pmid": "31706051",
+   "year": "2020",
+   "journal": "Bone",
+   "title": "MicroRNA-429 inhibits bone metastasis in breast cancer by regulating CrkL and MMP-9.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang X"
+  },
+  {
+   "pmid": "34828282",
+   "year": "2021",
+   "journal": "Genes (Basel)",
+   "title": "MUC14-Related ncRNA-mRNA Network in Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wang S"
+  },
+  {
+   "pmid": "31903105",
+   "year": "2020",
+   "journal": "Theranostics",
+   "title": "Theranostic application of miR-429 in HER2+ breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Cava C"
+  },
+  {
+   "pmid": "37737712",
+   "year": "2023",
+   "journal": "Aging (Albany NY)",
+   "title": "The oncogenic miR-429 promotes triple-negative breast cancer progression by degrading DLC1.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li Y"
+  },
+  {
+   "pmid": "39093474",
+   "year": "2024",
+   "journal": "Bull Exp Biol Med",
+   "title": "Influence of Fragmented Human DNA on the Relationship between MicroRNA (miR-21, -221, -222, and -429) of the Lymph and the Structure of the Thymus after Surgical Treatment and Chemotherapy for Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Kazakov OV"
+  },
+  {
+   "pmid": "36076930",
+   "year": "2022",
+   "journal": "Int J Mol Sci",
+   "title": "Circulating miR-200 Family and CTCs in Metastatic Breast Cancer before, during, and after a New Line of Systemic Treatment.",
+   "pubtype": "Journal Article",
+   "first": "Fischer C"
+  },
+  {
+   "pmid": "40683918",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "title": "The circDUSP1/miR-429/DLC1 regulatory network affects proliferation, migration, and invasion of triple-negative breast cancer cells.",
+   "pubtype": "Journal Article",
+   "first": "Jian C"
+  },
+  {
+   "pmid": "37247276",
+   "year": "2023",
+   "journal": "Asian Pac J Cancer Prev",
+   "title": "Stage Analysis of Breast Cancer Metabolomics: A System Biology Approach.",
+   "pubtype": "Journal Article",
+   "first": "Hosseinpour Z"
+  },
+  {
+   "pmid": "40862714",
+   "year": "2025",
+   "journal": "Cells",
+   "title": "Identification of Epigenetic Regulatory Networks of Gene Methylation-miRNA-Transcription Factor Feed-Forward Loops in Basal-like Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Okano LM"
+  },
+  {
+   "pmid": "34626053",
+   "year": "2021",
+   "journal": "Cancer Sci",
+   "title": "Multi-miRNA panel of tumor-derived extracellular vesicles as promising diagnostic biomarkers of early-stage breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Kim MW"
+  },
+  {
+   "pmid": "35237856",
+   "year": "2022",
+   "journal": "Arch Gynecol Obstet",
+   "title": "Circulating miR-200 family as predictive markers during systemic therapy of metastatic breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Fischer C"
+  },
+  {
+   "pmid": "37421840",
+   "year": "2023",
+   "journal": "Pathol Res Pract",
+   "title": "Prospectives of mirna gene signaling pathway in triple-negative breast cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Chakkaravarthi K"
+  },
+  {
+   "pmid": "41716019",
+   "year": "2026",
+   "journal": "Int J Oncol",
+   "title": "Role and underlying mechanisms of miR\u2011200 family in breast cancer (Review).",
+   "pubtype": "Journal Article;Review",
+   "first": "Liu J"
+  },
+  {
+   "pmid": "35030348",
+   "year": "2022",
+   "journal": "Cancer Epidemiol",
+   "title": "Diagnostic and prognostic value of miR-200 family in breast cancer: A meta-analysis and systematic review.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't;Systematic Review",
+   "first": "Thi Chung Duong T"
+  }
+ ],
+ "hsa-miR-141": [
+  {
+   "pmid": "33536459",
+   "year": "2021",
+   "journal": "Sci Rep",
+   "title": "Combined analysis of miR-200 family and its significance for breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Fontana A"
+  },
+  {
+   "pmid": "33845141",
+   "year": "2021",
+   "journal": "Genomics",
+   "title": "LncRNA MEG3 regulates breast cancer proliferation and apoptosis through miR-141-3p/RBMS3 axis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Dong S"
+  },
+  {
+   "pmid": "33202602",
+   "year": "2020",
+   "journal": "Int J Mol Sci",
+   "title": "Potential Diagnostic and Prognostic Utility of miR-141, miR-181b1, and miR-23b in Breast Cancer.",
+   "pubtype": "Journal Article",
+   "first": "Taha M"
+  },
+  {
+   "pmid": "25885099",
+   "year": "2015",
+   "journal": "BMC Cancer",
+   "title": "Circulating miR-200c and miR-141 and outcomes in patients with breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Antol\u00edn S"
+  },
+  {
+   "pmid": "36579395",
+   "year": "2023",
+   "journal": "Curr Cancer Drug Targets",
+   "title": "HIF-1\u03b1/Malat1/miR-141 Axis Activates Autophagy to Increase Proliferation, Migration, and Invasion in Triple-negative Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Xu F"
+  },
+  {
+   "pmid": "37311160",
+   "year": "2023",
+   "journal": "OMICS",
+   "title": "Breast Cancer Therapeutics and Hippo Signaling Pathway: Novel MicroRNA-Gene-Protein Interaction Networks.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Gupta SRR"
+  },
+  {
+   "pmid": "28704935",
+   "year": "2017",
+   "journal": "Int J Mol Sci",
+   "title": "Entrainment of Breast Cell Lines Results in Rhythmic Fluctuations of MicroRNAs.",
+   "pubtype": "Journal Article",
+   "first": "Chacolla-Huaringa R"
+  },
+  {
+   "pmid": "36418345",
+   "year": "2022",
+   "journal": "Sci Rep",
+   "title": "Identification of potential microRNA diagnostic panels and uncovering regulatory mechanisms in breast cancer pathogenesis.",
+   "pubtype": "Journal Article",
+   "first": "Sharifi Z"
+  },
+  {
+   "pmid": "27075851",
+   "year": "2016",
+   "journal": "J Natl Cancer Inst",
+   "title": "miR-141-Mediated Regulation of Brain Metastasis From Breast Cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural",
+   "first": "Debeb BG"
+  },
+  {
+   "pmid": "28630279",
+   "year": "2017",
+   "journal": "Mol Cell Biol",
+   "title": "Obesity and p16(INK4A) Downregulation Activate Breast Adipocytes and Promote Their Protumorigenicity.",
+   "pubtype": "Journal Article",
+   "first": "Al-Khalaf HH"
+  },
+  {
+   "pmid": "28637482",
+   "year": "2017",
+   "journal": "Breast Cancer Res",
+   "title": "MicroRNA-200c and microRNA- 141 are regulated by a FOXP3-KAT2B axis and associated with tumor metastasis in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Zhang G"
+  },
+  {
+   "pmid": "36076930",
+   "year": "2022",
+   "journal": "Int J Mol Sci",
+   "title": "Circulating miR-200 Family and CTCs in Metastatic Breast Cancer before, during, and after a New Line of Systemic Treatment.",
+   "pubtype": "Journal Article",
+   "first": "Fischer C"
+  },
+  {
+   "pmid": "21873780",
+   "year": "2011",
+   "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+   "title": "[Transcriptomic regulation and molecular mechanism of polygenic tumor at different stages].",
+   "pubtype": "English Abstract;Journal Article;Research Support, Non-U.S. Gov't;Review",
+   "first": "Li X"
+  },
+  {
+   "pmid": "41716019",
+   "year": "2026",
+   "journal": "Int J Oncol",
+   "title": "Role and underlying mechanisms of miR\u2011200 family in breast cancer (Review).",
+   "pubtype": "Journal Article;Review",
+   "first": "Liu J"
+  },
+  {
+   "pmid": "35030348",
+   "year": "2022",
+   "journal": "Cancer Epidemiol",
+   "title": "Diagnostic and prognostic value of miR-200 family in breast cancer: A meta-analysis and systematic review.",
+   "pubtype": "Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't;Systematic Review",
+   "first": "Thi Chung Duong T"
+  }
+ ],
+ "hsa-miR-34a": [
+  {
+   "pmid": "31894298",
+   "year": "2020",
+   "journal": "Int J Oncol",
+   "title": "Curcumin rescues breast cells from epithelial\u2011mesenchymal transition and invasion induced by anti\u2011miR\u201134a.",
+   "pubtype": "Journal Article",
+   "first": "Gallardo M"
+  },
+  {
+   "pmid": "30885232",
+   "year": "2019",
+   "journal": "Mol Cancer",
+   "title": "MCT-1/miR-34a/IL-6/IL-6R signaling axis promotes EMT progression, cancer stemness and M2 macrophage polarization in triple-negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Weng YS"
+  },
+  {
+   "pmid": "38057687",
+   "year": "2024",
+   "journal": "Breast Cancer Res Treat",
+   "title": "Restoring microRNA-34a overcomes acquired drug resistance and disease progression in human breast cancer cell lines via suppressing the ABCC1 gene.",
+   "pubtype": "Journal Article",
+   "first": "Yahya SMM"
+  },
+  {
+   "pmid": "28915924",
+   "year": "2017",
+   "journal": "J Exp Clin Cancer Res",
+   "title": "PDL1 And LDHA act as ceRNAs in triple negative breast cancer by regulating miR-34a.",
+   "pubtype": "Journal Article",
+   "first": "Huang X"
+  },
+  {
+   "pmid": "27813227",
+   "year": "2017",
+   "journal": "Cell Biol Int",
+   "title": "MiR-34a modulates ErbB2 in breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Wang Y"
+  },
+  {
+   "pmid": "30072748",
+   "year": "2018",
+   "journal": "Sci Rep",
+   "title": "MicroRNA in diagnosis and therapy monitoring of early-stage triple-negative breast cancer.",
+   "pubtype": "Clinical Trial;Journal Article",
+   "first": "Kahraman M"
+  },
+  {
+   "pmid": "33673143",
+   "year": "2021",
+   "journal": "Genes (Basel)",
+   "title": "miR-34a and miR-200c Have an Additive Tumor-Suppressive Effect on Breast Cancer Cells and Patient Prognosis.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Mansoori B"
+  },
+  {
+   "pmid": "27524218",
+   "year": "2016",
+   "journal": "Am J Med Sci",
+   "title": "MiR-34a Inhibits Breast Cancer Proliferation and Progression by Targeting Wnt1 in Wnt/\u03b2-Catenin Signaling Pathway.",
+   "pubtype": "Journal Article",
+   "first": "Si W"
+  },
+  {
+   "pmid": "25173798",
+   "year": "2014",
+   "journal": "Cancer Lett",
+   "title": "MiR-34a regulates therapy resistance by targeting HDAC1 and HDAC7 in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wu MY"
+  },
+  {
+   "pmid": "26902416",
+   "year": "2016",
+   "journal": "Sci Rep",
+   "title": "The miR-34a-LDHA axis regulates glucose metabolism and tumor growth in breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Xiao X"
+  },
+  {
+   "pmid": "40724972",
+   "year": "2025",
+   "journal": "Int J Mol Sci",
+   "title": "Long-Chain Fatty Acids Alter Estrogen Receptor Expression in Breast Cancer Cells.",
+   "pubtype": "Journal Article",
+   "first": "Ogata R"
+  },
+  {
+   "pmid": "31325197",
+   "year": "2019",
+   "journal": "Cancer Sci",
+   "title": "Delphinidin suppresses breast carcinogenesis through the HOTAIR/microRNA-34a axis.",
+   "pubtype": "Journal Article",
+   "first": "Han B"
+  },
+  {
+   "pmid": "37481931",
+   "year": "2023",
+   "journal": "Biomed Pharmacother",
+   "title": "Anticancer activity of thymoquinone against breast cancer cells: Mechanisms of action and delivery approaches.",
+   "pubtype": "Journal Article;Review",
+   "first": "Shabani H"
+  },
+  {
+   "pmid": "29189128",
+   "year": "2018",
+   "journal": "Curr Pharm Des",
+   "title": "Curcumin as an Adjunct Therapy and microRNA Modulator in Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Norouzi S"
+  },
+  {
+   "pmid": "26310899",
+   "year": "2015",
+   "journal": "Drug Dev Res",
+   "title": "The Role of MicroRNAs in the Chemoresistance of Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Wang J"
+  },
+  {
+   "pmid": "41799525",
+   "year": "2026",
+   "journal": "Oncol Res",
+   "title": "Tumor Suppressor p53 and MicroRNAs Interaction in Breast Cancer.",
+   "pubtype": "Journal Article;Review",
+   "first": "Luna MEV"
+  },
+  {
+   "pmid": "29469819",
+   "year": "2017",
+   "journal": "Int J Mol Sci",
+   "title": "The Long Noncoding RNA HOTAIR in Breast Cancer: Does Autophagy Play a Role?",
+   "pubtype": "Journal Article;Review",
+   "first": "Paw\u0142owska E"
+  },
+  {
+   "pmid": "28423566",
+   "year": "2017",
+   "journal": "Oncotarget",
+   "title": "The diagnostic role of microRNA-34a in breast cancer: a systematic review and meta-analysis.",
+   "pubtype": "Journal Article;Meta-Analysis;Systematic Review",
+   "first": "Imani S"
+  }
+ ],
+ "hsa-miR-101": [
+  {
+   "pmid": "31755218",
+   "year": "2020",
+   "journal": "Mol Oncol",
+   "title": "RNA-sequence-based microRNA expression signature in breast cancer: tumor-suppressive miR-101-5p regulates molecular pathogenesis.",
+   "pubtype": "Journal Article",
+   "first": "Toda H"
+  },
+  {
+   "pmid": "40685476",
+   "year": "2025",
+   "journal": "J Egypt Natl Canc Inst",
+   "title": "MiR-101-3p and miR-106b-5p roles in EMT pathway: prognostic and therapeutic insights for luminal breast cancer.",
+   "pubtype": "Journal Article",
+   "first": "Tarek G"
+  },
+  {
+   "pmid": "31696480",
+   "year": "2019",
+   "journal": "Eur Rev Med Pharmacol Sci",
+   "title": "Effect of miR-101 on proliferation and oxidative stress-induced apoptosis of breast cancer cells via Nrf2 signaling pathway.",
+   "pubtype": "Journal Article",
+   "first": "Yi J"
+  },
+  {
+   "pmid": "20956939",
+   "year": "2011",
+   "journal": "Oncogene",
+   "title": "MicroRNA-101-mediated Akt activation and estrogen-independent growth.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S.",
+   "first": "Sachdeva M"
+  },
+  {
+   "pmid": "28946143",
+   "year": "2017",
+   "journal": "Cell Physiol Biochem",
+   "title": "MicroRNA-101 Inhibits Growth, Proliferation and Migration and Induces Apoptosis of Breast Cancer Cells by Targeting Sex-Determining Region Y-Box 2.",
+   "pubtype": "Journal Article",
+   "first": "Wang J"
+  },
+  {
+   "pmid": "25059472",
+   "year": "2014",
+   "journal": "Cell Physiol Biochem",
+   "title": "miR-101 promotes breast cancer cell apoptosis by targeting Janus kinase 2.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Wang L"
+  },
+  {
+   "pmid": "26036638",
+   "year": "2015",
+   "journal": "Oncotarget",
+   "title": "MicroRNA-101 inhibits cell progression and increases paclitaxel sensitivity by suppressing MCL-1 expression in human triple-negative breast cancer.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Liu X"
+  },
+  {
+   "pmid": "30583076",
+   "year": "2019",
+   "journal": "Cancer Lett",
+   "title": "Med19 is targeted by miR-101-3p/miR-422a and promotes breast cancer progression by regulating the EGFR/MEK/ERK signaling pathway.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Zhang X"
+  },
+  {
+   "pmid": "33177704",
+   "year": "2021",
+   "journal": "J Hum Genet",
+   "title": "Molecular pathogenesis of breast cancer: impact of miR-99a-5p and miR-99a-3p regulation on oncogenic genes.",
+   "pubtype": "Comparative Study;Journal Article",
+   "first": "Shinden Y"
+  },
+  {
+   "pmid": "26360780",
+   "year": "2015",
+   "journal": "Oncotarget",
+   "title": "MiRNA-101 inhibits breast cancer growth and metastasis by targeting CX chemokine receptor 7.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Li JT"
+  },
+  {
+   "pmid": "34041621",
+   "year": "2021",
+   "journal": "Breast Cancer Res Treat",
+   "title": "Combinatorial targeting of microRNA-26b and microRNA-101 exerts a synergistic inhibition on cyclooxygenase-2 in brain metastatic triple-negative breast cancer cells.",
+   "pubtype": "Journal Article",
+   "first": "Harati R"
+  },
+  {
+   "pmid": "34035375",
+   "year": "2021",
+   "journal": "Sci Rep",
+   "title": "MicroRNA in combination with HER2-targeting drugs reduces breast cancer cell viability in vitro.",
+   "pubtype": "Journal Article;Research Support, Non-U.S. Gov't",
+   "first": "Normann LS"
+  }
+ ]
+}

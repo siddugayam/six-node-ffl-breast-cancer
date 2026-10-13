@@ -1,0 +1,74 @@
+K 6
+nparts 64
+part 42
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 42210
+visited 18765475
+rng_final 42
+comp 1 2 3 13
+comp 1 3 2 701
+comp 1 4 1 81
+comp 2 1 3 4
+comp 2 2 2 1094
+comp 2 3 1 15433
+comp 2 4 0 2
+comp 3 1 2 184
+comp 3 2 1 16313
+comp 3 3 0 1217
+comp 4 0 2 12
+comp 4 1 1 2772
+comp 4 2 0 2943
+comp 5 0 1 195
+comp 5 1 0 1160
+comp 6 0 0 86
+mask 2 86
+mask 3 207
+mask 6 822
+mask 7 52
+mask 11 6
+mask 12 29
+mask 13 29
+mask 14 9593
+mask 15 3849
+mask 18 12
+mask 19 9
+mask 20 678
+mask 21 84
+mask 22 3810
+mask 23 828
+mask 26 2
+mask 27 143
+mask 28 7124
+mask 29 1325
+mask 30 8355
+mask 31 5156
+mask 46 6
+mask 61 2
+mask 62 3
+flags 0 36995
+flags 1 751
+flags 2 55
+flags 3 324
+flags 7 9
+flags 8 4002
+flags 9 1
+flags 10 11
+flags 11 9
+flags 24 53
+exflag 0 CEBPA FN1 hsa-miR-29a FOSL1 EZH2 hsa-miR-200b
+exflag 0 CEBPA FN1 hsa-miR-29a FOSL1 EZH2 hsa-miR-200c
+exflag 0 CEBPA FN1 hsa-miR-29a FOSL1 EZH2 hsa-miR-217
+exflag 1 CEBPA SPI1 STAT3 CCND2 hsa-miR-142 IRF9
+exflag 1 CEBPA SPI1 STAT3 CCND2 hsa-miR-17 IRF9
+exflag 1 CEBPA SPI1 STAT3 CCND2 hsa-miR-20a IRF9
+exflag 2 CEBPA SPI1 hsa-miR-29a COL1A1 COL3A1 hsa-miR-338
+exflag 2 CEBPA SPI1 hsa-miR-29b COL1A1 COL3A1 hsa-miR-338
+exflag 2 CEBPA STAT3 hsa-let-7d COL1A1 COL3A1 hsa-miR-29a
+exflag 3 CEBPA CCL2 STAT3 FOS NFKB1 hsa-miR-181a | TF1=CEBPA TF2=STAT3 miRNA=hsa-miR-181a target=CCL2
+exflag 3 CEBPA CCL2 STAT3 hsa-miR-181a SMAD3 JUN | TF1=CEBPA TF2=STAT3 miRNA=hsa-miR-181a target=CCL2
+exflag 3 CEBPA CCL2 STAT3 hsa-miR-181a SMAD4 JUN | TF1=CEBPA TF2=STAT3 miRNA=hsa-miR-181a target=CCL2
+exflag 4 CEBPA SPI1 STAT3 AR VEGFA hsa-miR-17 | TF1=STAT3 TF2=AR miRNA=hsa-miR-17 target=VEGFA
+exflag 4 CEBPA SPI1 STAT3 AR VEGFA hsa-miR-20a | TF1=STAT3 TF2=AR miRNA=hsa-miR-20a target=VEGFA
+exflag 4 CEBPA SPI1 STAT3 F2R TWIST1 hsa-miR-181a | TF1=STAT3 TF2=TWIST1 miRNA=hsa-miR-181a target=F2R

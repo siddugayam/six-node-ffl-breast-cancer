@@ -1,0 +1,11 @@
+node sets: 4node_miRNA_FFL 1866; 4node_TF_FFL 1563; 4node_composite_FFL 1527; 5node_miRNA_FFL 688; 5node_TF_FFL 602; 5node_composite_FFL 602; 6node_miRNA_FFL 4041; 6node_TF_FFL 4810; 6node_composite_FFL 1151
+samples: 1065; features: 20742
+circuits with all members measured: 4node_miRNA_FFL 1821 of 1866; 4node_TF_FFL 1509 of 1563; 4node_composite_FFL 1501 of 1527; 5node_miRNA_FFL 667 of 688; 5node_TF_FFL 593 of 602; 5node_composite_FFL 593 of 602; 6node_miRNA_FFL 3957 of 4041; 6node_TF_FFL 4713 of 4810; 6node_composite_FFL 1105 of 1151
+distinct gene sets: 15830 (15743 scored by GSVA; 87 one-gene extensions)
+GSVA done in 7.4 min; 15743 x 1065
+OS: univariable n = 1051 events 147; adjusted n = 1028 events 137
+OS GSVA_adjusted_age_stage: 16459 circuits in 1.1 min
+OS meanZ_univariable: 16459 circuits in 1 min
+PFI: univariable n = 1051 events 140; adjusted n = 1028 events 132
+PFI GSVA_adjusted_age_stage: 16459 circuits in 1.3 min
+PFI meanZ_univariable: 16459 circuits in 1 min

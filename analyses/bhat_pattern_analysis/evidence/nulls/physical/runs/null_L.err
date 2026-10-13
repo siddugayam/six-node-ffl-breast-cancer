@@ -1,0 +1,9 @@
+NULL-L class 0 kind 0 types 1-1 items 568
+NULL-L class 1 kind 0 types 2-1 items 21
+NULL-L class 2 kind 0 types 2-2 items 15
+NULL-L class 3 kind 1 types 2-2 items 66
+NULL-L class 4 kind 1 types 2-1 items 50
+NULL-L class 5 kind 1 types 1-1 items 274
+NULL-L class 6 kind 2 types 0-0 items 480
+observed reciprocal TF<->TF pairs among TF_target arcs: 53
+NULL-L attempts=146699640 accepted=68731674

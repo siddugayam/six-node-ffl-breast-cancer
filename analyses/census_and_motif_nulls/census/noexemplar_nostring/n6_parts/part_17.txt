@@ -1,0 +1,75 @@
+K 6
+nparts 64
+part 17
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 19181
+visited 8361491
+rng_final 42
+comp 1 1 4 3
+comp 1 2 3 185
+comp 1 3 2 2208
+comp 1 4 1 254
+comp 2 1 3 63
+comp 2 2 2 5087
+comp 2 3 1 4366
+comp 2 4 0 41
+comp 3 0 3 8
+comp 3 1 2 1204
+comp 3 2 1 4261
+comp 3 3 0 243
+comp 4 0 2 183
+comp 4 1 1 777
+comp 4 2 0 158
+comp 5 0 1 94
+comp 5 1 0 46
+mask 2 83
+mask 3 202
+mask 6 339
+mask 7 21
+mask 11 47
+mask 14 3810
+mask 15 3002
+mask 18 1
+mask 19 12
+mask 20 148
+mask 21 41
+mask 22 1166
+mask 23 254
+mask 26 62
+mask 27 196
+mask 28 3246
+mask 29 670
+mask 30 4165
+mask 31 1712
+mask 47 4
+flags 0 13189
+flags 1 4141
+flags 2 411
+flags 3 640
+flags 6 3
+flags 7 1
+flags 8 400
+flags 9 27
+flags 10 6
+flags 11 3
+flags 24 35
+flags 25 171
+flags 26 50
+flags 27 104
+exflag 0 ATF3 MMP2 hsa-miR-590 SOX2 hsa-miR-124 NR4A1
+exflag 0 EGR3 SPRY1 hsa-miR-146b POU3F2 MITF hsa-miR-29a
+exflag 0 EGR3 SPRY1 hsa-miR-195 FOSL1 EZH2 hsa-miR-23a
+exflag 1 HIC1 EPHA2 MYC BMI1 STAT3 hsa-miR-141
+exflag 1 HIC1 EPHA2 MYC BMI1 hsa-miR-141 hsa-miR-26a
+exflag 1 HIC1 EPHA2 MYC BMI1 hsa-miR-141 hsa-miR-26b
+exflag 2 MKL1 COL1A1 COL3A1 SRF CREB1 hsa-miR-335
+exflag 2 MKL1 COL1A1 COL3A1 SRF hsa-miR-143 MYBL2
+exflag 2 MKL1 COL1A1 COL3A1 SRF hsa-miR-143 hsa-miR-29b
+exflag 3 HIC1 MYC ATF3 ID1 STAT3 hsa-miR-29a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29a target=ATF3
+exflag 3 HIC1 MYC ATF3 ID1 STAT3 hsa-miR-29c | TF1=STAT3 TF2=MYC miRNA=hsa-miR-29c target=ATF3
+exflag 3 HIC1 MYC ATF3 MMP2 STAT3 hsa-miR-17 | TF1=STAT3 TF2=MYC miRNA=hsa-miR-17 target=ATF3
+exflag 4 HIC1 MYC BMI1 STAT3 TERT hsa-miR-15a | TF1=STAT3 TF2=MYC miRNA=hsa-miR-15a target=TERT
+exflag 4 HIC1 MYC BMI1 STAT3 VEGFA hsa-miR-200c | TF1=STAT3 TF2=MYC miRNA=hsa-miR-200c target=VEGFA
+exflag 4 HIC1 MYC CCND2 GATA4 STAT3 hsa-miR-150 | TF1=STAT3 TF2=MYC miRNA=hsa-miR-150 target=CCND2

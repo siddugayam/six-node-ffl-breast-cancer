@@ -1,0 +1,117 @@
+K 6
+nparts 64
+part 35
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 54354
+visited 11712675
+rng_final 42
+comp 0 1 5 189
+comp 1 0 5 3
+comp 1 1 4 135
+comp 1 2 3 1010
+comp 1 3 2 390
+comp 1 4 1 38
+comp 2 0 4 9
+comp 2 1 3 553
+comp 2 2 2 7422
+comp 2 3 1 5519
+comp 2 4 0 1
+comp 3 0 3 65
+comp 3 1 2 2305
+comp 3 2 1 19275
+comp 3 3 0 324
+comp 4 0 2 392
+comp 4 1 1 7171
+comp 4 2 0 2762
+comp 5 0 1 1019
+comp 5 1 0 4932
+comp 6 0 0 840
+mask 3 2
+mask 6 31
+mask 11 8
+mask 14 1688
+mask 15 152
+mask 18 2
+mask 19 3
+mask 20 90
+mask 21 9
+mask 22 193
+mask 23 15
+mask 27 24
+mask 28 1304
+mask 29 153
+mask 30 2002
+mask 31 522
+mask 32 7
+mask 33 163
+mask 34 922
+mask 35 1234
+mask 36 198
+mask 37 32
+mask 38 3395
+mask 39 128
+mask 40 185
+mask 41 265
+mask 42 30
+mask 43 508
+mask 44 7399
+mask 45 3015
+mask 46 9392
+mask 47 4967
+mask 48 21
+mask 49 134
+mask 50 273
+mask 51 218
+mask 52 1287
+mask 53 170
+mask 54 2868
+mask 55 148
+mask 56 35
+mask 57 268
+mask 58 109
+mask 59 549
+mask 60 4869
+mask 61 1530
+mask 62 3021
+mask 63 816
+flags 0 30190
+flags 1 3166
+flags 2 547
+flags 3 968
+flags 4 13228
+flags 5 2671
+flags 6 544
+flags 7 554
+flags 8 1293
+flags 9 17
+flags 10 23
+flags 11 31
+flags 12 941
+flags 13 4
+flags 14 35
+flags 15 5
+flags 24 70
+flags 25 4
+flags 27 1
+flags 28 61
+flags 29 1
+exflag 0 NCOR1 NR1H3 hsa-miR-130a CD2AP UBB hsa-miR-30d
+exflag 0 NCOR1 NR1H3 hsa-miR-130a CYLD UBB hsa-miR-30d
+exflag 0 NCOR1 NR1H3 hsa-miR-130a F3 SERPINE1 hsa-miR-30d
+exflag 1 NCOR1 NR1H3 NR1H4 EDN1 MMP2 hsa-miR-29b
+exflag 1 NCOR1 NR1H3 NR1H4 SCARB1 THBS1 hsa-miR-206
+exflag 1 NCOR1 NR1H3 NR1H4 VEGFA hsa-miR-130a HIC1
+exflag 2 NCOR1 NR1H3 BHLHE40 PPARA PPARG hsa-miR-301a
+exflag 2 NCOR1 NR1H3 BHLHE40 PPARG KLF4 hsa-miR-200a
+exflag 2 NCOR1 NR1H3 BHLHE40 PPARG MYC hsa-miR-130a
+exflag 3 NCOR1 NR1H3 NR1H4 PPARA RXRA hsa-miR-122 | TF1=NCOR1 TF2=NR1H4 miRNA=hsa-miR-122 target=RXRA
+exflag 3 NCOR1 NR1H3 NR1H4 PPARG RXRA hsa-miR-122 | TF1=NCOR1 TF2=NR1H4 miRNA=hsa-miR-122 target=RXRA
+exflag 3 NCOR1 NR1H3 NR1H4 RARA RXRA hsa-miR-122 | TF1=NCOR1 TF2=NR1H4 miRNA=hsa-miR-122 target=RXRA
+exflag 4 NCOR1 NR1H3 SMAD3 CCND2 SP1 hsa-miR-29b | TF1=SMAD3 TF2=SP1 miRNA=hsa-miR-29b target=CCND2
+exflag 4 NCOR1 NR1H3 SMAD3 COL7A1 SP1 hsa-miR-29b | TF1=SMAD3 TF2=SP1 miRNA=hsa-miR-29b target=COL7A1
+exflag 4 NCOR1 NR1H3 SMAD3 PTHLH SP1 hsa-miR-29b | TF1=SMAD3 TF2=SP1 miRNA=hsa-miR-29b target=PTHLH
+exmask 63 NCOR1 NR1H3 BHLHE40 SNAI2 hsa-miR-141 hsa-miR-206
+exmask 63 NCOR1 NR1H3 BHLHE40 SNAI2 hsa-miR-200a hsa-miR-206
+exmask 63 NCOR1 NR1H3 PPARA LPL hsa-miR-29b HIF1A

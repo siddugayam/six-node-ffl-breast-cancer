@@ -1,0 +1,96 @@
+K 6
+nparts 64
+part 49
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 279198
+visited 81664804
+rng_final 42
+comp 1 2 3 93
+comp 1 3 2 1191
+comp 1 4 1 956
+comp 2 1 3 63
+comp 2 2 2 8839
+comp 2 3 1 76308
+comp 2 4 0 19
+comp 3 0 3 9
+comp 3 1 2 3511
+comp 3 2 1 121299
+comp 3 3 0 6571
+comp 4 0 2 492
+comp 4 1 1 25763
+comp 4 2 0 19080
+comp 5 0 1 3123
+comp 5 1 0 10723
+comp 6 0 0 1158
+mask 2 1158
+mask 3 3624
+mask 6 6924
+mask 7 797
+mask 10 1
+mask 11 85
+mask 12 634
+mask 13 575
+mask 14 108669
+mask 15 75521
+mask 18 23
+mask 19 30
+mask 20 1400
+mask 21 495
+mask 22 27280
+mask 23 6579
+mask 26 62
+mask 27 170
+mask 28 11271
+mask 29 3235
+mask 30 8486
+mask 31 16380
+mask 46 9
+mask 47 21
+mask 60 1
+mask 61 1
+mask 62 3
+mask 70 379
+mask 71 27
+mask 78 2034
+mask 79 2431
+mask 86 387
+mask 87 78
+mask 92 4
+mask 93 208
+mask 94 134
+mask 95 80
+mask 110 2
+flags 0 245485
+flags 1 6240
+flags 2 1157
+flags 3 2114
+flags 4 3
+flags 6 21
+flags 7 11
+flags 8 21243
+flags 9 71
+flags 10 160
+flags 11 368
+flags 24 2290
+flags 25 5
+flags 27 30
+exflag 0 JUN ATF3 MMP2 hsa-miR-106b hsa-miR-224 NR4A1
+exflag 0 JUN ATF3 MMP2 hsa-miR-224 NR4A1 hsa-miR-93
+exflag 0 JUN ATF3 SMAD7 MET hsa-miR-144 hsa-miR-590
+exflag 1 JUN ATF3 ETS2 MMP2 hsa-miR-224 NR4A1
+exflag 1 JUN ATF3 EZH2 MMP2 hsa-miR-224 NR4A1
+exflag 1 JUN ATF3 MMP2 MYC hsa-miR-224 NR4A1
+exflag 2 JUN ETS1 COL1A1 COL3A1 EZH2 hsa-miR-143
+exflag 2 JUN ETS1 COL1A1 COL3A1 MYB hsa-miR-143
+exflag 2 JUN ETS1 COL1A1 COL3A1 MYC hsa-let-7b
+exflag 3 JUN ATF3 BRCA1 EZH2 MYC hsa-miR-27a | TF1=EZH2 TF2=MYC miRNA=hsa-miR-27a target=ATF3
+exflag 3 JUN ATF3 BRCA1 MMP2 MYC hsa-miR-106b | TF1=JUN TF2=MYC miRNA=hsa-miR-106b target=ATF3
+exflag 3 JUN ATF3 BRCA1 MMP2 MYC hsa-miR-93 | TF1=JUN TF2=MYC miRNA=hsa-miR-93 target=ATF3
+exflag 4 JUN BCL2L1 BRCA1 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 JUN BRCA1 DDIT3 FOS STAT3 hsa-miR-155 | TF1=BRCA1 TF2=STAT3 miRNA=hsa-miR-155 target=FOS
+exflag 4 JUN BRCA1 EGR1 ETS1 PLAU hsa-miR-181c | TF1=ETS1 TF2=EGR1 miRNA=hsa-miR-181c target=PLAU
+exmask 95 JUN BCL2L1 MYC hsa-let-7e hsa-miR-29b HIF1A
+exmask 95 JUN EDN1 MYC hsa-let-7b hsa-miR-29b HIF1A
+exmask 95 JUN EDN1 MYC hsa-let-7e hsa-miR-29b HIF1A

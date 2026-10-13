@@ -1,0 +1,4 @@
+network,n_edges,n_TF_to_miRNA,n_TF_to_miRNA_reciprocated,pct_TF_to_miRNA_reciprocated,n_miRNA_to_TF,n_miRNA_to_TF_reciprocated,pct_miRNA_to_TF_reciprocated,n_mutual_pairs
+BRCA_published,6828,1239,1223,98.71,1553,1223,78.75,1223
+BRCA_rebuilt,30552,1357,809,59.62,12641,809,6.4,809
+published_vs_available_miRNA_to_TF_selection,12641,935,809,86.52,11706,0,0.0,fisher_OR=inf;p=0

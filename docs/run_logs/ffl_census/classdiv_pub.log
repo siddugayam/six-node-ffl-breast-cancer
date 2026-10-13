@@ -1,0 +1,28 @@
+### PUB graph, taxonomy: fine8 (source_type -> target_type)  (8 possible classes)
+   n=3 [exhaustive                  ] max=3  modules_at_max=1669/6037  hist={1: 1424, 2: 2944, 3: 1669}
+   n=4 [exhaustive                  ] max=5  modules_at_max=331/117967  hist={1: 9112, 2: 61147, 3: 23053, 4: 24324, 5: 331}
+   n=5 [exhaustive                  ] max=7  modules_at_max=25/1534131  hist={1: 57766, 2: 276120, 3: 604769, 4: 503330, 5: 89940, 6: 2181, 7: 25}
+   n=6 [exhaustive                  ] max=8  modules_at_max=20/19838598  hist={1: 336864, 2: 1659819, 3: 8161920, 4: 6616668, 5: 2854433, 6: 204839, 7: 4035, 8: 20}
+   n=7 [RAND-ESU sample (lower bound)] max=8  modules_at_max=17/1853928  hist={1: 14259, 2: 76189, 3: 649061, 4: 664712, 5: 384882, 6: 62605, 7: 2203, 8: 17}
+
+### PUB graph, taxonomy: 7-class (all Gene-> edges pooled as gene_gene)  (7 possible classes)
+   n=3 [exhaustive                  ] max=3  modules_at_max=1651/6037  hist={1: 1426, 2: 2960, 3: 1651}
+   n=4 [exhaustive                  ] max=5  modules_at_max=263/117967  hist={1: 9114, 2: 61197, 3: 23283, 4: 24110, 5: 263}
+   n=5 [exhaustive                  ] max=7  modules_at_max=1/1534131  hist={1: 57768, 2: 276702, 3: 609451, 4: 500859, 5: 88470, 6: 880, 7: 1}
+   n=6 [exhaustive                  ] max=7  modules_at_max=482/19838598  hist={1: 336867, 2: 1661522, 3: 8248739, 4: 6614107, 5: 2824485, 6: 152396, 7: 482}
+   n=7 [RAND-ESU sample (lower bound)] max=7  modules_at_max=462/1853928  hist={1: 14259, 2: 76246, 3: 654082, 4: 670833, 5: 389096, 6: 48950, 7: 462}
+
+### PUB graph, taxonomy: 6-class coarse edge_type (miRNA_target pools miRNA->Gene/TF)  (6 possible classes)
+   n=3 [exhaustive                  ] max=3  modules_at_max=1404/6037  hist={1: 2155, 2: 2478, 3: 1404}
+   n=4 [exhaustive                  ] max=5  modules_at_max=64/117967  hist={1: 15743, 2: 68227, 3: 30275, 4: 3658, 5: 64}
+   n=5 [exhaustive                  ] max=6  modules_at_max=18/1534131  hist={1: 110794, 2: 288968, 3: 1020713, 4: 109323, 5: 4315, 6: 18}
+   n=6 [exhaustive                  ] max=6  modules_at_max=1144/19838598  hist={1: 699514, 2: 2429513, 3: 13335879, 4: 3230468, 5: 142080, 6: 1144}
+   n=7 [RAND-ESU sample (lower bound)] max=6  modules_at_max=297/1853928  hist={1: 31381, 2: 107134, 3: 1263580, 4: 417371, 5: 34165, 6: 297}
+
+### PUB graph, taxonomy: 5-class deposited edge_type (Gene->TF pooled into gene_gene)  (5 possible classes)
+   n=3 [exhaustive                  ] max=3  modules_at_max=1386/6037  hist={1: 2157, 2: 2494, 3: 1386}
+   n=4 [exhaustive                  ] max=4  modules_at_max=3534/117967  hist={1: 15745, 2: 68375, 3: 30313, 4: 3534}
+   n=5 [exhaustive                  ] max=5  modules_at_max=918/1534131  hist={1: 110796, 2: 291107, 3: 1022992, 4: 108318, 5: 918}
+   n=6 [exhaustive                  ] max=5  modules_at_max=34679/19838598  hist={1: 699517, 2: 2455699, 3: 13409616, 4: 3239087, 5: 34679}
+   n=7 [RAND-ESU sample (lower bound)] max=5  modules_at_max=9363/1853928  hist={1: 31381, 2: 109417, 3: 1267140, 4: 436627, 5: 9363}
+

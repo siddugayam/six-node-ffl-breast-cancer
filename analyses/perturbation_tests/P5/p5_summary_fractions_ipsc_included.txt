@@ -1,0 +1,14 @@
+FANTOM5: 399 samples in the CPM table; 6 subcellular-fraction samples excluded; fibroblasts (all): 30; mammary fibroblasts: 3; mammary epithelial cells: 3
+microRNAome 1.30.0: 2406 samples; fibroblasts (all): 128; mammary fibroblasts: 3; mammary epithelial cells: 5; samples with zero total miRNA counts: 0
+hsa-miR-29a-3p FANTOM5: fibroblasts (all, n = 30) mean CPM 1.104e+04; mammary fibroblasts (n = 3) 6165; mammary epithelial cells (n = 3) 1.255e+04; ratio fibroblast/mammary epithelial 0.88 (mammary fibroblast/mammary epithelial 0.491)
+hsa-miR-29a-3p microRNAome: fibroblasts (all, n = 128) mean CPM 9896; mammary fibroblasts (n = 3) 6134; mammary epithelial cells (n = 5) 8667; ratio fibroblast/mammary epithelial 1.14 (mammary fibroblast/mammary epithelial 0.708)
+hsa-miR-29a-3p decision (2 atlases with both groups): NO CONSISTENT DIFFERENCE
+hsa-miR-29b-3p FANTOM5: fibroblasts (all, n = 30) mean CPM 624.2; mammary fibroblasts (n = 3) 187.5; mammary epithelial cells (n = 3) 1054; ratio fibroblast/mammary epithelial 0.592 (mammary fibroblast/mammary epithelial 0.178)
+hsa-miR-29b-3p microRNAome: fibroblasts (all, n = 128) mean CPM 677.7; mammary fibroblasts (n = 3) 185.8; mammary epithelial cells (n = 5) 700.8; ratio fibroblast/mammary epithelial 0.967 (mammary fibroblast/mammary epithelial 0.265)
+hsa-miR-29b-3p decision (2 atlases with both groups): NO CONSISTENT DIFFERENCE
+hsa-miR-29c-3p FANTOM5: fibroblasts (all, n = 30) mean CPM 136.8; mammary fibroblasts (n = 3) 82.44; mammary epithelial cells (n = 3) 500.6; ratio fibroblast/mammary epithelial 0.273 (mammary fibroblast/mammary epithelial 0.165)
+hsa-miR-29c-3p microRNAome: fibroblasts (all, n = 128) mean CPM 176.8; mammary fibroblasts (n = 3) 79.75; mammary epithelial cells (n = 5) 360; ratio fibroblast/mammary epithelial 0.491 (mammary fibroblast/mammary epithelial 0.221)
+hsa-miR-29c-3p decision (2 atlases with both groups): EPITHELIAL-ENRICHED
+hsa-miR-101-3p FANTOM5: fibroblasts (all, n = 30) mean CPM 1244; mammary fibroblasts (n = 3) 593.2; mammary epithelial cells (n = 3) 2009; ratio fibroblast/mammary epithelial 0.619 (mammary fibroblast/mammary epithelial 0.295)
+hsa-miR-101-3p microRNAome: fibroblasts (all, n = 128) mean CPM 2732; mammary fibroblasts (n = 3) 578.1; mammary epithelial cells (n = 5) 1490; ratio fibroblast/mammary epithelial 1.83 (mammary fibroblast/mammary epithelial 0.388)
+hsa-miR-101-3p decision (2 atlases with both groups): NO CONSISTENT DIFFERENCE

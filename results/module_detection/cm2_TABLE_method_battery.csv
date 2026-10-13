@@ -1,0 +1,16 @@
+method,run,k_clusters,modularity,largest,degenerate,COL1A1_module_size,COL3A1_with_COL1A1,miR29a_with_COL1A1,all_three_together,EMT_hits,EMT_p,prior30_hits,prior30_p
+"MCL (igraph impl., I=2.5)",MCL_I2.5,281,0.0213,26,FALSE,1,FALSE,FALSE,FALSE,1,0.129,1,0.0511
+"MCL (clusterMaker2, I=2.5)",cm2_mcl_I25,242,0.0225,107,FALSE,1,FALSE,FALSE,FALSE,1,0.129,1,0.0511
+"Louvain (igraph, r=1)",Louvain_r1.00,8,0.2668,118,FALSE,92,TRUE,TRUE,TRUE,11,0.125,4,0.72
+Louvain (clusterMaker2),cm2_louvain_cm2,8,0.248,120,FALSE,98,TRUE,TRUE,TRUE,10,0.11,4,0.769
+"Walktrap (igraph, steps=4)",Walktrap_s4,489,0.0034,29,FALSE,1,FALSE,FALSE,FALSE,1,0.129,1,0.0511
+"Infomap (igraph, 10 trials)",Infomap_t10,3,0.0011,582,TRUE,582,TRUE,TRUE,TRUE,46,0.955,30,0.769
+Infomap (clusterMaker2),cm2_infomap_cm2_t10,3,0.0011,582,TRUE,582,TRUE,TRUE,TRUE,46,0.955,30,0.769
+Label propagation (igraph),LabelProp_best,1,0,587,TRUE,587,TRUE,TRUE,TRUE,47,1,30,1
+Label propagation (clusterMaker2),cm2_labelprop_cm2,1,0,587,TRUE,587,TRUE,TRUE,TRUE,47,1,30,1
+Fast-greedy (igraph),FastGreedy,7,0.2344,151,FALSE,128,TRUE,TRUE,TRUE,13,0.218,6,0.67
+Fast-greedy (clusterMaker2),cm2_fastgreedy_cm2,5,0.2235,162,FALSE,147,TRUE,TRUE,TRUE,15,0.185,7,0.659
+GLay (clusterMaker2),cm2_glay_cm2,8,0.2239,165,FALSE,141,TRUE,TRUE,TRUE,15,0.138,7,0.609
+Leading eigenvector (igraph),LeadingEigen,5,0.2033,224,FALSE,156,TRUE,TRUE,TRUE,15,0.436,8,0.568
+"Leiden (igraph, r=1)",Leiden_mod_r1.0,6,0.2719,172,FALSE,172,TRUE,TRUE,TRUE,17,0.381,12,0.133
+Girvan-Newman (igraph),EdgeBetweenness,467,0.0417,114,FALSE,1,FALSE,FALSE,FALSE,1,0.129,1,0.0511

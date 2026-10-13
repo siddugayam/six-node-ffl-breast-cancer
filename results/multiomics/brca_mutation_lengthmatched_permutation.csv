@@ -1,0 +1,13 @@
+metric,value
+obs_mean_freq,0.0063036025088338
+lengthmatched_null_mean,0.00403563111318118
+lengthmatched_null_sd,0.000233952783859019
+lengthmatched_null_lo95,0.00367359946209259
+lengthmatched_null_hi95,0.00460863383423627
+perm_p_onesided,9.99900009999e-05
+fold_vs_lengthmatched,1.56198679513719
+naive_background_mean,0.00370708475095417
+fold_vs_naive,1.70042039292771
+n_perm,10000
+median_cds_len_network,1425
+median_cds_len_other,1326

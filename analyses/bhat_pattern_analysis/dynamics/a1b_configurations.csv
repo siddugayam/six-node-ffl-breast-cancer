@@ -1,0 +1,11 @@
+family,module,registry,size_key,mir_to_TF,input_node,s_TM,s_TY,s_T12,s_T21,s_T2Y,s_T2M,role
+Bhat_TF_TM+_TY+,GG+MM+TT_T120_T21+_T2Y-,,GG+MM+TT,False,TF1,1,1,0,1,-1,1,verdict
+Bhat_TF_TM-_TY+,GG+MM+TT_T120_T21-_T2Y+,,GG+MM+TT,False,TF1,-1,1,0,-1,1,1,verdict
+Bhat_comp_TM+_TY+,GG+MM+TT_T12+_T21-_T2Y-,,GG+MM+TT,True,TF1,1,1,1,-1,-1,1,verdict
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21+_T2Y+,,GG+MM+TT,True,TF1,1,1,-1,1,1,1,verdict
+Bhat_comp_TM+_TY+,GG+MM+TT_T12-_T21-_T2Y+,,GG+MM+TT,True,TF1,1,1,-1,-1,1,1,verdict
+Bhat_comp_TM-_TY+,GG+MM+TT_T12+_T21-_T2Y-,,GG+MM+TT,True,TF1,-1,1,1,-1,-1,1,verdict
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21+_T2Y+,,GG+MM+TT,True,TF1,-1,1,-1,1,1,1,verdict
+Bhat_comp_TM-_TY+,GG+MM+TT_T12-_T21-_T2Y+,,GG+MM+TT,True,TF1,-1,1,-1,-1,1,1,verdict
+Bhat_miR_TM0_TY+,GG+MM+TT_T12-_T210_T2Y+,,GG+MM+TT,True,MIR1,0,1,-1,0,1,1,verdict
+Bhat_miR_TM0_TY+,GG+MM+TT_T12+_T210_T2Y+,,GG+MM+TT,True,MIR1,0,1,1,0,1,1,option (b): memory AND oscillation only

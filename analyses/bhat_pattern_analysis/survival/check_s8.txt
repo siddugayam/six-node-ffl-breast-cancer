@@ -1,0 +1,3 @@
+CHECK S8: rows here 9532, rows in S8 9532, matched on method, endpoint and members 9532; core and extension equal: TRUE; n and events equal: TRUE
+CHECK S8: largest absolute difference: HR_circuit 5.11e-15; p_circuit 6.66e-16; C_core 5.55e-16; C_circuit 6.11e-16; deltaC 5.13e-16; LRT_p_extension_adds 5.55e-16; q_BH 5.55e-16
+CHECK S8: GSVA OS circuits at q < 0.05 here 16, in S8 16
