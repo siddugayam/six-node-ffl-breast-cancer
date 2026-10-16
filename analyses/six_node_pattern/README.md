@@ -6,7 +6,7 @@ clinical signal. The folder names are the items of the analysis plan.
 | Folder | What it holds |
 |---|---|
 | `S0/` | Reconciles the four six-node objects of the project (census modules, the composite pattern, the edge-addition sets and the modelled architecture) |
-| `S1/` | Over-representation of six-node patterns against randomised networks (NULL-B, NULL-C and the core-conditional NULL-L); `jobs.txt` lists the runs |
+| `S1/` | Over-representation of six-node patterns against randomised networks (the reciprocity-preserving null, the bipartite-layer null and the core-conditional the core-conditional null); `jobs.txt` lists the runs |
 | `S2/` | Dynamics of the layer-factorial module variants and the TF–TF sign controls; per-parameter-set results in `perset/` |
 | `S4/` | How oscillatory the damped oscillations are |
 | `S5/` | The signed real six-node circuits, two literature positive controls and MCODE without miRNA–miRNA links (`s5e_mcode/`) |

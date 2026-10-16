@@ -1,0 +1,4 @@
+count,observed,NULL_C_fold,NULL_C_p_upper,NULL_C_p_lower,NULL_L_fold,NULL_L_p_upper,NULL_L_p_lower,decision,rule_applies
+D2' primary,67229,1.9092720206407787,0.000999000999000999,1.0,0.9937897931111145,0.5184815184815185,0.4825174825174825,"none of the three (not over-represented, not depleted)",yes
+D2' secondary,57217,1.3497800936771023,0.06493506493506493,0.936063936063936,0.9041948528608837,0.8831168831168831,0.11788211788211789,"none of the three (not over-represented, not depleted)",reported
+"CENSUS6c (the topological definition, contracted; comparison)",210115,1.3752722996936007,0.07792207792207792,0.9230769230769231,0.8322598205559655,0.8461538461538461,0.15484515484515485,"none of the three (not over-represented, not depleted)",reported

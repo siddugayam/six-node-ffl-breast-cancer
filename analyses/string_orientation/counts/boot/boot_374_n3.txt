@@ -1,0 +1,14 @@
+graph work/graphs/boot_374.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5803
+visited 164481
+rng_final 42
+no_string_arc 5803
+no_string_pair 5803
+in_baseline 5081
+baseline_keys 5833

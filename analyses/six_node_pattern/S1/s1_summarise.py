@@ -7,7 +7,7 @@ Checks first
     must equal the stored runs analyses/census_and_motif_nulls/nulls/null_{B,C}_pub_noexemplar.tsv row for row.
   * observed three-node count 5,833 and the stored census-graph result (-13.9 % / -10.3 %).
 Statistics per pattern and null: observed, null mean and SD, observed/mean, Z, empirical p in both
-tails (k+1)/(R+1), replicates; and instances per three-node composite core (count3 'comp', the D1-D4
+tails (k+1)/(R+1), replicates; and instances per three-node composite core (count3 'comp', the topological-definition
 three-node FFLs whose TF->miRNA arc is a reciprocal pair), observed and null mean of the per-replicate
 ratio; for BHAT6 also per Bhat three-node composite instance.
 Decision rule (fixed in the analysis plan): 'over-represented' if p_upper < 0.05 under both NULL-C and NULL-L;

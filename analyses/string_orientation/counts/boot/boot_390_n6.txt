@@ -1,0 +1,14 @@
+graph work/graphs/boot_390.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 18907350
+visited 5586764401
+rng_final 42
+no_string_arc 18907350
+no_string_pair 18907350
+in_baseline 11805715
+baseline_keys 19401840

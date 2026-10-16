@@ -1,6 +1,9 @@
 file_named_in_notes	path_in_repository
 dyn_sample.py	scripts/11_dynamics/dyn_sample.py
 05b_spatial_sp1_rela_controls.py	scripts/08_stroma_and_cell_types/spatial/05b_spatial_sp1_rela_controls.py
+52_composite_rank_robustness.py	scripts/06_node_prioritisation/52_composite_rank_robustness.py
+composite_rank_robustness_summary.csv	results/prioritisation_and_stroma/composite_rank_robustness_summary.csv
+composite_rank_robustness_nodes.csv	results/prioritisation_and_stroma/composite_rank_robustness_nodes.csv
 41591_2009_BFnm1908_MOESM20_ESM.txt	third-party source file (Farmer et al. 2009, Nat Med, supplementary material): not redistributed
 farmer_tcga_persample_scores.csv	results/prioritisation_and_stroma/farmer_tcga_persample_scores.csv
 farmer_correlations_tcga.csv	results/prioritisation_and_stroma/farmer_correlations_tcga.csv

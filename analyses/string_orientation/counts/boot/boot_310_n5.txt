@@ -1,0 +1,14 @@
+graph work/graphs/boot_310.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1483074
+visited 167821738
+rng_final 42
+no_string_arc 1483074
+no_string_pair 1483074
+in_baseline 1120522
+baseline_keys 1506263

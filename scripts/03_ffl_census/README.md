@@ -23,7 +23,7 @@ The census reported in the paper is in `analyses/census_and_motif_nulls/`.
 | `02e_exemplar_audit.py` | Tests the exemplar circuits (SIF_files/4-TF.sif, 5-TF.sif, 6-TF.sif) against the formal definition: edge support, whole-structure size, exhaustive test of every induced n-subset, and the subsets … |
 | `02g_nineclass_search.py` | Exact targeted search for modules realising ALL NINE interaction classes present in G. |
 | `02h_exemplar_permissive.py` | Re-tests the exemplar circuits on the PERMISSIVE graph, in which the 941 undirected STRING associations are admitted as orientable edges (so COL1A1--COL3A1, which has no directed evidence anywhere, does … |
-| `02i_exemplar_whole_circuit_check.py` | Test the whole six-node exemplar circuit (its 10 molecules) against conditions D1-D4 (Methods 2.2) in two graphs, from the deposited files of the public repository only: (1) the analysed network (Table S2 rows with … |
+| `02i_exemplar_whole_circuit_check.py` | Test the whole six-node exemplar circuit (its 10 molecules) against the topological definition (Methods 2.2) in two graphs, from the deposited files of the public repository only: (1) the analysed network (Table S2 rows with … |
 | `02x_ffl_core_crosscheck.py` | Independent cross-check of the 3-node FFL census and coherence typing. |
 | `02y_ffl_per_network.py` | Enumerate 3-node FFL cores WITHIN each of the six source networks separately, after applying only the identifier harmonisation. |
 | `03_ffl_census.py` | n-node feed-forward loop census by connected-induced-subgraph enumeration. |
@@ -35,8 +35,8 @@ The census reported in the paper is in `analyses/census_and_motif_nulls/`.
 | `census_01_core_definition_variants.py` | FFL-core counting under several explicit definitional variants, to match the published FFL counts to a definition. |
 | `census_02_definition_grid.py` | Brute-force grid over plausible 3-node FFL definitions, compared with the published count of 6,037 three-node FFLs. |
 | `census_03_build_graph.py` | Independent builder of the census graph, used to cross-check the motif counts. |
-| `census_04_n3_graph_variants.py` | Exhaustive n=3 FFL census under the formal definition (D1-D4), plus the two alternative 'core' counting conventions, for several graph-augmentation variants. |
-| `census_05_n3_per_network.py` | Three-node FFL count (conditions D1-D4) for each of the six source networks, selected by the in_networks column of data/canonical_edges.tsv; prints the counts. |
+| `census_04_n3_graph_variants.py` | Exhaustive n=3 FFL census under the formal definition (the topological definition), plus the two alternative 'core' counting conventions, for several graph-augmentation variants. |
+| `census_05_n3_per_network.py` | Three-node FFL count (the topological definition) for each of the six source networks, selected by the in_networks column of data/canonical_edges.tsv; prints the counts. |
 | `census_06_graph_definitions.py` | Definitions of the census graphs used by the census and motif scripts. |
 | `census_07_export_graphs.py` | Writes a census graph in the plain-text format that the C census programs read (counts of nodes, arcs and edge classes; node types; one line per arc with its class) and a .meta.json with node names and classes. |
 | `census_09_esu_classmask.c` | Independent n-node FFL census under the formal definition. |
@@ -47,10 +47,10 @@ The census reported in the paper is in `analyses/census_and_motif_nulls/`.
 | `ffl_enum_dfs.c` | Ffl_enum.c -- exact enumeration of n-node feed-forward-loop (FFL) modules |
 | `ffl_enum.c` | Exact enumeration of n-node feed-forward-loop (FFL) modules |
 | `ffl_graph.py` | Construction of the canonical DIRECTED, SIGNED, TYPED regulatory graph G used for the n-node feed-forward-loop (FFL) census. |
-| `reconcile_01_graph_and_n3.py` | Reconciliation pass: rebuild the census graph exactly as 03_ffl_census.py does, report its size, and re-enumerate n=3 FFLs exhaustively under D1-D4 on both the augmented graph and the deposited-only graph. |
+| `reconcile_01_graph_and_n3.py` | Reconciliation pass: rebuild the census graph exactly as 03_ffl_census.py does, report its size, and re-enumerate n=3 FFLs exhaustively under the topological definition on both the augmented graph and the deposited-only graph. |
 | `reconcile_02_n3_breakdown.py` | Break the n=3 FFL census down by node-type composition, on both graphs. |
 | `reconcile_04_export_graph.py` | Export the exact graph 03_ffl_census.py builds, for the C enumerator. |
-| `reconcile_05_census_greedy_vs_maxflow.c` | Exhaustive / sampled ESU census of n-node FFLs under D1-D4, replicating |
+| `reconcile_05_census_greedy_vs_maxflow.c` | Exhaustive / sampled ESU census of n-node FFLs under the topological definition, replicating |
 | `reconcile_06_published_convention.py` | Reproduce the counting convention behind the published 1,434 / 206 / 9 / 1,649, directly from data/canonical_edges.tsv. |
 | `reconcile_08_string_impact.py` | How much of the n=3 census depends on STRING-orientation arcs? |
 | `reconcile_09_no_string_census.py` | Three-node census with the undirected STRING tier excluded. |

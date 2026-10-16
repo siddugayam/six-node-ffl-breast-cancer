@@ -4,9 +4,9 @@ MODEL6 FULL (with STRING) nodes: TF1 ['E2F1', 'ESR1', 'EZH2', 'NFKB1', 'RELA', '
 signed edge list checked against the stored n6 Jacobian signs: 40 of 40 agree; disagreements: []
 BHAT6 node sets (noexemplar): composite 2498 miRNA-FFL 8606 TF-FFL 9950
 EA6 circuits: 1980 | that are BHAT6 composite sets: 11 | BHAT6 sets of any class: 66 | MODEL6 FULL sets: 0 | MODEL6 DEF sets: 43
-BHAT6 Composite_FFL node sets passing D1-D4 in the contracted noexemplar census graph: 0 of 2498
-BHAT6 miRNA_FFL node sets passing D1-D4 in the contracted noexemplar census graph: 0 of 8606
-BHAT6 TF_FFL node sets passing D1-D4 in the contracted noexemplar census graph: 0 of 9950
+BHAT6 Composite_FFL node sets passing the topological definition in the contracted noexemplar census graph: 0 of 2498
+BHAT6 miRNA_FFL node sets passing the topological definition in the contracted noexemplar census graph: 0 of 8606
+BHAT6 TF_FFL node sets passing the topological definition in the contracted noexemplar census graph: 0 of 9950
 CENSUS6 (c)-with-core modules: 210115 | equal to a MODEL6 FULL node set: 0 | equal to a MODEL6 DEF node set: 0 | equal to a BHAT6 composite set: 0
-MODEL6 node sets passing D1-D4 themselves: FULL 0 of 71 ; DEF 0 of 24888
+MODEL6 node sets passing the topological definition themselves: FULL 0 of 71 ; DEF 0 of 24888
 MODEL6 FULL sets that are BHAT6 composite sets: 0 ; BHAT6 any class: 1

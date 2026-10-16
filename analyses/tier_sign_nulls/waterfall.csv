@@ -1,0 +1,81 @@
+graph,typing,metric,step,null_code,excess_pct,change_pp
+analysed,published,all three-node FFLs,NULL-A,A,-32.754786957006274,nan
+analysed,published,all three-node FFLs,+ reciprocity (NULL-B),B,7.8887736075111015,40.64356056451737
+analysed,published,all three-node FFLs,+ bipartite curveball (NULL-C),C,11.212808907055184,3.3240352995440823
+analysed,published,all three-node FFLs,+ tier (NULL-C + tier),CT,13.479786652883629,2.266977745828445
+analysed,published,all three-node FFLs,+ sign (NULL-C + tier + sign),CTS,20.088245229132283,6.608458576248655
+analysed,published,composite FFLs,NULL-A,A,224.86576726977395,nan
+analysed,published,composite FFLs,+ reciprocity (NULL-B),B,6.465565043806132,-218.40020222596783
+analysed,published,composite FFLs,+ bipartite curveball (NULL-C),C,7.852691199270345,1.3871261554642134
+analysed,published,composite FFLs,+ tier (NULL-C + tier),CT,9.454005248049292,1.6013140487789466
+analysed,published,composite FFLs,+ sign (NULL-C + tier + sign),CTS,16.47239622183678,7.01839097378749
+analysed,published,TF-FFLs,NULL-A,A,-99.03728591645567,nan
+analysed,published,TF-FFLs,+ reciprocity (NULL-B),B,-45.78313253012048,53.25415338633519
+analysed,published,TF-FFLs,+ bipartite curveball (NULL-C),C,-42.99467950342032,2.788453026700161
+analysed,published,TF-FFLs,+ tier (NULL-C + tier),CT,-37.37387794864658,5.620801554773742
+analysed,published,TF-FFLs,+ sign (NULL-C + tier + sign),CTS,-32.725370010464935,4.648507938181645
+analysed,published,miRNA-FFLs,NULL-A,A,-82.31052558756203,nan
+analysed,published,miRNA-FFLs,+ reciprocity (NULL-B),B,-13.081269013472408,69.22925657408962
+analysed,published,miRNA-FFLs,+ bipartite curveball (NULL-C),C,7.110095391614646,20.191364405087054
+analysed,published,miRNA-FFLs,+ tier (NULL-C + tier),CT,14.856912168578095,7.746816776963449
+analysed,published,miRNA-FFLs,+ sign (NULL-C + tier + sign),CTS,20.005227950524574,5.148315781946479
+analysed,retyped,all three-node FFLs,NULL-A,A,-36.33943045865799,nan
+analysed,retyped,all three-node FFLs,+ reciprocity (NULL-B),B,-1.5117680885284868,34.82766237012951
+analysed,retyped,all three-node FFLs,+ bipartite curveball (NULL-C),C,1.405490923998176,2.917259012526663
+analysed,retyped,all three-node FFLs,+ tier (NULL-C + tier),CT,3.3216660082743044,1.9161750842761283
+analysed,retyped,all three-node FFLs,+ sign (NULL-C + tier + sign),CTS,8.876430092231956,5.554764083957652
+analysed,retyped,composite FFLs,NULL-A,A,217.40099776539458,nan
+analysed,retyped,composite FFLs,+ reciprocity (NULL-B),B,5.105677825668664,-212.2953199397259
+analysed,retyped,composite FFLs,+ bipartite curveball (NULL-C),C,6.497187271868432,1.391509446199768
+analysed,retyped,composite FFLs,+ tier (NULL-C + tier),CT,7.918615438976384,1.421428167107952
+analysed,retyped,composite FFLs,+ sign (NULL-C + tier + sign),CTS,14.684096182961826,6.765480743985441
+analysed,retyped,TF-FFLs,NULL-A,A,-98.97985670387168,nan
+analysed,retyped,TF-FFLs,+ reciprocity (NULL-B),B,-40.14763583161535,58.83222087225633
+analysed,retyped,TF-FFLs,+ bipartite curveball (NULL-C),C,-36.0613810741688,4.086254757446547
+analysed,retyped,TF-FFLs,+ tier (NULL-C + tier),CT,-30.140495226267173,5.920885847901626
+analysed,retyped,TF-FFLs,+ sign (NULL-C + tier + sign),CTS,-25.58908639933858,4.5514088269285935
+analysed,retyped,miRNA-FFLs,NULL-A,A,-81.665593320748,nan
+analysed,retyped,miRNA-FFLs,+ reciprocity (NULL-B),B,-11.017309145542598,70.6482841752054
+analysed,retyped,miRNA-FFLs,+ bipartite curveball (NULL-C),C,10.187651231167049,21.204960376709646
+analysed,retyped,miRNA-FFLs,+ tier (NULL-C + tier),CT,17.510200948348654,7.322549717181605
+analysed,retyped,miRNA-FFLs,+ sign (NULL-C + tier + sign),CTS,22.47812011472321,4.967919166374557
+census,published,all three-node FFLs,NULL-A,A,-39.882223576495456,nan
+census,published,all three-node FFLs,+ reciprocity (NULL-B),B,-13.94393062756606,25.938292948929394
+census,published,all three-node FFLs,+ bipartite curveball (NULL-C),C,-10.344779885137411,3.599150742428648
+census,published,all three-node FFLs,+ tier (NULL-C + tier),CT,-8.578597016085654,1.7661828690517574
+census,published,all three-node FFLs,+ sign (NULL-C + tier + sign),CTS,-7.512716803241193,1.065880212844461
+census,published,composite FFLs,NULL-A,A,95.7696666647683,nan
+census,published,composite FFLs,+ reciprocity (NULL-B),B,-10.600969540612514,-106.3706362053808
+census,published,composite FFLs,+ bipartite curveball (NULL-C),C,-3.093604530285887,7.507365010326627
+census,published,composite FFLs,+ tier (NULL-C + tier),CT,-2.0219812794290304,1.0716232508568568
+census,published,composite FFLs,+ sign (NULL-C + tier + sign),CTS,1.1528482067255208,3.174829486154551
+census,published,TF-FFLs,NULL-A,A,-99.4981574012583,nan
+census,published,TF-FFLs,+ reciprocity (NULL-B),B,-55.447750111380635,44.05040728987766
+census,published,TF-FFLs,+ bipartite curveball (NULL-C),C,-55.70430160448863,-0.25655149310799175
+census,published,TF-FFLs,+ tier (NULL-C + tier),CT,-52.29766258546669,3.406639019021938
+census,published,TF-FFLs,+ sign (NULL-C + tier + sign),CTS,-49.577007115244555,2.720655470222134
+census,published,miRNA-FFLs,NULL-A,A,-86.54809127189891,nan
+census,published,miRNA-FFLs,+ reciprocity (NULL-B),B,-9.895865810313653,76.65222546158526
+census,published,miRNA-FFLs,+ bipartite curveball (NULL-C),C,24.33637075470887,34.232236565022525
+census,published,miRNA-FFLs,+ tier (NULL-C + tier),CT,33.725718833578576,9.389348078869705
+census,published,miRNA-FFLs,+ sign (NULL-C + tier + sign),CTS,35.21922826783701,1.493509434258435
+census,retyped,all three-node FFLs,NULL-A,A,-44.03493090321682,nan
+census,retyped,all three-node FFLs,+ reciprocity (NULL-B),B,-21.697639649084866,22.33729125413195
+census,retyped,all three-node FFLs,+ bipartite curveball (NULL-C),C,-20.45014043106749,1.2474992180173778
+census,retyped,all three-node FFLs,+ tier (NULL-C + tier),CT,-18.668880680470355,1.7812597505971333
+census,retyped,all three-node FFLs,+ sign (NULL-C + tier + sign),CTS,-17.891455019567516,0.7774256609028392
+census,retyped,composite FFLs,NULL-A,A,94.76229089707779,nan
+census,retyped,composite FFLs,+ reciprocity (NULL-B),B,-15.6586235643433,-110.42091446142109
+census,retyped,composite FFLs,+ bipartite curveball (NULL-C),C,-12.05551419384674,3.6031093704965595
+census,retyped,composite FFLs,+ tier (NULL-C + tier),CT,-10.890402064979243,1.1651121288674968
+census,retyped,composite FFLs,+ sign (NULL-C + tier + sign),CTS,-7.618253265591479,3.2721487993877645
+census,retyped,TF-FFLs,NULL-A,A,-99.43465063922167,nan
+census,retyped,TF-FFLs,+ reciprocity (NULL-B),B,-50.50049499505005,48.934155644171625
+census,retyped,TF-FFLs,+ bipartite curveball (NULL-C),C,-52.504089925589746,-2.0035949305396983
+census,retyped,TF-FFLs,+ tier (NULL-C + tier),CT,-49.55439717504625,2.949692750543498
+census,retyped,TF-FFLs,+ sign (NULL-C + tier + sign),CTS,-47.70482277745497,1.849574397591276
+census,retyped,miRNA-FFLs,NULL-A,A,-85.52499607327022,nan
+census,retyped,miRNA-FFLs,+ reciprocity (NULL-B),B,-11.784579193673528,73.7404168795967
+census,retyped,miRNA-FFLs,+ bipartite curveball (NULL-C),C,11.40872780714437,23.193307000817896
+census,retyped,miRNA-FFLs,+ tier (NULL-C + tier),CT,20.282535999454044,8.873808192309674
+census,retyped,miRNA-FFLs,+ sign (NULL-C + tier + sign),CTS,23.18283477774672,2.900298778292676

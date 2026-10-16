@@ -21,7 +21,7 @@ Objects and the model roles (TF1, TF2, miR1, miR2, G1, G2) mapped onto them:
   BHAT6 composite   T1->TF1, T2->TF2, M1->miR1, M2->miR2, G1->G1, G2->G2 (3,898 role assignments)
   MODEL6 FULL/DEF   as enumerated (S1/obs listings; 336 / 45,666 role assignments)
   CENSUS6 (c)       every seed (TF1, TF2, m, t) inside every one of the 210,115 modules: miR1 = m,
-                    G1 = t; no miR2 / G2 roles (a D1-D4 module cannot hold a co-transcribed pair)
+                    G1 = t; no miR2 / G2 roles (a topological-definition module cannot hold a co-transcribed pair)
 Model edges (dyn_models.py, S0/s0c_model6_signed_edge_list.csv): core TF1->miR1, miR1->TF1,
 miR1->G1, TF1->G1; GG G1-G2, TF1->G2, miR1->G2; MM miR1-miR2, TF1->miR2, miR2->G1, miR2->G2,
 miR2->TF1; TT TF1->TF2, TF2->G1, TF2->G2, TF2->miR1, TF2->miR2.  Only edges between roles the object

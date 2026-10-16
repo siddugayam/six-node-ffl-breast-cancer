@@ -1,0 +1,7 @@
+quantity,value
+"D2' seeds (composite core + second TF, uncontracted census graph)",5470
+"D2' six-node modules, primary (D3-D4 on the module with its cycle)",67229
+"D2' six-node modules, secondary (D3-D4 with the cycle condensed)",57217
+"CENSUS6c seeds (contracted census graph, s1_null6.c)",1339
+CENSUS6c six-node topological-definition modules with the composite core plus TF2,210115
+six-node composite pattern instances (check),3898

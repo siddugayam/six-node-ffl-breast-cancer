@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""S7(c) summary: exhaustive census (ffl_census_composition, max-flow D4) at n = 3-6 on the validated-only
+"""S7(c) summary: exhaustive census (ffl_census_composition, max-flow disjoint-path test) at n = 3-6 on the validated-only
 graphs with and without STRING; NULL-B / NULL-C (motif_null_models.c, 1,000 randomisations, seed 20250908, 100 swaps
 per edge) for three-node FFLs; BHAT6 and MODEL6 counts (s1_null6 OBS).  Reference: the noexemplar graph."""
 import glob, os, csv

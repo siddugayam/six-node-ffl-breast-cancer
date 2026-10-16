@@ -1,0 +1,14 @@
+graph work/graphs/boot_365.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1432275
+visited 162363314
+rng_final 42
+no_string_arc 1432275
+no_string_pair 1432275
+in_baseline 1074996
+baseline_keys 1506263

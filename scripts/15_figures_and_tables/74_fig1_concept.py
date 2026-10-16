@@ -86,7 +86,7 @@ def core(cx, cy, cls, mono=False):
     return M, T, G
 classes = [("miRNA-FFL", "mirna", 29, ["the miRNA regulates the TF", "and the gene; the TF regulates", "the gene"]),
            ("TF-FFL", "tf", 87, ["the TF regulates the miRNA", "and the gene; the miRNA", "regulates the gene"]),
-           ("Composite FFL", "comp", 145, ["TF and miRNA regulate each", "other and the gene; the TF", "regulates the gene"])]
+           ("Composite FFL", "comp", 145, ["the TF and miRNA regulate each", "other, and both regulate", "the gene"])]
 for name, cls, cx, desc in classes:
     text(cx, 56.5, name, size=3.2, weight="bold", anchor="middle")
     core(cx, 70, cls)
@@ -117,7 +117,7 @@ node("mirna", 16, ly + 0.4); text(19.5, ly + 1.4, "miRNA", size=2.85)
 node("gene", 32, ly + 0.4); text(35.2, ly + 1.4, "gene", size=2.85)
 edge((44, ly + 0.4), (51, ly + 0.4), "plain", "plain", COL["tf_tgt"], "arrow"); text(53, ly + 1.4, "activation", size=2.85)
 edge((70, ly + 0.4), (77, ly + 0.4), "plain", "plain", COL["mir_tgt"], "bar"); text(79, ly + 1.4, "repression by miRNA", size=2.85)
-edge((108, ly + 0.4), (115, ly + 0.4), "plain", "plain", COL["mm"], "none", sw=0.8); text(117, ly + 1.4, "co-transcribed pair", size=2.85)
+edge((108, ly + 0.4), (115, ly + 0.4), "plain", "plain", COL["mm"], "none", sw=0.8); text(117, ly + 1.4, "co-clustered pair", size=2.85)
 edge((142, ly + 0.4), (149, ly + 0.4), "plain", "plain", COL["gg"], "arrow", sw=0.7); text(151, ly + 1.4, "gene–gene", size=2.85)
 
 add('<g transform="translate(0,-14)">')
@@ -137,7 +137,7 @@ text(S[0], S[1] - 4.2, "source", size=2.85, anchor="middle", color=COL["grey"]);
 text(63, 189.2, "path 1", size=2.85, anchor="middle", color=COL["grey"]); text(46, 212.2, "path 2", size=2.85, anchor="middle", color=COL["grey"])
 add('</g>')
 # conditions
-conds = ["D1  induced subgraph on n vertices, connected when edge directions are ignored", "D2  acyclic", "D3  exactly one source and one sink; every vertex on a source–sink path", "D4  at least two internally vertex-disjoint source–sink paths"]
+conds = ["Connected: induced subgraph on n vertices, connected when edge directions are ignored", "Acyclic: no directed cycle", "Single source and sink: exactly one source and one sink; every vertex on a source–sink path", "Two disjoint paths: at least two internally vertex-disjoint source–sink paths"]
 for i, c in enumerate(conds): text(3, 222.6 + i * 3.7, c, size=2.85)
 add('</g>')
 add('</svg>')

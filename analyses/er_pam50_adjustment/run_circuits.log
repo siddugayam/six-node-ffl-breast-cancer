@@ -1,0 +1,41 @@
+node sets:  BHAT6_composite 2498; MODEL6_architecture 71 
+samples: 1065 ; features: 20742 
+circuits with all six members measured: 2454 of 2569 
+distinct gene sets to score: 4304 
+GSVA done in 12.3 min;  4304 x 1065 
+tumours with a clinical-matrix row: 1065 of 1065 
+OS: published sample n = 1028 events 137 ; with ER and PAM50 n = 747 events 103 
+published done
+same_tumours done
+er_pam50 done
+   rows_compared rows_published n_equal   max_rel_HR max_rel_p_six  max_rel_LRT
+           <int>          <int>  <lgcl>        <num>         <num>        <num>
+1:          2454           2454    TRUE 5.044166e-15  4.699899e-15 4.664697e-15
+      max_rel_q reproduced
+          <num>     <lgcl>
+1: 4.233964e-15       TRUE
+published patterns with q < 0.05: 16 
+            fit                      family circuits     n events n_LRT_p05
+         <char>                      <char>    <int> <int>  <int>     <int>
+1:    published  six-node composite pattern     2383  1028    137       288
+2:    published six-node model architecture       71  1028    137         9
+3: same_tumours  six-node composite pattern     2383   747    103       376
+4: same_tumours six-node model architecture       71   747    103         0
+5:     er_pam50  six-node composite pattern     2383   747    103       386
+6:     er_pam50 six-node model architecture       71   747    103         0
+   n_q_lt_005 n_HR_p05 sixteen_LRT_p05 sixteen_q_lt_005 sixteen_HR_p05
+        <int>    <int>           <int>            <int>          <int>
+1:         16      467              16               16             14
+2:          0       10               0                0              0
+3:          0      426              16                0              8
+4:          0        1               0                0              0
+5:          2      372              16                0              7
+6:          0        0               0                0              0
+   median_deltaC
+           <num>
+1:  0.0004320998
+2:  0.0003629639
+3:  0.0010603772
+4:  0.0004819897
+5:  0.0004819897
+6: -0.0003213264

@@ -1,0 +1,10 @@
+mode unc
+K 7
+nparts 1
+part 0
+seed 33
+q 1 1 0.2 0.2 0.2 0.2
+prod_q 0.0016000000000000005
+found 13604
+visited 18535776
+rng_final 1081495060671558998

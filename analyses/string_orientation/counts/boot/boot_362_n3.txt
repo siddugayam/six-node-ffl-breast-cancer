@@ -1,0 +1,14 @@
+graph work/graphs/boot_362.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 6127
+visited 166076
+rng_final 42
+no_string_arc 6127
+no_string_pair 6127
+in_baseline 5222
+baseline_keys 5833

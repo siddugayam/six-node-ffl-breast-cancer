@@ -1,0 +1,12 @@
+graph work/graphs/nostring.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 791085
+visited 113108087
+rng_final 42
+no_string_arc 791085
+no_string_pair 791085

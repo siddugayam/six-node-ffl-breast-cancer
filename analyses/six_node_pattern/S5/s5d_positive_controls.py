@@ -9,7 +9,7 @@ Edges are taken from the analysis plan's descriptions only; absent edges are rep
     ZEB1, ZEB2 -| miR-200a, -200b, -200c, -141, -429; those miRNAs -| ZEB1, ZEB2; SNAI1 -> ZEB1
 Presence, sign and evidence are read from the noexemplar census graph with the S5 sign rules
 (s5_signed_circuits.py).  Containment is checked in the S1 observed listings (BHAT6 composite, MODEL6
-FULL / DEF), the CENSUS6 (c)-with-core modules and the typed three-node cores (D1-D4 three-node FFLs of
+FULL / DEF), the CENSUS6 (c)-with-core modules and the typed three-node cores (topological-definition three-node FFLs of
 the analysed network, analyses/census_and_motif_nulls/graphs/null_dep_noexemplar.txt).  Read-only.
 """
 import os, csv, json, itertools, collections
@@ -76,7 +76,7 @@ BH = rd(f'{S1}/obs/noexemplar_bhat6_composite_instances.tsv', ['miR1', 'miR2', '
 MF = rd(f'{S1}/obs/noexemplar_model6_full_instances.tsv', ['TF1', 'TF2', 'miR1', 'miR2', 'G1', 'G2'])
 MD = rd(f'{S1}/obs/noexemplar_model6_def_instances.tsv', ['TF1', 'TF2', 'miR1', 'miR2', 'G1', 'G2'])
 CM = [set(map(int, l.split())) for l in open(f'{S1}/obs/noexemplar_census6c_modules.tsv') if l.strip()]
-# typed three-node cores: D1-D4 three-node FFLs of the analysed network (count3 enumeration)
+# typed three-node cores: topological-definition three-node FFLs of the analysed network (count3 enumeration)
 G = f'{REV}/analyses/census_and_motif_nulls/graphs/null_dep_noexemplar.txt'
 Lg = open(G).read().rstrip('\n').split('\n'); nm2 = json.load(open(G + '.meta.json'))['nodes']; assert nm2 == names
 t2 = list(map(int, Lg[1].split())); Ag = {tuple(map(int, l.split()[:2])) for l in Lg[2:]}

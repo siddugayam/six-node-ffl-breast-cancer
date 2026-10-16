@@ -1,0 +1,14 @@
+graph work/graphs/boot_394.txt
+K 4
+nparts 1
+part 0
+seed 42
+q 1 1 1
+prod_q 1
+found 118841
+visited 5027965
+rng_final 42
+no_string_arc 118841
+no_string_pair 118841
+in_baseline 98378
+baseline_keys 116505

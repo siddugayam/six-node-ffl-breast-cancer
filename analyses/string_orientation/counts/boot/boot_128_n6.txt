@@ -1,0 +1,14 @@
+graph work/graphs/boot_128.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 19062576
+visited 5550822553
+rng_final 42
+no_string_arc 19062576
+no_string_pair 19062576
+in_baseline 12037691
+baseline_keys 19401840

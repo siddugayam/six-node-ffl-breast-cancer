@@ -1,0 +1,12 @@
+graph work/graphs/nogenegene.txt
+K 6
+nparts 64
+part 46
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 2476
+visited 1300516
+rng_final 42
+no_string_arc 2476
+no_string_pair 2476

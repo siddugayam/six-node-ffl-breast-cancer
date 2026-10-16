@@ -1,0 +1,102 @@
+control: 04 table reproduced: TRUE 
+exact repeats of the dropped columns:
+MCPcounter_Fibroblasts_recomputed              NNLS_Wu641_full_CAFs 
+         "MCPcounter_Fibroblasts"                    "NNLS_Wu_CAFs" 
+            QPROG_Wu641_full_CAFs 
+                  "QPROG_Wu_CAFs" 
+unadjusted                               tumours 1066 done
+CAF_A                                    tumours 1066 done
+CAF_B                                    tumours 1066 done
+estimate:ESTIMATE_StromalScore           tumours 1066 done
+estimate:ESTIMATE_ESTIMATEScore          tumours 1066 done
+estimate:xCell_Fibroblasts               tumours 1066 done
+estimate:xCell_StromaScore               tumours 1066 done
+estimate:xCell_MicroenvironmentScore     tumours 1066 done
+estimate:MCPcounter_Fibroblasts          tumours 1066 done
+estimate:EPIC_CAFs                       tumours 1066 done
+estimate:ConsensusTME_Fibroblasts        tumours 1066 done
+estimate:CBSX_Wu_CAFs                    tumours 1066 done
+estimate:CBSX_Wu_nocol_CAFs              tumours 1066 done
+estimate:NNLS_Wu_CAFs                    tumours 1066 done
+estimate:ssGSEA_CAF_scRNA                tumours 1066 done
+estimate:ssGSEA_ESTIMATE_stromal_clean   tumours 1066 done
+estimate:meanZ_CAF_A_estimate            tumours 1066 done
+estimate:meanZ_FARMER_clean              tumours 1066 done
+estimate:meanZ_CAF_scRNA                 tumours 1066 done
+estimate:meanZ_CAF_B_markers             tumours 1066 done
+estimate:InstaPrism_Wu_CAFs              tumours 1066 done
+estimate:InstaPrism_Wu_nocollagen_CAFs   tumours 1066 done
+estimate:MCPcounter_Fibroblasts_nocol    tumours 1066 done
+estimate:EPIC_CAFs_nocol                 tumours 1066 done
+estimate:ConsensusTME_Fibroblasts_nocol  tumours 1066 done
+estimate:CONSENSUS_PC1                   tumours 1066 done
+estimate:CONSENSUS_rankmean              tumours 1066 done
+estimate:CONSENSUS_rankmean_collagensafe tumours 1066 done
+estimate:QPROG_Wu_CAFs                   tumours 1066 done
+estimate:RLS_Wu_CAFs                     tumours 1066 done
+estimate:OLS_Wu_CAFs                     tumours 1066 done
+estimate:DWLS_Wu_CAFs                    tumours 1066 done
+estimate:DTANGLE_Wu_CAFs                 tumours 1066 done
+estimate:QPROG_Wu_nocol_CAFs             tumours 1066 done
+estimate:RLS_Wu_nocol_CAFs               tumours 1066 done
+estimate:NNLS_Wu_nocol_CAFs              tumours 1066 done
+estimate:DTANGLE_Wu_nocol_CAFs           tumours 1066 done
+estimate:NNLS_Wu641_minusAllCOL_CAFs     tumours 1066 done
+estimate:QPROG_Wu641_minusAllCOL_CAFs    tumours 1066 done
+estimate:ABSOLUTE_nontumour              tumours 1023 done
+estimate:PATH_stroma_frozen              tumours 1065 done
+estimate:PATH_stroma_allslides           tumours 1066 done
+estimate:METH_EpiDISH_Fib                tumours 767 done
+estimate:METH_EpiDISH_Epi                tumours 767 done
+estimate:METH_EpiDISH_IC                 tumours 767 done
+adjustment x set rows with any change vs the arithmetic mean: 189 of 720 
+   adjustment                         set n_edges  conc null_pooled
+1  unadjusted        TF_target_Activation     301 0.711       0.635
+5  unadjusted            miRNA_target_all    4628 0.479       0.474
+6  unadjusted         miRNA_target_strong     701 0.495       0.488
+7  unadjusted           miRNA_target_weak    2294 0.527       0.485
+8  unadjusted miRNA_target_predicted_only    1633 0.404       0.451
+17      CAF_A        TF_target_Activation     301 0.581       0.560
+21      CAF_A            miRNA_target_all    4628 0.470       0.464
+22      CAF_A         miRNA_target_strong     701 0.511       0.472
+23      CAF_A           miRNA_target_weak    2294 0.484       0.471
+24      CAF_A miRNA_target_predicted_only    1633 0.432       0.451
+33      CAF_B        TF_target_Activation     301 0.654       0.601
+37      CAF_B            miRNA_target_all    4628 0.447       0.453
+38      CAF_B         miRNA_target_strong     701 0.468       0.465
+39      CAF_B           miRNA_target_weak    2294 0.469       0.461
+40      CAF_B miRNA_target_predicted_only    1633 0.408       0.436
+   p_mean_two_sided p_pooled_two_sided p_cauchy_two_sided
+1          0.007054           5.87e-03           5.77e-03
+5          0.499195           4.89e-01           5.15e-01
+6          0.730295           7.34e-01           7.83e-01
+7          0.000155           7.17e-05           3.06e-05
+8          0.000183           1.41e-04           1.04e-04
+17         0.490502           4.86e-01           4.91e-01
+21         0.472340           4.52e-01           5.07e-01
+22         0.049306           4.49e-02           3.78e-02
+23         0.256348           2.25e-01           1.95e-01
+24         0.133311           1.29e-01           1.26e-01
+33         0.066784           5.96e-02           5.11e-02
+37         0.509673           4.88e-01           4.93e-01
+38         0.874349           8.80e-01           1.00e+00
+39         0.447298           4.26e-01           5.41e-01
+40         0.025551           2.47e-02           2.30e-02
+   p_hmp_vovk_wang_two_sided p_pooled_one_sided
+1                   0.025264           3.37e-03
+5                   1.000000           2.48e-01
+6                   1.000000           3.73e-01
+7                   0.000134           3.72e-05
+8                   0.000454           1.00e+00
+17                  1.000000           2.49e-01
+21                  1.000000           2.29e-01
+22                  0.165211           2.31e-02
+23                  0.796965           1.13e-01
+24                  0.551224           9.40e-01
+33                  0.222923           3.14e-02
+37                  1.000000           7.61e-01
+38                  1.000000           4.47e-01
+39                  1.000000           2.13e-01
+40                  0.100557           9.89e-01
+DONE
+real 236.95 s

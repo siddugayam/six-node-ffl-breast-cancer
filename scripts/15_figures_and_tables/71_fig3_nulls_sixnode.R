@@ -1,6 +1,7 @@
 # Fig. 3: (a) over-representation of three-node FFLs and of reciprocal TF-miRNA pairs against the three null models;
-# (b) the six-node composite pattern of Bhat et al. (2024) under NULL-C and NULL-L, as tested and in three variants
-# (physical STRING links only, each co-transcribed cluster counted once, D1-D4 six-node modules; every value is read from
+# (b) the six-node composite pattern of Bhat et al. (2024) under the bipartite-layer and core-conditional nulls, as tested and in
+# three variants (physical STRING links only, each co-transcribed cluster counted once, six-node modules under the topological
+# definition; every value is read from
 # results/tissue_and_cohorts/fig3b_six_node_pattern.csv, whose last column names the source file and line). Drawn at 174 mm, 8 pt text, 600 dpi.
 suppressMessages({library(data.table); library(ggplot2); library(patchwork); library(scales); library(ragg)})
 REV <- Sys.getenv("FFL_REV", unset = "/path/to/six-node-ffl-breast-cancer")
@@ -13,9 +14,10 @@ RR <- file.path(REV,"results/expression_validation/census_tables")
 m <- fread(file.path(RR,"motif_nulls_all_graphs.csv"))
 m <- m[graph=="dep_noexemplar" & metric %in% c("Composite-FFL (once per reciprocal pair)","TF-FFL",
                                     "miRNA-FFL","All 3-node FFL modules","reciprocal TF<->miRNA pairs")]
-m[, null := fcase(grepl("NULL-A", null_desc), "A: degree-preserving",
-                  grepl("NULL-B", null_desc), "B: reciprocity preserved",
-                  grepl("NULL-C", null_desc), "C: B + bipartite curveball")]
+m[, null := fcase(grepl("NULL-A", null_desc), "Degree-preserving null",
+                  grepl("NULL-B", null_desc), "Reciprocity-preserving null",
+                  grepl("NULL-C", null_desc), "Bipartite-layer null")]
+m[, null := factor(null, levels=c("Degree-preserving null","Reciprocity-preserving null","Bipartite-layer null"))]
 m[, lab := fcase(metric=="Composite-FFL (once per reciprocal pair)","Composite-FFL",
                  metric=="All 3-node FFL modules","all 3-node FFLs",
                  metric=="reciprocal TF<->miRNA pairs","reciprocal TF–miRNA pairs",
@@ -35,7 +37,9 @@ pA <- ggplot(m, aes(x=log2(fold), y=lab, fill=dir)) +
 b <- fread(file.path(REV,"results/tissue_and_cohorts/fig3b_six_node_pattern.csv"))
 setnames(b, "ratio_observed_over_null_mean", "ratio")
 b[, sig := p_upper < 0.05]
-b[, null := factor(null, levels=c("NULL-C","NULL-L"))]
+b[, variant := sub("topological-definition six-node modules", "six-node modules of the topological definition", variant)]
+b[, null := factor(fcase(null=="NULL-C","Bipartite-layer null", null=="NULL-L","Core-conditional null"),
+                      levels=c("Bipartite-layer null","Core-conditional null"))]
 lv <- b[, .(row_order=unique(row_order)), by=variant][order(-row_order)]$variant
 b[, variant := factor(variant, levels=lv)]
 b[, vlab := stringr::str_wrap(as.character(variant), 30)]
@@ -45,8 +49,8 @@ pB <- ggplot(b, aes(ratio, vlab)) +
   geom_vline(xintercept=1, colour=MUTED, linewidth=0.4, linetype="dashed") +
   geom_line(aes(group=vlab), colour=RULE, linewidth=1.6) +
   geom_point(aes(shape=null, fill=sig, colour=sig), size=2.8, stroke=0.6) +
-  geom_text(aes(label=sprintf("%.2f×", ratio), vjust=ifelse(null=="NULL-C", 1.9, -1.15)), size=TXT, colour=INK) +
-  scale_shape_manual(values=c(`NULL-C`=21, `NULL-L`=23), name="null model") +
+  geom_text(aes(label=sprintf("%.2f×", ratio), vjust=ifelse(null=="Bipartite-layer null", 1.9, -1.15)), size=TXT, colour=INK) +
+  scale_shape_manual(values=c(`Bipartite-layer null`=21, `Core-conditional null`=23), name="null model") +
   scale_fill_manual(values=c(`TRUE`=unname(SEM["pos"]), `FALSE`="white"), labels=c(`TRUE`="p < 0.05", `FALSE`="p ≥ 0.05"), name="upper-tail p") +
   scale_colour_manual(values=c(`TRUE`=unname(SEM["pos"]), `FALSE`=unname(SEM["null"])), guide="none") +
   scale_x_continuous(trans="log2", breaks=c(0.5,1,2,4), limits=c(0.7,5), expand=expansion(mult=c(0.02,0.04))) +

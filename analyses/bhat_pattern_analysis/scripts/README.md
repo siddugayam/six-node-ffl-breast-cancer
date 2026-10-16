@@ -19,13 +19,13 @@
 | `a1b_run.py` | A1b of SETTINGS.md: a1_run.py with the four layers of S2's factorial that A1 did not need. |
 | `bhat_common.py` | Shared loader for the analyses of the twelve Bhat FFL networks (see SETTINGS.md). |
 | `bhat_null.c` | The S1 null program of analyses/six_node_pattern (s1_null6.c), with counters added for the Bhat three-, four- and five-node patterns in the three classes (see "ADDED" below). |
-| `cluster_nulls.py` | A2 of SETTINGS.md, item 2: the twelve Bhat networks under the two cluster variants, on the observed graph and on every replicate graph of NULL-B, NULL-C and NULL-L (section O's program and settings; each replicate's arc list is … |
+| `cluster_nulls.py` | A2 of SETTINGS.md, item 2: the twelve Bhat networks under the two cluster variants, on the observed graph and on every replicate graph of the reciprocity-preserving null, the bipartite-layer null and the core-conditional null (section O's program and settings; each replicate's arc list is … |
 | `concordance.R` | Section X of SETTINGS.md: sign concordance of the twelve Bhat networks' edges in TCGA-BRCA and CPTAC, against matched random-pair nulls, with the methods of … |
 | `dyn_models_bhat.py` | A copy of scripts/11_dynamics/dyn_models.py with two additions for the Bhat patterns (A1 of SETTINGS.md); nothing else is changed: (1) TF2 -> TF1 (Topology.s_T21: +1 activation, -1 repression, 0 absent, the default). |
 | `enrichment.R` | Section E of SETTINGS.md: enrichment of the twelve Bhat networks against the tumour vs normal signature. |
-| `evidence_nulls.py` | A3 of SETTINGS.md, item 2: the twelve Bhat networks under NULL-B, NULL-C and NULL-L on two restricted graphs, with section O's program (bhat_null.c) and settings (1,000 replicates, seed 20250908, 100 swap attempts per rewired … |
+| `evidence_nulls.py` | A3 of SETTINGS.md, item 2: the twelve Bhat networks under the reciprocity-preserving null, the bipartite-layer null and the core-conditional null on two restricted graphs, with section O's program (bhat_null.c) and settings (1,000 replicates, seed 20250908, 100 swap attempts per rewired … |
 | `knocktf_tf_arcs.py` | A4 of SETTINGS.md: KnockTF 2.0 support for the TF-TF arcs of the six-node Bhat patterns, with the rule of P3b (analyses/perturbation_tests), unchanged. |
-| `nulls.py` | Section O of SETTINGS.md: over-representation of the twelve Bhat networks under NULL-B, NULL-C and NULL-L. |
+| `nulls.py` | Section O of SETTINGS.md: over-representation of the twelve Bhat networks under the reciprocity-preserving null, the bipartite-layer null and the core-conditional null. |
 | `ora_overlap.py` | ORA term overlap (SETTINGS.md, Additions and decisions, entry on the ORA term overlap; added after section E's ORA had been seen); descriptive, part of no decision line. |
 | `prioritisation.R` | Section P of SETTINGS.md: the paper's prioritisation (scripts/06_node_prioritisation/01_prioritisation.R) with Bhat FFL participation. |
 | `run_logged.py` | Runs one analysis step and appends a line to RUN_LOG.tsv (next to SETTINGS.md): analysis, command, start, end, seconds, exit status, and the md5 of SETTINGS.md at the start. |

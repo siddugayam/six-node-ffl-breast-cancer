@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-F6: target rule of the named-class D1-D4 three-node FFLs (analyses/six_node_pattern).  Read-only.
+F6: target rule of the named-class topological-definition three-node FFLs (analyses/six_node_pattern).  Read-only.
 
 Graphs = the null-format inputs of the stored motif runs (analyses/census_and_motif_nulls/graphs):
   null_dep.txt           deposited network, 6,859 edges (30 exemplar miRNA-miRNA edges included)
@@ -42,7 +42,7 @@ for tag in ('dep', 'dep_noexemplar'):
             tab[(k, TN[ty[t]])] += 1
             if ty[t] == 0 and k != 'other': via_mm[(names[u], names[v], names[t])] += 1
     named = sum(c for (k, _), c in tab.items() if k != 'other')
-    lines.append(f'== {tag}: arcs {ne}; all D1-D4 three-node FFLs {total}; named-class {named}')
+    lines.append(f'== {tag}: arcs {ne}; all topological-definition three-node FFLs {total}; named-class {named}')
     for k in ('composite', 'TF-FFL', 'miRNA-FFL', 'other'):
         lines.append(f'   {k:10s} ' + ', '.join(f'target {tt}: {tab[(k, tt)]}' for tt in ('Gene', 'TF', 'miRNA')))
     mir_named = sum(c for (k, tt), c in tab.items() if k != 'other' and tt == 'miRNA')

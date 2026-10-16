@@ -1,0 +1,14 @@
+graph work/graphs/boot_379.txt
+K 4
+nparts 1
+part 0
+seed 42
+q 1 1 1
+prod_q 1
+found 116087
+visited 4966335
+rng_final 42
+no_string_arc 116087
+no_string_pair 116087
+in_baseline 97249
+baseline_keys 116505

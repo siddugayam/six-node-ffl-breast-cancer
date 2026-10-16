@@ -2,11 +2,11 @@
  *
  * Enumeration and module test are copied from scripts/03_ffl_census/census_09_esu_classmask.c (the program behind the
  * exhaustive counts in results/expression_validation/verify_census.csv): source-rooted ESU over out-neighbourhoods,
- * acyclicity pruning, D1-D4 with a unit-capacity max-flow test for D4, and the same xorshift64
+ * acyclicity pruning, the topological definition with a unit-capacity max-flow test for the disjoint-path condition, and the same xorshift64
  * RAND-ESU with the same order of random draws.  With nparts=1 the 'found' and 'visited' counts
  * therefore reproduce logs/expression_validation/census_exhaustive_n*.log and logs/expression_validation/census_n7_sampled*.log exactly.
  *
- * Nothing is listed.  For every module that passes D1-D4 the program only increments counters:
+ * Nothing is listed.  For every module that passes the topological definition the program only increments counters:
  *   composition   (#TF, #miRNA, #Gene)                         node types from graph_pub_fine.txt
  *   class mask    set of edge classes under the paper's 7-class _cls map (edgeclass_graph_aug.txt codes:
  *                 0 TF->Gene, 1 TF->TF, 2 TF->miRNA, 3 miRNA->Gene, 4 miRNA->TF, 5 Gene->Gene,
@@ -60,7 +60,7 @@ static int adj[8][8];
 static int Vsub[8];
 static uint64_t forbid[W];
 
-/* ---- D1-D4, verbatim logic of census_09_esu_classmask.c check_module ---- */
+/* ---- the topological definition, verbatim logic of census_09_esu_classmask.c check_module ---- */
 static int check_module(int n){
     int i, j, it;
     int indeg[8], outdeg[8];

@@ -1,0 +1,47 @@
+TRRUST arcs among the nodes: 1374 ; equal to the project's TRRUST layer: TRUE 
+TransmiR arcs among the nodes: 1373 ; equal to the project's TransmiR layer: TRUE 
+validated miRNA -> target arcs among the nodes: 27857 
+TargetScan human families: 219 ; mapped to a human miRBase entry: 219 
+predicted miRNA -> target arcs among the nodes: 6539 ; not validated: 2264 
+                    network    typing  arcs reciprocal_TF_miRNA_pairs
+                     <char>    <char> <int>                     <int>
+1:                validated published 30604                       809
+2:                validated   retyped 30604                       734
+3: validated_plus_predicted published 32868                       840
+4: validated_plus_predicted   retyped 32868                       759
+   Gene->Gene Gene->miRNA Gene->TF miRNA->Gene miRNA->TF TF->Gene TF->miRNA
+        <int>       <int>    <int>       <int>     <int>    <int>     <int>
+1:         15          16       21       15216     12641      681      1357
+2:         97         131      122       17422     10435      685      1242
+3:         15          16       21       16347     13774      681      1357
+4:         97         131      122       18656     11465      685      1242
+   TF->TF
+    <int>
+1:    657
+2:    470
+3:    657
+4:    470
+                     network    edge_type analysed_arcs in_primary_tables
+                      <char>       <char>         <int>             <int>
+ 1:                validated    gene_gene             1                 0
+ 2:                validated miRNA_target          4819              3016
+ 3:                validated     TF_miRNA          1239              1236
+ 4:                validated    TF_target           770               770
+ 5: validated_plus_predicted    gene_gene             1                 0
+ 6: validated_plus_predicted miRNA_target          4819              4257
+ 7: validated_plus_predicted     TF_miRNA          1239              1236
+ 8: validated_plus_predicted    TF_target           770               770
+ 9:                validated          all          6829              5022
+10: validated_plus_predicted          all          6829              6263
+    baseline_arcs
+            <int>
+ 1:            NA
+ 2:            NA
+ 3:            NA
+ 4:            NA
+ 5:            NA
+ 6:            NA
+ 7:            NA
+ 8:            NA
+ 9:         30604
+10:         32868

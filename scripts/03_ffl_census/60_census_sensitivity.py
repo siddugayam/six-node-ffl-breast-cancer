@@ -108,7 +108,7 @@ def build_graph(string_mode='as_directed', mirna_thresh='threshold_10kb',
     return nodes, edges, meta
 
 
-# ------------------------------------------------------------------ D1-D4 test
+# ------------------------------------------------------------------ topological-definition test
 def is_ffl(S, out_s, in_s):
     src = [v for v in S if not in_s[v]]
     snk = [v for v in S if not out_s[v]]

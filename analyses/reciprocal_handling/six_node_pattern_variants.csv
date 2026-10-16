@@ -1,0 +1,7 @@
+treatment,instances,node_sets,note
+"pattern recount (s1_null6 OBS, uncontracted census graph)",3898,2498,instance list identical to the deposited one: True
+U no contraction,3898,2498,"the pattern already reads both arcs of every reciprocal pair, so its graph is the uncontracted one"
+S graph-level SCC condensation: node sets with six distinct SCCs,,0,of which topological-definition modules of the condensation DAG: 0
+M module-level condensation: node sets that are valid modules,3161,2040,
+B baseline census (contracted): node sets that are topological-definition modules,,0,first failing condition: D2 2498
+U: node sets that are topological-definition modules of the uncontracted graph,,0,

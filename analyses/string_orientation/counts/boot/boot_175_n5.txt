@@ -1,0 +1,14 @@
+graph work/graphs/boot_175.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1500826
+visited 167784044
+rng_final 42
+no_string_arc 1500826
+no_string_pair 1500826
+in_baseline 1126009
+baseline_keys 1506263

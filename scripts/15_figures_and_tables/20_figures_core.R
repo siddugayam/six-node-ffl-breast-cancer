@@ -74,7 +74,7 @@ if (nrow(cen)) {
                       name=NULL) +
     labs(x="Module size (nodes)", y="n-node FFLs (log scale)",
          title="Systematic census of n-node feed-forward loops",
-         subtitle="Modules satisfying D1-D4; counts grow ~10x per added node") +
+         subtitle="Modules satisfying the topological definition; counts grow ~10x per added node") +
     theme_minimal(base_size=10) +
     theme(panel.grid.major.x=element_blank(), legend.position="top")
   ggsave(file.path(FIG,"Figure2B_ffl_census.png"), pB, width=5.4, height=4.2, dpi=400, bg="white")

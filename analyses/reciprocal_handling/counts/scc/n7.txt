@@ -1,0 +1,10 @@
+mode scc
+K 7
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1 1
+prod_q 1
+found 19
+visited 7834401638
+rng_final 42

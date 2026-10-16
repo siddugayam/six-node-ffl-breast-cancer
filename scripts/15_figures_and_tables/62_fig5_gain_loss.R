@@ -1,5 +1,5 @@
 # Fig. 5: behaviours gained and lost by higher-order modules relative to their embedded three-node
-# cores, for the composite circuit (a) and the incoherent type-1 circuit I1 (b).
+# cores, for the composite circuit (a) and the incoherent type-1 circuit (b).
 # R version of the Fig_dyn5 panel of scripts/11_dynamics/05_figures.py (same data, same encoding: gains right of
 # zero in red, losses left of zero in blue, colour intensity by module size), drawn at print width
 # (174 mm) with 8 pt text in the style of the other main figures; it replaces
@@ -43,8 +43,8 @@ panel <- function(fam, title, tag, show_y) {
     theme(panel.grid.major.y = element_blank(), axis.title.x = element_text(lineheight = 1.1),
           plot.title = element_text(size = BASE - 0.5, colour = INK, hjust = 0.5))
 }
-pa <- panel("COMP_C2_toggle", "composite circuit", "a", TRUE)
-pb <- panel("I1_miRNA_FFL", "I1 circuit", "b", FALSE)
+pa <- panel("COMP_C2_toggle", "Composite circuit", "a", TRUE)
+pb <- panel("I1_miRNA_FFL", "Incoherent type-1 circuit", "b", FALSE)
 fig <- (pa | pb) + plot_layout(guides = "collect") & theme(legend.position = "bottom")
 ggsave(file.path(FIG,"Fig_dyn5_higher_order_gain_loss.png"), fig, width = 6.85, height = 4.6, dpi = 600,
        bg = "white", device = ragg::agg_png)

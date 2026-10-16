@@ -1,0 +1,10 @@
+mode unc
+K 6
+nparts 64
+part 28
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 8698
+visited 4740700
+rng_final 42

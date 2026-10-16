@@ -769,73 +769,73 @@
   {
    "network": "3node_miRNA_FFL",
    "node_sets": 1355,
-   "D1_D4_modules": 1307,
+   "topological_modules": 1307,
    "share": 0.9645756457564576
   },
   {
    "network": "3node_TF_FFL",
    "node_sets": 1182,
-   "D1_D4_modules": 1143,
+   "topological_modules": 1143,
    "share": 0.9670050761421319
   },
   {
    "network": "3node_composite_FFL",
    "node_sets": 1173,
-   "D1_D4_modules": 1134,
+   "topological_modules": 1134,
    "share": 0.9667519181585678
   },
   {
    "network": "4node_miRNA_FFL",
    "node_sets": 2554,
-   "D1_D4_modules": 2297,
+   "topological_modules": 2297,
    "share": 0.8993735317149569
   },
   {
    "network": "4node_TF_FFL",
    "node_sets": 2065,
-   "D1_D4_modules": 1861,
+   "topological_modules": 1861,
    "share": 0.9012106537530267
   },
   {
    "network": "4node_composite_FFL",
    "node_sets": 2029,
-   "D1_D4_modules": 1826,
+   "topological_modules": 1826,
    "share": 0.8999507146377526
   },
   {
    "network": "5node_miRNA_FFL",
    "node_sets": 1456,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   },
   {
    "network": "5node_TF_FFL",
    "node_sets": 1168,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   },
   {
    "network": "5node_composite_FFL",
    "node_sets": 1168,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   },
   {
    "network": "6node_miRNA_FFL",
    "node_sets": 8606,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   },
   {
    "network": "6node_TF_FFL",
    "node_sets": 9950,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   },
   {
    "network": "6node_composite_FFL",
    "node_sets": 2498,
-   "D1_D4_modules": 0,
+   "topological_modules": 0,
    "share": 0.0
   }
  ]

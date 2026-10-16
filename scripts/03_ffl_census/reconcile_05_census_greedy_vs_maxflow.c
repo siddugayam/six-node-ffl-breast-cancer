@@ -1,5 +1,5 @@
-/* Exhaustive / sampled ESU census of n-node FFLs under D1-D4, replicating
-   03_ffl_census.py exactly (greedy 2-path D4), plus a rigorous max-flow D4 for
+/* Exhaustive / sampled ESU census of n-node FFLs under the topological definition, replicating
+   03_ffl_census.py exactly (greedy two-path test), plus a rigorous max-flow disjoint-path test for
    comparison, plus the class-diversity histogram under the paper's own _cls map. */
 #include <stdio.h>
 #include <stdlib.h>

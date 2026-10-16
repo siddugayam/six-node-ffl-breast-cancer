@@ -1,0 +1,12 @@
+scheme,setting,n_ranked,kendall_tau,top30_shared,top30_jaccard
+leave_one_domain_out,T_topology,577,0.7921119776622376,23.0,0.6216216216216216
+leave_one_domain_out,E_evidence,577,0.7742634315424609,23.0,0.6216216216216216
+leave_one_domain_out,D_expression,583,0.756868431445362,24.0,0.6666666666666666
+leave_one_domain_out,R_replication,583,0.8083499849693196,26.0,0.7647058823529411
+leave_one_domain_out,M_multiomic,577,0.8035095320623917,22.0,0.5789473684210527
+leave_one_domain_out,C_clinical,583,0.749512239689248,20.0,0.5
+leave_one_domain_out,F_functional,583,0.839271925636446,24.0,0.6666666666666666
+median_of_domains,median,583,0.7079041164260255,20.0,0.5
+random_weights,"10000 Dirichlet(1,...,1) draws, median",583,0.6215215763941692,18.0,0.42857142857142855
+random_weights,2.5th percentile,583,0.43306337052689897,12.0,0.25
+random_weights,97.5th percentile,583,0.7823816849687303,24.0,0.6666666666666666

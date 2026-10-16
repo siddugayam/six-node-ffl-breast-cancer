@@ -1,0 +1,26 @@
+cohort,covariate,n_samples,n_available,levels
+TCGA_BRCA,age,1068,1066,""
+TCGA_BRCA,stage4,1068,1044,I 178; II 604; III 243; IV 19
+TCGA_BRCA,ER_ihc,1068,1017,Positive 786; Negative 231
+TCGA_BRCA,PAM50,1068,817,LumA 414; LumB 182; Her2 66; Basal 132; Normal 23
+TCGA_BRCA,stromal,1068,1066,""
+GSE19783,ER2,101,99,Positive 61; Negative 38
+GSE19783,subtype5,101,95,Lum A 41; Lum B 12; ERBB2 17; Basal 15; Normal-like 10
+GSE19783,stromal,101,101,""
+GSE22216,age,210,210,""
+GSE22216,grade3,210,186,1 42; 2 81; 3 63
+GSE22216,size,210,210,""
+GSE22216,node,210,210,""
+GSE22216,ER,210,210,""
+GSE22216,stromal,210,205,""
+GSE37405,age,153,152,""
+GSE37405,size,153,151,""
+GSE37405,node,153,151,""
+GSE59829,age,123,123,""
+GSE59829,size,123,122,""
+GSE59829,ER2,123,123,0 23; 1 100
+GSE78870,age,106,105,""
+GSE78870,grade3,106,92,1 11; 2 45; 3 36
+GSE78870,ER2,106,103,positive 95; negative 8
+GSE19783,stromal score genes present,,118,of 123
+GSE22216,stromal score genes present,,102,of 123

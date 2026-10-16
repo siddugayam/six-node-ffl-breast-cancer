@@ -14,7 +14,7 @@ T3  Jaccard index of the node sets and of the edge sets for every pair of networ
     pair; a directed arc is an ordered pair.
 T4  Overlap with the typed cores (Table S4 in the paper): the share of each network's nodes that belong to any typed
     core, and of its edges that some typed core uses. A core uses R->M, M->T and R->T, plus M->R for a composite.
-T5  The share of distinct instance node sets that are D1-D4 modules of the same size on the census graph. The graph is
+T5  The share of distinct instance node sets that are topological-definition modules of the same size on the census graph. The graph is
     the census script's build_graph(True), with its TF<->miRNA contraction; the test is its is_ffl on the induced
     subgraph.
 
@@ -169,7 +169,7 @@ def main(root, netdir, sifdir, census_script, out):
         say(f"  {r['network']:20s} nodes in a core {r['nodes_in_a_typed_core']}/{r['nodes']} = {r['share_nodes']:.3f}; "
             f"edges used by a core {r['edges_used_by_a_typed_core']}/{r['edges']} = {r['share_edges']:.3f}")
 
-    # T5 D1-D4 modules on the contracted census graph
+    # T5 topological-definition modules on the contracted census graph
     spec = importlib.util.spec_from_file_location('census', census_script)
     cs = importlib.util.module_from_spec(spec); spec.loader.exec_module(cs)
     cnodes, cedges, nrecip = cs.build_graph(True)
@@ -189,12 +189,12 @@ def main(root, netdir, sifdir, census_script, out):
             cyc = sorted({' / '.join(sorted(f'{cnodes[a]}->{cnodes[b]} ({cedges[(a, b)]})' for a, b in ((u, v), (v, u))))
                           for u in S for v in outs[u] & S if u in outs[v]})
             why[net]['2-cycle: ' + '; '.join(cyc) if cyc else 'no 2-cycle'] += 1
-        T5.append(dict(network=net, node_sets=len(sets), D1_D4_modules=npass, share=npass / len(sets)))
+        T5.append(dict(network=net, node_sets=len(sets), topological_modules=npass, share=npass / len(sets)))
     write_csv(os.path.join(out, 'T5_d1d4.csv'), T5)
     write_csv(os.path.join(out, 'T5_d1d4_failures.csv'),
               [dict(network=net, reason=k, node_sets=v) for net in why for k, v in why[net].most_common()])
     for r in T5:
-        say(f"  {r['network']:20s} node sets passing D1-D4: {r['D1_D4_modules']} of {r['node_sets']} = {r['share']:.3f}")
+        say(f"  {r['network']:20s} node sets passing the topological definition: {r['topological_modules']} of {r['node_sets']} = {r['share']:.3f}")
         for k, v in why[r['network']].most_common(): say(f'      fails: {v:5d}  {k}')
     json.dump(dict(T1=T1, T2_summary=summ_rows, T2_overlap=ov, T4=T4, T5=T5), open(os.path.join(out, 'topology_summary.json'), 'w'), indent=1)
     open(os.path.join(out, 'topology.log'), 'w').write('\n'.join(log) + '\n')

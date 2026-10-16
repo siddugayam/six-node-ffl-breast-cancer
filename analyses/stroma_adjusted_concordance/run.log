@@ -1,0 +1,101 @@
+control: 04 table reproduced: TRUE 
+Farmer-correlated genes (rho > 0.5): 698 ; network miRNA targets among them: 67 
+ESTIMATE_StromalScore                tumours 1066 done
+ESTIMATE_ESTIMATEScore               tumours 1066 done
+xCell_Fibroblasts                    tumours 1066 done
+xCell_StromaScore                    tumours 1066 done
+xCell_MicroenvironmentScore          tumours 1066 done
+MCPcounter_Fibroblasts               tumours 1066 done
+EPIC_CAFs                            tumours 1066 done
+ConsensusTME_Fibroblasts             tumours 1066 done
+CBSX_Wu_CAFs                         tumours 1066 done
+CBSX_Wu_nocol_CAFs                   tumours 1066 done
+NNLS_Wu_CAFs                         tumours 1066 done
+ssGSEA_CAF_scRNA                     tumours 1066 done
+ssGSEA_ESTIMATE_stromal_clean        tumours 1066 done
+meanZ_CAF_A_estimate                 tumours 1066 done
+meanZ_FARMER_clean                   tumours 1066 done
+meanZ_CAF_scRNA                      tumours 1066 done
+meanZ_CAF_B_markers                  tumours 1066 done
+InstaPrism_Wu_CAFs                   tumours 1066 done
+InstaPrism_Wu_nocollagen_CAFs        tumours 1066 done
+MCPcounter_Fibroblasts_recomputed    tumours 1066 done
+MCPcounter_Fibroblasts_nocol         tumours 1066 done
+EPIC_CAFs_nocol                      tumours 1066 done
+ConsensusTME_Fibroblasts_nocol       tumours 1066 done
+CONSENSUS_PC1                        tumours 1066 done
+CONSENSUS_rankmean                   tumours 1066 done
+CONSENSUS_rankmean_collagensafe      tumours 1066 done
+QPROG_Wu_CAFs                        tumours 1066 done
+RLS_Wu_CAFs                          tumours 1066 done
+OLS_Wu_CAFs                          tumours 1066 done
+DWLS_Wu_CAFs                         tumours 1066 done
+DTANGLE_Wu_CAFs                      tumours 1066 done
+QPROG_Wu_nocol_CAFs                  tumours 1066 done
+RLS_Wu_nocol_CAFs                    tumours 1066 done
+NNLS_Wu_nocol_CAFs                   tumours 1066 done
+DTANGLE_Wu_nocol_CAFs                tumours 1066 done
+NNLS_Wu641_full_CAFs                 tumours 1066 done
+NNLS_Wu641_minusAllCOL_CAFs          tumours 1066 done
+QPROG_Wu641_full_CAFs                tumours 1066 done
+QPROG_Wu641_minusAllCOL_CAFs         tumours 1066 done
+ABSOLUTE_nontumour                   tumours 1023 done
+PATH_stroma_frozen                   tumours 1065 done
+PATH_stroma_allslides                tumours 1066 done
+METH_EpiDISH_Fib                     tumours 767 done
+METH_EpiDISH_Epi                     tumours 767 done
+METH_EpiDISH_IC                      tumours 767 done
+                                edges                         set n_edges
+3                           all edges         TF_miRNA_Activation     708
+4                           all edges         TF_miRNA_Repression     374
+5                           all edges            miRNA_target_all    4628
+6                           all edges         miRNA_target_strong     701
+7                           all edges           miRNA_target_weak    2294
+8                           all edges miRNA_target_predicted_only    1633
+11 Farmer-correlated targets left out         TF_miRNA_Activation     708
+12 Farmer-correlated targets left out         TF_miRNA_Repression     374
+13 Farmer-correlated targets left out            miRNA_target_all    3536
+14 Farmer-correlated targets left out         miRNA_target_strong     496
+15 Farmer-correlated targets left out           miRNA_target_weak    1780
+16 Farmer-correlated targets left out miRNA_target_predicted_only    1260
+   unadj_conc unadj_null  unadj_p ABSOLUTE_conc ABSOLUTE_null ABSOLUTE_p
+3       0.578      0.512 5.68e-04         0.547         0.495    0.00629
+4       0.455      0.496 1.34e-01         0.455         0.507    0.06923
+5       0.479      0.474 4.99e-01         0.503         0.492    0.15587
+6       0.495      0.488 7.30e-01         0.526         0.503    0.23679
+7       0.527      0.485 1.55e-04         0.532         0.501    0.00390
+8       0.404      0.451 1.83e-04         0.452         0.476    0.05443
+11      0.578      0.512 5.68e-04         0.547         0.495    0.00629
+12      0.455      0.496 1.34e-01         0.455         0.507    0.06923
+13      0.454      0.469 8.38e-02         0.475         0.488    0.11982
+14      0.446      0.481 1.25e-01         0.476         0.496    0.38655
+15      0.502      0.482 1.19e-01         0.504         0.497    0.59237
+16      0.390      0.446 8.44e-05         0.433         0.471    0.00645
+   ESTIMATE_conc ESTIMATE_null ESTIMATE_p all45_conc_median all45_p_median
+3          0.558         0.537     0.2752             0.572         0.1449
+4          0.422         0.466     0.1135             0.436         0.1562
+5          0.448         0.451     0.6638             0.450         0.6482
+6          0.475         0.461     0.4731             0.475         0.5527
+7          0.466         0.458     0.4844             0.473         0.0501
+8          0.411         0.438     0.0311             0.407         0.0105
+11         0.558         0.537     0.2752             0.572         0.1449
+12         0.422         0.466     0.1135             0.436         0.1562
+13         0.440         0.446     0.4962             0.440         0.5749
+14         0.456         0.452     0.8577             0.454         0.8112
+15         0.460         0.455     0.6542             0.468         0.2543
+16         0.406         0.432     0.0644             0.398         0.0215
+   all45_n_p_below_0.05
+3                    19
+4                     6
+5                     0
+6                     0
+7                    22
+8                    30
+11                   19
+12                    6
+13                    0
+14                    0
+15                    4
+16                   31
+DONE
+real 266.14 s

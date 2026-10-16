@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Exhaustive n=3 FFL census under the formal definition (D1-D4), plus the two
+"""Exhaustive n=3 FFL census under the formal definition (the topological definition), plus the two
 alternative 'core' counting conventions, for several graph-augmentation variants."""
 import sys, os, csv
 from collections import Counter
@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from census_03_build_graph import build, summarise, NODE_TYPE
 
 def reduce_graph(E):
-    """D1 contraction: replace every reciprocal TF<->miRNA pair by its TF->miRNA arc,
+    """Contraction: replace every reciprocal TF<->miRNA pair by its TF->miRNA arc,
     i.e. drop the miRNA->TF arc of the pair.  Returns (E2, set_of_composite_arcs)."""
     comp = set()
     drop = set()
@@ -130,7 +130,7 @@ if __name__ == "__main__":
         c, recip = summarise(E)
         tot, cls, ordG, ordR = census3(E)
         rows.append((name, len(E), len(E2), len(recip), tot, ordG, ordR, dict(cls)))
-        print("%-24s |E|=%5d |E_reduced|=%5d recip=%4d  D1-D4_n3=%6d  ordered_cores_G=%6d ordered_cores_reduced=%6d"
+        print("%-24s |E|=%5d |E_reduced|=%5d recip=%4d  topological_n3=%6d  ordered_cores_G=%6d ordered_cores_reduced=%6d"
               % (name, len(E), len(E2), len(recip), tot, ordG, ordR))
         print("      classes:", dict(cls))
     import json

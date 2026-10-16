@@ -1,0 +1,14 @@
+graph work/graphs/boot_293.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1470447
+visited 167473699
+rng_final 42
+no_string_arc 1470447
+no_string_pair 1470447
+in_baseline 1102949
+baseline_keys 1506263

@@ -1,0 +1,16 @@
+n,variant,method,baseline_count,variant_count,shared,jaccard,lost_fraction,gained_fraction,variant_sd,baseline_sd,note
+3,U no contraction,exhaustive,5833,2914,2914,0.49957140408023315,0.5004285959197668,0.0,,,
+3,S graph-level SCC condensation,exhaustive (images),5833,53,34,0.6415094339622641,0.9819989713697925,0.3584905660377358,,,baseline modules retained: 105; distinct images of baseline modules with n distinct SCCs: 34
+3,M module-level condensation,exhaustive,5833,2914,2914,0.49957140408023315,0.5004285959197668,0.0,,,
+4,U no contraction,exhaustive,116505,23845,23845,0.20466932749667396,0.795330672503326,0.0,,,
+4,S graph-level SCC condensation,exhaustive (images),116505,38,24,0.631578947368421,0.999287584223853,0.3684210526315789,,,baseline modules retained: 83; distinct images of baseline modules with n distinct SCCs: 24
+4,M module-level condensation,exhaustive,116505,164199,56889,0.25417867435158503,0.5117033603707996,0.6535362578334826,,,
+5,U no contraction,exhaustive,1506263,187719,187719,0.12462564638446275,0.8753743536155373,0.0,,,
+5,S graph-level SCC condensation,exhaustive (images),1506263,36,17,0.4722222222222222,0.9999734442125977,0.5277777777777778,,,baseline modules retained: 40; distinct images of baseline modules with n distinct SCCs: 17
+5,M module-level condensation,exhaustive,1506263,7255939,1039673,0.134628565331383,0.30976662110136144,0.8567142033581043,,,
+6,U no contraction,exhaustive,19401840,1335762,1335762,0.06884718150443463,0.9311528184955654,0.0,,,
+6,S graph-level SCC condensation,exhaustive (images),19401840,31,6,0.1935483870967742,0.999998711462418,0.8064516129032258,,,baseline modules retained: 25; distinct images of baseline modules with n distinct SCCs: 6
+6,M module-level condensation,exhaustive,19401840,271782976,13982004,0.05043961819550373,0.2793464949716109,0.9485545260936432,,,
+7,U no contraction,"RAND-ESU, 8 seeds (S: exhaustive on the condensation DAG)",225761602.4,8760902.8,8730628.2,0.03866670634732946,0.9613281084570874,0.0,161262.2,939186.5,shared = baseline estimate x fraction of sampled baseline modules valid under the variant
+7,S graph-level SCC condensation,"RAND-ESU, 8 seeds (S: exhaustive on the condensation DAG)",225761602.4,19.0,0.0,nan,1.0,nan,0.0,939186.5,Jaccard on images not estimable from the samples; shared = baseline estimate x retained fraction
+7,M module-level condensation,"RAND-ESU, 8 seeds (S: exhaustive on the condensation DAG)",225761602.4,9019061185.8,162850227.6,0.017931151683598743,0.278662864643173,0.9819025251104102,22657054.3,939186.5,shared = baseline estimate x fraction of sampled baseline modules valid under the variant

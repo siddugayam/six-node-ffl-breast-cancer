@@ -1,0 +1,14 @@
+graph work/graphs/boot_352.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5889
+visited 164848
+rng_final 42
+no_string_arc 5889
+no_string_pair 5889
+in_baseline 5144
+baseline_keys 5833

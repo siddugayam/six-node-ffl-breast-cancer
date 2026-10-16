@@ -3,7 +3,7 @@
 S0(b) overlaps and S0(c) MODEL6 in network terms (analyses/six_node_pattern).  Read-only on the project.
 
 Graph: the noexemplar census graph (S1/graph_noexemplar_null.txt + S1/graph_noexemplar_labels.txt, arc order
-and labels as documented in S1/make_s1_inputs.py).  Contracted graph for D1-D4 = the uncontracted one
+and labels as documented in S1/make_s1_inputs.py).  Contracted graph for the topological definition = the uncontracted one
 minus every miRNA->TF arc whose TF->miRNA reverse exists (the census builder's rule).
 
 (c) MODEL6-architecture = the COMP_C2_toggle six-node module of scripts/11_dynamics/dyn_models.py as a
@@ -70,7 +70,7 @@ def model6(by):
     return full, dfn
 
 
-# ---------------- D1-D4 (port of acyclic() + check_module() of census_09_esu_classmask.c) ----------------
+# ---------------- the topological definition (port of acyclic() + check_module() of census_09_esu_classmask.c) ----------------
 def is_module(Sset, CO):
     V = list(Sset); n = len(V)
     adj = [[(i != j) and (V[j] in CO[V[i]]) for j in range(n)] for i in range(n)]
@@ -205,13 +205,13 @@ P('EA6 circuits:', len(ea6), '| that are BHAT6 composite sets:', len(ea6 & B['Co
   '| BHAT6 sets of any class:', len(ea6 & anyB), '| MODEL6 FULL sets:', len(ea6 & FSn), '| MODEL6 DEF sets:', len(ea6 & DSn))
 for k in B:
     n_pass = sum(is_module({idx[x] for x in s}, CO0) for s in B[k])
-    P(f'BHAT6 {k} node sets passing D1-D4 in the contracted noexemplar census graph: {n_pass} of {len(B[k])}')
+    P(f'BHAT6 {k} node sets passing the topological definition in the contracted noexemplar census graph: {n_pass} of {len(B[k])}')
 c6 = [frozenset(map(int, l.split())) for l in open(f'{S1}/obs/noexemplar_census6c_modules.tsv') if l.strip()]
 P('CENSUS6 (c)-with-core modules:', len(c6), '| equal to a MODEL6 FULL node set:', len(set(c6) & FS),
   '| equal to a MODEL6 DEF node set:', len(set(c6) & DS), '| equal to a BHAT6 composite set:',
   len({frozenset(names[x] for x in s) for s in c6} & B['Composite_FFL']))
 nf = sum(is_module(s, CO0) for s in FS); nd = sum(is_module(s, CO0) for s in DS)
-P('MODEL6 node sets passing D1-D4 themselves: FULL', nf, 'of', len(FS), '; DEF', nd, 'of', len(DS))
+P('MODEL6 node sets passing the topological definition themselves: FULL', nf, 'of', len(FS), '; DEF', nd, 'of', len(DS))
 P('MODEL6 FULL sets that are BHAT6 composite sets:', len(FSn & B['Composite_FFL']), '; BHAT6 any class:', len(FSn & anyB))
 open(f'{HERE}/s0bc_overlaps_and_model6.txt', 'w').write('\n'.join(out) + '\n')
 print('\n'.join(out))

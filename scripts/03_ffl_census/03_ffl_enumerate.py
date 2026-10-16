@@ -7,17 +7,17 @@ TF<->miRNA pair is represented by its transcriptional arc TF->miRNA (the recipro
 retained as an edge attribute). A vertex-induced subgraph S on n vertices is an
 *n-node feed-forward loop* iff
 
-  (D1) S is a directed acyclic graph;
-  (D2) S has exactly one source s (in-degree 0 in S) and exactly one sink t (out-degree 0 in S);
-  (D3) every vertex of S lies on at least one directed s->t path within S;
-  (D4) S contains at least two internally vertex-disjoint directed s->t paths.
+  - S is a directed acyclic graph;
+  - S has exactly one source s (in-degree 0 in S) and exactly one sink t (out-degree 0 in S);
+  - every vertex of S lies on at least one directed s->t path within S;
+  - S contains at least two internally vertex-disjoint directed s->t paths.
 
-n = 3 recovers the classical FFL exactly. (D3) excludes the "cascade with a side branch"
+n = 3 recovers the classical FFL exactly. The path-coverage condition excludes the "cascade with a side branch"
 routes from a single input to a single output.
 
-Enumeration strategy: a subgraph satisfying D2-D4 is exactly the vertex set of a union of
+Enumeration strategy: a subgraph satisfying the last three conditions is exactly the vertex set of a union of
 >=2 internally vertex-disjoint s->t paths. We therefore enumerate simple s->t paths
-(bounded length), combine disjoint path sets, and verify D1-D3 on the induced subgraph.
+(bounded length), combine disjoint path sets, and verify the first three conditions on the induced subgraph.
 """
 import csv, collections, itertools, json, sys, os
 REV='/path/to/six-node-ffl-breast-cancer'

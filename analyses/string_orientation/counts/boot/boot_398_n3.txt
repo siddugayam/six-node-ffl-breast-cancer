@@ -1,0 +1,14 @@
+graph work/graphs/boot_398.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5717
+visited 164145
+rng_final 42
+no_string_arc 5717
+no_string_pair 5717
+in_baseline 5047
+baseline_keys 5833

@@ -1,0 +1,12 @@
+mode mod
+K 7
+nparts 1
+part 0
+seed 71
+q 1 1 1 0.1 0.15 0.15
+prod_q 0.0022499999999999998
+found 20324185
+visited 1559158462
+rng_final 5809242442384649912
+shared_with_baseline 365553
+root_rule_skipped 237560494

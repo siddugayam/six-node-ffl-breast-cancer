@@ -1,0 +1,14 @@
+graph work/graphs/boot_478.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1428925
+visited 164282273
+rng_final 42
+no_string_arc 1428925
+no_string_pair 1428925
+in_baseline 1092571
+baseline_keys 1506263

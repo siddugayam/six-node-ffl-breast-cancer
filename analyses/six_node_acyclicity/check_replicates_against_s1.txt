@@ -1,0 +1,30 @@
+NULL-C total3: mean 6506.035000 vs S1 6506.035000; sd 193.021551 vs S1 193.021551: equal
+NULL-C comp3: mean 1418.895000 vs S1 1418.895000; sd 56.910093 vs S1 56.910093: equal
+NULL-C bhat6_comp_inst: mean 1660.600000 vs S1 1660.600000; sd 449.016411 vs S1 449.016411: equal
+NULL-C bhat6_comp_sets: mean 1501.719000 vs S1 1501.719000; sd 393.709636 vs S1 393.709636: equal
+NULL-C bhat6_mirFFL_inst: mean 6806.957000 vs S1 6806.957000; sd 1238.774713 vs S1 1238.774713: equal
+NULL-C bhat6_mirFFL_sets: mean 6333.238000 vs S1 6333.238000; sd 1131.684752 vs S1 1131.684752: equal
+NULL-C bhat6_TFFFL_inst: mean 7204.909000 vs S1 7204.909000; sd 1317.943212 vs S1 1317.943212: equal
+NULL-C bhat6_TFFFL_sets: mean 6658.497000 vs S1 6658.497000; sd 1189.623117 vs S1 1189.623117: equal
+NULL-C model6_full_inst: mean 13.512000 vs S1 13.512000; sd 26.566513 vs S1 26.566513: equal
+NULL-C model6_full_sets: mean 2.594000 vs S1 2.594000; sd 5.046844 vs S1 5.046844: equal
+NULL-C model6_def_inst: mean 110404.421000 vs S1 110404.421000; sd 23707.301168 vs S1 23707.301168: equal
+NULL-C model6_def_sets: mean 86606.583000 vs S1 86606.583000; sd 16761.777502 vs S1 16761.777502: equal
+NULL-C census6c: mean 152780.653000 vs S1 152780.653000; sd 38493.681951 vs S1 38493.681951: equal
+NULL-C: 1000 of 1000 stored S1 replicate rows identical (all columns except the timing)
+NULL-C: replicates 1000; check passed
+NULL-L total3: mean 5639.991000 vs S1 5639.991000; sd 163.932427 vs S1 163.932427: equal
+NULL-L comp3: mean 1394.778000 vs S1 1394.778000; sd 22.206662 vs S1 22.206662: equal
+NULL-L bhat6_comp_inst: mean 1056.828000 vs S1 1056.828000; sd 279.937156 vs S1 279.937156: equal
+NULL-L bhat6_comp_sets: mean 938.945000 vs S1 938.945000; sd 232.468453 vs S1 232.468453: equal
+NULL-L bhat6_mirFFL_inst: mean 3710.019000 vs S1 3710.019000; sd 714.622276 vs S1 714.622276: equal
+NULL-L bhat6_mirFFL_sets: mean 3381.973000 vs S1 3381.973000; sd 621.019739 vs S1 621.019739: equal
+NULL-L bhat6_TFFFL_inst: mean 3785.782000 vs S1 3785.782000; sd 685.385791 vs S1 685.385791: equal
+NULL-L bhat6_TFFFL_sets: mean 3427.143000 vs S1 3427.143000; sd 586.793906 vs S1 586.793906: equal
+NULL-L model6_full_inst: mean 3.756000 vs S1 3.756000; sd 10.310323 vs S1 10.310323: equal
+NULL-L model6_full_sets: mean 0.687000 vs S1 0.687000; sd 1.809504 vs S1 1.809504: equal
+NULL-L model6_def_inst: mean 38762.078000 vs S1 38762.078000; sd 9776.504350 vs S1 9776.504350: equal
+NULL-L model6_def_sets: mean 28979.869000 vs S1 28979.869000; sd 6438.580540 vs S1 6438.580540: equal
+NULL-L census6c: mean 252463.227000 vs S1 252463.227000; sd 39469.536161 vs S1 39469.536161: equal
+NULL-L: 1000 of 1000 stored S1 replicate rows identical (all columns except the timing)
+NULL-L: replicates 1000; check passed

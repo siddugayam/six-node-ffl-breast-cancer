@@ -1,0 +1,14 @@
+graph work/graphs/boot_469.txt
+K 4
+nparts 1
+part 0
+seed 42
+q 1 1 1
+prod_q 1
+found 116238
+visited 4981213
+rng_final 42
+no_string_arc 116238
+no_string_pair 116238
+in_baseline 97740
+baseline_keys 116505

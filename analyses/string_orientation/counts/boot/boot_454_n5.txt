@@ -1,0 +1,14 @@
+graph work/graphs/boot_454.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1513343
+visited 169491543
+rng_final 42
+no_string_arc 1513343
+no_string_pair 1513343
+in_baseline 1062560
+baseline_keys 1506263

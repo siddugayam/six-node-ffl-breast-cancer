@@ -98,7 +98,7 @@ Edges by source (the `layer` column):
     - TF-FFL: 1,182 = 1,173 + 9;
     - miRNA-FFL: 1,355 = 1,173 + 182.
   - The script checks this correspondence core by core, and stops otherwise.
-- **Census counts of Supplementary Note S2:** 5,833 at n = 3 and the modules at four to seven nodes are D1-D4 modules counted
+- **Census counts of Supplementary Note S2:** 5,833 at n = 3 and the modules at four to seven nodes are topological-definition modules counted
   irrespective of node type. They are a different object from these typed networks.
 
 ## The source SIF files

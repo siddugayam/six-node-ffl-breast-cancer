@@ -1,10 +1,10 @@
 /* census_09_esu_classmask.c -- independent n-node FFL census under the formal definition.
  *
- * D1 S acyclic after contracting each reciprocal TF<->miRNA pair to its TF->miRNA arc
+ * - S acyclic after contracting each reciprocal TF<->miRNA pair to its TF->miRNA arc
  *    (the reduced graph G' is supplied on stdin already contracted)
- * D2 exactly one source (indeg 0 in S) and exactly one sink (outdeg 0 in S)
- * D3 every vertex lies on a directed source->sink path inside S
- * D4 >=2 internally vertex-disjoint source->sink paths
+ * - exactly one source (indeg 0 in S) and exactly one sink (outdeg 0 in S)
+ * - every vertex lies on a directed source->sink path inside S
+ * - >=2 internally vertex-disjoint source->sink paths
  *
  * Enumeration: source-rooted ESU.  For every candidate source s we grow vertex-induced
  * subgraphs using OUT-neighbourhoods only, with Wernicke's exclusive-neighbourhood rule
@@ -58,13 +58,13 @@ static int check_module(int *V,int n,int *pclasses){
     for(i=0;i<n;i++){ if(indeg[i]==0){src=i;ns++;} if(outdeg[i]==0){snk=i;nk++;} }
     if(ns!=1||nk!=1) return 0;
     if(src==snk) return 0;
-    /* D3: reachable from src and reaches snk (acyclicity already enforced) */
+    /* path coverage: reachable from src and reaches snk (acyclicity already enforced) */
     int reach[8],r2[8],ch,it;
     for(i=0;i<n;i++){reach[i]=0;r2[i]=0;}
     reach[src]=1; do{ch=0; for(i=0;i<n;i++) if(reach[i]) for(j=0;j<n;j++) if(adj[i][j]&&!reach[j]){reach[j]=1;ch=1;} }while(ch);
     r2[snk]=1; do{ch=0; for(i=0;i<n;i++) if(r2[i]) for(j=0;j<n;j++) if(adj[j][i]&&!r2[j]){r2[j]=1;ch=1;} }while(ch);
     for(i=0;i<n;i++) if(!reach[i]||!r2[i]) return 0;
-    /* D4: >=2 internally vertex-disjoint src->snk paths, via unit-capacity vertex-split flow */
+    /* disjoint paths: >=2 internally vertex-disjoint src->snk paths, via unit-capacity vertex-split flow */
     {
         int NN=2*n, cap[16][16]; memset(cap,0,sizeof(cap));
         for(i=0;i<n;i++) cap[2*i][2*i+1] = (i==src||i==snk)? n : 1;

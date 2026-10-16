@@ -1,0 +1,5 @@
+graph,component_smallest_vertex,size,TF,miRNA,Gene,note
+uncontracted,0,452,157,219,76,
+uncontracted,all,587,157,223,207,"9226 arcs; 136 SCCs (1 non-singleton); condensation DAG 136 vertices, 188 arcs"
+contracted,0,435,149,210,76,
+contracted,all,587,157,223,207,"8003 arcs; 153 SCCs (1 non-singleton); condensation DAG 153 vertices, 250 arcs"

@@ -28,4 +28,5 @@ version of that table.
 | `45b_pubmed_all_nodes_par.py` | PubMed record counts for all 587 network nodes (threaded, globally rate-limited to <3 req/s), to test whether network centrality tracks how heavily a node has been studied. |
 | `46_synthesis_stats.py` | Programme assignment and cross-cutting statistics for the compendium synthesis. |
 | `47_literature_vs_topology.py` | Does network centrality track how heavily a node has been studied? |
+| `52_composite_rank_robustness.py` | Stability of the composite evidence ranking of network nodes (Results 3.3; Note S3). |
 | `node_literature_text.py` | Curated literature notes and one-line summaries for the 30 prioritised nodes. |

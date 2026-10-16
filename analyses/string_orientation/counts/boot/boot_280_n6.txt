@@ -1,0 +1,14 @@
+graph work/graphs/boot_280.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 18672616
+visited 5488377823
+rng_final 42
+no_string_arc 18672616
+no_string_pair 18672616
+in_baseline 11837485
+baseline_keys 19401840

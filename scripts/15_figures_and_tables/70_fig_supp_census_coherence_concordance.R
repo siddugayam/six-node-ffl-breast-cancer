@@ -12,6 +12,7 @@ cc <- fread(file.path(RR,"census_all_graphs.csv"))[graph=="noexemplar"]
 cen <- data.table(n=cc$n, ffl=as.numeric(cc$modules), sd=suppressWarnings(as.numeric(cc$modules_sd)),
                   exact=cc$method=="exhaustive", maxclass=cc$max_edge_classes)
 cen[is.na(sd), sd := 0]
+cen <- cen[n <= 6]
 sci1 <- function(x) { e <- floor(log10(x)); sprintf("%.1f %%*%% 10^%d", x/10^e, e) }
 cen[, lab := ifelse(n==3, sprintf("'%s'", format(ffl, big.mark=",")), sapply(ffl, sci1))]
 pA <- ggplot(cen, aes(factor(n), ffl)) +
@@ -20,16 +21,15 @@ pA <- ggplot(cen, aes(factor(n), ffl)) +
   geom_text(aes(label=lab), parse=TRUE, vjust=-0.5, size=TXT, colour=INK) +
   scale_y_log10(breaks=10^c(0,3,6,9), labels=label_math(10^.x, format=log10), expand=expansion(mult=c(0,0.18))) +
   scale_fill_manual(values=c(`TRUE`=INK, `FALSE`=MUTED),
-                    labels=c(`TRUE`="exhaustive", `FALSE`="RAND-ESU estimate (eight seeds)"), name=NULL) +
+                    labels=c(`TRUE`="exhaustive"), name=NULL) +
   labs(x="module size (nodes)", y=expression(italic(n)*"-node FFLs (log scale)"), tag="a") +
-  theme_pub(BASE) + theme(panel.grid.major.x=element_blank(), legend.position="top", legend.justification="left",
-                          legend.background=element_rect(fill="white", colour=NA))
+  theme_pub(BASE) + theme(panel.grid.major.x=element_blank(), legend.position="none")
 pB <- ggplot(cen, aes(factor(n), maxclass)) +
   geom_col(fill=SEM["accent"], width=0.62, alpha=0.85) +
   geom_hline(yintercept=6, linetype="dashed", colour=SEM["neg"], linewidth=0.4) +
   annotate("text", x=0.6, y=6.32, label="6 of 7 classes", size=TXT, colour=SEM["neg"], hjust=0) +
-  annotate("segment", x=3.55, xend=3.1, y=7.0, yend=6.2, arrow=arrow(length=unit(1.5,"mm"), type="closed"), colour=INK, linewidth=0.35) +
-  annotate("text", x=4.1, y=7.3, label="first~reached~at~italic(n)==5", parse=TRUE, size=TXT, colour=INK, hjust=0.5) +
+  annotate("segment", x=3.0, xend=3.0, y=6.95, yend=6.2, arrow=arrow(length=unit(1.5,"mm"), type="closed"), colour=INK, linewidth=0.35) +
+  annotate("text", x=3.0, y=7.3, label="first~reached~at~italic(n)==5", parse=TRUE, size=TXT, colour=INK, hjust=0.5) +
   scale_y_continuous(limits=c(0,7.6), breaks=0:7, expand=expansion(mult=c(0,0.02))) +
   labs(x="module size (nodes)", y="max. edge classes per module", tag="b") +
   theme_pub(BASE) + theme(panel.grid.major.x=element_blank())
@@ -43,7 +43,8 @@ co <- fread(file.path(REV,"results/expression_validation/ffl_cores_coherence.csv
 cc3 <- co[coherence!="unresolved", .N, by=.(class, coherence)]
 cc3[, kind := ifelse(substr(coherence,1,1)=="C","coherent","incoherent")]
 tot <- cc3[, .(N=sum(N)), by=.(coherence, kind)][order(-N)]
-tot[, coherence := factor(coherence, levels=rev(tot$coherence))]
+tot[, coherence := factor(sub("^C([1-4])$", "coherent type \\1", sub("^I([1-4])$", "incoherent type \\1", coherence)),
+                         levels=rev(sub("^C([1-4])$", "coherent type \\1", sub("^I([1-4])$", "incoherent type \\1", tot$coherence))))]
 qA <- ggplot(tot, aes(N, coherence, fill=kind)) + geom_col(width=0.66) +
   geom_text(aes(label=N), hjust=-0.18, size=TXT, colour=INK) +
   scale_fill_manual(values=c(coherent=unname(SEM["pos"]), incoherent=unname(SEM["neg"])), name=NULL) +

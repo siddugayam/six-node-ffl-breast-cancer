@@ -1,0 +1,3 @@
+OBSERVED total=5352 comp=1297 tf=9 mir=282 other=3764 recip=1116
+groups: g0:324 g1:363 g2:108 g3:0 g4:0 g5:15 g6:0 g7:0 g8:960 g9:494(cb) g10:1859(cb) g11:1350(cb) g12:1521(cb)  frozen=2232
+swap attempts=695154360 accepted=592842404 (0.853)

@@ -12,8 +12,8 @@
  *          randomised with curveball trades (uniform, exact joint degree sequence).
  *
  * After randomisation the reciprocal TF<->miRNA pairs are contracted to their TF->miRNA arc
- * (D1) and the induced transitive triangles of the reduced graph are counted; at n=3 that is
- * exactly the D1-D4 definition.  Composite cores are counted ONCE per reciprocal pair.
+ * (which makes the graph acyclic) and the induced transitive triangles of the reduced graph are counted; at n=3 that is
+ * exactly the topological definition.  Composite cores are counted ONCE per reciprocal pair.
  */
 #include <stdio.h>
 #include <stdlib.h>

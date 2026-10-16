@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""F4 summary.  Exhaustive D1-D4 modules of the census graph with the exemplar edges (8,031 arcs, 28 exemplar one-direction
+"""F4 summary.  Exhaustive topological-definition modules of the census graph with the exemplar edges (8,031 arcs, 28 exemplar one-direction
 miRNA-miRNA arcs) at n = 4, 5, 6 (f4_node_union.c = ffl_census_composition.c + node marks).  For each node:
 'any' = in at least one module; 'free' = in at least one module without a exemplar arc.  Compared with the
 stored enrichment gene sets results/motif_node_sets.tsv (08_motif_node_sets.py; RAND-ESU samples on the

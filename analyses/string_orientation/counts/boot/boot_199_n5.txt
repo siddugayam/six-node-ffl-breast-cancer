@@ -1,0 +1,14 @@
+graph work/graphs/boot_199.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1484255
+visited 164979955
+rng_final 42
+no_string_arc 1484255
+no_string_pair 1484255
+in_baseline 1113123
+baseline_keys 1506263

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Test the whole six-node exemplar circuit (its 10 molecules) against conditions D1-D4 (Methods 2.2) in two
+"""Test the whole six-node exemplar circuit (its 10 molecules) against the topological definition (Methods 2.2) in two
 graphs, from the deposited files of the public repository only:
   (1) the analysed network (Table S2 rows with in_analysed_network TRUE), each reciprocal TF<->miRNA pair replaced by its
       TF->miRNA arc;
   (2) the census graph: (1) plus the TRRUST arcs (data/network/layer_TF_target.tsv), the gene-gene layer
       (data/network/layer_gene_gene.tsv; STRING associations in the orientation listed) and the miRNA pairs co-clustered at
       10 kb (data/network/layer_miRNA_miRNA.tsv, threshold_10kb), each pair entered as two opposed arcs.
-D1 induced and weakly connected; D2 acyclic; D3 one source, one sink, every vertex on a source-sink path; D4 at least two
+Conditions: induced and weakly connected; acyclic; one source, one sink, every vertex on a source-sink path; at least two
 internally vertex-disjoint source-sink paths. Prints the result and any directed cycle. No external packages.
 Usage: python3 scripts/03_ffl_census/02i_exemplar_whole_circuit_check.py [repository root]"""
 import csv, json, os, sys
@@ -102,10 +102,10 @@ def test(name, arcs):
             return r
         d3 = reach(s, fwd) & reach(t, bwd) == set(V)
         if d2: npaths = disjoint_paths(arcs, s, t); d4 = npaths >= 2
-    print(f"\n{name}: {len(arcs)} arcs; D1 connected {d1}; D2 acyclic {d2}"
+    print(f"\n{name}: {len(arcs)} arcs; connected {d1}; acyclic {d2}"
           + (f" (cycle: {' -> '.join(cyc)})" if cyc else "")
-          + f"; sources {srcs}; sinks {snks}; D3 {d3}; D4 {d4}" + (f" ({npaths} disjoint paths)" if npaths is not None else ""))
-    print(f"  satisfies D1-D4: {d1 and d2 and d3 and d4}")
+          + f"; sources {srcs}; sinks {snks}; single source and sink with full path coverage {d3}; disjoint paths {d4}" + (f" ({npaths} disjoint paths)" if npaths is not None else ""))
+    print(f"  satisfies the topological definition: {d1 and d2 and d3 and d4}")
     if d1 and d2 and d3 and d4:
         no = arcs - {("COL1A1", "COL3A1")}
         print("  without COL1A1->COL3A1:", "still satisfies" if (cycle(no) is None and

@@ -163,47 +163,47 @@ T4 typed cores: 1649 cores, 377 nodes, 2615 edges
   6node_composite_FFL  nodes in a core 166/210 = 0.790; edges used by a core 777/1488 = 0.522
 
 T5 census graph: 9226 arcs, 1223 miRNA->TF arcs removed by the contraction, 8003 left
-  3node_miRNA_FFL      node sets passing D1-D4: 1307 of 1355 = 0.965
+  3node_miRNA_FFL      node sets passing the topological definition: 1307 of 1355 = 0.965
       fails:    30  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    18  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
-  3node_TF_FFL         node sets passing D1-D4: 1143 of 1182 = 0.967
+  3node_TF_FFL         node sets passing the topological definition: 1143 of 1182 = 0.967
       fails:    24  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    15  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
-  3node_composite_FFL  node sets passing D1-D4: 1134 of 1173 = 0.967
+  3node_composite_FFL  node sets passing the topological definition: 1134 of 1173 = 0.967
       fails:    24  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    15  2-cycle: Gene->TF (TF_target) / TF->Gene (TF_target)
-  4node_miRNA_FFL      node sets passing D1-D4: 2297 of 2554 = 0.899
+  4node_miRNA_FFL      node sets passing the topological definition: 2297 of 2554 = 0.899
       fails:   227  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    30  no 2-cycle
-  4node_TF_FFL         node sets passing D1-D4: 1861 of 2065 = 0.901
+  4node_TF_FFL         node sets passing the topological definition: 1861 of 2065 = 0.901
       fails:   179  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    25  no 2-cycle
-  4node_composite_FFL  node sets passing D1-D4: 1826 of 2029 = 0.900
+  4node_composite_FFL  node sets passing the topological definition: 1826 of 2029 = 0.900
       fails:   178  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target)
       fails:    25  no 2-cycle
-  5node_miRNA_FFL      node sets passing D1-D4: 0 of 1456 = 0.000
+  5node_miRNA_FFL      node sets passing the topological definition: 0 of 1456 = 0.000
       fails:  1336  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   120  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
-  5node_TF_FFL         node sets passing D1-D4: 0 of 1168 = 0.000
+  5node_TF_FFL         node sets passing the topological definition: 0 of 1168 = 0.000
       fails:  1068  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   100  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
-  5node_composite_FFL  node sets passing D1-D4: 0 of 1168 = 0.000
+  5node_composite_FFL  node sets passing the topological definition: 0 of 1168 = 0.000
       fails:  1068  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   100  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
-  6node_miRNA_FFL      node sets passing D1-D4: 0 of 8606 = 0.000
+  6node_miRNA_FFL      node sets passing the topological definition: 0 of 8606 = 0.000
       fails:  3945  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:  2268  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:  1277  2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   565  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   379  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   172  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
-  6node_TF_FFL         node sets passing D1-D4: 0 of 9950 = 0.000
+  6node_TF_FFL         node sets passing the topological definition: 0 of 9950 = 0.000
       fails:  4809  2-cycle: miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:  2141  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:  1941  2-cycle: TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   445  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   357  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   257  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (gene_gene); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
-  6node_composite_FFL  node sets passing D1-D4: 0 of 2498 = 0.000
+  6node_composite_FFL  node sets passing the topological definition: 0 of 2498 = 0.000
       fails:  2141  2-cycle: TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)
       fails:   357  2-cycle: Gene->TF (gene_gene) / TF->Gene (TF_target); TF->TF (TF_target) / TF->TF (TF_target); miRNA->miRNA (miRNA_miRNA) / miRNA->miRNA (miRNA_miRNA)

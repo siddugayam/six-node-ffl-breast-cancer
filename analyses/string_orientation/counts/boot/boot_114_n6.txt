@@ -1,0 +1,14 @@
+graph work/graphs/boot_114.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 18958513
+visited 5381849341
+rng_final 42
+no_string_arc 18958513
+no_string_pair 18958513
+in_baseline 11985400
+baseline_keys 19401840

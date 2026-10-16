@@ -1,0 +1,12 @@
+graph work/graphs/nogenegene.txt
+K 7
+nparts 1
+part 0
+seed 72
+q 1 1 1 0.1 0.15 0.15
+prod_q 0.0022499999999999998
+found 34663
+visited 95742155
+rng_final 1490440677379334281
+no_string_arc 34663
+no_string_pair 34663

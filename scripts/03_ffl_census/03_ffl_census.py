@@ -5,10 +5,10 @@ n-node feed-forward loop census by connected-induced-subgraph enumeration.
 DEFINITION. In the directed regulatory graph G (reciprocal TF<->miRNA pairs contracted to
 their transcriptional arc), a vertex-induced connected subgraph S on n vertices is an
 n-node feed-forward loop iff
-  (D1) S is acyclic;
-  (D2) S has exactly one source and exactly one sink;
-  (D3) every vertex of S lies on a directed source->sink path in S;
-  (D4) S contains >=2 internally vertex-disjoint source->sink paths.
+  - S is acyclic;
+  - S has exactly one source and exactly one sink;
+  - every vertex of S lies on a directed source->sink path in S;
+  - S contains >=2 internally vertex-disjoint source->sink paths.
 n=3 recovers the classical FFL.
 
 Enumeration uses ESU (Wernicke 2006): exhaustive for small n, uniform-probability
@@ -61,7 +61,7 @@ def is_ffl(S, out_s, in_s):
         colour[u]=2; return True
     for v in S:
         if colour.get(v) is None and not visit(v): return None
-    # D3: every vertex reachable from s and reaching t
+    # path coverage: every vertex reachable from s and reaching t
     reach={s}; st=[s]
     while st:
         u=st.pop()
@@ -73,7 +73,7 @@ def is_ffl(S, out_s, in_s):
         for v in in_s[u]:
             if v not in back: back.add(v); st.append(v)
     if not S <= (reach & back): return None
-    # D4: >=2 internally vertex-disjoint s->t paths  == max-flow >= 2 with unit node caps
+    # disjoint paths: >=2 internally vertex-disjoint s->t paths  == max-flow >= 2 with unit node caps
     # small n: test by finding one path, deleting its internals, seeking another
     def find_path(banned):
         prev={s:None}; st=[s]

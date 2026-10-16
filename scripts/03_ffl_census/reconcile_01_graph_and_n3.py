@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Reconciliation pass: rebuild the census graph exactly as 03_ffl_census.py does,
-report its size, and re-enumerate n=3 FFLs exhaustively under D1-D4 on both the
+report its size, and re-enumerate n=3 FFLs exhaustively under the topological definition on both the
 augmented graph and the deposited-only graph."""
 import sys, os, importlib.util, collections, itertools
 REV='/path/to/six-node-ffl-breast-cancer'

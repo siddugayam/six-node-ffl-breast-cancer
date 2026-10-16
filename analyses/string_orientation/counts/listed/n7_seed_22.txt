@@ -1,0 +1,12 @@
+graph work/graphs/listed.txt
+K 7
+nparts 1
+part 0
+seed 22
+q 1 1 0.2 0.2 0.2 0.2
+prod_q 0.0016000000000000005
+found 362864
+visited 295392541
+rng_final 13791347455368213958
+no_string_arc 58775
+no_string_pair 41536

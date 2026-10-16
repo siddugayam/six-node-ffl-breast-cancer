@@ -1,4 +1,4 @@
-network,node_sets,D1_D4_modules,share
+network,node_sets,topological_modules,share
 3node_miRNA_FFL,1355,1307,0.964576
 3node_TF_FFL,1182,1143,0.967005
 3node_composite_FFL,1173,1134,0.966752

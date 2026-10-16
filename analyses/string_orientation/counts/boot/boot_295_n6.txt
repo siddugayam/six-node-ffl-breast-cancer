@@ -1,0 +1,14 @@
+graph work/graphs/boot_295.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 18158603
+visited 5321942914
+rng_final 42
+no_string_arc 18158603
+no_string_pair 18158603
+in_baseline 12273882
+baseline_keys 19401840

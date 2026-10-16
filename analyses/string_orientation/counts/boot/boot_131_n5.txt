@@ -1,0 +1,14 @@
+graph work/graphs/boot_131.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1472417
+visited 167453479
+rng_final 42
+no_string_arc 1472417
+no_string_pair 1472417
+in_baseline 1098608
+baseline_keys 1506263

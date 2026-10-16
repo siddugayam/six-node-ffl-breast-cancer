@@ -1,0 +1,16 @@
+graph,description,n,method,modules,sd
+listed,census graph (STRING in the listed orientation),3,exhaustive,5833,
+listed,census graph (STRING in the listed orientation),4,exhaustive,116505,
+listed,census graph (STRING in the listed orientation),5,exhaustive,1506263,
+listed,census graph (STRING in the listed orientation),6,exhaustive,19401840,
+listed,census graph (STRING in the listed orientation),7,"RAND-ESU, 8 seeds",225761602.4,939186.5
+nostring,TRRUST-only gene-gene links (census graph minus STRING arcs),3,exhaustive,3432,
+nostring,TRRUST-only gene-gene links (census graph minus STRING arcs),4,exhaustive,81104,
+nostring,TRRUST-only gene-gene links (census graph minus STRING arcs),5,exhaustive,791085,
+nostring,TRRUST-only gene-gene links (census graph minus STRING arcs),6,exhaustive,8751860,
+nostring,TRRUST-only gene-gene links (census graph minus STRING arcs),7,"RAND-ESU, 8 seeds",87313548.6,477782.8
+nogenegene,no gene-gene layer (minus STRING and the 604 TRRUST-layer arcs),3,exhaustive,1774,
+nogenegene,no gene-gene layer (minus STRING and the 604 TRRUST-layer arcs),4,exhaustive,57494,
+nogenegene,no gene-gene layer (minus STRING and the 604 TRRUST-layer arcs),5,exhaustive,232488,
+nogenegene,no gene-gene layer (minus STRING and the 604 TRRUST-layer arcs),6,exhaustive,2467228,
+nogenegene,no gene-gene layer (minus STRING and the 604 TRRUST-layer arcs),7,"RAND-ESU, 8 seeds",15473008.7,146704.1

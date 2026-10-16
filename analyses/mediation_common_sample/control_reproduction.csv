@@ -1,0 +1,2 @@
+models_compared,models_expected,n_equal,max_rel_total,max_rel_ACME,max_rel_ADE,max_rel_CI,reproduced
+504,504,TRUE,4.58152422742721e-15,4.71291696951335e-15,4.49197202818583e-15,4.72983655476768e-15,TRUE

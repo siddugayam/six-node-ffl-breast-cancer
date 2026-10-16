@@ -34,7 +34,7 @@ protein-atlas tables.
 | `20_figures_core.R` | Fig. S1 (the global regulatory network, FigureS1_global_network), with a census panel and directed diagrams of the exemplar modules; Figs S2 and 2 of the paper are drawn by scripts 70 and 72. |
 | `21_tables.R` | Complete interaction and supplementary tables. |
 | `61_figS7_reactive_stroma.R` | Fig. S7: FFL module scores against the Farmer stroma-related signature, and the pCR meta-analysis. |
-| `62_fig5_gain_loss.R` | Fig. 5: behaviours gained and lost by higher-order modules relative to their embedded three-node cores, for the composite circuit (a) and the incoherent type-1 circuit I1 (b). |
+| `62_fig5_gain_loss.R` | Fig. 5: behaviours gained and lost by higher-order modules relative to their embedded three-node cores, for the composite circuit (a) and the incoherent type-1 circuit (b). |
 | `70_fig_supp_census_coherence_concordance.R` | Supplementary Figs S2, S3 and S6: S2 = census and edge-class saturation; S3 = coherence typology; S6 = sign concordance by edge class and evidence tier. |
 | `71_fig3_nulls_sixnode.R` | Fig. 3: (a) over-representation of three-node FFLs and of reciprocal TF-miRNA pairs against the three null models; (b) the six-node composite pattern of Bhat et al. |
 | `72_fig2_exemplar_circuits.R` | Fig. 2: the exemplar four-, five- and six-node circuits as directed signed graphs (drawn at print width with 8 pt labels, italic gene symbols, one shared key). |

@@ -37,17 +37,17 @@ at the time the sections were written, so the paper's current text may word it d
   Table S4 in the paper. For each network:
   - the share of its nodes that belong to any typed core;
   - the share of its edges that some typed core uses (a core uses R→M, M→T and R→T, plus M→R for a composite).
-- **T5, overlap with D1–D4 modules.** For each network, the share of distinct instance node sets that are D1–D4 modules
+- **T5, overlap with topological-definition modules.** For each network, the share of distinct instance node sets that are topological-definition modules
   of the same size on the census graph. The graph is the one of `scripts/03_ffl_census/03_ffl_census_noexemplarmirna.py`
   `build_graph()`, including its TF↔miRNA contraction. The test is that script's `is_ffl` on the induced subgraph.
 - **Paper values placed beside the results:**
   - Supplementary Note S2: 5,833, 116,505, 1,506,263 and 19,401,840 modules at n = 3–6; typed cores 1,434 / 206 / 9.
-  - analyses/six_node_pattern S0: no BHAT6 node set of any class passes D1–D4.
+  - analyses/six_node_pattern S0: no BHAT6 node set of any class passes the topological definition.
 - **Decision line.** It judges the claim that the six-node module is the smallest size at which two TFs and two miRNAs
   act on two genes, and that it is a distinct object from the three-node cores. It reports whether the higher-order
   Bhat networks add nodes and edges beyond the cores, or re-use them.
 
-## O. Over-representation under NULL-B, NULL-C and NULL-L
+## O. Over-representation under the reciprocity-preserving null, the bipartite-layer null and the core-conditional null
 
 - **What is counted.** All twelve networks: the Bhat three-, four-,
   five- and six-node patterns in the miRNA-FFL, TF-FFL and composite classes. For each, both instances and distinct
@@ -57,7 +57,7 @@ at the time the sections were written, so the paper's current text may word it d
     are its existing counters.
   - The randomisation, both random streams and the order of draws are unchanged. Counting draws no random numbers,
     so replicate r is the same graph as S1's replicate r.
-  - S1's other columns (the three-node D1-D4 counts and MODEL6) are kept for the replicate checks.
+  - S1's other columns (the three-node the topological definition counts and MODEL6) are kept for the replicate checks.
   - CENSUS6c is not computed (census_reps = 0). It is not a Bhat count, and it draws no random numbers.
 - **Inputs.** S1's inputs, copied unchanged: `graph_noexemplar_null.txt` (md5 527cba76…), `graph_noexemplar_labels.txt`
   (f327921c…) and `node_names.txt` (2154653c…). They hold the census graph without the exemplar miRNA-miRNA arcs,
@@ -65,8 +65,8 @@ at the time the sections were written, so the paper's current text may word it d
 - **Settings, as S1.** 1,000 replicates per null, seed 20250908, 100 swap attempts per rewired item. Each replicate
   restarts from the observed graph.
   - Primary nulls: B, C and L.
-  - Also LT, LG and LM, as in S1: NULL-L with only the TRRUST, STRING or 10 kb layer rewired. They show which layer
-    carries any NULL-L excess.
+  - Also LT, LG and LM, as in S1: The core-conditional null with only the TRRUST, STRING or 10 kb layer rewired. They show which layer
+    carries any the core-conditional null excess.
 - **Checks, before any statistic.**
   1. The input graph equals the census graph of `make_ffl_networks.py`: the same arcs, each in its own layer.
   2. The observed graph reproduces the instance and node-set counts of all twelve networks, and the instance lists
@@ -80,17 +80,17 @@ at the time the sections were written, so the paper's current text may word it d
   - Reported: observed count, null mean and SD, observed / mean, and Z.
   - p_upper = (#{x ≥ o} + 1) / (R + 1) and p_lower = (#{x ≤ o} + 1) / (R + 1).
 - **Decision rule (S1's, fixed).** Applied to the instances and to the node sets of each network.
-  - Over-represented: p_upper < 0.05 under both NULL-C and NULL-L.
-  - Explained by the three-node cores: p_upper < 0.05 under NULL-C only.
+  - Over-represented: p_upper < 0.05 under both the bipartite-layer null and the core-conditional null.
+  - Explained by the three-node cores: p_upper < 0.05 under the bipartite-layer null only.
   - Depleted: p_lower < 0.05 under both.
   - Otherwise: none of the three.
-- **Known limit, stated before running: NULL-L cannot test the three-node networks.**
-  - NULL-L fixes every analysed-network arc. Of the TRRUST layer, it rewires only TF->TF, Gene->TF and Gene->Gene arcs.
-  - The three-node Bhat counts use only fixed arcs, so they are the same in every NULL-L replicate.
+- **Known limit, stated before running: The core-conditional null cannot test the three-node networks.**
+  - the core-conditional null fixes every analysed-network arc. Of the TRRUST layer, it rewires only TF->TF, Gene->TF and Gene->Gene arcs.
+  - The three-node Bhat counts use only fixed arcs, so they are the same in every the core-conditional null replicate.
   - For the three-node networks, the rule can therefore give at most "explained by the three-node cores".
 - **Values of the paper and of the related analyses placed beside the results.**
   - The paper: motif excess of 8-11 % under reciprocity-preserving nulls.
-  - analyses/six_node_pattern S1: six-node composite 2.35x NULL-C (p 0.002) and 3.69x NULL-L; all three six-node classes
+  - analyses/six_node_pattern S1: six-node composite 2.35x the bipartite-layer null (p 0.002) and 3.69x the core-conditional null; all three six-node classes
     over-represented.
 - **Decision line.** It judges whether higher-order FFL patterns are over-represented beyond what the three-node cores
   explain, as the paper's six-node conclusions assume, or only as the cores are.

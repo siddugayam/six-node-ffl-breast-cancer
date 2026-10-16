@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Three-node FFL count (conditions D1-D4) for each of the six source networks, selected by
+# Three-node FFL count (the topological definition) for each of the six source networks, selected by
 # the in_networks column of data/canonical_edges.tsv; prints the counts.
 import sys, os, csv
 from collections import Counter
@@ -19,6 +19,6 @@ for net in nets:
     nodes = set()
     for (s, t) in E:
         nodes.add(s); nodes.add(t)
-    print("%-7s |V|=%4d |E|=%5d   D1-D4_n3=%6d  ordered_G=%6d ordered_reduced=%6d" %
+    print("%-7s |V|=%4d |E|=%5d   topological_n3=%6d  ordered_G=%6d ordered_reduced=%6d" %
           (net, len(nodes), len(E), tot, ordG, ordR))
     print("        ", dict(cls))

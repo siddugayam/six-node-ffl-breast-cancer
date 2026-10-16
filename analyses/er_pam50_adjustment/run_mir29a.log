@@ -1,0 +1,40 @@
+                       analysis   miRNA     k
+                         <char>  <char> <int>
+1:       unadjusted, same cases miR-29a     5
+2: adjusted for ER and/or PAM50 miR-29a     5
+                                         cohorts     n nevent     HR_FE
+                                          <char> <int>  <num>     <num>
+1: TCGA_BRCA;GSE19783;GSE22216;GSE59829;GSE78870  1288    370 0.8073370
+2: TCGA_BRCA;GSE19783;GSE22216;GSE59829;GSE78870  1288    370 0.8112802
+       lo_FE     hi_FE         p_FE     HR_RE     lo_RE     hi_RE         p_RE
+       <num>     <num>        <num>     <num>     <num>     <num>        <num>
+1: 0.7329275 0.8893007 1.437847e-05 0.8073370 0.7329275 0.8893007 1.437847e-05
+2: 0.7355152 0.8948498 2.902898e-05 0.8112802 0.7355152 0.8948498 2.902898e-05
+      I2  tau2        Q       p_Q      q_BH_FE      q_BH_RE
+   <num> <num>    <num>     <num>        <num>        <num>
+1:     0     0 1.831968 0.7666288 0.0001581632 0.0001581632
+2:     0     0 1.932887 0.7481013 0.0003193188 0.0003193188
+       cohort                 model                              covariates
+       <char>                <char>                                  <char>
+ 1: TCGA_BRCA unadjusted_same_cases none (same cases as the adjusted model)
+ 2: TCGA_BRCA              adjusted                         ER (IHC); PAM50
+ 3:  GSE19783 unadjusted_same_cases none (same cases as the adjusted model)
+ 4:  GSE19783              adjusted                       ER; PAM50 subtype
+ 5:  GSE22216 unadjusted_same_cases none (same cases as the adjusted model)
+ 6:  GSE22216              adjusted                                      ER
+ 7:  GSE59829 unadjusted_same_cases none (same cases as the adjusted model)
+ 8:  GSE59829              adjusted                                      ER
+ 9:  GSE78870 unadjusted_same_cases none (same cases as the adjusted model)
+10:  GSE78870              adjusted                                      ER
+        n nevent        HR        lo        hi           p schoenfeld_mirna_p
+    <int>  <num>     <num>     <num>     <num>       <num>              <num>
+ 1:   768    112 0.8158528 0.6835286 0.9737937 0.024188493          0.2478268
+ 2:   768    112 0.8236845 0.6863928 0.9884372 0.037067805          0.2023628
+ 3:    92     42 0.9042422 0.6654491 1.2287250 0.519963173          0.1654495
+ 4:    92     42 0.9324824 0.6782751 1.2819628 0.666862229          0.1951070
+ 5:   210     79 0.7795951 0.6555488 0.9271141 0.004863987          0.7371034
+ 6:   210     79 0.7654517 0.6427132 0.9116294 0.002720955          0.7444481
+ 7:   123     59 0.8750954 0.6826828 1.1217391 0.292257601          0.8315805
+ 8:   123     59 0.8780541 0.6841268 1.1269534 0.307090411          0.8253158
+ 9:    95     78 0.7209021 0.5562159 0.9343491 0.013391319          0.2804084
+10:    95     78 0.7501776 0.5808739 0.9688273 0.027617535          0.4128935

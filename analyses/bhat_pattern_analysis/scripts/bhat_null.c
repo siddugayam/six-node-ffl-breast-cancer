@@ -49,7 +49,7 @@
  *              graph at every replicate, xorshift64 seeded from the command line.
  *
  * COUNTS per graph
- *  three-node  count3() of motif_null_models.c, verbatim (D1-D4 transitive triangles of the contracted graph)
+ *  three-node  count3() of motif_null_models.c, verbatim (topological-definition transitive triangles of the contracted graph)
  *  BHAT6       literal Fig. 1d six-node patterns of Bhat et al. 2024, exactly as enumerated by
  *              analyses/six_node_pattern_networks/build_bhat_networks.py (composite, miRNA-FFL, TF-FFL:
  *              role assignments and distinct six-node sets) and the three-node composite (M1<->T1,
@@ -64,7 +64,7 @@
  *              DEF (layer-defining edges of the dyn_models.py docstring only):
  *                core + G1-G2 + miR1-miR2 + TF1->TF2 + TF2->G1 + TF2->miR1
  *              arcs: TF->miRNA = label 0, miRNA->X = 1, TF->X = 2/3, G1-G2 = 4/5, miR1-miR2 = 6
- *  CENSUS6c    number of six-node D1-D4 modules of the contracted graph containing the composite core
+ *  CENSUS6c    number of six-node topological-definition modules of the contracted graph containing the composite core
  *              with TF2 regulating both the target and the miRNA ('c_full' of
  *              analyses/census_and_motif_nulls/first_rerun/ffl_census_composition.c: TF1->TF2, TF1->m, TF2->m,
  *              TF2->t, TF1->t, m->t in the contracted graph, m->TF1 in the uncontracted one, t
@@ -448,7 +448,7 @@ static void model6(void){
     for(int c=0;c<2;c++) m6_sets[c]=HM[c].n;
 }
 
-/* ---------------- CENSUS6c: verbatim D1-D4 of census_09_esu_classmask.c ---------------- */
+/* ---------------- CENSUS6c: verbatim the topological definition of census_09_esu_classmask.c ---------------- */
 static int adj[8][8];
 static int check_module(int n){
     int i, j, it;

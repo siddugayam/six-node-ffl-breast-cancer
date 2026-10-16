@@ -1,0 +1,14 @@
+graph work/graphs/boot_137.txt
+K 6
+nparts 1
+part 0
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 19242008
+visited 5606674730
+rng_final 42
+no_string_arc 19242008
+no_string_pair 19242008
+in_baseline 11824614
+baseline_keys 19401840

@@ -1,0 +1,10 @@
+graph,typing,null,published_file,replicate_lines,identical
+analysed,published,NULL-A,analyses/census_and_motif_nulls/nulls/null_A_dep_noexemplar.tsv,1002,True
+analysed,published,NULL-B,analyses/census_and_motif_nulls/nulls/null_B_dep_noexemplar.tsv,1002,True
+analysed,published,NULL-C,analyses/census_and_motif_nulls/nulls/null_C_dep_noexemplar.tsv,1002,True
+census,published,NULL-A,analyses/census_and_motif_nulls/nulls/null_A_pub_noexemplar.tsv,1002,True
+census,published,NULL-B,analyses/census_and_motif_nulls/nulls/null_B_pub_noexemplar.tsv,1002,True
+census,published,NULL-C,analyses/census_and_motif_nulls/nulls/null_C_pub_noexemplar.tsv,1002,True
+analysed,retyped,NULL-A,analyses/six_node_pattern/E/E5/null_A_dep_noexemplar_retyped22.tsv,1002,True
+analysed,retyped,NULL-B,analyses/six_node_pattern/E/E5/null_B_dep_noexemplar_retyped22.tsv,1002,True
+analysed,retyped,NULL-C,analyses/six_node_pattern/E/E5/null_C_dep_noexemplar_retyped22.tsv,1002,True

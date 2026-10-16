@@ -1,0 +1,7 @@
+fit,family,circuits,n,events,n_LRT_p05,n_q_lt_005,n_HR_p05,sixteen_LRT_p05,sixteen_q_lt_005,sixteen_HR_p05,median_deltaC
+published,six-node composite pattern,2383,1028,137,288,16,467,16,16,14,0.000432099832345267
+published,six-node model architecture,71,1028,137,9,0,10,0,0,0,0.000362963859170007
+same_tumours,six-node composite pattern,2383,747,103,376,0,426,16,0,8,0.00106037723723529
+same_tumours,six-node model architecture,71,747,103,0,0,1,0,0,0,0.000481989653288828
+er_pam50,six-node composite pattern,2383,747,103,386,2,372,16,0,7,0.000481989653288828
+er_pam50,six-node model architecture,71,747,103,0,0,0,0,0,0,-0.000321326435525848

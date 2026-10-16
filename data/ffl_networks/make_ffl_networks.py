@@ -295,7 +295,7 @@ def write_readme(out, S, orig, core_counts, n_tf_target):
     w(f"    - TF-FFL: {g['3node_TF_FFL']['n_ffl']:,} = {comp:,} + {tfo:,};")
     w(f"    - miRNA-FFL: {g['3node_miRNA_FFL']['n_ffl']:,} = {comp:,} + {mio:,}.")
     w('  - The script checks this correspondence core by core, and stops otherwise.')
-    w('- **Census counts of Supplementary Note S2:** 5,833 at n = 3 and the modules at four to seven nodes are D1-D4 modules counted')
+    w('- **Census counts of Supplementary Note S2:** 5,833 at n = 3 and the modules at four to seven nodes are topological-definition modules counted')
     w('  irrespective of node type. They are a different object from these typed networks.\n')
     w('## The source SIF files\n')
     w('Counts are taken from the files as deposited. Many miRNAs occur twice with different capitalisation (`hsa-miR-` and')

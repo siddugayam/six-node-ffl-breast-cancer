@@ -1,0 +1,14 @@
+graph work/graphs/boot_380.txt
+K 5
+nparts 1
+part 0
+seed 42
+q 1 1 1 1
+prod_q 1
+found 1399732
+visited 163612550
+rng_final 42
+no_string_arc 1399732
+no_string_pair 1399732
+in_baseline 1080247
+baseline_keys 1506263

@@ -1,0 +1,14 @@
+graph work/graphs/boot_180.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5895
+visited 165039
+rng_final 42
+no_string_arc 5895
+no_string_pair 5895
+in_baseline 5175
+baseline_keys 5833

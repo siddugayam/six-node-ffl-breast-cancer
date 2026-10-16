@@ -1,0 +1,15 @@
+mode base
+K 6
+nparts 64
+part 26
+seed 42
+q 1 1 1 1 1
+prod_q 1
+found 85276
+visited 45231235
+rng_final 42
+valid_U 6387
+retained_S 1
+valid_M 68924
+M_fail_D3 1164
+M_fail_D4 15188

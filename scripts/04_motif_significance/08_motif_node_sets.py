@@ -32,9 +32,9 @@ MOTIF CLASSES
 n-node generalised FFL (n = 4,5,6; Kashtan et al. 2004 "topological generalisation"),
 enumerated on G_dag with RAND-ESU (Wernicke 2006).  A vertex-induced connected subgraph S
 on n vertices is an n-node FFL iff
-    (D1) S acyclic; (D2) exactly one source and one sink;
-    (D3) every vertex lies on a directed source->sink path;
-    (D4) >= 2 internally vertex-disjoint source->sink paths.
+    - S acyclic; exactly one source and one sink;
+    - every vertex lies on a directed source->sink path;
+    - >= 2 internally vertex-disjoint source->sink paths.
 Exhaustive enumeration is impossible at n=5,6 (6.3e8 / 3.2e10 connected induced subgraphs),
 so RAND-ESU sampling is used and the NODE UNION is reported with a rarefaction curve so the
 reader can see whether the node set has saturated.  Sampling is unbiased over subgraphs.

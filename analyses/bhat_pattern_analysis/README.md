@@ -9,8 +9,8 @@ twelve networks (`data/ffl_networks/`). Each analysis of the paper is repeated o
 
 | Folder | Section | What it holds |
 |---|---|---|
-| `topology/` | T | Composition, degree and hubs of the twelve networks; overlap with the typed cores; D1–D4 modules |
-| `nulls/` | O | Over-representation under NULL-B, NULL-C and NULL-L, and the one-layer variants (1,000 randomisations each) |
+| `topology/` | T | Composition, degree and hubs of the twelve networks; overlap with the typed cores; topological-definition modules |
+| `nulls/` | O | Over-representation under the reciprocity-preserving null, the bipartite-layer null and the core-conditional null, and the one-layer variants (1,000 randomisations each) |
 | `enrichment/` | E | GSEA against the tumour-versus-normal signature, the network-background test and over-representation analysis |
 | `survival/` | S | Each four- to six-node circuit against its three-node core (TCGA-BRCA, overall and progression-free interval) |
 | `concordance/` | X | Sign concordance in TCGA-BRCA and CPTAC against matched nulls |

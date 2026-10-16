@@ -1,0 +1,11 @@
+network,edge_type,analysed_arcs,in_primary_tables,baseline_arcs
+validated,gene_gene,1,0,
+validated,miRNA_target,4819,3016,
+validated,TF_miRNA,1239,1236,
+validated,TF_target,770,770,
+validated_plus_predicted,gene_gene,1,0,
+validated_plus_predicted,miRNA_target,4819,4257,
+validated_plus_predicted,TF_miRNA,1239,1236,
+validated_plus_predicted,TF_target,770,770,
+validated,all,6829,5022,30604
+validated_plus_predicted,all,6829,6263,32868

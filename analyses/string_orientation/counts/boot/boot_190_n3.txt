@@ -1,0 +1,14 @@
+graph work/graphs/boot_190.txt
+K 3
+nparts 1
+part 0
+seed 42
+q 1 1
+prod_q 1
+found 5870
+visited 164450
+rng_final 42
+no_string_arc 5870
+no_string_pair 5870
+in_baseline 5162
+baseline_keys 5833
