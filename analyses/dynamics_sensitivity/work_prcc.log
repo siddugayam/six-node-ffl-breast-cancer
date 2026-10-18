@@ -1,0 +1,191 @@
+parameter sample: points 0-1023 equal the stored npz (all 35 parameters)
+             family module        behaviour     k     n       pct  cp95_lo_pct  cp95_hi_pct                    flag
+       I1_miRNA_FFL     n3        is_memory  5970 16384 36.437988    35.700488    37.180306 uncertified (as stored)
+       I1_miRNA_FFL     n3         is_pulse  2279 16384 13.909912    13.383421    14.449250 uncertified (as stored)
+       I1_miRNA_FFL     n3 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+       I1_miRNA_FFL     n4        is_memory 11219 16384 68.475342    67.757630    69.186490 uncertified (as stored)
+       I1_miRNA_FFL     n4         is_pulse  1110 16384  6.774902     6.394731     7.170504 uncertified (as stored)
+       I1_miRNA_FFL     n4 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+       I1_miRNA_FFL     n5        is_memory 10210 16384 62.316895    61.569691    63.059723 uncertified (as stored)
+       I1_miRNA_FFL     n5         is_pulse  1844 16384 11.254883    10.774811    11.748756 uncertified (as stored)
+       I1_miRNA_FFL     n5 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+       I1_miRNA_FFL     n6        is_memory  9722 16384 59.338379    58.581584    60.091857 uncertified (as stored)
+       I1_miRNA_FFL     n6         is_pulse  2675 16384 16.326904    15.763910    16.901879 uncertified (as stored)
+       I1_miRNA_FFL     n6 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+       I1_miRNA_FFL    n4d        is_memory  6049 16384 36.920166    36.180540    37.664438 uncertified (as stored)
+       I1_miRNA_FFL    n4d         is_pulse  1614 16384  9.851074     9.398868    10.317589 uncertified (as stored)
+       I1_miRNA_FFL    n4d is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n3        is_memory  4061 16384 24.786377    24.126707    25.455008 uncertified (as stored)
+     COMP_C2_toggle     n3         is_pulse     3 16384  0.018311     0.003776     0.053502 uncertified (as stored)
+     COMP_C2_toggle     n3 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n4        is_memory  9684 16384 59.106445    58.349026    59.860631 uncertified (as stored)
+     COMP_C2_toggle     n4         is_pulse     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n4 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n5        is_memory  7954 16384 48.547363    47.779339    49.315904 uncertified (as stored)
+     COMP_C2_toggle     n5         is_pulse     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n5 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n6        is_memory  9593 16384 58.551025    57.792179    59.306835 uncertified (as stored)
+     COMP_C2_toggle     n6         is_pulse  4116 16384 25.122070    24.459366    25.793616 uncertified (as stored)
+     COMP_C2_toggle     n6 is_sustained_osc   108 16384  0.659180     0.541042     0.795309 uncertified (as stored)
+     COMP_C2_toggle    n4d        is_memory  4266 16384 26.037598    25.366885    26.716826 uncertified (as stored)
+     COMP_C2_toggle    n4d         is_pulse     5 16384  0.030518     0.009910     0.071203 uncertified (as stored)
+     COMP_C2_toggle    n4d is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+COMP_I1_negfeedback     n3        is_memory  4833 16384 29.498291    28.800637    30.203229 uncertified (as stored)
+COMP_I1_negfeedback     n3         is_pulse  4505 16384 27.496338    26.813645    28.187028 uncertified (as stored)
+COMP_I1_negfeedback     n3 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+COMP_I1_negfeedback     n4        is_memory  9874 16384 60.266113    59.511994    61.016586 uncertified (as stored)
+COMP_I1_negfeedback     n4         is_pulse  3251 16384 19.842529    19.234199    20.461584 uncertified (as stored)
+COMP_I1_negfeedback     n4 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+COMP_I1_negfeedback     n5        is_memory  8840 16384 53.955078    53.188169    54.720583 uncertified (as stored)
+COMP_I1_negfeedback     n5         is_pulse  4204 16384 25.659180    24.991731    26.335280 uncertified (as stored)
+COMP_I1_negfeedback     n5 is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+COMP_I1_negfeedback     n6        is_memory  8278 16384 50.524902    49.756246    51.293373 uncertified (as stored)
+COMP_I1_negfeedback     n6         is_pulse  5040 16384 30.761719    30.055463    31.474810 uncertified (as stored)
+COMP_I1_negfeedback     n6 is_sustained_osc    37 16384  0.225830     0.159054     0.311144 uncertified (as stored)
+COMP_I1_negfeedback    n4d        is_memory  5151 16384 31.439209    30.728598    32.156415 uncertified (as stored)
+COMP_I1_negfeedback    n4d         is_pulse  3709 16384 22.637939    21.998991    23.286615 uncertified (as stored)
+COMP_I1_negfeedback    n4d is_sustained_osc     0 16384  0.000000     0.000000     0.022513 uncertified (as stored)
+     COMP_C2_toggle     n6 is_sustained_osc    83 16384  0.506592     0.403694     0.627615   certified limit cycle
+COMP_I1_negfeedback     n6 is_sustained_osc    31 16384  0.189209     0.128593     0.268460   certified limit cycle
+             family module   behaviour     k  rank parameter      prcc             p          q_bh
+       I1_miRNA_FFL     n3      memory  5970     1        gp -0.610857  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n3      memory  5970     2        gx -0.276460 5.950049e-285 4.760039e-284
+       I1_miRNA_FFL     n3      memory  5970     3       Kxy -0.254564 1.882124e-240 1.003800e-239
+       I1_miRNA_FFL     n3      memory  5970     4       Kxm  0.085903  3.419879e-28  1.367951e-27
+       I1_miRNA_FFL     n3      memory  5970     5       Kmp -0.060354  1.090725e-14  3.490320e-14
+       I1_miRNA_FFL     n3       pulse  2279     1        KS  0.253557 1.662902e-238 2.660643e-237
+       I1_miRNA_FFL     n3       pulse  2279     2     theta -0.190379 2.038251e-133 1.630601e-132
+       I1_miRNA_FFL     n3       pulse  2279     3     lam_y  0.188149 2.663248e-130 1.420399e-129
+       I1_miRNA_FFL     n3       pulse  2279     4        gp  0.179044 5.539599e-118 2.215839e-117
+       I1_miRNA_FFL     n3       pulse  2279     5       Kmy -0.143330  7.326484e-76  2.344475e-75
+       I1_miRNA_FFL     n4      memory 11219     1        gp -0.458320  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n4      memory 11219     2     kappa  0.320558  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n4      memory 11219     3       Kxy -0.295391  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n4      memory 11219     4      Kg12 -0.154253  1.108509e-87  5.819671e-87
+       I1_miRNA_FFL     n4      memory 11219     5        gx -0.146689  2.194547e-79  9.217098e-79
+       I1_miRNA_FFL     n4       pulse  1110     1     lam_y  0.184816 1.117851e-125 2.347487e-124
+       I1_miRNA_FFL     n4       pulse  1110     2        KS  0.174167 1.283131e-111 1.347287e-110
+       I1_miRNA_FFL     n4       pulse  1110     3     theta -0.170963 1.466718e-107 1.026703e-106
+       I1_miRNA_FFL     n4       pulse  1110     4       Kmy -0.125768  1.109316e-58  5.823910e-58
+       I1_miRNA_FFL     n4       pulse  1110     5       Kmp -0.107855  1.538984e-43  6.463734e-43
+       I1_miRNA_FFL     n5      memory 10210     1        gp -0.449239  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n5      memory 10210     2       Kxy -0.316040  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n5      memory 10210     3     kappa  0.250651 7.944601e-233 6.355681e-232
+       I1_miRNA_FFL     n5      memory 10210     4       Kxm  0.180735 3.661114e-120 2.196668e-119
+       I1_miRNA_FFL     n5      memory 10210     5        gx -0.163850  8.077247e-99  3.877079e-98
+       I1_miRNA_FFL     n5       pulse  1844     1        KS  0.258466 5.913820e-248 1.419317e-246
+       I1_miRNA_FFL     n5       pulse  1844     2     lam_y  0.151844  5.616842e-85  6.740210e-84
+       I1_miRNA_FFL     n5       pulse  1844     3     theta -0.146569  3.046146e-79  2.436917e-78
+       I1_miRNA_FFL     n5       pulse  1844     4        Kc  0.133982  2.086376e-66  1.251826e-65
+       I1_miRNA_FFL     n5       pulse  1844     5        gp  0.130475  4.828390e-63  2.317627e-62
+       I1_miRNA_FFL     n6      memory  9722     1        gp -0.470388  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n6      memory  9722     2       Kxy -0.293486  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL     n6      memory  9722     3     kappa  0.241114 5.500481e-215 5.683831e-214
+       I1_miRNA_FFL     n6      memory  9722     4      Kx2y -0.189421 5.904610e-132 4.576073e-131
+       I1_miRNA_FFL     n6      memory  9722     5      Kg12 -0.172719 1.041939e-109 6.460022e-109
+       I1_miRNA_FFL     n6       pulse  2675     1        KS  0.235765 2.259105e-205 7.003224e-204
+       I1_miRNA_FFL     n6       pulse  2675     2     lam_y  0.176619 1.043124e-114 1.616842e-113
+       I1_miRNA_FFL     n6       pulse  2675     3        Kc  0.175701 1.608019e-113 1.661620e-112
+       I1_miRNA_FFL     n6       pulse  2675     4       Kmp -0.160292  1.460389e-94  1.131801e-93
+       I1_miRNA_FFL     n6       pulse  2675     5     theta -0.146308  6.232352e-79  3.864058e-78
+       I1_miRNA_FFL    n4d      memory  6049     1        gp -0.632927  0.000000e+00  0.000000e+00
+       I1_miRNA_FFL    n4d      memory  6049     2        gx -0.280113 9.779313e-293 9.290348e-292
+       I1_miRNA_FFL    n4d      memory  6049     3       Kxy -0.238487 2.183784e-210 1.383063e-209
+       I1_miRNA_FFL    n4d      memory  6049     4       Kxm  0.071252  7.093861e-20  3.369584e-19
+       I1_miRNA_FFL    n4d      memory  6049     5       Kmp -0.056750  3.721819e-13  1.414291e-12
+       I1_miRNA_FFL    n4d       pulse  1614     1        KS  0.208300 7.127870e-160 1.354295e-158
+       I1_miRNA_FFL    n4d       pulse  1614     2     theta -0.185070 4.856157e-126 4.613349e-125
+       I1_miRNA_FFL    n4d       pulse  1614     3     lam_y  0.171343 4.738366e-108 3.000965e-107
+       I1_miRNA_FFL    n4d       pulse  1614     4       Kmp -0.147910  1.050940e-80  4.991965e-80
+       I1_miRNA_FFL    n4d       pulse  1614     5        gp  0.123760  7.138709e-57  2.712710e-56
+     COMP_C2_toggle     n3      memory  4061     1        gp -0.654011  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n3      memory  4061     2        gx -0.182196 3.758267e-122 3.570354e-121
+     COMP_C2_toggle     n3      memory  4061     3       Kxy -0.156892  1.087973e-90  6.890498e-90
+     COMP_C2_toggle     n3      memory  4061     4        gm -0.127131  6.157061e-60  2.924604e-59
+     COMP_C2_toggle     n3      memory  4061     5       Kxm -0.123478  1.276850e-56  4.852030e-56
+     COMP_C2_toggle     n4      memory  9684     1        gp -0.447352  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n4      memory  9684     2       Kmx  0.310040  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n4      memory  9684     3       Kxm -0.296030  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n4      memory  9684     4     kappa  0.294850  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n4      memory  9684     5        gm -0.246869 1.075554e-225 5.162659e-225
+     COMP_C2_toggle     n5      memory  7954     1        gp -0.459712  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n5      memory  7954     2       Kmx  0.364048  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n5      memory  7954     3       Kxm -0.338446  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n5      memory  7954     4     kappa  0.251557 1.640020e-234 1.107014e-233
+     COMP_C2_toggle     n5      memory  7954     5       Kxy -0.200491 6.010453e-148 3.245645e-147
+     COMP_C2_toggle     n6      memory  9593     1        gp -0.462504  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n6      memory  9593     2       Kxm -0.312622  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n6      memory  9593     3     kappa  0.297006  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n6      memory  9593     4       Kxy -0.187294 5.623230e-129 4.779745e-128
+     COMP_C2_toggle     n6      memory  9593     5      Kx2y -0.175176 7.979437e-113 5.426017e-112
+     COMP_C2_toggle     n6       pulse  4116     1       Kxm  0.406325  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n6       pulse  4116     2       Kmx -0.309037  0.000000e+00  0.000000e+00
+     COMP_C2_toggle     n6       pulse  4116     3      Kx2m -0.205424 2.607552e-155 2.955225e-154
+     COMP_C2_toggle     n6       pulse  4116     4       Kxy  0.136693  4.965566e-69  4.220731e-68
+     COMP_C2_toggle     n6       pulse  4116     5      Kx2y  0.111711  1.455246e-46  9.895675e-46
+     COMP_C2_toggle     n6 oscillation   108     1       Kmx -0.071260  7.309664e-20  2.485286e-18
+     COMP_C2_toggle     n6 oscillation   108     2       nmx  0.055409  1.339461e-12  2.277084e-11
+     COMP_C2_toggle     n6 oscillation   108     3        gm  0.052976  1.215941e-11  1.378066e-10
+     COMP_C2_toggle     n6 oscillation   108     4       Kxm  0.049186  3.118682e-10  2.650880e-09
+     COMP_C2_toggle     n6 oscillation   108     5        gx -0.047211  1.542750e-09  9.209639e-09
+     COMP_C2_toggle    n4d      memory  4266     1        gp -0.658526  0.000000e+00  0.000000e+00
+     COMP_C2_toggle    n4d      memory  4266     2        gx -0.198115 1.749823e-144 1.924805e-143
+     COMP_C2_toggle    n4d      memory  4266     3       Kxy -0.176857 4.444671e-115 3.259425e-114
+     COMP_C2_toggle    n4d      memory  4266     4       Kmx  0.121865  3.546496e-55  1.950573e-54
+     COMP_C2_toggle    n4d      memory  4266     5        gm -0.120050  1.378309e-53  6.064559e-53
+COMP_I1_negfeedback     n3      memory  4833     1        gp -0.556397  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n3      memory  4833     2        gx -0.173598 6.642328e-111 6.310211e-110
+COMP_I1_negfeedback     n3      memory  4833     3       Kxy -0.163523  1.861285e-98  1.178814e-97
+COMP_I1_negfeedback     n3      memory  4833     4       Kmp -0.095343  2.311846e-34  1.098127e-33
+COMP_I1_negfeedback     n3      memory  4833     5       Kmx  0.093654  3.279578e-33  1.246240e-32
+COMP_I1_negfeedback     n3       pulse  4505     1       Kxy  0.368358  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n3       pulse  4505     2       Kxm -0.254088 1.733359e-239 1.646691e-238
+COMP_I1_negfeedback     n3       pulse  4505     3        gp  0.207218 3.352542e-158 2.123276e-157
+COMP_I1_negfeedback     n3       pulse  4505     4        KS  0.156253  5.854832e-90  2.781045e-89
+COMP_I1_negfeedback     n3       pulse  4505     5     theta -0.147037  9.116701e-80  3.464346e-79
+COMP_I1_negfeedback     n4      memory  9874     1        gp -0.429318  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n4      memory  9874     2       Kxy -0.347323  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n4      memory  9874     3     kappa  0.282339 1.763888e-297 1.411111e-296
+COMP_I1_negfeedback     n4      memory  9874     4       Kxm  0.218784 1.634829e-176 9.808974e-176
+COMP_I1_negfeedback     n4      memory  9874     5        gm -0.177688 3.784624e-116 1.816619e-115
+COMP_I1_negfeedback     n4       pulse  3251     1       Kxy  0.369581  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n4       pulse  3251     2       Kxm -0.271946 2.680860e-275 3.217032e-274
+COMP_I1_negfeedback     n4       pulse  3251     3       Kmx -0.164588  1.049541e-99  8.396331e-99
+COMP_I1_negfeedback     n4       pulse  3251     4       nxy  0.162231  6.900820e-97  4.140492e-96
+COMP_I1_negfeedback     n4       pulse  3251     5        gp  0.151906  4.799480e-85  2.303750e-84
+COMP_I1_negfeedback     n5      memory  8840     1        gp -0.404899  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n5      memory  8840     2       Kxy -0.333684  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n5      memory  8840     3       Kxm  0.223538 2.416418e-184 2.174776e-183
+COMP_I1_negfeedback     n5      memory  8840     4     kappa  0.222653 7.282311e-183 4.915560e-182
+COMP_I1_negfeedback     n5      memory  8840     5    rho_g2  0.120913  2.524987e-54  1.363493e-53
+COMP_I1_negfeedback     n5       pulse  4204     1       Kxy  0.366061  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n5       pulse  4204     2       Kxm -0.265365 1.060487e-261 1.431658e-260
+COMP_I1_negfeedback     n5       pulse  4204     3        gp  0.183301 1.402963e-123 1.262667e-122
+COMP_I1_negfeedback     n5       pulse  4204     4       nxy  0.177843 2.494943e-116 1.684087e-115
+COMP_I1_negfeedback     n5       pulse  4204     5        KS  0.151713  8.123693e-85  4.386794e-84
+COMP_I1_negfeedback     n6      memory  8278     1        gp -0.441921  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n6      memory  8278     2       Kxy -0.286871 2.843473e-307 4.833905e-306
+COMP_I1_negfeedback     n6      memory  8278     3      Kx2y -0.220346 5.739689e-179 6.504981e-178
+COMP_I1_negfeedback     n6      memory  8278     4     kappa  0.203655 1.265556e-152 1.075722e-151
+COMP_I1_negfeedback     n6      memory  8278     5       Kxm  0.203466 2.434671e-152 1.655576e-151
+COMP_I1_negfeedback     n6       pulse  5040     1       Kxy  0.302547  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback     n6       pulse  5040     2       Kxm -0.274068 1.403878e-279 2.386593e-278
+COMP_I1_negfeedback     n6       pulse  5040     3      Kx2y  0.188006 5.808598e-130 6.583078e-129
+COMP_I1_negfeedback     n6       pulse  5040     4        gp  0.181686 2.333505e-121 1.983479e-120
+COMP_I1_negfeedback     n6       pulse  5040     5      Kx2m -0.157295  4.530015e-91  3.080411e-90
+COMP_I1_negfeedback     n6 oscillation    37     1       Kxm -0.047534  1.192730e-09  4.055282e-08
+COMP_I1_negfeedback     n6 oscillation    37     2       Kmx -0.046277  3.216036e-09  5.467261e-08
+COMP_I1_negfeedback     n6 oscillation    37     3      nx12  0.043238  3.182966e-08  3.607362e-07
+COMP_I1_negfeedback     n6 oscillation    37     4        gx -0.038804  6.927863e-07  5.888684e-06
+COMP_I1_negfeedback     n6 oscillation    37     5       nmx  0.038445  8.767325e-07  5.961781e-06
+COMP_I1_negfeedback    n4d      memory  5151     1        gp -0.585448  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback    n4d      memory  5151     2        gx -0.196260 8.950837e-142 9.845921e-141
+COMP_I1_negfeedback    n4d      memory  5151     3       Kxy -0.175746 1.221986e-113 8.961229e-113
+COMP_I1_negfeedback    n4d      memory  5151     4       Kmx  0.082562  3.750091e-26  2.062550e-25
+COMP_I1_negfeedback    n4d      memory  5151     5       Kmp -0.081270  2.178017e-25  9.583274e-25
+COMP_I1_negfeedback    n4d       pulse  3709     1       Kxy  0.372334  0.000000e+00  0.000000e+00
+COMP_I1_negfeedback    n4d       pulse  3709     2       Kxm -0.272379 3.093371e-276 3.402708e-275
+COMP_I1_negfeedback    n4d       pulse  3709     3        gp  0.163060  6.928911e-98  5.081201e-97
+COMP_I1_negfeedback    n4d       pulse  3709     4       nxy  0.155294  7.477631e-89  4.112697e-88
+COMP_I1_negfeedback    n4d       pulse  3709     5        KS  0.138693  4.429531e-71  1.948994e-70
+excursion plan: 190 runs

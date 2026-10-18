@@ -20,6 +20,8 @@ in the layout in which it was run. Scripts refer to other analyses as `analyses/
 | [`mediation_common_sample/`](mediation_common_sample) | Table 3, Note S1 | Stromal mediation of the twelve paths refitted on the 734 tumours shared by all 42 stromal estimates |
 | [`multivariable_survival/`](multivariable_survival) | Results 3.6, Note S1 | Unadjusted and covariate-adjusted Cox models for the 11 miRNAs of the survival meta-analysis |
 | [`er_pam50_adjustment/`](er_pam50_adjustment) | Results 3.6 and 3.8, Note S1 | Six-node circuit survival and the miRNA meta-analysis with oestrogen-receptor status and PAM50 subtype added |
+| [`enumerator_benchmark/`](enumerator_benchmark) | Methods 2.2 | The census enumerator tested on 200 synthetic graphs with planted modules, and the effect of relaxing each condition of the definition |
+| [`dynamics_sensitivity/`](dynamics_sensitivity) | Results 3.7, Table 4 | Behaviour frequencies with exact intervals, parameter sensitivity (PRCC), ×0.5 and ×2 parameter excursions, and the parameter table |
 | [`analysed_vs_full_network/`](analysed_vs_full_network) | Notes S4, S6 | Architecture, hubs, Tables S2, S3 and S6 and module detection on the analysed network, without the 30 exemplar miRNA–miRNA edges and with them |
 | [`dynamics_controls/`](dynamics_controls) | Results 3.7 | Feedback-loop structure of the modelled topologies and the four-node TF–TF control |
 | [`metabric_power_downsampling/`](metabric_power_downsampling) | Results 3.8 | METABRIC downsampled to the TCGA event count |

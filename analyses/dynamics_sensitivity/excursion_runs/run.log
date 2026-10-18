@@ -1,0 +1,3234 @@
+    COMP_C2_toggle/n6 finished in 1493s
+gate passed in 1493 s
+190 excursion runs to do, 1520 chunk tasks, 10 workers
+    COMP_C2_toggle/n6 finished in 2006s
+[   58.3 min] COMP_C2_toggle n6 gx x0.5 points 4096-6143 in 2006 s (1/8)
+    COMP_C2_toggle/n6 finished in 2023s
+[   58.6 min] COMP_C2_toggle n6 gx x0.5 points 6144-8191 in 2023 s (2/8)
+    COMP_C2_toggle/n6 finished in 2036s
+[   58.8 min] COMP_C2_toggle n6 gx x0.5 points 0-2047 in 2036 s (3/8)
+    COMP_C2_toggle/n6 finished in 2064s
+[   59.3 min] COMP_C2_toggle n6 gx x0.5 points 8192-10239 in 2064 s (4/8)
+    COMP_C2_toggle/n6 finished in 2104s
+[   60.0 min] COMP_C2_toggle n6 gx x2 points 0-2047 in 2104 s (1/8)
+    COMP_C2_toggle/n6 finished in 2119s
+[   60.2 min] COMP_C2_toggle n6 gx x2 points 2048-4095 in 2119 s (2/8)
+    COMP_C2_toggle/n6 finished in 2158s
+[   60.9 min] COMP_C2_toggle n6 gx x0.5 points 14336-16383 in 2158 s (5/8)
+    COMP_C2_toggle/n6 finished in 2167s
+[   61.0 min] COMP_C2_toggle n6 gx x0.5 points 2048-4095 in 2167 s (6/8)
+    COMP_C2_toggle/n6 finished in 2172s
+[   61.1 min] COMP_C2_toggle n6 gx x0.5 points 12288-14335 in 2172 s (7/8)
+    COMP_C2_toggle/n6 finished in 2240s
+[   62.2 min] COMP_C2_toggle n6 gx x0.5 points 10240-12287 in 2240 s (8/8)
+  written COMP_C2_toggle__n6__gx__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 1729s
+[   87.4 min] COMP_C2_toggle n6 gx x2 points 6144-8191 in 1729 s (3/8)
+    COMP_C2_toggle/n6 finished in 1828s
+[   88.8 min] COMP_C2_toggle n6 gx x2 points 4096-6143 in 1828 s (4/8)
+    COMP_C2_toggle/n6 finished in 1828s
+[   89.3 min] COMP_C2_toggle n6 gx x2 points 8192-10239 in 1828 s (5/8)
+    COMP_C2_toggle/n6 finished in 1827s
+[   89.7 min] COMP_C2_toggle n6 gx x2 points 10240-12287 in 1827 s (6/8)
+    COMP_C2_toggle/n6 finished in 1781s
+[   89.9 min] COMP_C2_toggle n6 gx x2 points 14336-16383 in 1781 s (7/8)
+    COMP_C2_toggle/n6 finished in 1838s
+[   90.6 min] COMP_C2_toggle n6 gx x2 points 12288-14335 in 1838 s (8/8)
+  written COMP_C2_toggle__n6__gx__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1824s
+[   91.4 min] COMP_C2_toggle n6 gm x0.5 points 2048-4095 in 1824 s (1/8)
+    COMP_C2_toggle/n6 finished in 1843s
+[   91.6 min] COMP_C2_toggle n6 gm x0.5 points 0-2047 in 1843 s (2/8)
+    COMP_C2_toggle/n6 finished in 1848s
+[   91.9 min] COMP_C2_toggle n6 gm x0.5 points 4096-6143 in 1848 s (3/8)
+    COMP_C2_toggle/n6 finished in 1833s
+[   92.8 min] COMP_C2_toggle n6 gm x0.5 points 6144-8191 in 1833 s (4/8)
+    COMP_C2_toggle/n6 finished in 1433s
+[  111.3 min] COMP_C2_toggle n6 gm x0.5 points 8192-10239 in 1433 s (5/8)
+    COMP_C2_toggle/n6 finished in 1421s
+[  112.5 min] COMP_C2_toggle n6 gm x0.5 points 10240-12287 in 1421 s (6/8)
+    COMP_C2_toggle/n6 finished in 1401s
+[  112.6 min] COMP_C2_toggle n6 gm x0.5 points 12288-14335 in 1401 s (7/8)
+    COMP_C2_toggle/n6 finished in 1404s
+[  113.3 min] COMP_C2_toggle n6 gm x2 points 0-2047 in 1404 s (1/8)
+    COMP_C2_toggle/n6 finished in 1417s
+[  113.4 min] COMP_C2_toggle n6 gm x0.5 points 14336-16383 in 1417 s (8/8)
+  written COMP_C2_toggle__n6__gm__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 1389s
+[  113.7 min] COMP_C2_toggle n6 gm x2 points 2048-4095 in 1389 s (2/8)
+    COMP_C2_toggle/n6 finished in 1383s
+[  114.5 min] COMP_C2_toggle n6 gm x2 points 4096-6143 in 1383 s (3/8)
+    COMP_C2_toggle/n6 finished in 1382s
+[  114.6 min] COMP_C2_toggle n6 gm x2 points 6144-8191 in 1382 s (4/8)
+    COMP_C2_toggle/n6 finished in 1387s
+[  115.0 min] COMP_C2_toggle n6 gm x2 points 8192-10239 in 1387 s (5/8)
+    COMP_C2_toggle/n6 finished in 1387s
+[  115.9 min] COMP_C2_toggle n6 gm x2 points 10240-12287 in 1387 s (6/8)
+    COMP_C2_toggle/n6 finished in 1402s
+[  134.7 min] COMP_C2_toggle n6 gm x2 points 12288-14335 in 1402 s (7/8)
+    COMP_C2_toggle/n6 finished in 1391s
+[  135.7 min] COMP_C2_toggle n6 gm x2 points 14336-16383 in 1391 s (8/8)
+  written COMP_C2_toggle__n6__gm__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1708s
+[  141.1 min] COMP_C2_toggle n6 gp x0.5 points 0-2047 in 1708 s (1/8)
+    COMP_C2_toggle/n6 finished in 1716s
+[  141.9 min] COMP_C2_toggle n6 gp x0.5 points 2048-4095 in 1716 s (2/8)
+    COMP_C2_toggle/n6 finished in 1719s
+[  142.0 min] COMP_C2_toggle n6 gp x0.5 points 4096-6143 in 1719 s (3/8)
+    COMP_C2_toggle/n6 finished in 1719s
+[  142.4 min] COMP_C2_toggle n6 gp x0.5 points 6144-8191 in 1719 s (4/8)
+    COMP_C2_toggle/n6 finished in 1702s
+[  143.0 min] COMP_C2_toggle n6 gp x0.5 points 10240-12287 in 1702 s (5/8)
+    COMP_C2_toggle/n6 finished in 1714s
+[  143.0 min] COMP_C2_toggle n6 gp x0.5 points 8192-10239 in 1714 s (6/8)
+    COMP_C2_toggle/n6 finished in 1706s
+[  143.4 min] COMP_C2_toggle n6 gp x0.5 points 12288-14335 in 1706 s (7/8)
+    COMP_C2_toggle/n6 finished in 1700s
+[  144.2 min] COMP_C2_toggle n6 gp x0.5 points 14336-16383 in 1700 s (8/8)
+  written COMP_C2_toggle__n6__gp__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 1143s
+[  153.7 min] COMP_C2_toggle n6 gp x2 points 0-2047 in 1143 s (1/8)
+    COMP_C2_toggle/n6 finished in 1159s
+[  155.0 min] COMP_C2_toggle n6 gp x2 points 2048-4095 in 1159 s (2/8)
+    COMP_C2_toggle/n6 finished in 1148s
+[  160.2 min] COMP_C2_toggle n6 gp x2 points 4096-6143 in 1148 s (3/8)
+    COMP_C2_toggle/n6 finished in 1159s
+[  161.2 min] COMP_C2_toggle n6 gp x2 points 6144-8191 in 1159 s (4/8)
+    COMP_C2_toggle/n6 finished in 1154s
+[  161.2 min] COMP_C2_toggle n6 gp x2 points 8192-10239 in 1154 s (5/8)
+    COMP_C2_toggle/n6 finished in 1158s
+[  161.7 min] COMP_C2_toggle n6 gp x2 points 10240-12287 in 1158 s (6/8)
+    COMP_C2_toggle/n6 finished in 1152s
+[  162.2 min] COMP_C2_toggle n6 gp x2 points 12288-14335 in 1152 s (7/8)
+    COMP_C2_toggle/n6 finished in 1150s
+[  162.2 min] COMP_C2_toggle n6 gp x2 points 14336-16383 in 1150 s (8/8)
+  written COMP_C2_toggle__n6__gp__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1397s
+[  166.7 min] COMP_C2_toggle n6 Kxm x0.5 points 0-2047 in 1397 s (1/8)
+    COMP_C2_toggle/n6 finished in 1407s
+[  167.7 min] COMP_C2_toggle n6 Kxm x0.5 points 2048-4095 in 1407 s (2/8)
+    COMP_C2_toggle/n6 finished in 1408s
+[  177.2 min] COMP_C2_toggle n6 Kxm x0.5 points 4096-6143 in 1408 s (3/8)
+    COMP_C2_toggle/n6 finished in 1404s
+[  178.4 min] COMP_C2_toggle n6 Kxm x0.5 points 6144-8191 in 1404 s (4/8)
+    COMP_C2_toggle/n6 finished in 1408s
+[  183.7 min] COMP_C2_toggle n6 Kxm x0.5 points 8192-10239 in 1408 s (5/8)
+    COMP_C2_toggle/n6 finished in 1375s
+[  184.1 min] COMP_C2_toggle n6 Kxm x0.5 points 10240-12287 in 1375 s (6/8)
+    COMP_C2_toggle/n6 finished in 1393s
+[  184.5 min] COMP_C2_toggle n6 Kxm x0.5 points 12288-14335 in 1393 s (7/8)
+    COMP_C2_toggle/n6 finished in 1351s
+[  184.7 min] COMP_C2_toggle n6 Kxm x2 points 0-2047 in 1351 s (1/8)
+    COMP_C2_toggle/n6 finished in 1361s
+[  184.9 min] COMP_C2_toggle n6 Kxm x2 points 2048-4095 in 1361 s (2/8)
+    COMP_C2_toggle/n6 finished in 1419s
+[  185.3 min] COMP_C2_toggle n6 Kxm x0.5 points 14336-16383 in 1419 s (8/8)
+  written COMP_C2_toggle__n6__Kxm__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 1358s
+[  189.4 min] COMP_C2_toggle n6 Kxm x2 points 4096-6143 in 1358 s (3/8)
+    COMP_C2_toggle/n6 finished in 1359s
+[  190.3 min] COMP_C2_toggle n6 Kxm x2 points 6144-8191 in 1359 s (4/8)
+    COMP_C2_toggle/n6 finished in 1356s
+[  199.8 min] COMP_C2_toggle n6 Kxm x2 points 8192-10239 in 1356 s (5/8)
+    COMP_C2_toggle/n6 finished in 1360s
+[  201.1 min] COMP_C2_toggle n6 Kxm x2 points 10240-12287 in 1360 s (6/8)
+    COMP_C2_toggle/n6 finished in 1362s
+[  206.4 min] COMP_C2_toggle n6 Kxm x2 points 12288-14335 in 1362 s (7/8)
+    COMP_C2_toggle/n6 finished in 1358s
+[  206.8 min] COMP_C2_toggle n6 Kxm x2 points 14336-16383 in 1358 s (8/8)
+  written COMP_C2_toggle__n6__Kxm__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1390s
+[  207.6 min] COMP_C2_toggle n6 Kxy x0.5 points 0-2047 in 1390 s (1/8)
+    COMP_C2_toggle/n6 finished in 1379s
+[  207.9 min] COMP_C2_toggle n6 Kxy x0.5 points 4096-6143 in 1379 s (2/8)
+    COMP_C2_toggle/n6 finished in 1394s
+[  207.9 min] COMP_C2_toggle n6 Kxy x0.5 points 2048-4095 in 1394 s (3/8)
+    COMP_C2_toggle/n6 finished in 1385s
+[  208.4 min] COMP_C2_toggle n6 Kxy x0.5 points 6144-8191 in 1385 s (4/8)
+    COMP_C2_toggle/n6 finished in 1403s
+[  212.7 min] COMP_C2_toggle n6 Kxy x0.5 points 8192-10239 in 1403 s (5/8)
+    COMP_C2_toggle/n6 finished in 1404s
+[  213.7 min] COMP_C2_toggle n6 Kxy x0.5 points 10240-12287 in 1404 s (6/8)
+    COMP_C2_toggle/n6 finished in 1411s
+[  223.3 min] COMP_C2_toggle n6 Kxy x0.5 points 12288-14335 in 1411 s (7/8)
+    COMP_C2_toggle/n6 finished in 1407s
+[  224.5 min] COMP_C2_toggle n6 Kxy x0.5 points 14336-16383 in 1407 s (8/8)
+  written COMP_C2_toggle__n6__Kxy__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 1363s
+[  229.1 min] COMP_C2_toggle n6 Kxy x2 points 0-2047 in 1363 s (1/8)
+    COMP_C2_toggle/n6 finished in 1355s
+[  229.3 min] COMP_C2_toggle n6 Kxy x2 points 2048-4095 in 1355 s (2/8)
+    COMP_C2_toggle/n6 finished in 1347s
+[  230.1 min] COMP_C2_toggle n6 Kxy x2 points 4096-6143 in 1347 s (3/8)
+    COMP_C2_toggle/n6 finished in 1357s
+[  230.5 min] COMP_C2_toggle n6 Kxy x2 points 6144-8191 in 1357 s (4/8)
+    COMP_C2_toggle/n6 finished in 1366s
+[  230.7 min] COMP_C2_toggle n6 Kxy x2 points 8192-10239 in 1366 s (5/8)
+    COMP_C2_toggle/n6 finished in 1356s
+[  231.0 min] COMP_C2_toggle n6 Kxy x2 points 10240-12287 in 1356 s (6/8)
+    COMP_C2_toggle/n6 finished in 1353s
+[  235.3 min] COMP_C2_toggle n6 Kxy x2 points 12288-14335 in 1353 s (7/8)
+    COMP_C2_toggle/n6 finished in 1394s
+[  237.0 min] COMP_C2_toggle n6 Kxy x2 points 14336-16383 in 1394 s (8/8)
+  written COMP_C2_toggle__n6__Kxy__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1729s
+[  252.1 min] COMP_C2_toggle n6 Kx2y x0.5 points 0-2047 in 1729 s (1/8)
+    COMP_C2_toggle/n6 finished in 1865s
+[  255.6 min] COMP_C2_toggle n6 Kx2y x0.5 points 2048-4095 in 1865 s (2/8)
+    COMP_C2_toggle/n6 finished in 1891s
+[  260.6 min] COMP_C2_toggle n6 Kx2y x0.5 points 4096-6143 in 1891 s (3/8)
+    COMP_C2_toggle/n6 finished in 1893s
+[  261.6 min] COMP_C2_toggle n6 Kx2y x0.5 points 8192-10239 in 1893 s (4/8)
+    COMP_C2_toggle/n6 finished in 2006s
+[  264.4 min] COMP_C2_toggle n6 Kx2y x0.5 points 14336-16383 in 2006 s (5/8)
+    COMP_C2_toggle/n6 finished in 2038s
+[  264.6 min] COMP_C2_toggle n6 Kx2y x0.5 points 12288-14335 in 2038 s (6/8)
+    COMP_C2_toggle/n6 finished in 2120s
+[  264.7 min] COMP_C2_toggle n6 Kx2y x0.5 points 6144-8191 in 2120 s (7/8)
+    COMP_C2_toggle/n6 finished in 2082s
+[  265.2 min] COMP_C2_toggle n6 Kx2y x0.5 points 10240-12287 in 2082 s (8/8)
+  written COMP_C2_toggle__n6__Kx2y__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 2109s
+[  270.4 min] COMP_C2_toggle n6 Kx2y x2 points 0-2047 in 2109 s (1/8)
+    COMP_C2_toggle/n6 finished in 2073s
+[  271.5 min] COMP_C2_toggle n6 Kx2y x2 points 2048-4095 in 2073 s (2/8)
+    COMP_C2_toggle/n6 finished in 2254s
+[  289.7 min] COMP_C2_toggle n6 Kx2y x2 points 4096-6143 in 2255 s (3/8)
+    COMP_C2_toggle/n6 finished in 2115s
+[  290.9 min] COMP_C2_toggle n6 Kx2y x2 points 6144-8191 in 2115 s (4/8)
+    COMP_C2_toggle/n6 finished in 1922s
+[  293.7 min] COMP_C2_toggle n6 Kx2y x2 points 10240-12287 in 1922 s (5/8)
+    COMP_C2_toggle/n6 finished in 1872s
+[  295.9 min] COMP_C2_toggle n6 Kx2m x0.5 points 0-2047 in 1872 s (1/8)
+    COMP_C2_toggle/n6 finished in 2241s
+[  298.0 min] COMP_C2_toggle n6 Kx2y x2 points 8192-10239 in 2241 s (6/8)
+    COMP_C2_toggle/n6 finished in 2188s
+[  301.7 min] COMP_C2_toggle n6 Kx2m x0.5 points 2048-4095 in 2188 s (2/8)
+    COMP_C2_toggle/n6 finished in 2256s
+[  302.0 min] COMP_C2_toggle n6 Kx2y x2 points 12288-14335 in 2256 s (7/8)
+    COMP_C2_toggle/n6 finished in 2250s
+[  302.1 min] COMP_C2_toggle n6 Kx2y x2 points 14336-16383 in 2250 s (8/8)
+  written COMP_C2_toggle__n6__Kx2y__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1995s
+[  303.7 min] COMP_C2_toggle n6 Kx2m x0.5 points 4096-6143 in 1995 s (3/8)
+    COMP_C2_toggle/n6 finished in 2115s
+[  306.8 min] COMP_C2_toggle n6 Kx2m x0.5 points 6144-8191 in 2115 s (4/8)
+    COMP_C2_toggle/n6 finished in 2043s
+[  323.8 min] COMP_C2_toggle n6 Kx2m x0.5 points 8192-10239 in 2043 s (5/8)
+    COMP_C2_toggle/n6 finished in 2249s
+[  328.3 min] COMP_C2_toggle n6 Kx2m x0.5 points 10240-12287 in 2249 s (6/8)
+    COMP_C2_toggle/n6 finished in 2545s
+[  336.1 min] COMP_C2_toggle n6 Kx2m x0.5 points 12288-14335 in 2545 s (7/8)
+    COMP_C2_toggle/n6 finished in 3397s
+[  352.5 min] COMP_C2_toggle n6 Kx2m x0.5 points 14336-16383 in 3397 s (8/8)
+  written COMP_C2_toggle__n6__Kx2m__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 3364s
+[  354.1 min] COMP_C2_toggle n6 Kx2m x2 points 0-2047 in 3364 s (1/8)
+    COMP_C2_toggle/n6 finished in 3542s
+[  360.7 min] COMP_C2_toggle n6 Kx2m x2 points 2048-4095 in 3542 s (2/8)
+    COMP_C2_toggle/n6 finished in 3900s
+[  367.1 min] COMP_C2_toggle n6 Kx2m x2 points 6144-8191 in 3900 s (3/8)
+    COMP_C2_toggle/n6 finished in 3918s
+[  367.3 min] COMP_C2_toggle n6 Kx2m x2 points 4096-6143 in 3918 s (4/8)
+    COMP_C2_toggle/n6 finished in 4011s
+[  370.5 min] COMP_C2_toggle n6 Kx2m x2 points 8192-10239 in 4011 s (5/8)
+    COMP_C2_toggle/n6 finished in 4364s
+[  379.5 min] COMP_C2_toggle n6 Kx2m x2 points 10240-12287 in 4364 s (6/8)
+    COMP_C2_toggle/n6 finished in 5254s
+[  411.3 min] COMP_C2_toggle n6 Kx2m x2 points 12288-14335 in 5254 s (7/8)
+    COMP_C2_toggle/n6 finished in 5319s
+[  417.0 min] COMP_C2_toggle n6 Kx2m x2 points 14336-16383 in 5319 s (8/8)
+  written COMP_C2_toggle__n6__Kx2m__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 5037s
+[  420.0 min] COMP_C2_toggle n6 Kmx x0.5 points 0-2047 in 5037 s (1/8)
+    COMP_C2_toggle/n6 finished in 4351s
+[  425.0 min] COMP_C2_toggle n6 Kmx x0.5 points 2048-4095 in 4351 s (2/8)
+    COMP_C2_toggle/n6 finished in 4305s
+[  425.8 min] COMP_C2_toggle n6 Kmx x0.5 points 4096-6143 in 4305 s (3/8)
+    COMP_C2_toggle/n6 finished in 4102s
+[  429.1 min] COMP_C2_toggle n6 Kmx x0.5 points 6144-8191 in 4102 s (4/8)
+    COMP_C2_toggle/n6 finished in 3865s
+[  431.6 min] COMP_C2_toggle n6 Kmx x0.5 points 8192-10239 in 3865 s (5/8)
+    COMP_C2_toggle/n6 finished in 3671s
+[  431.7 min] COMP_C2_toggle n6 Kmx x0.5 points 12288-14335 in 3671 s (6/8)
+    COMP_C2_toggle/n6 finished in 3899s
+[  432.3 min] COMP_C2_toggle n6 Kmx x0.5 points 10240-12287 in 3899 s (7/8)
+    COMP_C2_toggle/n6 finished in 3570s
+[  439.0 min] COMP_C2_toggle n6 Kmx x0.5 points 14336-16383 in 3570 s (8/8)
+  written COMP_C2_toggle__n6__Kmx__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 2235s
+[  448.6 min] COMP_C2_toggle n6 Kmx x2 points 0-2047 in 2235 s (1/8)
+    COMP_C2_toggle/n6 finished in 2477s
+[  458.3 min] COMP_C2_toggle n6 Kmx x2 points 2048-4095 in 2477 s (2/8)
+    COMP_C2_toggle/n6 finished in 2388s
+[  459.8 min] COMP_C2_toggle n6 Kmx x2 points 4096-6143 in 2388 s (3/8)
+    COMP_C2_toggle/n6 finished in 2103s
+[  460.1 min] COMP_C2_toggle n6 Kmx x2 points 6144-8191 in 2103 s (4/8)
+    COMP_C2_toggle/n6 finished in 2111s
+[  461.0 min] COMP_C2_toggle n6 Kmx x2 points 8192-10239 in 2111 s (5/8)
+    COMP_C2_toggle/n6 finished in 2282s
+[  467.1 min] COMP_C2_toggle n6 Kmx x2 points 10240-12287 in 2282 s (6/8)
+    COMP_C2_toggle/n6 finished in 2148s
+[  467.4 min] COMP_C2_toggle n6 Kmx x2 points 12288-14335 in 2148 s (7/8)
+    COMP_C2_toggle/n6 finished in 2130s
+[  467.8 min] COMP_C2_toggle n6 nmx x0.5 points 0-2047 in 2130 s (1/8)
+    COMP_C2_toggle/n6 finished in 2211s
+[  468.6 min] COMP_C2_toggle n6 Kmx x2 points 14336-16383 in 2211 s (8/8)
+  written COMP_C2_toggle__n6__Kmx__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 2289s
+[  477.1 min] COMP_C2_toggle n6 nmx x0.5 points 2048-4095 in 2289 s (2/8)
+    COMP_C2_toggle/n6 finished in 2015s
+[  482.2 min] COMP_C2_toggle n6 nmx x0.5 points 4096-6143 in 2015 s (3/8)
+    COMP_C2_toggle/n6 finished in 2121s
+[  493.6 min] COMP_C2_toggle n6 nmx x0.5 points 6144-8191 in 2121 s (4/8)
+    COMP_C2_toggle/n6 finished in 2119s
+[  496.3 min] COMP_C2_toggle n6 nmx x0.5 points 12288-14335 in 2119 s (5/8)
+    COMP_C2_toggle/n6 finished in 2210s
+[  496.9 min] COMP_C2_toggle n6 nmx x0.5 points 10240-12287 in 2210 s (6/8)
+    COMP_C2_toggle/n6 finished in 2228s
+[  497.0 min] COMP_C2_toggle n6 nmx x0.5 points 8192-10239 in 2228 s (7/8)
+    COMP_C2_toggle/n6 finished in 2064s
+[  501.5 min] COMP_C2_toggle n6 nmx x0.5 points 14336-16383 in 2064 s (8/8)
+  written COMP_C2_toggle__n6__nmx__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 2390s
+[  507.2 min] COMP_C2_toggle n6 nmx x2 points 0-2047 in 2390 s (1/8)
+    COMP_C2_toggle/n6 finished in 2324s
+[  507.3 min] COMP_C2_toggle n6 nmx x2 points 4096-6143 in 2324 s (2/8)
+    COMP_C2_toggle/n6 finished in 2514s
+[  509.7 min] COMP_C2_toggle n6 nmx x2 points 2048-4095 in 2514 s (3/8)
+    COMP_C2_toggle/n6 finished in 2356s
+[  516.4 min] COMP_C2_toggle n6 nmx x2 points 6144-8191 in 2356 s (4/8)
+    COMP_C2_toggle/n6 finished in 2435s
+[  522.7 min] COMP_C2_toggle n6 nmx x2 points 8192-10239 in 2435 s (5/8)
+    COMP_C2_toggle/n6 finished in 1966s
+[  529.7 min] COMP_C2_toggle n6 kappa x0.5 points 0-2047 in 1966 s (1/8)
+    COMP_C2_toggle/n6 finished in 1774s
+[  531.1 min] COMP_C2_toggle n6 kappa x0.5 points 2048-4095 in 1774 s (2/8)
+    COMP_C2_toggle/n6 finished in 2463s
+[  534.7 min] COMP_C2_toggle n6 nmx x2 points 10240-12287 in 2463 s (6/8)
+    COMP_C2_toggle/n6 finished in 2412s
+[  536.5 min] COMP_C2_toggle n6 nmx x2 points 12288-14335 in 2412 s (7/8)
+    COMP_C2_toggle/n6 finished in 2449s
+[  537.7 min] COMP_C2_toggle n6 nmx x2 points 14336-16383 in 2449 s (8/8)
+  written COMP_C2_toggle__n6__nmx__x2.csv.gz
+    COMP_C2_toggle/n6 finished in 1934s
+[  539.5 min] COMP_C2_toggle n6 kappa x0.5 points 6144-8191 in 1934 s (3/8)
+    COMP_C2_toggle/n6 finished in 2079s
+[  541.8 min] COMP_C2_toggle n6 kappa x0.5 points 4096-6143 in 2079 s (4/8)
+    COMP_C2_toggle/n6 finished in 2043s
+[  543.8 min] COMP_C2_toggle n6 kappa x0.5 points 8192-10239 in 2043 s (5/8)
+    COMP_C2_toggle/n6 finished in 2013s
+[  550.0 min] COMP_C2_toggle n6 kappa x0.5 points 10240-12287 in 2013 s (6/8)
+    COMP_C2_toggle/n6 finished in 2088s
+[  557.5 min] COMP_C2_toggle n6 kappa x0.5 points 12288-14335 in 2088 s (7/8)
+    COMP_C2_toggle/n6 finished in 1860s
+[  560.7 min] COMP_C2_toggle n6 kappa x0.5 points 14336-16383 in 1860 s (8/8)
+  written COMP_C2_toggle__n6__kappa__x0.5.csv.gz
+    COMP_C2_toggle/n6 finished in 2528s
+[  573.2 min] COMP_C2_toggle n6 kappa x2 points 0-2047 in 2529 s (1/8)
+    COMP_C2_toggle/n6 finished in 2679s
+[  579.3 min] COMP_C2_toggle n6 kappa x2 points 2048-4095 in 2679 s (2/8)
+    COMP_C2_toggle/n6 finished in 2499s
+[  579.4 min] COMP_C2_toggle n6 kappa x2 points 6144-8191 in 2499 s (3/8)
+    COMP_C2_toggle/n6 finished in 2594s
+[  579.7 min] COMP_C2_toggle n6 kappa x2 points 4096-6143 in 2594 s (4/8)
+    COMP_C2_toggle/n6 finished in 2809s
+[  586.4 min] COMP_C2_toggle n6 kappa x2 points 8192-10239 in 2809 s (5/8)
+    COMP_C2_toggle/n6 finished in 2732s
+[  587.4 min] COMP_C2_toggle n6 kappa x2 points 10240-12287 in 2732 s (6/8)
+    COMP_C2_toggle/n6 finished in 2626s
+[  587.6 min] COMP_C2_toggle n6 kappa x2 points 12288-14335 in 2626 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2122s
+[  592.9 min] COMP_I1_negfeedback n6 gx x0.5 points 0-2047 in 2122 s (1/8)
+    COMP_C2_toggle/n6 finished in 2664s
+[  594.4 min] COMP_C2_toggle n6 kappa x2 points 14336-16383 in 2664 s (8/8)
+  written COMP_C2_toggle__n6__kappa__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2167s
+[  596.9 min] COMP_I1_negfeedback n6 gx x0.5 points 2048-4095 in 2167 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2282s
+[  611.2 min] COMP_I1_negfeedback n6 gx x0.5 points 4096-6143 in 2282 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2141s
+[  615.4 min] COMP_I1_negfeedback n6 gx x0.5 points 10240-12287 in 2141 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2262s
+[  617.0 min] COMP_I1_negfeedback n6 gx x0.5 points 6144-8191 in 2262 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2355s
+[  618.6 min] COMP_I1_negfeedback n6 gx x0.5 points 8192-10239 in 2355 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2171s
+[  623.7 min] COMP_I1_negfeedback n6 gx x2 points 0-2047 in 2171 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2235s
+[  624.6 min] COMP_I1_negfeedback n6 gx x0.5 points 14336-16383 in 2235 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2321s
+[  625.0 min] COMP_I1_negfeedback n6 gx x0.5 points 12288-14335 in 2321 s (8/8)
+  written COMP_I1_negfeedback__n6__gx__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2136s
+[  628.5 min] COMP_I1_negfeedback n6 gx x2 points 2048-4095 in 2136 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2166s
+[  630.5 min] COMP_I1_negfeedback n6 gx x2 points 4096-6143 in 2166 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2050s
+[  631.0 min] COMP_I1_negfeedback n6 gx x2 points 6144-8191 in 2050 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2315s
+[  649.8 min] COMP_I1_negfeedback n6 gx x2 points 8192-10239 in 2315 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2154s
+[  651.3 min] COMP_I1_negfeedback n6 gx x2 points 10240-12287 in 2154 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2395s
+[  657.0 min] COMP_I1_negfeedback n6 gx x2 points 12288-14335 in 2395 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2306s
+[  657.0 min] COMP_I1_negfeedback n6 gx x2 points 14336-16383 in 2306 s (8/8)
+  written COMP_I1_negfeedback__n6__gx__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2700s
+[  669.6 min] COMP_I1_negfeedback n6 gp x0.5 points 2048-4095 in 2700 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2939s
+[  674.0 min] COMP_I1_negfeedback n6 gp x0.5 points 4096-6143 in 2939 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 3119s
+[  675.7 min] COMP_I1_negfeedback n6 gp x0.5 points 0-2047 in 3119 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 3026s
+[  678.9 min] COMP_I1_negfeedback n6 gp x0.5 points 6144-8191 in 3026 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2922s
+[  679.7 min] COMP_I1_negfeedback n6 gp x0.5 points 10240-12287 in 2922 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2982s
+[  680.2 min] COMP_I1_negfeedback n6 gp x0.5 points 8192-10239 in 2982 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 1929s
+[  689.1 min] COMP_I1_negfeedback n6 gp x2 points 0-2047 in 1929 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 1947s
+[  689.5 min] COMP_I1_negfeedback n6 gp x2 points 2048-4095 in 1947 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2821s
+[  696.8 min] COMP_I1_negfeedback n6 gp x0.5 points 12288-14335 in 2821 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2777s
+[  697.6 min] COMP_I1_negfeedback n6 gp x0.5 points 14336-16383 in 2777 s (8/8)
+  written COMP_I1_negfeedback__n6__gp__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2017s
+[  703.2 min] COMP_I1_negfeedback n6 gp x2 points 4096-6143 in 2017 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 1970s
+[  706.9 min] COMP_I1_negfeedback n6 gp x2 points 6144-8191 in 1970 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 1752s
+[  708.9 min] COMP_I1_negfeedback n6 gp x2 points 12288-14335 in 1752 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 1831s
+[  709.4 min] COMP_I1_negfeedback n6 gp x2 points 10240-12287 in 1831 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2048s
+[  709.9 min] COMP_I1_negfeedback n6 gp x2 points 8192-10239 in 2048 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 1868s
+[  711.3 min] COMP_I1_negfeedback n6 gp x2 points 14336-16383 in 1868 s (8/8)
+  written COMP_I1_negfeedback__n6__gp__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2022s
+[  722.8 min] COMP_I1_negfeedback n6 Kxm x0.5 points 0-2047 in 2022 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2484s
+[  730.9 min] COMP_I1_negfeedback n6 Kxm x0.5 points 2048-4095 in 2484 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2304s
+[  736.0 min] COMP_I1_negfeedback n6 Kxm x0.5 points 6144-8191 in 2304 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2377s
+[  736.4 min] COMP_I1_negfeedback n6 Kxm x0.5 points 4096-6143 in 2377 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2265s
+[  741.0 min] COMP_I1_negfeedback n6 Kxm x0.5 points 8192-10239 in 2265 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2199s
+[  746.1 min] COMP_I1_negfeedback n6 Kxm x0.5 points 14336-16383 in 2199 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2284s
+[  747.0 min] COMP_I1_negfeedback n6 Kxm x0.5 points 12288-14335 in 2284 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2423s
+[  747.2 min] COMP_I1_negfeedback n6 Kxm x0.5 points 10240-12287 in 2423 s (8/8)
+  written COMP_I1_negfeedback__n6__Kxm__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2260s
+[  749.0 min] COMP_I1_negfeedback n6 Kxm x2 points 2048-4095 in 2260 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2538s
+[  752.2 min] COMP_I1_negfeedback n6 Kxm x2 points 0-2047 in 2538 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2301s
+[  761.2 min] COMP_I1_negfeedback n6 Kxm x2 points 4096-6143 in 2301 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2376s
+[  770.5 min] COMP_I1_negfeedback n6 Kxm x2 points 6144-8191 in 2376 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2294s
+[  774.2 min] COMP_I1_negfeedback n6 Kxm x2 points 8192-10239 in 2294 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2462s
+[  777.5 min] COMP_I1_negfeedback n6 Kxm x2 points 10240-12287 in 2462 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2288s
+[  779.1 min] COMP_I1_negfeedback n6 Kxm x2 points 12288-14335 in 2288 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2191s
+[  782.6 min] COMP_I1_negfeedback n6 Kxm x2 points 14336-16383 in 2191 s (8/8)
+  written COMP_I1_negfeedback__n6__Kxm__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2152s
+[  782.9 min] COMP_I1_negfeedback n6 Kxy x0.5 points 0-2047 in 2152 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2433s
+[  787.8 min] COMP_I1_negfeedback n6 Kxy x0.5 points 2048-4095 in 2433 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2340s
+[  788.0 min] COMP_I1_negfeedback n6 Kxy x0.5 points 4096-6143 in 2340 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2551s
+[  794.7 min] COMP_I1_negfeedback n6 Kxy x0.5 points 6144-8191 in 2551 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2449s
+[  802.0 min] COMP_I1_negfeedback n6 Kxy x0.5 points 8192-10239 in 2449 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2598s
+[  813.8 min] COMP_I1_negfeedback n6 Kxy x0.5 points 10240-12287 in 2598 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2407s
+[  814.4 min] COMP_I1_negfeedback n6 Kxy x0.5 points 12288-14335 in 2407 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2196s
+[  815.7 min] COMP_I1_negfeedback n6 Kxy x2 points 0-2047 in 2196 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2355s
+[  816.7 min] COMP_I1_negfeedback n6 Kxy x0.5 points 14336-16383 in 2355 s (8/8)
+  written COMP_I1_negfeedback__n6__Kxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2106s
+[  818.0 min] COMP_I1_negfeedback n6 Kxy x2 points 4096-6143 in 2106 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2221s
+[  819.7 min] COMP_I1_negfeedback n6 Kxy x2 points 2048-4095 in 2221 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2243s
+[  825.4 min] COMP_I1_negfeedback n6 Kxy x2 points 8192-10239 in 2243 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2437s
+[  828.4 min] COMP_I1_negfeedback n6 Kxy x2 points 6144-8191 in 2437 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2258s
+[  832.3 min] COMP_I1_negfeedback n6 Kxy x2 points 10240-12287 in 2258 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2165s
+[  838.1 min] COMP_I1_negfeedback n6 Kxy x2 points 12288-14335 in 2165 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2158s
+[  849.8 min] COMP_I1_negfeedback n6 Kxy x2 points 14336-16383 in 2158 s (8/8)
+  written COMP_I1_negfeedback__n6__Kxy__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2188s
+[  852.2 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 2048-4095 in 2188 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2341s
+[  853.4 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 0-2047 in 2341 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2283s
+[  857.7 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 8192-10239 in 2283 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2405s
+[  858.1 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 6144-8191 in 2405 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2568s
+[  859.5 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 4096-6143 in 2568 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2253s
+[  862.9 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 10240-12287 in 2253 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2188s
+[  864.9 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 12288-14335 in 2188 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2348s
+[  871.4 min] COMP_I1_negfeedback n6 Kx2y x0.5 points 14336-16383 in 2348 s (8/8)
+  written COMP_I1_negfeedback__n6__Kx2y__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2247s
+[  875.5 min] COMP_I1_negfeedback n6 Kx2y x2 points 0-2047 in 2247 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2297s
+[  888.1 min] COMP_I1_negfeedback n6 Kx2y x2 points 2048-4095 in 2297 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2152s
+[  888.1 min] COMP_I1_negfeedback n6 Kx2y x2 points 4096-6143 in 2152 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2085s
+[  888.1 min] COMP_I1_negfeedback n6 Kx2y x2 points 6144-8191 in 2085 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2310s
+[  896.6 min] COMP_I1_negfeedback n6 Kx2y x2 points 10240-12287 in 2310 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2419s
+[  898.0 min] COMP_I1_negfeedback n6 Kx2y x2 points 8192-10239 in 2419 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2390s
+[  899.4 min] COMP_I1_negfeedback n6 Kx2y x2 points 12288-14335 in 2390 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2348s
+[  902.0 min] COMP_I1_negfeedback n6 Kx2y x2 points 14336-16383 in 2348 s (8/8)
+  written COMP_I1_negfeedback__n6__Kx2y__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2284s
+[  902.9 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 0-2047 in 2284 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2052s
+[  905.6 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 2048-4095 in 2052 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2206s
+[  912.3 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 4096-6143 in 2206 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2112s
+[  923.3 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 8192-10239 in 2112 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2360s
+[  927.4 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 6144-8191 in 2360 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2480s
+[  929.5 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 10240-12287 in 2480 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2208s
+[  933.4 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 12288-14335 in 2209 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2204s
+[  934.8 min] COMP_I1_negfeedback n6 Kx2m x0.5 points 14336-16383 in 2204 s (8/8)
+  written COMP_I1_negfeedback__n6__Kx2m__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2087s
+[  936.8 min] COMP_I1_negfeedback n6 Kx2m x2 points 2048-4095 in 2087 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2416s
+[  939.6 min] COMP_I1_negfeedback n6 Kx2m x2 points 0-2047 in 2416 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2162s
+[  941.7 min] COMP_I1_negfeedback n6 Kx2m x2 points 6144-8191 in 2162 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2354s
+[  942.2 min] COMP_I1_negfeedback n6 Kx2m x2 points 4096-6143 in 2354 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2483s
+[  953.6 min] COMP_I1_negfeedback n6 Kx2m x2 points 8192-10239 in 2483 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2358s
+[  962.6 min] COMP_I1_negfeedback n6 Kx2m x2 points 10240-12287 in 2358 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2387s
+[  967.2 min] COMP_I1_negfeedback n6 Kx2m x2 points 12288-14335 in 2387 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2270s
+[  967.3 min] COMP_I1_negfeedback n6 Kx2m x2 points 14336-16383 in 2270 s (8/8)
+  written COMP_I1_negfeedback__n6__Kx2m__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2237s
+[  970.7 min] COMP_I1_negfeedback n6 nx12 x0.5 points 0-2047 in 2237 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2245s
+[  972.2 min] COMP_I1_negfeedback n6 nx12 x0.5 points 2048-4095 in 2245 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2227s
+[  973.9 min] COMP_I1_negfeedback n6 nx12 x0.5 points 4096-6143 in 2227 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2206s
+[  976.4 min] COMP_I1_negfeedback n6 nx12 x0.5 points 6144-8191 in 2206 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2258s
+[  979.8 min] COMP_I1_negfeedback n6 nx12 x0.5 points 10240-12287 in 2258 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2390s
+[  981.5 min] COMP_I1_negfeedback n6 nx12 x0.5 points 8192-10239 in 2390 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2301s
+[  992.0 min] COMP_I1_negfeedback n6 nx12 x0.5 points 12288-14335 in 2301 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2174s
+[  998.8 min] COMP_I1_negfeedback n6 nx12 x0.5 points 14336-16383 in 2174 s (8/8)
+  written COMP_I1_negfeedback__n6__nx12__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2129s
+[ 1006.2 min] COMP_I1_negfeedback n6 nx12 x2 points 4096-6143 in 2129 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2451s
+[ 1008.0 min] COMP_I1_negfeedback n6 nx12 x2 points 0-2047 in 2451 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2452s
+[ 1008.2 min] COMP_I1_negfeedback n6 nx12 x2 points 2048-4095 in 2452 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2405s
+[ 1012.3 min] COMP_I1_negfeedback n6 nx12 x2 points 6144-8191 in 2405 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2401s
+[ 1014.0 min] COMP_I1_negfeedback n6 nx12 x2 points 8192-10239 in 2401 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2371s
+[ 1015.9 min] COMP_I1_negfeedback n6 nx12 x2 points 10240-12287 in 2371 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2316s
+[ 1018.4 min] COMP_I1_negfeedback n6 nx12 x2 points 12288-14335 in 2316 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2600s
+[ 1024.8 min] COMP_I1_negfeedback n6 nx12 x2 points 14336-16383 in 2600 s (8/8)
+  written COMP_I1_negfeedback__n6__nx12__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2358s
+[ 1031.3 min] COMP_I1_negfeedback n6 Kmx x0.5 points 0-2047 in 2358 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2462s
+[ 1039.8 min] COMP_I1_negfeedback n6 Kmx x0.5 points 2048-4095 in 2462 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2199s
+[ 1044.8 min] COMP_I1_negfeedback n6 Kmx x0.5 points 8192-10239 in 2199 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2243s
+[ 1045.4 min] COMP_I1_negfeedback n6 Kmx x0.5 points 6144-8191 in 2243 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2428s
+[ 1046.6 min] COMP_I1_negfeedback n6 Kmx x0.5 points 4096-6143 in 2428 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2282s
+[ 1050.3 min] COMP_I1_negfeedback n6 Kmx x0.5 points 10240-12287 in 2282 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2235s
+[ 1053.2 min] COMP_I1_negfeedback n6 Kmx x0.5 points 14336-16383 in 2235 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2378s
+[ 1053.6 min] COMP_I1_negfeedback n6 Kmx x0.5 points 12288-14335 in 2378 s (8/8)
+  written COMP_I1_negfeedback__n6__Kmx__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2375s
+[ 1058.0 min] COMP_I1_negfeedback n6 Kmx x2 points 0-2047 in 2375 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2429s
+[ 1065.3 min] COMP_I1_negfeedback n6 Kmx x2 points 2048-4095 in 2429 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2080s
+[ 1066.0 min] COMP_I1_negfeedback n6 Kmx x2 points 4096-6143 in 2080 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2476s
+[ 1081.1 min] COMP_I1_negfeedback n6 Kmx x2 points 6144-8191 in 2477 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2088s
+[ 1081.4 min] COMP_I1_negfeedback n6 Kmx x2 points 12288-14335 in 2088 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2216s
+[ 1081.7 min] COMP_I1_negfeedback n6 Kmx x2 points 8192-10239 in 2216 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2418s
+[ 1085.7 min] COMP_I1_negfeedback n6 Kmx x2 points 10240-12287 in 2418 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2221s
+[ 1090.6 min] COMP_I1_negfeedback n6 nmx x0.5 points 2048-4095 in 2221 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2506s
+[ 1092.1 min] COMP_I1_negfeedback n6 Kmx x2 points 14336-16383 in 2506 s (8/8)
+  written COMP_I1_negfeedback__n6__Kmx__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2359s
+[ 1092.5 min] COMP_I1_negfeedback n6 nmx x0.5 points 0-2047 in 2359 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 1969s
+[ 1098.8 min] COMP_I1_negfeedback n6 nmx x0.5 points 8192-10239 in 1969 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2510s
+[ 1099.8 min] COMP_I1_negfeedback n6 nmx x0.5 points 4096-6143 in 2510 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2232s
+[ 1102.5 min] COMP_I1_negfeedback n6 nmx x0.5 points 6144-8191 in 2232 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2098s
+[ 1116.7 min] COMP_I1_negfeedback n6 nmx x0.5 points 14336-16383 in 2098 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2191s
+[ 1117.6 min] COMP_I1_negfeedback n6 nmx x0.5 points 10240-12287 in 2191 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2387s
+[ 1121.2 min] COMP_I1_negfeedback n6 nmx x0.5 points 12288-14335 in 2387 s (8/8)
+  written COMP_I1_negfeedback__n6__nmx__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2296s
+[ 1124.0 min] COMP_I1_negfeedback n6 nmx x2 points 0-2047 in 2296 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2437s
+[ 1131.2 min] COMP_I1_negfeedback n6 nmx x2 points 2048-4095 in 2437 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2430s
+[ 1132.6 min] COMP_I1_negfeedback n6 nmx x2 points 4096-6143 in 2430 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2598s
+[ 1135.8 min] COMP_I1_negfeedback n6 nmx x2 points 6144-8191 in 2598 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2311s
+[ 1138.4 min] COMP_I1_negfeedback n6 nmx x2 points 10240-12287 in 2311 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2287s
+[ 1140.7 min] COMP_I1_negfeedback n6 nmx x2 points 12288-14335 in 2287 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2571s
+[ 1141.6 min] COMP_I1_negfeedback n6 nmx x2 points 8192-10239 in 2571 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 1937s
+[ 1149.9 min] COMP_I1_negfeedback n6 kappa x0.5 points 0-2047 in 1937 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2212s
+[ 1153.6 min] COMP_I1_negfeedback n6 nmx x2 points 14336-16383 in 2212 s (8/8)
+  written COMP_I1_negfeedback__n6__nmx__x2.csv.gz
+    COMP_I1_negfeedback/n6 finished in 1964s
+[ 1153.9 min] COMP_I1_negfeedback n6 kappa x0.5 points 2048-4095 in 1964 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 1976s
+[ 1156.9 min] COMP_I1_negfeedback n6 kappa x0.5 points 4096-6143 in 1976 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 1976s
+[ 1164.2 min] COMP_I1_negfeedback n6 kappa x0.5 points 6144-8191 in 1976 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 1832s
+[ 1166.3 min] COMP_I1_negfeedback n6 kappa x0.5 points 10240-12287 in 1832 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2056s
+[ 1166.8 min] COMP_I1_negfeedback n6 kappa x0.5 points 8192-10239 in 2056 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2020s
+[ 1172.0 min] COMP_I1_negfeedback n6 kappa x0.5 points 12288-14335 in 2020 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 1920s
+[ 1172.7 min] COMP_I1_negfeedback n6 kappa x0.5 points 14336-16383 in 1920 s (8/8)
+  written COMP_I1_negfeedback__n6__kappa__x0.5.csv.gz
+    COMP_I1_negfeedback/n6 finished in 2686s
+[ 1186.4 min] COMP_I1_negfeedback n6 kappa x2 points 0-2047 in 2686 s (1/8)
+    COMP_I1_negfeedback/n6 finished in 2599s
+[ 1193.2 min] COMP_I1_negfeedback n6 kappa x2 points 2048-4095 in 2599 s (2/8)
+    COMP_I1_negfeedback/n6 finished in 2697s
+[ 1198.9 min] COMP_I1_negfeedback n6 kappa x2 points 6144-8191 in 2697 s (3/8)
+    COMP_I1_negfeedback/n6 finished in 2752s
+[ 1199.4 min] COMP_I1_negfeedback n6 kappa x2 points 4096-6143 in 2752 s (4/8)
+    COMP_I1_negfeedback/n6 finished in 2664s
+[ 1201.3 min] COMP_I1_negfeedback n6 kappa x2 points 8192-10239 in 2664 s (5/8)
+    COMP_I1_negfeedback/n6 finished in 2605s
+[ 1207.6 min] COMP_I1_negfeedback n6 kappa x2 points 10240-12287 in 2605 s (6/8)
+    COMP_I1_negfeedback/n6 finished in 2447s
+[ 1207.6 min] COMP_I1_negfeedback n6 kappa x2 points 14336-16383 in 2447 s (7/8)
+    COMP_I1_negfeedback/n6 finished in 2531s
+[ 1208.5 min] COMP_I1_negfeedback n6 kappa x2 points 12288-14335 in 2531 s (8/8)
+  written COMP_I1_negfeedback__n6__kappa__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 2611s
+[ 1215.5 min] I1_miRNA_FFL n6 gp x0.5 points 0-2047 in 2611 s (1/8)
+    I1_miRNA_FFL/n6 finished in 2761s
+[ 1218.7 min] I1_miRNA_FFL n6 gp x0.5 points 2048-4095 in 2761 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2576s
+[ 1229.3 min] I1_miRNA_FFL n6 gp x0.5 points 4096-6143 in 2576 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2483s
+[ 1234.6 min] I1_miRNA_FFL n6 gp x0.5 points 6144-8191 in 2483 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1808s
+[ 1238.6 min] I1_miRNA_FFL n6 gp x2 points 2048-4095 in 1808 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1964s
+[ 1240.3 min] I1_miRNA_FFL n6 gp x2 points 0-2047 in 1964 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2630s
+[ 1242.7 min] I1_miRNA_FFL n6 gp x0.5 points 8192-10239 in 2630 s (5/8)
+    I1_miRNA_FFL/n6 finished in 2608s
+[ 1242.9 min] I1_miRNA_FFL n6 gp x0.5 points 10240-12287 in 2608 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1719s
+[ 1244.2 min] I1_miRNA_FFL n6 gp x2 points 4096-6143 in 1719 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2653s
+[ 1245.5 min] I1_miRNA_FFL n6 gp x0.5 points 12288-14335 in 2653 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1910s
+[ 1250.5 min] I1_miRNA_FFL n6 gp x2 points 6144-8191 in 1910 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2801s
+[ 1254.3 min] I1_miRNA_FFL n6 gp x0.5 points 14336-16383 in 2801 s (8/8)
+  written I1_miRNA_FFL__n6__gp__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1905s
+[ 1261.1 min] I1_miRNA_FFL n6 gp x2 points 8192-10239 in 1905 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1634s
+[ 1261.8 min] I1_miRNA_FFL n6 gp x2 points 10240-12287 in 1634 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1555s
+[ 1266.3 min] I1_miRNA_FFL n6 gp x2 points 14336-16383 in 1555 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1765s
+[ 1268.0 min] I1_miRNA_FFL n6 gp x2 points 12288-14335 in 1765 s (8/8)
+  written I1_miRNA_FFL__n6__gp__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 2090s
+[ 1277.6 min] I1_miRNA_FFL n6 KS x0.5 points 0-2047 in 2090 s (1/8)
+    I1_miRNA_FFL/n6 finished in 2057s
+[ 1279.8 min] I1_miRNA_FFL n6 KS x0.5 points 6144-8191 in 2057 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2140s
+[ 1279.8 min] I1_miRNA_FFL n6 KS x0.5 points 4096-6143 in 2140 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2294s
+[ 1281.1 min] I1_miRNA_FFL n6 KS x0.5 points 2048-4095 in 2294 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2176s
+[ 1286.8 min] I1_miRNA_FFL n6 KS x0.5 points 8192-10239 in 2176 s (5/8)
+    I1_miRNA_FFL/n6 finished in 2251s
+[ 1291.8 min] I1_miRNA_FFL n6 KS x0.5 points 10240-12287 in 2251 s (6/8)
+    I1_miRNA_FFL/n6 finished in 2160s
+[ 1297.1 min] I1_miRNA_FFL n6 KS x0.5 points 12288-14335 in 2160 s (7/8)
+    I1_miRNA_FFL/n6 finished in 2168s
+[ 1297.9 min] I1_miRNA_FFL n6 KS x0.5 points 14336-16383 in 2168 s (8/8)
+  written I1_miRNA_FFL__n6__KS__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 2016s
+[ 1299.9 min] I1_miRNA_FFL n6 KS x2 points 0-2047 in 2016 s (1/8)
+    I1_miRNA_FFL/n6 finished in 2097s
+[ 1303.0 min] I1_miRNA_FFL n6 KS x2 points 2048-4095 in 2097 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1914s
+[ 1311.8 min] I1_miRNA_FFL n6 KS x2 points 8192-10239 in 1914 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2118s
+[ 1312.9 min] I1_miRNA_FFL n6 KS x2 points 4096-6143 in 2118 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2081s
+[ 1314.5 min] I1_miRNA_FFL n6 KS x2 points 6144-8191 in 2081 s (5/8)
+    I1_miRNA_FFL/n6 finished in 2130s
+[ 1316.6 min] I1_miRNA_FFL n6 KS x2 points 10240-12287 in 2130 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1927s
+[ 1318.9 min] I1_miRNA_FFL n6 KS x2 points 12288-14335 in 1928 s (7/8)
+    I1_miRNA_FFL/n6 finished in 2085s
+[ 1326.5 min] I1_miRNA_FFL n6 KS x2 points 14336-16383 in 2085 s (8/8)
+  written I1_miRNA_FFL__n6__KS__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 2004s
+[ 1331.3 min] I1_miRNA_FFL n6 Kxy x0.5 points 2048-4095 in 2004 s (1/8)
+    I1_miRNA_FFL/n6 finished in 2271s
+[ 1334.9 min] I1_miRNA_FFL n6 Kxy x0.5 points 0-2047 in 2271 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2188s
+[ 1336.3 min] I1_miRNA_FFL n6 Kxy x0.5 points 4096-6143 in 2188 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2202s
+[ 1339.7 min] I1_miRNA_FFL n6 Kxy x0.5 points 6144-8191 in 2202 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2120s
+[ 1348.2 min] I1_miRNA_FFL n6 Kxy x0.5 points 10240-12287 in 2120 s (5/8)
+    I1_miRNA_FFL/n6 finished in 2074s
+[ 1349.0 min] I1_miRNA_FFL n6 Kxy x0.5 points 12288-14335 in 2074 s (6/8)
+    I1_miRNA_FFL/n6 finished in 2265s
+[ 1349.5 min] I1_miRNA_FFL n6 Kxy x0.5 points 8192-10239 in 2265 s (7/8)
+    I1_miRNA_FFL/n6 finished in 2220s
+[ 1353.6 min] I1_miRNA_FFL n6 Kxy x0.5 points 14336-16383 in 2220 s (8/8)
+  written I1_miRNA_FFL__n6__Kxy__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 2205s
+[ 1355.6 min] I1_miRNA_FFL n6 Kxy x2 points 0-2047 in 2205 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1927s
+[ 1358.7 min] I1_miRNA_FFL n6 Kxy x2 points 2048-4095 in 1927 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2196s
+[ 1368.0 min] I1_miRNA_FFL n6 Kxy x2 points 4096-6143 in 2196 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2019s
+[ 1368.6 min] I1_miRNA_FFL n6 Kxy x2 points 6144-8191 in 2019 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2055s
+[ 1370.6 min] I1_miRNA_FFL n6 Kxy x2 points 8192-10239 in 2055 s (5/8)
+    I1_miRNA_FFL/n6 finished in 2095s
+[ 1374.6 min] I1_miRNA_FFL n6 Kxy x2 points 10240-12287 in 2095 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1946s
+[ 1381.5 min] I1_miRNA_FFL n6 Kxy x2 points 14336-16383 in 1946 s (7/8)
+    I1_miRNA_FFL/n6 finished in 2124s
+[ 1383.6 min] I1_miRNA_FFL n6 Kxy x2 points 12288-14335 in 2124 s (8/8)
+  written I1_miRNA_FFL__n6__Kxy__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 2067s
+[ 1384.0 min] I1_miRNA_FFL n6 Kx2y x0.5 points 0-2047 in 2067 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1865s
+[ 1386.7 min] I1_miRNA_FFL n6 Kx2y x0.5 points 4096-6143 in 1865 s (2/8)
+    I1_miRNA_FFL/n6 finished in 2016s
+[ 1387.2 min] I1_miRNA_FFL n6 Kx2y x0.5 points 2048-4095 in 2016 s (3/8)
+    I1_miRNA_FFL/n6 finished in 2316s
+[ 1397.3 min] I1_miRNA_FFL n6 Kx2y x0.5 points 6144-8191 in 2316 s (4/8)
+    I1_miRNA_FFL/n6 finished in 2049s
+[ 1402.1 min] I1_miRNA_FFL n6 Kx2y x0.5 points 8192-10239 in 2049 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1964s
+[ 1403.3 min] I1_miRNA_FFL n6 Kx2y x0.5 points 12288-14335 in 1964 s (6/8)
+    I1_miRNA_FFL/n6 finished in 2124s
+[ 1404.0 min] I1_miRNA_FFL n6 Kx2y x0.5 points 10240-12287 in 2124 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1902s
+[ 1406.3 min] I1_miRNA_FFL n6 Kx2y x0.5 points 14336-16383 in 1902 s (8/8)
+  written I1_miRNA_FFL__n6__Kx2y__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1647s
+[ 1408.9 min] I1_miRNA_FFL n6 Kx2y x2 points 0-2047 in 1647 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1667s
+[ 1411.7 min] I1_miRNA_FFL n6 Kx2y x2 points 4096-6143 in 1667 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1480s
+[ 1411.9 min] I1_miRNA_FFL n6 Kx2y x2 points 8192-10239 in 1480 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1726s
+[ 1412.4 min] I1_miRNA_FFL n6 Kx2y x2 points 2048-4095 in 1726 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1544s
+[ 1412.5 min] I1_miRNA_FFL n6 Kx2y x2 points 6144-8191 in 1544 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1320s
+[ 1419.3 min] I1_miRNA_FFL n6 Kx2y x2 points 10240-12287 in 1320 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1199s
+[ 1422.1 min] I1_miRNA_FFL n6 Kx2y x2 points 12288-14335 in 1199 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1174s
+[ 1422.9 min] I1_miRNA_FFL n6 Kx2y x2 points 14336-16383 in 1174 s (8/8)
+  written I1_miRNA_FFL__n6__Kx2y__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1169s
+[ 1423.5 min] I1_miRNA_FFL n6 Kmp x0.5 points 0-2047 in 1169 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1178s
+[ 1425.9 min] I1_miRNA_FFL n6 Kmp x0.5 points 2048-4095 in 1178 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1185s
+[ 1428.7 min] I1_miRNA_FFL n6 Kmp x0.5 points 4096-6143 in 1185 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1156s
+[ 1431.2 min] I1_miRNA_FFL n6 Kmp x0.5 points 8192-10239 in 1156 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1176s
+[ 1431.3 min] I1_miRNA_FFL n6 Kmp x0.5 points 6144-8191 in 1176 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1164s
+[ 1431.9 min] I1_miRNA_FFL n6 Kmp x0.5 points 12288-14335 in 1164 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1172s
+[ 1431.9 min] I1_miRNA_FFL n6 Kmp x0.5 points 10240-12287 in 1172 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1179s
+[ 1438.9 min] I1_miRNA_FFL n6 Kmp x0.5 points 14336-16383 in 1179 s (8/8)
+  written I1_miRNA_FFL__n6__Kmp__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1224s
+[ 1442.5 min] I1_miRNA_FFL n6 Kmp x2 points 0-2047 in 1224 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1226s
+[ 1443.3 min] I1_miRNA_FFL n6 Kmp x2 points 2048-4095 in 1226 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1238s
+[ 1444.1 min] I1_miRNA_FFL n6 Kmp x2 points 4096-6143 in 1238 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1214s
+[ 1446.2 min] I1_miRNA_FFL n6 Kmp x2 points 6144-8191 in 1214 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1223s
+[ 1449.1 min] I1_miRNA_FFL n6 Kmp x2 points 8192-10239 in 1223 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1221s
+[ 1451.5 min] I1_miRNA_FFL n6 Kmp x2 points 10240-12287 in 1221 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1219s
+[ 1451.7 min] I1_miRNA_FFL n6 Kmp x2 points 12288-14335 in 1219 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1207s
+[ 1452.0 min] I1_miRNA_FFL n6 Kmp x2 points 14336-16383 in 1207 s (8/8)
+  written I1_miRNA_FFL__n6__Kmp__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1214s
+[ 1452.1 min] I1_miRNA_FFL n6 lam_y x0.5 points 0-2047 in 1214 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1232s
+[ 1459.5 min] I1_miRNA_FFL n6 lam_y x0.5 points 2048-4095 in 1232 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1194s
+[ 1462.4 min] I1_miRNA_FFL n6 lam_y x0.5 points 4096-6143 in 1194 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1217s
+[ 1463.6 min] I1_miRNA_FFL n6 lam_y x0.5 points 6144-8191 in 1217 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1218s
+[ 1464.4 min] I1_miRNA_FFL n6 lam_y x0.5 points 8192-10239 in 1218 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1222s
+[ 1466.5 min] I1_miRNA_FFL n6 lam_y x0.5 points 10240-12287 in 1222 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1215s
+[ 1469.3 min] I1_miRNA_FFL n6 lam_y x0.5 points 12288-14335 in 1215 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1163s
+[ 1471.0 min] I1_miRNA_FFL n6 lam_y x2 points 0-2047 in 1163 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1206s
+[ 1471.6 min] I1_miRNA_FFL n6 lam_y x0.5 points 14336-16383 in 1206 s (8/8)
+  written I1_miRNA_FFL__n6__lam_y__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1180s
+[ 1471.6 min] I1_miRNA_FFL n6 lam_y x2 points 2048-4095 in 1180 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1198s
+[ 1472.1 min] I1_miRNA_FFL n6 lam_y x2 points 4096-6143 in 1198 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1171s
+[ 1479.0 min] I1_miRNA_FFL n6 lam_y x2 points 6144-8191 in 1171 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1187s
+[ 1482.2 min] I1_miRNA_FFL n6 lam_y x2 points 8192-10239 in 1187 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1178s
+[ 1483.2 min] I1_miRNA_FFL n6 lam_y x2 points 10240-12287 in 1178 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1174s
+[ 1483.9 min] I1_miRNA_FFL n6 lam_y x2 points 12288-14335 in 1174 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1179s
+[ 1486.2 min] I1_miRNA_FFL n6 lam_y x2 points 14336-16383 in 1179 s (8/8)
+  written I1_miRNA_FFL__n6__lam_y__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1198s
+[ 1489.3 min] I1_miRNA_FFL n6 theta x0.5 points 0-2047 in 1198 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1204s
+[ 1491.1 min] I1_miRNA_FFL n6 theta x0.5 points 2048-4095 in 1204 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1183s
+[ 1491.4 min] I1_miRNA_FFL n6 theta x0.5 points 6144-8191 in 1183 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1189s
+[ 1491.4 min] I1_miRNA_FFL n6 theta x0.5 points 4096-6143 in 1189 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1204s
+[ 1492.1 min] I1_miRNA_FFL n6 theta x0.5 points 8192-10239 in 1204 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1192s
+[ 1498.8 min] I1_miRNA_FFL n6 theta x0.5 points 10240-12287 in 1192 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1187s
+[ 1502.0 min] I1_miRNA_FFL n6 theta x0.5 points 12288-14335 in 1187 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1203s
+[ 1503.3 min] I1_miRNA_FFL n6 theta x0.5 points 14336-16383 in 1203 s (8/8)
+  written I1_miRNA_FFL__n6__theta__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1216s
+[ 1504.2 min] I1_miRNA_FFL n6 theta x2 points 0-2047 in 1216 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1216s
+[ 1506.5 min] I1_miRNA_FFL n6 theta x2 points 2048-4095 in 1216 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1206s
+[ 1509.4 min] I1_miRNA_FFL n6 theta x2 points 4096-6143 in 1206 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1202s
+[ 1511.1 min] I1_miRNA_FFL n6 theta x2 points 6144-8191 in 1202 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1210s
+[ 1511.5 min] I1_miRNA_FFL n6 theta x2 points 8192-10239 in 1210 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1216s
+[ 1511.7 min] I1_miRNA_FFL n6 theta x2 points 10240-12287 in 1216 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1205s
+[ 1512.2 min] I1_miRNA_FFL n6 theta x2 points 12288-14335 in 1205 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1219s
+[ 1519.2 min] I1_miRNA_FFL n6 theta x2 points 14336-16383 in 1219 s (8/8)
+  written I1_miRNA_FFL__n6__theta__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1226s
+[ 1522.4 min] I1_miRNA_FFL n6 Kc x0.5 points 0-2047 in 1226 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1213s
+[ 1523.5 min] I1_miRNA_FFL n6 Kc x0.5 points 2048-4095 in 1213 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1214s
+[ 1524.4 min] I1_miRNA_FFL n6 Kc x0.5 points 4096-6143 in 1214 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1208s
+[ 1526.6 min] I1_miRNA_FFL n6 Kc x0.5 points 6144-8191 in 1208 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1216s
+[ 1529.6 min] I1_miRNA_FFL n6 Kc x0.5 points 8192-10239 in 1216 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1207s
+[ 1531.3 min] I1_miRNA_FFL n6 Kc x0.5 points 10240-12287 in 1207 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1217s
+[ 1531.8 min] I1_miRNA_FFL n6 Kc x0.5 points 12288-14335 in 1217 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1224s
+[ 1532.1 min] I1_miRNA_FFL n6 Kc x0.5 points 14336-16383 in 1224 s (8/8)
+  written I1_miRNA_FFL__n6__Kc__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1207s
+[ 1532.3 min] I1_miRNA_FFL n6 Kc x2 points 0-2047 in 1207 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1200s
+[ 1539.2 min] I1_miRNA_FFL n6 Kc x2 points 2048-4095 in 1200 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1194s
+[ 1542.3 min] I1_miRNA_FFL n6 Kc x2 points 4096-6143 in 1194 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1192s
+[ 1543.3 min] I1_miRNA_FFL n6 Kc x2 points 6144-8191 in 1192 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1189s
+[ 1544.3 min] I1_miRNA_FFL n6 Kc x2 points 8192-10239 in 1189 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1192s
+[ 1546.5 min] I1_miRNA_FFL n6 Kc x2 points 10240-12287 in 1192 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1047s
+[ 1549.3 min] I1_miRNA_FFL n6 kappa x0.5 points 0-2047 in 1047 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1186s
+[ 1549.4 min] I1_miRNA_FFL n6 Kc x2 points 12288-14335 in 1186 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1054s
+[ 1549.7 min] I1_miRNA_FFL n6 kappa x0.5 points 2048-4095 in 1054 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1042s
+[ 1549.7 min] I1_miRNA_FFL n6 kappa x0.5 points 4096-6143 in 1042 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1198s
+[ 1551.2 min] I1_miRNA_FFL n6 Kc x2 points 14336-16383 in 1198 s (8/8)
+  written I1_miRNA_FFL__n6__Kc__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1050s
+[ 1556.7 min] I1_miRNA_FFL n6 kappa x0.5 points 6144-8191 in 1050 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1053s
+[ 1559.9 min] I1_miRNA_FFL n6 kappa x0.5 points 8192-10239 in 1053 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1052s
+[ 1560.9 min] I1_miRNA_FFL n6 kappa x0.5 points 10240-12287 in 1052 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1045s
+[ 1561.7 min] I1_miRNA_FFL n6 kappa x0.5 points 12288-14335 in 1045 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1047s
+[ 1563.9 min] I1_miRNA_FFL n6 kappa x0.5 points 14336-16383 in 1047 s (8/8)
+  written I1_miRNA_FFL__n6__kappa__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1396s
+[ 1573.0 min] I1_miRNA_FFL n6 kappa x2 points 6144-8191 in 1396 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1429s
+[ 1573.1 min] I1_miRNA_FFL n6 kappa x2 points 0-2047 in 1429 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1425s
+[ 1573.2 min] I1_miRNA_FFL n6 kappa x2 points 2048-4095 in 1425 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1439s
+[ 1573.6 min] I1_miRNA_FFL n6 kappa x2 points 4096-6143 in 1439 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1423s
+[ 1574.9 min] I1_miRNA_FFL n6 kappa x2 points 8192-10239 in 1423 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1425s
+[ 1580.4 min] I1_miRNA_FFL n6 kappa x2 points 10240-12287 in 1425 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1254s
+[ 1582.6 min] I1_miRNA_FFL n6 Kg12 x0.5 points 0-2047 in 1254 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1413s
+[ 1583.4 min] I1_miRNA_FFL n6 kappa x2 points 12288-14335 in 1413 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1245s
+[ 1584.7 min] I1_miRNA_FFL n6 Kg12 x0.5 points 2048-4095 in 1245 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1439s
+[ 1584.9 min] I1_miRNA_FFL n6 kappa x2 points 14336-16383 in 1439 s (8/8)
+  written I1_miRNA_FFL__n6__kappa__x2.csv.gz
+    I1_miRNA_FFL/n6 finished in 1241s
+[ 1593.8 min] I1_miRNA_FFL n6 Kg12 x0.5 points 6144-8191 in 1242 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1254s
+[ 1593.9 min] I1_miRNA_FFL n6 Kg12 x0.5 points 4096-6143 in 1254 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1244s
+[ 1593.9 min] I1_miRNA_FFL n6 Kg12 x0.5 points 8192-10239 in 1244 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1244s
+[ 1594.4 min] I1_miRNA_FFL n6 Kg12 x0.5 points 10240-12287 in 1244 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1244s
+[ 1595.7 min] I1_miRNA_FFL n6 Kg12 x0.5 points 12288-14335 in 1244 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1252s
+[ 1601.3 min] I1_miRNA_FFL n6 Kg12 x0.5 points 14336-16383 in 1252 s (8/8)
+  written I1_miRNA_FFL__n6__Kg12__x0.5.csv.gz
+    I1_miRNA_FFL/n6 finished in 1146s
+[ 1601.7 min] I1_miRNA_FFL n6 Kg12 x2 points 0-2047 in 1146 s (1/8)
+    I1_miRNA_FFL/n6 finished in 1133s
+[ 1602.3 min] I1_miRNA_FFL n6 Kg12 x2 points 2048-4095 in 1133 s (2/8)
+    I1_miRNA_FFL/n6 finished in 1146s
+[ 1603.8 min] I1_miRNA_FFL n6 Kg12 x2 points 4096-6143 in 1146 s (3/8)
+    I1_miRNA_FFL/n6 finished in 1152s
+[ 1604.1 min] I1_miRNA_FFL n6 Kg12 x2 points 6144-8191 in 1152 s (4/8)
+    I1_miRNA_FFL/n6 finished in 1156s
+[ 1613.0 min] I1_miRNA_FFL n6 Kg12 x2 points 8192-10239 in 1156 s (5/8)
+    I1_miRNA_FFL/n6 finished in 1152s
+[ 1613.1 min] I1_miRNA_FFL n6 Kg12 x2 points 12288-14335 in 1152 s (6/8)
+    I1_miRNA_FFL/n6 finished in 1154s
+[ 1613.1 min] I1_miRNA_FFL n6 Kg12 x2 points 10240-12287 in 1154 s (7/8)
+    I1_miRNA_FFL/n6 finished in 1150s
+[ 1613.5 min] I1_miRNA_FFL n6 Kg12 x2 points 14336-16383 in 1150 s (8/8)
+  written I1_miRNA_FFL__n6__Kg12__x2.csv.gz
+    COMP_C2_toggle/n5 finished in 1274s
+[ 1616.9 min] COMP_C2_toggle n5 gp x0.5 points 0-2047 in 1274 s (1/8)
+    COMP_C2_toggle/n5 finished in 1279s
+[ 1622.6 min] COMP_C2_toggle n5 gp x0.5 points 2048-4095 in 1279 s (2/8)
+    COMP_C2_toggle/n5 finished in 1276s
+[ 1622.9 min] COMP_C2_toggle n5 gp x0.5 points 4096-6143 in 1276 s (3/8)
+    COMP_C2_toggle/n5 finished in 1279s
+[ 1623.6 min] COMP_C2_toggle n5 gp x0.5 points 6144-8191 in 1279 s (4/8)
+    COMP_C2_toggle/n5 finished in 1289s
+[ 1625.3 min] COMP_C2_toggle n5 gp x0.5 points 8192-10239 in 1289 s (5/8)
+    COMP_C2_toggle/n5 finished in 1279s
+[ 1625.4 min] COMP_C2_toggle n5 gp x0.5 points 10240-12287 in 1279 s (6/8)
+    COMP_C2_toggle/n5 finished in 836s
+[ 1627.0 min] COMP_C2_toggle n5 gp x2 points 0-2047 in 836 s (1/8)
+    COMP_C2_toggle/n5 finished in 848s
+[ 1627.7 min] COMP_C2_toggle n5 gp x2 points 2048-4095 in 848 s (2/8)
+    COMP_C2_toggle/n5 finished in 815s
+[ 1630.5 min] COMP_C2_toggle n5 gp x2 points 4096-6143 in 815 s (3/8)
+    COMP_C2_toggle/n5 finished in 1276s
+[ 1634.3 min] COMP_C2_toggle n5 gp x0.5 points 12288-14335 in 1276 s (7/8)
+    COMP_C2_toggle/n5 finished in 1277s
+[ 1634.4 min] COMP_C2_toggle n5 gp x0.5 points 14336-16383 in 1277 s (8/8)
+  written COMP_C2_toggle__n5__gp__x0.5.csv.gz
+    COMP_C2_toggle/n5 finished in 832s
+[ 1636.4 min] COMP_C2_toggle n5 gp x2 points 6144-8191 in 832 s (4/8)
+    COMP_C2_toggle/n5 finished in 830s
+[ 1636.8 min] COMP_C2_toggle n5 gp x2 points 8192-10239 in 830 s (5/8)
+    COMP_C2_toggle/n5 finished in 839s
+[ 1637.6 min] COMP_C2_toggle n5 gp x2 points 10240-12287 in 839 s (6/8)
+    COMP_C2_toggle/n5 finished in 819s
+[ 1639.0 min] COMP_C2_toggle n5 gp x2 points 14336-16383 in 819 s (7/8)
+    COMP_C2_toggle/n5 finished in 848s
+[ 1639.4 min] COMP_C2_toggle n5 gp x2 points 12288-14335 in 848 s (8/8)
+  written COMP_C2_toggle__n5__gp__x2.csv.gz
+    COMP_C2_toggle/n5 finished in 1043s
+[ 1644.4 min] COMP_C2_toggle n5 Kxm x0.5 points 0-2047 in 1043 s (1/8)
+    COMP_C2_toggle/n5 finished in 1044s
+[ 1645.1 min] COMP_C2_toggle n5 Kxm x0.5 points 2048-4095 in 1044 s (2/8)
+    COMP_C2_toggle/n5 finished in 1055s
+[ 1648.1 min] COMP_C2_toggle n5 Kxm x0.5 points 4096-6143 in 1055 s (3/8)
+    COMP_C2_toggle/n5 finished in 1037s
+[ 1651.6 min] COMP_C2_toggle n5 Kxm x0.5 points 8192-10239 in 1037 s (4/8)
+    COMP_C2_toggle/n5 finished in 1056s
+[ 1651.9 min] COMP_C2_toggle n5 Kxm x0.5 points 6144-8191 in 1056 s (5/8)
+    COMP_C2_toggle/n5 finished in 1048s
+[ 1653.9 min] COMP_C2_toggle n5 Kxm x0.5 points 10240-12287 in 1048 s (6/8)
+    COMP_C2_toggle/n5 finished in 1057s
+[ 1654.4 min] COMP_C2_toggle n5 Kxm x0.5 points 12288-14335 in 1057 s (7/8)
+    COMP_C2_toggle/n5 finished in 1049s
+[ 1655.1 min] COMP_C2_toggle n5 Kxm x0.5 points 14336-16383 in 1049 s (8/8)
+  written COMP_C2_toggle__n5__Kxm__x0.5.csv.gz
+    COMP_C2_toggle/n5 finished in 983s
+[ 1655.4 min] COMP_C2_toggle n5 Kxm x2 points 0-2047 in 984 s (1/8)
+    COMP_C2_toggle/n5 finished in 1000s
+[ 1656.1 min] COMP_C2_toggle n5 Kxm x2 points 2048-4095 in 1000 s (2/8)
+    COMP_C2_toggle/n5 finished in 1009s
+[ 1661.2 min] COMP_C2_toggle n5 Kxm x2 points 4096-6143 in 1009 s (3/8)
+    COMP_C2_toggle/n5 finished in 997s
+[ 1661.7 min] COMP_C2_toggle n5 Kxm x2 points 6144-8191 in 997 s (4/8)
+    COMP_C2_toggle/n5 finished in 1002s
+[ 1664.8 min] COMP_C2_toggle n5 Kxm x2 points 8192-10239 in 1002 s (5/8)
+    COMP_C2_toggle/n5 finished in 1004s
+[ 1668.4 min] COMP_C2_toggle n5 Kxm x2 points 10240-12287 in 1004 s (6/8)
+    COMP_C2_toggle/n5 finished in 1007s
+[ 1668.7 min] COMP_C2_toggle n5 Kxm x2 points 12288-14335 in 1007 s (7/8)
+    COMP_C2_toggle/n5 finished in 1000s
+[ 1670.6 min] COMP_C2_toggle n5 Kxm x2 points 14336-16383 in 1000 s (8/8)
+  written COMP_C2_toggle__n5__Kxm__x2.csv.gz
+    COMP_C2_toggle/n5 finished in 1033s
+[ 1671.6 min] COMP_C2_toggle n5 Kxy x0.5 points 0-2047 in 1033 s (1/8)
+    COMP_C2_toggle/n5 finished in 1035s
+[ 1672.3 min] COMP_C2_toggle n5 Kxy x0.5 points 2048-4095 in 1035 s (2/8)
+    COMP_C2_toggle/n5 finished in 1044s
+[ 1672.8 min] COMP_C2_toggle n5 Kxy x0.5 points 4096-6143 in 1044 s (3/8)
+    COMP_C2_toggle/n5 finished in 1037s
+[ 1673.3 min] COMP_C2_toggle n5 Kxy x0.5 points 6144-8191 in 1037 s (4/8)
+    COMP_C2_toggle/n5 finished in 1045s
+[ 1678.6 min] COMP_C2_toggle n5 Kxy x0.5 points 8192-10239 in 1045 s (5/8)
+    COMP_C2_toggle/n5 finished in 1018s
+[ 1678.7 min] COMP_C2_toggle n5 Kxy x0.5 points 10240-12287 in 1018 s (6/8)
+    COMP_C2_toggle/n5 finished in 1047s
+[ 1682.2 min] COMP_C2_toggle n5 Kxy x0.5 points 12288-14335 in 1047 s (7/8)
+    COMP_C2_toggle/n5 finished in 1028s
+[ 1685.5 min] COMP_C2_toggle n5 Kxy x0.5 points 14336-16383 in 1028 s (8/8)
+  written COMP_C2_toggle__n5__Kxy__x0.5.csv.gz
+    COMP_C2_toggle/n5 finished in 1010s
+[ 1685.5 min] COMP_C2_toggle n5 Kxy x2 points 0-2047 in 1010 s (1/8)
+    COMP_C2_toggle/n5 finished in 1009s
+[ 1687.4 min] COMP_C2_toggle n5 Kxy x2 points 2048-4095 in 1009 s (2/8)
+    COMP_C2_toggle/n5 finished in 1007s
+[ 1688.4 min] COMP_C2_toggle n5 Kxy x2 points 4096-6143 in 1007 s (3/8)
+    COMP_C2_toggle/n5 finished in 1003s
+[ 1689.0 min] COMP_C2_toggle n5 Kxy x2 points 6144-8191 in 1003 s (4/8)
+    COMP_C2_toggle/n5 finished in 1012s
+[ 1689.7 min] COMP_C2_toggle n5 Kxy x2 points 8192-10239 in 1012 s (5/8)
+    COMP_C2_toggle/n5 finished in 1002s
+[ 1690.1 min] COMP_C2_toggle n5 Kxy x2 points 10240-12287 in 1002 s (6/8)
+    COMP_C2_toggle/n5 finished in 973s
+[ 1694.9 min] COMP_C2_toggle n5 Kxy x2 points 14336-16383 in 973 s (7/8)
+    COMP_C2_toggle/n5 finished in 1005s
+[ 1695.4 min] COMP_C2_toggle n5 Kxy x2 points 12288-14335 in 1005 s (8/8)
+  written COMP_C2_toggle__n5__Kxy__x2.csv.gz
+    COMP_C2_toggle/n5 finished in 997s
+[ 1698.8 min] COMP_C2_toggle n5 Kmx x0.5 points 0-2047 in 997 s (1/8)
+    COMP_C2_toggle/n5 finished in 993s
+[ 1702.0 min] COMP_C2_toggle n5 Kmx x0.5 points 2048-4095 in 993 s (2/8)
+    COMP_C2_toggle/n5 finished in 994s
+[ 1702.1 min] COMP_C2_toggle n5 Kmx x0.5 points 4096-6143 in 994 s (3/8)
+    COMP_C2_toggle/n5 finished in 990s
+[ 1703.9 min] COMP_C2_toggle n5 Kmx x0.5 points 6144-8191 in 990 s (4/8)
+    COMP_C2_toggle/n5 finished in 999s
+[ 1705.0 min] COMP_C2_toggle n5 Kmx x0.5 points 8192-10239 in 999 s (5/8)
+    COMP_C2_toggle/n5 finished in 988s
+[ 1705.5 min] COMP_C2_toggle n5 Kmx x0.5 points 10240-12287 in 988 s (6/8)
+    COMP_C2_toggle/n5 finished in 995s
+[ 1706.3 min] COMP_C2_toggle n5 Kmx x0.5 points 12288-14335 in 995 s (7/8)
+    COMP_C2_toggle/n5 finished in 980s
+[ 1706.4 min] COMP_C2_toggle n5 Kmx x0.5 points 14336-16383 in 980 s (8/8)
+  written COMP_C2_toggle__n5__Kmx__x0.5.csv.gz
+    COMP_C2_toggle/n5 finished in 1065s
+[ 1712.6 min] COMP_C2_toggle n5 Kmx x2 points 0-2047 in 1065 s (1/8)
+    COMP_C2_toggle/n5 finished in 1061s
+[ 1713.1 min] COMP_C2_toggle n5 Kmx x2 points 2048-4095 in 1061 s (2/8)
+    COMP_C2_toggle/n5 finished in 1060s
+[ 1716.5 min] COMP_C2_toggle n5 Kmx x2 points 4096-6143 in 1060 s (3/8)
+    COMP_C2_toggle/n5 finished in 1042s
+[ 1719.4 min] COMP_C2_toggle n5 Kmx x2 points 6144-8191 in 1042 s (4/8)
+    COMP_C2_toggle/n5 finished in 1055s
+[ 1719.7 min] COMP_C2_toggle n5 Kmx x2 points 8192-10239 in 1055 s (5/8)
+    COMP_C2_toggle/n5 finished in 911s
+[ 1721.6 min] COMP_C2_toggle n5 kappa x0.5 points 2048-4095 in 911 s (1/8)
+    COMP_C2_toggle/n5 finished in 918s
+[ 1721.6 min] COMP_C2_toggle n5 kappa x0.5 points 0-2047 in 918 s (2/8)
+    COMP_C2_toggle/n5 finished in 1063s
+[ 1721.6 min] COMP_C2_toggle n5 Kmx x2 points 10240-12287 in 1063 s (6/8)
+    COMP_C2_toggle/n5 finished in 1065s
+[ 1722.8 min] COMP_C2_toggle n5 Kmx x2 points 12288-14335 in 1065 s (7/8)
+    COMP_C2_toggle/n5 finished in 1068s
+[ 1723.3 min] COMP_C2_toggle n5 Kmx x2 points 14336-16383 in 1068 s (8/8)
+  written COMP_C2_toggle__n5__Kmx__x2.csv.gz
+    COMP_C2_toggle/n5 finished in 917s
+[ 1727.9 min] COMP_C2_toggle n5 kappa x0.5 points 4096-6143 in 917 s (3/8)
+    COMP_C2_toggle/n5 finished in 912s
+[ 1728.3 min] COMP_C2_toggle n5 kappa x0.5 points 6144-8191 in 912 s (4/8)
+    COMP_C2_toggle/n5 finished in 915s
+[ 1731.7 min] COMP_C2_toggle n5 kappa x0.5 points 8192-10239 in 915 s (5/8)
+    COMP_C2_toggle/n5 finished in 916s
+[ 1734.7 min] COMP_C2_toggle n5 kappa x0.5 points 10240-12287 in 916 s (6/8)
+    COMP_C2_toggle/n5 finished in 912s
+[ 1734.9 min] COMP_C2_toggle n5 kappa x0.5 points 12288-14335 in 912 s (7/8)
+    COMP_C2_toggle/n5 finished in 912s
+[ 1736.8 min] COMP_C2_toggle n5 kappa x0.5 points 14336-16383 in 912 s (8/8)
+  written COMP_C2_toggle__n5__kappa__x0.5.csv.gz
+    COMP_C2_toggle/n5 finished in 1188s
+[ 1741.4 min] COMP_C2_toggle n5 kappa x2 points 2048-4095 in 1188 s (1/8)
+    COMP_C2_toggle/n5 finished in 1197s
+[ 1741.5 min] COMP_C2_toggle n5 kappa x2 points 0-2047 in 1197 s (2/8)
+    COMP_C2_toggle/n5 finished in 1194s
+[ 1742.7 min] COMP_C2_toggle n5 kappa x2 points 4096-6143 in 1194 s (3/8)
+    COMP_C2_toggle/n5 finished in 1185s
+[ 1743.0 min] COMP_C2_toggle n5 kappa x2 points 6144-8191 in 1185 s (4/8)
+    COMP_C2_toggle/n5 finished in 1187s
+[ 1747.7 min] COMP_C2_toggle n5 kappa x2 points 8192-10239 in 1187 s (5/8)
+    COMP_C2_toggle/n5 finished in 1188s
+[ 1748.1 min] COMP_C2_toggle n5 kappa x2 points 10240-12287 in 1188 s (6/8)
+    COMP_C2_toggle/n5 finished in 1193s
+[ 1751.6 min] COMP_C2_toggle n5 kappa x2 points 12288-14335 in 1193 s (7/8)
+    COMP_C2_toggle/n5 finished in 1192s
+[ 1754.5 min] COMP_C2_toggle n5 kappa x2 points 14336-16383 in 1192 s (8/8)
+  written COMP_C2_toggle__n5__kappa__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1311s
+[ 1756.7 min] COMP_I1_negfeedback n5 gp x0.5 points 0-2047 in 1311 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1294s
+[ 1758.3 min] COMP_I1_negfeedback n5 gp x0.5 points 2048-4095 in 1294 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1290s
+[ 1762.9 min] COMP_I1_negfeedback n5 gp x0.5 points 4096-6143 in 1290 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1298s
+[ 1763.1 min] COMP_I1_negfeedback n5 gp x0.5 points 6144-8191 in 1298 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1290s
+[ 1764.2 min] COMP_I1_negfeedback n5 gp x0.5 points 8192-10239 in 1290 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1282s
+[ 1764.4 min] COMP_I1_negfeedback n5 gp x0.5 points 10240-12287 in 1282 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 852s
+[ 1765.8 min] COMP_I1_negfeedback n5 gp x2 points 0-2047 in 852 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 853s
+[ 1768.8 min] COMP_I1_negfeedback n5 gp x2 points 2048-4095 in 853 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1294s
+[ 1769.2 min] COMP_I1_negfeedback n5 gp x0.5 points 12288-14335 in 1294 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1312s
+[ 1769.9 min] COMP_I1_negfeedback n5 gp x0.5 points 14336-16383 in 1312 s (8/8)
+  written COMP_I1_negfeedback__n5__gp__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 852s
+[ 1770.9 min] COMP_I1_negfeedback n5 gp x2 points 4096-6143 in 852 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 829s
+[ 1772.1 min] COMP_I1_negfeedback n5 gp x2 points 6144-8191 in 829 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 854s
+[ 1777.1 min] COMP_I1_negfeedback n5 gp x2 points 8192-10239 in 854 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 850s
+[ 1777.3 min] COMP_I1_negfeedback n5 gp x2 points 10240-12287 in 850 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 842s
+[ 1778.2 min] COMP_I1_negfeedback n5 gp x2 points 12288-14335 in 842 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 849s
+[ 1778.6 min] COMP_I1_negfeedback n5 gp x2 points 14336-16383 in 849 s (8/8)
+  written COMP_I1_negfeedback__n5__gp__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1053s
+[ 1783.4 min] COMP_I1_negfeedback n5 KS x0.5 points 0-2047 in 1053 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1050s
+[ 1786.3 min] COMP_I1_negfeedback n5 KS x0.5 points 2048-4095 in 1050 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1059s
+[ 1786.9 min] COMP_I1_negfeedback n5 KS x0.5 points 4096-6143 in 1059 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1055s
+[ 1787.5 min] COMP_I1_negfeedback n5 KS x0.5 points 6144-8191 in 1055 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1052s
+[ 1788.5 min] COMP_I1_negfeedback n5 KS x0.5 points 8192-10239 in 1052 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1049s
+[ 1789.6 min] COMP_I1_negfeedback n5 KS x0.5 points 10240-12287 in 1049 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1049s
+[ 1794.6 min] COMP_I1_negfeedback n5 KS x0.5 points 12288-14335 in 1049 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1050s
+[ 1794.8 min] COMP_I1_negfeedback n5 KS x0.5 points 14336-16383 in 1050 s (8/8)
+  written COMP_I1_negfeedback__n5__KS__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1029s
+[ 1795.4 min] COMP_I1_negfeedback n5 KS x2 points 0-2047 in 1029 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1014s
+[ 1795.4 min] COMP_I1_negfeedback n5 KS x2 points 2048-4095 in 1014 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1020s
+[ 1800.4 min] COMP_I1_negfeedback n5 KS x2 points 4096-6143 in 1020 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1014s
+[ 1803.2 min] COMP_I1_negfeedback n5 KS x2 points 6144-8191 in 1014 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1032s
+[ 1804.1 min] COMP_I1_negfeedback n5 KS x2 points 8192-10239 in 1032 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1016s
+[ 1804.5 min] COMP_I1_negfeedback n5 KS x2 points 10240-12287 in 1016 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1019s
+[ 1805.5 min] COMP_I1_negfeedback n5 KS x2 points 12288-14335 in 1019 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1022s
+[ 1806.7 min] COMP_I1_negfeedback n5 KS x2 points 14336-16383 in 1022 s (8/8)
+  written COMP_I1_negfeedback__n5__KS__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1006s
+[ 1811.4 min] COMP_I1_negfeedback n5 Kxm x0.5 points 0-2047 in 1006 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 998s
+[ 1811.4 min] COMP_I1_negfeedback n5 Kxm x0.5 points 2048-4095 in 998 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1005s
+[ 1812.2 min] COMP_I1_negfeedback n5 Kxm x0.5 points 6144-8191 in 1005 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1017s
+[ 1812.3 min] COMP_I1_negfeedback n5 Kxm x0.5 points 4096-6143 in 1017 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1012s
+[ 1817.2 min] COMP_I1_negfeedback n5 Kxm x0.5 points 8192-10239 in 1012 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1005s
+[ 1819.9 min] COMP_I1_negfeedback n5 Kxm x0.5 points 10240-12287 in 1005 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 995s
+[ 1820.7 min] COMP_I1_negfeedback n5 Kxm x0.5 points 12288-14335 in 995 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1004s
+[ 1821.2 min] COMP_I1_negfeedback n5 Kxm x0.5 points 14336-16383 in 1004 s (8/8)
+  written COMP_I1_negfeedback__n5__Kxm__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1074s
+[ 1823.4 min] COMP_I1_negfeedback n5 Kxm x2 points 0-2047 in 1074 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1062s
+[ 1824.4 min] COMP_I1_negfeedback n5 Kxm x2 points 2048-4095 in 1062 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1057s
+[ 1829.0 min] COMP_I1_negfeedback n5 Kxm x2 points 4096-6143 in 1058 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1068s
+[ 1829.2 min] COMP_I1_negfeedback n5 Kxm x2 points 6144-8191 in 1068 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1064s
+[ 1829.9 min] COMP_I1_negfeedback n5 Kxm x2 points 8192-10239 in 1064 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1075s
+[ 1830.2 min] COMP_I1_negfeedback n5 Kxm x2 points 10240-12287 in 1075 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1056s
+[ 1834.8 min] COMP_I1_negfeedback n5 Kxm x2 points 12288-14335 in 1056 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1071s
+[ 1837.8 min] COMP_I1_negfeedback n5 Kxm x2 points 14336-16383 in 1071 s (8/8)
+  written COMP_I1_negfeedback__n5__Kxm__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1079s
+[ 1838.7 min] COMP_I1_negfeedback n5 Kxy x0.5 points 0-2047 in 1079 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1059s
+[ 1838.8 min] COMP_I1_negfeedback n5 Kxy x0.5 points 2048-4095 in 1059 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1076s
+[ 1841.3 min] COMP_I1_negfeedback n5 Kxy x0.5 points 4096-6143 in 1076 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1075s
+[ 1842.3 min] COMP_I1_negfeedback n5 Kxy x0.5 points 6144-8191 in 1075 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1061s
+[ 1846.9 min] COMP_I1_negfeedback n5 Kxy x0.5 points 10240-12287 in 1061 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1084s
+[ 1847.1 min] COMP_I1_negfeedback n5 Kxy x0.5 points 8192-10239 in 1084 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1063s
+[ 1847.6 min] COMP_I1_negfeedback n5 Kxy x0.5 points 12288-14335 in 1063 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1072s
+[ 1848.1 min] COMP_I1_negfeedback n5 Kxy x0.5 points 14336-16383 in 1072 s (8/8)
+  written COMP_I1_negfeedback__n5__Kxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 962s
+[ 1850.9 min] COMP_I1_negfeedback n5 Kxy x2 points 0-2047 in 962 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 978s
+[ 1854.1 min] COMP_I1_negfeedback n5 Kxy x2 points 2048-4095 in 978 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 975s
+[ 1854.9 min] COMP_I1_negfeedback n5 Kxy x2 points 4096-6143 in 975 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 983s
+[ 1855.2 min] COMP_I1_negfeedback n5 Kxy x2 points 6144-8191 in 983 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 986s
+[ 1857.7 min] COMP_I1_negfeedback n5 Kxy x2 points 8192-10239 in 986 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 986s
+[ 1858.7 min] COMP_I1_negfeedback n5 Kxy x2 points 10240-12287 in 986 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 993s
+[ 1863.5 min] COMP_I1_negfeedback n5 Kxy x2 points 12288-14335 in 993 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 992s
+[ 1863.6 min] COMP_I1_negfeedback n5 Kxy x2 points 14336-16383 in 992 s (8/8)
+  written COMP_I1_negfeedback__n5__Kxy__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1064s
+[ 1865.4 min] COMP_I1_negfeedback n5 nxy x0.5 points 0-2047 in 1064 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1070s
+[ 1865.9 min] COMP_I1_negfeedback n5 nxy x0.5 points 2048-4095 in 1070 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1061s
+[ 1868.6 min] COMP_I1_negfeedback n5 nxy x0.5 points 4096-6143 in 1061 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1054s
+[ 1871.6 min] COMP_I1_negfeedback n5 nxy x0.5 points 6144-8191 in 1054 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1067s
+[ 1872.7 min] COMP_I1_negfeedback n5 nxy x0.5 points 8192-10239 in 1067 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1067s
+[ 1873.0 min] COMP_I1_negfeedback n5 nxy x0.5 points 10240-12287 in 1067 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1062s
+[ 1875.4 min] COMP_I1_negfeedback n5 nxy x0.5 points 12288-14335 in 1062 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1063s
+[ 1876.4 min] COMP_I1_negfeedback n5 nxy x0.5 points 14336-16383 in 1063 s (8/8)
+  written COMP_I1_negfeedback__n5__nxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1001s
+[ 1880.2 min] COMP_I1_negfeedback n5 nxy x2 points 0-2047 in 1001 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1003s
+[ 1880.4 min] COMP_I1_negfeedback n5 nxy x2 points 2048-4095 in 1003 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1011s
+[ 1882.2 min] COMP_I1_negfeedback n5 nxy x2 points 4096-6143 in 1011 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1005s
+[ 1882.7 min] COMP_I1_negfeedback n5 nxy x2 points 6144-8191 in 1005 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1009s
+[ 1885.4 min] COMP_I1_negfeedback n5 nxy x2 points 8192-10239 in 1009 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1001s
+[ 1888.3 min] COMP_I1_negfeedback n5 nxy x2 points 10240-12287 in 1001 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1005s
+[ 1889.4 min] COMP_I1_negfeedback n5 nxy x2 points 12288-14335 in 1005 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1006s
+[ 1889.8 min] COMP_I1_negfeedback n5 nxy x2 points 14336-16383 in 1006 s (8/8)
+  written COMP_I1_negfeedback__n5__nxy__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1019s
+[ 1892.4 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 0-2047 in 1019 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1019s
+[ 1893.4 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 2048-4095 in 1019 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1007s
+[ 1896.9 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 4096-6143 in 1007 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1021s
+[ 1897.4 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 6144-8191 in 1021 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1020s
+[ 1899.2 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 8192-10239 in 1020 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1006s
+[ 1899.4 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 10240-12287 in 1006 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1016s
+[ 1902.3 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 12288-14335 in 1016 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 998s
+[ 1905.0 min] COMP_I1_negfeedback n5 rho_g2 x0.5 points 14336-16383 in 998 s (8/8)
+  written COMP_I1_negfeedback__n5__rho_g2__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1049s
+[ 1906.9 min] COMP_I1_negfeedback n5 rho_g2 x2 points 0-2047 in 1049 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1045s
+[ 1907.2 min] COMP_I1_negfeedback n5 rho_g2 x2 points 2048-4095 in 1045 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1044s
+[ 1909.8 min] COMP_I1_negfeedback n5 rho_g2 x2 points 4096-6143 in 1044 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1041s
+[ 1910.8 min] COMP_I1_negfeedback n5 rho_g2 x2 points 6144-8191 in 1041 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1039s
+[ 1914.3 min] COMP_I1_negfeedback n5 rho_g2 x2 points 8192-10239 in 1040 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1043s
+[ 1914.7 min] COMP_I1_negfeedback n5 rho_g2 x2 points 10240-12287 in 1043 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 1024s
+[ 1916.3 min] COMP_I1_negfeedback n5 rho_g2 x2 points 12288-14335 in 1024 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 1049s
+[ 1916.9 min] COMP_I1_negfeedback n5 rho_g2 x2 points 14336-16383 in 1049 s (8/8)
+  written COMP_I1_negfeedback__n5__rho_g2__x2.csv.gz
+    COMP_I1_negfeedback/n5 finished in 900s
+[ 1917.3 min] COMP_I1_negfeedback n5 kappa x0.5 points 0-2047 in 900 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 907s
+[ 1920.1 min] COMP_I1_negfeedback n5 kappa x0.5 points 2048-4095 in 907 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 894s
+[ 1921.8 min] COMP_I1_negfeedback n5 kappa x0.5 points 4096-6143 in 894 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 903s
+[ 1922.2 min] COMP_I1_negfeedback n5 kappa x0.5 points 6144-8191 in 903 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 902s
+[ 1924.8 min] COMP_I1_negfeedback n5 kappa x0.5 points 8192-10239 in 902 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 880s
+[ 1925.4 min] COMP_I1_negfeedback n5 kappa x0.5 points 10240-12287 in 880 s (6/8)
+    COMP_I1_negfeedback/n5 finished in 894s
+[ 1929.2 min] COMP_I1_negfeedback n5 kappa x0.5 points 12288-14335 in 894 s (7/8)
+    COMP_I1_negfeedback/n5 finished in 906s
+[ 1929.9 min] COMP_I1_negfeedback n5 kappa x0.5 points 14336-16383 in 906 s (8/8)
+  written COMP_I1_negfeedback__n5__kappa__x0.5.csv.gz
+    COMP_I1_negfeedback/n5 finished in 1216s
+[ 1936.5 min] COMP_I1_negfeedback n5 kappa x2 points 0-2047 in 1216 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1218s
+[ 1937.2 min] COMP_I1_negfeedback n5 kappa x2 points 2048-4095 in 1218 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1224s
+[ 1937.7 min] COMP_I1_negfeedback n5 kappa x2 points 4096-6143 in 1224 s (3/8)
+    COMP_I1_negfeedback/n5 finished in 1221s
+[ 1940.4 min] COMP_I1_negfeedback n5 kappa x2 points 6144-8191 in 1221 s (4/8)
+    COMP_I1_negfeedback/n5 finished in 1203s
+[ 1941.9 min] COMP_I1_negfeedback n5 kappa x2 points 8192-10239 in 1203 s (5/8)
+    COMP_I1_negfeedback/n5 finished in 1210s
+[ 1942.4 min] COMP_I1_negfeedback n5 kappa x2 points 10240-12287 in 1210 s (6/8)
+    I1_miRNA_FFL/n5 finished in 959s
+[ 1945.1 min] I1_miRNA_FFL n5 gx x0.5 points 0-2047 in 959 s (1/8)
+    COMP_I1_negfeedback/n5 finished in 1218s
+[ 1945.2 min] COMP_I1_negfeedback n5 kappa x2 points 12288-14335 in 1218 s (7/8)
+    I1_miRNA_FFL/n5 finished in 952s
+[ 1945.7 min] I1_miRNA_FFL n5 gx x0.5 points 2048-4095 in 952 s (2/8)
+    COMP_I1_negfeedback/n5 finished in 1222s
+[ 1945.8 min] COMP_I1_negfeedback n5 kappa x2 points 14336-16383 in 1222 s (8/8)
+  written COMP_I1_negfeedback__n5__kappa__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 951s
+[ 1952.4 min] I1_miRNA_FFL n5 gx x0.5 points 4096-6143 in 951 s (3/8)
+    I1_miRNA_FFL/n5 finished in 953s
+[ 1953.1 min] I1_miRNA_FFL n5 gx x0.5 points 6144-8191 in 953 s (4/8)
+    I1_miRNA_FFL/n5 finished in 956s
+[ 1953.6 min] I1_miRNA_FFL n5 gx x0.5 points 8192-10239 in 956 s (5/8)
+    I1_miRNA_FFL/n5 finished in 939s
+[ 1956.1 min] I1_miRNA_FFL n5 gx x0.5 points 10240-12287 in 939 s (6/8)
+    I1_miRNA_FFL/n5 finished in 946s
+[ 1957.6 min] I1_miRNA_FFL n5 gx x0.5 points 12288-14335 in 946 s (7/8)
+    I1_miRNA_FFL/n5 finished in 957s
+[ 1958.3 min] I1_miRNA_FFL n5 gx x0.5 points 14336-16383 in 957 s (8/8)
+  written I1_miRNA_FFL__n5__gx__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 944s
+[ 1960.9 min] I1_miRNA_FFL n5 gx x2 points 0-2047 in 944 s (1/8)
+    I1_miRNA_FFL/n5 finished in 951s
+[ 1961.0 min] I1_miRNA_FFL n5 gx x2 points 2048-4095 in 951 s (2/8)
+    I1_miRNA_FFL/n5 finished in 947s
+[ 1961.6 min] I1_miRNA_FFL n5 gx x2 points 6144-8191 in 947 s (3/8)
+    I1_miRNA_FFL/n5 finished in 961s
+[ 1961.7 min] I1_miRNA_FFL n5 gx x2 points 4096-6143 in 961 s (4/8)
+    I1_miRNA_FFL/n5 finished in 934s
+[ 1968.0 min] I1_miRNA_FFL n5 gx x2 points 8192-10239 in 934 s (5/8)
+    I1_miRNA_FFL/n5 finished in 944s
+[ 1968.8 min] I1_miRNA_FFL n5 gx x2 points 10240-12287 in 944 s (6/8)
+    I1_miRNA_FFL/n5 finished in 928s
+[ 1969.1 min] I1_miRNA_FFL n5 gx x2 points 12288-14335 in 928 s (7/8)
+    I1_miRNA_FFL/n5 finished in 947s
+[ 1971.9 min] I1_miRNA_FFL n5 gx x2 points 14336-16383 in 947 s (8/8)
+  written I1_miRNA_FFL__n5__gx__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 1182s
+[ 1977.3 min] I1_miRNA_FFL n5 gp x0.5 points 0-2047 in 1182 s (1/8)
+    I1_miRNA_FFL/n5 finished in 1201s
+[ 1978.4 min] I1_miRNA_FFL n5 gp x0.5 points 2048-4095 in 1201 s (2/8)
+    I1_miRNA_FFL/n5 finished in 1178s
+[ 1980.6 min] I1_miRNA_FFL n5 gp x0.5 points 6144-8191 in 1178 s (3/8)
+    I1_miRNA_FFL/n5 finished in 1201s
+[ 1980.9 min] I1_miRNA_FFL n5 gp x0.5 points 4096-6143 in 1201 s (4/8)
+    I1_miRNA_FFL/n5 finished in 1172s
+[ 1981.3 min] I1_miRNA_FFL n5 gp x0.5 points 10240-12287 in 1172 s (5/8)
+    I1_miRNA_FFL/n5 finished in 1200s
+[ 1981.6 min] I1_miRNA_FFL n5 gp x0.5 points 8192-10239 in 1200 s (6/8)
+    I1_miRNA_FFL/n5 finished in 767s
+[ 1981.9 min] I1_miRNA_FFL n5 gp x2 points 0-2047 in 767 s (1/8)
+    I1_miRNA_FFL/n5 finished in 767s
+[ 1984.7 min] I1_miRNA_FFL n5 gp x2 points 2048-4095 in 767 s (2/8)
+    I1_miRNA_FFL/n5 finished in 1184s
+[ 1987.7 min] I1_miRNA_FFL n5 gp x0.5 points 12288-14335 in 1184 s (7/8)
+    I1_miRNA_FFL/n5 finished in 1184s
+[ 1988.6 min] I1_miRNA_FFL n5 gp x0.5 points 14336-16383 in 1184 s (8/8)
+  written I1_miRNA_FFL__n5__gp__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 765s
+[ 1990.1 min] I1_miRNA_FFL n5 gp x2 points 4096-6143 in 765 s (3/8)
+    I1_miRNA_FFL/n5 finished in 771s
+[ 1991.2 min] I1_miRNA_FFL n5 gp x2 points 6144-8191 in 771 s (4/8)
+    I1_miRNA_FFL/n5 finished in 772s
+[ 1993.5 min] I1_miRNA_FFL n5 gp x2 points 8192-10239 in 772 s (5/8)
+    I1_miRNA_FFL/n5 finished in 761s
+[ 1993.6 min] I1_miRNA_FFL n5 gp x2 points 10240-12287 in 761 s (6/8)
+    I1_miRNA_FFL/n5 finished in 753s
+[ 1993.8 min] I1_miRNA_FFL n5 gp x2 points 12288-14335 in 753 s (7/8)
+    I1_miRNA_FFL/n5 finished in 787s
+[ 1994.7 min] I1_miRNA_FFL n5 gp x2 points 14336-16383 in 787 s (8/8)
+  written I1_miRNA_FFL__n5__gp__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 958s
+[ 1997.9 min] I1_miRNA_FFL n5 KS x0.5 points 0-2047 in 958 s (1/8)
+    I1_miRNA_FFL/n5 finished in 953s
+[ 2000.5 min] I1_miRNA_FFL n5 KS x0.5 points 2048-4095 in 953 s (2/8)
+    I1_miRNA_FFL/n5 finished in 956s
+[ 2003.6 min] I1_miRNA_FFL n5 KS x0.5 points 4096-6143 in 956 s (3/8)
+    I1_miRNA_FFL/n5 finished in 959s
+[ 2004.6 min] I1_miRNA_FFL n5 KS x0.5 points 6144-8191 in 959 s (4/8)
+    I1_miRNA_FFL/n5 finished in 960s
+[ 2006.1 min] I1_miRNA_FFL n5 KS x0.5 points 8192-10239 in 960 s (5/8)
+    I1_miRNA_FFL/n5 finished in 961s
+[ 2007.2 min] I1_miRNA_FFL n5 KS x0.5 points 10240-12287 in 961 s (6/8)
+    I1_miRNA_FFL/n5 finished in 936s
+[ 2009.4 min] I1_miRNA_FFL n5 KS x2 points 0-2047 in 936 s (1/8)
+    I1_miRNA_FFL/n5 finished in 960s
+[ 2009.5 min] I1_miRNA_FFL n5 KS x0.5 points 12288-14335 in 960 s (7/8)
+    I1_miRNA_FFL/n5 finished in 966s
+[ 2009.7 min] I1_miRNA_FFL n5 KS x0.5 points 14336-16383 in 966 s (8/8)
+  written I1_miRNA_FFL__n5__KS__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 922s
+[ 2010.1 min] I1_miRNA_FFL n5 KS x2 points 2048-4095 in 922 s (2/8)
+    I1_miRNA_FFL/n5 finished in 934s
+[ 2013.4 min] I1_miRNA_FFL n5 KS x2 points 4096-6143 in 934 s (3/8)
+    I1_miRNA_FFL/n5 finished in 937s
+[ 2016.2 min] I1_miRNA_FFL n5 KS x2 points 6144-8191 in 937 s (4/8)
+    I1_miRNA_FFL/n5 finished in 910s
+[ 2018.8 min] I1_miRNA_FFL n5 KS x2 points 8192-10239 in 910 s (5/8)
+    I1_miRNA_FFL/n5 finished in 931s
+[ 2020.1 min] I1_miRNA_FFL n5 KS x2 points 10240-12287 in 931 s (6/8)
+    I1_miRNA_FFL/n5 finished in 919s
+[ 2021.4 min] I1_miRNA_FFL n5 KS x2 points 12288-14335 in 919 s (7/8)
+    I1_miRNA_FFL/n5 finished in 949s
+[ 2023.0 min] I1_miRNA_FFL n5 KS x2 points 14336-16383 in 949 s (8/8)
+  written I1_miRNA_FFL__n5__KS__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 942s
+[ 2025.1 min] I1_miRNA_FFL n5 Kxm x0.5 points 0-2047 in 942 s (1/8)
+    I1_miRNA_FFL/n5 finished in 944s
+[ 2025.2 min] I1_miRNA_FFL n5 Kxm x0.5 points 2048-4095 in 944 s (2/8)
+    I1_miRNA_FFL/n5 finished in 949s
+[ 2025.5 min] I1_miRNA_FFL n5 Kxm x0.5 points 4096-6143 in 949 s (3/8)
+    I1_miRNA_FFL/n5 finished in 935s
+[ 2025.7 min] I1_miRNA_FFL n5 Kxm x0.5 points 6144-8191 in 935 s (4/8)
+    I1_miRNA_FFL/n5 finished in 933s
+[ 2029.0 min] I1_miRNA_FFL n5 Kxm x0.5 points 8192-10239 in 933 s (5/8)
+    I1_miRNA_FFL/n5 finished in 947s
+[ 2031.9 min] I1_miRNA_FFL n5 Kxm x0.5 points 10240-12287 in 947 s (6/8)
+    I1_miRNA_FFL/n5 finished in 933s
+[ 2034.3 min] I1_miRNA_FFL n5 Kxm x0.5 points 12288-14335 in 933 s (7/8)
+    I1_miRNA_FFL/n5 finished in 930s
+[ 2035.6 min] I1_miRNA_FFL n5 Kxm x0.5 points 14336-16383 in 930 s (8/8)
+  written I1_miRNA_FFL__n5__Kxm__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 973s
+[ 2037.6 min] I1_miRNA_FFL n5 Kxm x2 points 0-2047 in 973 s (1/8)
+    I1_miRNA_FFL/n5 finished in 976s
+[ 2039.3 min] I1_miRNA_FFL n5 Kxm x2 points 2048-4095 in 976 s (2/8)
+    I1_miRNA_FFL/n5 finished in 970s
+[ 2041.3 min] I1_miRNA_FFL n5 Kxm x2 points 4096-6143 in 970 s (3/8)
+    I1_miRNA_FFL/n5 finished in 978s
+[ 2041.5 min] I1_miRNA_FFL n5 Kxm x2 points 6144-8191 in 978 s (4/8)
+    I1_miRNA_FFL/n5 finished in 970s
+[ 2041.7 min] I1_miRNA_FFL n5 Kxm x2 points 8192-10239 in 970 s (5/8)
+    I1_miRNA_FFL/n5 finished in 965s
+[ 2041.7 min] I1_miRNA_FFL n5 Kxm x2 points 10240-12287 in 965 s (6/8)
+    I1_miRNA_FFL/n5 finished in 970s
+[ 2045.2 min] I1_miRNA_FFL n5 Kxm x2 points 12288-14335 in 970 s (7/8)
+    I1_miRNA_FFL/n5 finished in 958s
+[ 2047.9 min] I1_miRNA_FFL n5 Kxm x2 points 14336-16383 in 958 s (8/8)
+  written I1_miRNA_FFL__n5__Kxm__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 971s
+[ 2050.5 min] I1_miRNA_FFL n5 Kxy x0.5 points 0-2047 in 971 s (1/8)
+    I1_miRNA_FFL/n5 finished in 970s
+[ 2051.8 min] I1_miRNA_FFL n5 Kxy x0.5 points 2048-4095 in 970 s (2/8)
+    I1_miRNA_FFL/n5 finished in 970s
+[ 2053.8 min] I1_miRNA_FFL n5 Kxy x0.5 points 4096-6143 in 970 s (3/8)
+    I1_miRNA_FFL/n5 finished in 967s
+[ 2055.4 min] I1_miRNA_FFL n5 Kxy x0.5 points 6144-8191 in 967 s (4/8)
+    I1_miRNA_FFL/n5 finished in 954s
+[ 2057.4 min] I1_miRNA_FFL n5 Kxy x0.5 points 10240-12287 in 954 s (5/8)
+    I1_miRNA_FFL/n5 finished in 972s
+[ 2057.5 min] I1_miRNA_FFL n5 Kxy x0.5 points 8192-10239 in 972 s (6/8)
+    I1_miRNA_FFL/n5 finished in 975s
+[ 2057.9 min] I1_miRNA_FFL n5 Kxy x0.5 points 12288-14335 in 975 s (7/8)
+    I1_miRNA_FFL/n5 finished in 980s
+[ 2058.1 min] I1_miRNA_FFL n5 Kxy x0.5 points 14336-16383 in 980 s (8/8)
+  written I1_miRNA_FFL__n5__Kxy__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 914s
+[ 2060.4 min] I1_miRNA_FFL n5 Kxy x2 points 0-2047 in 914 s (1/8)
+    I1_miRNA_FFL/n5 finished in 909s
+[ 2063.1 min] I1_miRNA_FFL n5 Kxy x2 points 2048-4095 in 909 s (2/8)
+    I1_miRNA_FFL/n5 finished in 923s
+[ 2065.9 min] I1_miRNA_FFL n5 Kxy x2 points 4096-6143 in 923 s (3/8)
+    I1_miRNA_FFL/n5 finished in 926s
+[ 2067.2 min] I1_miRNA_FFL n5 Kxy x2 points 6144-8191 in 926 s (4/8)
+    I1_miRNA_FFL/n5 finished in 915s
+[ 2069.0 min] I1_miRNA_FFL n5 Kxy x2 points 8192-10239 in 915 s (5/8)
+    I1_miRNA_FFL/n5 finished in 921s
+[ 2070.8 min] I1_miRNA_FFL n5 Kxy x2 points 10240-12287 in 921 s (6/8)
+    I1_miRNA_FFL/n5 finished in 932s
+[ 2073.0 min] I1_miRNA_FFL n5 Kxy x2 points 12288-14335 in 932 s (7/8)
+    I1_miRNA_FFL/n5 finished in 935s
+[ 2073.1 min] I1_miRNA_FFL n5 Kxy x2 points 14336-16383 in 935 s (8/8)
+  written I1_miRNA_FFL__n5__Kxy__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 965s
+[ 2074.0 min] I1_miRNA_FFL n5 lam_y x0.5 points 0-2047 in 965 s (1/8)
+    I1_miRNA_FFL/n5 finished in 960s
+[ 2074.1 min] I1_miRNA_FFL n5 lam_y x0.5 points 2048-4095 in 960 s (2/8)
+    I1_miRNA_FFL/n5 finished in 949s
+[ 2076.2 min] I1_miRNA_FFL n5 lam_y x0.5 points 4096-6143 in 949 s (3/8)
+    I1_miRNA_FFL/n5 finished in 941s
+[ 2078.7 min] I1_miRNA_FFL n5 lam_y x0.5 points 6144-8191 in 941 s (4/8)
+    I1_miRNA_FFL/n5 finished in 963s
+[ 2081.9 min] I1_miRNA_FFL n5 lam_y x0.5 points 8192-10239 in 963 s (5/8)
+    I1_miRNA_FFL/n5 finished in 954s
+[ 2083.1 min] I1_miRNA_FFL n5 lam_y x0.5 points 10240-12287 in 954 s (6/8)
+    I1_miRNA_FFL/n5 finished in 942s
+[ 2084.7 min] I1_miRNA_FFL n5 lam_y x0.5 points 12288-14335 in 942 s (7/8)
+    I1_miRNA_FFL/n5 finished in 969s
+[ 2086.9 min] I1_miRNA_FFL n5 lam_y x0.5 points 14336-16383 in 969 s (8/8)
+  written I1_miRNA_FFL__n5__lam_y__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 923s
+[ 2088.5 min] I1_miRNA_FFL n5 lam_y x2 points 2048-4095 in 923 s (1/8)
+    I1_miRNA_FFL/n5 finished in 931s
+[ 2088.5 min] I1_miRNA_FFL n5 lam_y x2 points 0-2047 in 931 s (2/8)
+    I1_miRNA_FFL/n5 finished in 930s
+[ 2089.6 min] I1_miRNA_FFL n5 lam_y x2 points 6144-8191 in 930 s (3/8)
+    I1_miRNA_FFL/n5 finished in 937s
+[ 2089.6 min] I1_miRNA_FFL n5 lam_y x2 points 4096-6143 in 937 s (4/8)
+    I1_miRNA_FFL/n5 finished in 929s
+[ 2091.7 min] I1_miRNA_FFL n5 lam_y x2 points 8192-10239 in 929 s (5/8)
+    I1_miRNA_FFL/n5 finished in 923s
+[ 2094.1 min] I1_miRNA_FFL n5 lam_y x2 points 10240-12287 in 923 s (6/8)
+    I1_miRNA_FFL/n5 finished in 931s
+[ 2097.5 min] I1_miRNA_FFL n5 lam_y x2 points 12288-14335 in 931 s (7/8)
+    I1_miRNA_FFL/n5 finished in 930s
+[ 2098.6 min] I1_miRNA_FFL n5 lam_y x2 points 14336-16383 in 930 s (8/8)
+  written I1_miRNA_FFL__n5__lam_y__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 920s
+[ 2100.0 min] I1_miRNA_FFL n5 theta x0.5 points 0-2047 in 920 s (1/8)
+    I1_miRNA_FFL/n5 finished in 944s
+[ 2102.7 min] I1_miRNA_FFL n5 theta x0.5 points 2048-4095 in 944 s (2/8)
+    I1_miRNA_FFL/n5 finished in 939s
+[ 2104.1 min] I1_miRNA_FFL n5 theta x0.5 points 6144-8191 in 939 s (3/8)
+    I1_miRNA_FFL/n5 finished in 948s
+[ 2104.3 min] I1_miRNA_FFL n5 theta x0.5 points 4096-6143 in 948 s (4/8)
+    I1_miRNA_FFL/n5 finished in 939s
+[ 2105.2 min] I1_miRNA_FFL n5 theta x0.5 points 8192-10239 in 939 s (5/8)
+    I1_miRNA_FFL/n5 finished in 939s
+[ 2105.3 min] I1_miRNA_FFL n5 theta x0.5 points 10240-12287 in 939 s (6/8)
+    I1_miRNA_FFL/n5 finished in 939s
+[ 2107.3 min] I1_miRNA_FFL n5 theta x0.5 points 12288-14335 in 939 s (7/8)
+    I1_miRNA_FFL/n5 finished in 938s
+[ 2109.7 min] I1_miRNA_FFL n5 theta x0.5 points 14336-16383 in 938 s (8/8)
+  written I1_miRNA_FFL__n5__theta__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 963s
+[ 2113.5 min] I1_miRNA_FFL n5 theta x2 points 0-2047 in 963 s (1/8)
+    I1_miRNA_FFL/n5 finished in 955s
+[ 2114.5 min] I1_miRNA_FFL n5 theta x2 points 2048-4095 in 955 s (2/8)
+    I1_miRNA_FFL/n5 finished in 948s
+[ 2115.8 min] I1_miRNA_FFL n5 theta x2 points 4096-6143 in 948 s (3/8)
+    I1_miRNA_FFL/n5 finished in 951s
+[ 2118.5 min] I1_miRNA_FFL n5 theta x2 points 6144-8191 in 951 s (4/8)
+    I1_miRNA_FFL/n5 finished in 953s
+[ 2120.0 min] I1_miRNA_FFL n5 theta x2 points 8192-10239 in 953 s (5/8)
+    I1_miRNA_FFL/n5 finished in 957s
+[ 2120.2 min] I1_miRNA_FFL n5 theta x2 points 10240-12287 in 957 s (6/8)
+    I1_miRNA_FFL/n5 finished in 951s
+[ 2121.1 min] I1_miRNA_FFL n5 theta x2 points 14336-16383 in 951 s (7/8)
+    I1_miRNA_FFL/n5 finished in 956s
+[ 2121.2 min] I1_miRNA_FFL n5 theta x2 points 12288-14335 in 956 s (8/8)
+  written I1_miRNA_FFL__n5__theta__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 945s
+[ 2123.1 min] I1_miRNA_FFL n5 Kc x0.5 points 0-2047 in 945 s (1/8)
+    I1_miRNA_FFL/n5 finished in 961s
+[ 2125.8 min] I1_miRNA_FFL n5 Kc x0.5 points 2048-4095 in 961 s (2/8)
+    I1_miRNA_FFL/n5 finished in 958s
+[ 2129.5 min] I1_miRNA_FFL n5 Kc x0.5 points 4096-6143 in 958 s (3/8)
+    I1_miRNA_FFL/n5 finished in 961s
+[ 2130.5 min] I1_miRNA_FFL n5 Kc x0.5 points 6144-8191 in 961 s (4/8)
+    I1_miRNA_FFL/n5 finished in 964s
+[ 2131.9 min] I1_miRNA_FFL n5 Kc x0.5 points 8192-10239 in 964 s (5/8)
+    I1_miRNA_FFL/n5 finished in 955s
+[ 2134.4 min] I1_miRNA_FFL n5 Kc x0.5 points 10240-12287 in 955 s (6/8)
+    I1_miRNA_FFL/n5 finished in 958s
+[ 2136.0 min] I1_miRNA_FFL n5 Kc x0.5 points 12288-14335 in 958 s (7/8)
+    I1_miRNA_FFL/n5 finished in 969s
+[ 2136.4 min] I1_miRNA_FFL n5 Kc x0.5 points 14336-16383 in 969 s (8/8)
+  written I1_miRNA_FFL__n5__Kc__x0.5.csv.gz
+    I1_miRNA_FFL/n5 finished in 944s
+[ 2136.9 min] I1_miRNA_FFL n5 Kc x2 points 2048-4095 in 944 s (1/8)
+    I1_miRNA_FFL/n5 finished in 951s
+[ 2137.0 min] I1_miRNA_FFL n5 Kc x2 points 0-2047 in 951 s (2/8)
+    I1_miRNA_FFL/n5 finished in 952s
+[ 2138.9 min] I1_miRNA_FFL n5 Kc x2 points 4096-6143 in 952 s (3/8)
+    I1_miRNA_FFL/n5 finished in 950s
+[ 2141.6 min] I1_miRNA_FFL n5 Kc x2 points 6144-8191 in 950 s (4/8)
+    I1_miRNA_FFL/n5 finished in 936s
+[ 2145.1 min] I1_miRNA_FFL n5 Kc x2 points 8192-10239 in 936 s (5/8)
+    I1_miRNA_FFL/n5 finished in 900s
+[ 2145.5 min] I1_miRNA_FFL n5 Kc x2 points 10240-12287 in 900 s (6/8)
+    I1_miRNA_FFL/n5 finished in 946s
+[ 2147.7 min] I1_miRNA_FFL n5 Kc x2 points 12288-14335 in 946 s (7/8)
+    I1_miRNA_FFL/n5 finished in 819s
+[ 2149.6 min] I1_miRNA_FFL n5 kappa x0.5 points 0-2047 in 819 s (1/8)
+    I1_miRNA_FFL/n5 finished in 922s
+[ 2149.8 min] I1_miRNA_FFL n5 Kc x2 points 14336-16383 in 922 s (8/8)
+  written I1_miRNA_FFL__n5__Kc__x2.csv.gz
+    I1_miRNA_FFL/n5 finished in 812s
+[ 2149.9 min] I1_miRNA_FFL n5 kappa x0.5 points 2048-4095 in 813 s (2/8)
+    I1_miRNA_FFL/n5 finished in 819s
+[ 2150.6 min] I1_miRNA_FFL n5 kappa x0.5 points 4096-6143 in 819 s (3/8)
+    I1_miRNA_FFL/n5 finished in 819s
+[ 2150.6 min] I1_miRNA_FFL n5 kappa x0.5 points 6144-8191 in 819 s (4/8)
+    I1_miRNA_FFL/n5 finished in 814s
+[ 2152.5 min] I1_miRNA_FFL n5 kappa x0.5 points 8192-10239 in 814 s (5/8)
+    I1_miRNA_FFL/n5 finished in 815s
+[ 2155.2 min] I1_miRNA_FFL n5 kappa x0.5 points 10240-12287 in 815 s (6/8)
+    I1_miRNA_FFL/n5 finished in 823s
+[ 2158.8 min] I1_miRNA_FFL n5 kappa x0.5 points 12288-14335 in 823 s (7/8)
+    I1_miRNA_FFL/n5 finished in 799s
+[ 2158.8 min] I1_miRNA_FFL n5 kappa x0.5 points 14336-16383 in 799 s (8/8)
+  written I1_miRNA_FFL__n5__kappa__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 441s
+[ 2166.2 min] COMP_C2_toggle n3 gx x0.5 points 0-2047 in 441 s (1/8)
+    I1_miRNA_FFL/n5 finished in 1118s
+[ 2166.3 min] I1_miRNA_FFL n5 kappa x2 points 0-2047 in 1118 s (1/8)
+    COMP_C2_toggle/n3 finished in 456s
+[ 2166.4 min] COMP_C2_toggle n3 gx x0.5 points 2048-4095 in 456 s (2/8)
+    I1_miRNA_FFL/n5 finished in 1124s
+[ 2168.4 min] I1_miRNA_FFL n5 kappa x2 points 2048-4095 in 1124 s (2/8)
+    I1_miRNA_FFL/n5 finished in 1134s
+[ 2168.7 min] I1_miRNA_FFL n5 kappa x2 points 4096-6143 in 1134 s (3/8)
+    I1_miRNA_FFL/n5 finished in 1135s
+[ 2168.8 min] I1_miRNA_FFL n5 kappa x2 points 6144-8191 in 1135 s (4/8)
+    I1_miRNA_FFL/n5 finished in 1115s
+[ 2169.1 min] I1_miRNA_FFL n5 kappa x2 points 8192-10239 in 1115 s (5/8)
+    I1_miRNA_FFL/n5 finished in 1119s
+[ 2169.3 min] I1_miRNA_FFL n5 kappa x2 points 10240-12287 in 1119 s (6/8)
+    I1_miRNA_FFL/n5 finished in 1113s
+[ 2171.1 min] I1_miRNA_FFL n5 kappa x2 points 12288-14335 in 1114 s (7/8)
+    COMP_C2_toggle/n3 finished in 426s
+[ 2173.4 min] COMP_C2_toggle n3 gx x0.5 points 6144-8191 in 426 s (3/8)
+    COMP_C2_toggle/n3 finished in 446s
+[ 2173.9 min] COMP_C2_toggle n3 gx x0.5 points 8192-10239 in 446 s (4/8)
+    I1_miRNA_FFL/n5 finished in 1127s
+[ 2174.0 min] I1_miRNA_FFL n5 kappa x2 points 14336-16383 in 1127 s (8/8)
+  written I1_miRNA_FFL__n5__kappa__x2.csv.gz
+    COMP_C2_toggle/n3 finished in 482s
+[ 2174.2 min] COMP_C2_toggle n3 gx x0.5 points 4096-6143 in 482 s (5/8)
+    COMP_C2_toggle/n3 finished in 450s
+[ 2176.2 min] COMP_C2_toggle n3 gx x0.5 points 12288-14335 in 450 s (6/8)
+    COMP_C2_toggle/n3 finished in 471s
+[ 2176.2 min] COMP_C2_toggle n3 gx x0.5 points 10240-12287 in 471 s (7/8)
+    COMP_C2_toggle/n3 finished in 429s
+[ 2176.3 min] COMP_C2_toggle n3 gx x2 points 0-2047 in 429 s (1/8)
+    COMP_C2_toggle/n3 finished in 450s
+[ 2176.3 min] COMP_C2_toggle n3 gx x0.5 points 14336-16383 in 450 s (8/8)
+  written COMP_C2_toggle__n3__gx__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 443s
+[ 2176.7 min] COMP_C2_toggle n3 gx x2 points 2048-4095 in 443 s (2/8)
+    COMP_C2_toggle/n3 finished in 456s
+[ 2178.7 min] COMP_C2_toggle n3 gx x2 points 4096-6143 in 456 s (3/8)
+    COMP_C2_toggle/n3 finished in 415s
+[ 2180.3 min] COMP_C2_toggle n3 gx x2 points 6144-8191 in 415 s (4/8)
+    COMP_C2_toggle/n3 finished in 446s
+[ 2181.3 min] COMP_C2_toggle n3 gx x2 points 8192-10239 in 446 s (5/8)
+    COMP_C2_toggle/n3 finished in 442s
+[ 2181.6 min] COMP_C2_toggle n3 gx x2 points 12288-14335 in 442 s (6/8)
+    COMP_C2_toggle/n3 finished in 461s
+[ 2181.7 min] COMP_C2_toggle n3 gx x2 points 10240-12287 in 461 s (7/8)
+    COMP_C2_toggle/n3 finished in 429s
+[ 2183.3 min] COMP_C2_toggle n3 gx x2 points 14336-16383 in 429 s (8/8)
+  written COMP_C2_toggle__n3__gx__x2.csv.gz
+    COMP_C2_toggle/n3 finished in 493s
+[ 2184.5 min] COMP_C2_toggle n3 gm x0.5 points 2048-4095 in 493 s (1/8)
+    COMP_C2_toggle/n3 finished in 500s
+[ 2184.6 min] COMP_C2_toggle n3 gm x0.5 points 0-2047 in 500 s (2/8)
+    COMP_C2_toggle/n3 finished in 504s
+[ 2184.7 min] COMP_C2_toggle n3 gm x0.5 points 4096-6143 in 504 s (3/8)
+    COMP_C2_toggle/n3 finished in 494s
+[ 2184.9 min] COMP_C2_toggle n3 gm x0.5 points 6144-8191 in 494 s (4/8)
+    COMP_C2_toggle/n3 finished in 493s
+[ 2186.9 min] COMP_C2_toggle n3 gm x0.5 points 8192-10239 in 493 s (5/8)
+    COMP_C2_toggle/n3 finished in 390s
+[ 2188.2 min] COMP_C2_toggle n3 gm x2 points 0-2047 in 390 s (1/8)
+    COMP_C2_toggle/n3 finished in 524s
+[ 2189.1 min] COMP_C2_toggle n3 gm x0.5 points 10240-12287 in 524 s (6/8)
+    COMP_C2_toggle/n3 finished in 505s
+[ 2189.7 min] COMP_C2_toggle n3 gm x0.5 points 12288-14335 in 505 s (7/8)
+    COMP_C2_toggle/n3 finished in 491s
+[ 2189.7 min] COMP_C2_toggle n3 gm x0.5 points 14336-16383 in 491 s (8/8)
+  written COMP_C2_toggle__n3__gm__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 415s
+[ 2190.2 min] COMP_C2_toggle n3 gm x2 points 2048-4095 in 415 s (2/8)
+    COMP_C2_toggle/n3 finished in 385s
+[ 2190.9 min] COMP_C2_toggle n3 gm x2 points 4096-6143 in 385 s (3/8)
+    COMP_C2_toggle/n3 finished in 393s
+[ 2191.1 min] COMP_C2_toggle n3 gm x2 points 6144-8191 in 393 s (4/8)
+    COMP_C2_toggle/n3 finished in 400s
+[ 2191.4 min] COMP_C2_toggle n3 gm x2 points 8192-10239 in 400 s (5/8)
+    COMP_C2_toggle/n3 finished in 401s
+[ 2191.6 min] COMP_C2_toggle n3 gm x2 points 10240-12287 in 401 s (6/8)
+    COMP_C2_toggle/n3 finished in 385s
+[ 2193.3 min] COMP_C2_toggle n3 gm x2 points 12288-14335 in 385 s (7/8)
+    COMP_C2_toggle/n3 finished in 416s
+[ 2195.1 min] COMP_C2_toggle n3 gm x2 points 14336-16383 in 416 s (8/8)
+  written COMP_C2_toggle__n3__gm__x2.csv.gz
+    COMP_C2_toggle/n3 finished in 539s
+[ 2198.0 min] COMP_C2_toggle n3 gp x0.5 points 0-2047 in 539 s (1/8)
+    COMP_C2_toggle/n3 finished in 547s
+[ 2198.8 min] COMP_C2_toggle n3 gp x0.5 points 2048-4095 in 547 s (2/8)
+    COMP_C2_toggle/n3 finished in 548s
+[ 2198.9 min] COMP_C2_toggle n3 gp x0.5 points 4096-6143 in 548 s (3/8)
+    COMP_C2_toggle/n3 finished in 518s
+[ 2198.9 min] COMP_C2_toggle n3 gp x0.5 points 6144-8191 in 518 s (4/8)
+    COMP_C2_toggle/n3 finished in 397s
+[ 2199.9 min] COMP_C2_toggle n3 gp x2 points 0-2047 in 397 s (1/8)
+    COMP_C2_toggle/n3 finished in 544s
+[ 2200.0 min] COMP_C2_toggle n3 gp x0.5 points 8192-10239 in 544 s (5/8)
+    COMP_C2_toggle/n3 finished in 552s
+[ 2200.3 min] COMP_C2_toggle n3 gp x0.5 points 10240-12287 in 552 s (6/8)
+    COMP_C2_toggle/n3 finished in 540s
+[ 2200.4 min] COMP_C2_toggle n3 gp x0.5 points 12288-14335 in 540 s (7/8)
+    COMP_C2_toggle/n3 finished in 536s
+[ 2200.5 min] COMP_C2_toggle n3 gp x0.5 points 14336-16383 in 536 s (8/8)
+  written COMP_C2_toggle__n3__gp__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 400s
+[ 2201.8 min] COMP_C2_toggle n3 gp x2 points 2048-4095 in 400 s (2/8)
+    COMP_C2_toggle/n3 finished in 378s
+[ 2205.1 min] COMP_C2_toggle n3 gp x2 points 6144-8191 in 378 s (3/8)
+    COMP_C2_toggle/n3 finished in 426s
+[ 2205.1 min] COMP_C2_toggle n3 gp x2 points 4096-6143 in 426 s (4/8)
+    COMP_C2_toggle/n3 finished in 408s
+[ 2205.7 min] COMP_C2_toggle n3 gp x2 points 8192-10239 in 408 s (5/8)
+    COMP_C2_toggle/n3 finished in 424s
+[ 2206.0 min] COMP_C2_toggle n3 gp x2 points 10240-12287 in 424 s (6/8)
+    COMP_C2_toggle/n3 finished in 391s
+[ 2206.5 min] COMP_C2_toggle n3 gp x2 points 14336-16383 in 391 s (7/8)
+    COMP_C2_toggle/n3 finished in 399s
+[ 2206.6 min] COMP_C2_toggle n3 gp x2 points 12288-14335 in 399 s (8/8)
+  written COMP_C2_toggle__n3__gp__x2.csv.gz
+    COMP_C2_toggle/n3 finished in 429s
+[ 2207.5 min] COMP_C2_toggle n3 Kxm x0.5 points 0-2047 in 429 s (1/8)
+    COMP_C2_toggle/n3 finished in 434s
+[ 2207.6 min] COMP_C2_toggle n3 Kxm x0.5 points 2048-4095 in 434 s (2/8)
+    COMP_C2_toggle/n3 finished in 428s
+[ 2207.6 min] COMP_C2_toggle n3 Kxm x0.5 points 4096-6143 in 428 s (3/8)
+    COMP_C2_toggle/n3 finished in 419s
+[ 2208.8 min] COMP_C2_toggle n3 Kxm x0.5 points 6144-8191 in 419 s (4/8)
+    COMP_C2_toggle/n3 finished in 428s
+[ 2212.3 min] COMP_C2_toggle n3 Kxm x0.5 points 10240-12287 in 428 s (5/8)
+    COMP_C2_toggle/n3 finished in 411s
+[ 2212.5 min] COMP_C2_toggle n3 Kxm x0.5 points 12288-14335 in 411 s (6/8)
+    COMP_C2_toggle/n3 finished in 448s
+[ 2212.6 min] COMP_C2_toggle n3 Kxm x0.5 points 8192-10239 in 448 s (7/8)
+    COMP_C2_toggle/n3 finished in 441s
+[ 2213.3 min] COMP_C2_toggle n3 Kxm x0.5 points 14336-16383 in 441 s (8/8)
+  written COMP_C2_toggle__n3__Kxm__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 440s
+[ 2213.8 min] COMP_C2_toggle n3 Kxm x2 points 0-2047 in 440 s (1/8)
+    COMP_C2_toggle/n3 finished in 447s
+[ 2214.0 min] COMP_C2_toggle n3 Kxm x2 points 2048-4095 in 447 s (2/8)
+    COMP_C2_toggle/n3 finished in 439s
+[ 2214.8 min] COMP_C2_toggle n3 Kxm x2 points 4096-6143 in 439 s (3/8)
+    COMP_C2_toggle/n3 finished in 450s
+[ 2215.1 min] COMP_C2_toggle n3 Kxm x2 points 8192-10239 in 450 s (4/8)
+    COMP_C2_toggle/n3 finished in 456s
+[ 2215.2 min] COMP_C2_toggle n3 Kxm x2 points 6144-8191 in 456 s (5/8)
+    COMP_C2_toggle/n3 finished in 443s
+[ 2216.1 min] COMP_C2_toggle n3 Kxm x2 points 10240-12287 in 443 s (6/8)
+    COMP_C2_toggle/n3 finished in 432s
+[ 2219.5 min] COMP_C2_toggle n3 Kxm x2 points 12288-14335 in 432 s (7/8)
+    COMP_C2_toggle/n3 finished in 430s
+[ 2219.8 min] COMP_C2_toggle n3 Kxy x0.5 points 0-2047 in 430 s (1/8)
+    COMP_C2_toggle/n3 finished in 440s
+[ 2219.9 min] COMP_C2_toggle n3 Kxm x2 points 14336-16383 in 440 s (8/8)
+  written COMP_C2_toggle__n3__Kxm__x2.csv.gz
+    COMP_C2_toggle/n3 finished in 421s
+[ 2220.3 min] COMP_C2_toggle n3 Kxy x0.5 points 2048-4095 in 421 s (2/8)
+    COMP_C2_toggle/n3 finished in 417s
+[ 2221.0 min] COMP_C2_toggle n3 Kxy x0.5 points 6144-8191 in 417 s (3/8)
+    COMP_C2_toggle/n3 finished in 460s
+[ 2221.5 min] COMP_C2_toggle n3 Kxy x0.5 points 4096-6143 in 460 s (4/8)
+    COMP_C2_toggle/n3 finished in 433s
+[ 2222.4 min] COMP_C2_toggle n3 Kxy x0.5 points 12288-14335 in 433 s (5/8)
+    COMP_C2_toggle/n3 finished in 439s
+[ 2222.4 min] COMP_C2_toggle n3 Kxy x0.5 points 10240-12287 in 439 s (6/8)
+    COMP_C2_toggle/n3 finished in 479s
+[ 2222.8 min] COMP_C2_toggle n3 Kxy x0.5 points 8192-10239 in 479 s (7/8)
+    COMP_C2_toggle/n3 finished in 446s
+[ 2223.6 min] COMP_C2_toggle n3 Kxy x0.5 points 14336-16383 in 446 s (8/8)
+  written COMP_C2_toggle__n3__Kxy__x0.5.csv.gz
+    COMP_C2_toggle/n3 finished in 443s
+[ 2226.9 min] COMP_C2_toggle n3 Kxy x2 points 0-2047 in 443 s (1/8)
+    COMP_C2_toggle/n3 finished in 451s
+[ 2227.3 min] COMP_C2_toggle n3 Kxy x2 points 2048-4095 in 451 s (2/8)
+    COMP_C2_toggle/n3 finished in 425s
+[ 2227.4 min] COMP_C2_toggle n3 Kxy x2 points 6144-8191 in 425 s (3/8)
+    COMP_C2_toggle/n3 finished in 459s
+[ 2227.5 min] COMP_C2_toggle n3 Kxy x2 points 4096-6143 in 459 s (4/8)
+    COMP_C2_toggle/n3 finished in 478s
+[ 2229.0 min] COMP_C2_toggle n3 Kxy x2 points 8192-10239 in 478 s (5/8)
+    COMP_C2_toggle/n3 finished in 461s
+[ 2229.2 min] COMP_C2_toggle n3 Kxy x2 points 10240-12287 in 461 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 384s
+[ 2229.2 min] COMP_I1_negfeedback n3 gx x0.5 points 0-2047 in 384 s (1/8)
+    COMP_C2_toggle/n3 finished in 452s
+[ 2230.0 min] COMP_C2_toggle n3 Kxy x2 points 14336-16383 in 452 s (7/8)
+    COMP_C2_toggle/n3 finished in 457s
+[ 2230.0 min] COMP_C2_toggle n3 Kxy x2 points 12288-14335 in 457 s (8/8)
+  written COMP_C2_toggle__n3__Kxy__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 411s
+[ 2230.4 min] COMP_I1_negfeedback n3 gx x0.5 points 2048-4095 in 411 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 412s
+[ 2233.7 min] COMP_I1_negfeedback n3 gx x0.5 points 4096-6143 in 412 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 395s
+[ 2234.0 min] COMP_I1_negfeedback n3 gx x0.5 points 8192-10239 in 395 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 410s
+[ 2234.1 min] COMP_I1_negfeedback n3 gx x0.5 points 6144-8191 in 410 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 412s
+[ 2234.4 min] COMP_I1_negfeedback n3 gx x0.5 points 10240-12287 in 412 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 394s
+[ 2235.5 min] COMP_I1_negfeedback n3 gx x0.5 points 12288-14335 in 394 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 396s
+[ 2235.8 min] COMP_I1_negfeedback n3 gx x2 points 0-2047 in 396 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 409s
+[ 2236.0 min] COMP_I1_negfeedback n3 gx x0.5 points 14336-16383 in 409 s (8/8)
+  written COMP_I1_negfeedback__n3__gx__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 399s
+[ 2236.6 min] COMP_I1_negfeedback n3 gx x2 points 2048-4095 in 399 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2236.7 min] COMP_I1_negfeedback n3 gx x2 points 4096-6143 in 401 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 394s
+[ 2237.0 min] COMP_I1_negfeedback n3 gx x2 points 6144-8191 in 394 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 383s
+[ 2240.1 min] COMP_I1_negfeedback n3 gx x2 points 8192-10239 in 383 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2240.6 min] COMP_I1_negfeedback n3 gx x2 points 10240-12287 in 398 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 395s
+[ 2240.7 min] COMP_I1_negfeedback n3 gx x2 points 12288-14335 in 395 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 399s
+[ 2241.0 min] COMP_I1_negfeedback n3 gx x2 points 14336-16383 in 399 s (8/8)
+  written COMP_I1_negfeedback__n3__gx__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 504s
+[ 2243.9 min] COMP_I1_negfeedback n3 gp x0.5 points 0-2047 in 504 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 519s
+[ 2244.4 min] COMP_I1_negfeedback n3 gp x0.5 points 2048-4095 in 519 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 511s
+[ 2244.5 min] COMP_I1_negfeedback n3 gp x0.5 points 4096-6143 in 511 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 484s
+[ 2244.7 min] COMP_I1_negfeedback n3 gp x0.5 points 6144-8191 in 484 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 504s
+[ 2245.1 min] COMP_I1_negfeedback n3 gp x0.5 points 8192-10239 in 504 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 527s
+[ 2245.8 min] COMP_I1_negfeedback n3 gp x0.5 points 10240-12287 in 527 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 351s
+[ 2246.5 min] COMP_I1_negfeedback n3 gp x2 points 0-2047 in 351 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 360s
+[ 2247.0 min] COMP_I1_negfeedback n3 gp x2 points 2048-4095 in 360 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 503s
+[ 2248.5 min] COMP_I1_negfeedback n3 gp x0.5 points 12288-14335 in 503 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 498s
+[ 2248.9 min] COMP_I1_negfeedback n3 gp x0.5 points 14336-16383 in 498 s (8/8)
+  written COMP_I1_negfeedback__n3__gp__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 359s
+[ 2249.9 min] COMP_I1_negfeedback n3 gp x2 points 4096-6143 in 359 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 347s
+[ 2250.3 min] COMP_I1_negfeedback n3 gp x2 points 8192-10239 in 348 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 341s
+[ 2250.4 min] COMP_I1_negfeedback n3 gp x2 points 10240-12287 in 341 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 357s
+[ 2250.4 min] COMP_I1_negfeedback n3 gp x2 points 6144-8191 in 357 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 347s
+[ 2250.9 min] COMP_I1_negfeedback n3 gp x2 points 12288-14335 in 347 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 357s
+[ 2251.7 min] COMP_I1_negfeedback n3 gp x2 points 14336-16383 in 357 s (8/8)
+  written COMP_I1_negfeedback__n3__gp__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 380s
+[ 2252.9 min] COMP_I1_negfeedback n3 KS x0.5 points 0-2047 in 380 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 400s
+[ 2253.7 min] COMP_I1_negfeedback n3 KS x0.5 points 2048-4095 in 400 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 389s
+[ 2255.0 min] COMP_I1_negfeedback n3 KS x0.5 points 4096-6143 in 389 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 387s
+[ 2255.4 min] COMP_I1_negfeedback n3 KS x0.5 points 6144-8191 in 387 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 402s
+[ 2256.6 min] COMP_I1_negfeedback n3 KS x0.5 points 8192-10239 in 402 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 385s
+[ 2256.7 min] COMP_I1_negfeedback n3 KS x0.5 points 10240-12287 in 385 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 381s
+[ 2256.7 min] COMP_I1_negfeedback n3 KS x0.5 points 12288-14335 in 381 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 377s
+[ 2257.2 min] COMP_I1_negfeedback n3 KS x2 points 0-2047 in 377 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 422s
+[ 2257.4 min] COMP_I1_negfeedback n3 KS x0.5 points 14336-16383 in 422 s (8/8)
+  written COMP_I1_negfeedback__n3__KS__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2258.4 min] COMP_I1_negfeedback n3 KS x2 points 2048-4095 in 401 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 385s
+[ 2259.3 min] COMP_I1_negfeedback n3 KS x2 points 4096-6143 in 385 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 388s
+[ 2260.1 min] COMP_I1_negfeedback n3 KS x2 points 6144-8191 in 388 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 364s
+[ 2261.0 min] COMP_I1_negfeedback n3 KS x2 points 8192-10239 in 364 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 387s
+[ 2261.8 min] COMP_I1_negfeedback n3 KS x2 points 10240-12287 in 387 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 383s
+[ 2263.1 min] COMP_I1_negfeedback n3 KS x2 points 14336-16383 in 383 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2263.3 min] COMP_I1_negfeedback n3 KS x2 points 12288-14335 in 401 s (8/8)
+  written COMP_I1_negfeedback__n3__KS__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 414s
+[ 2263.6 min] COMP_I1_negfeedback n3 Kxm x0.5 points 0-2047 in 414 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 405s
+[ 2264.0 min] COMP_I1_negfeedback n3 Kxm x0.5 points 2048-4095 in 405 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2264.1 min] COMP_I1_negfeedback n3 Kxm x0.5 points 4096-6143 in 398 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 402s
+[ 2265.1 min] COMP_I1_negfeedback n3 Kxm x0.5 points 6144-8191 in 402 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 399s
+[ 2266.0 min] COMP_I1_negfeedback n3 Kxm x0.5 points 8192-10239 in 399 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 381s
+[ 2266.5 min] COMP_I1_negfeedback n3 Kxm x0.5 points 10240-12287 in 381 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 417s
+[ 2268.0 min] COMP_I1_negfeedback n3 Kxm x0.5 points 12288-14335 in 417 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 393s
+[ 2268.4 min] COMP_I1_negfeedback n3 Kxm x0.5 points 14336-16383 in 393 s (8/8)
+  written COMP_I1_negfeedback__n3__Kxm__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 384s
+[ 2269.5 min] COMP_I1_negfeedback n3 Kxm x2 points 0-2047 in 384 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 387s
+[ 2270.1 min] COMP_I1_negfeedback n3 Kxm x2 points 4096-6143 in 387 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 408s
+[ 2270.1 min] COMP_I1_negfeedback n3 Kxm x2 points 2048-4095 in 408 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 386s
+[ 2270.4 min] COMP_I1_negfeedback n3 Kxm x2 points 6144-8191 in 386 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 389s
+[ 2270.5 min] COMP_I1_negfeedback n3 Kxm x2 points 8192-10239 in 389 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 408s
+[ 2271.9 min] COMP_I1_negfeedback n3 Kxm x2 points 10240-12287 in 408 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2272.6 min] COMP_I1_negfeedback n3 Kxm x2 points 12288-14335 in 401 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 395s
+[ 2273.1 min] COMP_I1_negfeedback n3 Kxm x2 points 14336-16383 in 395 s (8/8)
+  written COMP_I1_negfeedback__n3__Kxm__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 392s
+[ 2274.5 min] COMP_I1_negfeedback n3 Kxy x0.5 points 0-2047 in 392 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 386s
+[ 2274.8 min] COMP_I1_negfeedback n3 Kxy x0.5 points 2048-4095 in 386 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 390s
+[ 2276.0 min] COMP_I1_negfeedback n3 Kxy x0.5 points 4096-6143 in 390 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 388s
+[ 2276.6 min] COMP_I1_negfeedback n3 Kxy x0.5 points 8192-10239 in 388 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 393s
+[ 2276.6 min] COMP_I1_negfeedback n3 Kxy x0.5 points 6144-8191 in 393 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 384s
+[ 2276.9 min] COMP_I1_negfeedback n3 Kxy x0.5 points 12288-14335 in 384 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 407s
+[ 2277.2 min] COMP_I1_negfeedback n3 Kxy x0.5 points 10240-12287 in 407 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 378s
+[ 2278.2 min] COMP_I1_negfeedback n3 Kxy x0.5 points 14336-16383 in 378 s (8/8)
+  written COMP_I1_negfeedback__n3__Kxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 396s
+[ 2279.2 min] COMP_I1_negfeedback n3 Kxy x2 points 0-2047 in 396 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 400s
+[ 2279.7 min] COMP_I1_negfeedback n3 Kxy x2 points 2048-4095 in 400 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 393s
+[ 2281.3 min] COMP_I1_negfeedback n3 Kxy x2 points 6144-8191 in 393 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 411s
+[ 2281.4 min] COMP_I1_negfeedback n3 Kxy x2 points 4096-6143 in 411 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 415s
+[ 2282.9 min] COMP_I1_negfeedback n3 Kxy x2 points 8192-10239 in 415 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2283.2 min] COMP_I1_negfeedback n3 Kxy x2 points 10240-12287 in 398 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 406s
+[ 2283.4 min] COMP_I1_negfeedback n3 Kxy x2 points 12288-14335 in 406 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 399s
+[ 2283.8 min] COMP_I1_negfeedback n3 Kmx x0.5 points 0-2047 in 399 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 424s
+[ 2284.0 min] COMP_I1_negfeedback n3 Kxy x2 points 14336-16383 in 424 s (8/8)
+  written COMP_I1_negfeedback__n3__Kxy__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 395s
+[ 2284.8 min] COMP_I1_negfeedback n3 Kmx x0.5 points 2048-4095 in 395 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 417s
+[ 2286.2 min] COMP_I1_negfeedback n3 Kmx x0.5 points 4096-6143 in 417 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 389s
+[ 2286.2 min] COMP_I1_negfeedback n3 Kmx x0.5 points 6144-8191 in 389 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 396s
+[ 2287.9 min] COMP_I1_negfeedback n3 Kmx x0.5 points 8192-10239 in 396 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2288.1 min] COMP_I1_negfeedback n3 Kmx x0.5 points 10240-12287 in 401 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 382s
+[ 2289.3 min] COMP_I1_negfeedback n3 Kmx x0.5 points 12288-14335 in 382 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 385s
+[ 2289.8 min] COMP_I1_negfeedback n3 Kmx x2 points 0-2047 in 385 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 424s
+[ 2290.3 min] COMP_I1_negfeedback n3 Kmx x0.5 points 14336-16383 in 424 s (8/8)
+  written COMP_I1_negfeedback__n3__Kmx__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 393s
+[ 2290.4 min] COMP_I1_negfeedback n3 Kmx x2 points 2048-4095 in 393 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 400s
+[ 2290.7 min] COMP_I1_negfeedback n3 Kmx x2 points 4096-6143 in 400 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 404s
+[ 2291.5 min] COMP_I1_negfeedback n3 Kmx x2 points 6144-8191 in 404 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 392s
+[ 2292.7 min] COMP_I1_negfeedback n3 Kmx x2 points 10240-12287 in 392 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 396s
+[ 2292.8 min] COMP_I1_negfeedback n3 Kmx x2 points 8192-10239 in 397 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 384s
+[ 2294.3 min] COMP_I1_negfeedback n3 Kmx x2 points 12288-14335 in 384 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2294.7 min] COMP_I1_negfeedback n3 Kmx x2 points 14336-16383 in 398 s (8/8)
+  written COMP_I1_negfeedback__n3__Kmx__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 399s
+[ 2295.9 min] COMP_I1_negfeedback n3 Kmp x0.5 points 0-2047 in 399 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 406s
+[ 2296.6 min] COMP_I1_negfeedback n3 Kmp x0.5 points 2048-4095 in 406 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 414s
+[ 2297.2 min] COMP_I1_negfeedback n3 Kmp x0.5 points 4096-6143 in 414 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 408s
+[ 2297.2 min] COMP_I1_negfeedback n3 Kmp x0.5 points 6144-8191 in 408 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 391s
+[ 2297.2 min] COMP_I1_negfeedback n3 Kmp x0.5 points 8192-10239 in 391 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 406s
+[ 2298.3 min] COMP_I1_negfeedback n3 Kmp x0.5 points 10240-12287 in 406 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2299.4 min] COMP_I1_negfeedback n3 Kmp x0.5 points 12288-14335 in 398 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 396s
+[ 2299.4 min] COMP_I1_negfeedback n3 Kmp x0.5 points 14336-16383 in 397 s (8/8)
+  written COMP_I1_negfeedback__n3__Kmp__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 391s
+[ 2300.9 min] COMP_I1_negfeedback n3 Kmp x2 points 0-2047 in 391 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 412s
+[ 2301.6 min] COMP_I1_negfeedback n3 Kmp x2 points 2048-4095 in 412 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 401s
+[ 2302.6 min] COMP_I1_negfeedback n3 Kmp x2 points 4096-6143 in 401 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 407s
+[ 2303.3 min] COMP_I1_negfeedback n3 Kmp x2 points 6144-8191 in 407 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 390s
+[ 2303.7 min] COMP_I1_negfeedback n3 Kmp x2 points 8192-10239 in 390 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 391s
+[ 2303.7 min] COMP_I1_negfeedback n3 Kmp x2 points 12288-14335 in 391 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 397s
+[ 2303.8 min] COMP_I1_negfeedback n3 Kmp x2 points 10240-12287 in 397 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 386s
+[ 2304.7 min] COMP_I1_negfeedback n3 Kmp x2 points 14336-16383 in 386 s (8/8)
+  written COMP_I1_negfeedback__n3__Kmp__x2.csv.gz
+    COMP_I1_negfeedback/n3 finished in 415s
+[ 2306.3 min] COMP_I1_negfeedback n3 theta x0.5 points 0-2047 in 415 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 421s
+[ 2306.4 min] COMP_I1_negfeedback n3 theta x0.5 points 2048-4095 in 421 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 394s
+[ 2307.4 min] COMP_I1_negfeedback n3 theta x0.5 points 4096-6143 in 394 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 407s
+[ 2308.3 min] COMP_I1_negfeedback n3 theta x0.5 points 6144-8191 in 407 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 400s
+[ 2309.3 min] COMP_I1_negfeedback n3 theta x0.5 points 8192-10239 in 400 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 377s
+[ 2310.0 min] COMP_I1_negfeedback n3 theta x0.5 points 14336-16383 in 377 s (6/8)
+    COMP_I1_negfeedback/n3 finished in 414s
+[ 2310.3 min] COMP_I1_negfeedback n3 theta x0.5 points 10240-12287 in 414 s (7/8)
+    COMP_I1_negfeedback/n3 finished in 394s
+[ 2310.3 min] COMP_I1_negfeedback n3 theta x2 points 0-2047 in 394 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 408s
+[ 2310.5 min] COMP_I1_negfeedback n3 theta x0.5 points 12288-14335 in 408 s (8/8)
+  written COMP_I1_negfeedback__n3__theta__x0.5.csv.gz
+    COMP_I1_negfeedback/n3 finished in 365s
+[ 2310.8 min] COMP_I1_negfeedback n3 theta x2 points 2048-4095 in 365 s (2/8)
+    COMP_I1_negfeedback/n3 finished in 390s
+[ 2312.8 min] COMP_I1_negfeedback n3 theta x2 points 4096-6143 in 390 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 398s
+[ 2313.0 min] COMP_I1_negfeedback n3 theta x2 points 6144-8191 in 398 s (4/8)
+    COMP_I1_negfeedback/n3 finished in 406s
+[ 2314.2 min] COMP_I1_negfeedback n3 theta x2 points 8192-10239 in 406 s (5/8)
+    COMP_I1_negfeedback/n3 finished in 381s
+[ 2314.7 min] COMP_I1_negfeedback n3 theta x2 points 10240-12287 in 381 s (6/8)
+    I1_miRNA_FFL/n3 finished in 335s
+[ 2315.8 min] I1_miRNA_FFL n3 gx x0.5 points 0-2047 in 335 s (1/8)
+    COMP_I1_negfeedback/n3 finished in 395s
+[ 2315.9 min] COMP_I1_negfeedback n3 theta x2 points 12288-14335 in 395 s (7/8)
+    I1_miRNA_FFL/n3 finished in 338s
+[ 2316.0 min] I1_miRNA_FFL n3 gx x0.5 points 2048-4095 in 338 s (2/8)
+    I1_miRNA_FFL/n3 finished in 341s
+[ 2316.1 min] I1_miRNA_FFL n3 gx x0.5 points 4096-6143 in 341 s (3/8)
+    COMP_I1_negfeedback/n3 finished in 382s
+[ 2316.4 min] COMP_I1_negfeedback n3 theta x2 points 14336-16383 in 382 s (8/8)
+    I1_miRNA_FFL/n3 finished in 332s
+  written COMP_I1_negfeedback__n3__theta__x2.csv.gz
+[ 2316.4 min] I1_miRNA_FFL n3 gx x0.5 points 6144-8191 in 332 s (4/8)
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2318.3 min] I1_miRNA_FFL n3 gx x0.5 points 8192-10239 in 333 s (5/8)
+    I1_miRNA_FFL/n3 finished in 335s
+[ 2318.6 min] I1_miRNA_FFL n3 gx x0.5 points 10240-12287 in 335 s (6/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2319.7 min] I1_miRNA_FFL n3 gx x0.5 points 12288-14335 in 331 s (7/8)
+    I1_miRNA_FFL/n3 finished in 340s
+[ 2320.4 min] I1_miRNA_FFL n3 gx x0.5 points 14336-16383 in 340 s (8/8)
+  written I1_miRNA_FFL__n3__gx__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 316s
+[ 2321.1 min] I1_miRNA_FFL n3 gx x2 points 2048-4095 in 316 s (1/8)
+    I1_miRNA_FFL/n3 finished in 308s
+[ 2321.3 min] I1_miRNA_FFL n3 gx x2 points 6144-8191 in 308 s (2/8)
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2321.3 min] I1_miRNA_FFL n3 gx x2 points 0-2047 in 328 s (3/8)
+    I1_miRNA_FFL/n3 finished in 342s
+[ 2321.7 min] I1_miRNA_FFL n3 gx x2 points 4096-6143 in 342 s (4/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2321.8 min] I1_miRNA_FFL n3 gx x2 points 10240-12287 in 326 s (5/8)
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2321.8 min] I1_miRNA_FFL n3 gx x2 points 8192-10239 in 328 s (6/8)
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2323.8 min] I1_miRNA_FFL n3 gx x2 points 12288-14335 in 328 s (7/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2324.1 min] I1_miRNA_FFL n3 gx x2 points 14336-16383 in 326 s (8/8)
+  written I1_miRNA_FFL__n3__gx__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 418s
+[ 2326.7 min] I1_miRNA_FFL n3 gp x0.5 points 0-2047 in 418 s (1/8)
+    I1_miRNA_FFL/n3 finished in 424s
+[ 2327.4 min] I1_miRNA_FFL n3 gp x0.5 points 2048-4095 in 424 s (2/8)
+    I1_miRNA_FFL/n3 finished in 436s
+[ 2328.4 min] I1_miRNA_FFL n3 gp x0.5 points 4096-6143 in 436 s (3/8)
+    I1_miRNA_FFL/n3 finished in 427s
+[ 2328.4 min] I1_miRNA_FFL n3 gp x0.5 points 8192-10239 in 427 s (4/8)
+    I1_miRNA_FFL/n3 finished in 431s
+[ 2328.5 min] I1_miRNA_FFL n3 gp x0.5 points 6144-8191 in 431 s (5/8)
+    I1_miRNA_FFL/n3 finished in 287s
+[ 2328.6 min] I1_miRNA_FFL n3 gp x2 points 0-2047 in 287 s (1/8)
+    I1_miRNA_FFL/n3 finished in 425s
+[ 2328.8 min] I1_miRNA_FFL n3 gp x0.5 points 10240-12287 in 425 s (6/8)
+    I1_miRNA_FFL/n3 finished in 286s
+[ 2328.8 min] I1_miRNA_FFL n3 gp x2 points 2048-4095 in 286 s (2/8)
+    I1_miRNA_FFL/n3 finished in 425s
+[ 2328.9 min] I1_miRNA_FFL n3 gp x0.5 points 12288-14335 in 425 s (7/8)
+    I1_miRNA_FFL/n3 finished in 426s
+[ 2328.9 min] I1_miRNA_FFL n3 gp x0.5 points 14336-16383 in 426 s (8/8)
+  written I1_miRNA_FFL__n3__gp__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 289s
+[ 2331.5 min] I1_miRNA_FFL n3 gp x2 points 4096-6143 in 289 s (3/8)
+    I1_miRNA_FFL/n3 finished in 288s
+[ 2332.2 min] I1_miRNA_FFL n3 gp x2 points 6144-8191 in 288 s (4/8)
+    I1_miRNA_FFL/n3 finished in 289s
+[ 2333.2 min] I1_miRNA_FFL n3 gp x2 points 10240-12287 in 289 s (5/8)
+    I1_miRNA_FFL/n3 finished in 292s
+[ 2333.3 min] I1_miRNA_FFL n3 gp x2 points 8192-10239 in 292 s (6/8)
+    I1_miRNA_FFL/n3 finished in 290s
+[ 2333.3 min] I1_miRNA_FFL n3 gp x2 points 12288-14335 in 290 s (7/8)
+    I1_miRNA_FFL/n3 finished in 291s
+[ 2333.5 min] I1_miRNA_FFL n3 gp x2 points 14336-16383 in 291 s (8/8)
+  written I1_miRNA_FFL__n3__gp__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 325s
+[ 2334.2 min] I1_miRNA_FFL n3 KS x0.5 points 0-2047 in 325 s (1/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2334.2 min] I1_miRNA_FFL n3 KS x0.5 points 2048-4095 in 324 s (2/8)
+    I1_miRNA_FFL/n3 finished in 321s
+[ 2334.3 min] I1_miRNA_FFL n3 KS x0.5 points 6144-8191 in 321 s (3/8)
+    I1_miRNA_FFL/n3 finished in 339s
+[ 2334.5 min] I1_miRNA_FFL n3 KS x0.5 points 4096-6143 in 339 s (4/8)
+    I1_miRNA_FFL/n3 finished in 312s
+[ 2336.7 min] I1_miRNA_FFL n3 KS x0.5 points 8192-10239 in 312 s (5/8)
+    I1_miRNA_FFL/n3 finished in 319s
+[ 2337.5 min] I1_miRNA_FFL n3 KS x0.5 points 10240-12287 in 319 s (6/8)
+    I1_miRNA_FFL/n3 finished in 320s
+[ 2338.6 min] I1_miRNA_FFL n3 KS x0.5 points 14336-16383 in 320 s (7/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2338.7 min] I1_miRNA_FFL n3 KS x2 points 0-2047 in 324 s (1/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2338.9 min] I1_miRNA_FFL n3 KS x2 points 2048-4095 in 324 s (2/8)
+    I1_miRNA_FFL/n3 finished in 338s
+[ 2338.9 min] I1_miRNA_FFL n3 KS x0.5 points 12288-14335 in 338 s (8/8)
+  written I1_miRNA_FFL__n3__KS__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2339.7 min] I1_miRNA_FFL n3 KS x2 points 6144-8191 in 329 s (3/8)
+    I1_miRNA_FFL/n3 finished in 327s
+[ 2339.7 min] I1_miRNA_FFL n3 KS x2 points 8192-10239 in 327 s (4/8)
+    I1_miRNA_FFL/n3 finished in 339s
+[ 2339.8 min] I1_miRNA_FFL n3 KS x2 points 4096-6143 in 339 s (5/8)
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2340.1 min] I1_miRNA_FFL n3 KS x2 points 10240-12287 in 333 s (6/8)
+    I1_miRNA_FFL/n3 finished in 319s
+[ 2342.0 min] I1_miRNA_FFL n3 KS x2 points 12288-14335 in 319 s (7/8)
+    I1_miRNA_FFL/n3 finished in 325s
+[ 2342.9 min] I1_miRNA_FFL n3 KS x2 points 14336-16383 in 325 s (8/8)
+  written I1_miRNA_FFL__n3__KS__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 330s
+[ 2344.1 min] I1_miRNA_FFL n3 Kxm x0.5 points 0-2047 in 330 s (1/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2344.1 min] I1_miRNA_FFL n3 Kxm x0.5 points 2048-4095 in 326 s (2/8)
+    I1_miRNA_FFL/n3 finished in 321s
+[ 2344.2 min] I1_miRNA_FFL n3 Kxm x0.5 points 4096-6143 in 321 s (3/8)
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2344.3 min] I1_miRNA_FFL n3 Kxm x0.5 points 6144-8191 in 329 s (4/8)
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2345.2 min] I1_miRNA_FFL n3 Kxm x0.5 points 8192-10239 in 329 s (5/8)
+    I1_miRNA_FFL/n3 finished in 311s
+[ 2345.3 min] I1_miRNA_FFL n3 Kxm x0.5 points 14336-16383 in 311 s (6/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2345.3 min] I1_miRNA_FFL n3 Kxm x0.5 points 12288-14335 in 326 s (7/8)
+    I1_miRNA_FFL/n3 finished in 334s
+[ 2345.3 min] I1_miRNA_FFL n3 Kxm x0.5 points 10240-12287 in 334 s (8/8)
+  written I1_miRNA_FFL__n3__Kxm__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 330s
+[ 2347.5 min] I1_miRNA_FFL n3 Kxm x2 points 0-2047 in 330 s (1/8)
+    I1_miRNA_FFL/n3 finished in 325s
+[ 2348.4 min] I1_miRNA_FFL n3 Kxm x2 points 2048-4095 in 325 s (2/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2349.6 min] I1_miRNA_FFL n3 Kxm x2 points 4096-6143 in 331 s (3/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2349.7 min] I1_miRNA_FFL n3 Kxm x2 points 8192-10239 in 331 s (4/8)
+    I1_miRNA_FFL/n3 finished in 325s
+[ 2349.8 min] I1_miRNA_FFL n3 Kxm x2 points 10240-12287 in 325 s (5/8)
+    I1_miRNA_FFL/n3 finished in 313s
+[ 2350.4 min] I1_miRNA_FFL n3 Kxm x2 points 12288-14335 in 313 s (6/8)
+    I1_miRNA_FFL/n3 finished in 378s
+[ 2350.4 min] I1_miRNA_FFL n3 Kxm x2 points 6144-8191 in 378 s (7/8)
+    I1_miRNA_FFL/n3 finished in 318s
+[ 2350.6 min] I1_miRNA_FFL n3 Kxy x0.5 points 0-2047 in 318 s (1/8)
+    I1_miRNA_FFL/n3 finished in 318s
+[ 2350.6 min] I1_miRNA_FFL n3 Kxy x0.5 points 2048-4095 in 318 s (2/8)
+    I1_miRNA_FFL/n3 finished in 335s
+[ 2350.8 min] I1_miRNA_FFL n3 Kxm x2 points 14336-16383 in 335 s (8/8)
+  written I1_miRNA_FFL__n3__Kxm__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 320s
+[ 2352.8 min] I1_miRNA_FFL n3 Kxy x0.5 points 4096-6143 in 320 s (3/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2353.9 min] I1_miRNA_FFL n3 Kxy x0.5 points 6144-8191 in 331 s (4/8)
+    I1_miRNA_FFL/n3 finished in 322s
+[ 2355.0 min] I1_miRNA_FFL n3 Kxy x0.5 points 8192-10239 in 322 s (5/8)
+    I1_miRNA_FFL/n3 finished in 322s
+[ 2355.1 min] I1_miRNA_FFL n3 Kxy x0.5 points 10240-12287 in 322 s (6/8)
+    I1_miRNA_FFL/n3 finished in 322s
+[ 2355.1 min] I1_miRNA_FFL n3 Kxy x0.5 points 12288-14335 in 322 s (7/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2355.8 min] I1_miRNA_FFL n3 Kxy x2 points 0-2047 in 324 s (1/8)
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2355.9 min] I1_miRNA_FFL n3 Kxy x0.5 points 14336-16383 in 329 s (8/8)
+  written I1_miRNA_FFL__n3__Kxy__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2356.0 min] I1_miRNA_FFL n3 Kxy x2 points 2048-4095 in 329 s (2/8)
+    I1_miRNA_FFL/n3 finished in 332s
+[ 2356.1 min] I1_miRNA_FFL n3 Kxy x2 points 4096-6143 in 332 s (3/8)
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2356.4 min] I1_miRNA_FFL n3 Kxy x2 points 6144-8191 in 333 s (4/8)
+    I1_miRNA_FFL/n3 finished in 323s
+[ 2358.2 min] I1_miRNA_FFL n3 Kxy x2 points 8192-10239 in 323 s (5/8)
+    I1_miRNA_FFL/n3 finished in 345s
+[ 2359.6 min] I1_miRNA_FFL n3 Kxy x2 points 10240-12287 in 345 s (6/8)
+    I1_miRNA_FFL/n3 finished in 334s
+[ 2360.5 min] I1_miRNA_FFL n3 Kxy x2 points 12288-14335 in 334 s (7/8)
+    I1_miRNA_FFL/n3 finished in 330s
+[ 2360.6 min] I1_miRNA_FFL n3 Kxy x2 points 14336-16383 in 330 s (8/8)
+  written I1_miRNA_FFL__n3__Kxy__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2360.6 min] I1_miRNA_FFL n3 Kmy x0.5 points 0-2047 in 328 s (1/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2361.2 min] I1_miRNA_FFL n3 Kmy x0.5 points 2048-4095 in 324 s (2/8)
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2361.4 min] I1_miRNA_FFL n3 Kmy x0.5 points 4096-6143 in 328 s (3/8)
+    I1_miRNA_FFL/n3 finished in 323s
+[ 2361.5 min] I1_miRNA_FFL n3 Kmy x0.5 points 8192-10239 in 323 s (4/8)
+    I1_miRNA_FFL/n3 finished in 335s
+[ 2361.6 min] I1_miRNA_FFL n3 Kmy x0.5 points 6144-8191 in 335 s (5/8)
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2361.9 min] I1_miRNA_FFL n3 Kmy x0.5 points 10240-12287 in 329 s (6/8)
+    I1_miRNA_FFL/n3 finished in 336s
+[ 2363.8 min] I1_miRNA_FFL n3 Kmy x0.5 points 12288-14335 in 336 s (7/8)
+    I1_miRNA_FFL/n3 finished in 332s
+[ 2365.1 min] I1_miRNA_FFL n3 Kmy x0.5 points 14336-16383 in 332 s (8/8)
+  written I1_miRNA_FFL__n3__Kmy__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2366.0 min] I1_miRNA_FFL n3 Kmy x2 points 0-2047 in 324 s (1/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2366.0 min] I1_miRNA_FFL n3 Kmy x2 points 4096-6143 in 324 s (2/8)
+    I1_miRNA_FFL/n3 finished in 332s
+[ 2366.1 min] I1_miRNA_FFL n3 Kmy x2 points 2048-4095 in 332 s (3/8)
+    I1_miRNA_FFL/n3 finished in 338s
+[ 2366.9 min] I1_miRNA_FFL n3 Kmy x2 points 6144-8191 in 338 s (4/8)
+    I1_miRNA_FFL/n3 finished in 327s
+[ 2366.9 min] I1_miRNA_FFL n3 Kmy x2 points 10240-12287 in 327 s (5/8)
+    I1_miRNA_FFL/n3 finished in 337s
+[ 2367.0 min] I1_miRNA_FFL n3 Kmy x2 points 8192-10239 in 337 s (6/8)
+    I1_miRNA_FFL/n3 finished in 322s
+[ 2367.0 min] I1_miRNA_FFL n3 Kmy x2 points 12288-14335 in 322 s (7/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2367.3 min] I1_miRNA_FFL n3 Kmy x2 points 14336-16383 in 326 s (8/8)
+  written I1_miRNA_FFL__n3__Kmy__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2369.3 min] I1_miRNA_FFL n3 Kmp x0.5 points 0-2047 in 329 s (1/8)
+    I1_miRNA_FFL/n3 finished in 327s
+[ 2370.6 min] I1_miRNA_FFL n3 Kmp x0.5 points 2048-4095 in 327 s (2/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2371.5 min] I1_miRNA_FFL n3 Kmp x0.5 points 6144-8191 in 331 s (3/8)
+    I1_miRNA_FFL/n3 finished in 330s
+[ 2371.6 min] I1_miRNA_FFL n3 Kmp x0.5 points 8192-10239 in 330 s (4/8)
+    I1_miRNA_FFL/n3 finished in 344s
+[ 2371.7 min] I1_miRNA_FFL n3 Kmp x0.5 points 4096-6143 in 344 s (5/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2372.3 min] I1_miRNA_FFL n3 Kmp x0.5 points 10240-12287 in 326 s (6/8)
+    I1_miRNA_FFL/n3 finished in 323s
+[ 2372.3 min] I1_miRNA_FFL n3 Kmp x0.5 points 12288-14335 in 323 s (7/8)
+    I1_miRNA_FFL/n3 finished in 323s
+[ 2372.4 min] I1_miRNA_FFL n3 Kmp x2 points 0-2047 in 323 s (1/8)
+    I1_miRNA_FFL/n3 finished in 339s
+[ 2372.6 min] I1_miRNA_FFL n3 Kmp x0.5 points 14336-16383 in 339 s (8/8)
+  written I1_miRNA_FFL__n3__Kmp__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 329s
+[ 2372.8 min] I1_miRNA_FFL n3 Kmp x2 points 2048-4095 in 329 s (2/8)
+    I1_miRNA_FFL/n3 finished in 342s
+[ 2375.0 min] I1_miRNA_FFL n3 Kmp x2 points 4096-6143 in 342 s (3/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2376.0 min] I1_miRNA_FFL n3 Kmp x2 points 6144-8191 in 326 s (4/8)
+    I1_miRNA_FFL/n3 finished in 320s
+[ 2376.9 min] I1_miRNA_FFL n3 Kmp x2 points 8192-10239 in 320 s (5/8)
+    I1_miRNA_FFL/n3 finished in 318s
+[ 2376.9 min] I1_miRNA_FFL n3 Kmp x2 points 10240-12287 in 318 s (6/8)
+    I1_miRNA_FFL/n3 finished in 320s
+[ 2377.0 min] I1_miRNA_FFL n3 Kmp x2 points 12288-14335 in 320 s (7/8)
+    I1_miRNA_FFL/n3 finished in 321s
+[ 2377.7 min] I1_miRNA_FFL n3 lam_y x0.5 points 0-2047 in 321 s (1/8)
+    I1_miRNA_FFL/n3 finished in 325s
+[ 2377.7 min] I1_miRNA_FFL n3 Kmp x2 points 14336-16383 in 325 s (8/8)
+  written I1_miRNA_FFL__n3__Kmp__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 309s
+[ 2378.0 min] I1_miRNA_FFL n3 lam_y x0.5 points 6144-8191 in 309 s (2/8)
+    I1_miRNA_FFL/n3 finished in 338s
+[ 2378.0 min] I1_miRNA_FFL n3 lam_y x0.5 points 2048-4095 in 338 s (3/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2378.0 min] I1_miRNA_FFL n3 lam_y x0.5 points 4096-6143 in 324 s (4/8)
+    I1_miRNA_FFL/n3 finished in 321s
+[ 2380.3 min] I1_miRNA_FFL n3 lam_y x0.5 points 8192-10239 in 321 s (5/8)
+    I1_miRNA_FFL/n3 finished in 317s
+[ 2381.3 min] I1_miRNA_FFL n3 lam_y x0.5 points 10240-12287 in 317 s (6/8)
+    I1_miRNA_FFL/n3 finished in 327s
+[ 2382.3 min] I1_miRNA_FFL n3 lam_y x0.5 points 12288-14335 in 327 s (7/8)
+    I1_miRNA_FFL/n3 finished in 327s
+[ 2382.4 min] I1_miRNA_FFL n3 lam_y x0.5 points 14336-16383 in 327 s (8/8)
+  written I1_miRNA_FFL__n3__lam_y__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2382.6 min] I1_miRNA_FFL n3 lam_y x2 points 0-2047 in 333 s (1/8)
+    I1_miRNA_FFL/n3 finished in 348s
+[ 2383.5 min] I1_miRNA_FFL n3 lam_y x2 points 2048-4095 in 348 s (2/8)
+    I1_miRNA_FFL/n3 finished in 337s
+[ 2383.6 min] I1_miRNA_FFL n3 lam_y x2 points 6144-8191 in 337 s (3/8)
+    I1_miRNA_FFL/n3 finished in 356s
+[ 2383.6 min] I1_miRNA_FFL n3 lam_y x2 points 4096-6143 in 356 s (4/8)
+    I1_miRNA_FFL/n3 finished in 342s
+[ 2383.7 min] I1_miRNA_FFL n3 lam_y x2 points 8192-10239 in 342 s (5/8)
+    I1_miRNA_FFL/n3 finished in 345s
+[ 2383.8 min] I1_miRNA_FFL n3 lam_y x2 points 10240-12287 in 345 s (6/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2385.7 min] I1_miRNA_FFL n3 lam_y x2 points 12288-14335 in 324 s (7/8)
+    I1_miRNA_FFL/n3 finished in 326s
+[ 2386.8 min] I1_miRNA_FFL n3 lam_y x2 points 14336-16383 in 326 s (8/8)
+  written I1_miRNA_FFL__n3__lam_y__x2.csv.gz
+    I1_miRNA_FFL/n3 finished in 328s
+[ 2387.8 min] I1_miRNA_FFL n3 theta x0.5 points 0-2047 in 328 s (1/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2387.9 min] I1_miRNA_FFL n3 theta x0.5 points 2048-4095 in 331 s (2/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2388.1 min] I1_miRNA_FFL n3 theta x0.5 points 4096-6143 in 331 s (3/8)
+    I1_miRNA_FFL/n3 finished in 330s
+[ 2389.0 min] I1_miRNA_FFL n3 theta x0.5 points 6144-8191 in 330 s (4/8)
+    I1_miRNA_FFL/n3 finished in 331s
+[ 2389.2 min] I1_miRNA_FFL n3 theta x0.5 points 10240-12287 in 331 s (5/8)
+    I1_miRNA_FFL/n3 finished in 335s
+[ 2389.2 min] I1_miRNA_FFL n3 theta x0.5 points 8192-10239 in 335 s (6/8)
+    I1_miRNA_FFL/n3 finished in 344s
+[ 2389.4 min] I1_miRNA_FFL n3 theta x0.5 points 12288-14335 in 344 s (7/8)
+    I1_miRNA_FFL/n3 finished in 345s
+[ 2389.5 min] I1_miRNA_FFL n3 theta x0.5 points 14336-16383 in 345 s (8/8)
+  written I1_miRNA_FFL__n3__theta__x0.5.csv.gz
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2391.3 min] I1_miRNA_FFL n3 theta x2 points 0-2047 in 333 s (1/8)
+    I1_miRNA_FFL/n3 finished in 311s
+[ 2391.9 min] I1_miRNA_FFL n3 theta x2 points 2048-4095 in 311 s (2/8)
+    I1_miRNA_FFL/n3 finished in 324s
+[ 2393.3 min] I1_miRNA_FFL n3 theta x2 points 6144-8191 in 324 s (3/8)
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2393.3 min] I1_miRNA_FFL n3 theta x2 points 4096-6143 in 333 s (4/8)
+    I1_miRNA_FFL/n3 finished in 317s
+[ 2393.4 min] I1_miRNA_FFL n3 theta x2 points 8192-10239 in 317 s (5/8)
+    I1_miRNA_FFL/n3 finished in 333s
+[ 2394.5 min] I1_miRNA_FFL n3 theta x2 points 10240-12287 in 333 s (6/8)
+    I1_miRNA_FFL/n3 finished in 322s
+[ 2394.5 min] I1_miRNA_FFL n3 theta x2 points 12288-14335 in 322 s (7/8)
+    I1_miRNA_FFL/n3 finished in 349s
+[ 2395.0 min] I1_miRNA_FFL n3 theta x2 points 14336-16383 in 349 s (8/8)
+  written I1_miRNA_FFL__n3__theta__x2.csv.gz
+    COMP_C2_toggle/n4 finished in 1066s
+[ 2407.3 min] COMP_C2_toggle n4 gm x0.5 points 2048-4095 in 1066 s (1/8)
+    COMP_C2_toggle/n4 finished in 1073s
+[ 2407.3 min] COMP_C2_toggle n4 gm x0.5 points 0-2047 in 1073 s (2/8)
+    COMP_C2_toggle/n4 finished in 1037s
+[ 2409.2 min] COMP_C2_toggle n4 gm x0.5 points 6144-8191 in 1037 s (3/8)
+    COMP_C2_toggle/n4 finished in 1076s
+[ 2409.2 min] COMP_C2_toggle n4 gm x0.5 points 4096-6143 in 1076 s (4/8)
+    COMP_C2_toggle/n4 finished in 951s
+[ 2410.4 min] COMP_C2_toggle n4 gm x2 points 0-2047 in 951 s (1/8)
+    COMP_C2_toggle/n4 finished in 1065s
+[ 2411.0 min] COMP_C2_toggle n4 gm x0.5 points 8192-10239 in 1065 s (5/8)
+    COMP_C2_toggle/n4 finished in 967s
+[ 2411.1 min] COMP_C2_toggle n4 gm x2 points 2048-4095 in 967 s (2/8)
+    COMP_C2_toggle/n4 finished in 1068s
+[ 2411.1 min] COMP_C2_toggle n4 gm x0.5 points 10240-12287 in 1068 s (6/8)
+    COMP_C2_toggle/n4 finished in 1072s
+[ 2411.2 min] COMP_C2_toggle n4 gm x0.5 points 12288-14335 in 1072 s (7/8)
+    COMP_C2_toggle/n4 finished in 1068s
+[ 2412.3 min] COMP_C2_toggle n4 gm x0.5 points 14336-16383 in 1068 s (8/8)
+  written COMP_C2_toggle__n4__gm__x0.5.csv.gz
+    COMP_C2_toggle/n4 finished in 976s
+[ 2423.6 min] COMP_C2_toggle n4 gm x2 points 6144-8191 in 976 s (3/8)
+    COMP_C2_toggle/n4 finished in 981s
+[ 2423.7 min] COMP_C2_toggle n4 gm x2 points 4096-6143 in 981 s (4/8)
+    COMP_C2_toggle/n4 finished in 974s
+[ 2425.5 min] COMP_C2_toggle n4 gm x2 points 10240-12287 in 974 s (5/8)
+    COMP_C2_toggle/n4 finished in 980s
+[ 2425.5 min] COMP_C2_toggle n4 gm x2 points 8192-10239 in 980 s (6/8)
+    COMP_C2_toggle/n4 finished in 977s
+[ 2426.7 min] COMP_C2_toggle n4 gm x2 points 12288-14335 in 977 s (7/8)
+    COMP_C2_toggle/n4 finished in 979s
+[ 2427.4 min] COMP_C2_toggle n4 gm x2 points 14336-16383 in 979 s (8/8)
+  written COMP_C2_toggle__n4__gm__x2.csv.gz
+    COMP_C2_toggle/n4 finished in 1260s
+[ 2432.1 min] COMP_C2_toggle n4 gp x0.5 points 2048-4095 in 1260 s (1/8)
+    COMP_C2_toggle/n4 finished in 1273s
+[ 2432.5 min] COMP_C2_toggle n4 gp x0.5 points 4096-6143 in 1273 s (2/8)
+    COMP_C2_toggle/n4 finished in 1283s
+[ 2432.5 min] COMP_C2_toggle n4 gp x0.5 points 0-2047 in 1283 s (3/8)
+    COMP_C2_toggle/n4 finished in 1281s
+[ 2433.7 min] COMP_C2_toggle n4 gp x0.5 points 6144-8191 in 1281 s (4/8)
+    COMP_C2_toggle/n4 finished in 802s
+[ 2440.0 min] COMP_C2_toggle n4 gp x2 points 0-2047 in 802 s (1/8)
+    COMP_C2_toggle/n4 finished in 802s
+[ 2440.7 min] COMP_C2_toggle n4 gp x2 points 2048-4095 in 802 s (2/8)
+    COMP_C2_toggle/n4 finished in 1271s
+[ 2444.8 min] COMP_C2_toggle n4 gp x0.5 points 8192-10239 in 1271 s (5/8)
+    COMP_C2_toggle/n4 finished in 1275s
+[ 2444.9 min] COMP_C2_toggle n4 gp x0.5 points 10240-12287 in 1275 s (6/8)
+    COMP_C2_toggle/n4 finished in 787s
+[ 2445.6 min] COMP_C2_toggle n4 gp x2 points 6144-8191 in 787 s (3/8)
+    COMP_C2_toggle/n4 finished in 819s
+[ 2445.8 min] COMP_C2_toggle n4 gp x2 points 4096-6143 in 820 s (4/8)
+    COMP_C2_toggle/n4 finished in 802s
+[ 2445.9 min] COMP_C2_toggle n4 gp x2 points 8192-10239 in 802 s (5/8)
+    COMP_C2_toggle/n4 finished in 1272s
+[ 2446.7 min] COMP_C2_toggle n4 gp x0.5 points 12288-14335 in 1272 s (7/8)
+    COMP_C2_toggle/n4 finished in 1272s
+[ 2446.7 min] COMP_C2_toggle n4 gp x0.5 points 14336-16383 in 1272 s (8/8)
+  written COMP_C2_toggle__n4__gp__x0.5.csv.gz
+    COMP_C2_toggle/n4 finished in 809s
+[ 2447.1 min] COMP_C2_toggle n4 gp x2 points 10240-12287 in 809 s (6/8)
+    COMP_C2_toggle/n4 finished in 804s
+[ 2453.4 min] COMP_C2_toggle n4 gp x2 points 12288-14335 in 804 s (7/8)
+    COMP_C2_toggle/n4 finished in 808s
+[ 2454.2 min] COMP_C2_toggle n4 gp x2 points 14336-16383 in 808 s (8/8)
+  written COMP_C2_toggle__n4__gp__x2.csv.gz
+    COMP_C2_toggle/n4 finished in 833s
+[ 2459.7 min] COMP_C2_toggle n4 Kxm x0.5 points 6144-8191 in 833 s (1/8)
+    COMP_C2_toggle/n4 finished in 867s
+[ 2461.1 min] COMP_C2_toggle n4 Kxm x0.5 points 10240-12287 in 867 s (2/8)
+    COMP_C2_toggle/n4 finished in 983s
+[ 2461.2 min] COMP_C2_toggle n4 Kxm x0.5 points 0-2047 in 983 s (3/8)
+    COMP_C2_toggle/n4 finished in 1016s
+[ 2461.9 min] COMP_C2_toggle n4 Kxm x0.5 points 2048-4095 in 1016 s (4/8)
+    COMP_C2_toggle/n4 finished in 917s
+[ 2462.0 min] COMP_C2_toggle n4 Kxm x0.5 points 12288-14335 in 917 s (5/8)
+    COMP_C2_toggle/n4 finished in 1042s
+[ 2462.9 min] COMP_C2_toggle n4 Kxm x0.5 points 4096-6143 in 1042 s (6/8)
+    COMP_C2_toggle/n4 finished in 1032s
+[ 2463.1 min] COMP_C2_toggle n4 Kxm x0.5 points 8192-10239 in 1032 s (7/8)
+    COMP_C2_toggle/n4 finished in 1044s
+[ 2464.5 min] COMP_C2_toggle n4 Kxm x0.5 points 14336-16383 in 1044 s (8/8)
+  written COMP_C2_toggle__n4__Kxm__x0.5.csv.gz
+    COMP_C2_toggle/n4 finished in 710s
+[ 2466.0 min] COMP_C2_toggle n4 Kxm x2 points 2048-4095 in 710 s (1/8)
+    COMP_C2_toggle/n4 finished in 894s
+[ 2468.3 min] COMP_C2_toggle n4 Kxm x2 points 0-2047 in 894 s (2/8)
+    COMP_C2_toggle/n4 finished in 624s
+[ 2471.5 min] COMP_C2_toggle n4 Kxm x2 points 6144-8191 in 624 s (3/8)
+    COMP_C2_toggle/n4 finished in 727s
+[ 2471.8 min] COMP_C2_toggle n4 Kxm x2 points 4096-6143 in 727 s (4/8)
+    COMP_C2_toggle/n4 finished in 778s
+[ 2475.0 min] COMP_C2_toggle n4 Kxm x2 points 12288-14335 in 778 s (5/8)
+    COMP_C2_toggle/n4 finished in 752s
+[ 2475.5 min] COMP_C2_toggle n4 Kxm x2 points 14336-16383 in 752 s (6/8)
+    COMP_C2_toggle/n4 finished in 613s
+[ 2476.2 min] COMP_C2_toggle n4 Kmx x0.5 points 4096-6143 in 613 s (1/8)
+    COMP_C2_toggle/n4 finished in 808s
+[ 2476.5 min] COMP_C2_toggle n4 Kmx x0.5 points 0-2047 in 808 s (2/8)
+    COMP_C2_toggle/n4 finished in 938s
+[ 2476.8 min] COMP_C2_toggle n4 Kxm x2 points 8192-10239 in 938 s (7/8)
+    COMP_C2_toggle/n4 finished in 827s
+[ 2478.3 min] COMP_C2_toggle n4 Kmx x0.5 points 2048-4095 in 827 s (3/8)
+    COMP_C2_toggle/n4 finished in 615s
+[ 2478.6 min] COMP_C2_toggle n4 Kmx x0.5 points 6144-8191 in 615 s (4/8)
+    COMP_C2_toggle/n4 finished in 1016s
+[ 2478.8 min] COMP_C2_toggle n4 Kxm x2 points 10240-12287 in 1016 s (8/8)
+  written COMP_C2_toggle__n4__Kxm__x2.csv.gz
+    COMP_C2_toggle/n4 finished in 614s
+[ 2481.7 min] COMP_C2_toggle n4 Kmx x0.5 points 8192-10239 in 614 s (5/8)
+    COMP_C2_toggle/n4 finished in 636s
+[ 2486.1 min] COMP_C2_toggle n4 Kmx x0.5 points 14336-16383 in 636 s (6/8)
+    COMP_C2_toggle/n4 finished in 928s
+[ 2487.3 min] COMP_C2_toggle n4 Kmx x0.5 points 10240-12287 in 928 s (7/8)
+    COMP_C2_toggle/n4 finished in 730s
+[ 2488.4 min] COMP_C2_toggle n4 Kmx x2 points 0-2047 in 730 s (1/8)
+    COMP_C2_toggle/n4 finished in 660s
+[ 2489.3 min] COMP_C2_toggle n4 Kmx x2 points 6144-8191 in 660 s (2/8)
+    COMP_C2_toggle/n4 finished in 656s
+[ 2489.5 min] COMP_C2_toggle n4 Kmx x2 points 8192-10239 in 656 s (3/8)
+    COMP_C2_toggle/n4 finished in 822s
+[ 2490.5 min] COMP_C2_toggle n4 Kmx x2 points 4096-6143 in 822 s (4/8)
+    COMP_C2_toggle/n4 finished in 987s
+[ 2491.4 min] COMP_C2_toggle n4 Kmx x0.5 points 12288-14335 in 987 s (8/8)
+  written COMP_C2_toggle__n4__Kmx__x0.5.csv.gz
+    COMP_C2_toggle/n4 finished in 657s
+[ 2492.7 min] COMP_C2_toggle n4 Kmx x2 points 12288-14335 in 657 s (5/8)
+    COMP_C2_toggle/n4 finished in 1055s
+[ 2494.1 min] COMP_C2_toggle n4 Kmx x2 points 2048-4095 in 1055 s (6/8)
+    COMP_C2_toggle/n4 finished in 1054s
+[ 2496.3 min] COMP_C2_toggle n4 Kmx x2 points 10240-12287 in 1054 s (7/8)
+    COMP_C2_toggle/n4 finished in 551s
+[ 2498.5 min] COMP_C2_toggle n4 kappa x0.5 points 4096-6143 in 551 s (1/8)
+    COMP_C2_toggle/n4 finished in 549s
+[ 2498.7 min] COMP_C2_toggle n4 kappa x0.5 points 6144-8191 in 549 s (2/8)
+    COMP_C2_toggle/n4 finished in 545s
+[ 2499.6 min] COMP_C2_toggle n4 kappa x0.5 points 8192-10239 in 545 s (3/8)
+    COMP_C2_toggle/n4 finished in 891s
+[ 2502.1 min] COMP_C2_toggle n4 kappa x0.5 points 0-2047 in 891 s (4/8)
+    COMP_C2_toggle/n4 finished in 877s
+[ 2503.0 min] COMP_C2_toggle n4 kappa x0.5 points 2048-4095 in 877 s (5/8)
+    COMP_C2_toggle/n4 finished in 1035s
+[ 2503.3 min] COMP_C2_toggle n4 Kmx x2 points 14336-16383 in 1035 s (8/8)
+  written COMP_C2_toggle__n4__Kmx__x2.csv.gz
+    COMP_C2_toggle/n4 finished in 711s
+[ 2504.5 min] COMP_C2_toggle n4 kappa x0.5 points 12288-14335 in 711 s (6/8)
+    COMP_C2_toggle/n4 finished in 691s
+[ 2505.7 min] COMP_C2_toggle n4 kappa x0.5 points 14336-16383 in 691 s (7/8)
+    COMP_C2_toggle/n4 finished in 886s
+[ 2506.2 min] COMP_C2_toggle n4 kappa x0.5 points 10240-12287 in 886 s (8/8)
+  written COMP_C2_toggle__n4__kappa__x0.5.csv.gz
+    COMP_C2_toggle/n4 finished in 763s
+[ 2511.2 min] COMP_C2_toggle n4 kappa x2 points 2048-4095 in 763 s (1/8)
+    COMP_C2_toggle/n4 finished in 761s
+[ 2511.3 min] COMP_C2_toggle n4 kappa x2 points 4096-6143 in 761 s (2/8)
+    COMP_C2_toggle/n4 finished in 756s
+[ 2515.6 min] COMP_C2_toggle n4 kappa x2 points 10240-12287 in 756 s (3/8)
+    COMP_C2_toggle/n4 finished in 753s
+[ 2515.9 min] COMP_C2_toggle n4 kappa x2 points 12288-14335 in 753 s (4/8)
+    COMP_C2_toggle/n4 finished in 1215s
+[ 2516.6 min] COMP_C2_toggle n4 kappa x2 points 0-2047 in 1215 s (5/8)
+    COMP_C2_toggle/n4 finished in 1110s
+[ 2518.1 min] COMP_C2_toggle n4 kappa x2 points 6144-8191 in 1110 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 670s
+[ 2522.4 min] COMP_I1_negfeedback n4 gm x0.5 points 4096-6143 in 670 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 665s
+[ 2522.4 min] COMP_I1_negfeedback n4 gm x0.5 points 6144-8191 in 665 s (2/8)
+    COMP_C2_toggle/n4 finished in 1223s
+[ 2522.5 min] COMP_C2_toggle n4 kappa x2 points 8192-10239 in 1223 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 1078s
+[ 2523.6 min] COMP_I1_negfeedback n4 gm x0.5 points 0-2047 in 1078 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 1082s
+[ 2524.2 min] COMP_I1_negfeedback n4 gm x0.5 points 2048-4095 in 1082 s (4/8)
+    COMP_C2_toggle/n4 finished in 1225s
+[ 2525.0 min] COMP_C2_toggle n4 kappa x2 points 14336-16383 in 1225 s (8/8)
+  written COMP_C2_toggle__n4__kappa__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 667s
+[ 2526.7 min] COMP_I1_negfeedback n4 gm x0.5 points 8192-10239 in 667 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 663s
+[ 2526.9 min] COMP_I1_negfeedback n4 gm x0.5 points 10240-12287 in 663 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 639s
+[ 2533.1 min] COMP_I1_negfeedback n4 gm x2 points 4096-6143 in 639 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 1081s
+[ 2534.6 min] COMP_I1_negfeedback n4 gm x0.5 points 12288-14335 in 1081 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 808s
+[ 2535.8 min] COMP_I1_negfeedback n4 gm x2 points 0-2047 in 808 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 1072s
+[ 2535.9 min] COMP_I1_negfeedback n4 gm x0.5 points 14336-16383 in 1072 s (8/8)
+  written COMP_I1_negfeedback__n4__gm__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 712s
+[ 2536.1 min] COMP_I1_negfeedback n4 gm x2 points 8192-10239 in 712 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 702s
+[ 2536.6 min] COMP_I1_negfeedback n4 gm x2 points 10240-12287 in 702 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 621s
+[ 2537.3 min] COMP_I1_negfeedback n4 gm x2 points 14336-16383 in 621 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 1000s
+[ 2539.1 min] COMP_I1_negfeedback n4 gm x2 points 2048-4095 in 1000 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1015s
+[ 2540.5 min] COMP_I1_negfeedback n4 gm x2 points 6144-8191 in 1015 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 969s
+[ 2542.9 min] COMP_I1_negfeedback n4 gm x2 points 12288-14335 in 969 s (8/8)
+  written COMP_I1_negfeedback__n4__gm__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 826s
+[ 2546.9 min] COMP_I1_negfeedback n4 gp x0.5 points 0-2047 in 826 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 824s
+[ 2549.8 min] COMP_I1_negfeedback n4 gp x0.5 points 8192-10239 in 824 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 819s
+[ 2550.9 min] COMP_I1_negfeedback n4 gp x0.5 points 12288-14335 in 819 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 536s
+[ 2551.8 min] COMP_I1_negfeedback n4 gp x2 points 2048-4095 in 536 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 836s
+[ 2554.4 min] COMP_I1_negfeedback n4 gp x2 points 0-2047 in 836 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 1069s
+[ 2554.5 min] COMP_I1_negfeedback n4 gp x0.5 points 10240-12287 in 1069 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 926s
+[ 2554.5 min] COMP_I1_negfeedback n4 gp x0.5 points 14336-16383 in 926 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 511s
+[ 2555.4 min] COMP_I1_negfeedback n4 gp x2 points 4096-6143 in 511 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 1332s
+[ 2556.8 min] COMP_I1_negfeedback n4 gp x0.5 points 2048-4095 in 1332 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1278s
+[ 2557.1 min] COMP_I1_negfeedback n4 gp x0.5 points 4096-6143 in 1278 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 1321s
+[ 2557.9 min] COMP_I1_negfeedback n4 gp x0.5 points 6144-8191 in 1321 s (8/8)
+  written COMP_I1_negfeedback__n4__gp__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 510s
+[ 2558.3 min] COMP_I1_negfeedback n4 gp x2 points 6144-8191 in 510 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 507s
+[ 2559.4 min] COMP_I1_negfeedback n4 gp x2 points 8192-10239 in 507 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 510s
+[ 2560.3 min] COMP_I1_negfeedback n4 gp x2 points 10240-12287 in 510 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 629s
+[ 2565.0 min] COMP_I1_negfeedback n4 Kxm x0.5 points 0-2047 in 629 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 625s
+[ 2565.8 min] COMP_I1_negfeedback n4 Kxm x0.5 points 2048-4095 in 625 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 832s
+[ 2568.3 min] COMP_I1_negfeedback n4 gp x2 points 12288-14335 in 832 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 836s
+[ 2568.4 min] COMP_I1_negfeedback n4 gp x2 points 14336-16383 in 836 s (8/8)
+  written COMP_I1_negfeedback__n4__gp__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 622s
+[ 2568.7 min] COMP_I1_negfeedback n4 Kxm x0.5 points 10240-12287 in 622 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 621s
+[ 2569.7 min] COMP_I1_negfeedback n4 Kxm x0.5 points 12288-14335 in 621 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 628s
+[ 2570.8 min] COMP_I1_negfeedback n4 Kxm x0.5 points 14336-16383 in 628 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 958s
+[ 2573.1 min] COMP_I1_negfeedback n4 Kxm x0.5 points 6144-8191 in 958 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1024s
+[ 2573.9 min] COMP_I1_negfeedback n4 Kxm x0.5 points 4096-6143 in 1024 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 1011s
+[ 2574.8 min] COMP_I1_negfeedback n4 Kxm x0.5 points 8192-10239 in 1011 s (8/8)
+  written COMP_I1_negfeedback__n4__Kxm__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 661s
+[ 2576.0 min] COMP_I1_negfeedback n4 Kxm x2 points 0-2047 in 661 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 662s
+[ 2576.9 min] COMP_I1_negfeedback n4 Kxm x2 points 2048-4095 in 662 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 660s
+[ 2579.7 min] COMP_I1_negfeedback n4 Kxm x2 points 8192-10239 in 660 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 657s
+[ 2580.7 min] COMP_I1_negfeedback n4 Kxm x2 points 10240-12287 in 657 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 662s
+[ 2581.8 min] COMP_I1_negfeedback n4 Kxm x2 points 12288-14335 in 662 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 1066s
+[ 2586.1 min] COMP_I1_negfeedback n4 Kxm x2 points 4096-6143 in 1066 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1074s
+[ 2586.3 min] COMP_I1_negfeedback n4 Kxm x2 points 6144-8191 in 1074 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 889s
+[ 2587.9 min] COMP_I1_negfeedback n4 Kxm x2 points 14336-16383 in 889 s (8/8)
+  written COMP_I1_negfeedback__n4__Kxm__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 667s
+[ 2588.0 min] COMP_I1_negfeedback n4 Kxy x0.5 points 6144-8191 in 667 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 779s
+[ 2589.0 min] COMP_I1_negfeedback n4 Kxy x0.5 points 4096-6143 in 779 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 669s
+[ 2590.9 min] COMP_I1_negfeedback n4 Kxy x0.5 points 8192-10239 in 669 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 1093s
+[ 2592.1 min] COMP_I1_negfeedback n4 Kxy x0.5 points 0-2047 in 1093 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1081s
+[ 2592.8 min] COMP_I1_negfeedback n4 Kxy x0.5 points 2048-4095 in 1081 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 670s
+[ 2593.0 min] COMP_I1_negfeedback n4 Kxy x0.5 points 12288-14335 in 670 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 956s
+[ 2596.6 min] COMP_I1_negfeedback n4 Kxy x0.5 points 10240-12287 in 956 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 609s
+[ 2598.1 min] COMP_I1_negfeedback n4 Kxy x2 points 2048-4095 in 609 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 609s
+[ 2598.1 min] COMP_I1_negfeedback n4 Kxy x2 points 4096-6143 in 609 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 606s
+[ 2601.0 min] COMP_I1_negfeedback n4 Kxy x2 points 8192-10239 in 606 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 995s
+[ 2602.9 min] COMP_I1_negfeedback n4 Kxy x2 points 0-2047 in 995 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 613s
+[ 2603.2 min] COMP_I1_negfeedback n4 Kxy x2 points 14336-16383 in 613 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 1075s
+[ 2604.0 min] COMP_I1_negfeedback n4 Kxy x0.5 points 14336-16383 in 1075 s (8/8)
+  written COMP_I1_negfeedback__n4__Kxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 992s
+[ 2605.5 min] COMP_I1_negfeedback n4 Kxy x2 points 6144-8191 in 992 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 991s
+[ 2608.6 min] COMP_I1_negfeedback n4 Kxy x2 points 10240-12287 in 991 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 664s
+[ 2609.2 min] COMP_I1_negfeedback n4 nxy x0.5 points 2048-4095 in 664 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 665s
+[ 2609.2 min] COMP_I1_negfeedback n4 nxy x0.5 points 4096-6143 in 665 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 989s
+[ 2609.3 min] COMP_I1_negfeedback n4 Kxy x2 points 12288-14335 in 989 s (8/8)
+  written COMP_I1_negfeedback__n4__Kxy__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 667s
+[ 2612.1 min] COMP_I1_negfeedback n4 nxy x0.5 points 6144-8191 in 667 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 668s
+[ 2614.3 min] COMP_I1_negfeedback n4 nxy x0.5 points 10240-12287 in 668 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1084s
+[ 2614.7 min] COMP_I1_negfeedback n4 nxy x0.5 points 0-2047 in 1084 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 624s
+[ 2619.6 min] COMP_I1_negfeedback n4 nxy x2 points 4096-6143 in 624 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 875s
+[ 2620.1 min] COMP_I1_negfeedback n4 nxy x0.5 points 14336-16383 in 875 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1079s
+[ 2620.9 min] COMP_I1_negfeedback n4 nxy x0.5 points 8192-10239 in 1079 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 1073s
+[ 2621.9 min] COMP_I1_negfeedback n4 nxy x0.5 points 12288-14335 in 1073 s (8/8)
+  written COMP_I1_negfeedback__n4__nxy__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 622s
+[ 2622.4 min] COMP_I1_negfeedback n4 nxy x2 points 8192-10239 in 622 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 807s
+[ 2622.6 min] COMP_I1_negfeedback n4 nxy x2 points 2048-4095 in 807 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 627s
+[ 2624.8 min] COMP_I1_negfeedback n4 nxy x2 points 10240-12287 in 627 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1025s
+[ 2625.7 min] COMP_I1_negfeedback n4 nxy x2 points 0-2047 in 1025 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 1012s
+[ 2626.2 min] COMP_I1_negfeedback n4 nxy x2 points 6144-8191 in 1012 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 624s
+[ 2630.0 min] COMP_I1_negfeedback n4 nxy x2 points 14336-16383 in 624 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 640s
+[ 2630.8 min] COMP_I1_negfeedback n4 Kmx x0.5 points 0-2047 in 640 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 1009s
+[ 2631.5 min] COMP_I1_negfeedback n4 nxy x2 points 12288-14335 in 1009 s (8/8)
+  written COMP_I1_negfeedback__n4__nxy__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 675s
+[ 2633.7 min] COMP_I1_negfeedback n4 Kmx x0.5 points 6144-8191 in 675 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 637s
+[ 2635.4 min] COMP_I1_negfeedback n4 Kmx x0.5 points 10240-12287 in 637 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 858s
+[ 2636.2 min] COMP_I1_negfeedback n4 Kmx x0.5 points 4096-6143 in 858 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1033s
+[ 2638.1 min] COMP_I1_negfeedback n4 Kmx x0.5 points 2048-4095 in 1033 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 766s
+[ 2638.9 min] COMP_I1_negfeedback n4 Kmx x0.5 points 14336-16383 in 766 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 1024s
+[ 2639.7 min] COMP_I1_negfeedback n4 Kmx x0.5 points 8192-10239 in 1024 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 652s
+[ 2640.9 min] COMP_I1_negfeedback n4 Kmx x2 points 0-2047 in 652 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 652s
+[ 2641.7 min] COMP_I1_negfeedback n4 Kmx x2 points 2048-4095 in 652 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 1031s
+[ 2642.9 min] COMP_I1_negfeedback n4 Kmx x0.5 points 12288-14335 in 1031 s (8/8)
+  written COMP_I1_negfeedback__n4__Kmx__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 645s
+[ 2646.9 min] COMP_I1_negfeedback n4 Kmx x2 points 10240-12287 in 645 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 806s
+[ 2648.8 min] COMP_I1_negfeedback n4 Kmx x2 points 8192-10239 in 806 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1054s
+[ 2649.1 min] COMP_I1_negfeedback n4 Kmx x2 points 4096-6143 in 1054 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 604s
+[ 2649.7 min] COMP_I1_negfeedback n4 kappa x0.5 points 0-2047 in 604 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 655s
+[ 2649.8 min] COMP_I1_negfeedback n4 Kmx x2 points 14336-16383 in 655 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 548s
+[ 2650.0 min] COMP_I1_negfeedback n4 kappa x0.5 points 2048-4095 in 548 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 982s
+[ 2650.1 min] COMP_I1_negfeedback n4 Kmx x2 points 6144-8191 in 982 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 549s
+[ 2650.8 min] COMP_I1_negfeedback n4 kappa x0.5 points 4096-6143 in 549 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 1046s
+[ 2655.5 min] COMP_I1_negfeedback n4 Kmx x2 points 12288-14335 in 1046 s (8/8)
+  written COMP_I1_negfeedback__n4__Kmx__x2.csv.gz
+    COMP_I1_negfeedback/n4 finished in 547s
+[ 2656.0 min] COMP_I1_negfeedback n4 kappa x0.5 points 8192-10239 in 547 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 900s
+[ 2657.9 min] COMP_I1_negfeedback n4 kappa x0.5 points 6144-8191 in 900 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 547s
+[ 2658.9 min] COMP_I1_negfeedback n4 kappa x0.5 points 14336-16383 in 547 s (6/8)
+    COMP_I1_negfeedback/n4 finished in 770s
+[ 2662.8 min] COMP_I1_negfeedback n4 kappa x2 points 2048-4095 in 770 s (1/8)
+    COMP_I1_negfeedback/n4 finished in 786s
+[ 2662.9 min] COMP_I1_negfeedback n4 kappa x2 points 0-2047 in 786 s (2/8)
+    COMP_I1_negfeedback/n4 finished in 895s
+[ 2663.7 min] COMP_I1_negfeedback n4 kappa x0.5 points 10240-12287 in 895 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 778s
+[ 2663.8 min] COMP_I1_negfeedback n4 kappa x2 points 6144-8191 in 778 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 899s
+[ 2664.1 min] COMP_I1_negfeedback n4 kappa x0.5 points 12288-14335 in 899 s (8/8)
+  written COMP_I1_negfeedback__n4__kappa__x0.5.csv.gz
+    COMP_I1_negfeedback/n4 finished in 774s
+[ 2668.9 min] COMP_I1_negfeedback n4 kappa x2 points 10240-12287 in 774 s (4/8)
+    COMP_I1_negfeedback/n4 finished in 1163s
+[ 2669.5 min] COMP_I1_negfeedback n4 kappa x2 points 4096-6143 in 1163 s (5/8)
+    COMP_I1_negfeedback/n4 finished in 769s
+[ 2671.7 min] COMP_I1_negfeedback n4 kappa x2 points 14336-16383 in 769 s (6/8)
+    I1_miRNA_FFL/n4 finished in 599s
+[ 2672.8 min] I1_miRNA_FFL n4 gx x0.5 points 0-2047 in 599 s (1/8)
+    I1_miRNA_FFL/n4 finished in 607s
+[ 2673.1 min] I1_miRNA_FFL n4 gx x0.5 points 2048-4095 in 607 s (2/8)
+    I1_miRNA_FFL/n4 finished in 600s
+[ 2673.8 min] I1_miRNA_FFL n4 gx x0.5 points 6144-8191 in 600 s (3/8)
+    COMP_I1_negfeedback/n4 finished in 1237s
+[ 2676.1 min] COMP_I1_negfeedback n4 kappa x2 points 8192-10239 in 1237 s (7/8)
+    COMP_I1_negfeedback/n4 finished in 1251s
+[ 2678.7 min] COMP_I1_negfeedback n4 kappa x2 points 12288-14335 in 1251 s (8/8)
+  written COMP_I1_negfeedback__n4__kappa__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 594s
+[ 2678.8 min] I1_miRNA_FFL n4 gx x0.5 points 10240-12287 in 594 s (4/8)
+    I1_miRNA_FFL/n4 finished in 974s
+[ 2680.0 min] I1_miRNA_FFL n4 gx x0.5 points 4096-6143 in 974 s (5/8)
+    I1_miRNA_FFL/n4 finished in 975s
+[ 2680.3 min] I1_miRNA_FFL n4 gx x0.5 points 8192-10239 in 975 s (6/8)
+    I1_miRNA_FFL/n4 finished in 596s
+[ 2681.6 min] I1_miRNA_FFL n4 gx x0.5 points 14336-16383 in 596 s (7/8)
+    I1_miRNA_FFL/n4 finished in 597s
+[ 2682.8 min] I1_miRNA_FFL n4 gx x2 points 0-2047 in 597 s (1/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2683.1 min] I1_miRNA_FFL n4 gx x2 points 2048-4095 in 601 s (2/8)
+    I1_miRNA_FFL/n4 finished in 902s
+[ 2684.5 min] I1_miRNA_FFL n4 gx x0.5 points 12288-14335 in 902 s (8/8)
+  written I1_miRNA_FFL__n4__gx__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 781s
+[ 2686.8 min] I1_miRNA_FFL n4 gx x2 points 4096-6143 in 781 s (3/8)
+    I1_miRNA_FFL/n4 finished in 650s
+[ 2687.0 min] I1_miRNA_FFL n4 gx x2 points 6144-8191 in 650 s (4/8)
+    I1_miRNA_FFL/n4 finished in 597s
+[ 2688.7 min] I1_miRNA_FFL n4 gx x2 points 8192-10239 in 597 s (5/8)
+    I1_miRNA_FFL/n4 finished in 762s
+[ 2694.3 min] I1_miRNA_FFL n4 gp x0.5 points 0-2047 in 762 s (1/8)
+    I1_miRNA_FFL/n4 finished in 965s
+[ 2694.9 min] I1_miRNA_FFL n4 gx x2 points 10240-12287 in 965 s (6/8)
+    I1_miRNA_FFL/n4 finished in 759s
+[ 2695.4 min] I1_miRNA_FFL n4 gp x0.5 points 2048-4095 in 759 s (2/8)
+    I1_miRNA_FFL/n4 finished in 771s
+[ 2695.9 min] I1_miRNA_FFL n4 gp x0.5 points 4096-6143 in 771 s (3/8)
+    I1_miRNA_FFL/n4 finished in 967s
+[ 2696.1 min] I1_miRNA_FFL n4 gx x2 points 12288-14335 in 967 s (7/8)
+    I1_miRNA_FFL/n4 finished in 967s
+[ 2696.4 min] I1_miRNA_FFL n4 gx x2 points 14336-16383 in 967 s (8/8)
+  written I1_miRNA_FFL__n4__gx__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 756s
+[ 2699.6 min] I1_miRNA_FFL n4 gp x0.5 points 10240-12287 in 756 s (4/8)
+    I1_miRNA_FFL/n4 finished in 760s
+[ 2701.4 min] I1_miRNA_FFL n4 gp x0.5 points 12288-14335 in 760 s (5/8)
+    I1_miRNA_FFL/n4 finished in 469s
+[ 2703.2 min] I1_miRNA_FFL n4 gp x2 points 2048-4095 in 469 s (1/8)
+    I1_miRNA_FFL/n4 finished in 1138s
+[ 2703.4 min] I1_miRNA_FFL n4 gp x0.5 points 6144-8191 in 1138 s (6/8)
+    I1_miRNA_FFL/n4 finished in 471s
+[ 2703.8 min] I1_miRNA_FFL n4 gp x2 points 4096-6143 in 471 s (2/8)
+    I1_miRNA_FFL/n4 finished in 756s
+[ 2706.9 min] I1_miRNA_FFL n4 gp x0.5 points 14336-16383 in 756 s (7/8)
+    I1_miRNA_FFL/n4 finished in 1228s
+[ 2707.2 min] I1_miRNA_FFL n4 gp x0.5 points 8192-10239 in 1228 s (8/8)
+  written I1_miRNA_FFL__n4__gp__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 467s
+[ 2707.4 min] I1_miRNA_FFL n4 gp x2 points 10240-12287 in 467 s (3/8)
+    I1_miRNA_FFL/n4 finished in 779s
+[ 2707.9 min] I1_miRNA_FFL n4 gp x2 points 0-2047 in 779 s (4/8)
+    I1_miRNA_FFL/n4 finished in 767s
+[ 2708.8 min] I1_miRNA_FFL n4 gp x2 points 6144-8191 in 767 s (5/8)
+    I1_miRNA_FFL/n4 finished in 468s
+[ 2709.2 min] I1_miRNA_FFL n4 gp x2 points 12288-14335 in 468 s (6/8)
+    I1_miRNA_FFL/n4 finished in 771s
+[ 2709.3 min] I1_miRNA_FFL n4 gp x2 points 8192-10239 in 771 s (7/8)
+    I1_miRNA_FFL/n4 finished in 469s
+[ 2711.1 min] I1_miRNA_FFL n4 gp x2 points 14336-16383 in 469 s (8/8)
+  written I1_miRNA_FFL__n4__gp__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 612s
+[ 2714.0 min] I1_miRNA_FFL n4 KS x0.5 points 2048-4095 in 612 s (1/8)
+    I1_miRNA_FFL/n4 finished in 602s
+[ 2716.9 min] I1_miRNA_FFL n4 KS x0.5 points 4096-6143 in 602 s (2/8)
+    I1_miRNA_FFL/n4 finished in 919s
+[ 2718.8 min] I1_miRNA_FFL n4 KS x0.5 points 0-2047 in 919 s (3/8)
+    I1_miRNA_FFL/n4 finished in 605s
+[ 2719.2 min] I1_miRNA_FFL n4 KS x0.5 points 14336-16383 in 605 s (4/8)
+    I1_miRNA_FFL/n4 finished in 716s
+[ 2719.3 min] I1_miRNA_FFL n4 KS x0.5 points 8192-10239 in 716 s (5/8)
+    I1_miRNA_FFL/n4 finished in 770s
+[ 2720.1 min] I1_miRNA_FFL n4 KS x0.5 points 6144-8191 in 770 s (6/8)
+    I1_miRNA_FFL/n4 finished in 579s
+[ 2720.7 min] I1_miRNA_FFL n4 KS x2 points 2048-4095 in 579 s (1/8)
+    I1_miRNA_FFL/n4 finished in 588s
+[ 2723.8 min] I1_miRNA_FFL n4 KS x2 points 4096-6143 in 588 s (2/8)
+    I1_miRNA_FFL/n4 finished in 978s
+[ 2724.2 min] I1_miRNA_FFL n4 KS x0.5 points 10240-12287 in 978 s (7/8)
+    I1_miRNA_FFL/n4 finished in 964s
+[ 2725.4 min] I1_miRNA_FFL n4 KS x2 points 0-2047 in 964 s (3/8)
+    I1_miRNA_FFL/n4 finished in 991s
+[ 2725.4 min] I1_miRNA_FFL n4 KS x0.5 points 12288-14335 in 991 s (8/8)
+  written I1_miRNA_FFL__n4__KS__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 701s
+[ 2728.6 min] I1_miRNA_FFL n4 KS x2 points 6144-8191 in 701 s (4/8)
+    I1_miRNA_FFL/n4 finished in 580s
+[ 2728.9 min] I1_miRNA_FFL n4 KS x2 points 10240-12287 in 580 s (5/8)
+    I1_miRNA_FFL/n4 finished in 670s
+[ 2730.4 min] I1_miRNA_FFL n4 KS x2 points 12288-14335 in 670 s (6/8)
+    I1_miRNA_FFL/n4 finished in 608s
+[ 2730.8 min] I1_miRNA_FFL n4 Kxy x0.5 points 0-2047 in 608 s (1/8)
+    I1_miRNA_FFL/n4 finished in 754s
+[ 2732.6 min] I1_miRNA_FFL n4 KS x2 points 14336-16383 in 754 s (7/8)
+    I1_miRNA_FFL/n4 finished in 881s
+[ 2733.4 min] I1_miRNA_FFL n4 KS x2 points 8192-10239 in 881 s (8/8)
+  written I1_miRNA_FFL__n4__KS__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 615s
+[ 2734.0 min] I1_miRNA_FFL n4 Kxy x0.5 points 2048-4095 in 615 s (2/8)
+    I1_miRNA_FFL/n4 finished in 612s
+[ 2735.6 min] I1_miRNA_FFL n4 Kxy x0.5 points 8192-10239 in 612 s (3/8)
+    I1_miRNA_FFL/n4 finished in 607s
+[ 2739.0 min] I1_miRNA_FFL n4 Kxy x0.5 points 12288-14335 in 607 s (4/8)
+    I1_miRNA_FFL/n4 finished in 573s
+[ 2740.4 min] I1_miRNA_FFL n4 Kxy x2 points 0-2047 in 573 s (1/8)
+    I1_miRNA_FFL/n4 finished in 982s
+[ 2740.6 min] I1_miRNA_FFL n4 Kxy x0.5 points 4096-6143 in 982 s (5/8)
+    I1_miRNA_FFL/n4 finished in 607s
+[ 2740.6 min] I1_miRNA_FFL n4 Kxy x0.5 points 14336-16383 in 607 s (6/8)
+    I1_miRNA_FFL/n4 finished in 987s
+[ 2741.8 min] I1_miRNA_FFL n4 Kxy x0.5 points 6144-8191 in 987 s (7/8)
+    I1_miRNA_FFL/n4 finished in 579s
+[ 2743.7 min] I1_miRNA_FFL n4 Kxy x2 points 6144-8191 in 579 s (2/8)
+    I1_miRNA_FFL/n4 finished in 974s
+[ 2744.8 min] I1_miRNA_FFL n4 Kxy x0.5 points 10240-12287 in 974 s (8/8)
+  written I1_miRNA_FFL__n4__Kxy__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 572s
+[ 2745.1 min] I1_miRNA_FFL n4 Kxy x2 points 8192-10239 in 572 s (3/8)
+    I1_miRNA_FFL/n4 finished in 868s
+[ 2747.9 min] I1_miRNA_FFL n4 Kxy x2 points 4096-6143 in 868 s (4/8)
+    I1_miRNA_FFL/n4 finished in 932s
+[ 2748.2 min] I1_miRNA_FFL n4 Kxy x2 points 2048-4095 in 932 s (5/8)
+    I1_miRNA_FFL/n4 finished in 570s
+[ 2748.5 min] I1_miRNA_FFL n4 Kxy x2 points 10240-12287 in 570 s (6/8)
+    I1_miRNA_FFL/n4 finished in 570s
+[ 2749.9 min] I1_miRNA_FFL n4 Kxy x2 points 12288-14335 in 570 s (7/8)
+    I1_miRNA_FFL/n4 finished in 588s
+[ 2750.4 min] I1_miRNA_FFL n4 Kmy x0.5 points 0-2047 in 588 s (1/8)
+    I1_miRNA_FFL/n4 finished in 596s
+[ 2753.6 min] I1_miRNA_FFL n4 Kmy x0.5 points 4096-6143 in 596 s (2/8)
+    I1_miRNA_FFL/n4 finished in 589s
+[ 2754.9 min] I1_miRNA_FFL n4 Kmy x0.5 points 8192-10239 in 589 s (3/8)
+    I1_miRNA_FFL/n4 finished in 922s
+[ 2755.9 min] I1_miRNA_FFL n4 Kxy x2 points 14336-16383 in 922 s (8/8)
+  written I1_miRNA_FFL__n4__Kxy__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 960s
+[ 2757.8 min] I1_miRNA_FFL n4 Kmy x0.5 points 2048-4095 in 960 s (4/8)
+    I1_miRNA_FFL/n4 finished in 586s
+[ 2758.3 min] I1_miRNA_FFL n4 Kmy x0.5 points 14336-16383 in 586 s (5/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2759.9 min] I1_miRNA_FFL n4 Kmy x2 points 0-2047 in 601 s (1/8)
+    I1_miRNA_FFL/n4 finished in 607s
+[ 2760.5 min] I1_miRNA_FFL n4 Kmy x2 points 2048-4095 in 607 s (2/8)
+    I1_miRNA_FFL/n4 finished in 948s
+[ 2760.6 min] I1_miRNA_FFL n4 Kmy x0.5 points 6144-8191 in 948 s (6/8)
+    I1_miRNA_FFL/n4 finished in 887s
+[ 2762.7 min] I1_miRNA_FFL n4 Kmy x0.5 points 10240-12287 in 887 s (7/8)
+    I1_miRNA_FFL/n4 finished in 599s
+[ 2763.6 min] I1_miRNA_FFL n4 Kmy x2 points 4096-6143 in 599 s (3/8)
+    I1_miRNA_FFL/n4 finished in 958s
+[ 2764.1 min] I1_miRNA_FFL n4 Kmy x0.5 points 12288-14335 in 958 s (8/8)
+  written I1_miRNA_FFL__n4__Kmy__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 605s
+[ 2765.0 min] I1_miRNA_FFL n4 Kmy x2 points 6144-8191 in 605 s (4/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2768.3 min] I1_miRNA_FFL n4 Kmy x2 points 12288-14335 in 601 s (5/8)
+    I1_miRNA_FFL/n4 finished in 599s
+[ 2769.9 min] I1_miRNA_FFL n4 Kmy x2 points 14336-16383 in 599 s (6/8)
+    I1_miRNA_FFL/n4 finished in 593s
+[ 2770.4 min] I1_miRNA_FFL n4 Kmp x0.5 points 0-2047 in 593 s (1/8)
+    I1_miRNA_FFL/n4 finished in 972s
+[ 2772.1 min] I1_miRNA_FFL n4 Kmy x2 points 8192-10239 in 972 s (7/8)
+    I1_miRNA_FFL/n4 finished in 580s
+[ 2773.3 min] I1_miRNA_FFL n4 Kmp x0.5 points 6144-8191 in 580 s (2/8)
+    I1_miRNA_FFL/n4 finished in 979s
+[ 2774.1 min] I1_miRNA_FFL n4 Kmy x2 points 10240-12287 in 979 s (8/8)
+  written I1_miRNA_FFL__n4__Kmy__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 585s
+[ 2774.8 min] I1_miRNA_FFL n4 Kmp x0.5 points 10240-12287 in 585 s (3/8)
+    I1_miRNA_FFL/n4 finished in 943s
+[ 2776.4 min] I1_miRNA_FFL n4 Kmp x0.5 points 2048-4095 in 943 s (4/8)
+    I1_miRNA_FFL/n4 finished in 883s
+[ 2777.4 min] I1_miRNA_FFL n4 Kmp x0.5 points 4096-6143 in 883 s (5/8)
+    I1_miRNA_FFL/n4 finished in 581s
+[ 2778.0 min] I1_miRNA_FFL n4 Kmp x0.5 points 12288-14335 in 581 s (6/8)
+    I1_miRNA_FFL/n4 finished in 580s
+[ 2779.6 min] I1_miRNA_FFL n4 Kmp x0.5 points 14336-16383 in 580 s (7/8)
+    I1_miRNA_FFL/n4 finished in 948s
+[ 2779.9 min] I1_miRNA_FFL n4 Kmp x0.5 points 8192-10239 in 948 s (8/8)
+  written I1_miRNA_FFL__n4__Kmp__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 615s
+[ 2780.6 min] I1_miRNA_FFL n4 Kmp x2 points 0-2047 in 615 s (1/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2783.3 min] I1_miRNA_FFL n4 Kmp x2 points 4096-6143 in 601 s (2/8)
+    I1_miRNA_FFL/n4 finished in 668s
+[ 2785.9 min] I1_miRNA_FFL n4 Kmp x2 points 8192-10239 in 668 s (3/8)
+    I1_miRNA_FFL/n4 finished in 604s
+[ 2788.0 min] I1_miRNA_FFL n4 Kmp x2 points 14336-16383 in 604 s (4/8)
+    I1_miRNA_FFL/n4 finished in 974s
+[ 2788.4 min] I1_miRNA_FFL n4 Kmp x2 points 2048-4095 in 974 s (5/8)
+    I1_miRNA_FFL/n4 finished in 756s
+[ 2789.0 min] I1_miRNA_FFL n4 Kmp x2 points 10240-12287 in 756 s (6/8)
+    I1_miRNA_FFL/n4 finished in 604s
+[ 2789.6 min] I1_miRNA_FFL n4 lam_y x0.5 points 0-2047 in 604 s (1/8)
+    I1_miRNA_FFL/n4 finished in 980s
+[ 2790.5 min] I1_miRNA_FFL n4 Kmp x2 points 6144-8191 in 980 s (7/8)
+    I1_miRNA_FFL/n4 finished in 608s
+[ 2790.8 min] I1_miRNA_FFL n4 lam_y x0.5 points 4096-6143 in 608 s (2/8)
+    I1_miRNA_FFL/n4 finished in 912s
+[ 2792.6 min] I1_miRNA_FFL n4 Kmp x2 points 12288-14335 in 912 s (8/8)
+  written I1_miRNA_FFL__n4__Kmp__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 599s
+[ 2793.3 min] I1_miRNA_FFL n4 lam_y x0.5 points 6144-8191 in 599 s (3/8)
+    I1_miRNA_FFL/n4 finished in 976s
+[ 2796.2 min] I1_miRNA_FFL n4 lam_y x0.5 points 2048-4095 in 976 s (4/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2798.1 min] I1_miRNA_FFL n4 lam_y x0.5 points 10240-12287 in 601 s (5/8)
+    I1_miRNA_FFL/n4 finished in 602s
+[ 2799.0 min] I1_miRNA_FFL n4 lam_y x0.5 points 14336-16383 in 602 s (6/8)
+    I1_miRNA_FFL/n4 finished in 584s
+[ 2799.4 min] I1_miRNA_FFL n4 lam_y x2 points 0-2047 in 584 s (1/8)
+    I1_miRNA_FFL/n4 finished in 593s
+[ 2800.6 min] I1_miRNA_FFL n4 lam_y x2 points 4096-6143 in 593 s (2/8)
+    I1_miRNA_FFL/n4 finished in 985s
+[ 2802.3 min] I1_miRNA_FFL n4 lam_y x0.5 points 8192-10239 in 985 s (7/8)
+    I1_miRNA_FFL/n4 finished in 583s
+[ 2803.0 min] I1_miRNA_FFL n4 lam_y x2 points 8192-10239 in 583 s (3/8)
+    I1_miRNA_FFL/n4 finished in 989s
+[ 2804.8 min] I1_miRNA_FFL n4 lam_y x0.5 points 12288-14335 in 989 s (8/8)
+  written I1_miRNA_FFL__n4__lam_y__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 953s
+[ 2806.4 min] I1_miRNA_FFL n4 lam_y x2 points 2048-4095 in 953 s (4/8)
+    I1_miRNA_FFL/n4 finished in 881s
+[ 2807.3 min] I1_miRNA_FFL n4 lam_y x2 points 6144-8191 in 881 s (5/8)
+    I1_miRNA_FFL/n4 finished in 584s
+[ 2807.8 min] I1_miRNA_FFL n4 lam_y x2 points 12288-14335 in 584 s (6/8)
+    I1_miRNA_FFL/n4 finished in 582s
+[ 2808.7 min] I1_miRNA_FFL n4 lam_y x2 points 14336-16383 in 582 s (7/8)
+    I1_miRNA_FFL/n4 finished in 589s
+[ 2809.2 min] I1_miRNA_FFL n4 theta x0.5 points 0-2047 in 589 s (1/8)
+    I1_miRNA_FFL/n4 finished in 597s
+[ 2810.6 min] I1_miRNA_FFL n4 theta x0.5 points 2048-4095 in 597 s (2/8)
+    I1_miRNA_FFL/n4 finished in 948s
+[ 2812.0 min] I1_miRNA_FFL n4 lam_y x2 points 10240-12287 in 948 s (8/8)
+  written I1_miRNA_FFL__n4__lam_y__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 788s
+[ 2816.1 min] I1_miRNA_FFL n4 theta x0.5 points 6144-8191 in 788 s (3/8)
+    I1_miRNA_FFL/n4 finished in 592s
+[ 2817.7 min] I1_miRNA_FFL n4 theta x0.5 points 14336-16383 in 592 s (4/8)
+    I1_miRNA_FFL/n4 finished in 972s
+[ 2818.5 min] I1_miRNA_FFL n4 theta x0.5 points 4096-6143 in 972 s (5/8)
+    I1_miRNA_FFL/n4 finished in 603s
+[ 2818.7 min] I1_miRNA_FFL n4 theta x2 points 0-2047 in 603 s (1/8)
+    I1_miRNA_FFL/n4 finished in 599s
+[ 2819.2 min] I1_miRNA_FFL n4 theta x2 points 2048-4095 in 599 s (2/8)
+    I1_miRNA_FFL/n4 finished in 606s
+[ 2820.7 min] I1_miRNA_FFL n4 theta x2 points 4096-6143 in 606 s (3/8)
+    I1_miRNA_FFL/n4 finished in 971s
+[ 2821.0 min] I1_miRNA_FFL n4 theta x0.5 points 8192-10239 in 971 s (6/8)
+    I1_miRNA_FFL/n4 finished in 953s
+[ 2822.2 min] I1_miRNA_FFL n4 theta x0.5 points 10240-12287 in 953 s (7/8)
+    I1_miRNA_FFL/n4 finished in 948s
+[ 2823.1 min] I1_miRNA_FFL n4 theta x0.5 points 12288-14335 in 948 s (8/8)
+  written I1_miRNA_FFL__n4__theta__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 503s
+[ 2827.5 min] I1_miRNA_FFL n4 kappa x0.5 points 0-2047 in 503 s (1/8)
+    I1_miRNA_FFL/n4 finished in 600s
+[ 2827.7 min] I1_miRNA_FFL n4 theta x2 points 10240-12287 in 600 s (4/8)
+    I1_miRNA_FFL/n4 finished in 977s
+[ 2828.3 min] I1_miRNA_FFL n4 theta x2 points 6144-8191 in 977 s (5/8)
+    I1_miRNA_FFL/n4 finished in 601s
+[ 2828.8 min] I1_miRNA_FFL n4 theta x2 points 14336-16383 in 601 s (6/8)
+    I1_miRNA_FFL/n4 finished in 510s
+[ 2829.2 min] I1_miRNA_FFL n4 kappa x0.5 points 2048-4095 in 510 s (2/8)
+    I1_miRNA_FFL/n4 finished in 611s
+[ 2831.2 min] I1_miRNA_FFL n4 kappa x0.5 points 4096-6143 in 611 s (3/8)
+    I1_miRNA_FFL/n4 finished in 969s
+[ 2832.3 min] I1_miRNA_FFL n4 theta x2 points 8192-10239 in 969 s (7/8)
+    I1_miRNA_FFL/n4 finished in 940s
+[ 2834.2 min] I1_miRNA_FFL n4 theta x2 points 12288-14335 in 940 s (8/8)
+  written I1_miRNA_FFL__n4__theta__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 499s
+[ 2835.8 min] I1_miRNA_FFL n4 kappa x0.5 points 10240-12287 in 499 s (4/8)
+    I1_miRNA_FFL/n4 finished in 826s
+[ 2836.0 min] I1_miRNA_FFL n4 kappa x0.5 points 6144-8191 in 826 s (5/8)
+    I1_miRNA_FFL/n4 finished in 502s
+[ 2836.0 min] I1_miRNA_FFL n4 kappa x0.5 points 12288-14335 in 502 s (6/8)
+    I1_miRNA_FFL/n4 finished in 815s
+[ 2836.7 min] I1_miRNA_FFL n4 kappa x0.5 points 8192-10239 in 815 s (7/8)
+    I1_miRNA_FFL/n4 finished in 723s
+[ 2840.8 min] I1_miRNA_FFL n4 kappa x2 points 0-2047 in 723 s (1/8)
+    I1_miRNA_FFL/n4 finished in 727s
+[ 2841.3 min] I1_miRNA_FFL n4 kappa x2 points 2048-4095 in 727 s (2/8)
+    I1_miRNA_FFL/n4 finished in 823s
+[ 2842.0 min] I1_miRNA_FFL n4 kappa x0.5 points 14336-16383 in 823 s (8/8)
+  written I1_miRNA_FFL__n4__kappa__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 726s
+[ 2843.3 min] I1_miRNA_FFL n4 kappa x2 points 4096-6143 in 726 s (3/8)
+    I1_miRNA_FFL/n4 finished in 718s
+[ 2847.8 min] I1_miRNA_FFL n4 kappa x2 points 10240-12287 in 718 s (4/8)
+    I1_miRNA_FFL/n4 finished in 721s
+[ 2848.1 min] I1_miRNA_FFL n4 kappa x2 points 14336-16383 in 721 s (5/8)
+    I1_miRNA_FFL/n4 finished in 609s
+[ 2851.0 min] I1_miRNA_FFL n4 Kg12 x0.5 points 2048-4095 in 609 s (1/8)
+    I1_miRNA_FFL/n4 finished in 1150s
+[ 2851.4 min] I1_miRNA_FFL n4 kappa x2 points 6144-8191 in 1150 s (6/8)
+    I1_miRNA_FFL/n4 finished in 619s
+[ 2851.6 min] I1_miRNA_FFL n4 Kg12 x0.5 points 4096-6143 in 619 s (2/8)
+    I1_miRNA_FFL/n4 finished in 1077s
+[ 2852.1 min] I1_miRNA_FFL n4 kappa x2 points 8192-10239 in 1077 s (7/8)
+    I1_miRNA_FFL/n4 finished in 964s
+[ 2852.8 min] I1_miRNA_FFL n4 Kg12 x0.5 points 0-2047 in 964 s (3/8)
+    I1_miRNA_FFL/n4 finished in 616s
+[ 2853.6 min] I1_miRNA_FFL n4 Kg12 x0.5 points 8192-10239 in 616 s (4/8)
+    I1_miRNA_FFL/n4 finished in 1166s
+[ 2855.4 min] I1_miRNA_FFL n4 kappa x2 points 12288-14335 in 1166 s (8/8)
+  written I1_miRNA_FFL__n4__kappa__x2.csv.gz
+    I1_miRNA_FFL/n4 finished in 609s
+[ 2858.0 min] I1_miRNA_FFL n4 Kg12 x0.5 points 10240-12287 in 609 s (5/8)
+    I1_miRNA_FFL/n4 finished in 614s
+[ 2858.3 min] I1_miRNA_FFL n4 Kg12 x0.5 points 12288-14335 in 614 s (6/8)
+    I1_miRNA_FFL/n4 finished in 995s
+[ 2858.6 min] I1_miRNA_FFL n4 Kg12 x0.5 points 6144-8191 in 995 s (7/8)
+    I1_miRNA_FFL/n4 finished in 590s
+[ 2861.3 min] I1_miRNA_FFL n4 Kg12 x2 points 0-2047 in 590 s (1/8)
+    I1_miRNA_FFL/n4 finished in 567s
+[ 2862.2 min] I1_miRNA_FFL n4 Kg12 x2 points 6144-8191 in 567 s (2/8)
+    I1_miRNA_FFL/n4 finished in 571s
+[ 2863.1 min] I1_miRNA_FFL n4 Kg12 x2 points 8192-10239 in 571 s (3/8)
+    I1_miRNA_FFL/n4 finished in 783s
+[ 2864.7 min] I1_miRNA_FFL n4 Kg12 x2 points 2048-4095 in 783 s (4/8)
+    I1_miRNA_FFL/n4 finished in 825s
+[ 2864.7 min] I1_miRNA_FFL n4 Kg12 x0.5 points 14336-16383 in 825 s (8/8)
+  written I1_miRNA_FFL__n4__Kg12__x0.5.csv.gz
+    I1_miRNA_FFL/n4 finished in 775s
+[ 2865.0 min] I1_miRNA_FFL n4 Kg12 x2 points 4096-6143 in 775 s (5/8)
+    I1_miRNA_FFL/n4 finished in 636s
+[ 2866.0 min] I1_miRNA_FFL n4 Kg12 x2 points 10240-12287 in 636 s (6/8)
+    I1_miRNA_FFL/n4 finished in 561s
+[ 2867.3 min] I1_miRNA_FFL n4 Kg12 x2 points 12288-14335 in 561 s (7/8)
+    I1_miRNA_FFL/n4 finished in 563s
+[ 2867.7 min] I1_miRNA_FFL n4 Kg12 x2 points 14336-16383 in 563 s (8/8)
+  written I1_miRNA_FFL__n4__Kg12__x2.csv.gz
+ALL_DONE in 47.79 h

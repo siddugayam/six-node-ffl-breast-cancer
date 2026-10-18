@@ -1,0 +1,16 @@
+family,module,n_acting,acting,not_acting
+I1_miRNA_FFL,n3,16,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmy;nmy;Kmp;nmp;lam_y;theta;Kc,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;lam_x;b;rho;phi;rho_g2;kappa;w2;Kg12;ng12
+I1_miRNA_FFL,n4,21,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmy;nmy;Kmp;nmp;lam_y;theta;Kc;rho_g2;kappa;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;lam_x;b;rho;phi
+I1_miRNA_FFL,n5,24,gx;gm;gp;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kmy;nmy;Kmp;nmp;lam_y;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,gx2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;lam_x;b
+I1_miRNA_FFL,n6,31,gx;gm;gp;gx2;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmy;nmy;Kmp;nmp;lam_y;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,Kmx;nmx;lam_x;b
+I1_miRNA_FFL,n4d,19,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmy;nmy;Kmp;nmp;lam_y;theta;Kc;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;lam_x;b;rho;phi;rho_g2;kappa
+COMP_C2_toggle,n3,19,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi;rho_g2;kappa;w2;Kg12;ng12
+COMP_C2_toggle,n4,24,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho_g2;kappa;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi
+COMP_C2_toggle,n5,27,gx;gm;gp;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,gx2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b
+COMP_C2_toggle,n6,34,gx;gm;gp;gx2;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,b
+COMP_C2_toggle,n4d,22,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi;rho_g2;kappa
+COMP_I1_negfeedback,n3,19,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi;rho_g2;kappa;w2;Kg12;ng12
+COMP_I1_negfeedback,n4,24,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho_g2;kappa;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi
+COMP_I1_negfeedback,n5,27,gx;gm;gp;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,gx2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b
+COMP_I1_negfeedback,n6,34,gx;gm;gp;gx2;gm2;KS;nS;Kxm;nxm;Kxy;nxy;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;rho;phi;rho_g2;kappa;w2;Kg12;ng12,b
+COMP_I1_negfeedback,n4d,22,gx;gm;gp;KS;nS;Kxm;nxm;Kxy;nxy;Kmx;nmx;Kmy;nmy;Kmp;nmp;lam_y;lam_x;theta;Kc;w2;Kg12;ng12,gx2;gm2;Kx2y;nx2y;Kx2m;nx2m;Kx12;nx12;b;rho;phi;rho_g2;kappa
