@@ -105,9 +105,9 @@ dom <- c("T_topology","E_evidence","D_expression","R_replication","M_multiomic",
 P[, n_domains := rowSums(!is.na(.SD)), .SDcols=dom]
 P[, priority  := rowMeans(.SD, na.rm=TRUE), .SDcols=dom]
 P[n_domains < 3, priority := NA]                      # require >=3 domains to be rankable
-setorder(P, -priority)
-P[, rank_overall := seq_len(.N)]
-P[, rank_within_type := seq_len(.N), by=type]
+setorder(P, -priority, na.last=TRUE)                 # unrankable nodes last, without a rank
+P[!is.na(priority), rank_overall := seq_len(.N)]
+P[!is.na(priority), rank_within_type := seq_len(.N), by=type]
 fwrite(P, file.path(R5,"node_prioritisation_full.csv"))
 lg("wrote node_prioritisation_full.csv:", nrow(P), "nodes;", sum(!is.na(P$priority)), "rankable")
 
