@@ -38,6 +38,7 @@ b <- fread(file.path(REV,"results/tissue_and_cohorts/fig3b_six_node_pattern.csv"
 setnames(b, "ratio_observed_over_null_mean", "ratio")
 b[, sig := p_upper < 0.05]
 b[, variant := sub("topological-definition six-node modules", "six-node modules of the topological definition", variant)]
+b[, variant := gsub("gene-gene", "gene–gene", variant, fixed=TRUE)]   # en dash, as in the text
 b[, null := factor(fcase(null=="NULL-C","Bipartite-layer null", null=="NULL-L","Core-conditional null"),
                       levels=c("Bipartite-layer null","Core-conditional null"))]
 lv <- b[, .(row_order=unique(row_order)), by=variant][order(-row_order)]$variant

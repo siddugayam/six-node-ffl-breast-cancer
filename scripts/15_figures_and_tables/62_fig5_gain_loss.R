@@ -31,8 +31,9 @@ panel <- function(fam, title, tag, show_y) {
   ggplot(bars[family == fam]) +
     geom_rect(aes(xmin = xmin, xmax = xmax, ymin = ymin, ymax = ymax, fill = key)) +
     geom_vline(xintercept = 0, colour = INK, linewidth = 0.5) +
-    scale_fill_manual(values = cols, breaks = c("gain.n4","gain.n5","gain.n6"),
-                      labels = c("4-node","5-node","6-node"), name = "module") +
+    scale_fill_manual(values = cols, breaks = c("gain.n4","gain.n5","gain.n6","loss.n4","loss.n5","loss.n6"),
+                      labels = c("4-node, gained","5-node, gained","6-node, gained","4-node, lost","5-node, lost","6-node, lost"),
+                      name = "module", guide = guide_legend(nrow = 2, byrow = TRUE)) +   # gained and lost shades both in the key
     scale_y_reverse(breaks = seq_along(beh), labels = if (show_y) blab else NULL,
                     expand = expansion(add = 0.3)) +
     scale_x_continuous(limits = c(-21, 38), breaks = seq(-20, 30, 10),

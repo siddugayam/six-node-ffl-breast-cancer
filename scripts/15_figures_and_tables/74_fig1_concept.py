@@ -115,7 +115,8 @@ rect(2, ly - 3.6, 170, 9.4, stroke=COL["light"], fill="#FAFAFA", sw=0.25)
 node("tf", 6, ly + 0.4); text(9, ly + 1.4, "TF", size=2.85)
 node("mirna", 16, ly + 0.4); text(19.5, ly + 1.4, "miRNA", size=2.85)
 node("gene", 32, ly + 0.4); text(35.2, ly + 1.4, "gene", size=2.85)
-edge((44, ly + 0.4), (51, ly + 0.4), "plain", "plain", COL["tf_tgt"], "arrow"); text(53, ly + 1.4, "activation", size=2.85)
+edge((44, ly - 0.9), (51, ly - 0.9), "plain", "plain", COL["tf_tgt"], "arrow")   # TF -> target
+edge((44, ly + 1.7), (51, ly + 1.7), "plain", "plain", COL["tf_mir"], "arrow"); text(53, ly + 1.4, "activation", size=2.85)   # TF -> miRNA, as in panel b and Fig. 2
 edge((70, ly + 0.4), (77, ly + 0.4), "plain", "plain", COL["mir_tgt"], "bar"); text(79, ly + 1.4, "repression by miRNA", size=2.85)
 edge((108, ly + 0.4), (115, ly + 0.4), "plain", "plain", COL["mm"], "none", sw=0.8); text(117, ly + 1.4, "co-clustered pair", size=2.85)
 edge((142, ly + 0.4), (149, ly + 0.4), "plain", "plain", COL["gg"], "arrow", sw=0.7); text(151, ly + 1.4, "gene–gene", size=2.85)

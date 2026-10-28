@@ -27,26 +27,43 @@ read_sif <- function(pfx) {
 ECOL <- c(`TF → target`=EPAL[["TF_target"]], `TF → miRNA`=EPAL[["TF_miRNA"]], `miRNA ⊣ target`=EPAL[["miRNA_target"]],
           `miRNA–miRNA (exemplar)`=EPAL[["miRNA_miRNA"]], `gene → gene`=EPAL[["gene_gene"]])
 
-panel <- function(pfx, title, sub) {
+label_layer <- function(lay) {
+  # fixed label positions (no repulsion); the white halo keeps a crossing edge from running through the text
+  d <- as.data.frame(lay)[, c("lx","ly","hj","vj","short","type")]
+  d$face <- ifelse(d$type=="miRNA", "plain", "italic")
+  ggrepel::geom_text_repel(data=d, aes(x=lx, y=ly, label=short, hjust=hj, vjust=vj, fontface=face), size=TXT,
+                           bg.colour="white", bg.r=0.16, inherit.aes=FALSE, force=0, force_pull=0, max.iter=0,
+                           point.size=NA, min.segment.length=Inf, seed=7, show.legend=FALSE)
+}
+panel <- function(pfx, title, sub, left=character(0), down=character(0)) {
   d  <- read_sif(pfx)
   vs <- data.table(name=unique(c(d$source,d$target)))
   vs[, type := ntype[name]]
   vs[, short := sub("^hsa-", "", name)]
   g  <- as_tbl_graph(graph_from_data_frame(d[,.(source,target,edge_type,effect)], directed=TRUE, vertices=vs))
   set.seed(7)
-  ggraph(g, layout="sugiyama") +
+  lay <- create_layout(g, layout="sugiyama")
+  dn <- lay$name %in% down   # nodes lowered so that an edge passing behind them stays visible
+  lay$y[dn] <- lay$y[dn] - 0.12*diff(range(lay$y))
+  # labels placed by layer, away from the arrows: above the top layer, below the other layers
+  ytop <- max(lay$y); dx <- diff(range(lay$x)); dy <- diff(range(lay$y))
+  lay$lx <- lay$x; lay$ly <- lay$y - 0.06*dy; lay$hj <- 0.5; lay$vj <- 1
+  top <- lay$y == ytop
+  lay$ly[top] <- lay$y[top] + 0.075*dy; lay$vj[top] <- 0
+  lf <- lay$name %in% left   # labels moved beside the node where the space below is taken
+  lay$lx[lf] <- lay$x[lf] - 0.025*dx; lay$ly[lf] <- lay$y[lf]; lay$hj[lf] <- 1; lay$vj[lf] <- 0.5
+  ggraph(lay) +
     geom_edge_fan(aes(colour=edge_type, linetype=effect), arrow=arrow(length=unit(2.0,"mm"), type="closed"),
                   end_cap=circle(3.4,"mm"), start_cap=circle(3.4,"mm"), width=0.4, alpha=0.9) +
     geom_node_point(aes(fill=type, shape=type), size=4.4, colour="grey15", stroke=0.3) +
-    geom_node_text(aes(label=short, fontface=ifelse(type=="miRNA","plain","italic")), size=TXT, repel=TRUE, max.overlaps=Inf,
-                   bg.colour="white", bg.r=0.16, point.padding=unit(5,"pt"), box.padding=0.35, force=2, max.iter=30000, min.segment.length=unit(4,"pt"),
-                   segment.size=0.16, segment.colour="grey55", seed=7) +
+    label_layer(lay) +
     scale_shape_manual(values=c(TF=21, miRNA=24, Gene=22), limits=c("TF","miRNA","Gene"), name="Node class") +
     scale_fill_manual(values=PAL, limits=c("TF","miRNA","Gene"), name="Node class") +
     scale_edge_colour_manual(values=ECOL, limits=names(ECOL), drop=FALSE, name="Interaction (dashed lines: repression by a miRNA)") +
     scale_edge_linetype_manual(values=c(activate="solid", repress="dashed"), guide="none") +
     guides(edge_colour=guide_legend(order=2, nrow=3, byrow=FALSE, title.position="top", override.aes=list(linewidth=0.8)),
            shape=guide_legend(order=1, title.position="top"), fill=guide_legend(order=1, title.position="top")) +
+    scale_x_continuous(expand=expansion(mult=0.06)) + scale_y_continuous(expand=expansion(mult=0.08)) +
     labs(title=title, subtitle=sub) +
     theme_void(base_size=9.5) +
     theme(plot.title=element_text(size=9.5, face="bold", colour=INK), plot.subtitle=element_text(size=8, colour=MUTED),
@@ -56,7 +73,7 @@ panel <- function(pfx, title, sub) {
 }
 p1 <- panel("4-TF", "four-node circuit", "11 nodes, 18 edges: 4 TFs, 5 miRNAs, 2 genes") + theme(legend.position="none")
 p2 <- panel("5-TF", "five-node circuit", "14 nodes, 41 edges: 3 TFs, 9 miRNAs, 2 genes") + theme(legend.position="none")
-p3 <- panel("6-TF", "six-node circuit", "10 nodes, 30 edges: 3 TFs, 5 miRNAs, 2 genes")
+p3 <- panel("6-TF", "six-node circuit", "10 nodes, 30 edges: 3 TFs, 5 miRNAs, 2 genes", left="hsa-miR-29a", down="NFKB1")
 out <- (p1 / p2 / p3) + plot_layout(heights=c(1, 1.35, 1.05), guides="collect") +
   plot_annotation(tag_levels="a", theme=theme(legend.position="bottom"))
 ggsave(file.path(FIG,"Fig2_exemplar_circuits.png"), out, width=6.85, height=9.0, dpi=600, bg="white", device=ragg::agg_png)
